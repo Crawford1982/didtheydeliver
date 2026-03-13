@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>Did They Deliver? — UK Political Accountability Dashboard</title>
+  <meta name="description" content="Independent UK political accountability dashboard. Live map, real data, neutral framing. NHS, migration, cost of living, PM promises tracked.">
+  <meta name="theme-color" content="#05080c">
+  <meta name="author" content="Did They Deliver">
+  <link rel="canonical" href="https://didtheydeliver.co.uk">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://didtheydeliver.co.uk/">
+  <meta property="og:title" content="Did They Deliver? — UK Political Accountability Dashboard">
+  <meta property="og:description" content="Independent UK political accountability dashboard. Live map, real data, neutral framing. NHS, migration, cost of living, PM promises tracked.">
+  <meta property="og:image" content="https://didtheydeliver.co.uk/img/og.png">
+  <meta property="og:site_name" content="Did They Deliver">
+  <meta property="og:locale" content="en_GB">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Did They Deliver? — UK Political Accountability Dashboard">
+  <meta name="twitter:description" content="Independent UK political accountability dashboard. Live map, real data, neutral framing. NHS, migration, PM promises tracked.">
+  <meta name="twitter:image" content="https://didtheydeliver.co.uk/img/og.png">
+
+  <!-- Preconnect for faster external resources -->
+  <link rel="preconnect" href="https://unpkg.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Bebas+Neue&family=Barlow+Condensed:wght@400;600;700;900&family=Barlow:wght@300;400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div id="app">
+
+<!-- PROMO -->
+<div id="promo">
+  INDEPENDENT · NEUTRAL · FACTUAL &nbsp;·&nbsp;
+  <span>ALL DATA FROM PUBLIC SOURCES:</span>
+  <em>ONS · NHS ENGLAND · PARLIAMENT.UK · MI5 · ELECTORAL COMMISSION</em>
+  <span>· NO PARTY AFFILIATION · NO EDITORIAL BIAS</span>
+</div>
+
+<!-- NAV -->
+<nav id="nav">
+  <div class="logo">DID<em>THEY</em>DELIVER</div>
+  <div class="ndiv"></div>
+  <div class="nlive">LIVE</div>
+  <div class="ndiv"></div>
+  <div class="pm-wrap">
+    <button type="button" class="pm-btn" id="pm-btn" onclick="toggleDrop(event)" aria-expanded="false" aria-haspopup="listbox" aria-label="Select Prime Minister">
+      <span id="pm-btn-txt">KEIR STARMER</span>
+      <span class="arr" aria-hidden="true">▼</span>
+    </button>
+    <div class="pm-drop" id="pm-drop" role="listbox" aria-label="Prime Ministers"></div>
+  </div>
+  <div class="nav-r">
+    <div class="nchip"><div class="nchip-l">Broken Pledges</div><div class="nchip-v" id="nav-broken">—</div></div>
+    <div class="nchip"><div class="nchip-l">NHS Waiting</div><div class="nchip-v">7.54M</div></div>
+    <div class="nchip"><div class="nchip-l">Net Migration</div><div class="nchip-v a">+204K/yr</div></div>
+    <div class="nchip"><div class="nchip-l">CPI Inflation</div><div class="nchip-v g">3.0%</div></div>
+    <div class="nchip"><div class="nchip-l">Avg House Price</div><div class="nchip-v a">£285K</div></div>
+    <div class="threat-chip"><div class="tdot"></div>THREAT: SUBSTANTIAL</div>
+    <div id="nclock">--:--:--</div>
+  </div>
+</nav>
+
+<!-- SITUATION BAR -->
+<div id="sitbar">
+  <div class="sit-l">🇬🇧 UK POLITICAL SITUATION</div>
+  <div class="sit-c" id="sit-dt">LOADING...</div>
+  <div class="sit-r" role="tablist" aria-label="View mode">
+    <button type="button" class="sbtn active" role="tab" aria-selected="true" id="btn-view-map" onclick="switchView('map',this)">MAP</button>
+    <button type="button" class="sbtn" role="tab" aria-selected="false" id="btn-view-data" onclick="switchView('data',this)">DATA</button>
+  </div>
+</div>
+
+<!-- MAIN (map layout) -->
+<div id="main" role="region" aria-label="Map and stats">
+
+  <!-- MOBILE: overlay when sidebar open -->
+  <div class="sidebar-overlay" id="sidebar-overlay" aria-hidden="true" onclick="closeSidebarMobile()"></div>
+  <!-- MOBILE: toggle layers panel -->
+  <button type="button" class="sidebar-toggle" id="sidebar-toggle" aria-label="Toggle map layers" aria-expanded="false" onclick="toggleSidebarMobile()">
+    <span class="st-icon">☰</span>
+    <span class="st-label">Layers</span>
+  </button>
+
+  <!-- LEFT SIDEBAR -->
+  <div id="sidebar" class="sidebar-panel">
+    <div class="sb-hdr">
+      <div class="sb-title">MAP LAYERS</div>
+      <div class="sb-all" onclick="toggleAll()">ALL</div>
+      <button type="button" class="sb-close" id="sidebar-close" aria-label="Close layers" onclick="closeSidebarMobile()">✕</button>
+    </div>
+    <div class="layer-list">
+      <div class="li on" data-lid="parties" onclick="toggleLayer(this)">
+        <div class="li-chk">✓</div><div class="li-dot" style="background:#8899ff"></div>
+        <div class="li-lbl">Party Control</div><div class="li-cnt">650</div>
+      </div>
+      <div class="li on" data-lid="nhs" onclick="toggleLayer(this)">
+        <div class="li-chk">✓</div><div class="li-dot" style="background:#38bdf8"></div>
+        <div class="li-lbl">NHS Data</div><div class="li-cnt">12</div>
+      </div>
+      <div class="li" data-lid="promises" onclick="toggleLayer(this)">
+        <div class="li-chk"></div><div class="li-dot" style="background:var(--red)"></div>
+        <div class="li-lbl">Broken Promises</div><div class="li-cnt">8</div>
+      </div>
+      <div class="li" data-lid="migration" onclick="toggleLayer(this)">
+        <div class="li-chk"></div><div class="li-dot" style="background:var(--amber)"></div>
+        <div class="li-lbl">Migration</div><div class="li-cnt"></div>
+      </div>
+      <div class="li" data-lid="housing" onclick="toggleLayer(this)">
+        <div class="li-chk"></div><div class="li-dot" style="background:#a855f7"></div>
+        <div class="li-lbl">Housing Prices</div><div class="li-cnt"></div>
+      </div>
+      <div class="li" data-lid="costliving" onclick="toggleLayer(this)">
+        <div class="li-chk"></div><div class="li-dot" style="background:var(--green)"></div>
+        <div class="li-lbl">Cost of Living</div><div class="li-cnt"></div>
+      </div>
+    </div>
+
+    <div class="seat-counts">
+      <div class="sb-title" style="margin-bottom:6px">2024 ELECTION SEATS</div>
+      <div class="sc-row"><div class="sc-party">Labour</div><div class="sc-val" style="color:var(--lab)">412</div></div>
+      <div class="sc-row"><div class="sc-party">Conservative</div><div class="sc-val" style="color:var(--con)">121</div></div>
+      <div class="sc-row"><div class="sc-party">Liberal Democrat</div><div class="sc-val" style="color:var(--lib)">71</div></div>
+      <div class="sc-row"><div class="sc-party">SNP</div><div class="sc-val" style="color:var(--snp)">9</div></div>
+      <div class="sc-row"><div class="sc-party">Reform UK</div><div class="sc-val" style="color:var(--ref)">5</div></div>
+      <div class="sc-row"><div class="sc-party">Green</div><div class="sc-val" style="color:#22c55e">4</div></div>
+    </div>
+
+    <div class="mp-box">
+      <div class="mp-lbl">Find Your MP</div>
+      <input class="mp-in" id="mp-in" placeholder="Postcode e.g. FK1 1AA" maxlength="8"
+             onkeydown="if(event.key==='Enter')doMP()">
+      <button class="mp-go" onclick="doMP()">FIND MY MP →</button>
+      <div id="mp-res"></div>
+    </div>
+
+    <div class="sb-credit">MAP: © OpenStreetMap / CartoDB · DATA: ONS, Parliament.uk, NHS England</div>
+  </div>
+
+  <!-- MAP CENTREPIECE -->
+  <div id="map-wrap" role="region" aria-label="UK constituencies map">
+    <div id="ukmap" aria-hidden="false"></div>
+    <div class="map-loading" id="map-loading" aria-live="polite">Loading map…</div>
+    <div class="map-status" id="map-status" aria-live="polite">Loading UK constituency map...</div>
+    <div class="map-error" id="map-error" role="alert" hidden>
+      <span>Map failed to load.</span>
+      <button type="button" class="map-retry" id="map-retry">Retry</button>
+    </div>
+    <div class="map-legend">
+      <div class="ml-caption">July 2024 result — yes, Labour really did win that many:</div>
+      <div class="ml-row">
+        <div class="ml-i"><div class="ml-sq" style="background:var(--lab)"></div>Labour 411</div>
+        <div class="ml-i"><div class="ml-sq" style="background:var(--con)"></div>Con 121</div>
+        <div class="ml-i"><div class="ml-sq" style="background:var(--lib)"></div>Lib Dem 72</div>
+        <div class="ml-i"><div class="ml-sq" style="background:var(--snp)"></div>SNP 9 · Other 37</div>
+      </div>
+      <div class="ml-row">
+        <div class="ml-i"><div class="ml-dot" style="background:#38bdf8"></div>NHS</div>
+        <div class="ml-i"><div class="ml-dot" style="background:var(--red)"></div>Broken pledge</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- RIGHT STATS COLUMN -->
+  <div id="right-col">
+    <div class="stat-block">
+      <div class="sb-lbl">Total Broken Promises — All PMs Since 1997</div>
+      <div class="sb-big" style="color:var(--red)" id="rc-broken">0</div>
+      <div class="sb-sub">Across 8 Prime Ministers · Labour 119 · Conservative 128</div>
+      <div class="sb-mini-row">
+        <div class="sbm"><div class="sbm-v" style="color:var(--green)">38%</div><div class="sbm-l">Kept</div></div>
+        <div class="sbm"><div class="sbm-v" style="color:var(--amber)">24%</div><div class="sbm-l">Partial</div></div>
+      </div>
+    </div>
+
+    <div class="stat-block">
+      <div class="sb-lbl">NHS Waiting List · NHS England</div>
+      <div class="sb-big" style="color:#38bdf8">7.54M</div>
+      <div class="sb-sub">Patients waiting · 18-week target: never met by any PM</div>
+      <div class="sb-mini-row">
+        <div class="sbm"><div class="sbm-v" style="color:var(--red)">63wks</div><div class="sbm-l">Avg wait</div></div>
+        <div class="sbm"><div class="sbm-v" style="color:var(--amber)">18wks</div><div class="sbm-l">Target</div></div>
+        <div class="sbm"><div class="sbm-v" style="color:var(--red)">+350%</div><div class="sbm-l">Since 2010</div></div>
+        <div class="sbm"><div class="sbm-v" style="color:var(--t2)">0</div><div class="sbm-l">PMs hit target</div></div>
+      </div>
+    </div>
+
+    <div class="stat-block">
+      <div class="sb-lbl">Net Migration · ONS Provisional YE Jun 2025</div>
+      <div class="sb-big" style="color:var(--amber)">204,000</div>
+      <div class="sb-sub">Per year · Cameron 2010 target: "tens of thousands"</div>
+      <div class="mig-bars">
+        <div class="mb-row"><div class="mb-lbl">2010 target</div><div class="mb-track"><div class="mb-fill" style="width:1%;background:var(--con)"></div></div><div class="mb-val" style="color:var(--con)">~10K</div></div>
+        <div class="mb-row"><div class="mb-lbl">2023 peak</div><div class="mb-track"><div class="mb-fill" style="width:100%;background:var(--red)"></div></div><div class="mb-val" style="color:var(--red)">944K</div></div>
+        <div class="mb-row"><div class="mb-lbl">Now</div><div class="mb-track"><div class="mb-fill" style="width:22%;background:var(--amber)"></div></div><div class="mb-val" style="color:var(--amber)">204K</div></div>
+      </div>
+    </div>
+
+    <div class="stat-block">
+      <div class="sb-lbl">CPI Inflation · ONS Jan 2026</div>
+      <div class="sb-big" style="color:var(--green)">3.0%</div>
+      <div class="sb-sub">Down from 11.1% peak Oct 2022 · 2% Bank of England target</div>
+      <div class="spark-wrap"><svg id="cpi-spark" viewBox="0 0 240 48" preserveAspectRatio="none"></svg></div>
+    </div>
+
+    <div class="stat-block">
+      <div class="sb-lbl">Average House Price · ONS / Land Registry</div>
+      <div class="sb-big" style="color:#a855f7">£285,000</div>
+      <div class="sb-sub">UK average · Up 63% since 2010 · Affordability at 40yr low</div>
+      <div class="sb-mini-row">
+        <div class="sbm"><div class="sbm-v" style="color:var(--red)">+63%</div><div class="sbm-l">Since 2010</div></div>
+        <div class="sbm"><div class="sbm-v" style="color:var(--red)">9.1×</div><div class="sbm-l">Income ratio</div></div>
+      </div>
+    </div>
+
+    <div class="stat-block">
+      <div class="sb-lbl">Terror Threat Level · MI5 / JTAC</div>
+      <div class="sb-big" style="color:var(--amber);font-size:24px;animation:pamb 3s ease-in-out infinite">SUBSTANTIAL</div>
+      <div class="sb-sub">An attack is likely · Set by Joint Terrorism Analysis Centre</div>
+      <div class="sb-mini-row">
+        <div class="sbm"><div class="sbm-v" style="color:var(--amber);font-size:11px">SUBSTANTIAL</div><div class="sbm-l">N. Ireland</div></div>
+        <div class="sbm"><div><a href="https://www.mi5.gov.uk/threats-and-advice/terrorism-threat-levels" target="_blank" rel="noopener" style="color:var(--accent);font-family:var(--mono);font-size:9px;text-decoration:none">mi5.gov.uk ↗</a></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- DATA VIEW (full-width when DATA tab active) -->
+<div id="data-view" class="hidden" role="region" aria-label="Data view" aria-hidden="true">
+  <div class="data-view-inner">
+    <div class="dv-grid" id="dv-stats-grid"></div>
+    <div class="dv-section">
+      <h2 class="dv-heading">PM comparison — broken vs kept pledges</h2>
+      <div class="dv-table-wrap">
+        <table class="dv-table" id="dv-pm-table" role="grid">
+          <thead>
+            <tr>
+              <th scope="col">PM</th>
+              <th scope="col">Party</th>
+              <th scope="col">Years</th>
+              <th scope="col">Broken</th>
+              <th scope="col">Kept</th>
+              <th scope="col">Score</th>
+            </tr>
+          </thead>
+          <tbody id="dv-pm-tbody"></tbody>
+        </table>
+      </div>
+    </div>
+    <div class="dv-footer-note">Data from public sources only. Last updated: <span id="dv-last-updated">—</span>. <button type="button" class="link-btn" id="btn-sources">Sources & methodology</button></div>
+  </div>
+</div>
+
+<!-- BOTTOM STRIP -->
+<div id="bottom">
+  <div class="bottom-mobile-tabs" id="bottom-mobile-tabs" role="tablist" aria-label="News or PM view">
+    <button type="button" class="bmt-tab active" data-panel="news" onclick="switchBottomPanel('news', this)">News</button>
+    <button type="button" class="bmt-tab" data-panel="pm" onclick="switchBottomPanel('pm', this)">PM</button>
+  </div>
+  <div id="b-news" class="bottom-panel" data-bottom-panel="news">
+    <div class="spectrum-hdr">
+      <div class="spectrum-title">HEADLINES ACROSS THE SPECTRUM</div>
+      <div class="spectrum-sub">One front from each outlet, left to right · click to read</div>
+    </div>
+    <div class="spectrum-bar" aria-hidden="true">
+      <span class="spectrum-l">LEFT</span>
+      <span class="spectrum-mid">CENTRE</span>
+      <span class="spectrum-r">RIGHT</span>
+    </div>
+    <div class="spectrum-list" id="spectrum-list"></div>
+  </div>
+
+  <div id="b-pm" class="bottom-panel" data-bottom-panel="pm">
+    <div class="bpm-hdr">
+      <div class="bpm-title">PRIME MINISTERS</div>
+      <div class="bpm-live">● TRACKING</div>
+    </div>
+    <div class="pm-select-wrap">
+      <select class="pm-select" id="pm-select" onchange="loadPM(this.value)"></select>
+    </div>
+    <div class="pm-detail" id="pm-detail"></div>
+    <div class="pm-view-btn" onclick="openModal(currentPMId)">VIEW FULL PLEDGE BREAKDOWN →</div>
+  </div>
+</div>
+</div>
+
+<!-- MODAL (pledge breakdown) -->
+<div id="mbg" role="dialog" aria-modal="true" aria-labelledby="m-name" aria-hidden="true">
+  <div id="modal">
+    <div class="mhdr">
+      <div><div class="mt" id="m-name"></div><div class="ms" id="m-sub"></div></div>
+      <button type="button" class="mclose" onclick="closeMod()" id="modal-close-btn">✕ CLOSE</button>
+    </div>
+    <div class="mbody">
+      <div class="pledge-list" id="m-pledges"></div>
+      <div class="m-src">Sources: Full Fact · Channel 4 FactCheck · BBC · Hansard · ONS · Electoral Commission. All data from public record. No editorial framing applied.</div>
+    </div>
+  </div>
+</div>
+
+<!-- SOURCES MODAL -->
+<div id="sources-bg" class="modal-bg hidden" role="dialog" aria-modal="true" aria-labelledby="sources-title" aria-hidden="true">
+  <div class="sources-modal">
+    <div class="mhdr">
+      <h2 id="sources-title" class="mt">Sources & methodology</h2>
+      <button type="button" class="mclose" onclick="closeSources()" id="sources-close-btn">✕ CLOSE</button>
+    </div>
+    <div class="mbody sources-body">
+      <p>All figures are from public, citable sources. We do not apply editorial framing.</p>
+      <ul class="sources-list">
+        <li><strong>NHS waiting list:</strong> <a href="https://www.england.nhs.uk/statistics/statistical-work-areas/rtt-waiting-times/" target="_blank" rel="noopener">NHS England RTT</a></li>
+        <li><strong>Net migration:</strong> <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration" target="_blank" rel="noopener">ONS</a></li>
+        <li><strong>CPI / inflation:</strong> <a href="https://www.ons.gov.uk/economy/inflationandpriceindices" target="_blank" rel="noopener">ONS</a></li>
+        <li><strong>House prices:</strong> <a href="https://www.ons.gov.uk/economy/inflationandpriceindices/housepriceindices" target="_blank" rel="noopener">ONS / Land Registry</a></li>
+        <li><strong>Terror threat level:</strong> <a href="https://www.mi5.gov.uk/threats-and-advice/terrorism-threat-levels" target="_blank" rel="noopener">MI5 / JTAC</a></li>
+        <li><strong>MP lookup:</strong> <a href="https://members.parliament.uk/" target="_blank" rel="noopener">Parliament.uk</a>, <a href="https://postcodes.io/" target="_blank" rel="noopener">postcodes.io</a></li>
+        <li><strong>PM pledges:</strong> Full Fact, Channel 4 FactCheck, BBC, Hansard, ONS, Electoral Commission</li>
+      </ul>
+      <p class="sources-updated">Stats are updated periodically. Last config update: <span id="sources-last-updated">—</span>.</p>
+    </div>
+  </div>
+</div>
+
+<footer class="app-footer">
+  <span>didtheydeliver.co.uk — Independent accountability tracker. No party affiliation.</span>
+  <button type="button" class="link-btn" onclick="openSources()">Sources & methodology</button>
+</footer>
+
+<noscript>
+  <div style="position:fixed;inset:0;background:#05080c;color:#94a3b8;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;z-index:9999;">
+    <p>Did They Deliver needs JavaScript to run the map and data. Please enable it and refresh.</p>
+  </div>
+</noscript>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="data/promises.js"></script>
+<script src="js/main.js"></script>
+</body>
+</html>
