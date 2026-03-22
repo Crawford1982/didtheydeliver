@@ -217,10 +217,11 @@
   </div>
   <div class="nav-r">
     <div class="nchip"><div class="nchip-l">Broken Pledges</div><div class="nchip-v" id="nav-broken">—</div></div>
-    <div class="nchip"><div class="nchip-l">NHS Waiting</div><div class="nchip-v">7.54M</div></div>
-    <div class="nchip"><div class="nchip-l">Net Migration</div><div class="nchip-v a">+204K/yr</div></div>
-    <div class="nchip"><div class="nchip-l">CPI Inflation</div><div class="nchip-v g">3.0%</div></div>
-    <div class="nchip"><div class="nchip-l">Avg House Price</div><div class="nchip-v a">£285K</div></div>
+    <div class="nchip"><div class="nchip-l">NHS Waiting</div><div class="nchip-v r" id="chip-nhs">7.10M</div></div>
+    <div class="nchip"><div class="nchip-l">Net Migration</div><div class="nchip-v r" id="chip-migration">685K/yr</div></div>
+    <div class="nchip"><div class="nchip-l">CPI Inflation</div><div class="nchip-v g" id="chip-cpi">2.8%</div></div>
+    <div class="nchip"><div class="nchip-l">Avg House Price</div><div class="nchip-v a" id="chip-house">£268K</div></div>
+    <div class="nchip"><div class="nchip-l">BoE Rate</div><div class="nchip-v a" id="chip-boe">4.50%</div></div>
     <div class="threat-chip"><div class="tdot"></div>THREAT: SUBSTANTIAL</div>
     <div id="nclock">--:--:--</div>
   </div>
@@ -401,9 +402,14 @@
   </div>
 </div>
 
+<!-- LIVE SCORECARD — current government pledge tracker, populated by live-stats.js -->
+<div id="live-scorecard" style="display:none" aria-label="Current government pledge tracker" role="region"></div>
+
 <!-- DATA VIEW (full-width when DATA tab active) -->
 <div id="data-view" class="hidden" role="region" aria-label="Data view" aria-hidden="true">
   <div class="data-view-inner">
+    <!-- Live data cards injected here by live-stats.js -->
+    <div id="live-data-cards" class="live-cards-grid" aria-label="Live UK economic indicators"></div>
     <div class="dv-grid" id="dv-stats-grid"></div>
     <div class="dv-section">
       <h2 class="dv-heading">PM comparison — broken vs kept pledges</h2>
@@ -649,5 +655,6 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
 <script src="data/promises.js" defer></script>
 <script src="js/main.js" defer></script>
+<script src="js/live-stats.js" defer></script>
 </body>
 </html>

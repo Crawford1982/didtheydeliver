@@ -1,0 +1,112 @@
+{
+  "updated": "2026-03-22T07:00:00Z",
+  "updated_readable": "22 March 2026",
+  "stats": {
+    "cpi": {
+      "value": 2.8,
+      "display": "2.8%",
+      "period": "Feb 2026",
+      "label": "CPI Inflation",
+      "color": "g",
+      "source": "ONS MM23/D7G7"
+    },
+    "unemployment": {
+      "value": 4.4,
+      "display": "4.4%",
+      "period": "Dec 2025",
+      "label": "Unemployment",
+      "color": "a",
+      "source": "ONS LMS/MGSX"
+    },
+    "house_prices": {
+      "value": 268000,
+      "display": "£268K",
+      "period": "Dec 2025",
+      "label": "Avg House Price",
+      "color": "a",
+      "source": "ONS UKHPI"
+    },
+    "gdp_growth": {
+      "value": 0.1,
+      "display": "+0.1%",
+      "period": "Q4 2025",
+      "label": "GDP Growth (QoQ)",
+      "color": "a",
+      "source": "ONS QNA/IHYQ"
+    },
+    "boe_rate": {
+      "value": 4.50,
+      "display": "4.50%",
+      "period": "Mar 2026",
+      "label": "BoE Base Rate",
+      "color": "a",
+      "source": "Bank of England IUMABEDR"
+    },
+    "net_migration": {
+      "value": 685000,
+      "display": "685K/yr",
+      "period": "Jun 2025",
+      "label": "Net Migration",
+      "color": "r",
+      "source": "ONS MIG/DJZN"
+    },
+    "nhs_rtt": {
+      "value": 7100000,
+      "display": "7.10M",
+      "period": "Jan 2026",
+      "label": "NHS RTT Waiting",
+      "color": "r",
+      "source": "NHS England RTT"
+    },
+    "energy_cap": {
+      "value": 1849,
+      "display": "£1,849/yr",
+      "period": "Q1 2026",
+      "label": "Energy Price Cap",
+      "color": "r",
+      "source": "Ofgem"
+    }
+  },
+  "pledges": [
+    {
+      "pm": "starmer",
+      "pledge": "No tax rises on working people",
+      "target": "No increase",
+      "current": "Employer NI up 1.2pp from Apr 2025",
+      "status": "broken",
+      "source": "HM Treasury Budget 2024"
+    },
+    {
+      "pm": "starmer",
+      "pledge": "Cut energy bills by £300",
+      "target": "£1,268/yr cap",
+      "current": "Cap £1,849/yr — £581 above target",
+      "status": "broken",
+      "source": "Ofgem Q1 2026"
+    },
+    {
+      "pm": "starmer",
+      "pledge": "40,000 extra NHS appointments per week",
+      "target": "Reduce waiting list from 7.54M",
+      "current": "7.10M waiting — falling but target unclear",
+      "status": "partial",
+      "source": "NHS England RTT"
+    },
+    {
+      "pm": "starmer",
+      "pledge": "Grow the economy",
+      "target": "Consistent positive GDP growth",
+      "current": "+0.1% QoQ (Q4 2025) — near stagnation",
+      "status": "partial",
+      "source": "ONS QNA"
+    },
+    {
+      "pm": "starmer",
+      "pledge": "Reduce overall net migration",
+      "target": "Significant reduction from 764,000 peak",
+      "current": "685K/yr (Jun 2025) — falling but still record high territory",
+      "status": "partial",
+      "source": "ONS LTIM"
+    }
+  ]
+}
