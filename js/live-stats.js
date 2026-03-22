@@ -51,6 +51,14 @@
     const kept   = pledges.filter(p => p.status === 'kept').length;
     const partial = pledges.filter(p => p.status === 'partial').length;
 
+    // Share URLs
+    const shareText = encodeURIComponent(`Current UK government: ${broken} pledges BROKEN, ${partial} partial, ${kept} kept. Live data from ONS & NHS England.`);
+    const shareUrl  = encodeURIComponent('https://didtheydeliver.co.uk/');
+    const twitterUrl  = `https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}&hashtags=UKPolitics,DidTheyDeliver`;
+    const whatsappUrl = `https://wa.me/?text=${shareText}%20${shareUrl}`;
+    const fbUrl       = `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`;
+    const copyId      = 'sc-copy-' + Math.random().toString(36).slice(2, 7);
+
     el.innerHTML = `
       <div class="sc-header">
         <div class="sc-title">CURRENT GOVERNMENT — LIVE PLEDGE TRACKER</div>
@@ -59,6 +67,12 @@
           <span class="sc-badge partial">${partial} PARTIAL</span>
           <span class="sc-badge kept">${kept} KEPT</span>
           <span class="sc-updated">Data updated: ${updated}</span>
+          <div class="sc-share" aria-label="Share this tracker">
+            <a href="${twitterUrl}" target="_blank" rel="noopener noreferrer" class="sc-share-btn sc-share-x" title="Share on X / Twitter">𝕏</a>
+            <a href="${whatsappUrl}" target="_blank" rel="noopener noreferrer" class="sc-share-btn sc-share-wa" title="Share on WhatsApp">💬</a>
+            <a href="${fbUrl}" target="_blank" rel="noopener noreferrer" class="sc-share-btn sc-share-fb" title="Share on Facebook">f</a>
+            <button id="${copyId}" class="sc-share-btn sc-share-copy" title="Copy link" onclick="navigator.clipboard.writeText('https://didtheydeliver.co.uk/').then(()=>{const b=document.getElementById('${copyId}');b.textContent='✓';setTimeout(()=>{b.textContent='🔗';},1500);})">🔗</button>
+          </div>
         </div>
       </div>
       <div class="sc-table-wrap">

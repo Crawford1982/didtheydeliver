@@ -1233,3 +1233,35 @@ button.sbtn { min-height: 28px; min-width: 44px; }
   .sc-table td:nth-child(2) { display: none; }
   .live-cards-grid { grid-template-columns: repeat(2, 1fr); }
 }
+
+/* ============================================================
+   SCORECARD SHARE BUTTONS
+   ============================================================ */
+.sc-share {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+.sc-share-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+  border-radius: 3px;
+  font-size: 12px;
+  font-weight: 700;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  transition: opacity .15s, transform .1s;
+  line-height: 1;
+  font-family: 'Barlow Condensed', sans-serif;
+  letter-spacing: 0;
+}
+.sc-share-btn:hover { opacity: .8; transform: translateY(-1px); }
+.sc-share-btn:active { transform: translateY(0); }
+.sc-share-x    { background: #000; color: #fff; font-family: serif; font-size: 11px; }
+.sc-share-wa   { background: #25d366; color: #fff; font-size: 13px; }
+.sc-share-fb   { background: #1877f2; color: #fff; font-family: 'Barlow Condensed', sans-serif; font-size: 14px; }
+.sc-share-copy { background: #1e3a5f; color: #94a3b8; font-size: 13px; }

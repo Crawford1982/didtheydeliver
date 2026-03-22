@@ -22,6 +22,20 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- Comparison & Topic Landing Pages -->
+  <url>
+    <loc>https://didtheydeliver.co.uk/compare-prime-ministers/</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://didtheydeliver.co.uk/uk-cost-of-living/</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
   <!-- PM Article Pages (static, crawlable) -->
   <url>
     <loc>https://didtheydeliver.co.uk/keir-starmer/</loc>
