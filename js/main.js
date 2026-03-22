@@ -206,16 +206,16 @@ function loadPM(id) {
   // === SEO: Dynamic title, meta, canonical & H1 per PM ===
   const pmFull = pm.fn + ' ' + pm.ln;
   const titleTemplates = {
-    starmer:  'Keir Starmer Broken Promises Tracker | Did They Deliver?',
-    sunak:    'Rishi Sunak Promises & Record | Did They Deliver?',
-    truss:    'Liz Truss Record | Did They Deliver?',
-    johnson:  'Boris Johnson Broken Promises | Did They Deliver?',
-    may:      'Theresa May Pledges & Record | Did They Deliver?',
-    cameron:  'David Cameron Broken Promises | Did They Deliver?',
-    brown:    'Gordon Brown Record | Did They Deliver?',
-    blair:    'Tony Blair Broken Promises | Did They Deliver?'
+    starmer:  'Did Keir Starmer Deliver? — Pledge Tracker | Did They Deliver?',
+    sunak:    'Did Rishi Sunak Deliver? — Pledge Tracker | Did They Deliver?',
+    truss:    'Did Liz Truss Deliver? — 49 Days in Office | Did They Deliver?',
+    johnson:  'Did Boris Johnson Deliver? — Pledge Tracker | Did They Deliver?',
+    may:      'Did Theresa May Deliver? — Pledge Tracker | Did They Deliver?',
+    cameron:  'Did David Cameron Deliver? — Pledge Tracker | Did They Deliver?',
+    brown:    'Did Gordon Brown Deliver? — Pledge Tracker | Did They Deliver?',
+    blair:    'Did Tony Blair Deliver? — Pledge Tracker | Did They Deliver?'
   };
-  const newTitle = titleTemplates[id] || (pmFull + ' — UK PM Pledge Tracker | Did They Deliver?');
+  const newTitle = titleTemplates[id] || ('Did ' + pmFull + ' Deliver? — UK PM Pledge Tracker | Did They Deliver?');
   document.title = newTitle;
 
   const newDesc = pmFull + ' — ' + pm.broken + ' broken pledges, ' + pm.kept + ' kept. ' +

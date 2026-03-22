@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>Keir Starmer Broken Promises Tracker | Did They Deliver?</title>
+  <title>Did They Deliver? — UK Prime Minister Pledge Tracker</title>
   <meta name="description" content="Independent UK political accountability dashboard. Live map, real data, neutral framing. NHS, migration, cost of living, PM promises tracked.">
   <meta name="theme-color" content="#05080c">
   <meta name="author" content="Did They Deliver">
@@ -65,14 +65,14 @@
         }
       },
       {
-        "@type": "NewsMediaOrganization",
+        "@type": "Organization",
         "@id": "https://didtheydeliver.co.uk/#organization",
         "name": "Did They Deliver?",
         "url": "https://didtheydeliver.co.uk/",
         "logo": {"@type": "ImageObject", "url": "https://didtheydeliver.co.uk/img/og.png"},
         "sameAs": [],
-        "description": "Independent, non-partisan UK political accountability tracker. No party affiliation, no editorial bias.",
-        "publishingPrinciples": "https://didtheydeliver.co.uk/#sources"
+        "description": "Independent, non-partisan UK political accountability tracker. No party affiliation, no editorial bias. Data sourced from ONS, NHS England, Parliament.uk and other official public records.",
+        "publishingPrinciples": "https://didtheydeliver.co.uk/about/"
       },
       {
         "@type": "FAQPage",
@@ -85,22 +85,22 @@
           {
             "@type": "Question",
             "name": "How many NHS patients are waiting for treatment in the UK?",
-            "acceptedAnswer": {"@type": "Answer", "text": "Approximately 7.54 million patients are on the NHS waiting list as of the latest NHS England RTT data. The 18-week referral-to-treatment target has not been consistently met by any Prime Minister."}
+            "acceptedAnswer": {"@type": "Answer", "text": "The NHS England Referral to Treatment (RTT) waiting list has exceeded 7 million patients in recent years. The 18-week referral-to-treatment standard has not been consistently met. See our NHS waiting list tracker for the full historical breakdown by Prime Minister."}
           },
           {
             "@type": "Question",
             "name": "What is UK net migration?",
-            "acceptedAnswer": {"@type": "Answer", "text": "UK net migration stands at approximately 204,000 per year according to the latest ONS provisional figures. This compares with David Cameron's 2010 pledge to reduce migration to 'the tens of thousands'."}
+            "acceptedAnswer": {"@type": "Answer", "text": "UK net migration rose to a record high of 764,000 in the year to June 2023 according to ONS data, before beginning to fall. Every Prime Minister since David Cameron has pledged to reduce net migration — none has brought it close to the 'tens of thousands' target. See our migration tracker for the full breakdown."}
           },
           {
             "@type": "Question",
             "name": "What is the current UK inflation rate?",
-            "acceptedAnswer": {"@type": "Answer", "text": "UK CPI inflation is currently 3.0% (ONS, January 2026), down from a peak of 11.1% in October 2022. The Bank of England's target is 2%."}
+            "acceptedAnswer": {"@type": "Answer", "text": "UK CPI inflation peaked at 11.1% in October 2022 — a 41-year high — before falling back toward the Bank of England's 2% target. Our inflation tracker shows every PM's record since 1997 against the official target."}
           },
           {
             "@type": "Question",
-            "name": "How many promises has Keir Starmer broken?",
-            "acceptedAnswer": {"@type": "Answer", "text": "Did They Deliver tracks Keir Starmer's key pledges made since taking office in July 2024. Notable broken promises include the pledge not to raise taxes on working people (National Insurance increased), the £300 energy bill cut (bills rose), and protecting winter fuel payments for all pensioners (cut for 10 million). See our full pledge tracker for the latest data."}
+            "name": "How does Did They Deliver track Keir Starmer's pledges?",
+            "acceptedAnswer": {"@type": "Answer", "text": "Did They Deliver tracks Keir Starmer's key pledges made before and since taking office in July 2024, categorising each as Kept, Broken, or Partial based on publicly verifiable data from ONS, NHS England, and Parliament.uk. We apply the same methodology to all Prime Ministers regardless of party."}
           },
           {
             "@type": "Question",
@@ -114,13 +114,13 @@
           },
           {
             "@type": "Question",
-            "name": "What is the UK terrorism threat level in 2026?",
-            "acceptedAnswer": {"@type": "Answer", "text": "The UK terrorism threat level is currently SUBSTANTIAL as of 2026, meaning an attack is likely. This is set by the Joint Terrorism Analysis Centre (JTAC) and published by MI5."}
+            "name": "What is the UK terrorism threat level?",
+            "acceptedAnswer": {"@type": "Answer", "text": "The UK national terrorism threat level is set by the Joint Terrorism Analysis Centre (JTAC) and published by MI5. It ranges from Low to Critical. The current level is shown on the Did They Deliver dashboard. Visit mi5.gov.uk for the authoritative and always up-to-date figure."}
           },
           {
             "@type": "Question",
             "name": "Which political party has broken the most promises?",
-            "acceptedAnswer": {"@type": "Answer", "text": "According to Did They Deliver's independent tracker, the Conservative Party has 128 broken pledges across PMs from 2010 to 2024, while Labour has 119 broken pledges from Blair and Starmer's tenures. Both parties have broken more promises than they have kept."}
+            "acceptedAnswer": {"@type": "Answer", "text": "Did They Deliver's independent tracker applies the same methodology to every party. Across all tracked PMs, both Labour and the Conservatives have broken more pledges than they have kept. The dashboard shows the full breakdown by party and by individual Prime Minister."}
           }
         ]
       },
@@ -314,7 +314,7 @@
     <div class="map-legend">
       <div class="ml-caption">July 2024 result — yes, Labour really did win that many:</div>
       <div class="ml-row">
-        <div class="ml-i"><div class="ml-sq" style="background:var(--lab)"></div>Labour 411</div>
+        <div class="ml-i"><div class="ml-sq" style="background:var(--lab)"></div>Labour 412</div>
         <div class="ml-i"><div class="ml-sq" style="background:var(--con)"></div>Con 121</div>
         <div class="ml-i"><div class="ml-sq" style="background:var(--lib)"></div>Lib Dem 72</div>
         <div class="ml-i"><div class="ml-sq" style="background:var(--snp)"></div>SNP 9 · Other 37</div>
@@ -562,19 +562,34 @@
 
 <footer class="app-footer" itemscope itemtype="https://schema.org/WPFooter">
   <span>didtheydeliver.co.uk — Independent accountability tracker. No party affiliation. No editorial bias. Data from ONS, NHS England, Parliament.uk.</span>
-  <button type="button" class="link-btn" onclick="openSources()">Sources & methodology</button>
+  <button type="button" class="link-btn" onclick="openSources()">Sources</button>
+  <span class="footer-sep">·</span>
+  <a href="/about/" class="link-btn" style="color:inherit;text-decoration:none;font-size:11px">About & Methodology</a>
+  <span class="footer-sep">·</span>
+  <a href="/about/#privacy" class="link-btn" style="color:inherit;text-decoration:none;font-size:11px">Privacy</a>
   <span class="footer-sep">·</span>
   <a href="https://didtheydeliver.co.uk/sitemap.xml" class="link-btn" style="color:inherit;text-decoration:none;font-size:11px">Sitemap</a>
 </footer>
 
+<!-- Cookie/Privacy notice -->
+<div id="cookie-bar" style="display:none;position:fixed;bottom:0;left:0;right:0;background:#060c12;border-top:1px solid #0f1c2c;padding:10px 16px;font-size:11px;color:#64748b;z-index:9999;display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+  <span>This site uses Google Analytics (anonymised) to understand traffic. No personal data is sold or shared. <a href="/about/#privacy" style="color:#94a3b8">Privacy policy</a></span>
+  <button onclick="document.getElementById('cookie-bar').style.display='none';localStorage.setItem('cookie-ok','1')" style="background:#1e3a5f;color:#94a3b8;border:none;padding:4px 10px;font-size:11px;cursor:pointer;border-radius:2px;white-space:nowrap;">OK, got it</button>
+</div>
+<script>
+  if(!localStorage.getItem('cookie-ok')){
+    document.getElementById('cookie-bar').style.display='flex';
+  }
+</script>
+
 <!-- STATIC CRAWLABLE CONTENT — visible to Googlebot, hidden from JS-enabled users -->
 <noscript>
 <div class="noscript-content">
-  <h1>Did They Deliver? — UK Prime Minister Broken Promises Tracker</h1>
-  <p>Independent, politically neutral accountability tracker. We track every key pledge made by UK Prime Ministers since 1997 — cross-referenced against ONS, NHS England and Parliament.uk data. No party affiliation. No editorial bias.</p>
+  <h1>Did They Deliver? — UK Prime Minister Pledge Tracker</h1>
+  <p>Independent, politically neutral accountability tracker. We track every key pledge made by UK Prime Ministers since 1997 — cross-referenced against ONS, NHS England and Parliament.uk data. No party affiliation. No editorial bias. We apply the same methodology to every party.</p>
 
-  <h2>Keir Starmer — Broken Promises (2024–Present)</h2>
-  <p>Keir Starmer is the current Prime Minister of the United Kingdom, taking office on 5 July 2024 following Labour's landslide 412-seat victory. He is rated the most unpopular Prime Minister since records began (Ipsos, February 2026), with a net approval of −66.</p>
+  <h2>Keir Starmer — Pledge Record (2024–Present)</h2>
+  <p>Keir Starmer became Prime Minister on 5 July 2024 following Labour's landslide 412-seat victory. We track his key pledges against publicly verifiable data from official sources.</p>
   <ul>
     <li><strong>No tax rises on working people</strong> — BROKEN. National Insurance increase: OBR confirms it falls on workers via lower wages.</li>
     <li><strong>Cut energy bills by £300</strong> — BROKEN. Bills rose £170. The £300 pledge was quietly dropped.</li>

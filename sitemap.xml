@@ -14,6 +14,14 @@
     </image:image>
   </url>
 
+  <!-- About / Methodology -->
+  <url>
+    <loc>https://didtheydeliver.co.uk/about/</loc>
+    <lastmod>2026-03-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <!-- PM Article Pages (static, crawlable) -->
   <url>
     <loc>https://didtheydeliver.co.uk/keir-starmer/</loc>
