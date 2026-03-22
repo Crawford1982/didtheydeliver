@@ -203,7 +203,60 @@ function loadPM(id) {
   url.searchParams.set('pm', id);
   history.replaceState(null, '', url.toString());
 
-  document.getElementById('pm-btn-txt').textContent = (pm.fn + ' ' + pm.ln).toUpperCase();
+  // === SEO: Dynamic title, meta, canonical & H1 per PM ===
+  const pmFull = pm.fn + ' ' + pm.ln;
+  const titleTemplates = {
+    starmer:  'Keir Starmer Broken Promises Tracker | Did They Deliver?',
+    sunak:    'Rishi Sunak Promises & Record | Did They Deliver?',
+    truss:    'Liz Truss Record | Did They Deliver?',
+    johnson:  'Boris Johnson Broken Promises | Did They Deliver?',
+    may:      'Theresa May Pledges & Record | Did They Deliver?',
+    cameron:  'David Cameron Broken Promises | Did They Deliver?',
+    brown:    'Gordon Brown Record | Did They Deliver?',
+    blair:    'Tony Blair Broken Promises | Did They Deliver?'
+  };
+  const newTitle = titleTemplates[id] || (pmFull + ' — UK PM Pledge Tracker | Did They Deliver?');
+  document.title = newTitle;
+
+  const newDesc = pmFull + ' — ' + pm.broken + ' broken pledges, ' + pm.kept + ' kept. ' +
+    'Independent, politically neutral UK accountability tracker. Data from ONS, NHS England, Parliament.uk.';
+  const metaDesc = document.querySelector('meta[name="description"]');
+  if (metaDesc) metaDesc.setAttribute('content', newDesc);
+
+  const canonicalUrl = 'https://didtheydeliver.co.uk/?pm=' + id;
+  const canonical = document.querySelector('link[rel="canonical"]');
+  if (canonical) canonical.setAttribute('href', canonicalUrl);
+
+  const ogTitle = document.querySelector('meta[property="og:title"]');
+  if (ogTitle) ogTitle.setAttribute('content', newTitle);
+  const ogDesc = document.querySelector('meta[property="og:description"]');
+  if (ogDesc) ogDesc.setAttribute('content', newDesc);
+  const ogUrl = document.querySelector('meta[property="og:url"]');
+  if (ogUrl) ogUrl.setAttribute('content', canonicalUrl);
+  const twTitle = document.querySelector('meta[name="twitter:title"]');
+  if (twTitle) twTitle.setAttribute('content', newTitle);
+  const twDesc = document.querySelector('meta[name="twitter:description"]');
+  if (twDesc) twDesc.setAttribute('content', newDesc);
+
+  // Update visible H1 in SEO block
+  const seoH = document.querySelector('.seo-h');
+  if (seoH) seoH.textContent = pmFull + ' — UK Prime Minister Pledge Tracker';
+
+  // Update BreadcrumbList JSON-LD dynamically
+  const breadcrumbScript = document.getElementById('ld-breadcrumb');
+  if (breadcrumbScript) {
+    breadcrumbScript.textContent = JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://didtheydeliver.co.uk/"},
+        {"@type": "ListItem", "position": 2, "name": pmFull + " Promises", "item": canonicalUrl}
+      ]
+    });
+  }
+  // ========================================================
+
+  document.getElementById('pm-btn-txt').textContent = pmFull.toUpperCase();
   document.querySelectorAll('.pm-opt').forEach(el => el.classList.toggle('sel', el.dataset.id === id));
   document.getElementById('pm-select').value = id;
 

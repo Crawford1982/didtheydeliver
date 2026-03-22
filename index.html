@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-  <title>Did They Deliver? — UK Political Accountability Dashboard</title>
+  <title>Keir Starmer Broken Promises Tracker | Did They Deliver?</title>
   <meta name="description" content="Independent UK political accountability dashboard. Live map, real data, neutral framing. NHS, migration, cost of living, PM promises tracked.">
   <meta name="theme-color" content="#05080c">
   <meta name="author" content="Did They Deliver">
@@ -100,15 +100,67 @@
           {
             "@type": "Question",
             "name": "How many promises has Keir Starmer broken?",
-            "acceptedAnswer": {"@type": "Answer", "text": "Did They Deliver tracks Keir Starmer's key pledges made since taking office in July 2024, including commitments on the NHS, cost of living, and public sector pay. See our full pledge tracker for the latest data."}
+            "acceptedAnswer": {"@type": "Answer", "text": "Did They Deliver tracks Keir Starmer's key pledges made since taking office in July 2024. Notable broken promises include the pledge not to raise taxes on working people (National Insurance increased), the £300 energy bill cut (bills rose), and protecting winter fuel payments for all pensioners (cut for 10 million). See our full pledge tracker for the latest data."}
           },
           {
             "@type": "Question",
             "name": "What is the average UK house price?",
             "acceptedAnswer": {"@type": "Answer", "text": "The average UK house price is approximately £285,000 according to ONS/Land Registry data, up 63% since 2010 and representing a price-to-income ratio of 9.1x — the worst affordability in 40 years."}
+          },
+          {
+            "@type": "Question",
+            "name": "Did Boris Johnson keep his promises?",
+            "acceptedAnswer": {"@type": "Answer", "text": "Boris Johnson made major pledges including 'Get Brexit Done', 40 new hospitals, 50,000 new nurses and levelling up. Brexit was delivered but multiple hospital and nurse targets were not met on schedule. Our tracker scores Johnson's overall promise-keeping record across all tracked pledges."}
+          },
+          {
+            "@type": "Question",
+            "name": "What is the UK terrorism threat level in 2026?",
+            "acceptedAnswer": {"@type": "Answer", "text": "The UK terrorism threat level is currently SUBSTANTIAL as of 2026, meaning an attack is likely. This is set by the Joint Terrorism Analysis Centre (JTAC) and published by MI5."}
+          },
+          {
+            "@type": "Question",
+            "name": "Which political party has broken the most promises?",
+            "acceptedAnswer": {"@type": "Answer", "text": "According to Did They Deliver's independent tracker, the Conservative Party has 128 broken pledges across PMs from 2010 to 2024, while Labour has 119 broken pledges from Blair and Starmer's tenures. Both parties have broken more promises than they have kept."}
+          }
+        ]
+      },
+      {
+        "@type": "Person",
+        "@id": "https://didtheydeliver.co.uk/#pm-starmer",
+        "name": "Keir Starmer",
+        "jobTitle": "Prime Minister of the United Kingdom",
+        "memberOf": {"@type": "PoliticalParty", "name": "Labour Party"},
+        "url": "https://didtheydeliver.co.uk/?pm=starmer",
+        "description": "Sir Keir Starmer has been Prime Minister since 5 July 2024. Did They Deliver tracks his key election pledges against publicly verifiable data."
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://didtheydeliver.co.uk/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Keir Starmer Promises",
+            "item": "https://didtheydeliver.co.uk/?pm=starmer"
           }
         ]
       }
+    ]
+  }
+  </script>
+  <!-- Breadcrumb schema — updated dynamically by JS on PM change -->
+  <script type="application/ld+json" id="ld-breadcrumb">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://didtheydeliver.co.uk/"},
+      {"@type": "ListItem", "position": 2, "name": "Keir Starmer Promises", "item": "https://didtheydeliver.co.uk/?pm=starmer"}
     ]
   }
   </script>
@@ -496,14 +548,72 @@
   <a href="https://didtheydeliver.co.uk/sitemap.xml" class="link-btn" style="color:inherit;text-decoration:none;font-size:11px">Sitemap</a>
 </footer>
 
+<!-- STATIC CRAWLABLE CONTENT — visible to Googlebot, hidden from JS-enabled users -->
 <noscript>
-  <div style="position:fixed;inset:0;background:#05080c;color:#94a3b8;display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;z-index:9999;">
-    <p>Did They Deliver needs JavaScript to run the map and data. Please enable it and refresh.</p>
-  </div>
+<div class="noscript-content">
+  <h1>Did They Deliver? — UK Prime Minister Broken Promises Tracker</h1>
+  <p>Independent, politically neutral accountability tracker. We track every key pledge made by UK Prime Ministers since 1997 — cross-referenced against ONS, NHS England and Parliament.uk data. No party affiliation. No editorial bias.</p>
+
+  <h2>Keir Starmer — Broken Promises (2024–Present)</h2>
+  <p>Keir Starmer is the current Prime Minister of the United Kingdom, taking office on 5 July 2024 following Labour's landslide 412-seat victory. He is rated the most unpopular Prime Minister since records began (Ipsos, February 2026), with a net approval of −66.</p>
+  <ul>
+    <li><strong>No tax rises on working people</strong> — BROKEN. National Insurance increase: OBR confirms it falls on workers via lower wages.</li>
+    <li><strong>Cut energy bills by £300</strong> — BROKEN. Bills rose £170. The £300 pledge was quietly dropped.</li>
+    <li><strong>End hotel use for asylum seekers</strong> — BROKEN. 32,345 still in hotels (March 2025) — higher than inherited figure.</li>
+    <li><strong>Protect winter fuel payment for all pensioners</strong> — BROKEN. Cut for 10 million pensioners, October 2024.</li>
+    <li><strong>Defend free movement</strong> — BROKEN. Called it a "red line" — now rules it out completely.</li>
+    <li><strong>Nationalise rail, mail, energy and water</strong> — PARTIAL. Rail nationalisation begun; mail, energy and water stalled.</li>
+    <li><strong>Abolish tuition fees</strong> — BROKEN. Dropped, cited "no money".</li>
+    <li><strong>Day-one unfair dismissal rights</strong> — BROKEN. Watered down after employer lobbying.</li>
+    <li><strong>Reduce NHS waiting times</strong> — BROKEN. List still at 7.54 million — target nowhere near met.</li>
+  </ul>
+
+  <h2>Rishi Sunak — Record (2022–2024)</h2>
+  <p>Rishi Sunak served as Prime Minister from October 2022 to July 2024, losing the 2024 general election by a historic landslide. He made 5 key pledges, keeping 1 (halving inflation) and breaking 4 (growing the economy, reducing NHS backlogs, stopping the boats, cutting debt as % of GDP).</p>
+  <ul>
+    <li><strong>Halve inflation by end of 2023</strong> — KEPT. Fell from 10.7% to 4.6%, primarily Bank of England action.</li>
+    <li><strong>Grow the economy</strong> — BROKEN. UK went into recession Q4 2023.</li>
+    <li><strong>Reduce NHS backlogs</strong> — BROKEN. Waiting list hit record 7.8 million under his watch.</li>
+    <li><strong>Stop the boats</strong> — BROKEN. Channel crossings at record levels when he left office.</li>
+    <li><strong>Cut debt as percentage of GDP</strong> — BROKEN. Debt rose throughout his tenure.</li>
+  </ul>
+
+  <h2>Boris Johnson — Record (2019–2022)</h2>
+  <p>Boris Johnson served as Prime Minister from July 2019 to September 2022, resigning amid the Partygate scandal. Key broken promises include:</p>
+  <ul>
+    <li><strong>40 new hospitals by 2030</strong> — BROKEN. NAO: only 8 schemes qualify and none are fully built.</li>
+    <li><strong>No checks on goods to Northern Ireland</strong> — BROKEN. Northern Ireland Protocol introduced exactly those checks.</li>
+    <li><strong>Rules are rules — Covid compliance</strong> — BROKEN. Multiple gatherings in No.10 during lockdown (Partygate).</li>
+    <li><strong>World-beating Test and Trace</strong> — BROKEN. NAO found no evidence it reduced transmission.</li>
+  </ul>
+
+  <h2>UK Key Statistics (March 2026)</h2>
+  <ul>
+    <li><strong>NHS Waiting List:</strong> 7.54 million patients — 18-week target never met by any PM</li>
+    <li><strong>Net Migration:</strong> 204,000/yr (ONS, YE Jun 2025) vs Cameron's "tens of thousands" pledge</li>
+    <li><strong>CPI Inflation:</strong> 3.0% (ONS, Jan 2026) — down from 11.1% peak Oct 2022</li>
+    <li><strong>Average House Price:</strong> £285,000 — up 63% since 2010, income ratio 9.1× (40-year affordability low)</li>
+    <li><strong>Terror Threat Level:</strong> SUBSTANTIAL (MI5/JTAC)</li>
+    <li><strong>Total broken pledges tracked:</strong> 247 across 8 Prime Ministers since 1997</li>
+  </ul>
+
+  <h2>2024 General Election Results</h2>
+  <p>The July 2024 UK general election delivered a historic Labour landslide: Labour 412 seats, Conservative 121 seats, Liberal Democrat 72 seats, SNP 9 seats, Reform UK 5 seats, Green 4 seats. Use our interactive constituency map to explore results by area.</p>
+
+  <nav>
+    <a href="/?pm=starmer">Keir Starmer broken promises</a> ·
+    <a href="/?pm=sunak">Rishi Sunak record</a> ·
+    <a href="/?pm=johnson">Boris Johnson pledges</a> ·
+    <a href="/?pm=may">Theresa May record</a> ·
+    <a href="/?pm=cameron">David Cameron promises</a> ·
+    <a href="/?pm=brown">Gordon Brown record</a> ·
+    <a href="/?pm=blair">Tony Blair pledges</a>
+  </nav>
+</div>
 </noscript>
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="data/promises.js"></script>
-<script src="js/main.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
+<script src="data/promises.js" defer></script>
+<script src="js/main.js" defer></script>
 </body>
 </html>
