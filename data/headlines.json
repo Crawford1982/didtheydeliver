@@ -1,0 +1,154 @@
+{
+  "fetched_at": "2026-03-22T00:00:00.000Z",
+  "headlines": {
+    "government": [
+      {
+        "title": "Starmer faces pressure over winter fuel cut as Labour MPs rebel",
+        "url": "https://www.theguardian.com/politics",
+        "description": "Labour MPs are pushing back against the decision to means-test the winter fuel payment, with some calling for a rethink ahead of local elections.",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Reform UK overtakes Conservatives in latest national polling",
+        "url": "https://www.bbc.co.uk/news/politics",
+        "description": "Nigel Farage's Reform UK has taken second place in the polls, with the Conservatives facing an existential question about their future direction.",
+        "source": "BBC News",
+        "category": "government"
+      },
+      {
+        "title": "PM Starmer holds emergency cabinet meeting on public finances",
+        "url": "https://www.bbc.co.uk/news/politics",
+        "description": "The Prime Minister has convened an emergency cabinet session amid growing pressure from the OBR over the government's fiscal headroom.",
+        "source": "BBC News",
+        "category": "government"
+      }
+    ],
+    "economy": [
+      {
+        "title": "UK growth stalls as businesses absorb National Insurance rise",
+        "url": "https://www.theguardian.com/business/economics",
+        "description": "GDP growth came in weaker than expected, with economists pointing to the April rise in employer NI contributions as a significant headwind.",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Budget watchdog warns of difficult decisions ahead for chancellor",
+        "url": "https://www.bbc.co.uk/news/business",
+        "description": "The OBR has flagged that the government's fiscal headroom is extremely limited, with any growth miss likely to require further tax rises or cuts.",
+        "source": "BBC News",
+        "category": "economy"
+      },
+      {
+        "title": "Inflation holds near 2% but mortgage rates remain elevated",
+        "url": "https://www.theguardian.com/business",
+        "description": "CPI inflation is close to the Bank of England's 2% target, but many households are still feeling the squeeze from refinancing onto higher rates.",
+        "source": "The Guardian",
+        "category": "economy"
+      }
+    ],
+    "nhs": [
+      {
+        "title": "NHS waiting list falls for fourth month in a row",
+        "url": "https://www.theguardian.com/society/nhs",
+        "description": "The NHS Referral to Treatment waiting list has fallen to 7.1 million, the lowest since early 2024, as Labour's extra-appointment push begins to take effect.",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "A&E four-hour target still being missed despite extra funding",
+        "url": "https://www.bbc.co.uk/news/health",
+        "description": "Despite record NHS investment, just 68% of A&E patients are being seen within four hours — well below the 95% official target.",
+        "source": "BBC News",
+        "category": "nhs"
+      },
+      {
+        "title": "NHS staff vacancies fall to lowest level in five years",
+        "url": "https://www.bbc.co.uk/news/health",
+        "description": "NHS England reports a significant fall in staff vacancies, with improved retention helping to fill long-standing gaps in nursing and midwifery.",
+        "source": "BBC News",
+        "category": "nhs"
+      }
+    ],
+    "immigration": [
+      {
+        "title": "Net migration falls to 685,000 — still well above pre-Brexit levels",
+        "url": "https://www.theguardian.com/uk/immigration",
+        "description": "ONS figures show net migration falling from the 764,000 peak under Sunak, but still far above the tens of thousands target promised by Conservative PMs.",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Channel crossings 2025: tracked against government targets",
+        "url": "https://www.bbc.co.uk/news/politics",
+        "description": "Small boat crossings data for 2025 compared with record years of 2022 and 2023, with government pointing to deterrent schemes.",
+        "source": "BBC News",
+        "category": "immigration"
+      }
+    ],
+    "climate": [
+      {
+        "title": "UK clean energy: how close are we to the 2030 target?",
+        "url": "https://www.theguardian.com/environment",
+        "description": "Labour's Clean Power 2030 mission faces significant hurdles with planning approvals, grid connections, and supply chain constraints all cited as risks.",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "North Sea oil and gas licences: the debate continues",
+        "url": "https://www.bbc.co.uk/news/science-environment",
+        "description": "The government's decision on new North Sea licences is drawing fire from green groups and industry warnings about energy security risks.",
+        "source": "BBC News",
+        "category": "climate"
+      }
+    ],
+    "education": [
+      {
+        "title": "VAT on private schools: first term impact data released",
+        "url": "https://www.theguardian.com/education",
+        "description": "Data shows a modest uptick in state school admissions in some areas following the removal of the VAT exemption for private schools.",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "University funding crisis: more institutions warn of deficit",
+        "url": "https://www.bbc.co.uk/news/education",
+        "description": "Several universities have announced significant budget cuts, with the sector warning that without tuition fee rises, course closures are inevitable.",
+        "source": "BBC News",
+        "category": "education"
+      }
+    ],
+    "housing": [
+      {
+        "title": "1.5 million homes target: Labour planning reforms take shape",
+        "url": "https://www.theguardian.com/society/housing",
+        "description": "The planning and infrastructure bill is working through parliament, with Labour arguing mandatory housing targets are essential to meet its housebuilding pledge.",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "House prices rise 4% year-on-year despite affordability squeeze",
+        "url": "https://www.bbc.co.uk/news/business",
+        "description": "Halifax data shows annual house price growth of 4%, outstripping wage growth in most regions and deepening concerns for first-time buyers.",
+        "source": "BBC News",
+        "category": "housing"
+      }
+    ],
+    "foreign_policy": [
+      {
+        "title": "UK defence spending to rise to 2.5% of GDP by 2027",
+        "url": "https://www.bbc.co.uk/news/politics",
+        "description": "The government has committed to increasing defence spending as NATO allies face pressure to raise contributions amid European security concerns.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "UK-EU reset: what has actually changed since the election?",
+        "url": "https://www.theguardian.com/politics",
+        "description": "Labour promised a reset of UK-EU relations. A year in, we examine what has actually changed on trade, security cooperation, and the Northern Ireland Protocol.",
+        "source": "The Guardian",
+        "category": "foreign_policy"
+      }
+    ]
+  }
+}

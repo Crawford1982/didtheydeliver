@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
   buildPMSelect();
   applyUrlPM();
   loadPM(currentPMId);
-  renderSpectrumHeadlines();
+  loadHeadlinesFromJSON();
   buildCPISpark();
 
   const total = typeof STATS !== 'undefined' ? STATS.brokenTotal : PMS.reduce((s, p) => s + p.broken, 0);
@@ -285,6 +285,54 @@ function loadPM(id) {
       <div class="pm-app-v">${pm.approval}</div>
     </div>
     <div class="pm-verdict">${pm.verdict}</div>`;
+}
+
+function loadHeadlinesFromJSON() {
+  fetch('/data/headlines.json')
+    .then(r => r.json())
+    .then(data => renderHeadlinesFromJSON(data))
+    .catch(() => {
+      // Fallback to legacy SPECTRUM_HEADLINES if JSON fetch fails
+      renderSpectrumHeadlines();
+    });
+}
+
+function renderHeadlinesFromJSON(data) {
+  const list = document.getElementById('spectrum-list');
+  if (!list) return;
+
+  const categories = [
+    { key: 'government', label: 'Politics' },
+    { key: 'economy', label: 'Economy' },
+    { key: 'nhs', label: 'NHS' },
+    { key: 'immigration', label: 'Immigration' },
+    { key: 'housing', label: 'Housing' },
+    { key: 'climate', label: 'Climate' },
+    { key: 'education', label: 'Education' },
+    { key: 'foreign_policy', label: 'Foreign Policy' }
+  ];
+
+  const allHeadlines = [];
+  categories.forEach(cat => {
+    const items = (data.headlines && data.headlines[cat.key]) || [];
+    items.slice(0, 2).forEach(item => {
+      allHeadlines.push({ ...item, catLabel: cat.label });
+    });
+  });
+
+  if (allHeadlines.length === 0) {
+    renderSpectrumHeadlines();
+    return;
+  }
+
+  list.innerHTML = allHeadlines.map(h => {
+    return `<article class="spec-card">
+      <span class="spec-name">${escapeHtml(h.source)}</span>
+      <span class="spec-lean centre">${escapeHtml(h.catLabel)}</span>
+      <p class="spec-hl">${escapeHtml(h.title)}</p>
+      <a class="spec-link" href="${escapeHtml(h.url)}" target="_blank" rel="noopener noreferrer">Read →</a>
+    </article>`;
+  }).join('');
 }
 
 function renderSpectrumHeadlines() {

@@ -1001,7 +1001,83 @@ button.sbtn { min-height: 28px; min-width: 44px; }
 }
 .seo-links a:hover { border-color: var(--accent); color: #fff; }
 .footer-sep { color: #334155; margin: 0 4px; }
+
+/* ============================================================
+   NEWSLETTER SECTION
+   ============================================================ */
+.newsletter-section {
+  background: #06090f;
+  border-top: 1px solid #0f1c2c;
+  border-bottom: 1px solid #0f1c2c;
+  padding: 48px 20px;
+  text-align: center;
+}
+.nl-inner {
+  max-width: 540px;
+  margin: 0 auto;
+}
+.nl-icon {
+  font-size: 36px;
+  margin-bottom: 12px;
+}
+.nl-title {
+  font-family: 'Bebas Neue', 'Barlow Condensed', sans-serif;
+  font-size: 28px;
+  font-weight: 900;
+  letter-spacing: 3px;
+  color: #f1f5f9;
+  margin: 0 0 10px;
+}
+.nl-sub {
+  font-size: 13px;
+  color: #64748b;
+  line-height: 1.6;
+  margin: 0 0 20px;
+}
+.nl-form-main {
+  display: flex;
+  gap: 8px;
+  max-width: 420px;
+  margin: 0 auto 12px;
+}
+.nl-email-input {
+  flex: 1;
+  background: #0a1525;
+  border: 1px solid #1e3a5f;
+  color: #e2e8f0;
+  padding: 10px 14px;
+  font-size: 13px;
+  font-family: 'Share Tech Mono', monospace;
+  border-radius: 3px;
+  outline: none;
+  transition: border-color .2s;
+}
+.nl-email-input:focus { border-color: var(--accent); }
+.nl-email-input::placeholder { color: #334155; }
+.nl-submit-btn {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 10px 18px;
+  font-size: 12px;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  cursor: pointer;
+  border-radius: 3px;
+  white-space: nowrap;
+  transition: background .2s;
+}
+.nl-submit-btn:hover { background: #a82330; }
+.nl-small {
+  font-size: 10px;
+  color: #334155;
+  margin: 0;
+}
+
 @media (max-width: 768px) {
   .seo-cols { grid-template-columns: 1fr; }
   .seo-block { padding: 20px 14px; }
+  .nl-form-main { flex-direction: column; }
+  .nl-submit-btn { width: 100%; padding: 12px; }
 }
