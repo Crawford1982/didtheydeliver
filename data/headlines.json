@@ -1,152 +1,215 @@
 {
-  "fetched_at": "2026-03-22T00:00:00.000Z",
+  "fetched_at": "2026-03-22T18:36:23.505512+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer faces pressure over winter fuel cut as Labour MPs rebel",
-        "url": "https://www.theguardian.com/politics",
-        "description": "Labour MPs are pushing back against the decision to means-test the winter fuel payment, with some calling for a rethink ahead of local elections.",
+        "title": "James Cleverly says he disagrees with Nick Timothy about Islamic public prayer",
+        "url": "https://www.theguardian.com/politics/2026/mar/22/james-cleverly-disagrees-nick-timothy-islamic-public-prayer-trafalgar-square",
+        "description": "Shadow justice secretary had called Trafalgar Square event an ‘act of domination’James Cleverly has said he disagrees with his Conservative frontbench colleague Nick Timothy’s assertion that public...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform UK overtakes Conservatives in latest national polling",
-        "url": "https://www.bbc.co.uk/news/politics",
-        "description": "Nigel Farage's Reform UK has taken second place in the polls, with the Conservatives facing an existential question about their future direction.",
-        "source": "BBC News",
+        "title": "Starmer adviser urges ministers to look at profits cap for energy and petrol firms",
+        "url": "https://www.theguardian.com/money/2026/mar/22/starmer-adviser-richard-walker-profits-cap-energy-petrol-firms",
+        "description": "PM’s ‘cost of living champion’ calls for consideration of temporary measure to prevent profiteering from Iran warThe government’s top cost of living adviser has called on ministers to explore a tem...",
+        "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "PM Starmer holds emergency cabinet meeting on public finances",
-        "url": "https://www.bbc.co.uk/news/politics",
-        "description": "The Prime Minister has convened an emergency cabinet session amid growing pressure from the OBR over the government's fiscal headroom.",
+        "title": "Iran not believed to have capability or intent to bomb Britain, says UK minister",
+        "url": "https://www.theguardian.com/world/2026/mar/22/iran-capability-intent-bomb-missiles-britain-steve-reed",
+        "description": "Steve Reed says ‘UK is not going to be dragged into this war’ after Israeli warnings that Iranian missiles could hit EuropeMiddle East crisis live – latest updatesIran is not believed to have the c...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "No assessment Iran could strike London, UK minister says",
+        "url": "https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss",
+        "description": "Steve Reed says there is \"no specific assessment\" Iran is capable of hitting the UK, after Israel claimed it now could.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK growth stalls as businesses absorb National Insurance rise",
-        "url": "https://www.theguardian.com/business/economics",
-        "description": "GDP growth came in weaker than expected, with economists pointing to the April rise in employer NI contributions as a significant headwind.",
+        "title": "Campaign groups rail against Palantir, but the UK contracts keep coming",
+        "url": "https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk",
+        "description": "AI analytics firm has become influential in Whitehall, and FCA deal gives it yet more access to dataPalantir extends reach into British state as it gets access to sensitive FCA dataPalantir’s lates...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Budget watchdog warns of difficult decisions ahead for chancellor",
-        "url": "https://www.bbc.co.uk/news/business",
-        "description": "The OBR has flagged that the government's fiscal headroom is extremely limited, with any growth miss likely to require further tax rises or cuts.",
+        "title": "‘The new ketchup’? How hummus spread beyond a niche into a British staple",
+        "url": "https://www.theguardian.com/business/2026/mar/22/new-ketchup-hummus-uk-inflation-basket",
+        "description": "News that chickpea dip is to join list of products used for UK inflation basket confirms its move into the mainstreamThe best (and worst) supermarket hummus tasted and ratedIt is a sign of the time...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Energy shock talk grabs headlines but the Iran war is also driving the world towards a food crisis | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/mar/22/energy-shock-iran-war-also-driving-world-towards-food-crisis",
+        "description": "Growers face soaring fertiliser and fuel costs as shipping choke point of the strait of Hormuz hits supply chains‘The stakes are enormous’: how a prolonged Iran war could shock the global economyIt...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss",
+        "url": "https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss",
+        "description": "The boss of Centrica says it is \"too early\" to speculate but if oil costs continue to rise, homes will be hit.",
         "source": "BBC News",
-        "category": "economy"
-      },
-      {
-        "title": "Inflation holds near 2% but mortgage rates remain elevated",
-        "url": "https://www.theguardian.com/business",
-        "description": "CPI inflation is close to the Bank of England's 2% target, but many households are still feeling the squeeze from refinancing onto higher rates.",
-        "source": "The Guardian",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "NHS waiting list falls for fourth month in a row",
-        "url": "https://www.theguardian.com/society/nhs",
-        "description": "The NHS Referral to Treatment waiting list has fallen to 7.1 million, the lowest since early 2024, as Labour's extra-appointment push begins to take effect.",
+        "title": "Department of Health retracts claim sunbeds are as dangerous as smoking",
+        "url": "https://www.theguardian.com/politics/2026/mar/21/department-of-health-retracts-claim-sunbeds-dangerous-as-smoking",
+        "description": "DHSC corrects statements after regulator intervenes as experts say smoking causes far more cancer casesThe Department of Health and Social Care (DHSC) has had to retract a misleading claim that sun...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "A&E four-hour target still being missed despite extra funding",
-        "url": "https://www.bbc.co.uk/news/health",
-        "description": "Despite record NHS investment, just 68% of A&E patients are being seen within four hours — well below the 95% official target.",
-        "source": "BBC News",
+        "title": "The Guardian view on meningitis in Kent: we must not take public health systems for granted | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/mar/20/the-guardian-view-on-meningitis-in-kent-we-must-not-take-public-health-systems-for-granted",
+        "description": "This frightening outbreak is not yet over, and serves as a reminder of why plans to manage infectious diseases exist The public health measures taken in response to this month’s meningitis outbreak...",
+        "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "NHS staff vacancies fall to lowest level in five years",
-        "url": "https://www.bbc.co.uk/news/health",
-        "description": "NHS England reports a significant fall in staff vacancies, with improved retention helping to fill long-standing gaps in nursing and midwifery.",
+        "title": "Ambulance delays during power cut possibly contributed to man’s death, coroner rules",
+        "url": "https://www.theguardian.com/society/2026/mar/20/peter-coates-death-coroner-ambulance-delays-power-cut",
+        "description": "Peter Coates’s family welcome end to years pursuing answers after he died when breathing apparatus stoppedA family has welcomed a coroner’s conclusion that ambulance delays possibly contributed to ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Thousands get meningitis vaccine as experts wait to see outbreak peak",
+        "url": "https://www.bbc.com/news/articles/cj3752nn4v0o?at_medium=RSS&at_campaign=rss",
+        "description": "The outbreak, which has killed two people, is thought to have originated at a Canterbury nightclub.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
-        "title": "Net migration falls to 685,000 — still well above pre-Brexit levels",
-        "url": "https://www.theguardian.com/uk/immigration",
-        "description": "ONS figures show net migration falling from the 764,000 peak under Sunak, but still far above the tens of thousands target promised by Conservative PMs.",
+        "title": "‘This country has been our home’: US family in UK threatened with detention over visa mix-up",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/22/this-country-has-been-our-home-us-family-in-uk-threatened-with-detention-over-visa-mix-up",
+        "description": "Tim and Christen Bass are barred from working and facing homelessness after indefinite leave application rejected by Home OfficeAn American family who have brought their children up in the UK are f...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Channel crossings 2025: tracked against government targets",
-        "url": "https://www.bbc.co.uk/news/politics",
-        "description": "Small boat crossings data for 2025 compared with record years of 2022 and 2023, with government pointing to deterrent schemes.",
-        "source": "BBC News",
+        "title": "More British teenagers stranded abroad as result of new rules on dual nationals",
+        "url": "https://www.theguardian.com/politics/2026/mar/21/british-teenagers-stranded-abroad-dual-national-rules-home-office-passports",
+        "description": "Cases emerge after other people tell of change in Home Office policy on passports that has left people scramblingTwo more British teenagers have found themselves unable to return to the UK because ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "‘One in, one out’ asylum seekers sent to France return to UK in lorries",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/19/one-in-one-out-asylum-seekers-france-uk-lorries",
+        "description": "Exclusive: At least four people have travelled back to the UK by lorry in the last two weeksAsylum seekers who arrived in the UK in small boats and were forcibly returned to France under the contro...",
+        "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "UK clean energy: how close are we to the 2030 target?",
-        "url": "https://www.theguardian.com/environment",
-        "description": "Labour's Clean Power 2030 mission faces significant hurdles with planning approvals, grid connections, and supply chain constraints all cited as risks.",
+        "title": "Weather extremes gripping US bear climate crisis ‘fingerprint’, experts say",
+        "url": "https://www.theguardian.com/us-news/2026/mar/22/climate-crisis-march-extreme-weather",
+        "description": "There are flooding rains in Hawaii, rare snow in Alabama and a severe heatwave in the west coastSign up for the Breaking News US email to get newsletter alerts in your inboxThe US is experiencing a...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "North Sea oil and gas licences: the debate continues",
-        "url": "https://www.bbc.co.uk/news/science-environment",
-        "description": "The government's decision on new North Sea licences is drawing fire from green groups and industry warnings about energy security risks.",
+        "title": "5m tonnes of CO2 emitted in just 14 days of US war on Iran, analysis finds",
+        "url": "https://www.theguardian.com/world/2026/mar/21/middle-east-iran-conflict-environment-climate",
+        "description": "Exclusive: War in the Middle East is draining the global carbon budget faster than 84 countries combinedThe US-Israel war on Iran is a disaster for the climate, according to an analysis that finds ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Arizona desert town breaks record for hottest March temperature in US history",
+        "url": "https://www.theguardian.com/us-news/2026/mar/20/arizona-march-temperature-record",
+        "description": "Martinez Lake, about 145 miles west of Phoenix, reached 110F (43.3C) on Thursday amid scorching south-west heatSign up for the Breaking News US email to get newsletter alerts in your inboxA small c...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
+        "url": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
+        "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
-        "title": "VAT on private schools: first term impact data released",
-        "url": "https://www.theguardian.com/education",
-        "description": "Data shows a modest uptick in state school admissions in some areas following the removal of the VAT exemption for private schools.",
+        "title": "Should the bank of mum and dad pay university debts?",
+        "url": "https://www.theguardian.com/money/2026/mar/21/student-loans-finance-parents-university-debts",
+        "description": "Those planning for uni in England and Wales this autumn can apply for student loans from Monday. Here are the options for families worried about debtOur child is heading to university soon – should...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "University funding crisis: more institutions warn of deficit",
-        "url": "https://www.bbc.co.uk/news/education",
-        "description": "Several universities have announced significant budget cuts, with the sector warning that without tuition fee rises, course closures are inevitable.",
-        "source": "BBC News",
+        "title": "‘Something I’ve never felt since Covid. It was scarier’: the shock and pain of Kent’s meningitis outbreak",
+        "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/mar/21/how-meningitis-broke-out-kent-university-nightclub",
+        "description": "How infections linked to a nightclub escalated into a public health incident requiring a national response is a puzzle experts are still grappling withTyra Skinner had already been violently sick t...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "The Kent meningitis outbreak: what is happening and why?",
+        "url": "https://www.theguardian.com/society/2026/mar/20/the-kent-meningitis-outbreak-what-is-happening-and-why",
+        "description": "Causes of meningitis, what the public health response has been, and how the situation differs from CovidThe deadly outbreak of meningitis in Kent has fuelled concerns about how far the disease will...",
+        "source": "The Guardian",
         "category": "education"
       }
     ],
     "housing": [
       {
-        "title": "1.5 million homes target: Labour planning reforms take shape",
-        "url": "https://www.theguardian.com/society/housing",
-        "description": "The planning and infrastructure bill is working through parliament, with Labour arguing mandatory housing targets are essential to meet its housebuilding pledge.",
+        "title": "Trump’s economic shocks are derailing Britain’s building plans",
+        "url": "https://www.theguardian.com/business/2026/mar/21/trumps-economic-shocks-are-derailing-britains-building-plans",
+        "description": "With major developments collapsing, pressure is growing on councils to concede on affordable housing and public amenitiesDonald Trump has done his best to crush the green shoots of the global, post...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "House prices rise 4% year-on-year despite affordability squeeze",
-        "url": "https://www.bbc.co.uk/news/business",
-        "description": "Halifax data shows annual house price growth of 4%, outstripping wage growth in most regions and deepening concerns for first-time buyers.",
-        "source": "BBC News",
+        "title": "Meet the Seattle families living communally to bring down costs – in pictures",
+        "url": "https://www.theguardian.com/environment/gallery/2026/mar/19/seattle-co-op-homeownership",
+        "description": "As Americans face a housing crisis, this development shows how communal living can bring homeownership within reach – and foster connection Continue reading...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "England must destine 7% of land to nature and renewables to hit green targets, data shows",
+        "url": "https://www.theguardian.com/environment/2026/mar/18/england-land-use-framework-nature-renewables-environmental-targets",
+        "description": "Government’s first published land use framework maps how land is used and how it can be adapted to meet changing needsAbout 7% of England’s land – an area roughly two-and-a-half times the size of C...",
+        "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "UK defence spending to rise to 2.5% of GDP by 2027",
-        "url": "https://www.bbc.co.uk/news/politics",
-        "description": "The government has committed to increasing defence spending as NATO allies face pressure to raise contributions amid European security concerns.",
+        "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+        "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+        "description": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "UK-EU reset: what has actually changed since the election?",
-        "url": "https://www.theguardian.com/politics",
-        "description": "Labour promised a reset of UK-EU relations. A year in, we examine what has actually changed on trade, security cooperation, and the Northern Ireland Protocol.",
-        "source": "The Guardian",
+        "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
+        "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
+        "description": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
+        "url": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
+        "description": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head.",
+        "source": "BBC News",
         "category": "foreign_policy"
       }
     ]
