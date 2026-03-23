@@ -1,6 +1,6 @@
 {
-  "updated": "2026-03-22T07:00:00Z",
-  "updated_readable": "22 March 2026",
+  "updated": "2026-03-23T08:02:12Z",
+  "updated_readable": "23 March 2026",
   "stats": {
     "cpi": {
       "value": 2.8,
@@ -8,7 +8,8 @@
       "period": "Feb 2026",
       "label": "CPI Inflation",
       "color": "g",
-      "source": "ONS MM23/D7G7"
+      "source": "ONS MM23/D7G7",
+      "stale": true
     },
     "unemployment": {
       "value": 4.4,
@@ -16,7 +17,8 @@
       "period": "Dec 2025",
       "label": "Unemployment",
       "color": "a",
-      "source": "ONS LMS/MGSX"
+      "source": "ONS LMS/MGSX",
+      "stale": true
     },
     "house_prices": {
       "value": 268000,
@@ -24,7 +26,8 @@
       "period": "Dec 2025",
       "label": "Avg House Price",
       "color": "a",
-      "source": "ONS UKHPI"
+      "source": "ONS UKHPI",
+      "stale": true
     },
     "gdp_growth": {
       "value": 0.1,
@@ -32,15 +35,17 @@
       "period": "Q4 2025",
       "label": "GDP Growth (QoQ)",
       "color": "a",
-      "source": "ONS QNA/IHYQ"
+      "source": "ONS QNA/IHYQ",
+      "stale": true
     },
     "boe_rate": {
-      "value": 4.50,
+      "value": 4.5,
       "display": "4.50%",
       "period": "Mar 2026",
       "label": "BoE Base Rate",
       "color": "a",
-      "source": "Bank of England IUMABEDR"
+      "source": "Bank of England IUMABEDR",
+      "stale": true
     },
     "net_migration": {
       "value": 685000,
@@ -48,7 +53,8 @@
       "period": "Jun 2025",
       "label": "Net Migration",
       "color": "r",
-      "source": "ONS MIG/DJZN"
+      "source": "ONS MIG/DJZN",
+      "stale": true
     },
     "nhs_rtt": {
       "value": 7100000,
@@ -56,14 +62,15 @@
       "period": "Jan 2026",
       "label": "NHS RTT Waiting",
       "color": "r",
-      "source": "NHS England RTT"
+      "source": "NHS England RTT",
+      "stale": true
     },
     "energy_cap": {
-      "value": 1849,
-      "display": "£1,849/yr",
-      "period": "Q1 2026",
+      "value": 1641,
+      "display": "£1,641/yr",
+      "period": "Current quarter",
       "label": "Energy Price Cap",
-      "color": "r",
+      "color": "a",
       "source": "Ofgem"
     }
   },
@@ -80,15 +87,15 @@
       "pm": "starmer",
       "pledge": "Cut energy bills by £300",
       "target": "£1,268/yr cap",
-      "current": "Cap £1,849/yr — £581 above target",
+      "current": "Cap is £1,641/yr — £373 above target",
       "status": "broken",
-      "source": "Ofgem Q1 2026"
+      "source": "Ofgem"
     },
     {
       "pm": "starmer",
       "pledge": "40,000 extra NHS appointments per week",
       "target": "Reduce waiting list from 7.54M",
-      "current": "7.10M waiting — falling but target unclear",
+      "current": "7.10M waiting — falling from 7.54M baseline",
       "status": "partial",
       "source": "NHS England RTT"
     },
@@ -96,7 +103,7 @@
       "pm": "starmer",
       "pledge": "Grow the economy",
       "target": "Consistent positive GDP growth",
-      "current": "+0.1% QoQ (Q4 2025) — near stagnation",
+      "current": "+0.1% QoQ (Q4 2025)",
       "status": "partial",
       "source": "ONS QNA"
     },
@@ -104,7 +111,7 @@
       "pm": "starmer",
       "pledge": "Reduce overall net migration",
       "target": "Significant reduction from 764,000 peak",
-      "current": "685K/yr (Jun 2025) — falling but still record high territory",
+      "current": "685K/yr (Jun 2025) — record was 764,000",
       "status": "partial",
       "source": "ONS LTIM"
     }
