@@ -1,48 +1,41 @@
 {
-  "fetched_at": "2026-03-23T13:05:54.732065+00:00",
+  "fetched_at": "2026-03-23T18:53:42.757698+00:00",
   "headlines": {
     "government": [
       {
-        "title": "No 10 refuses to comment on Trump posting TV sketch mocking Starmer on social media – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/mar/23/keir-starmer-donald-trump-strait-of-hormuz-shabana-mahood-john-healey-labour-conservatives-kemi-badenoch-cobra-uk-politics-latest-updates-news",
-        "description": "Spokesperson said PM is ‘entirely focussed on the job’ when asked about the US president posting a clip from Saturday Night Live UK Matthew Pennycook, the housing minister, was speaking for the gov...",
+        "title": "Starmer signals support for household bills next winter amid energy price shock",
+        "url": "https://www.theguardian.com/politics/2026/mar/23/starmer-support-household-bills-next-winter-energy-price-shock",
+        "description": "PM indicates he would prefer to focus taxpayer-funded help on poorest households, rather than universal bailoutMinisters are looking at providing support for household bills next winter, Keir Starm...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer says ‘every lever’ will be explored to ease rising costs of living from Iran conflict",
-        "url": "https://www.theguardian.com/business/2026/mar/23/keir-starmer-rising-cost-of-living-uk-iran-conflict",
-        "description": "PM will chair Cobra meeting with key ministers and Bank of England on Monday, as experts warn of economic shockUK politics live – latest updatesMiddle East crisis – live updatesKeir Starmer has pro...",
+        "title": "Ministers tell HS2 to consider slower train speeds to cut costs",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/23/ministers-tell-hs2-to-consider-slower-train-speeds-to-cut-costs",
+        "description": "Company will assess whether drop to 186mph from 224mph will save money and help bring forward launchMinisters have told High Speed Two to consider running its trains at lower speeds, in an attempt ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "What’s at stake for UK in May’s elections: six key questions",
-        "url": "https://www.theguardian.com/politics/2026/mar/23/uk-local-elections-key-takeaways",
-        "description": "Reform, Plaid Cymru, the SNP and the Greens are all banking on big gains and nationwide repercussionsOn 7 May, three of the UK’s four nations go to the polls in a series of elections with much pote...",
+        "title": "British destroyer HMS Dragon arrives in eastern Mediterranean",
+        "url": "https://www.theguardian.com/politics/2026/mar/23/british-destroyer-hms-dragon-arrives-in-eastern-mediterranean",
+        "description": "Ship arrives three weeks after Iranian-made drone hit British base of RAF Akrotiri on CyprusMiddle East crisis – live updatesHMS Dragon has arrived in the eastern Mediterranean, three weeks after a...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer to consider options over Iran cost-of-living concerns",
-        "url": "https://www.bbc.com/news/articles/c98kdyye33no?at_medium=RSS&at_campaign=rss",
-        "description": "Bank of England governor Andrew Bailey will be among those attending the emergency Cobra committee meeting.",
+        "title": "PM warns against 'false comfort' of thinking Iran war will end quickly",
+        "url": "https://www.bbc.com/news/articles/cy01l49kkgdo?at_medium=RSS&at_campaign=rss",
+        "description": "The PM also tells senior MPs the conflict was \"not our war\" and there must be a \"lawful basis\" for any UK involvement.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Stock markets surge and oil tumbles as Trump postpones power plant strikes after ‘very good and productive’ talks with Iran – business live",
+        "title": "Wall Street joins market rally as Trump postpones power plant strikes after ‘very good and productive’ talks with Iran – business live",
         "url": "https://www.theguardian.com/business/live/2026/mar/23/stock-markets-gold-dollar-trump-iran-ultimatum-uk-economy-growth-borrowing-costs-latest-news-updates",
-        "description": "Investors are piling back into shares after US president announces ‘very good and productive’ conversations with Iran, sending oil price downMiddle East crisis live: Starmer calls emergency meeting...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Stock markets swing and oil prices fall after Trump postpones strikes on Iran power plants",
-        "url": "https://www.theguardian.com/business/2026/mar/23/stock-markets-donald-trump-iran-gold-oil-prices",
-        "description": "European shares start to rise after US president says talks have been ‘very good and productive’Business live – latest updatesMiddle East crisis – live updatesGlobal stock markets swung wildly and ...",
+        "description": "Investors are piling back into shares after US president extends Iran’s deadline to reopen strait of Hormuz, sending oil price downTrump extends Iran deadline by five days and claims ‘productive’ t...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +47,16 @@
         "category": "economy"
       },
       {
-        "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
-        "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-        "description": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
+        "title": "UK mortgage interest rates expected to rise despite Trump’s Iran pause",
+        "url": "https://www.theguardian.com/business/2026/mar/23/uk-mortgage-interest-rates-markets-bank-of-england-iran-war",
+        "description": "Bank of England likely to make two quarter-point increases amid sustained rise in inflation, investors believeBusiness live – latest updates‘Trumpflation’: how the Iran war’s economic storm could a...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "HS2 trains could run slower than planned to save money",
+        "url": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&at_campaign=rss",
+        "description": "The government is looking at ways to make much-delayed London to Birmingham railway line cheaper to deliver.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,37 +84,44 @@
         "category": "nhs"
       },
       {
-        "title": "Scotland becomes first in UK to test newborns for rare genetic condition",
-        "url": "https://www.bbc.com/news/articles/cx26glrw310o?at_medium=RSS&at_campaign=rss",
-        "description": "Spinal Muscular Atrophy (SMA) causes progressive muscle weakness and, without treatment, can limit life expectancy to just two years.",
+        "title": "Meningitis outbreak passes peak, says health agency",
+        "url": "https://www.bbc.com/news/articles/ckgwrxdldmzo?at_medium=RSS&at_campaign=rss",
+        "description": "\"We could still see cases continuing to come in, we need to keep an eye on those, the UKHSA says.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
+        "title": "Six students challenge Home Office visa ban on four countries",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
+        "description": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from studying in BritainSix students from Sudan and Afghanistan have acc...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
+        "description": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will miss out on life-changing opportunities – as five female academics...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "‘Constant uncertainty’: Mahmood’s ‘earned settlement’ immigration plan has families stuck in limbo",
         "url": "https://www.theguardian.com/uk-news/2026/mar/23/constant-uncertainty-mahmoods-earned-settlement-immigration-plan-has-families-stuck-in-limbo",
         "description": "Home secretary’s new ILR rules mean couples such as Felix and Tessa King, from UK and US, face an insecure future“It’s the sickening stress of never quite feeling like you have roots. My marriage f...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "‘This country has been our home’: US family in UK threatened with detention over visa mix-up",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/22/this-country-has-been-our-home-us-family-in-uk-threatened-with-detention-over-visa-mix-up",
-        "description": "Tim and Christen Bass are barred from working and facing homelessness after indefinite leave application rejected by Home OfficeAn American family who have brought their children up in the UK are f...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "More British teenagers stranded abroad as result of new rules on dual nationals",
-        "url": "https://www.theguardian.com/politics/2026/mar/21/british-teenagers-stranded-abroad-dual-national-rules-home-office-passports",
-        "description": "Cases emerge after other people tell of change in Home Office policy on passports that has left people scramblingTwo more British teenagers have found themselves unable to return to the UK because ...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Australia’s generation Alpha faces $185k bill over lifetime without urgent action on climate crisis, report finds",
+        "url": "https://www.theguardian.com/business/2026/mar/23/australia-generation-alpha-faces-185k-bill-over-lifetime-without-urgent-action-on-climate-crisis-report-finds",
+        "description": "Global heating consistent with current projections would cost average millennial $130,000 and $165,000 for gen Z, according to Deloitte modellingGet our breaking news email, free app or daily news ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Far more countries face critical food insecurity if world heats up by 2C, analysis shows",
         "url": "https://www.theguardian.com/environment/2026/mar/23/countries-critical-food-insecurity-global-heating",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Weather extremes gripping US bear climate crisis ‘fingerprint’, experts say",
-        "url": "https://www.theguardian.com/us-news/2026/mar/22/climate-crisis-march-extreme-weather",
-        "description": "There are flooding rains in Hawaii, rare snow in Alabama and a severe heatwave in the west coastSign up for the Breaking News US email to get newsletter alerts in your inboxThe US is experiencing a...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "UN issues new climate warning as El Niño looms",
         "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
         "description": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
-        "title": "Study links children’s social media use with anxiety and depression in teenage years",
-        "url": "https://www.theguardian.com/media/2026/mar/22/study-children-social-media-anxiety-depression",
-        "description": "Researchers say lack of sleep could be a factor among young people interacting online for more than three hours a dayChildren who are on social media for more than three hours a day are more likely...",
+        "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
+        "description": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will miss out on life-changing opportunities – as five female academics...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Student debt eats away home deposit savings to tune of £2,000 a year, says Barclays",
-        "url": "https://www.theguardian.com/money/2026/mar/23/student-debt-eats-away-home-deposit-savings-to-tune-of-2000-a-year-says-barclays",
-        "description": "Repayments also affect financial stability of nearly half of graduates, according to report by UK bankPeople with student loans who are working towards a home deposit save almost £2,000 less per ye...",
+        "title": "Six students challenge Home Office visa ban on four countries",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
+        "description": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from studying in BritainSix students from Sudan and Afghanistan have acc...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Should the bank of mum and dad pay university debts?",
-        "url": "https://www.theguardian.com/money/2026/mar/21/student-loans-finance-parents-university-debts",
-        "description": "Those planning for uni in England and Wales this autumn can apply for student loans from Monday. Here are the options for families worried about debtOur child is heading to university soon – should...",
+        "title": "‘Audiences told us we didn’t show enough teacher sex’: how we made Waterloo Road",
+        "url": "https://www.theguardian.com/culture/2026/mar/23/how-we-made-waterloo-road-twenty-years-on-bbc",
+        "description": "‘In series one, it was bullying, drugs and alcohol. Twenty years on, it’s vapes, cyber-bullying and bloody energy drinks’I was working on women’s prison drama Bad Girls when the idea for Waterloo R...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Two pilots dead after plane and ground vehicle collide at New York's LaGuardia Airport",
-        "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
-        "description": "The plane, arriving from Montreal, collided with a firefighting vehicle responding to a separate incident.",
+        "title": "A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran",
+        "url": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
+        "description": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Colombian Air Force plane crashes with scores of soldiers on board",
+        "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
+        "description": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
         "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
         "description": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
-        "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
-        "description": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
