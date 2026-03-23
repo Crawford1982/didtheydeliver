@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-03-22T18:36:23.505512+00:00",
+  "fetched_at": "2026-03-23T02:09:26.457036+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Starmer adviser urges ministers to look at profits cap for energy and petrol firms",
+        "url": "https://www.theguardian.com/money/2026/mar/22/starmer-adviser-richard-walker-profits-cap-energy-petrol-firms",
+        "description": "PM’s ‘cost of living champion’ calls for consideration of temporary measure to prevent profiteering from Iran war The government’s top cost of living adviser has called on ministers to explore a te...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Ministers confirm locations for seven new towns in England",
+        "url": "https://www.theguardian.com/society/2026/mar/22/ministers-confirm-locations-new-towns-england-housebuilding",
+        "description": "Programme is being billed as the most ambitious housebuilding project in England for half a centuryMinisters have confirmed the locations for seven new towns, which include under-developed inner-ci...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "James Cleverly says he disagrees with Nick Timothy about Islamic public prayer",
         "url": "https://www.theguardian.com/politics/2026/mar/22/james-cleverly-disagrees-nick-timothy-islamic-public-prayer-trafalgar-square",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Starmer adviser urges ministers to look at profits cap for energy and petrol firms",
-        "url": "https://www.theguardian.com/money/2026/mar/22/starmer-adviser-richard-walker-profits-cap-energy-petrol-firms",
-        "description": "PM’s ‘cost of living champion’ calls for consideration of temporary measure to prevent profiteering from Iran warThe government’s top cost of living adviser has called on ministers to explore a tem...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Iran not believed to have capability or intent to bomb Britain, says UK minister",
-        "url": "https://www.theguardian.com/world/2026/mar/22/iran-capability-intent-bomb-missiles-britain-steve-reed",
-        "description": "Steve Reed says ‘UK is not going to be dragged into this war’ after Israeli warnings that Iranian missiles could hit EuropeMiddle East crisis live – latest updatesIran is not believed to have the c...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "No assessment Iran could strike London, UK minister says",
-        "url": "https://www.bbc.com/news/articles/crm120x4lzxo?at_medium=RSS&at_campaign=rss",
-        "description": "Steve Reed says there is \"no specific assessment\" Iran is capable of hitting the UK, after Israel claimed it now could.",
+        "title": "Starmer and Trump discuss need to reopen Hormuz Strait",
+        "url": "https://www.bbc.com/news/articles/c98kdyye33no?at_medium=RSS&at_campaign=rss",
+        "description": "No 10 says the leaders agree reopening the shipping lane is key to ensuring energy market stability.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Energy bills rise 'inescapable' if oil prices stay high, says British Gas boss",
-        "url": "https://www.bbc.com/news/articles/c77mx575k4vo?at_medium=RSS&at_campaign=rss",
-        "description": "The boss of Centrica says it is \"too early\" to speculate but if oil costs continue to rise, homes will be hit.",
+        "title": "Call to cancel threat of prison for council tax non-payment",
+        "url": "https://www.bbc.com/news/articles/c75kne7qdy6o?at_medium=RSS&at_campaign=rss",
+        "description": "Debt charity StepChange says there are clear differences between councils when chasing unpaid tax.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -146,28 +146,35 @@
     ],
     "education": [
       {
+        "title": "Study links children’s social media use with anxiety and depression in teenage years",
+        "url": "https://www.theguardian.com/media/2026/mar/22/study-children-social-media-anxiety-depression",
+        "description": "Researchers say lack of sleep could be a factor among young people interacting online for more than three hours a dayChildren who are on social media for more than three hours a day are more likely...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Student debt eats away home deposit savings to tune of £2,000 a year, says Barclays",
+        "url": "https://www.theguardian.com/money/2026/mar/23/student-debt-eats-away-home-deposit-savings-to-tune-of-2000-a-year-says-barclays",
+        "description": "Repayments also affect financial stability of nearly half of graduates, according to report by UK bankPeople with student loans who are working towards a home deposit save almost £2,000 less per ye...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Should the bank of mum and dad pay university debts?",
         "url": "https://www.theguardian.com/money/2026/mar/21/student-loans-finance-parents-university-debts",
         "description": "Those planning for uni in England and Wales this autumn can apply for student loans from Monday. Here are the options for families worried about debtOur child is heading to university soon – should...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "‘Something I’ve never felt since Covid. It was scarier’: the shock and pain of Kent’s meningitis outbreak",
-        "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/mar/21/how-meningitis-broke-out-kent-university-nightclub",
-        "description": "How infections linked to a nightclub escalated into a public health incident requiring a national response is a puzzle experts are still grappling withTyra Skinner had already been violently sick t...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "The Kent meningitis outbreak: what is happening and why?",
-        "url": "https://www.theguardian.com/society/2026/mar/20/the-kent-meningitis-outbreak-what-is-happening-and-why",
-        "description": "Causes of meningitis, what the public health response has been, and how the situation differs from CovidThe deadly outbreak of meningitis in Kent has fuelled concerns about how far the disease will...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Ministers confirm locations for seven new towns in England",
+        "url": "https://www.theguardian.com/society/2026/mar/22/ministers-confirm-locations-new-towns-england-housebuilding",
+        "description": "Programme is being billed as the most ambitious housebuilding project in England for half a centuryMinisters have confirmed the locations for seven new towns, which include under-developed inner-ci...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Trump’s economic shocks are derailing Britain’s building plans",
         "url": "https://www.theguardian.com/business/2026/mar/21/trumps-economic-shocks-are-derailing-britains-building-plans",
@@ -181,13 +188,6 @@
         "description": "As Americans face a housing crisis, this development shows how communal living can bring homeownership within reach – and foster connection Continue reading...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "England must destine 7% of land to nature and renewables to hit green targets, data shows",
-        "url": "https://www.theguardian.com/environment/2026/mar/18/england-land-use-framework-nature-renewables-environmental-targets",
-        "description": "Government’s first published land use framework maps how land is used and how it can be adapted to meet changing needsAbout 7% of England’s land – an area roughly two-and-a-half times the size of C...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Iranian missiles injure 180 in towns near Israeli nuclear site",
-        "url": "https://www.bbc.com/news/articles/c9qdvnv13qdo?at_medium=RSS&at_campaign=rss",
-        "description": "Israel is investigating how ballistic missiles got through the country's sophisticated air defences.",
+        "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
+        "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
+        "description": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Sudan drone attack on key hospital killed 64 people during Eid, WHO says",
-        "url": "https://www.bbc.com/news/articles/cr715xynkvvo?at_medium=RSS&at_campaign=rss",
-        "description": "The strike killed 64 people, including 13 children, two nurses and a doctor, according to the WHO head.",
+        "title": "France's Socialists hold onto power in major cities in election boost for mainstream",
+        "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
+        "description": "Paris and Marseille are held by the Socialists in local elections which saw the nationalist right win in Nice and certain towns.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
