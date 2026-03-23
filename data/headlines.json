@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-03-23T02:09:26.457036+00:00",
+  "fetched_at": "2026-03-23T07:09:30.722075+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Funding for populist-right ‘media-political complex’ exceeded £170m in five years, research finds",
+        "url": "https://www.theguardian.com/media/2026/mar/23/funding-for-populist-right-media-political-complex-exceeded-170m-in-five-years-research-finds",
+        "description": "Handful of billionaires gave huge sums in particular to media organisations that boosted rightwing politicians, says Liam Byrne MPMore than £170m was given to MPs, political parties, media organisa...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Starmer adviser urges ministers to look at profits cap for energy and petrol firms",
         "url": "https://www.theguardian.com/money/2026/mar/22/starmer-adviser-richard-walker-profits-cap-energy-petrol-firms",
@@ -17,13 +24,6 @@
         "category": "government"
       },
       {
-        "title": "James Cleverly says he disagrees with Nick Timothy about Islamic public prayer",
-        "url": "https://www.theguardian.com/politics/2026/mar/22/james-cleverly-disagrees-nick-timothy-islamic-public-prayer-trafalgar-square",
-        "description": "Shadow justice secretary had called Trafalgar Square event an ‘act of domination’James Cleverly has said he disagrees with his Conservative frontbench colleague Nick Timothy’s assertion that public...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "Starmer and Trump discuss need to reopen Hormuz Strait",
         "url": "https://www.bbc.com/news/articles/c98kdyye33no?at_medium=RSS&at_campaign=rss",
         "description": "No 10 says the leaders agree reopening the shipping lane is key to ensuring energy market stability.",
@@ -33,23 +33,23 @@
     ],
     "economy": [
       {
+        "title": "Stock markets rocked by Trump’s Iran ultimatum, as UK economy faces growth hit – business live",
+        "url": "https://www.theguardian.com/business/live/2026/mar/23/stock-markets-gold-dollar-trump-iran-ultimatum-uk-economy-growth-borrowing-costs-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsMiddle East crisis live: Starmer calls emergency meeting on UK economy; IEA open to releasing more oil stocksThe chief executive of Saudi A...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "HS2 firm says new steel tariffs will ‘exacerbate’ cost pressures for UK construction industry",
+        "url": "https://www.theguardian.com/business/2026/mar/22/hs2-firm-says-new-steel-tariffs-will-exacerbate-cost-pressures-for-uk-construction-industry",
+        "description": "Doubling tariffs on imported steel will raise cost of the metal when Iran war is already inflating steel and concrete pricesOne of HS2’s biggest contractors has warned the government that raising t...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Campaign groups rail against Palantir, but the UK contracts keep coming",
         "url": "https://www.theguardian.com/technology/2026/mar/22/fca-deal-palantir-ai-financial-services-uk",
         "description": "AI analytics firm has become influential in Whitehall, and FCA deal gives it yet more access to dataPalantir extends reach into British state as it gets access to sensitive FCA dataPalantir’s lates...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "‘The new ketchup’? How hummus spread beyond a niche into a British staple",
-        "url": "https://www.theguardian.com/business/2026/mar/22/new-ketchup-hummus-uk-inflation-basket",
-        "description": "News that chickpea dip is to join list of products used for UK inflation basket confirms its move into the mainstreamThe best (and worst) supermarket hummus tasted and ratedIt is a sign of the time...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Energy shock talk grabs headlines but the Iran war is also driving the world towards a food crisis | Heather Stewart",
-        "url": "https://www.theguardian.com/business/2026/mar/22/energy-shock-iran-war-also-driving-world-towards-food-crisis",
-        "description": "Growers face soaring fertiliser and fuel costs as shipping choke point of the strait of Hormuz hits supply chains‘The stakes are enormous’: how a prolonged Iran war could shock the global economyIt...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "Hundreds of children stuck in hospital because of lack of community services",
+        "url": "https://www.theguardian.com/society/2026/mar/23/children-in-england-in-hospital-unnecessarily-lack-of-community-services-study-finds",
+        "description": "Discharge delays in England leave patients trapped while youngsters needing hospital care wait for beds, study findsHundreds of children are in hospital unnecessarily on any given day because they ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Department of Health retracts claim sunbeds are as dangerous as smoking",
         "url": "https://www.theguardian.com/politics/2026/mar/21/department-of-health-retracts-claim-sunbeds-dangerous-as-smoking",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "Ambulance delays during power cut possibly contributed to man’s death, coroner rules",
-        "url": "https://www.theguardian.com/society/2026/mar/20/peter-coates-death-coroner-ambulance-delays-power-cut",
-        "description": "Peter Coates’s family welcome end to years pursuing answers after he died when breathing apparatus stoppedA family has welcomed a coroner’s conclusion that ambulance delays possibly contributed to ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Thousands get meningitis vaccine as experts wait to see outbreak peak",
         "url": "https://www.bbc.com/news/articles/cj3752nn4v0o?at_medium=RSS&at_campaign=rss",
         "description": "The outbreak, which has killed two people, is thought to have originated at a Canterbury nightclub.",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "‘Constant uncertainty’: Mahmood’s ‘earned settlement’ immigration plan has families stuck in limbo",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/23/constant-uncertainty-mahmoods-earned-settlement-immigration-plan-has-families-stuck-in-limbo",
+        "description": "Home secretary’s new ILR rules mean couples such as Felix and Tessa King, from UK and US, face an insecure future“It’s the sickening stress of never quite feeling like you have roots. My marriage f...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "‘This country has been our home’: US family in UK threatened with detention over visa mix-up",
         "url": "https://www.theguardian.com/uk-news/2026/mar/22/this-country-has-been-our-home-us-family-in-uk-threatened-with-detention-over-visa-mix-up",
@@ -105,16 +112,16 @@
         "description": "Cases emerge after other people tell of change in Home Office policy on passports that has left people scramblingTwo more British teenagers have found themselves unable to return to the UK because ...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "‘One in, one out’ asylum seekers sent to France return to UK in lorries",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/19/one-in-one-out-asylum-seekers-france-uk-lorries",
-        "description": "Exclusive: At least four people have travelled back to the UK by lorry in the last two weeksAsylum seekers who arrived in the UK in small boats and were forcibly returned to France under the contro...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Earth being ‘pushed beyond its limits’ as energy imbalance reaches record high",
+        "url": "https://www.theguardian.com/environment/2026/mar/23/earth-being-pushed-beyond-its-limits-as-energy-imbalance-reaches-record-high",
+        "description": "State of the Climate report finds Earth’s energy has moved dangerously out of balance, with oceans absorbing vast majority of trapped heatOur home planet is struggling with a record energy imbalanc...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Weather extremes gripping US bear climate crisis ‘fingerprint’, experts say",
         "url": "https://www.theguardian.com/us-news/2026/mar/22/climate-crisis-march-extreme-weather",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Arizona desert town breaks record for hottest March temperature in US history",
-        "url": "https://www.theguardian.com/us-news/2026/mar/20/arizona-march-temperature-record",
-        "description": "Martinez Lake, about 145 miles west of Phoenix, reached 110F (43.3C) on Thursday amid scorching south-west heatSign up for the Breaking News US email to get newsletter alerts in your inboxA small c...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Nasa's Artemis Moon rocket rolls back to pad for possible April launch",
-        "url": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
-        "description": "Nasa is preparing a mission to send astronauts around the Moon for the first time in more than 50 years.",
+        "title": "UN issues new climate warning as El Niño looms",
+        "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
+        "description": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "‘Luxury takes time. We don’t have time’: The former top military officer on a mission to fix the Dutch housing crisis",
+        "url": "https://www.theguardian.com/society/2026/mar/23/former-top-military-officer-elanor-boekholt-osullivan-mission-fix-dutch-housing-crisis",
+        "description": "Elanor Boekholt-O’Sullivan plans to simplify the housebuilding process to tackle shortage of 400,000 homesElanor Boekholt-O’Sullivan is on a mission. The new housing minister of the Netherlands is ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Ministers confirm locations for seven new towns in England",
         "url": "https://www.theguardian.com/society/2026/mar/22/ministers-confirm-locations-new-towns-england-housebuilding",
         "description": "Programme is being billed as the most ambitious housebuilding project in England for half a centuryMinisters have confirmed the locations for seven new towns, which include under-developed inner-ci...",
@@ -181,20 +188,20 @@
         "description": "With major developments collapsing, pressure is growing on councils to concede on affordable housing and public amenitiesDonald Trump has done his best to crush the green shoots of the global, post...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Meet the Seattle families living communally to bring down costs – in pictures",
-        "url": "https://www.theguardian.com/environment/gallery/2026/mar/19/seattle-co-op-homeownership",
-        "description": "As Americans face a housing crisis, this development shows how communal living can bring homeownership within reach – and foster connection Continue reading...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
-        "url": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-        "description": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
+        "title": "Plane and ground vehicle collide at New York's LaGuardia airport halting flights",
+        "url": "https://www.bbc.com/news/articles/cy01g522ww4o?at_medium=RSS&at_campaign=rss",
+        "description": "An Air Canada Express plane suffered significant damage after the collision.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Asia stocks slide as US and Iran threaten to escalate war",
+        "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
+        "description": "The International Energy Agency chief said the war could lead to the world's worst energy crisis in decades.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Israel to expand ground and air attacks against Hezbollah in Lebanon",
         "url": "https://www.bbc.com/news/articles/c30rl05evd8o?at_medium=RSS&at_campaign=rss",
         "description": "There are fears in Lebanon that Israel is preparing for a large-scale ground invasion.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "France's Socialists hold onto power in major cities in election boost for mainstream",
-        "url": "https://www.bbc.com/news/articles/crk14m7mjddo?at_medium=RSS&at_campaign=rss",
-        "description": "Paris and Marseille are held by the Socialists in local elections which saw the nationalist right win in Nice and certain towns.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
