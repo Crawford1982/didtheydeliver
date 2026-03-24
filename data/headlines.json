@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-03-24T07:03:38.923303+00:00",
+  "fetched_at": "2026-03-24T13:10:29.414658+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Ministers rebuff trade body’s call to boost North Sea oil and gas production",
-        "url": "https://www.theguardian.com/business/2026/mar/24/ministers-rebuff-call-north-sea-oil-gas-production-offshore-energies-uk",
-        "description": "Government emphasises need to ‘get off the rollercoaster of fossil fuel markets’ in response to Offshore Energies UKThe UK government has dismissed a warning from an energy trade body that failing ...",
+        "title": "UK medical council overhaul may mean more doctors struck off for racism and antisemitism",
+        "url": "https://www.theguardian.com/society/2026/mar/24/overhaul-uk-medical-council-gmc-more-doctors-struck-off-racism-antisemitism",
+        "description": "Health department says ‘too many’ doctors have been using racist and antisemitic language, particularly on social media, without rebukeAn overhaul of the General Medical Council is expected to lead...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Keir Starmer signals winter support for household bills amid energy price shock",
-        "url": "https://www.theguardian.com/politics/2026/mar/23/starmer-support-household-bills-next-winter-energy-price-shock",
-        "description": "Any taxpayer-funded financial help will be likely to go to poorest households, rather than to everyone, PM indicatesMinisters are looking at providing support for household bills next winter, Keir ...",
+        "title": "Reeves announces plans to reduce economic impact of Iran war – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/mar/24/rachel-reeves-uk-economy-keir-starmer-iran-war-uk-politics-latest-news-updates",
+        "description": "Chancellor delivered a statement to MPs in the House of CommonsThe live feed from the Lib Dem local elections campaign launch did not last long, and it did not include footage of Ed Davey taking qu...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Ministers tell HS2 to consider slower train speeds to cut costs",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/23/ministers-tell-hs2-to-consider-slower-train-speeds-to-cut-costs",
-        "description": "Company will assess whether drop to 186mph from 224mph will save money and help bring forward launchMinisters have told High Speed Two to consider running its trains at lower speeds, in an attempt ...",
+        "title": "More North Sea drilling will put UK at mercy of fossil fuel markets, ministers say",
+        "url": "https://www.theguardian.com/environment/2026/mar/24/north-sea-drilling-concerns-uk-fossil-fuel-markets-ed-miliband",
+        "description": "Ed Miliband says only clean power will provide ‘energy sovereignty’ amid opposition calls for oil and gas expansionUK politics live – latest updatesMinisters have said expanding North Sea drilling ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "UK manufacturers hit by biggest surge in cost inflation since Black Wednesday as Iran war hits economy – business live",
+        "url": "https://www.theguardian.com/business/live/2026/mar/24/brent-crude-oil-100-dollars-a-barrel-middle-east-iran-stock-markets-economic-growth-latest-news-updates",
+        "description": "War in the Middle East has hit the UK economy in March, stalling growth while driving inflation sharply higherMiddle East crisis – live updatesEvidence is coming in this morning that the Iran war h...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK manufacturers hit by sharpest rise in cost inflation since Black Wednesday in 1992",
+        "url": "https://www.theguardian.com/business/2026/mar/24/uk-manufacturers-rise-cost-inflation-pmi-oil-prices-iran-war",
+        "description": "PMI figure reveals impact on economy of rise in oil prices driven by Iran warBusiness live – latest updatesThe UK’s manufacturers have suffered the sharpest one-month acceleration in costs since th...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Dow Jones Industrial Average posts best day since early February as hopes of Middle East de-escalation lift markets – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/mar/23/stock-markets-gold-dollar-trump-iran-ultimatum-uk-economy-growth-borrowing-costs-latest-news-updates",
         "description": "Investors are piling back into shares after US president extends Iran’s deadline to reopen strait of Hormuz, sending oil price down Trump extends Iran deadline by five days and claims ‘productive’ ...",
@@ -40,28 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Starmer says ‘every lever’ will be explored to ease rising costs of living from Iran conflict",
-        "url": "https://www.theguardian.com/business/2026/mar/23/keir-starmer-rising-cost-of-living-uk-iran-conflict",
-        "description": "PM will chair Cobra meeting with key ministers and Bank of England on Monday, as experts warn of economic shockUK politics live – latest updatesMiddle East crisis – live updatesKeir Starmer has pro...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK mortgage interest rates expected to rise despite Trump’s Iran pause",
-        "url": "https://www.theguardian.com/business/2026/mar/23/uk-mortgage-interest-rates-markets-bank-of-england-iran-war",
-        "description": "Bank of England likely to make two quarter-point increases amid sustained rise in inflation, investors believeBusiness live – latest updates‘Trumpflation’: how the Iran war’s economic storm could a...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Royal Mail staff say they were told to hide post to look like delivery targets met",
-        "url": "https://www.bbc.com/news/articles/cm2knk5d4deo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC Your Voice hears from postal workers who say \"take the mail for ride\" is a common phrase.",
+        "title": "Vet prescription fees to be capped at £21",
+        "url": "https://www.bbc.com/news/articles/cj32d05x702o?at_medium=RSS&at_campaign=rss",
+        "description": "Vets will have to publish price lists for services under measures from the UK's competition watchdog.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "UK medical council overhaul may mean more doctors struck off for racism and antisemitism",
+        "url": "https://www.theguardian.com/society/2026/mar/24/overhaul-uk-medical-council-gmc-more-doctors-struck-off-racism-antisemitism",
+        "description": "Health department says ‘too many’ doctors have been using racist language, particularly on social media, without swift actionAn overhaul of the General Medical Council is expected to lead to more d...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "No new meningitis cases linked to Kent outbreak found, health agency says",
         "url": "https://www.theguardian.com/society/2026/mar/23/meningitis-no-new-cases-linked-fatal-kent-outbreak-ukhsa",
@@ -73,13 +80,6 @@
         "title": "Scotland becomes first part of UK to screen newborns for spinal muscular atrophy",
         "url": "https://www.theguardian.com/uk-news/2026/mar/23/scotland-first-part-of-uk-to-screen-newborn-babies-spinal-muscular-atrophy",
         "description": "Campaigners hope pilot will result in heel prick test for rare condition being approved across BritainScotland has become the first part of the UK to screen newborn babies for spinal muscular atrop...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Hundreds of children stuck in hospital because of lack of community services",
-        "url": "https://www.theguardian.com/society/2026/mar/23/children-in-england-in-hospital-unnecessarily-lack-of-community-services-study-finds",
-        "description": "Discharge delays in England leave patients trapped while youngsters needing hospital care wait for beds, study findsHundreds of children are in hospital unnecessarily on any given day because they ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -100,16 +100,16 @@
         "category": "immigration"
       },
       {
-        "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
-        "description": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will miss out on life-changing opportunities – as five female academics...",
+        "title": "Six students challenge Home Office visa ban on four countries",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
+        "description": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from studying in BritainSix students from Sudan and Afghanistan have acc...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Six students challenge Home Office visa ban on four countries",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
-        "description": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from studying in BritainSix students from Sudan and Afghanistan have acc...",
+        "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
+        "description": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will miss out on life-changing opportunities – as five female academics...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
-        "url": "https://www.bbc.com/news/articles/czjw7klkjm2o?at_medium=RSS&at_campaign=rss",
-        "description": "Solar panels that can be plugged in at home could be available to buy in supermarkets in the coming months.",
+        "title": "Decline in migratory fish populations prompts fight for protection",
+        "url": "https://www.bbc.com/news/articles/cr4105d93d3o?at_medium=RSS&at_campaign=rss",
+        "description": "The UN assessment of the state of migratory freshwater fish revealed an 81% decline in the last 50 years.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -176,39 +176,39 @@
         "category": "housing"
       },
       {
-        "title": "Ministers delay new rules for low-carbon housing in England",
-        "url": "https://www.theguardian.com/environment/2026/mar/24/ministers-delay-new-rules-for-low-carbon-housing-in-england",
-        "description": "Homes built from March 2028 will produce 75% less greenhouse gas emissions than those built to 2013 standardBuyers of new homes are likely to be shackled to high gas prices for years to come, as th...",
+        "title": "Airbnb in firing line as Cape Town’s housing crisis catches up with middle class",
+        "url": "https://www.theguardian.com/world/2026/mar/24/airbnb-cape-town-housing-crisis-middle-class",
+        "description": "Social media full of complaints about digital nomads, while waiting list for social housing gets longerEarlier this month, graffiti appeared on the promenade in Sea Point, on Cape Town’s wealthy At...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "‘Luxury takes time. We don’t have time’: The former top military officer on a mission to fix the Dutch housing crisis",
-        "url": "https://www.theguardian.com/society/2026/mar/23/former-top-military-officer-elanor-boekholt-osullivan-mission-fix-dutch-housing-crisis",
-        "description": "Elanor Boekholt-O’Sullivan plans to simplify the housebuilding process to tackle shortage of 400,000 homesElanor Boekholt-O’Sullivan is on a mission. The new housing minister of the Netherlands is ...",
+        "title": "Ministers delay new rules for low-carbon housing in England",
+        "url": "https://www.theguardian.com/environment/2026/mar/24/ministers-delay-new-rules-for-low-carbon-housing-in-england",
+        "description": "Homes built from March 2028 will produce 75% less greenhouse gas emissions than those built to 2013 standardBuyers of new homes are likely to be shackled to high gas prices for years to come, as th...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Ultimatums, diplomacy and a trip to Graceland as Trump eyes a deal with Iran",
-        "url": "https://www.bbc.com/news/articles/c895v5pq5p1o?at_medium=RSS&at_campaign=rss",
-        "description": "America may be a nation at war, but the president's activities have been a mix of diplomacy and diversions - with the occasional swing toward the surreal.",
+        "title": "Israel says it will take control of large buffer zone in southern Lebanon",
+        "url": "https://www.bbc.com/news/articles/cy91j9qwp4do?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of displaced Lebanese residents will not be allowed to return home until northern Israel is safe, he says.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
-        "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
-        "description": "In the aftermath of the collision of Air Canada flight AC8646 with a fire truck in New York, US transportation chief Sean Duffy emphasized that seat belts helped save lives",
+        "title": "At least five killed in massive wave of Russian strikes across Ukraine, officials say",
+        "url": "https://www.bbc.com/news/articles/c87wxvn0z3vo?at_medium=RSS&at_campaign=rss",
+        "description": "Officials said the attacks were among the worst in ten days, with damage reported in eleven regions across the country.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
-        "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
-        "description": "A group of Russians and Angolans are going on trial in Angola after being accused of fomenting protests, which they deny.",
+        "title": "Australia and EU agree sweeping trade deal in face of global uncertainty",
+        "url": "https://www.bbc.com/news/articles/cly6g6l6lq7o?at_medium=RSS&at_campaign=rss",
+        "description": "Australia and the EU sign sweeping trade and security deals after years of negotiations.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
