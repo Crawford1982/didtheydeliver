@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-03-23T18:53:42.757698+00:00",
+  "fetched_at": "2026-03-24T02:01:21.181228+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer signals support for household bills next winter amid energy price shock",
+        "title": "Ministers rebuff trade body’s call to boost North Sea oil and gas production",
+        "url": "https://www.theguardian.com/business/2026/mar/24/ministers-rebuff-call-north-sea-oil-gas-production-offshore-energies-uk",
+        "description": "Government emphasises need to ‘get off the rollercoaster of fossil fuel markets’ in response to Offshore Energies UKThe UK government has dismissed a warning from an energy trade body that failing ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Keir Starmer signals winter support for household bills amid energy price shock",
         "url": "https://www.theguardian.com/politics/2026/mar/23/starmer-support-household-bills-next-winter-energy-price-shock",
-        "description": "PM indicates he would prefer to focus taxpayer-funded help on poorest households, rather than universal bailoutMinisters are looking at providing support for household bills next winter, Keir Starm...",
+        "description": "Any taxpayer-funded financial help will be likely to go to poorest households, rather than to everyone, PM indicatesMinisters are looking at providing support for household bills next winter, Keir ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -13,13 +20,6 @@
         "title": "Ministers tell HS2 to consider slower train speeds to cut costs",
         "url": "https://www.theguardian.com/uk-news/2026/mar/23/ministers-tell-hs2-to-consider-slower-train-speeds-to-cut-costs",
         "description": "Company will assess whether drop to 186mph from 224mph will save money and help bring forward launchMinisters have told High Speed Two to consider running its trains at lower speeds, in an attempt ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "British destroyer HMS Dragon arrives in eastern Mediterranean",
-        "url": "https://www.theguardian.com/politics/2026/mar/23/british-destroyer-hms-dragon-arrives-in-eastern-mediterranean",
-        "description": "Ship arrives three weeks after Iranian-made drone hit British base of RAF Akrotiri on CyprusMiddle East crisis – live updatesHMS Dragon has arrived in the eastern Mediterranean, three weeks after a...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,9 @@
     ],
     "economy": [
       {
-        "title": "Wall Street joins market rally as Trump postpones power plant strikes after ‘very good and productive’ talks with Iran – business live",
+        "title": "Dow Jones Industrial Average posts best day since early February as hopes of Middle East de-escalation lift markets – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/mar/23/stock-markets-gold-dollar-trump-iran-ultimatum-uk-economy-growth-borrowing-costs-latest-news-updates",
-        "description": "Investors are piling back into shares after US president extends Iran’s deadline to reopen strait of Hormuz, sending oil price downTrump extends Iran deadline by five days and claims ‘productive’ t...",
+        "description": "Investors are piling back into shares after US president extends Iran’s deadline to reopen strait of Hormuz, sending oil price down Trump extends Iran deadline by five days and claims ‘productive’ ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,18 +54,18 @@
         "category": "economy"
       },
       {
-        "title": "HS2 trains could run slower than planned to save money",
-        "url": "https://www.bbc.com/news/articles/czex3lj077xo?at_medium=RSS&at_campaign=rss",
-        "description": "The government is looking at ways to make much-delayed London to Birmingham railway line cheaper to deliver.",
+        "title": "Royal Mail staff say they were told to hide post to look like delivery targets met",
+        "url": "https://www.bbc.com/news/articles/cm2knk5d4deo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Your Voice hears from postal workers who say \"take the mail for ride\" is a common phrase.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "No new meningitis cases linked to Kent outbreak reported, health agency says",
+        "title": "No new meningitis cases linked to Kent outbreak found, health agency says",
         "url": "https://www.theguardian.com/society/2026/mar/23/meningitis-no-new-cases-linked-fatal-kent-outbreak-ukhsa",
-        "description": "UKHSA says on Monday morning there has been no change since 20 cases had been confirmed by SundayThere have been no new cases of meningitis linked to an outbreak in Kent reported, the UK Health Sec...",
+        "description": "UKHSA reports 29 cases, the same figure as on Sunday, raising hopes the outbreak has been well contained No new cases of meningitis linked to the outbreak in Kent have been detected, raising hopes ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,16 +93,16 @@
     ],
     "immigration": [
       {
-        "title": "Six students challenge Home Office visa ban on four countries",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
-        "description": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from studying in BritainSix students from Sudan and Afghanistan have acc...",
+        "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
+        "description": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will miss out on life-changing opportunities – as five female academics...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
-        "description": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will miss out on life-changing opportunities – as five female academics...",
+        "title": "Six students challenge Home Office visa ban on four countries",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
+        "description": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from studying in BritainSix students from Sudan and Afghanistan have acc...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -118,7 +118,7 @@
       {
         "title": "Australia’s generation Alpha faces $185k bill over lifetime without urgent action on climate crisis, report finds",
         "url": "https://www.theguardian.com/business/2026/mar/23/australia-generation-alpha-faces-185k-bill-over-lifetime-without-urgent-action-on-climate-crisis-report-finds",
-        "description": "Global heating consistent with current projections would cost average millennial $130,000 and $165,000 for gen Z, according to Deloitte modellingGet our breaking news email, free app or daily news ...",
+        "description": "Global heating consistent with current projections would cost average millennial $130,000 and $165,000 for gen Z, according to Deloitte modellingFollow our Australia news live blog for latest updat...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "UN issues new climate warning as El Niño looms",
-        "url": "https://www.bbc.com/news/articles/c203rdxkezwo?at_medium=RSS&at_campaign=rss",
-        "description": "The Earth's climate is further out of balance than at any time in recorded history, the UN's weather agency says.",
+        "title": "Heat pumps for all new homes and plug-in solar in green tech drive",
+        "url": "https://www.bbc.com/news/articles/czjw7klkjm2o?at_medium=RSS&at_campaign=rss",
+        "description": "Solar panels that can be plugged in at home could be available to buy in supermarkets in the coming months.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Top English schools take in half as many Send pupils as average comprehensive",
+        "url": "https://www.theguardian.com/education/2026/mar/24/english-secondary-schools-half-send-pupils-as-average-comprehensive",
+        "description": "School leaders believe some deploy a deliberate strategy to boost grades and improve finances, new research suggests The top 500 secondary schools take in half as many disadvantaged pupils with spe...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
         "url": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
@@ -158,13 +165,6 @@
         "description": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from studying in BritainSix students from Sudan and Afghanistan have acc...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "‘Audiences told us we didn’t show enough teacher sex’: how we made Waterloo Road",
-        "url": "https://www.theguardian.com/culture/2026/mar/23/how-we-made-waterloo-road-twenty-years-on-bbc",
-        "description": "‘In series one, it was bullying, drugs and alcohol. Twenty years on, it’s vapes, cyber-bullying and bloody energy drinks’I was working on women’s prison drama Bad Girls when the idea for Waterloo R...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
@@ -176,39 +176,39 @@
         "category": "housing"
       },
       {
-        "title": "Ministers confirm locations for seven new towns in England",
-        "url": "https://www.theguardian.com/society/2026/mar/22/ministers-confirm-locations-new-towns-england-housebuilding",
-        "description": "Programme is being billed as the most ambitious housebuilding project in England for half a centuryMinisters have confirmed the locations for seven new towns, which include under-developed inner-ci...",
+        "title": "Ministers delay new rules for low-carbon housing in England",
+        "url": "https://www.theguardian.com/environment/2026/mar/24/ministers-delay-new-rules-for-low-carbon-housing-in-england",
+        "description": "Homes built from March 2028 will produce 75% less greenhouse gas emissions than those built to 2013 standardBuyers of new homes are likely to be shackled to high gas prices for years to come, as th...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Trump’s economic shocks are derailing Britain’s building plans",
-        "url": "https://www.theguardian.com/business/2026/mar/21/trumps-economic-shocks-are-derailing-britains-building-plans",
-        "description": "With major developments collapsing, pressure is growing on councils to concede on affordable housing and public amenitiesDonald Trump has done his best to crush the green shoots of the global, post...",
+        "title": "Ministers confirm locations for seven new towns in England",
+        "url": "https://www.theguardian.com/society/2026/mar/22/ministers-confirm-locations-new-towns-england-housebuilding",
+        "description": "Programme is being billed as the most ambitious housebuilding project in England for half a centuryMinisters have confirmed the locations for seven new towns, which include under-developed inner-ci...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "A pharmacist and a homesick lifestyle blogger: The 'alarming' civilian cost of war in Iran",
+        "title": "A committed pharmacist and a homesick blogger – the Iranian civilians killed in the war",
         "url": "https://www.bbc.com/news/articles/c3v6ld7lv9no?at_medium=RSS&at_campaign=rss",
         "description": "The toll on civilians is mounting fast as the US-Israeli war on Iran continues.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Colombian Air Force plane crashes with scores of soldiers on board",
-        "url": "https://www.bbc.com/news/articles/c8dlmrjn1l2o?at_medium=RSS&at_campaign=rss",
-        "description": "Colombia's defence minister says it was a \"tragic accident\" but the cause is not yet clear.",
+        "title": "'Like the plane got cut in half': LaGuardia crash that killed two pilots now under investigation",
+        "url": "https://www.bbc.com/news/articles/c78rdze8zvjo?at_medium=RSS&at_campaign=rss",
+        "description": "In the aftermath of the collision of Air Canada flight AC8646 with a fire truck in New York, US transportation chief Sean Duffy emphasized that seat belts helped save lives",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Oil falls and shares rebound after Trump says talks have been held to end war",
-        "url": "https://www.bbc.com/news/articles/czex56kwxxzo?at_medium=RSS&at_campaign=rss",
-        "description": "Energy prices fall and stock markets rebound after the US president says \"very good and productive\" talks have been held.",
+        "title": "Inside the alleged Russian operation to trigger anti-government protests in Angola",
+        "url": "https://www.bbc.com/news/articles/c1mklzkz41jo?at_medium=RSS&at_campaign=rss",
+        "description": "A group of Russians and Angolans are going on trial in Angola after being accused of fomenting protests, which they deny.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
