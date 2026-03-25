@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-03-25T02:06:51.804933+00:00",
+  "fetched_at": "2026-03-25T07:01:48.873545+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Environment Agency too weak to tackle illegal waste dumping, MPs say",
+        "url": "https://www.theguardian.com/environment/2026/mar/25/environment-agency-too-weak-to-tackle-waste-dumping-mps-say",
+        "description": "Regulator for England lacks powers to deal with what the public accounts committee calls an ‘out-of-control plague’ The Environment Agency is too weak to tackle an “out-of-control plague” of waste ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "English councils to get guidance on designing safer streets for women and girls",
         "url": "https://www.theguardian.com/politics/2026/mar/25/england-councils-to-get-guidance-on-redesigning-streets-to-better-protect-women-and-girls",
@@ -13,13 +20,6 @@
         "title": "Public satisfaction with the NHS rises for first time since 2019",
         "url": "https://www.theguardian.com/society/2026/mar/25/public-satisfaction-with-nhs-rises-wes-streeting",
         "description": "Wes Streeting set to hail result as proof of progress, but Britons remain frustrated with long waits for GP hospital carePublic satisfaction with the NHS has risen for the first time since 2019, bu...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Councils in England must outline Send plans to access £860m funding pot",
-        "url": "https://www.theguardian.com/education/2026/mar/24/councils-in-england-must-outline-send-plans-to-access-860m-funding-pot",
-        "description": "First tranche of a £3bn fund aimed at creating 50,000 new Send places in mainstream schools part of changes announced last monthCouncils in England will have to set out plans to create more places ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -40,21 +40,21 @@
         "category": "economy"
       },
       {
-        "title": "Energy price shock and interest rate rises could cause ‘pronounced’ UK recession, economist warns – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/mar/24/brent-crude-oil-100-dollars-a-barrel-middle-east-iran-stock-markets-economic-growth-latest-news-updates",
-        "description": "Morgan Stanley warns that UK could fall into a recession at the turn of the year, if energy prices remain high and Bank of England hikes interest ratesMiddle East crisis – live updatesEvidence is c...",
+        "title": "UK inflation held at 3% before global energy price hit from Iran war",
+        "url": "https://www.theguardian.com/business/2026/mar/25/uk-inflation-rate-energy-price-jump-iran-war",
+        "description": "February annual rate in line with analysts’ expectations but outlook has shifted because of effects of conflictThe UK inflation rate was unchanged at 3% in February, before Donald Trump’s Iran war ...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "UK manufacturers hit by sharpest rise in cost inflation since Black Wednesday in 1992",
-        "url": "https://www.theguardian.com/business/2026/mar/24/uk-manufacturers-rise-cost-inflation-pmi-oil-prices-iran-war",
-        "description": "PMI figure reveals impact on economy of rise in oil prices driven by Iran warBusiness live – latest updatesThe UK’s manufacturers have suffered the sharpest one-month acceleration in costs since th...",
+        "title": "We’re letting big corporations gamble with our lives. Act now, or the food could run out | George Monbiot",
+        "url": "https://www.theguardian.com/commentisfree/2026/mar/25/big-corporations-global-food-system-war-iran",
+        "description": "The fragility of the global food system fills me with dread – and the war with Iran has exposed just how close to collapse it is  The fate of environmentalists is to spend their lives trying not to...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock",
+        "title": "Oil at $150 would trigger global recession, says boss of financial giant BlackRock",
         "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
         "description": "Larry Fink says if oil prices stay high for a sustained period it will have \"profound implications\" for the world economy.",
         "source": "BBC News",
@@ -100,16 +100,16 @@
         "category": "immigration"
       },
       {
-        "title": "Six students challenge Home Office visa ban on four countries",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
-        "description": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from studying in BritainSix students from Sudan and Afghanistan have acc...",
+        "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
+        "description": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will miss out on life-changing opportunities – as five female academics...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "‘The UK is saying the same thing as the Taliban’: the women banned from studying in Britain",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/23/women-banned-from-studying-britain-taliban-afghanistan-sudan",
-        "description": "The Home Office has blocked new study visas for applicants from Afghanistan, Sudan, Myanmar and Cameroon. It means many women will miss out on life-changing opportunities – as five female academics...",
+        "title": "Six students challenge Home Office visa ban on four countries",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/23/six-students-challenge-home-office-visa-ban-sudan-afghanistan",
+        "description": "Sudanese and Afghan students with offers to study in UK say government’s ‘emergency brake’ is discriminatoryThe women banned from studying in BritainSix students from Sudan and Afghanistan have acc...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -169,13 +169,6 @@
     ],
     "housing": [
       {
-        "title": "Property company denies trying to mass-evict tenants before England’s no-fault evictions ban",
-        "url": "https://www.theguardian.com/society/2026/mar/24/criterion-capital-denies-mass-evict-tenants-before-no-fault-evictions-ban",
-        "description": "Exclusive: Housing minister wrote to Criterion Capital seeking urgent answers after MP said it issued at least 130 section 21 noticesA property company accused of trying to mass-evict tenants in th...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
         "title": "A right royal path we’d like to roam | Brief letters",
         "url": "https://www.theguardian.com/lifeandstyle/2026/mar/24/a-right-royal-path-wed-like-to-roam",
         "description": "Duchy of Cornwall | In plane site | Measuring milk | Tiny spoons | Hardware standard | Fatherly adviceAfter the successful opening of the King Charles III England coastal footpath (Report, 19 March...",
@@ -188,27 +181,34 @@
         "description": "Social media full of complaints about digital nomads, while waiting list for social housing gets longerEarlier this month, graffiti appeared on the promenade in Sea Point, on Cape Town’s wealthy At...",
         "source": "The Guardian",
         "category": "housing"
+      },
+      {
+        "title": "Property company denies trying to mass-evict tenants before England’s no-fault evictions ban",
+        "url": "https://www.theguardian.com/society/2026/mar/24/criterion-capital-denies-mass-evict-tenants-before-no-fault-evictions-ban",
+        "description": "Exclusive: Housing minister wrote to Criterion Capital seeking urgent answers after MP said it issued at least 130 section 21 noticesA property company accused of trying to mass-evict tenants in th...",
+        "source": "The Guardian",
+        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Oil at $150 will trigger global recession, says boss of financial giant BlackRock",
-        "url": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
-        "description": "Larry Fink says if oil prices stay high for a sustained period it will have \"profound implications\" for the world economy.",
+        "title": "'He liked the fear in our eyes', Epstein survivors tell BBC",
+        "url": "https://www.bbc.com/news/articles/cy81n9wexx6o?at_medium=RSS&at_campaign=rss",
+        "description": "In an interview with BBC Newsnight, five women abused by the disgraced financier describe the impact of their shared ordeal.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Iran war shows norms of international conflicts have been overturned",
-        "url": "https://www.bbc.com/news/articles/c4gjv02g54ko?at_medium=RSS&at_campaign=rss",
-        "description": "US threats against energy infrastructure, and Iran's retaliation on its Gulf neighbours, signal a clear change.",
+        "title": "Tough negotiations loom as Denmark's Social Democrats fail to secure a majority",
+        "url": "https://www.bbc.com/news/articles/c74v5qynl9vo?at_medium=RSS&at_campaign=rss",
+        "description": "The party, which has governed since 2019, gained the most votes but saw its weakest results in over a century.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Pilots killed in LaGuardia plane crash named",
-        "url": "https://www.bbc.com/news/articles/cz67jq0enwpo?at_medium=RSS&at_campaign=rss",
-        "description": "Investigators released details from the final three minutes of cockpit and tower communications, which showed controllers cleared both the plane and a fire truck to cross the runway.",
+        "title": "Meta told to pay $375m for misleading users over child safety",
+        "url": "https://www.bbc.com/news/articles/cql75dn07n2o?at_medium=RSS&at_campaign=rss",
+        "description": "The owner of Instagram, Facebook and WhatsApp has been found liable by a court in New Mexico.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
