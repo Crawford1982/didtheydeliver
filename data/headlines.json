@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-03-25T18:55:02.727062+00:00",
+  "fetched_at": "2026-03-26T02:12:56.237671+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK politics: Tories claim McSweeney has ‘serious questions’ to answer about phone theft – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/mar/25/rycroft-review-foreign-financial-interference-keir-starmer-kemi-badenoch-pmqs-latest-news-updates",
-        "description": "Shadow cabinet officer minister claims ‘this whole thing stinks to high heaven’Here is the list of MPs down to ask a question at PMQs.Wes Streeting, the health secretary, has urged people to reject...",
+        "title": "House of Lords push for Australian-style social media ban for under-16s",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/26/social-media-ban-under-16s-uk-house-lords",
+        "description": "Peers, in vote of 266 to 141, reject Keir Starmer’s proposals for public consultation to decide if social media ban should be introduced in UKThe House of Lords has backed an Australian-style socia...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Would Morgan McSweeney’s stolen phone have Mandelson messages on it?",
-        "url": "https://www.theguardian.com/politics/2026/mar/25/would-morgan-mcsweeney-stolen-mobile-have-mandelson-messages-on-it",
-        "description": "The theft of the ex-Labour chief of staff’s mobile has raised eyebrows in the context of the scandal over ex-ambassadorMorgan McSweeney is not the first person to have had their phone snatched on a...",
+        "title": "Wes Streeting: ‘I don’t want to see Keir challenged in May’ – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/mar/25/wes-streeting-keir-starmer-leadership-podcast",
+        "description": "Wes Streeting gave a speech outlining his performance on the NHS and plans for the future. Was this his unofficial leadership pitch? Pippa Crerar and Kiran Stacey sit down with the health secretary...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Hundreds of UK teenagers to trial six-week social media curbs for major study",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/25/hundreds-of-uk-teenagers-to-trial-six-week-social-media-curbs-for-major-study",
-        "description": "Government’s pilot ban for under-16s accompanies consultation as peers vote on Australia-style restrictionsHundreds of UK teenagers will trial social media bans, digital curfews and time limits on ...",
+        "title": "Overseas political funding capped and crypto donations blocked in blow to Reform UK",
+        "url": "https://www.theguardian.com/politics/2026/mar/25/political-donations-cryptocurrency-blocked-reform-uk",
+        "description": "Legislation subject to MPs’ approval but will be backdated due to urgency of threat to UK democracy, says ministerKeir Starmer is set to embark on a fundamental overhaul of the political finance sy...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "US Postal Service to introduce 8% fuel surcharge on packages",
+        "url": "https://www.theguardian.com/business/2026/mar/25/us-postal-service-fuel-surcharge",
+        "description": "Surcharge, spurred by oil price spikes due to the Iran war, is set to take effect on 26 April and run until January 2027The US Postal Service (USPS) plans to introduce its first-ever fuel surcharge...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "How to survive our doomed times? Both the experts and I have the same advice | Emma Brockes",
         "url": "https://www.theguardian.com/commentisfree/2026/mar/25/headlines-doom-carry-on-paralyse-fear",
@@ -47,25 +54,18 @@
         "category": "economy"
       },
       {
-        "title": "Trump’s war in Iran exposes US’s shift from a global guardian to an arbiter of chaos",
-        "url": "https://www.theguardian.com/world/2026/mar/25/trump-war-in-iran-us-shift-global-chaos",
-        "description": "The US is recklessly spreading economic havoc among global friends and foes while suffering little harm itselfTo shield ordinary Indians from the war in Iran, the government in Delhi redirected sup...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Meta and Google found liable in landmark social media addiction trial",
-        "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-        "description": "The verdict marks the end of a five-week trial on the addictive nature of social media platforms.",
+        "title": "Octopus boss: We've seen a 50% rise in solar panel sales since start of Iran war",
+        "url": "https://www.bbc.com/news/articles/c4gjlezq80no?at_medium=RSS&at_campaign=rss",
+        "description": "The UK giant is optimistic but chief executive Greg Jackson tells the BBC he is making contingency plans.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "Public satisfaction with the NHS rises for first time since 2019",
-        "url": "https://www.theguardian.com/society/2026/mar/25/public-satisfaction-with-nhs-rises-wes-streeting",
-        "description": "Wes Streeting set to hail result as proof of progress, but Britons remain frustrated with long waits for GP hospital carePublic satisfaction with the NHS has risen for the first time since 2019, bu...",
+        "title": "Resident doctors in England to begin six-day strike after rejecting offer in pay dispute",
+        "url": "https://www.theguardian.com/society/2026/mar/25/resident-doctors-nhs-england-strike-reject-offer-pay",
+        "description": "British Medical Association blame government for longest proposed walkout so far, with NHS leaders warning it could cost £300mResident doctors in England will strike for six days after Easter after...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Meta and Google found liable in landmark social media addiction trial",
+        "title": "Meta and YouTube found liable in landmark social media addiction trial",
         "url": "https://www.bbc.com/news/articles/c747x7gz249o?at_medium=RSS&at_campaign=rss",
-        "description": "The verdict marks the end of a five-week trial on the addictive nature of social media platforms.",
+        "description": "A woman has been awarded $6m in a verdict that could have implications for hundreds of other cases in the US.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "UN votes to recognise slavery as 'gravest crime against humanity'",
-        "url": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
-        "description": "The landmark resolution calls for an apology and contributions to a reparations fund, without specifying an amount.",
+        "title": "Who wants what and why from US-Iran peace talks?",
+        "url": "https://www.bbc.com/news/articles/cm29l9r68j8o?at_medium=RSS&at_campaign=rss",
+        "description": "There is indirect contact and channels between the two sides - but a deal may still be a long way off.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Democrats flip Florida state seat that includes Trump's Mar-a-Lago home",
-        "url": "https://www.bbc.com/news/articles/c9qd7wyln2jo?at_medium=RSS&at_campaign=rss",
-        "description": "Emily Gregory’s projected victory comes in a legislative district which a Republican candidate won by 19 percentage points in 2024.",
+        "title": "Prepare for turbulence - how a prolonged Middle East conflict could reshape how we fly",
+        "url": "https://www.bbc.com/news/articles/cn08x9lw0pzo?at_medium=RSS&at_campaign=rss",
+        "description": "The Gulf's hub airports made long-distance travel cheaper - but now their future looks unclear.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
