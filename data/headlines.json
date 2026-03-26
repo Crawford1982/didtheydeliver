@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-03-26T02:12:56.237671+00:00",
+  "fetched_at": "2026-03-26T07:07:13.168303+00:00",
   "headlines": {
     "government": [
       {
-        "title": "House of Lords push for Australian-style social media ban for under-16s",
+        "title": "‘Give the guy a chance’: Wes Streeting says he does not want Starmer ousted",
+        "url": "https://www.theguardian.com/politics/2026/mar/26/wes-streeting-says-he-does-not-want-keir-starmer-ousted",
+        "description": "Exclusive: health secretary says he does not think PM will face challenge after May elections, as public doesn’t want ‘chaos’Wes Streeting has said he does not want Keir Starmer to be challenged as...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Parents of Send pupils without EHCPs are least satisfied with schools, survey in England finds",
+        "url": "https://www.theguardian.com/education/2026/mar/26/parents-of-send-pupils-without-ehcps-are-least-satisfied-with-schools-survey-in-england-finds",
+        "description": "Only 38% of parents without care plans felt teachers in mainstream schools had the tools to deal with special needsParents of children with special needs in England feel alienated from their school...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "House of Lords pushes for Australian-style social media ban for under-16s",
         "url": "https://www.theguardian.com/uk-news/2026/mar/26/social-media-ban-under-16s-uk-house-lords",
         "description": "Peers, in vote of 266 to 141, reject Keir Starmer’s proposals for public consultation to decide if social media ban should be introduced in UKThe House of Lords has backed an Australian-style socia...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Wes Streeting: ‘I don’t want to see Keir challenged in May’ – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/mar/25/wes-streeting-keir-starmer-leadership-podcast",
-        "description": "Wes Streeting gave a speech outlining his performance on the NHS and plans for the future. Was this his unofficial leadership pitch? Pippa Crerar and Kiran Stacey sit down with the health secretary...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Overseas political funding capped and crypto donations blocked in blow to Reform UK",
-        "url": "https://www.theguardian.com/politics/2026/mar/25/political-donations-cryptocurrency-blocked-reform-uk",
-        "description": "Legislation subject to MPs’ approval but will be backdated due to urgency of threat to UK democracy, says ministerKeir Starmer is set to embark on a fundamental overhaul of the political finance sy...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "No 10 refuses to say if Mandelson texts were lost in top aide's phone theft",
-        "url": "https://www.bbc.com/news/articles/cvg09w1wvjqo?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Keir Starmer's former chief of staff Morgan McSweeney's phone may have contained vital information.",
+        "title": "British forces preparing to board Russian shadow fleet ships in UK waters",
+        "url": "https://www.bbc.com/news/articles/cvg0n9z3jlvo?at_medium=RSS&at_campaign=rss",
+        "description": "The move will \"starve Putin's war machine\", Starmer says as he arrives in Finland for a military summit.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Average UK mortgage rate rises to highest since August 2024 as Iran war pushes up borrowing costs – business live",
+        "url": "https://www.theguardian.com/business/live/2026/mar/26/uk-mortgage-rates-iran-war-borrowing-costs-oil-gas-economic-growth-business-live",
+        "description": "Rolling coverage of the latest economic and financial newsThe money markets continue to price in at least two rises in UK interest rates by the end of the year.The money markets indicate Bank rate ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK consumer confidence has ‘collapsed’ during Iran war, retail industry says",
+        "url": "https://www.theguardian.com/business/2026/mar/26/uk-consumer-confidence-has-collapsed-iran-war-retail-industry-energy-prices-inflation",
+        "description": "BRC survey finds public even more pessimistic about finances as higher energy prices fuel inflation fearsConsumer confidence in the UK has “collapsed” since the start of the Iran war, according to ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "US Postal Service to introduce 8% fuel surcharge on packages",
         "url": "https://www.theguardian.com/business/2026/mar/25/us-postal-service-fuel-surcharge",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "How to survive our doomed times? Both the experts and I have the same advice | Emma Brockes",
-        "url": "https://www.theguardian.com/commentisfree/2026/mar/25/headlines-doom-carry-on-paralyse-fear",
-        "description": "We have two choices: be paralysed by fear or just continue with what we are doing. I know what I chooseIn the past, my response to any given large-scale world crisis has generally been to do nothin...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "ECB could raise eurozone rates ‘as soon as next month’; oil price dips on peace talk hopes – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/mar/25/uk-inflation-steady-iran-war-oil-dips-trump-comments-business-live",
-        "description": "UK inflation stays at 3% in February as petrol prices fall and food inflation eases, before Iran war drives up global energy costsAs inflation and interest rate expectations have shifted dramatical...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Octopus boss: We've seen a 50% rise in solar panel sales since start of Iran war",
-        "url": "https://www.bbc.com/news/articles/c4gjlezq80no?at_medium=RSS&at_campaign=rss",
-        "description": "The UK giant is optimistic but chief executive Greg Jackson tells the BBC he is making contingency plans.",
+        "title": "NS&I set to pay millions in compensation to customers",
+        "url": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss",
+        "description": "The government-backed bank has been accused of a series of errors, including not paying bereaved families money that was rightfully theirs.",
         "source": "BBC News",
         "category": "economy"
       }
