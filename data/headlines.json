@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-03-26T19:04:37.302436+00:00",
+  "fetched_at": "2026-03-27T02:14:05.999529+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Trump describes UK aircraft carriers as ‘toys’ in latest anti-Nato jibe",
-        "url": "https://www.theguardian.com/politics/2026/mar/26/donald-trump-uk-aircraft-carriers-toys-nato-keir-starmer-iran",
-        "description": "US president says he is ‘very disappointed’ as he again lashes out at allies’ lack of involvement in Iran warMiddle East crisis – live updatesDonald Trump has dismissed British warships as “toys” i...",
+        "title": "UK government must urgently apologise for forced adoption, MPs say",
+        "url": "https://www.theguardian.com/society/2026/mar/27/uk-government-urgently-apologise-forced-adoption-mps-say",
+        "description": "Ministers urged to work with survivor groups on formal apology as many victims are nearing end of their livesThe UK government must urgently issue a formal apology for the state’s role in forced ad...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK politics: Trump says UK’s aircraft carriers are just ‘toys’ – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/mar/26/keir-starmer-ukraine-iran-social-media-ban-councils-pensions-latest-news-updates",
-        "description": "The comments were part of a broader address in which he condemned Nato alliesYesterday the Conservative party said that it wanted to ban political parties from distributing campaign literature in a...",
+        "title": "NHS bosses say resident doctors’ strike will cause ‘maximum harm’",
+        "url": "https://www.theguardian.com/society/2026/mar/26/nhs-bosses-say-resident-doctors-strike-maximum-harm",
+        "description": "BMA’s decision to withdraw from talks with government and NHS chiefs has sparked a war of wordsNHS bosses have accused resident doctors of seeking to cause “maximum harm” to patients by striking fo...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour vows to ban trail hunting as it opens public consultation",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/26/labour-pledges-ban-trail-hunting-public-consultation",
-        "description": "Police and animal rights activists say the practice is frequently used as a ‘smokescreen’ for illegal foxhuntingThe UK government has said it will ban trail hunting, the rural sport that police and...",
+        "title": "Rachel Reeves urged to raise taxes on companies profiting from war on Iran",
+        "url": "https://www.theguardian.com/politics/2026/mar/26/rachel-reeves-urged-to-raise-taxes-on-companies-profiting-from-war-on-iran",
+        "description": "Charities say taxes should rise for banks, defence and energy companies which stand to make windfall profitsMiddle East crisis liveRachel Reeves is being urged to raise taxes on businesses generati...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,13 @@
     ],
     "economy": [
       {
+        "title": "US markets see biggest slump since start of US-Israel war on Iran",
+        "url": "https://www.theguardian.com/business/2026/mar/26/markets-slump-us-israel-war-iran",
+        "description": "Dow closed 450 points down and S&P dipped 1.7% while Nasdaq fell 2.3% into correction territorySign up for the Breaking News US email to get newsletter alerts in your inboxUS markets saw their bigg...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "NS&I chief executive replaced in ‘fresh start’ over missing savings crisis; bad day for markets – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/mar/26/uk-mortgage-rates-iran-war-borrowing-costs-oil-gas-economic-growth-business-live",
         "description": "Rolling coverage of the latest economic and financial newsNS&I boss quits as bank faces record payout over missing savingsWhat caused the NS&I missing savings errors and what to do if you’re affect...",
@@ -42,33 +49,19 @@
       {
         "title": "Australian growth forecasts slashed as global economy faces inflation spike",
         "url": "https://www.theguardian.com/business/2026/mar/26/oecd-finds-global-economy-on-brink-of-inflation-spike-due-to-us-israeli-attacks-on-iran-with-australia-not-immune",
-        "description": "OECD says the Middle East war will test the world’s resilience with Australia expected to suffer from higher rates and inflationGet our breaking news email, free app or daily news podcastThe world ...",
+        "description": "OECD says the Middle East war will test the world’s resilience with Australia expected to suffer from higher rates and inflationFollow our Australia news live blog for latest updatesGet our breakin...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Middle East conflict will damage UK’s economy ‘more than any other’",
-        "url": "https://www.theguardian.com/business/2026/mar/26/middle-east-conflict-will-damage-uk-economy-more-than-any-other",
-        "description": "Organisation for Economic Cooperation and Development says UK economy will grow by just 0.7% this yearThe conflict in the Middle East will damage the UK’s economy more than any other industrialised...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "NS&I boss replaced as savers left waiting for millions of pounds",
-        "url": "https://www.bbc.com/news/articles/c3w3eg4n9zwo?at_medium=RSS&at_campaign=rss",
-        "description": "Pensions Minister Torston Bell said those affected would receive compensation \"where appropriate\".",
+        "title": "Trump's signature to appear on US dollars in first for sitting president",
+        "url": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss",
+        "description": "The US president's signature will appear on new paper currency alongside Treasury Secretary Scott Bessent.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
-      {
-        "title": "The Guardian view on a recovering NHS: public confidence has risen, but not enough | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/mar/26/the-guardian-view-on-a-recovering-nhs-public-confidence-has-risen-but-not-enough",
-        "description": "Wes Streeting pronounced the UK’s health system ‘broken’. An upbeat survey does not mean that it is fixedFor the government, news that public satisfaction with the NHS has increased for the first t...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
       {
         "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
         "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
@@ -77,9 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "UK politics: Trump says UK’s aircraft carriers are just ‘toys’ – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/mar/26/keir-starmer-ukraine-iran-social-media-ban-councils-pensions-latest-news-updates",
-        "description": "The comments were part of a broader address in which he condemned Nato alliesYesterday the Conservative party said that it wanted to ban political parties from distributing campaign literature in a...",
+        "title": "NHS bosses say resident doctors’ strike will cause ‘maximum harm’",
+        "url": "https://www.theguardian.com/society/2026/mar/26/nhs-bosses-say-resident-doctors-strike-maximum-harm",
+        "description": "BMA’s decision to withdraw from talks with government and NHS chiefs has sparked a war of wordsNHS bosses have accused resident doctors of seeking to cause “maximum harm” to patients by striking fo...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Labour failing to shift power from Whitehall to local areas, analysis finds",
+        "url": "https://www.theguardian.com/society/2026/mar/26/labour-failing-to-live-up-to-ambition-to-reform-public-services-analysis-finds",
+        "description": "Ministers not on course to meet their objectives in ongoing overhaul of public services, says Institute for Government Keir Starmer’s drive to overhaul public services is failing to live up to its ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -208,7 +208,7 @@
       {
         "title": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
         "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
-        "description": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay their lawyers.",
+        "description": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay lawyers.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
