@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-27T02:14:05.999529+00:00",
+  "fetched_at": "2026-03-27T07:06:13.302686+00:00",
   "headlines": {
     "government": [
       {
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Farage says local elections are referendum on Starmer, as he launches campaign",
-        "url": "https://www.bbc.com/news/articles/cp3lwywry4po?at_medium=RSS&at_campaign=rss",
-        "description": "Reform UK leader Nigel Farage is launching his party's push to take control of more councils at a rally in Sunderland.",
+        "title": "Screen time for under-fives should be limited to one hour a day, parents told",
+        "url": "https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&at_campaign=rss",
+        "description": "New guidance suggests avoiding fast-paced children's content and sharing screen time where possible for under-twos.",
         "source": "BBC News",
         "category": "government"
       }
@@ -192,13 +192,6 @@
     ],
     "foreign_policy": [
       {
-        "title": "Zelensky visits Saudi Arabia after offering Ukraine's drone expertise",
-        "url": "https://www.bbc.com/news/articles/cx2r4wxdw3no?at_medium=RSS&at_campaign=rss",
-        "description": "There is renewed urgency for Ukraine to get a drone deal done, as the US increasingly focuses on Iran.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
         "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
         "url": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
         "description": "The disruption in oil supplies has caused shortages and concerns in several African countries.",
@@ -206,9 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US prosecutors argue Maduro 'plundered' Venezuelan wealth in court battle over legal fees",
-        "url": "https://www.bbc.com/news/articles/c4g8wxyq7v5o?at_medium=RSS&at_campaign=rss",
-        "description": "A judge said the right to defence was paramount as prosecutors argued the couple should not be able to use Venezuelan funds to pay lawyers.",
+        "title": "Panic buying prompts PM to reassure Australians over fuel supply",
+        "url": "https://www.bbc.com/news/articles/cg73znr1vj7o?at_medium=RSS&at_campaign=rss",
+        "description": "Anthony Albanese says nation's supply remains \"secure\" amid reports of panic buying and shortages.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Two Cuba-bound aid ships missing after leaving Mexico",
+        "url": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
+        "description": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
