@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-03-27T07:06:13.302686+00:00",
+  "fetched_at": "2026-03-27T13:05:03.277724+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK government must urgently apologise for forced adoption, MPs say",
-        "url": "https://www.theguardian.com/society/2026/mar/27/uk-government-urgently-apologise-forced-adoption-mps-say",
-        "description": "Ministers urged to work with survivor groups on formal apology as many victims are nearing end of their livesThe UK government must urgently issue a formal apology for the state’s role in forced ad...",
+        "title": "Social media has led to a ‘complete rewiring of childhood’, says minister– UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/mar/27/starmer-says-iran-and-ukraine-wars-could-reshape-global-order-and-define-us-for-a-generation-uk-politics-live",
+        "description": "The government has published new guidance for parents that says under-fives should be limited to one hour of screen time a dayJosh MacAlister, the minister for children and families, said there has...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "NHS bosses say resident doctors’ strike will cause ‘maximum harm’",
-        "url": "https://www.theguardian.com/society/2026/mar/26/nhs-bosses-say-resident-doctors-strike-maximum-harm",
-        "description": "BMA’s decision to withdraw from talks with government and NHS chiefs has sparked a war of wordsNHS bosses have accused resident doctors of seeking to cause “maximum harm” to patients by striking fo...",
+        "title": "Cabinet Office to ask Mandelson to provide messages from personal phone",
+        "url": "https://www.theguardian.com/politics/2026/mar/27/cabinet-office-peter-mandelson-messages-personal-phone-morgan-mcsweeney",
+        "description": "Exchanges about US ambassador appointment may be lost after McSweeney’s phone was stolenUK politics live – latest updatesPeter Mandelson will be asked to supply messages from his personal phone as ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Rachel Reeves urged to raise taxes on companies profiting from war on Iran",
-        "url": "https://www.theguardian.com/politics/2026/mar/26/rachel-reeves-urged-to-raise-taxes-on-companies-profiting-from-war-on-iran",
-        "description": "Charities say taxes should rise for banks, defence and energy companies which stand to make windfall profitsMiddle East crisis liveRachel Reeves is being urged to raise taxes on businesses generati...",
+        "title": "Starmer vows to ‘fight’ social media firms to protect children from addiction",
+        "url": "https://www.theguardian.com/society/2026/mar/27/starmer-vows-to-fight-social-media-firms-to-protect-children-from-addiction",
+        "description": "Prime minister says government needs to show it is on families’ side as new screen-time guidance launchedUK politics live – latest updatesKeir Starmer has promised a “fight” with social media compa...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Screen time for under-fives should be limited to one hour a day, parents told",
-        "url": "https://www.bbc.com/news/articles/c1d936n7445o?at_medium=RSS&at_campaign=rss",
-        "description": "New guidance suggests avoiding fast-paced children's content and sharing screen time where possible for under-twos.",
+        "title": "Officials to ask Mandelson to hand over personal phone messages for release",
+        "url": "https://www.bbc.com/news/articles/czexpw3wgxeo?at_medium=RSS&at_campaign=rss",
+        "description": "Officials are set to publish more documents related to his appointment as UK ambassador to the US - but have so far only had access to the peer's work phone.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Average UK petrol price hits 150p for first time since 2024; Trump’s latest Iran extension fails to calm oil market – business live",
+        "url": "https://www.theguardian.com/business/live/2026/mar/27/oil-price-trump-iran-extension-uk-consumer-confidence-stock-markets-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial news, as Brent crude trades over $110 a barrel for first time since MondayMiddle East crisis live: Trump pausing strikes on Iran energy sites; ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "US markets see biggest slump since start of US-Israel war on Iran",
         "url": "https://www.theguardian.com/business/2026/mar/26/markets-slump-us-israel-war-iran",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Australian growth forecasts slashed as global economy faces inflation spike",
-        "url": "https://www.theguardian.com/business/2026/mar/26/oecd-finds-global-economy-on-brink-of-inflation-spike-due-to-us-israeli-attacks-on-iran-with-australia-not-immune",
-        "description": "OECD says the Middle East war will test the world’s resilience with Australia expected to suffer from higher rates and inflationFollow our Australia news live blog for latest updatesGet our breakin...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Trump's signature to appear on US dollars in first for sitting president",
-        "url": "https://www.bbc.com/news/articles/cz0el909yp3o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president's signature will appear on new paper currency alongside Treasury Secretary Scott Bessent.",
+        "title": "Petrol price above 150p a litre for first time in nearly two years",
+        "url": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss",
+        "description": "Motorists are facing higher fuel prices ahead of Easter break due to the conflict in the Middle East, the RAC says.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Doctors announce six-day strike in England as talks break down",
-        "url": "https://www.bbc.com/news/articles/c62j7jx910go?at_medium=RSS&at_campaign=rss",
-        "description": "The walkout over jobs and pay is one of the longest yet in the dispute, and will begin on 7 April in England.",
+        "title": "Our daughter battled Meningitis B despite being vaccinated in 'very rare' case",
+        "url": "https://www.bbc.com/news/articles/c3ex3j0w53yo?at_medium=RSS&at_campaign=rss",
+        "description": "After Noa-Rose became critically ill, the four-year-old spent two weeks fighting for her life.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Rationing power and diluting petrol - how African countries are coping with effects of Iran war",
-        "url": "https://www.bbc.com/news/articles/cq8wkq1n9epo?at_medium=RSS&at_campaign=rss",
-        "description": "The disruption in oil supplies has caused shortages and concerns in several African countries.",
+        "title": "'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises",
+        "url": "https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss",
+        "description": "One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Panic buying prompts PM to reassure Australians over fuel supply",
-        "url": "https://www.bbc.com/news/articles/cg73znr1vj7o?at_medium=RSS&at_campaign=rss",
-        "description": "Anthony Albanese says nation's supply remains \"secure\" amid reports of panic buying and shortages.",
+        "title": "Marco Rubio joins G7 talks with focus on Iran war",
+        "url": "https://www.bbc.com/news/articles/c1l9vz064nqo?at_medium=RSS&at_campaign=rss",
+        "description": "It is the secretary of state's first foreign trip since the conflict began last month.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Two Cuba-bound aid ships missing after leaving Mexico",
-        "url": "https://www.bbc.com/news/articles/cp84kw1y337o?at_medium=RSS&at_campaign=rss",
-        "description": "Mexico's navy launches a rescue mission for ships delivering aid to Cuba, strained by food and fuel shortages amid a US embargo.",
+        "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
+        "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
+        "description": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
