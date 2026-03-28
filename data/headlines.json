@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-28T02:05:06.550079+00:00",
+  "fetched_at": "2026-03-28T06:58:46.388781+00:00",
   "headlines": {
     "government": [
       {
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Asda boss rejects profiteering claims as petrol price tops 150p",
-        "url": "https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss",
-        "description": "Motorists are facing higher fuel prices ahead of Easter break due to the conflict in the Middle East, the RAC says.",
+        "title": "How Trump and the oil markets move in sync: a tango in six charts",
+        "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
+        "description": "Oil markets have been sensitive to Donald Trump's comments on the war. But are traders growing less responsive?",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Our daughter battled Meningitis B despite being vaccinated in 'very rare' case",
-        "url": "https://www.bbc.com/news/articles/c3ex3j0w53yo?at_medium=RSS&at_campaign=rss",
-        "description": "After Noa-Rose became critically ill, the four-year-old spent two weeks fighting for her life.",
+        "title": "Are UK students at risk of more deadly meningitis outbreaks?",
+        "url": "https://www.bbc.com/news/articles/c93eqvxydzqo?at_medium=RSS&at_campaign=rss",
+        "description": "The worst seems to be over, but questions remain about why this happened and whether it could happen again.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Cambridge offers botany course that inspired Darwin after rare archive uncovered",
+        "url": "https://www.theguardian.com/environment/2026/mar/28/cambridge-university-botany-course-charles-darwin-john-stevens-henslow",
+        "description": "University’s botanic garden will use study materials created by John Stevens Henslow, the naturalist’s mentor, 200 years agoPlant specimens and teaching materials that inspired Charles Darwin and q...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Schools in England must be compelled to offer pupils healthy food, not junk",
         "url": "https://www.theguardian.com/education/2026/mar/27/schools-england-must-offer-pupils-healthy-food-not-junk",
         "description": "School dinners have suffered at the hands of politics and economics for almost 50 yearsAlmost a generation has passed since Jamie Oliver’s four-part Channel 4 documentary series Jamie’s School Dinn...",
@@ -156,13 +163,6 @@
         "title": "School dinners in England dominated by grab-and-go foods such as pizza and sausage rolls",
         "url": "https://www.theguardian.com/education/2026/mar/27/school-dinners-england-grab-food-pizza-sausage-rolls",
         "description": "Study backed by Jamie Oliver finds pupils are foregoing sit-down meals for often less healthy, convenient optionsPupils in England are routinely eating pizza slices, sausage rolls and paninis for l...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Brian Cox says UK physics funding cuts are ‘destruction of the future’",
-        "url": "https://www.theguardian.com/science/2026/mar/27/brian-cox-physics-unquantifiable-threat-university-funding-cuts",
-        "description": "Grant cuts of nearly 70% may force university departments to close and ‘annihilate’ research, scientists sayBritish physicists have shaped our understanding of nature and the universe for more than...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
-        "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
-        "description": "A hacker group shares Patel's purported resume and photos - information, the FBI says, is \"historical in nature\".",
+        "title": "Nepal's ex-PM arrested over fatal protest crackdown",
+        "url": "https://www.bbc.com/news/articles/cn89ry7y835o?at_medium=RSS&at_campaign=rss",
+        "description": "More than 70 people were killed during an uprising last year which ousted Oli's government.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
+        "url": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
+        "description": "African and Caribbean nations want countries which benefited from slavery to pay compensation but it will not be straightforward.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
         "title": "Tiger Woods charged with driving under influence after crash",
         "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
-        "description": "Tiger Woods is facing charges of driving under the influence after rolling his car in a crash in Florida.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Spanish woman who died through euthanasia failed by state, say critics",
-        "url": "https://www.bbc.com/news/articles/c4g8w4xp97jo?at_medium=RSS&at_campaign=rss",
-        "description": "Noelia Castillo died on Thursday evening in a Barcelona hospital, after a protracted legal battle with her own father.",
+        "description": "Tiger Woods, the 15-time golf major champion, is released on bail following his arrest on charges of driving under the influence following a car crash in Florida.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
