@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-27T18:55:17.860698+00:00",
+  "fetched_at": "2026-03-28T02:05:06.550079+00:00",
   "headlines": {
     "government": [
       {
@@ -33,7 +33,14 @@
     ],
     "economy": [
       {
-        "title": "Wall Street hits six-month low as Trump ‘appears to lose his grip on markets’ – as it happened",
+        "title": "US stock market caps off fifth consecutive week of closing down",
+        "url": "https://www.theguardian.com/business/2026/mar/27/us-stock-market-selloff-iran",
+        "description": "Dow fell 800 points as oil prices continue to climb, and markets are still on edge despite US pause on Iranian energy strikesSign up for the Breaking News US email to get newsletter alerts in your ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Wall Street hits six-month low and Dow falls into correction as Trump ‘appears to lose his grip on markets’ – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/mar/27/oil-price-trump-iran-extension-uk-consumer-confidence-stock-markets-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial news, as Brent crude trades over $110 a barrel for first time since MondayUK government borrowing costs hit 5% as Iran war fuels bond market se...",
         "source": "The Guardian",
@@ -43,13 +50,6 @@
         "title": "UK government borrowing costs hit 5% as Iran war fuels bond market sell-off",
         "url": "https://www.theguardian.com/business/2026/mar/27/uk-government-borrowing-iran-war-bond-market-sell-off",
         "description": "Yields on 10-year debt reach highest since the 2008 financial crisis, raising concerns of faster interest rate risesUK government borrowing costs have risen above 5% amid an intensifying global bon...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US market selloff continues as Iran war sends consumer sentiment plummeting",
-        "url": "https://www.theguardian.com/business/2026/mar/27/us-stock-market-selloff-iran",
-        "description": "US consumer expectations match economic calculations that show conflict in Iran will cause higher inflationThe US stock market opened on Friday with a selloff that briefly sent the Dow into correct...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -148,7 +148,7 @@
       {
         "title": "Schools in England must be compelled to offer pupils healthy food, not junk",
         "url": "https://www.theguardian.com/education/2026/mar/27/schools-england-must-offer-pupils-healthy-food-not-junk",
-        "description": "School food has suffered at the hands of politics and economics for almost 50 yearsAlmost a generation has passed since Jamie Oliver’s four-part Channel 4 documentary series Jamie’s School Dinners ...",
+        "description": "School dinners have suffered at the hands of politics and economics for almost 50 yearsAlmost a generation has passed since Jamie Oliver’s four-part Channel 4 documentary series Jamie’s School Dinn...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "UN human rights chief calls on US to conclude probe into Iran school strike",
-        "url": "https://www.bbc.com/news/articles/c75kzk3lgl5o?at_medium=RSS&at_campaign=rss",
-        "description": "The strike - which killed at least 168 people, mostly children - \"evoked a visceral horror\", Volker Türk said.",
+        "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
+        "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
+        "description": "A hacker group shares Patel's purported resume and photos - information, the FBI says, is \"historical in nature\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Iran-backed hackers breach FBI director Kash Patel's personal emails",
-        "url": "https://www.bbc.com/news/articles/cvgl4yk7vgpo?at_medium=RSS&at_campaign=rss",
-        "description": "A hacker group shares Patel's purported resume and  photos of him on its website along with a statement that says, \"This is just our beginning.\"",
+        "title": "Tiger Woods charged with driving under influence after crash",
+        "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
+        "description": "Tiger Woods is facing charges of driving under the influence after rolling his car in a crash in Florida.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
