@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-03-28T12:54:03.089743+00:00",
+  "fetched_at": "2026-03-28T18:40:02.983031+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Crowds gather for London march against the far right – live",
+        "title": "Huge crowds take part in London march against the far right – live",
         "url": "https://www.theguardian.com/uk-news/live/2026/mar/28/london-protest-march-together-alliance-against-the-far-right-latest-news-updates",
-        "description": "Together Alliance march begins in central London at midday; a separate event organised by the Palestine Coalition is also taking placeThe first round of images are coming through from the march, wh...",
+        "description": "Organisers claim half a million people are marching through central London, protesting against the rise of the far rightSome protesters have spoken to PA earmarking opposition to Reform UK, support...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Reform UK’s ‘pro-family’ policies are an exclusionary sham, minister says",
+        "url": "https://www.theguardian.com/politics/2026/mar/28/reform-uk-family-policies-labour-best-start-centres-olivia-bailey",
+        "description": "Olivia Bailey says she wants Sure Start-style hubs that will be rolled out in England on Monday to be inclusive for allReform UK’s “pro-family” policies are a sham and exclude non-traditional famil...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -13,13 +20,6 @@
         "title": "End to two-child benefit cap offers £300-a-month lifeline to cash-strapped families",
         "url": "https://www.theguardian.com/money/2026/mar/28/end-to-two-child-benefit-cap-offers-300-a-month-lifeline-to-cash-strapped-families",
         "description": "From 6 April, low-income families can claim universal credit payments for all children living in the householdThe two-child benefit policy has been described as a “cap on childhood” and as it comes...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform candidate in Wales steps down after apparent Nazi salute",
-        "url": "https://www.theguardian.com/politics/2026/mar/27/reform-uk-candidate-wales-senedd-corey-edwards-photograph",
-        "description": "Party announces Corey Edwards’ decision to quit Senedd election campaign on grounds of mental healthA Reform UK candidate for the Welsh Senedd elections in May has announced he is standing down bec...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,13 @@
     ],
     "economy": [
       {
+        "title": "US treasury department demands retraction of story on increased oversight of Federal Reserve",
+        "url": "https://www.theguardian.com/us-news/2026/mar/28/treasury-department-financial-times-federal-reserve",
+        "description": "Treasury department said Financial Times article about Scott Bessent’s views on Fed oversight was ‘manufactured’ The US treasury department demanded on Friday that the Financial Times (FT) retract ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "US stock market caps off fifth consecutive week of closing down",
         "url": "https://www.theguardian.com/business/2026/mar/27/us-stock-market-selloff-iran",
         "description": "Dow fell 800 points as oil prices continue to climb, and markets are still on edge despite US pause on Iranian energy strikesSign up for the Breaking News US email to get newsletter alerts in your ...",
@@ -43,13 +50,6 @@
         "title": "Wall Street hits six-month low and Dow falls into correction as Trump ‘appears to lose his grip on markets’ – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/mar/27/oil-price-trump-iran-extension-uk-consumer-confidence-stock-markets-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial news, as Brent crude trades over $110 a barrel for first time since MondayUK government borrowing costs hit 5% as Iran war fuels bond market se...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK government borrowing costs hit 5% as Iran war fuels bond market sell-off",
-        "url": "https://www.theguardian.com/business/2026/mar/27/uk-government-borrowing-iran-war-bond-market-sell-off",
-        "description": "Yields on 10-year debt reach highest since the 2008 financial crisis, raising concerns of faster interest rate risesMiddle East crisis – live updatesUK government borrowing costs have risen above 5...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,16 +93,16 @@
     ],
     "immigration": [
       {
-        "title": "Immigration officers must treat people with respect | Letters",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/27/immigration-officers-must-treat-people-with-respect",
-        "description": "A country is judged not only by its laws, but by how it enforces them, writes Aurelia Maynard; plus letters from Mike Rogers and Paul MaguireI am writing in response to your article about immigrati...",
+        "title": "Samuel Ojo on Shabana Mahmood’s immigration reforms – cartoon",
+        "url": "https://www.theguardian.com/commentisfree/picture/2026/mar/28/samuel-ojo-immigration-reforms-shabana-mahmood-saturday-cartoon",
+        "description": "Continue reading...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Samuel Ojo on Shabana Mahmood’s immigration reforms – cartoon",
-        "url": "https://www.theguardian.com/commentisfree/picture/2026/mar/28/samuel-ojo-immigration-reforms-shabana-mahmood-saturday-cartoon",
-        "description": "Continue reading...",
+        "title": "Immigration officers must treat people with respect | Letters",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/27/immigration-officers-must-treat-people-with-respect",
+        "description": "A country is judged not only by its laws, but by how it enforces them, writes Aurelia Maynard; plus letters from Mike Rogers and Paul MaguireI am writing in response to your article about immigrati...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Reform UK’s ‘pro-family’ policies are an exclusionary sham, minister says",
+        "url": "https://www.theguardian.com/politics/2026/mar/28/reform-uk-family-policies-labour-best-start-centres-olivia-bailey",
+        "description": "Olivia Bailey says she wants Sure Start-style hubs that will be rolled out in England on Monday to be inclusive for allReform UK’s “pro-family” policies are a sham and exclude non-traditional famil...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Cambridge offers botany course that inspired Darwin after rare archive uncovered",
         "url": "https://www.theguardian.com/environment/2026/mar/28/cambridge-university-botany-course-charles-darwin-john-stevens-henslow",
         "description": "University’s botanic garden will use study materials created by John Stevens Henslow, the naturalist’s mentor, 200 years agoPlant specimens and teaching materials that inspired Charles Darwin and q...",
@@ -156,13 +163,6 @@
         "title": "Schools in England must be compelled to offer pupils healthy food, not junk",
         "url": "https://www.theguardian.com/education/2026/mar/27/schools-england-must-offer-pupils-healthy-food-not-junk",
         "description": "School dinners have suffered at the hands of politics and economics for almost 50 yearsAlmost a generation has passed since Jamie Oliver’s four-part Channel 4 documentary series Jamie’s School Dinn...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "School dinners in England dominated by grab-and-go foods such as pizza and sausage rolls",
-        "url": "https://www.theguardian.com/education/2026/mar/27/school-dinners-england-grab-food-pizza-sausage-rolls",
-        "description": "Study backed by Jamie Oliver finds pupils are foregoing sit-down meals for often less healthy, convenient optionsPupils in England are routinely eating pizza slices, sausage rolls and paninis for l...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -199,14 +199,14 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Gaza peace doubts deepen as attention shifts to Iran",
-        "url": "https://www.bbc.com/news/articles/crr10v5p7lgo?at_medium=RSS&at_campaign=rss",
-        "description": "With the world focused on the Iran war, there is increasing uncertainty about what happens next for Gaza.",
+        "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
+        "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
+        "description": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Tiger Woods charged with driving under influence after crash",
+        "title": "Tiger Woods released on bail after DUI arrest",
         "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
         "description": "Tiger Woods, the 15-time golf major champion, is released on bail following his arrest on charges of driving under the influence following a car crash in Florida.",
         "source": "BBC News",
