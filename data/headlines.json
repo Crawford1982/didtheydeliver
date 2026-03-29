@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-03-28T18:40:02.983031+00:00",
+  "fetched_at": "2026-03-29T02:24:37.607396+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Huge crowds take part in London march against the far right – live",
+        "title": "Lack of specialist staff hinders support for Send children, teacher survey finds",
+        "url": "https://www.theguardian.com/education/2026/mar/29/lack-of-specialist-staff-hinders-support-for-send-children-teacher-survey-finds",
+        "description": "National Education Union poll finds 89% feel class sizes in England are too big to be ‘properly inclusive’Oversized classes and inadequate staffing levels are hindering teachers’ capacity to suppor...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Badenoch criticised for ‘peddling dangerous fantasy’ about North Sea oil drilling",
+        "url": "https://www.theguardian.com/politics/2026/mar/28/badenoch-criticised-for-peddling-dangerous-fantasy-about-north-sea-oil-drilling",
+        "description": "Conservative leader expected to call for government to lift suspension on licences in drive to reduce energy pricesKemi Badenoch is “peddling a dangerous fantasy” about North Sea energy in her atte...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "‘The tide is turning’, Green party leader tells crowd at march against far right – live",
         "url": "https://www.theguardian.com/uk-news/live/2026/mar/28/london-protest-march-together-alliance-against-the-far-right-latest-news-updates",
         "description": "Organisers claim half a million people are marching through central London, protesting against the rise of the far rightSome protesters have spoken to PA earmarking opposition to Reform UK, support...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform UK’s ‘pro-family’ policies are an exclusionary sham, minister says",
-        "url": "https://www.theguardian.com/politics/2026/mar/28/reform-uk-family-policies-labour-best-start-centres-olivia-bailey",
-        "description": "Olivia Bailey says she wants Sure Start-style hubs that will be rolled out in England on Monday to be inclusive for allReform UK’s “pro-family” policies are a sham and exclude non-traditional famil...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "End to two-child benefit cap offers £300-a-month lifeline to cash-strapped families",
-        "url": "https://www.theguardian.com/money/2026/mar/28/end-to-two-child-benefit-cap-offers-300-a-month-lifeline-to-cash-strapped-families",
-        "description": "From 6 April, low-income families can claim universal credit payments for all children living in the householdThe two-child benefit policy has been described as a “cap on childhood” and as it comes...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Lack of specialist staff hinders support for Send children, teacher survey finds",
+        "url": "https://www.theguardian.com/education/2026/mar/29/lack-of-specialist-staff-hinders-support-for-send-children-teacher-survey-finds",
+        "description": "National Education Union poll finds 89% feel class sizes in England are too big to be ‘properly inclusive’Oversized classes and inadequate staffing levels are hindering teachers’ capacity to suppor...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Reform UK’s ‘pro-family’ policies are an exclusionary sham, minister says",
         "url": "https://www.theguardian.com/politics/2026/mar/28/reform-uk-family-policies-labour-best-start-centres-olivia-bailey",
         "description": "Olivia Bailey says she wants Sure Start-style hubs that will be rolled out in England on Monday to be inclusive for allReform UK’s “pro-family” policies are a sham and exclude non-traditional famil...",
@@ -156,13 +163,6 @@
         "title": "Cambridge offers botany course that inspired Darwin after rare archive uncovered",
         "url": "https://www.theguardian.com/environment/2026/mar/28/cambridge-university-botany-course-charles-darwin-john-stevens-henslow",
         "description": "University’s botanic garden will use study materials created by John Stevens Henslow, the naturalist’s mentor, 200 years agoPlant specimens and teaching materials that inspired Charles Darwin and q...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Schools in England must be compelled to offer pupils healthy food, not junk",
-        "url": "https://www.theguardian.com/education/2026/mar/27/schools-england-must-offer-pupils-healthy-food-not-junk",
-        "description": "School dinners have suffered at the hands of politics and economics for almost 50 yearsAlmost a generation has passed since Jamie Oliver’s four-part Channel 4 documentary series Jamie’s School Dinn...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Iran war splits older and younger conservatives - as pressure builds for Trump to find exit ramp",
-        "url": "https://www.bbc.com/news/articles/cjd8e4px12ro?at_medium=RSS&at_campaign=rss",
-        "description": "More than a thousand miles from Washington, the conflict was a dominant topic of conversation at CPAC.",
+        "title": "Trump is waging war based on instinct and it isn't working",
+        "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
+        "description": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Tiger Woods released on bail after DUI arrest",
-        "url": "https://www.bbc.com/sport/golf/articles/cvg092kege7o?at_medium=RSS&at_campaign=rss",
-        "description": "Tiger Woods, the 15-time golf major champion, is released on bail following his arrest on charges of driving under the influence following a car crash in Florida.",
+        "title": "One ant for $220: the new frontier of wildlife trafficking",
+        "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
+        "description": "The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
