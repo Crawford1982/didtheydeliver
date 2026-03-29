@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-03-29T12:54:48.747952+00:00",
+  "fetched_at": "2026-03-29T18:41:55.513171+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "NHS to miss targets for cutting A&E wait times and performance in England",
+        "url": "https://www.theguardian.com/society/2026/mar/29/nhs-miss-targets-wait-times-performance-england-wes-streeting",
+        "description": "Exclusive: Health secretary’s pledges in doubt as analysis shows health service will not deliver key improvementsThe NHS is set to miss key targets to shorten waiting times for help at A&E, cancer ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "EU offers UK ‘emergency brake’ on youth mobility scheme numbers",
+        "url": "https://www.theguardian.com/politics/2026/mar/29/eu-offers-uk-emergency-brake-youth-mobility-scheme-numbers",
+        "description": "Britain wants limits on young people entering country but Europe opposes this as scheme aims to celebrate linksAn “emergency brake” could be put on the number of people coming to the UK from Europe...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "‘A cruel penalty’: disabled people face lower benefit payments if conditions not deemed lifelong",
         "url": "https://www.theguardian.com/politics/2026/mar/29/disabled-benefit-claimants-face-lower-payments-if-conditions-not-deemed-lifelong-charities-say",
         "description": "Forthcoming rules mean debilitating conditions may not meet strict ‘severe and lifelong’ criteria, say charitiesHundreds of thousands of severely ill and disabled people making new claims will have...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Keir Starmer says UK will ‘have to act’ to curb addictive features of social media",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/29/keir-starmer-social-media-curb-addictive-features",
-        "description": "In his strongest intervention yet, PM says some features ‘shouldn’t be permitted’, while education secretary says things ‘are going to change’Keir Starmer has backed banning addictive social media ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Nigel Farage’s farming adviser calls for wheat prices to double",
-        "url": "https://www.theguardian.com/environment/2026/mar/29/nigel-farage-farming-adviser-calls-for-hike-in-wheat-prices-reform-uk",
-        "description": "Exclusive: critics warn Reform UK use of trade policy would increase food costs amid cost-of-living crisisNigel Farage’s farming adviser has called for a doubling of wheat prices by using trade pol...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "How we can improve food security in Britain | Letters",
+        "url": "https://www.theguardian.com/food/2026/mar/29/how-we-can-improve-food-security-in-britain",
+        "description": "Richard Harvey and Joy Webb respond to an article by George Monbiot on the fragility of the global food system in light of the Iran warAlthough I agree with George Monbiot’s analysis of the serious...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Oil on track for record monthly surge as Iran war disrupts markets",
         "url": "https://www.theguardian.com/business/2026/mar/29/oil-monthly-surge-record-iran-war-markets-gold",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "US treasury department demands retraction of story on increased oversight of Federal Reserve",
-        "url": "https://www.theguardian.com/us-news/2026/mar/28/treasury-department-financial-times-federal-reserve",
-        "description": "Treasury department said Financial Times article about Scott Bessent’s views on Fed oversight was ‘manufactured’ The US treasury department demanded on Friday that the Financial Times (FT) retract ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Cut taxes on energy bills before giving bailouts, Badenoch says",
         "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss",
         "description": "The Tory leader refuses to rule out direct payments to households if bills spike but says this would come at a cost.",
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "NHS to miss targets for cutting A&E wait times and performance in England",
+        "url": "https://www.theguardian.com/society/2026/mar/29/nhs-miss-targets-wait-times-performance-england-wes-streeting",
+        "description": "Exclusive: Health secretary’s pledges in doubt as analysis shows health service will not deliver key improvementsThe NHS is set to miss key targets to shorten waiting times for help at A&E, cancer ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "UK ‘weeks away’ from medicine shortages if Iran war continues, experts say",
         "url": "https://www.theguardian.com/business/2026/mar/28/uk-weeks-away-medicine-shortages-iran-war-impacts-experts-warn",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "NHS bosses say resident doctors’ strike will cause ‘maximum harm’",
-        "url": "https://www.theguardian.com/society/2026/mar/26/nhs-bosses-say-resident-doctors-strike-maximum-harm",
-        "description": "BMA’s decision to withdraw from talks with government and NHS chiefs has sparked a war of wordsNHS bosses have accused resident doctors of seeking to cause “maximum harm” to patients by striking fo...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Are UK students at risk of more deadly meningitis outbreaks?",
         "url": "https://www.bbc.com/news/articles/c93eqvxydzqo?at_medium=RSS&at_campaign=rss",
         "description": "The worst seems to be over, but questions remain about why this happened and whether it could happen again.",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "EU offers UK ‘emergency brake’ on youth mobility scheme numbers",
+        "url": "https://www.theguardian.com/politics/2026/mar/29/eu-offers-uk-emergency-brake-youth-mobility-scheme-numbers",
+        "description": "Britain wants limits on young people entering country but Europe opposes this as scheme aims to celebrate linksAn “emergency brake” could be put on the number of people coming to the UK from Europe...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Samuel Ojo on Shabana Mahmood’s immigration reforms – cartoon",
         "url": "https://www.theguardian.com/commentisfree/picture/2026/mar/28/samuel-ojo-immigration-reforms-shabana-mahmood-saturday-cartoon",
@@ -103,13 +110,6 @@
         "title": "Immigration officers must treat people with respect | Letters",
         "url": "https://www.theguardian.com/uk-news/2026/mar/27/immigration-officers-must-treat-people-with-respect",
         "description": "A country is judged not only by its laws, but by how it enforces them, writes Aurelia Maynard; plus letters from Mike Rogers and Paul MaguireI am writing in response to your article about immigrati...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Doctors waiting on asylum decisions can work in NHS as Home Office lifts ban",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/26/doctors-waiting-on-asylum-decisions-can-work-in-nhs-as-home-office-lifts-ban",
-        "description": "Rule change follows high court challenge brought by two doctors prevented from working in specialist fieldsDoctors who have been prevented from working in the NHS while they wait for asylum decisio...",
         "source": "The Guardian",
         "category": "immigration"
       }
