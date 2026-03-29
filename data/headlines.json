@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-03-29T02:24:37.607396+00:00",
+  "fetched_at": "2026-03-29T07:02:39.528284+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Reform insiders fear links to extreme figures such as Andrew Tate will scare off voters",
+        "url": "https://www.theguardian.com/politics/2026/mar/29/reform-nigel-farage-links-extreme-figures-andrew-tate-young-men-misogyny",
+        "description": "Nigel Farage has called Tate an ‘important voice’ for young men and held back from criticising his misogynistic viewsReform insiders are becoming increasingly irritated by the party’s association w...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Lack of specialist staff hinders support for Send children, teacher survey finds",
         "url": "https://www.theguardian.com/education/2026/mar/29/lack-of-specialist-staff-hinders-support-for-send-children-teacher-survey-finds",
@@ -13,13 +20,6 @@
         "title": "Badenoch criticised for ‘peddling dangerous fantasy’ about North Sea oil drilling",
         "url": "https://www.theguardian.com/politics/2026/mar/28/badenoch-criticised-for-peddling-dangerous-fantasy-about-north-sea-oil-drilling",
         "description": "Conservative leader expected to call for government to lift suspension on licences in drive to reduce energy pricesKemi Badenoch is “peddling a dangerous fantasy” about North Sea energy in her atte...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "‘The tide is turning’, Green party leader tells crowd at march against far right – live",
-        "url": "https://www.theguardian.com/uk-news/live/2026/mar/28/london-protest-march-together-alliance-against-the-far-right-latest-news-updates",
-        "description": "Organisers claim half a million people are marching through central London, protesting against the rise of the far rightSome protesters have spoken to PA earmarking opposition to Reform UK, support...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "‘A fire that’s burning again’: Welsh language resurges thanks to adult learners",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/29/welsh-language-resurges-adult-learners-dysgu-cymraeg",
+        "description": "The number of people on Dysgu Cymraeg courses has risen by 61% since 2017, as people in Wales rediscover the ‘poetry’ of the languageElinor Staniforth from Cardiff hated Welsh lessons at her Englis...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Lack of specialist staff hinders support for Send children, teacher survey finds",
         "url": "https://www.theguardian.com/education/2026/mar/29/lack-of-specialist-staff-hinders-support-for-send-children-teacher-survey-finds",
         "description": "National Education Union poll finds 89% feel class sizes in England are too big to be ‘properly inclusive’Oversized classes and inadequate staffing levels are hindering teachers’ capacity to suppor...",
@@ -156,13 +163,6 @@
         "title": "Reform UK’s ‘pro-family’ policies are an exclusionary sham, minister says",
         "url": "https://www.theguardian.com/politics/2026/mar/28/reform-uk-family-policies-labour-best-start-centres-olivia-bailey",
         "description": "Olivia Bailey says she wants Sure Start-style hubs that will be rolled out in England on Monday to be inclusive for allReform UK’s “pro-family” policies are a sham and exclude non-traditional famil...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Cambridge offers botany course that inspired Darwin after rare archive uncovered",
-        "url": "https://www.theguardian.com/environment/2026/mar/28/cambridge-university-botany-course-charles-darwin-john-stevens-henslow",
-        "description": "University’s botanic garden will use study materials created by John Stevens Henslow, the naturalist’s mentor, 200 years agoPlant specimens and teaching materials that inspired Charles Darwin and q...",
         "source": "The Guardian",
         "category": "education"
       }
