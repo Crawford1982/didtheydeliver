@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-03-29T07:02:39.528284+00:00",
+  "fetched_at": "2026-03-29T12:54:48.747952+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reform insiders fear links to extreme figures such as Andrew Tate will scare off voters",
-        "url": "https://www.theguardian.com/politics/2026/mar/29/reform-nigel-farage-links-extreme-figures-andrew-tate-young-men-misogyny",
-        "description": "Nigel Farage has called Tate an ‘important voice’ for young men and held back from criticising his misogynistic viewsReform insiders are becoming increasingly irritated by the party’s association w...",
+        "title": "‘A cruel penalty’: disabled people face lower benefit payments if conditions not deemed lifelong",
+        "url": "https://www.theguardian.com/politics/2026/mar/29/disabled-benefit-claimants-face-lower-payments-if-conditions-not-deemed-lifelong-charities-say",
+        "description": "Forthcoming rules mean debilitating conditions may not meet strict ‘severe and lifelong’ criteria, say charitiesHundreds of thousands of severely ill and disabled people making new claims will have...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Lack of specialist staff hinders support for Send children, teacher survey finds",
-        "url": "https://www.theguardian.com/education/2026/mar/29/lack-of-specialist-staff-hinders-support-for-send-children-teacher-survey-finds",
-        "description": "National Education Union poll finds 89% feel class sizes in England are too big to be ‘properly inclusive’Oversized classes and inadequate staffing levels are hindering teachers’ capacity to suppor...",
+        "title": "Keir Starmer says UK will ‘have to act’ to curb addictive features of social media",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/29/keir-starmer-social-media-curb-addictive-features",
+        "description": "In his strongest intervention yet, PM says some features ‘shouldn’t be permitted’, while education secretary says things ‘are going to change’Keir Starmer has backed banning addictive social media ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Badenoch criticised for ‘peddling dangerous fantasy’ about North Sea oil drilling",
-        "url": "https://www.theguardian.com/politics/2026/mar/28/badenoch-criticised-for-peddling-dangerous-fantasy-about-north-sea-oil-drilling",
-        "description": "Conservative leader expected to call for government to lift suspension on licences in drive to reduce energy pricesKemi Badenoch is “peddling a dangerous fantasy” about North Sea energy in her atte...",
+        "title": "Nigel Farage’s farming adviser calls for wheat prices to double",
+        "url": "https://www.theguardian.com/environment/2026/mar/29/nigel-farage-farming-adviser-calls-for-hike-in-wheat-prices-reform-uk",
+        "description": "Exclusive: critics warn Reform UK use of trade policy would increase food costs amid cost-of-living crisisNigel Farage’s farming adviser has called for a doubling of wheat prices by using trade pol...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "No evidence of 'family voting' in by-election",
-        "url": "https://www.bbc.com/news/articles/clyxeqpzz2no?at_medium=RSS&at_campaign=rss",
-        "description": "An investigation into alleged  \"family voting\" finds no evidence of intent to influence voting.",
+        "title": "Cut taxes on energy bills before giving bailouts, Badenoch says",
+        "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss",
+        "description": "The Tory leader refuses to rule out direct payments to households if bills spike but says this would come at a cost.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Oil on track for record monthly surge as Iran war disrupts markets",
+        "url": "https://www.theguardian.com/business/2026/mar/29/oil-monthly-surge-record-iran-war-markets-gold",
+        "description": "Brent crude jumps 51% since start of March and gold suffers fifth-largest monthly fall in 50 yearsMiddle East crisis – latest updatesThe Brent crude oil price is on track for its biggest monthly ga...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "War in Iran erodes the chancellor’s headroom and exposes our fragility | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/mar/29/war-iran-erodes-chancellor-headroom-uk-fragility-rachel-reeves",
+        "description": "Rachel Reeves boasts of the £23bn she has built up against her fiscal rules but now she – or any future steward of the economy – has little space to manoeuvreIt is with no pleasure that I must repo...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "US treasury department demands retraction of story on increased oversight of Federal Reserve",
         "url": "https://www.theguardian.com/us-news/2026/mar/28/treasury-department-financial-times-federal-reserve",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "US stock market caps off fifth consecutive week of closing down",
-        "url": "https://www.theguardian.com/business/2026/mar/27/us-stock-market-selloff-iran",
-        "description": "Dow fell 800 points as oil prices continue to climb, and markets are still on edge despite US pause on Iranian energy strikesSign up for the Breaking News US email to get newsletter alerts in your ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Wall Street hits six-month low and Dow falls into correction as Trump ‘appears to lose his grip on markets’ – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/mar/27/oil-price-trump-iran-extension-uk-consumer-confidence-stock-markets-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial news, as Brent crude trades over $110 a barrel for first time since MondayUK government borrowing costs hit 5% as Iran war fuels bond market se...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "How Trump and the oil markets move in sync: a tango in five charts",
-        "url": "https://www.bbc.com/news/articles/cvgk8zk9epgo?at_medium=RSS&at_campaign=rss",
-        "description": "Oil markets have been sensitive to Donald Trump's comments on the war. But are traders growing less responsive?",
+        "title": "Cut taxes on energy bills before giving bailouts, Badenoch says",
+        "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss",
+        "description": "The Tory leader refuses to rule out direct payments to households if bills spike but says this would come at a cost.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Putting the ‘lord’ in ‘landlord’: US churches step up to build housing amid shortage",
+        "url": "https://www.theguardian.com/society/2026/mar/29/yigby-churches-build-housing-amid-shortage",
+        "description": "The ‘Yes in God’s Back Yard’ movement sees churches across the country develop their underutilized land into affordable housingA parcel of land behind Little Rock AME Zion church in Charlotte, Nort...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "I’m losing my home through a no-fault eviction | Letter",
         "url": "https://www.theguardian.com/money/2026/mar/26/im-losing-my-home-through-a-no-fault-eviction",
         "description": "One reader says the government has not done enough to protect tenants from section 21 notices despite years of assurancesRegarding your article on landlords issuing section 21 notices ahead of the ...",
@@ -181,20 +188,20 @@
         "description": "Ejaculation v sleep | Night-time stress | Brabazon legacy | Learning from mistakes | Pint or pony of porterI was struck by two adjacent headlines: “More frequent ejaculations may boost men’s fertil...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Dagenham leaseholders left homeless by fire could be forced to pay for cladding works",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/25/london-authority-seeks-fire-safety-works-refund-for-building-that-burned-down",
-        "description": "Greater London Authority seeks £6m refund for unfinished fire safety work on destroyed Spectrum BuildingPeople who lost their homes when a tower block in Dagenham burned down say they are being mad...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Trump is waging war based on instinct and it isn't working",
+        "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
         "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
-        "description": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective.",
+        "description": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective, writes the BBC's international editor.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Iranian attacks across Gulf continue as major industrial sites hit",
+        "url": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
+        "description": "A number of people are said to have been injured after attacks on aluminium sites in the UAE and Bahrain.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
         "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
         "description": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "One ant for $220: the new frontier of wildlife trafficking",
-        "url": "https://www.bbc.com/news/articles/cg4g44zv37qo?at_medium=RSS&at_campaign=rss",
-        "description": "The craze for collecting ants takes Kenya by surprise as smugglers zone in to make a profit.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
