@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-03-30T02:26:59.121392+00:00",
+  "fetched_at": "2026-03-30T07:26:16.234436+00:00",
   "headlines": {
     "government": [
       {
@@ -24,14 +24,28 @@
         "category": "government"
       },
       {
-        "title": "Cut taxes on energy bills before giving bailouts, Badenoch says",
-        "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss",
-        "description": "The Tory leader refuses to rule out direct payments to households if bills spike but says this would come at a cost.",
+        "title": "Remove VAT from energy bills for three years, Tories urge",
+        "url": "https://www.bbc.com/news/articles/c4gx01d0re1o?at_medium=RSS&at_campaign=rss",
+        "description": "There has been a renewed focus on energy costs since the outbreak of the war in Iran.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Pessimism takes root in UK as shoppers struggle to afford essentials",
+        "url": "https://www.theguardian.com/business/2026/mar/30/pessimism-takes-root-uk-shoppers-struggle-essentials-iran-war-prices",
+        "description": "Millions are dipping into savings or borrowing to get by as the Iran war drives up prices, survey showsThe Iran war has led to a surge in pessimism in the UK as half of households are already strug...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Who are the Houthis – explained in 30 seconds",
+        "url": "https://www.theguardian.com/world/2026/mar/30/houthis-who-are-they-rebels-fighting-for-iran-war",
+        "description": "Yemeni militant group is ally of Iran and has previously caused huge disruption to global trade through attacks on Red Sea shippingMiddle East crisis – live updates The Houthis are a militant group...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "How we can improve food security in Britain | Letters",
         "url": "https://www.theguardian.com/food/2026/mar/29/how-we-can-improve-food-security-in-britain",
@@ -40,21 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "Oil on track for record monthly surge as Iran war disrupts markets",
-        "url": "https://www.theguardian.com/business/2026/mar/29/oil-monthly-surge-record-iran-war-markets-gold",
-        "description": "Brent crude jumps 51% since start of March and gold suffers fifth-largest monthly fall in 50 yearsMiddle East crisis – latest updatesThe Brent crude oil price is on track for its biggest monthly ga...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "War in Iran erodes the chancellor’s headroom and exposes our fragility | Heather Stewart",
-        "url": "https://www.theguardian.com/business/2026/mar/29/war-iran-erodes-chancellor-headroom-uk-fragility-rachel-reeves",
-        "description": "Rachel Reeves boasts of the £23bn she has built up against her fiscal rules but now she – or any future steward of the economy – has little space to manoeuvreIt is with no pleasure that I must repo...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil rises above $115 and Asia stocks slide as Iran war escalates",
+        "title": "Oil rises above $115 and Asia shares slide as Iran war enters fifth week",
         "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
         "description": "It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.",
         "source": "BBC News",
