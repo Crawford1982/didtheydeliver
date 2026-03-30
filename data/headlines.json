@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-03-30T07:26:16.234436+00:00",
+  "fetched_at": "2026-03-30T13:18:21.751574+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Starmer says UK won’t get ‘dragged into Iran war’ and there is no need for drivers to stock up on petrol – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/mar/30/starmer-iran-war-labour-values-local-elections-campaign-launch-uk-politics-latest",
+        "description": "UK PM to chair meeting on government’s response to economic consequences of Iran war later on MondayStarmer complained about other parties whipping up division, and he specifically criticised Nick ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Sexual assault survivor calls failure of Travelodge boss to meet MPs ‘shocking’",
+        "url": "https://www.theguardian.com/society/2026/mar/30/sexual-assault-survivor-calls-failure-travelodge-boss-meet-mps-shocking",
+        "description": "Woman assaulted after man was given key card to her room criticises CEO Jo Boydell over cancelled meetingA woman who was sexually assaulted by a man who was handed a key card to her room at a Trave...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Rachel Reeves to tell G7 accelerating shift to clean energy is best defence against energy price shocks",
         "url": "https://www.theguardian.com/environment/2026/mar/29/rachel-reeves-to-tell-g7-accelerating-shift-to-clean-energy-is-best-defence-against-energy-price-shocks",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Keir Starmer to launch local elections campaign with focus on cost of living",
-        "url": "https://www.theguardian.com/politics/2026/mar/29/keir-starmer-labour-local-elections-campaign-cost-of-living-iran-war",
-        "description": "PM will also cite Iran war as reason to stick with Labour, as party adopts new slogan: ‘Pride in Britain’ Keir Starmer will say that a vote for Reform UK will put at risk progress Labour is making ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "NHS to miss targets for cutting A&E wait times and performance in England",
-        "url": "https://www.theguardian.com/society/2026/mar/29/nhs-miss-targets-wait-times-performance-england-wes-streeting",
-        "description": "Exclusive: Health secretary’s pledges in doubt as analysis shows health service will not deliver key improvementsThe NHS is set to miss key targets to shorten waiting times for help at A&E, cancer ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Remove VAT from energy bills for three years, Tories urge",
-        "url": "https://www.bbc.com/news/articles/c4gx01d0re1o?at_medium=RSS&at_campaign=rss",
-        "description": "There has been a renewed focus on energy costs since the outbreak of the war in Iran.",
+        "title": "PM launches Labour's local election campaign with focus on cost of living",
+        "url": "https://www.bbc.com/news/articles/c8r4gp71l5mo?at_medium=RSS&at_campaign=rss",
+        "description": "Keir Starmer says the 7 May elections take place against an \"uncertain\" backdrop with wars in Ukraine and Iran.",
         "source": "BBC News",
         "category": "government"
       }
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "NHS to miss targets for cutting A&E wait times and performance in England",
-        "url": "https://www.theguardian.com/society/2026/mar/29/nhs-miss-targets-wait-times-performance-england-wes-streeting",
-        "description": "Exclusive: Health secretary’s pledges in doubt as analysis shows health service will not deliver key improvementsThe NHS is set to miss key targets to shorten waiting times for help at A&E, cancer ...",
+        "title": "Mounjaro maker wants NHS drug price rises in return for more investment in UK",
+        "url": "https://www.theguardian.com/business/2026/mar/30/mounjaro-maker-eli-lilly-wants-nhs-drug-price-rises-in-return-for-more-investment-in-uk",
+        "description": "US firm Eli Lilly, which is also pushing for end to rebate scheme, optimistic about talks with ministersBusiness live – latest updatesThe US pharmaceutical group behind the Mounjaro weight-loss dru...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "UK ‘weeks away’ from medicine shortages if Iran war continues, experts say",
-        "url": "https://www.theguardian.com/business/2026/mar/28/uk-weeks-away-medicine-shortages-iran-war-impacts-experts-warn",
-        "description": "Concern that supply chain disruption could hit health essentials – and prices – from painkillers to cancer treatmentMiddle East crisis – live updatesBritain is “a few weeks away” from medicine shor...",
+        "title": "NHS to miss targets for cutting A&E wait times and performance in England",
+        "url": "https://www.theguardian.com/society/2026/mar/29/nhs-miss-targets-wait-times-performance-england-wes-streeting",
+        "description": "Exclusive: Health secretary’s pledges in doubt as analysis shows health service will not deliver key improvementsThe NHS is set to miss key targets to shorten waiting times for help at A&E, cancer ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Fears of increased small boat Channel crossings as UK-French deal nears end",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/30/fears-increased-small-boat-channel-crossings-uk-french-deal-nears-end-shabana-mahmood",
+        "description": "New agreement delayed amid home secretary Shabana Mahmood’s demands for more interceptions of dinghiesA renewed deal between the UK and France to stop small boat Channel crossings has not yet been ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "EU offers UK ‘emergency brake’ on youth mobility scheme numbers",
         "url": "https://www.theguardian.com/politics/2026/mar/29/eu-offers-uk-emergency-brake-youth-mobility-scheme-numbers",
         "description": "Britain wants limits on young people entering country but Europe opposes this as scheme aims to celebrate linksAn “emergency brake” could be put on the number of people coming to the UK from Europe...",
@@ -103,13 +110,6 @@
         "title": "Samuel Ojo on Shabana Mahmood’s immigration reforms – cartoon",
         "url": "https://www.theguardian.com/commentisfree/picture/2026/mar/28/samuel-ojo-immigration-reforms-shabana-mahmood-saturday-cartoon",
         "description": "Continue reading...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Immigration officers must treat people with respect | Letters",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/27/immigration-officers-must-treat-people-with-respect",
-        "description": "A country is judged not only by its laws, but by how it enforces them, writes Aurelia Maynard; plus letters from Mike Rogers and Paul MaguireI am writing in response to your article about immigrati...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Trail hunt ban moves closer as consultation begins",
-        "url": "https://www.bbc.com/news/articles/ckger0kxy75o?at_medium=RSS&at_campaign=rss",
-        "description": "Animal welfare campaigners welcome a \"pivotal moment\" in the move towards a ban on trail hunting.",
+        "title": "First stop, the Moon. Next stop, Mars? Why Nasa's mission matters",
+        "url": "https://www.bbc.com/news/articles/cd6wp6xenv0o?at_medium=RSS&at_campaign=rss",
+        "description": "From a race with China to lunar discoveries, the US is investing time, effort and money to head to the Moon - and beyond.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Jeremy Bowen: Trump is waging war based on instinct and it isn't working",
-        "url": "https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss",
-        "description": "One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective, writes the BBC's international editor.",
+        "title": "Why does the US have Iran's Kharg Island in its sights?",
+        "url": "https://www.bbc.com/news/articles/c8jxzlwvd8ro?at_medium=RSS&at_campaign=rss",
+        "description": "The tiny island is home to one of the most critical pieces of Iran's energy infrastructure.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Iranian attacks across Gulf continue as major industrial sites hit",
-        "url": "https://www.bbc.com/news/articles/cp86yrq5jy7o?at_medium=RSS&at_campaign=rss",
-        "description": "A number of people are said to have been injured after attacks on aluminium sites in the UAE and Bahrain.",
+        "title": "Russian oil tanker reaches Cuba after Trump appears to loosen blockade",
+        "url": "https://www.bbc.com/news/articles/czrevyx28z2o?at_medium=RSS&at_campaign=rss",
+        "description": "The tanker has reached Cuban waters just hours after Donald Trump said he had \"no problem\" with it arriving.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Three Lebanese journalists killed in Israeli strike, say broadcasters",
-        "url": "https://www.bbc.com/news/articles/cgme1j70294o?at_medium=RSS&at_campaign=rss",
-        "description": "The Israeli military confirms it killed Ali Shoeib from the Hezbollah-affiliated Al Manar TV.",
+        "title": "Spain closes airspace to US aircraft involved in Iran war",
+        "url": "https://www.bbc.com/news/articles/cwy368j1e3lo?at_medium=RSS&at_campaign=rss",
+        "description": "It follows a decision by the Spanish government to deny the US use of the two jointly run military bases in Andalusia.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
