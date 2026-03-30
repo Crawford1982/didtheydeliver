@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-03-29T18:41:55.513171+00:00",
+  "fetched_at": "2026-03-30T02:26:59.121392+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Rachel Reeves to tell G7 accelerating shift to clean energy is best defence against energy price shocks",
+        "url": "https://www.theguardian.com/environment/2026/mar/29/rachel-reeves-to-tell-g7-accelerating-shift-to-clean-energy-is-best-defence-against-energy-price-shocks",
+        "description": "Starmer to convene major energy industry and insurance figures to draw up emergency plans amid continued blockade of strait of HormuzRachel Reeves will warn G7 nations they must move faster on clea...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Keir Starmer to launch local elections campaign with focus on cost of living",
+        "url": "https://www.theguardian.com/politics/2026/mar/29/keir-starmer-labour-local-elections-campaign-cost-of-living-iran-war",
+        "description": "PM will also cite Iran war as reason to stick with Labour, as party adopts new slogan: ‘Pride in Britain’ Keir Starmer will say that a vote for Reform UK will put at risk progress Labour is making ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "NHS to miss targets for cutting A&E wait times and performance in England",
         "url": "https://www.theguardian.com/society/2026/mar/29/nhs-miss-targets-wait-times-performance-england-wes-streeting",
         "description": "Exclusive: Health secretary’s pledges in doubt as analysis shows health service will not deliver key improvementsThe NHS is set to miss key targets to shorten waiting times for help at A&E, cancer ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "EU offers UK ‘emergency brake’ on youth mobility scheme numbers",
-        "url": "https://www.theguardian.com/politics/2026/mar/29/eu-offers-uk-emergency-brake-youth-mobility-scheme-numbers",
-        "description": "Britain wants limits on young people entering country but Europe opposes this as scheme aims to celebrate linksAn “emergency brake” could be put on the number of people coming to the UK from Europe...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "‘A cruel penalty’: disabled people face lower benefit payments if conditions not deemed lifelong",
-        "url": "https://www.theguardian.com/politics/2026/mar/29/disabled-benefit-claimants-face-lower-payments-if-conditions-not-deemed-lifelong-charities-say",
-        "description": "Forthcoming rules mean debilitating conditions may not meet strict ‘severe and lifelong’ criteria, say charitiesHundreds of thousands of severely ill and disabled people making new claims will have...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Cut taxes on energy bills before giving bailouts, Badenoch says",
-        "url": "https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss",
-        "description": "The Tory leader refuses to rule out direct payments to households if bills spike but says this would come at a cost.",
+        "title": "Oil rises above $115 and Asia stocks slide as Iran war escalates",
+        "url": "https://www.bbc.com/news/articles/cz905eyjznno?at_medium=RSS&at_campaign=rss",
+        "description": "It comes after Iran-backed Houthi rebels in Yemen joined the conflict by striking Israel over the weekend.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "NHS restructure is greatest danger to Streeting’s effort to revive service",
+        "url": "https://www.theguardian.com/society/2026/mar/29/nhs-restructure-danger-wes-streeting-revive-service",
+        "description": "Health secretary still confident of success but critics say scrapping of NHS England has been ‘a total car crash’NHS to miss targets for cutting A&E wait times and performance in EnglandIn the Grea...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "NHS to miss targets for cutting A&E wait times and performance in England",
         "url": "https://www.theguardian.com/society/2026/mar/29/nhs-miss-targets-wait-times-performance-england-wes-streeting",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "New York City hospitals drop Palantir as controversial AI firm expands in UK",
-        "url": "https://www.theguardian.com/technology/2026/mar/26/new-york-hospitals-palantir-ai",
-        "description": "The decision follows activist pressure as Palantir faces growing scrutiny over NHS and UK government dealsSign up for the Breaking News US email to get newsletter alerts in your inboxNew York City’...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Are UK students at risk of more deadly meningitis outbreaks?",
-        "url": "https://www.bbc.com/news/articles/c93eqvxydzqo?at_medium=RSS&at_campaign=rss",
-        "description": "The worst seems to be over, but questions remain about why this happened and whether it could happen again.",
+        "title": "Our skin is falling off and no-one can tell us why",
+        "url": "https://www.bbc.com/news/articles/cx26pzpr71ko?at_medium=RSS&at_campaign=rss",
+        "description": "People sharing pictures and accounts on socials of red, inflamed skin have triggered the first UK research into TSW.",
         "source": "BBC News",
         "category": "nhs"
       }
