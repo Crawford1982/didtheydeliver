@@ -677,8 +677,8 @@ button.sbtn { min-height: 28px; min-width: 44px; }
 .app-footer {
   flex-shrink: 0;
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  flex-direction: column;
+  gap: 4px;
   padding: 8px 12px;
   border-top: 1px solid var(--b1);
   background: var(--bg2);
@@ -686,6 +686,25 @@ button.sbtn { min-height: 28px; min-width: 44px; }
   font-size: 9px;
   color: var(--t3);
 }
+.footer-top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.footer-links-inline { display: flex; align-items: center; gap: 2px; }
+.footer-links-inline a { color: var(--t3); text-decoration: none; font-size: 9px; }
+.footer-links-inline a:hover { color: var(--t2); }
+.footer-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 10px;
+  padding-top: 4px;
+  border-top: 1px solid var(--b1);
+}
+.footer-nav a { color: var(--t2); text-decoration: none; font-size: 8px; letter-spacing: .04em; }
+.footer-nav a:hover { color: var(--accent); }
 .app-footer .link-btn { font-size: 9px; min-height: auto; min-width: auto; }
 
 /* ─── RESPONSIVE ──────────────────────────────────────────── */
