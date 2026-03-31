@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-03-30T18:59:25.212830+00:00",
+  "fetched_at": "2026-03-31T02:22:13.039030+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK-France beach patrol deal to intercept small boats on verge of collapse",
+        "title": "Small boats deal between France and UK is on verge of collapse",
         "url": "https://www.theguardian.com/uk-news/2026/mar/30/uk-france-beach-patrol-deal-intercept-small-boats-negotiations-deadlocked",
-        "description": "Negotiations deadlocked as No 10 wants more action by French officials but France has concerns over safetyThe UK’s agreement with France to pay for beach patrols is on the verge of collapse amid wr...",
+        "description": "Negotiations deadlocked as No 10 wants more action on beach patrols but France has concerns over safetyThe UK’s agreement with France to pay for beach patrols is on the verge of collapse amid wrang...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Sad faces all round as Bolivia’s clowns protest over decree threatening their livelihoods",
+        "url": "https://www.theguardian.com/world/2026/mar/31/bolivia-clown-protests-decree-school-holiday-parties",
+        "description": "Clowns in Bolivia are upset by mandate that stops schools hosting events from which they earn a livingDozens of clowns have marched through the streets of Bolivia’s capital to protest against a gov...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Zack Polanski tells NEU teachers’ union that Greens would abolish ‘toxic’ Ofsted – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/mar/30/starmer-iran-war-labour-values-local-elections-campaign-launch-uk-politics-latest",
         "description": "The Green party leader said Ofsted is a ‘failed institution’ and that teaching should move ‘toward a genuinely collaborative model’Starmer complained about other parties whipping up division, and h...",
@@ -156,13 +163,6 @@
         "title": "‘A fire that’s burning again’: Welsh language resurges thanks to adult learners",
         "url": "https://www.theguardian.com/uk-news/2026/mar/29/welsh-language-resurges-adult-learners-dysgu-cymraeg",
         "description": "The number of people on Dysgu Cymraeg courses has risen by 61% since 2017, as people in Wales rediscover the ‘poetry’ of the languageElinor Staniforth from Cardiff hated Welsh lessons at her Englis...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Lack of specialist staff hinders support for Send children, teacher survey finds",
-        "url": "https://www.theguardian.com/education/2026/mar/29/lack-of-specialist-staff-hinders-support-for-send-children-teacher-survey-finds",
-        "description": "National Education Union poll finds 89% feel class sizes in England are too big to be ‘properly inclusive’Oversized classes and inadequate staffing levels are hindering teachers’ capacity to suppor...",
         "source": "The Guardian",
         "category": "education"
       }
