@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-03-31T13:17:10.751428+00:00",
+  "fetched_at": "2026-03-31T19:01:29.467998+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "UK to pay France extra £16m in stopgap deal to patrol Channel beaches",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches",
+        "description": "Two-month arrangement aimed at preventing small-boat crossings comes as existing deal expiresThe UK will pay France an extra £16.2m to keep police patrolling Channel beaches and prevent a surge in ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "King’s state visit to US will take place in April despite calls to delay amid Iran war – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/mar/31/doctors-strike-starmer-bma-nhs-labour-conservatives-reform-farage-latest-news-updates",
@@ -10,39 +17,25 @@
         "category": "government"
       },
       {
-        "title": "Karl Turner has Labour whip suspended after criticism of Starmer and No 10",
-        "url": "https://www.theguardian.com/politics/2026/mar/31/karl-turner-labour-whip-suspended",
-        "description": "MP for Hull East had recently given interview with Jody McIntyre, campaigner who stood against Jess Phillips in 2024The MP Karl Turner has lost the Labour whip, after making a series of interventio...",
+        "title": "UK sends more troops to Gulf amid Trump jibes over British military role",
+        "url": "https://www.theguardian.com/world/2026/mar/31/uk-troops-gulf-donald-trump-jibes-british-military-involvement",
+        "description": "John Healey says extra deployment is defensive response to ‘expanding threat’ from IranMiddle East crisis – live updatesUK politics live – latest updatesThe UK is sending more military support to t...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "King Charles’s state visit to US to go ahead despite Iran war concerns",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/31/king-charles-state-visit-to-us-to-go-ahead-buckingham-palace-confirms",
-        "description": "Visit with Camilla to take place in late April amid calls for delay over conflict and Trump-Starmer tensions UK politics live – latest updatesKing Charles will go ahead with a state visit to the US...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Outspoken backbench MP suspended by Labour",
+        "title": "Labour suspends outspoken backbench MP Karl Turner",
         "url": "https://www.bbc.com/news/articles/cg54v6p98rjo?at_medium=RSS&at_campaign=rss",
-        "description": "Labour say they have suspended the whip from Hull East MP Karl Turner over his recent conduct.",
+        "description": "The Hull East MP says he was suspended because of his \"robust\" criticism of the government's policy on jury trials.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Families hardest hit by energy crisis could be given funds dispensed by councils in England",
-        "url": "https://www.theguardian.com/business/2026/mar/30/families-hardest-hit-energy-crisis-given-funds-dispensed-local-councils",
-        "description": "As Iran war continues, ministers debate several options for extending support to householdsBusiness live – latest newsFamilies hardest hit by the looming energy crisis caused by the Iran war could ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "US average fuel price passes $4 a gallon for first time in four years amid Iran war",
         "url": "https://www.theguardian.com/business/2026/mar/31/us-average-fuel-prices-iran-war",
-        "description": "National average hit $4.02, according to AAA data, capping an extraordinary rise from $2.98 just a month agoAverage US fuel prices have crossed $4 a gallon for the first time in four years, piling ...",
+        "description": "National average hit $4.02, according to AAA data, capping an extraordinary rise from $2.98 just a month agoSign up for the Breaking News US email to get newsletter alerts in your inboxAverage US f...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,18 +47,25 @@
         "category": "economy"
       },
       {
-        "title": "Housing market to soften amid Iran war fallout, Nationwide says",
-        "url": "https://www.bbc.com/news/articles/ckgwe7k49d7o?at_medium=RSS&at_campaign=rss",
-        "description": "The lender says the market regained momentum in March, but rising mortgage and energy costs could hit consumer confidence.",
+        "title": "Families hardest hit by energy crisis could be given funds dispensed by councils in England",
+        "url": "https://www.theguardian.com/business/2026/mar/30/families-hardest-hit-energy-crisis-given-funds-dispensed-local-councils",
+        "description": "As Iran war continues, ministers debate several options for extending support to householdsBusiness live – latest newsFamilies hardest hit by the looming energy crisis caused by the Iran war could ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Oil nears highest price since start of Iran war",
+        "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss",
+        "description": "The US-Israel Iran war has halted almost all traffic in a key waterway and the price Brent crude has surged.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "BMA to ballot senior doctors in England over strikes as pay dispute escalates",
-        "url": "https://www.theguardian.com/society/2026/mar/31/bma-ballot-senior-doctors-england-strikes-pay-dispute-escalates",
-        "description": "Union says there has been ‘far too little progress’ in talks over pay and career developmentUK politics live – latest updatesSenior doctors in England are to be balloted over the prospect of strike...",
+        "title": "Head of NHS England ‘really worried’ about medicine supplies",
+        "url": "https://www.theguardian.com/business/2026/mar/31/medicines-run-out-weeks-nhs-england",
+        "description": "Jim Mackey responds to concerns about cost implications and supply disruption link to war against IranMiddle East crisis – live updatesThe head of the NHS in England has said he is “really worried”...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -77,9 +77,9 @@
         "category": "nhs"
       },
       {
-        "title": "Some medicines could run out in weeks or even days, NHS England head warns",
-        "url": "https://www.theguardian.com/business/2026/mar/31/medicines-run-out-weeks-nhs-england",
-        "description": "Jim Mackey tells LBC phone-in he is ‘really worried’ about supply issues amid US-Iran warMiddle East crisis – live updatesThe head of the NHS in England has said he is “really worried” about medici...",
+        "title": "Three hospital doctors’ groups threaten to coordinate strike action in England",
+        "url": "https://www.theguardian.com/society/2026/mar/31/bma-ballot-senior-doctors-england-strikes-pay-dispute-escalates",
+        "description": "Union to ballot consultants and SAS medics about joining resident doctors in industrial action over pay and conditionsUK politics live – latest updatesThe NHS’s three main groups of hospital doctor...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,32 +93,39 @@
     ],
     "immigration": [
       {
+        "title": "UK to pay France extra £16m in stopgap deal to patrol Channel beaches",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches",
+        "description": "Two-month arrangement aimed at preventing small-boat crossings comes as existing deal expiresThe UK will pay France an extra £16.2m to keep police patrolling Channel beaches and prevent a surge in ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "To call my part of London ‘Little Tehran’ isn’t quite right | Letter",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/31/to-call-my-part-of-london-little-tehran-isnt-quite-right",
+        "description": "Diaspora spaces are not replicas, writes Mehrdad Aref-Adib, who was born in Tehran and lives in Finchley, north London I was born in Tehran, but I have lived in London for most of my life. Over tim...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Starmer’s immigration rhetoric follows familiar pattern of bold claims but few results, expert says",
         "url": "https://www.theguardian.com/uk-news/2026/mar/31/starmer-immigration-rhetoric-familiar-pattern-bold-claims-few-results",
         "description": "Madeleine Sumption says politicians make big claims about things they only partially control to appeal to votersKeir Starmer’s pledge to “smash the gangs” profiting from small boat crossings has fo...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Small boats deal between France and UK is on verge of collapse",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/30/uk-france-beach-patrol-deal-intercept-small-boats-negotiations-deadlocked",
-        "description": "Negotiations deadlocked as No 10 wants more action on beach patrols but France has concerns over safetyThe UK’s agreement with France to pay for beach patrols is on the verge of collapse amid wrang...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Fears of increased small boat Channel crossings as UK-French deal nears end",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/30/fears-increased-small-boat-channel-crossings-uk-french-deal-nears-end-shabana-mahmood",
-        "description": "New agreement delayed amid home secretary Shabana Mahmood’s demands for more interceptions of dinghiesA renewed deal between the UK and France to stop small boat Channel crossings has not yet been ...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Trump’s Iran war and energy policies outline ‘dangerous volatility’ of fossil fuel push",
+        "title": "UK’s smallest bird of prey among 200 species at risk of extinction, study finds",
+        "url": "https://www.theguardian.com/environment/2026/mar/31/uk-smallest-bird-prey-among-species-risk-extinction-study-finds",
+        "description": "Merlin could disappear in worst-case scenario, with British isles facing ecological ‘point of no return’The merlin, Britain’s smallest bird of prey, is one of more than 200 species that will become...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Trump’s Iran war and drilling push show ‘dangerous volatility’ of fossil fuel era",
         "url": "https://www.theguardian.com/us-news/2026/mar/31/trump-iran-war-fossil-fuel-policy-environment",
-        "description": "Critics say president is locking into 20th century energy systems even as his ‘bet’ on oil and gas ‘isn’t going so well’By attacking Iran and threatening to seize its oil while taking extraordinary...",
+        "description": "Critics say president is locking into 20th-century energy systems even as his ‘bet’ on oil and gas ‘isn’t going so well’By attacking Iran and threatening to seize its oil while taking extraordinary...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -126,13 +133,6 @@
         "title": "Australia urged to swap diesel for electric buses as fuel costs soar",
         "url": "https://www.theguardian.com/environment/2026/mar/26/australia-electric-buses-transition-from-diesel-fuel-crisis",
         "description": "Electric buses are just 1% of the Australian fleet compared with 80% in urban China, a quarter in the Netherlands and 12% in the UKFollow our Australia news live blog for latest updatesSign up for ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Church leaders criticise Christian owner of GB News over channel’s climate attacks",
-        "url": "https://www.theguardian.com/media/2026/mar/26/church-leaders-criticise-christian-owner-of-gb-news-over-channels-climate-attacks",
-        "description": "Exclusive: Paul Marshall also challenged over his own ‘misleading’ statements and £1.8bn of fossil fuel investments in his hedge fundThe co-owner of GB News and “committed” Christian Sir Paul Marsh...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
+        "title": "US college students: are you about to graduate? We’d like to hear about your job-hunting experience",
+        "url": "https://www.theguardian.com/education/2026/mar/31/college-student-job-hunt-experience-tell-us",
+        "description": "How have you found the job application process? What has been your experience of job hunting so far? The entry-level job market for US college graduates is the worst it has been since the pandemic,...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Almost half of primary teachers in England see pupils with eating disorders, survey finds",
+        "url": "https://www.theguardian.com/education/2026/mar/31/almost-half-of-primary-teachers-in-england-see-pupils-with-eating-disorders-survey-finds",
+        "description": "Poll of 10,000 teachers also finds ‘overwhelming’ exam anxiety and rising absenteeism linked to poor mental healthAlmost half of primary school teachers are seeing pupils with eating disorders “at ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Sad faces all round as Bolivia’s clowns protest over decree threatening their livelihoods",
         "url": "https://www.theguardian.com/world/2026/mar/31/bolivia-clown-protests-decree-school-holiday-parties",
         "description": "Clowns in Bolivia are upset by mandate that stops schools hosting events from which they earn a livingDozens of clowns have marched through the streets of Bolivia’s capital to protest against a gov...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Zack Polanski tells NEU teachers’ union that Greens would abolish ‘toxic’ Ofsted – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/mar/30/starmer-iran-war-labour-values-local-elections-campaign-launch-uk-politics-latest",
-        "description": "The Green party leader said Ofsted is a ‘failed institution’ and that teaching should move ‘toward a genuinely collaborative model’Starmer complained about other parties whipping up division, and h...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘A fire that’s burning again’: Welsh language resurges thanks to adult learners",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/29/welsh-language-resurges-adult-learners-dysgu-cymraeg",
-        "description": "The number of people on Dysgu Cymraeg courses has risen by 61% since 2017, as people in Wales rediscover the ‘poetry’ of the languageElinor Staniforth from Cardiff hated Welsh lessons at her Englis...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "Iran using children in security roles in war, reports and witnesses say",
+        "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
+        "description": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
+        "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
+        "description": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "China bans storing cremated remains in empty 'bone ash apartments'",
         "url": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
         "description": "China bans 'bone ash apartments' where mourners are storing cremated remains instead of cemeteries.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Wolf bites woman in shock German attack in Hamburg shopping street",
-        "url": "https://www.bbc.com/news/articles/c20qxjxe2nno?at_medium=RSS&at_campaign=rss",
-        "description": "It is believed to be the first wolf attack on a human since the animals began to reestablish themselves in Germany decades ago.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Sexual violence part of 'everyday life' in parts of Sudan, charity says",
-        "url": "https://www.bbc.com/news/articles/c5ywgn2n3nqo?at_medium=RSS&at_campaign=rss",
-        "description": "Victims describe how they have been targeted while carrying out everyday activities.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
