@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-01T02:31:41.311214+00:00",
+  "fetched_at": "2026-04-01T07:19:34.815707+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Police chiefs failed to tackle racism due to lack of leadership, watchdog finds",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/01/police-chiefs-failed-to-tackle-racism-due-to-lack-of-leadership-watchdog-finds",
+        "description": "Review finds no ‘meaningful impact’ five years after race action plan launched, amid calls for government to step inPromises by police chiefs to tackle racial bias failed owing to “a lack of clear ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Two-thirds of UK hospitality businesses plan to cut jobs and one in seven will close, survey finds",
         "url": "https://www.theguardian.com/business/2026/apr/01/two-thirds-of-uk-hospitality-businesses-plan-to-cut-jobs-and-one-in-seven-will-close-survey-finds",
@@ -17,21 +24,28 @@
         "category": "government"
       },
       {
-        "title": "UK to pay France extra £16m in stopgap deal to patrol Channel beaches",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches",
-        "description": "Two-month arrangement aimed at preventing small-boat crossings comes as existing deal expiresThe UK will pay France an extra £16.2m to keep police patrolling Channel beaches and prevent a surge in ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour suspends outspoken backbench MP Karl Turner",
-        "url": "https://www.bbc.com/news/articles/cg54v6p98rjo?at_medium=RSS&at_campaign=rss",
-        "description": "The Hull East MP says he was suspended because of his \"robust\" criticism of the government's policy on jury trials.",
+        "title": "Energy bill help would be based on household income, Reeves says",
+        "url": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss",
+        "description": "The chancellor tells the BBC it is \"too early\" to say exactly who would get help but hinted any support would not arrive until the autumn.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Oil tumbles below $100 a barrel and stock markets soar on hopes Middle East war will end soon – business live",
+        "url": "https://www.theguardian.com/business/live/2026/apr/01/oil-tumbles-stock-markets-gold-bonds-dollar-middle-east-war-manufacturing-factories-news-updates",
+        "description": "Brent crude prices have fallen sharply, while the FTSE 100 is up 1.8%, as de-escalation hopes sweep through marketsMiddle East crisis live: Trump claims war will end in ‘two or three weeks’; Rubio ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Energy crisis: why ‘keep calm but cut down’ may be a better message for Labour",
+        "url": "https://www.theguardian.com/politics/2026/apr/01/energy-crisis-keep-calm-but-cut-down-better-message-labour",
+        "description": "Government keen to avoid panic as oil price surges, but perhaps households need advice on reducing consumptionLabour ministers sent out in recent days to respond to the looming energy crisis sparke...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "US average fuel price passes $4 a gallon for first time in four years amid Iran war",
         "url": "https://www.theguardian.com/business/2026/mar/31/us-average-fuel-prices-iran-war",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Jim Chalmers claims removing card surcharges will ease cost-of-living pressures. But will you be better off?",
-        "url": "https://www.theguardian.com/australia-news/2026/mar/31/jim-chalmers-claims-removing-card-surcharges-will-ease-cost-of-living-pressures-but-will-you-be-better-off",
-        "description": "The reforms announced by the Reserve Bank on Tuesday will have ripple effects across the whole payments system, experts sayGet our breaking news email, free app or daily news podcastCredit card rew...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Families hardest hit by energy crisis could be given funds dispensed by councils in England",
-        "url": "https://www.theguardian.com/business/2026/mar/30/families-hardest-hit-energy-crisis-given-funds-dispensed-local-councils",
-        "description": "As Iran war continues, ministers debate several options for extending support to householdsBusiness live – latest newsFamilies hardest hit by the looming energy crisis caused by the Iran war could ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Minimum wage rises to £12.71 an hour",
-        "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&at_campaign=rss",
-        "description": "Many businesses have said they will have to pass higher wage costs onto customers.",
+        "title": "Energy bill help would be based on household income, Reeves says",
+        "url": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss",
+        "description": "The chancellor tells the BBC it is \"too early\" to say exactly who would get help but hinted any support would not arrive until the autumn.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,6 +70,13 @@
         "category": "nhs"
       },
       {
+        "title": "NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes",
+        "url": "https://www.theguardian.com/science/2026/apr/01/nhs-england-weight-loss-drugs-reduce-risk-heart-attacks-strokes-semaglutide-wegovy",
+        "description": "People who are not obese but overweight and at risk of serious cardiovascular events eligible for weekly jabsThe NHS in England is to offer more than 1 million people weight-loss drugs to reduce th...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "King’s state visit to US will take place in April despite calls to delay amid Iran war – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/mar/31/doctors-strike-starmer-bma-nhs-labour-conservatives-reform-farage-latest-news-updates",
         "description": "The king will address Congress during the visit, which will commemorate the 250th anniversary of American independenceQ: What do you make of the suggestion that Donald Trump could end the Iran war ...",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Three hospital doctors’ groups threaten to coordinate strike action in England",
-        "url": "https://www.theguardian.com/society/2026/mar/31/bma-ballot-senior-doctors-england-strikes-pay-dispute-escalates",
-        "description": "Union to ballot consultants and SAS medics about joining resident doctors in industrial action over pay and conditionsUK politics live – latest updatesThe NHS’s three main groups of hospital doctor...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Starmer gives doctors 48 hours to cancel strike or lose new jobs package",
-        "url": "https://www.bbc.com/news/articles/c23909pge35o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister says the NHS could lose 1,000 extra training places if resident doctors go ahead with a six-day strike next week.",
+        "title": "Weight-loss jabs will be offered on NHS for people at risk of further heart attacks",
+        "url": "https://www.bbc.com/news/articles/cz90595pgzlo?at_medium=RSS&at_campaign=rss",
+        "description": "More than a million people in England will start being offered the anti-obesity jab for better heart health and to avoid strokes.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘Harrowing’: Cyclone Narelle leaves graveyard of turtles, dolphins and seabirds in Western Australia",
+        "url": "https://www.theguardian.com/australia-news/2026/apr/01/western-australia-cyclone-narelle-damage-wildlife",
+        "description": "Exmouth local says devastating impact on wildlife along the coastline is ‘hard to put into words’Follow our Australia news live blog for latest updatesSign up for climate and environment editor Ada...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Australia’s superb fairywren could be extinct within decades due to climate crisis, researchers say",
         "url": "https://www.theguardian.com/australia-news/2026/apr/01/australia-superb-fairywren-bird-climate-crisis-extinction-risk-within-decades-scientists-warn",
         "description": "Scientists tracked bird population in Canberra’s botanic gardens and found climate impacts starting to affect themFollow our Australia news live blog for latest updatesGet our breaking news email, ...",
@@ -126,13 +133,6 @@
         "title": "UK’s smallest bird of prey among 200 species at risk of extinction, study finds",
         "url": "https://www.theguardian.com/environment/2026/mar/31/uk-smallest-bird-prey-among-species-risk-extinction-study-finds",
         "description": "Merlin could disappear in worst-case scenario, with British isles facing ecological ‘point of no return’The merlin, Britain’s smallest bird of prey, is one of more than 200 species that will become...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Trump’s Iran war and drilling push show ‘dangerous volatility’ of fossil fuel era",
-        "url": "https://www.theguardian.com/us-news/2026/mar/31/trump-iran-war-fossil-fuel-policy-environment",
-        "description": "Critics say president is locking into 20th-century energy systems even as his ‘bet’ on oil and gas ‘isn’t going so well’By attacking Iran and threatening to seize its oil while taking extraordinary...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "A ‘dress rehearsal’ for life: inside the Manchester project helping homeless men rebuild",
+        "url": "https://www.theguardian.com/society/2026/apr/01/manchester-project-homeless-men-embassy-village",
+        "description": "Embassy Village offers 40 canal-side flats and support with budgeting, cooking and finding work, to help men start new lives and rediscover communityIt costs a lot to live by the canal in central M...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Want to boost the UK’s birthrate? Fix the housing crisis, research suggests",
         "url": "https://www.theguardian.com/world/2026/apr/01/uk-birthrate-fix-housing-crisis-research",
         "description": "Policymakers should address financial barriers that hinder young people from starting families, says thinktank Politicians hoping to persuade young people in the UK to have more children should pri...",
@@ -179,13 +186,6 @@
         "title": "Putting the ‘lord’ in ‘landlord’: US churches step up to build housing amid shortage",
         "url": "https://www.theguardian.com/society/2026/mar/29/yigby-churches-build-housing-amid-shortage",
         "description": "The ‘Yes in God’s Back Yard’ movement sees churches across the country develop their underutilized land into affordable housingA parcel of land behind Little Rock AME Zion church in Charlotte, Nort...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "I’m losing my home through a no-fault eviction | Letter",
-        "url": "https://www.theguardian.com/money/2026/mar/26/im-losing-my-home-through-a-no-fault-eviction",
-        "description": "One reader says the government has not done enough to protect tenants from section 21 notices despite years of assurancesRegarding your article on landlords issuing section 21 notices ahead of the ...",
         "source": "The Guardian",
         "category": "housing"
       }
