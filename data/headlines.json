@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-01T13:20:29.335917+00:00",
+  "fetched_at": "2026-04-01T19:01:00.969965+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Iran war shows UK needs ‘ambitious’ new EU ties, Starmer says, as Trump again criticises Nato",
+        "title": "Starmer calls for ‘ambitious’ new UK-EU ties as Trump threatens to quit Nato",
         "url": "https://www.theguardian.com/world/2026/apr/01/uk-needs-ambitious-new-eu-ties-amid-iran-war-starmer-says",
-        "description": "PM to focus on European defence and economic partnership for ‘dangerous world’ in pivot away from USUK politics live – latest updatesBritain’s long-term national interest requires closer partnershi...",
+        "description": "PM to focus on European defence and economic partnership for ‘dangerous world’, in pivot away from USUK politics live – latest updatesThe UK will seek an even deeper partnership with the EU because...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer says he will push for ‘closer partnership’ with EU after Iran war highlights global volatility – UK politics live",
+        "title": "Reeves criticises Trump for starting Iran war with no ‘clear plan’ to get out of it – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates",
-        "description": "Prime minister says UK will host meeting later this week with other nations on the reopening of the strait of HormuzStarmer says he understands why people are concerned about the cost of living.He ...",
+        "description": "This blog is now closedStarmer says he understands why people are concerned about the cost of living.He says he has already set out a five-point plan to deal with the crisis.Just look at what’s hap...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Police chiefs failed to tackle racism due to lack of leadership, watchdog finds",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/01/police-chiefs-failed-to-tackle-racism-due-to-lack-of-leadership-watchdog-finds",
-        "description": "Review finds no ‘meaningful impact’ five years after race action plan launched, amid calls for government to step inPromises by police chiefs to tackle racial bias failed owing to “a lack of clear ...",
+        "title": "Families condemn UK ‘impotence’ over UAE ‘social media misuse’ detentions",
+        "url": "https://www.theguardian.com/world/2026/apr/01/uk-citizens-detained-uae-frustrated-government-intervention-iran-conflict",
+        "description": "Ministers accused of being too fearful of offending Emirates to help Britons detained for sharing images of warMiddle East crisis live – latest updatesThe families of UK citizens held in the United...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,7 +33,14 @@
     ],
     "economy": [
       {
-        "title": "Oil tumbles and stock markets soar on hopes Middle East war will end soon, as Bank of England warns of ‘substantial negative supply shock’ – business live",
+        "title": "UK food inflation ‘could hit 9%’, trade body warns as Reeves meets retail chiefs",
+        "url": "https://www.theguardian.com/business/2026/apr/01/uk-food-inflation-iran-war-drives-up-energy-prices",
+        "description": "Discussion on how to ease impact from Iran war coincides with Food and Drink Federation almost tripling forecastFood inflation could hit 9% in the UK this year even if the strait of Hormuz opens wi...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Oil tumbles and UK’s FTSE 100 posts biggest daily rise in a year on hopes Middle East war will end soon – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/apr/01/oil-tumbles-stock-markets-gold-bonds-dollar-middle-east-war-manufacturing-factories-news-updates",
         "description": "Brent crude prices have fallen sharply, while the FTSE 100 is up 1.8% and government bonds are rallyingUK food inflation ‘could hit 9% this year’ as Iran war drives up energy pricesMiddle East cris...",
         "source": "The Guardian",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "UK food inflation ‘could hit 9% this year’ as Iran war drives up energy prices",
-        "url": "https://www.theguardian.com/business/2026/apr/01/uk-food-inflation-iran-war-drives-up-energy-prices",
-        "description": "Food and Drink Federation almost triples forecast, even allowing for possibility of strait of Hormuz reopening soonBusiness live – latest updatesFood inflation could hit 9% in the UK this year, eve...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Estate agents accuse Rightmove of charging excessive fees",
         "url": "https://www.bbc.com/news/articles/cn0yle5rrp8o?at_medium=RSS&at_campaign=rss",
         "description": "The online listing portal is now being pursued in a class action, launched on behalf of potentially hundreds of estate agents.",
@@ -63,9 +63,16 @@
     ],
     "nhs": [
       {
-        "title": "Head of NHS England ‘really worried’ about medicine supplies",
-        "url": "https://www.theguardian.com/business/2026/mar/31/medicines-run-out-weeks-nhs-england",
-        "description": "Jim Mackey responds to concerns about cost implications and supply disruption link to war against IranMiddle East crisis – live updatesThe head of the NHS in England has said he is “really worried”...",
+        "title": "Resident doctors accuse Keir Starmer of sabotaging talks to end pay and jobs dispute",
+        "url": "https://www.theguardian.com/society/2026/apr/01/resident-doctors-accuse-keir-starmer-of-sabotaging-talks-to-end-pay-and-jobs-dispute",
+        "description": "British Medical Association leaders say PM’s threat to axe posts makes strike action more likelyResident doctors have accused Keir Starmer of damaging the prospects of a deal to end their pay and j...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Starmer’s threat to resident doctors is a grave mistake | Letters",
+        "url": "https://www.theguardian.com/society/2026/apr/01/starmers-threat-to-resident-doctors-is-a-grave-mistake",
+        "description": "Dr Mussaddaq Iqbal responds to the news that the prime minister has warned medics to call off their strike or lose a training offerWhile I totally disapprove, as I did last time, of the doctors’ st...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -73,13 +80,6 @@
         "title": "MP rejects Palantir’s claims that criticism of NHS England deal is ‘ideologically motivated’",
         "url": "https://www.theguardian.com/technology/2026/apr/01/mp-palantir-claims-criticism-nhs-england-deal",
         "description": "Head of committee says it was appropriate for government to seek guidance on way out of £330m deal with US data companyClaims by Palantir that concerns over the US data analytics company’s multimil...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes",
-        "url": "https://www.theguardian.com/science/2026/apr/01/nhs-england-weight-loss-drugs-reduce-risk-heart-attacks-strokes-semaglutide-wegovy",
-        "description": "People who are not obese but overweight and at risk of serious cardiovascular events eligible for weekly jabsThe NHS in England is to offer more than 1 million people weight-loss drugs to reduce th...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,9 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "UK to pay France extra £16m in stopgap deal to patrol Channel beaches",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches",
-        "description": "Two-month arrangement aimed at preventing small-boat crossings comes as existing deal expiresThe UK will pay France an extra £16.2m to keep police patrolling Channel beaches and prevent a surge in ...",
+        "title": "Two dead and one missing after trying to cross Channel to UK",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/01/dead-missing-after-trying-to-cross-channel-to-uk",
+        "description": "First fatal incident this year occurred hours after £16.2m ‘stop the boats’ deal agreed between Britain and FranceEurope live – latest updatesUK politics live – latest updatesTwo people have died a...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -107,14 +107,21 @@
         "category": "immigration"
       },
       {
-        "title": "To call my part of London ‘Little Tehran’ isn’t quite right | Letter",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/31/to-call-my-part-of-london-little-tehran-isnt-quite-right",
-        "description": "Diaspora spaces are not replicas, writes Mehrdad Aref-Adib, who was born in Tehran and lives in Finchley, north London I was born in Tehran, but I have lived in London for most of my life. Over tim...",
+        "title": "UK to pay France extra £16m in stopgap deal to patrol Channel beaches",
+        "url": "https://www.theguardian.com/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches",
+        "description": "Two-month arrangement aimed at preventing small-boat crossings comes as existing deal expiresThe UK will pay France an extra £16.2m to keep police patrolling Channel beaches and prevent a surge in ...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "‘Fossil-fuel imperialism’: Trump’s hankering for Iranian oil runs deep",
+        "url": "https://www.theguardian.com/us-news/2026/apr/01/trump-iran-oil-fossil-fuel-imperialism",
+        "description": "Experts say the US believes it is entitled to resources it desires – a perspective president has supported for decadesDonald Trump said this past weekend he wants to “take the oil in Iran” by seizi...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "‘On a whole other level’: rapid snow melt-off in American west stuns scientists",
         "url": "https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west",
@@ -126,13 +133,6 @@
         "title": "‘Harrowing’: Cyclone Narelle leaves graveyard of turtles, dolphins and seabirds in Western Australia",
         "url": "https://www.theguardian.com/australia-news/2026/apr/01/western-australia-cyclone-narelle-damage-wildlife",
         "description": "Exmouth local says devastating impact on wildlife along the coastline is ‘hard to put into words’Follow our Australia news live blog for latest updatesSign up for climate and environment editor Ada...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Australia’s superb fairywren could be extinct within decades due to climate crisis, researchers say",
-        "url": "https://www.theguardian.com/australia-news/2026/apr/01/australia-superb-fairywren-bird-climate-crisis-extinction-risk-within-decades-scientists-warn",
-        "description": "Scientists tracked bird population in Canberra’s botanic gardens and found climate impacts starting to affect themFollow our Australia news live blog for latest updatesGet our breaking news email, ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "China is trying to play peacemaker in the Iran war - will it work?",
-        "url": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
-        "description": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
+        "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
+        "url": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
+        "description": "Trump has criticised Nato members for showing a lack of support for US objectives in Iran.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Russian military plane crash kills 29 in occupied Crimea",
-        "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
-        "description": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff.",
+        "title": "Families cram into Greek court for trial into deadliest train crash",
+        "url": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
+        "description": "Fifty-seven people were killed when two trains collided in 2023 in the worst rail accident in Greek history, with 36 accused in a trial expected to last years.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
