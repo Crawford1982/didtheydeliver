@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-03-31T19:01:29.467998+00:00",
+  "fetched_at": "2026-04-01T02:31:41.311214+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Two-thirds of UK hospitality businesses plan to cut jobs and one in seven will close, survey finds",
+        "url": "https://www.theguardian.com/business/2026/apr/01/two-thirds-of-uk-hospitality-businesses-plan-to-cut-jobs-and-one-in-seven-will-close-survey-finds",
+        "description": "Sector cites ‘billions of pounds in additional costs’ from new business rates and increase in minimum wage thresholdsTwo-thirds of hospitality businesses are planning to cut jobs as a result of “su...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Anti-terrorist programme Prevent ‘outdated and inadequately prepared’, report finds",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/01/prevent-anti-terrorist-programme-outdated-inadequately-prepared-report-finds",
+        "description": "The home affairs select committee said Prevent cannot deal with the modern challenges of fighting extremismThe government’s anti-terrorism programme, Prevent, is “outdated and inadequately prepared...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK to pay France extra £16m in stopgap deal to patrol Channel beaches",
         "url": "https://www.theguardian.com/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches",
         "description": "Two-month arrangement aimed at preventing small-boat crossings comes as existing deal expiresThe UK will pay France an extra £16.2m to keep police patrolling Channel beaches and prevent a surge in ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "King’s state visit to US will take place in April despite calls to delay amid Iran war – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/mar/31/doctors-strike-starmer-bma-nhs-labour-conservatives-reform-farage-latest-news-updates",
-        "description": "The king will address Congress during the visit, which will commemorate the 250th anniversary of American independenceQ: What do you make of the suggestion that Donald Trump could end the Iran war ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK sends more troops to Gulf amid Trump jibes over British military role",
-        "url": "https://www.theguardian.com/world/2026/mar/31/uk-troops-gulf-donald-trump-jibes-british-military-involvement",
-        "description": "John Healey says extra deployment is defensive response to ‘expanding threat’ from IranMiddle East crisis – live updatesUK politics live – latest updatesThe UK is sending more military support to t...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -35,7 +35,7 @@
       {
         "title": "US average fuel price passes $4 a gallon for first time in four years amid Iran war",
         "url": "https://www.theguardian.com/business/2026/mar/31/us-average-fuel-prices-iran-war",
-        "description": "National average hit $4.02, according to AAA data, capping an extraordinary rise from $2.98 just a month agoSign up for the Breaking News US email to get newsletter alerts in your inboxAverage US f...",
+        "description": "Stocks rally after reports suggest Trump might end the war soon, saying ‘we’re not going to be there for too much longer’Sign up for the Breaking News US email to get newsletter alerts in your inbo...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Oil nears highest price since start of Iran war",
-        "url": "https://www.bbc.com/news/articles/c17vrd0pj95o?at_medium=RSS&at_campaign=rss",
-        "description": "The US-Israel Iran war has halted almost all traffic in a key waterway and the price Brent crude has surged.",
+        "title": "Minimum wage rises to £12.71 an hour",
+        "url": "https://www.bbc.com/news/articles/c36r7jk6093o?at_medium=RSS&at_campaign=rss",
+        "description": "Many businesses have said they will have to pass higher wage costs onto customers.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -100,21 +100,28 @@
         "category": "immigration"
       },
       {
+        "title": "The brilliant students the UK doesn’t want - podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/apr/01/the-brilliant-students-the-uk-doesnt-want-podcast",
+        "description": "Why has the UK introduced a ban on student visas for four countries? Today in Focus talks to affected students in Sudan and Afghanistan, as well as our home affairs editor, Rajeev SyalIn early Marc...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "To call my part of London ‘Little Tehran’ isn’t quite right | Letter",
         "url": "https://www.theguardian.com/uk-news/2026/mar/31/to-call-my-part-of-london-little-tehran-isnt-quite-right",
         "description": "Diaspora spaces are not replicas, writes Mehrdad Aref-Adib, who was born in Tehran and lives in Finchley, north London I was born in Tehran, but I have lived in London for most of my life. Over tim...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Starmer’s immigration rhetoric follows familiar pattern of bold claims but few results, expert says",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/31/starmer-immigration-rhetoric-familiar-pattern-bold-claims-few-results",
-        "description": "Madeleine Sumption says politicians make big claims about things they only partially control to appeal to votersKeir Starmer’s pledge to “smash the gangs” profiting from small boat crossings has fo...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Australia’s superb fairywren could be extinct within decades due to climate crisis, researchers say",
+        "url": "https://www.theguardian.com/australia-news/2026/apr/01/australia-superb-fairywren-bird-climate-crisis-extinction-risk-within-decades-scientists-warn",
+        "description": "Scientists tracked bird population in Canberra’s botanic gardens and found climate impacts starting to affect themFollow our Australia news live blog for latest updatesGet our breaking news email, ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "UK’s smallest bird of prey among 200 species at risk of extinction, study finds",
         "url": "https://www.theguardian.com/environment/2026/mar/31/uk-smallest-bird-prey-among-species-risk-extinction-study-finds",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Australia urged to swap diesel for electric buses as fuel costs soar",
-        "url": "https://www.theguardian.com/environment/2026/mar/26/australia-electric-buses-transition-from-diesel-fuel-crisis",
-        "description": "Electric buses are just 1% of the Australian fleet compared with 80% in urban China, a quarter in the Netherlands and 12% in the UKFollow our Australia news live blog for latest updatesSign up for ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "The personal items the Artemis II crew are taking to the Moon",
         "url": "https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&at_campaign=rss",
         "description": "The crew, who are accomplished pilots, engineers and scientists, reveal their hopes, fears and family sacrifices.",
@@ -146,9 +146,9 @@
     ],
     "education": [
       {
-        "title": "US college students: are you about to graduate? We’d like to hear about your job-hunting experience",
-        "url": "https://www.theguardian.com/education/2026/mar/31/college-student-job-hunt-experience-tell-us",
-        "description": "How have you found the job application process? What has been your experience of job hunting so far? The entry-level job market for US college graduates is the worst it has been since the pandemic,...",
+        "title": "The brilliant students the UK doesn’t want - podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/apr/01/the-brilliant-students-the-uk-doesnt-want-podcast",
+        "description": "Why has the UK introduced a ban on student visas for four countries? Today in Focus talks to affected students in Sudan and Afghanistan, as well as our home affairs editor, Rajeev SyalIn early Marc...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -160,14 +160,21 @@
         "category": "education"
       },
       {
-        "title": "Sad faces all round as Bolivia’s clowns protest over decree threatening their livelihoods",
-        "url": "https://www.theguardian.com/world/2026/mar/31/bolivia-clown-protests-decree-school-holiday-parties",
-        "description": "Clowns in Bolivia are upset by mandate that stops schools hosting events from which they earn a livingDozens of clowns have marched through the streets of Bolivia’s capital to protest against a gov...",
+        "title": "Judge orders University of Pennsylvania to provide list of Jews to federal agency",
+        "url": "https://www.theguardian.com/us-news/2026/mar/31/judge-penn-jewish-employees-list-trump",
+        "description": "Trump administration claims list is part of an EEOC investigation into antisemitic discrimination at universityA federal judge on Tuesday ordered the University of Pennsylvania to hand over records...",
         "source": "The Guardian",
         "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Want to boost the UK’s birthrate? Fix the housing crisis, research suggests",
+        "url": "https://www.theguardian.com/world/2026/apr/01/uk-birthrate-fix-housing-crisis-research",
+        "description": "Policymakers should address financial barriers that hinder young people from starting families, says thinktank Politicians hoping to persuade young people in the UK to have more children should pri...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Putting the ‘lord’ in ‘landlord’: US churches step up to build housing amid shortage",
         "url": "https://www.theguardian.com/society/2026/mar/29/yigby-churches-build-housing-amid-shortage",
@@ -179,13 +186,6 @@
         "title": "I’m losing my home through a no-fault eviction | Letter",
         "url": "https://www.theguardian.com/money/2026/mar/26/im-losing-my-home-through-a-no-fault-eviction",
         "description": "One reader says the government has not done enough to protect tenants from section 21 notices despite years of assurancesRegarding your article on landlords issuing section 21 notices ahead of the ...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Coming across a terrible dilemma | Brief letters",
-        "url": "https://www.theguardian.com/society/2026/mar/26/coming-across-a-terrible-dilemma",
-        "description": "Ejaculation v sleep | Night-time stress | Brabazon legacy | Learning from mistakes | Pint or pony of porterI was struck by two adjacent headlines: “More frequent ejaculations may boost men’s fertil...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "China bans storing cremated remains in empty 'bone ash apartments'",
-        "url": "https://www.bbc.com/news/articles/cm25ynex2zxo?at_medium=RSS&at_campaign=rss",
-        "description": "China bans 'bone ash apartments' where mourners are storing cremated remains instead of cemeteries.",
+        "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
+        "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
+        "description": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
