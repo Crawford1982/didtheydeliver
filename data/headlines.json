@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-04-01T07:19:34.815707+00:00",
+  "fetched_at": "2026-04-01T13:20:29.335917+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Iran war shows UK needs ‘ambitious’ new EU ties, Starmer says, as Trump again criticises Nato",
+        "url": "https://www.theguardian.com/world/2026/apr/01/uk-needs-ambitious-new-eu-ties-amid-iran-war-starmer-says",
+        "description": "PM to focus on European defence and economic partnership for ‘dangerous world’ in pivot away from USUK politics live – latest updatesBritain’s long-term national interest requires closer partnershi...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Starmer says he will push for ‘closer partnership’ with EU after Iran war highlights global volatility – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/01/keir-starmer-rachel-reeves-iran-energy-bills-supermarket-cost-of-living-uk-politics-latest-news-updates",
+        "description": "Prime minister says UK will host meeting later this week with other nations on the reopening of the strait of HormuzStarmer says he understands why people are concerned about the cost of living.He ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Police chiefs failed to tackle racism due to lack of leadership, watchdog finds",
         "url": "https://www.theguardian.com/uk-news/2026/apr/01/police-chiefs-failed-to-tackle-racism-due-to-lack-of-leadership-watchdog-finds",
@@ -10,53 +24,39 @@
         "category": "government"
       },
       {
-        "title": "Two-thirds of UK hospitality businesses plan to cut jobs and one in seven will close, survey finds",
-        "url": "https://www.theguardian.com/business/2026/apr/01/two-thirds-of-uk-hospitality-businesses-plan-to-cut-jobs-and-one-in-seven-will-close-survey-finds",
-        "description": "Sector cites ‘billions of pounds in additional costs’ from new business rates and increase in minimum wage thresholdsTwo-thirds of hospitality businesses are planning to cut jobs as a result of “su...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Anti-terrorist programme Prevent ‘outdated and inadequately prepared’, report finds",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/01/prevent-anti-terrorist-programme-outdated-inadequately-prepared-report-finds",
-        "description": "The home affairs select committee said Prevent cannot deal with the modern challenges of fighting extremismThe government’s anti-terrorism programme, Prevent, is “outdated and inadequately prepared...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Energy bill help would be based on household income, Reeves says",
-        "url": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss",
-        "description": "The chancellor tells the BBC it is \"too early\" to say exactly who would get help but hinted any support would not arrive until the autumn.",
+        "title": "UK will seek closer ties with EU in light of Iran war, Starmer says",
+        "url": "https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss",
+        "description": "It comes as UK-US relations have been strained by the PM's refusal to be dragged further into the Iran war.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Oil tumbles below $100 a barrel and stock markets soar on hopes Middle East war will end soon – business live",
+        "title": "Oil tumbles and stock markets soar on hopes Middle East war will end soon, as Bank of England warns of ‘substantial negative supply shock’ – business live",
         "url": "https://www.theguardian.com/business/live/2026/apr/01/oil-tumbles-stock-markets-gold-bonds-dollar-middle-east-war-manufacturing-factories-news-updates",
-        "description": "Brent crude prices have fallen sharply, while the FTSE 100 is up 1.8%, as de-escalation hopes sweep through marketsMiddle East crisis live: Trump claims war will end in ‘two or three weeks’; Rubio ...",
+        "description": "Brent crude prices have fallen sharply, while the FTSE 100 is up 1.8% and government bonds are rallyingUK food inflation ‘could hit 9% this year’ as Iran war drives up energy pricesMiddle East cris...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Energy crisis: why ‘keep calm but cut down’ may be a better message for Labour",
-        "url": "https://www.theguardian.com/politics/2026/apr/01/energy-crisis-keep-calm-but-cut-down-better-message-labour",
-        "description": "Government keen to avoid panic as oil price surges, but perhaps households need advice on reducing consumptionLabour ministers sent out in recent days to respond to the looming energy crisis sparke...",
+        "title": "Oil price falls and markets rally after Trump says Iran war over in ‘two to three weeks’",
+        "url": "https://www.theguardian.com/world/2026/apr/01/iran-war-oil-prices-trump-crude-stock-markets-business-us-israel-middle-east",
+        "description": "US president’s claim that conflict is nearing end prompts 15% drop in Brent crude and stock market climb in AsiaBusiness live – latest updatesOil prices tumbled and stock markets have rallied acros...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "US average fuel price passes $4 a gallon for first time in four years amid Iran war",
-        "url": "https://www.theguardian.com/business/2026/mar/31/us-average-fuel-prices-iran-war",
-        "description": "Stocks rally after reports suggest Trump might end the war soon, saying ‘we’re not going to be there for too much longer’Sign up for the Breaking News US email to get newsletter alerts in your inbo...",
+        "title": "UK food inflation ‘could hit 9% this year’ as Iran war drives up energy prices",
+        "url": "https://www.theguardian.com/business/2026/apr/01/uk-food-inflation-iran-war-drives-up-energy-prices",
+        "description": "Food and Drink Federation almost triples forecast, even allowing for possibility of strait of Hormuz reopening soonBusiness live – latest updatesFood inflation could hit 9% in the UK this year, eve...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Energy bill help would be based on household income, Reeves says",
-        "url": "https://www.bbc.com/news/articles/cgk0d76yg8po?at_medium=RSS&at_campaign=rss",
-        "description": "The chancellor tells the BBC it is \"too early\" to say exactly who would get help but hinted any support would not arrive until the autumn.",
+        "title": "Estate agents accuse Rightmove of charging excessive fees",
+        "url": "https://www.bbc.com/news/articles/cn0yle5rrp8o?at_medium=RSS&at_campaign=rss",
+        "description": "The online listing portal is now being pursued in a class action, launched on behalf of potentially hundreds of estate agents.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes",
-        "url": "https://www.theguardian.com/science/2026/apr/01/nhs-england-weight-loss-drugs-reduce-risk-heart-attacks-strokes-semaglutide-wegovy",
-        "description": "People who are not obese but overweight and at risk of serious cardiovascular events eligible for weekly jabsThe NHS in England is to offer more than 1 million people weight-loss drugs to reduce th...",
+        "title": "MP rejects Palantir’s claims that criticism of NHS England deal is ‘ideologically motivated’",
+        "url": "https://www.theguardian.com/technology/2026/apr/01/mp-palantir-claims-criticism-nhs-england-deal",
+        "description": "Head of committee says it was appropriate for government to seek guidance on way out of £330m deal with US data companyClaims by Palantir that concerns over the US data analytics company’s multimil...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "King’s state visit to US will take place in April despite calls to delay amid Iran war – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/mar/31/doctors-strike-starmer-bma-nhs-labour-conservatives-reform-farage-latest-news-updates",
-        "description": "The king will address Congress during the visit, which will commemorate the 250th anniversary of American independenceQ: What do you make of the suggestion that Donald Trump could end the Iran war ...",
+        "title": "NHS England to offer weight-loss drugs to 1.2m people to reduce risk of heart attacks and strokes",
+        "url": "https://www.theguardian.com/science/2026/apr/01/nhs-england-weight-loss-drugs-reduce-risk-heart-attacks-strokes-semaglutide-wegovy",
+        "description": "People who are not obese but overweight and at risk of serious cardiovascular events eligible for weekly jabsThe NHS in England is to offer more than 1 million people weight-loss drugs to reduce th...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘On a whole other level’: rapid snow melt-off in American west stuns scientists",
+        "url": "https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west",
+        "description": "Experts say brutal March heat has left critical snowpack at record-low levels – and key basins in uncharted territorySnow surveys taking place across the American west this week are offering a grim...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "‘Harrowing’: Cyclone Narelle leaves graveyard of turtles, dolphins and seabirds in Western Australia",
         "url": "https://www.theguardian.com/australia-news/2026/apr/01/western-australia-cyclone-narelle-damage-wildlife",
         "description": "Exmouth local says devastating impact on wildlife along the coastline is ‘hard to put into words’Follow our Australia news live blog for latest updatesSign up for climate and environment editor Ada...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "UK’s smallest bird of prey among 200 species at risk of extinction, study finds",
-        "url": "https://www.theguardian.com/environment/2026/mar/31/uk-smallest-bird-prey-among-species-risk-extinction-study-finds",
-        "description": "Merlin could disappear in worst-case scenario, with British isles facing ecological ‘point of no return’The merlin, Britain’s smallest bird of prey, is one of more than 200 species that will become...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "The personal items the Artemis II crew are taking to the Moon",
-        "url": "https://www.bbc.com/news/articles/cdj7e11pw10o?at_medium=RSS&at_campaign=rss",
-        "description": "The crew, who are accomplished pilots, engineers and scientists, reveal their hopes, fears and family sacrifices.",
+        "title": "What it's like to be on Florida's Space Coast ahead of Artemis launch",
+        "url": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&at_campaign=rss",
+        "description": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Iran using children in security roles in war, reports and witnesses say",
-        "url": "https://www.bbc.com/news/articles/c9wqgjn7x89o?at_medium=RSS&at_campaign=rss",
-        "description": "An 11-year-old is reported to have been killed in an air strike while manning a checkpoint in Tehran.",
+        "title": "China is trying to play peacemaker in the Iran war - will it work?",
+        "url": "https://www.bbc.com/news/articles/cze0kz7gr84o?at_medium=RSS&at_campaign=rss",
+        "description": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Israel says it will keep control over part of southern Lebanon after war with Hezbollah ends",
-        "url": "https://www.bbc.com/news/articles/c5yx8knpr5no?at_medium=RSS&at_campaign=rss",
-        "description": "Defence Minister Israel Katz also says houses in Lebanese villages near the Israeli border will be demolished.",
+        "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
+        "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
+        "description": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US journalist Shelly Kittleson kidnapped in Baghdad",
-        "url": "https://www.bbc.com/news/articles/c5yled478zwo?at_medium=RSS&at_campaign=rss",
-        "description": "The US state department says a suspect in her abduction has ties to an Iran-backed militia group, Kataib Hezbollah.",
+        "title": "Russian military plane crash kills 29 in occupied Crimea",
+        "url": "https://www.bbc.com/news/articles/cly6387xgqxo?at_medium=RSS&at_campaign=rss",
+        "description": "Russian authorities say a technical malfunction caused the An-26 to crash into a cliff.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
