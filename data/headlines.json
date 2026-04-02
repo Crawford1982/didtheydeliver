@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-02T02:10:56.865831+00:00",
+  "fetched_at": "2026-04-02T07:11:53.560404+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Global super-rich may have hidden $3.55tn from tax officials, says Oxfam",
-        "url": "https://www.theguardian.com/world/2026/apr/02/global-super-rich-hidden-355trn-from-tax-officials-oxfam",
-        "description": "Charity calls for a levy on the very richest and the closing of tax loopholes in its report on offshore wealthThe global super-rich may have as much as $3.55tn hidden away from tax authorities, acc...",
+        "title": "‘Overwhelmed’ Prevent at risk of missing threats as referrals rise, UK counter-terror chief says",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/02/overwhelmed-prevent-at-risk-of-missing-threats-as-referrals-rise-uk-counter-terror-chief-says",
+        "description": "Exclusive: Laurence Taylor says separate scheme needed to report concerns over young people’s non-ideological interest in extreme violenceThe scheme meant to identify people before they become terr...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Britain to host 35 countries for strait of Hormuz talks, says Starmer",
-        "url": "https://www.theguardian.com/world/2026/apr/01/hormuz-strait-talks-britain-starmer",
-        "description": "US understood not to be invited directly to talks that will explore ways of reopening critical waterwayMiddle East crisis – live updatesThe UK will convene 35 countries – excluding the US – to expl...",
+        "title": "Pupils in England are losing their thinking skills because of AI, survey suggests",
+        "url": "https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey",
+        "description": "Two-thirds of secondary school teachers report a decline in core abilities such as writing and problem-solvingPupils using artificial intelligence are losing their capacity for critical thinking, a...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Resident doctors accuse Keir Starmer of sabotaging talks to end pay and jobs dispute",
-        "url": "https://www.theguardian.com/society/2026/apr/01/resident-doctors-accuse-keir-starmer-of-sabotaging-talks-to-end-pay-and-jobs-dispute",
-        "description": "British Medical Association leaders say PM’s threat to cut 1,000 new roles makes next week’s strike action more likelyResident doctors have accused Keir Starmer of damaging the prospects of a deal ...",
+        "title": "Your Party to focus local election efforts on backing independent candidates",
+        "url": "https://www.theguardian.com/politics/2026/apr/02/your-party-to-focus-local-election-efforts-on-backing-independent-candidates",
+        "description": "The party, whose parliamentary leader is Jeremy Corbyn, will back 250 candidates, focusing on urban areasYour Party is to focus its local election efforts on a number of urban areas with large Musl...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "UK hit by record rise in fuel prices, and ‘biggest mortgage shock since mini-budget’ as Iran war bites – business live",
+        "url": "https://www.theguardian.com/business/live/2026/apr/02/uk-record-rise-fuel-prices-mortgage-shock-stock-markets-iran-war-oil-dollar-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsTrump claims Iran war ‘nearing completion’ and seeks to justify conflict in prime-time addressMiddle East crisis live: oil prices climb aft...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Polymarket and other prediction platforms driving oil market, traders say",
+        "url": "https://www.theguardian.com/business/2026/apr/02/energy-traders-polymarket-prediction-datafeeds-global-oil-market",
+        "description": "Datafeeds from platforms being used to create algorithms that determine multimillion-dollar trades on global marketEnergy traders say online betting platforms are directly driving the global oil ma...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "UK food inflation ‘could hit 9%’, trade body warns as Reeves meets retail chiefs",
         "url": "https://www.theguardian.com/business/2026/apr/01/uk-food-inflation-iran-war-drives-up-energy-prices",
         "description": "Discussion on how to ease impact from Iran war coincides with Food and Drink Federation almost tripling forecastFood inflation could hit 9% in the UK this year even if the strait of Hormuz opens wi...",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Oil tumbles and UK’s FTSE 100 posts biggest daily rise in a year on hopes Middle East war will end soon – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/apr/01/oil-tumbles-stock-markets-gold-bonds-dollar-middle-east-war-manufacturing-factories-news-updates",
-        "description": "Brent crude prices have fallen sharply, while the FTSE 100 is up 1.8% and government bonds are rallyingUK food inflation ‘could hit 9% this year’ as Iran war drives up energy pricesMiddle East cris...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil price falls and markets rally after Trump says Iran war over in ‘two to three weeks’",
-        "url": "https://www.theguardian.com/world/2026/apr/01/iran-war-oil-prices-trump-crude-stock-markets-business-us-israel-middle-east",
-        "description": "US president’s claim that conflict is nearing end prompts 15% drop in Brent crude and stock market climb in AsiaBusiness live – latest updatesOil prices tumbled and stock markets have rallied acros...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Record monthly rise in petrol and diesel prices, says RAC",
-        "url": "https://www.bbc.com/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "description": "March saw the fastest rise in fuel prices on record in pence per litre, according to the motoring organisation.",
+        "title": "Oil jumps and shares fall after Trump Iran address",
+        "url": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president called on nations that need Gulf oil to take the lead to keep the Strait of Hormuz open.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Weight-loss jabs will be offered on NHS for people at risk of further heart attacks",
-        "url": "https://www.bbc.com/news/articles/cz90595pgzlo?at_medium=RSS&at_campaign=rss",
-        "description": "More than a million people in England will start being offered the anti-obesity jab for better heart health and to avoid strokes.",
+        "title": "Doctors lose new jobs package as strike to go ahead",
+        "url": "https://www.bbc.com/news/articles/cwyj7dwwlq9o?at_medium=RSS&at_campaign=rss",
+        "description": "The offer of 1,000 more training posts has been withdrawn after the union refused to scrap the planned six-day strike.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,37 +137,44 @@
         "category": "climate"
       },
       {
-        "title": "What it's like to be on Florida's Space Coast ahead of Artemis launch",
-        "url": "https://www.bbc.com/news/articles/cz0e1myvl2ko?at_medium=RSS&at_campaign=rss",
-        "description": "Huge crowds are gathering around the Kennedy Space Centre to see the launch of the historic moon mission.",
+        "title": "Watch the moment Artemis II blasts into space",
+        "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
+        "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
-        "title": "The brilliant students the UK doesn’t want - podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/apr/01/the-brilliant-students-the-uk-doesnt-want-podcast",
-        "description": "Why has the UK introduced a ban on student visas for four countries? Today in Focus talks to affected students in Sudan and Afghanistan, as well as our home affairs editor, Rajeev SyalIn early Marc...",
+        "title": "Pupils in England are losing their thinking skills because of AI, survey suggests",
+        "url": "https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey",
+        "description": "Two-thirds of secondary school teachers report a decline in core abilities such as writing and problem-solvingPupils using artificial intelligence are losing their capacity for critical thinking, a...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Almost half of primary teachers in England see pupils with eating disorders, survey finds",
-        "url": "https://www.theguardian.com/education/2026/mar/31/almost-half-of-primary-teachers-in-england-see-pupils-with-eating-disorders-survey-finds",
-        "description": "Poll of 10,000 teachers also finds ‘overwhelming’ exam anxiety and rising absenteeism linked to poor mental healthAlmost half of primary school teachers are seeing pupils with eating disorders “at ...",
+        "title": "Teachers made ill by rats and hit by toaster receive share of £15m payout",
+        "url": "https://www.theguardian.com/education/2026/apr/02/teachers-union-reveals-15-million-compensation-payout-for-uk-school-staff",
+        "description": "Details about compensation for personal injury awarded to UK school staff revealed by NASUWTA teacher who became ill from a rat infestation and another who was injured after a pupil threw a toaster...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Judge orders University of Pennsylvania to provide list of Jews to federal agency",
-        "url": "https://www.theguardian.com/us-news/2026/mar/31/judge-penn-jewish-employees-list-trump",
-        "description": "Trump administration claims list is part of an EEOC investigation into antisemitic discrimination at universityA federal judge on Tuesday ordered the University of Pennsylvania to hand over records...",
+        "title": "Chris Rokos: the camera-shy billionaire behind the biggest UK university donation in modern times",
+        "url": "https://www.theguardian.com/education/2026/apr/02/chris-rokos-the-camera-shy-billionaire-behind-the-biggest-uk-university-donation-in-modern-times",
+        "description": "The 55-year-old is one of the most successful hedge fund managers of his generationWhen Chris Rokos decided to donate a record £190m to the University of Cambridge to set up a “school of government...",
         "source": "The Guardian",
         "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "‘We’re trapped’: developer’s unpaid debt leaves London flat owners unable to sell",
+        "url": "https://www.theguardian.com/society/2026/apr/02/developers-unpaid-debt-leaves-london-flat-owners-unable-to-sell-hackney",
+        "description": "Hackney leaseholders feel council made the problem worse by leaving £850,000 debt uncollected for eight yearsLeaseholders in east London have said they are “trapped in unsellable homes” because of ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "A ‘dress rehearsal’ for life: inside the Manchester project helping homeless men rebuild",
         "url": "https://www.theguardian.com/society/2026/apr/01/manchester-project-homeless-men-embassy-village",
@@ -181,34 +188,27 @@
         "description": "Policymakers should address financial barriers that hinder young people from starting families, says thinktank Politicians hoping to persuade young people in the UK to have more children should pri...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Putting the ‘lord’ in ‘landlord’: US churches step up to build housing amid shortage",
-        "url": "https://www.theguardian.com/society/2026/mar/29/yigby-churches-build-housing-amid-shortage",
-        "description": "The ‘Yes in God’s Back Yard’ movement sees churches across the country develop their underutilized land into affordable housingA parcel of land behind Little Rock AME Zion church in Charlotte, Nort...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
-        "url": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
-        "description": "Trump has criticised Nato members for showing a lack of support for US objectives in Iran.",
+        "title": "Watch the moment Artemis II blasts into space",
+        "url": "https://www.bbc.com/news/videos/cwydnrmggnno?at_medium=RSS&at_campaign=rss",
+        "description": "After delays and technical issues, the first crewed Moon mission in 50 years finally took off from Florida and is now in Earth's orbit.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Israel intensifies Lebanon attacks and hits areas not in Hezbollah's control",
-        "url": "https://www.bbc.com/news/articles/cvg07j6yeweo?at_medium=RSS&at_campaign=rss",
-        "description": "Attacks have continued as Israel has announced its intention to control swathes of south Lebanon.",
+        "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
+        "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
+        "description": "There were some glaring omissions in the president's primetime address, writes the BBC's Gary O'Donoghue.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Families cram into Greek court for trial into deadliest train crash",
-        "url": "https://www.bbc.com/news/articles/cx2wq13758no?at_medium=RSS&at_campaign=rss",
-        "description": "Fifty-seven people were killed when two trains collided in 2023 in the worst rail accident in Greek history, with 36 accused in a trial expected to last years.",
+        "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
+        "url": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
+        "description": "The quake struck between the islands of Manado and Ternate. Tsunami warnings have now been lifted.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
