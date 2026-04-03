@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-02T18:56:00.811830+00:00",
+  "fetched_at": "2026-04-03T02:12:12.458720+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
+        "url": "https://www.theguardian.com/society/2026/apr/02/uk-drug-exports-to-us-spared-tariffs-under-deal-critics-say-will-cost-nhs-billions",
+        "description": "‘Partnership’ on drug pricing also gives patients in Britain greater access to potentially life-extending treatments British drug exports to the US will escape tariffs imposed by Donald Trump as pa...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Labour is letting down Britain’s children, says National Education Union leader",
         "url": "https://www.theguardian.com/education/2026/apr/02/neu-leader-schools-running-on-empty-challenges-labour-education-record",
@@ -13,13 +20,6 @@
         "title": "Starmer must call energy summit akin to 2008 crisis response, Labour MP says",
         "url": "https://www.theguardian.com/politics/2026/apr/02/keir-starmer-energy-summit-2008-financial-crisis-iran-war",
         "description": "Former government adviser Polly Billington urges bigger steps to shield people in UK from effects of Iran warMiddle East crisis – live updatesKeir Starmer should convene a global energy summit of t...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK politics Q&A, as it happened: Andrew Sparrow answers your questions on Starmer, Reform and more",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/02/reform-uk-housing-grenfell-tower-keir-starmer-yvette-cooper-uk-politics-latest-news-updates",
-        "description": "This blog is now closedQ: Do you agree with the Tories about wanting more oil and gas drilling from the North Sea?Davey says Kemi Badenoch claims she can get an extra £2.5bn in tax revenue by allow...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,18 +54,18 @@
         "category": "economy"
       },
       {
-        "title": "Oil prices jump and shares drop after Trump threatens more Iran strikes",
-        "url": "https://www.bbc.com/news/articles/ce8lzd4v7zdo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president said he'll bring Iran \"back to the Stone Age\" but gave no detail on ending the war.",
+        "title": "'I ended up paying £500': Your subscription trap stories",
+        "url": "https://www.bbc.com/news/articles/cz78lv9qej4o?at_medium=RSS&at_campaign=rss",
+        "description": "Many readers have experienced the ordeal of cancelling a subscription.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "Resident doctors accuse Keir Starmer of sabotaging talks to end pay and jobs dispute",
-        "url": "https://www.theguardian.com/society/2026/apr/01/resident-doctors-accuse-keir-starmer-of-sabotaging-talks-to-end-pay-and-jobs-dispute",
-        "description": "British Medical Association leaders say PM’s threat to cut 1,000 new roles makes next week’s strike action more likelyResident doctors have accused Keir Starmer of damaging the prospects of a deal ...",
+        "title": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
+        "url": "https://www.theguardian.com/society/2026/apr/02/uk-drug-exports-to-us-spared-tariffs-under-deal-critics-say-will-cost-nhs-billions",
+        "description": "‘Partnership’ on drug pricing also gives patients in Britain greater access to potentially life-extending treatments British drug exports to the US will escape tariffs imposed by Donald Trump as pa...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -77,9 +77,9 @@
         "category": "nhs"
       },
       {
-        "title": "Starmer’s threat to resident doctors is a grave mistake | Letters",
-        "url": "https://www.theguardian.com/society/2026/apr/01/starmers-threat-to-resident-doctors-is-a-grave-mistake",
-        "description": "Dr Mussaddaq Iqbal responds to the news that the prime minister has warned medics to call off their strike or lose a training offerWhile I totally disapprove, as I did last time, of the doctors’ st...",
+        "title": "Resident doctors accuse Keir Starmer of sabotaging talks to end pay and jobs dispute",
+        "url": "https://www.theguardian.com/society/2026/apr/01/resident-doctors-accuse-keir-starmer-of-sabotaging-talks-to-end-pay-and-jobs-dispute",
+        "description": "British Medical Association leaders say PM’s threat to cut 1,000 new roles makes next week’s strike action more likelyResident doctors have accused Keir Starmer of damaging the prospects of a deal ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Google to tap into gas plant for AI datacenter in sharp turn from climate goals",
+        "url": "https://www.theguardian.com/technology/2026/apr/02/google-ai-datacenter",
+        "description": "Texas power plant would emit 4.5m tons of carbon dioxide per year, more than that of the entire city of San FranciscoGoogle’s plan for a partnership with a natural gas power plant that could provid...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "‘Fossil-fuel imperialism’: Trump’s hankering for Iranian oil runs deep",
         "url": "https://www.theguardian.com/us-news/2026/apr/01/trump-iran-oil-fossil-fuel-imperialism",
         "description": "Experts say the US believes it is entitled to resources it desires – a perspective president has supported for decadesDonald Trump said this past weekend he wants to “take the oil in Iran” by seizi...",
@@ -126,13 +133,6 @@
         "title": "‘On a whole other level’: rapid snow melt-off in American west stuns scientists",
         "url": "https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west",
         "description": "Experts say brutal March heat has left critical snowpack at record-low levels – and key basins in uncharted territorySnow surveys taking place across the American west this week are offering a grim...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘Harrowing’: Cyclone Narelle leaves graveyard of turtles, dolphins and seabirds in Western Australia",
-        "url": "https://www.theguardian.com/australia-news/2026/apr/01/western-australia-cyclone-narelle-damage-wildlife",
-        "description": "Exmouth local says devastating impact on wildlife along the coastline is ‘hard to put into words’Follow our Australia news live blog for latest updatesSign up for climate and environment editor Ada...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
-        "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-        "description": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran.",
+        "title": "Trump removes US Attorney General Pam Bondi",
+        "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
+        "description": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Iran's two largest steel plants shut down due to strikes, companies say",
-        "url": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
-        "description": "The strikes, which Iran says were first launched by Israel in co-ordination with the US last week, could cause major damage to the Iranian economy.",
+        "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
+        "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
+        "description": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Brazil grants joint custody over pets in new law for separated couples",
-        "url": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
-        "description": "Lawmakers in the Brazilian Congress view the law change as a reflection of pets' importance for their owners.",
+        "title": "Iran war could make beer and bottled water pricier for Indians",
+        "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
+        "description": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
