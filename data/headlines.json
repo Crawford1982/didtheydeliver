@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-03T02:12:12.458720+00:00",
+  "fetched_at": "2026-04-03T07:07:04.369689+00:00",
   "headlines": {
     "government": [
       {
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "UK and allies discuss sanctions to stop Iran blocking Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss",
-        "description": "Yvette Cooper said coordinated diplomatic and economic measures are required to reopen the shipping lane.",
+        "title": "Police offered support to tackle rising threats against MPs",
+        "url": "https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss",
+        "description": "Reports of crimes against MPs have more than doubled since 2019, reaching almost 1,000 last year.",
         "source": "BBC News",
         "category": "government"
       }
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "Streeting hits out at BMA ‘delusion’ as talks to avert resident doctors’ strike fail",
-        "url": "https://www.theguardian.com/society/2026/apr/02/wes-streeting-bma-delusion-resident-doctors-strike-nhs",
-        "description": "Six-day stoppage in England to go ahead from Tuesday as health secretary withdraws offer of extra training placesThe NHS in England is bracing for the longest strike yet by resident doctors after l...",
+        "title": "NHS rehabilitation care staff shortage fails stroke patients, say health leaders",
+        "url": "https://www.theguardian.com/society/2026/apr/03/nhs-rehabiliation-care-staff-shortage-stroke-patients",
+        "description": "People receive rehab only three to four days a week in hospital – and one to two days once they are discharged, data suggestsThe NHS is failing stroke patients and limiting their chances of recover...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Resident doctors accuse Keir Starmer of sabotaging talks to end pay and jobs dispute",
-        "url": "https://www.theguardian.com/society/2026/apr/01/resident-doctors-accuse-keir-starmer-of-sabotaging-talks-to-end-pay-and-jobs-dispute",
-        "description": "British Medical Association leaders say PM’s threat to cut 1,000 new roles makes next week’s strike action more likelyResident doctors have accused Keir Starmer of damaging the prospects of a deal ...",
+        "title": "Streeting hits out at BMA ‘delusion’ as talks to avert resident doctors’ strike fail",
+        "url": "https://www.theguardian.com/society/2026/apr/02/wes-streeting-bma-delusion-resident-doctors-strike-nhs",
+        "description": "Six-day stoppage in England to go ahead from Tuesday as health secretary withdraws offer of extra training placesThe NHS in England is bracing for the longest strike yet by resident doctors after l...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Friday briefing: Why does your Easter egg feel smaller? Because it is",
+        "url": "https://www.theguardian.com/world/2026/apr/03/friday-briefing-why-does-your-easter-egg-feel-smaller-because-it-is",
+        "description": "In today’s newsletter: Cocoa shortages, climate shocks and global conflicts have collided to ​make chocolate pricier than ever beforeGood morning. Today is Good Friday – if you are following the we...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Google to tap into gas plant for AI datacenter in sharp turn from climate goals",
         "url": "https://www.theguardian.com/technology/2026/apr/02/google-ai-datacenter",
         "description": "Texas power plant would emit 4.5m tons of carbon dioxide per year, more than that of the entire city of San FranciscoGoogle’s plan for a partnership with a natural gas power plant that could provid...",
@@ -126,13 +133,6 @@
         "title": "‘Fossil-fuel imperialism’: Trump’s hankering for Iranian oil runs deep",
         "url": "https://www.theguardian.com/us-news/2026/apr/01/trump-iran-oil-fossil-fuel-imperialism",
         "description": "Experts say the US believes it is entitled to resources it desires – a perspective president has supported for decadesDonald Trump said this past weekend he wants to “take the oil in Iran” by seizi...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘On a whole other level’: rapid snow melt-off in American west stuns scientists",
-        "url": "https://www.theguardian.com/us-news/2026/apr/01/snowmelt-american-west",
-        "description": "Experts say brutal March heat has left critical snowpack at record-low levels – and key basins in uncharted territorySnow surveys taking place across the American west this week are offering a grim...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,13 +169,6 @@
     ],
     "housing": [
       {
-        "title": "‘We’re trapped’: developer’s unpaid debt leaves London flat owners unable to sell",
-        "url": "https://www.theguardian.com/society/2026/apr/02/developers-unpaid-debt-leaves-london-flat-owners-unable-to-sell-hackney",
-        "description": "Hackney leaseholders feel council made the problem worse by leaving £850,000 debt uncollected for eight yearsLeaseholders in east London have said they are “trapped in unsellable homes” because of ...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
         "title": "UK politics Q&A, as it happened: Andrew Sparrow answers your questions on Starmer, Reform and more",
         "url": "https://www.theguardian.com/politics/live/2026/apr/02/reform-uk-housing-grenfell-tower-keir-starmer-yvette-cooper-uk-politics-latest-news-updates",
         "description": "This blog is now closedQ: Do you agree with the Tories about wanting more oil and gas drilling from the North Sea?Davey says Kemi Badenoch claims she can get an extra £2.5bn in tax revenue by allow...",
@@ -188,9 +181,23 @@
         "description": "Simon Dudley fired after his comments were condemned by prime minister and families of fire victimsUK politics live – latest updatesReform UK’s housing spokesperson has been sacked from his role af...",
         "source": "The Guardian",
         "category": "housing"
+      },
+      {
+        "title": "Starmer calls on Reform to sack Simon Dudley after ‘everyone dies’ Grenfell comments",
+        "url": "https://www.theguardian.com/politics/2026/apr/02/reform-uk-simon-dudley-grenfell-families-everyone-dies",
+        "description": "PM says Farage should ‘do the decent thing’, after new housing spokesperson’s criticism of safety regulationsUK politics live – latest updatesKeir Starmer has called on Nigel Farage to sack Reform’...",
+        "source": "The Guardian",
+        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Artemis II blasts ever closer to the far side of the Moon",
+        "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+        "description": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Trump removes US Attorney General Pam Bondi",
         "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
@@ -202,13 +209,6 @@
         "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
         "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
         "description": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Iran war could make beer and bottled water pricier for Indians",
-        "url": "https://www.bbc.com/news/articles/c5ywqky5dd7o?at_medium=RSS&at_campaign=rss",
-        "description": "Makers of plastic and glass bottles are struggling to access raw materials as the war squeezes supplies.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
