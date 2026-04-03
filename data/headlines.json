@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-03T07:07:04.369689+00:00",
+  "fetched_at": "2026-04-03T13:02:32.989146+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
-        "url": "https://www.theguardian.com/society/2026/apr/02/uk-drug-exports-to-us-spared-tariffs-under-deal-critics-say-will-cost-nhs-billions",
-        "description": "‘Partnership’ on drug pricing also gives patients in Britain greater access to potentially life-extending treatments British drug exports to the US will escape tariffs imposed by Donald Trump as pa...",
+        "title": "Starmer’s cost of living adviser urges him to extend fuel duty cut in light of Iran war",
+        "url": "https://www.theguardian.com/politics/2026/apr/03/starmer-urged-extend-fuel-duty-cut-iran-war-petrol-prices-cost-of-living",
+        "description": "Richard Walker says a possible September rate rise should be scrapped to reflect increase in petrol pricesA cut to fuel duty should be extended to reflect the rise in petrol prices, the government’...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour is letting down Britain’s children, says National Education Union leader",
-        "url": "https://www.theguardian.com/education/2026/apr/02/neu-leader-schools-running-on-empty-challenges-labour-education-record",
-        "description": "Daniel Kebede tells his members that detail in new policies ‘just does not deliver’ and schools are ‘running on empty’The leader of the UK’s biggest education union has torn into the government’s r...",
+        "title": "Trump claims Starmer is weak as he mocks PM and UK aircraft carriers",
+        "url": "https://www.theguardian.com/us-news/2026/apr/03/trump-claims-starmer-weak-mocks-pm-uk-aircraft-carriers-iran-war",
+        "description": "Footage shows US president saying UK ‘should be our best’ ally and accusing PM of prevarication over sending shipsMiddle East crisis – live updatesFootage has emerged of Donald Trump mocking Keir S...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer must call energy summit akin to 2008 crisis response, Labour MP says",
-        "url": "https://www.theguardian.com/politics/2026/apr/02/keir-starmer-energy-summit-2008-financial-crisis-iran-war",
-        "description": "Former government adviser Polly Billington urges bigger steps to shield people in UK from effects of Iran warMiddle East crisis – live updatesKeir Starmer should convene a global energy summit of t...",
+        "title": "M&S calls for crackdown on ‘brazen, organised, aggressive’ retail crime",
+        "url": "https://www.theguardian.com/business/2026/apr/03/marks-spencer-calls-crackdown-retail-crime-clapham",
+        "description": "Bosses write to home secretary and London mayor listing series of incidents staff have faced in past week Marks & Spencer has called on the government and London’s mayor to crack down on retail cri...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,23 +33,23 @@
     ],
     "economy": [
       {
+        "title": "US jobs market surpassed expectations in March but February losses were worse than first reported",
+        "url": "https://www.theguardian.com/business/2026/apr/03/march-labor-market-jobs-report",
+        "description": "Employers added 178,000 new jobs in March and unemployment rate fell to 4.3%, ahead of economists’ predictionsSign up for the Breaking News US email to get newsletter alerts in your inboxThe US lab...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "How sheltered really is the US from the Gulf oil supply crisis?",
+        "url": "https://www.theguardian.com/world/2026/apr/03/trump-gulf-oil-crisis",
+        "description": "As Trump suggests Middle East oil disruption is not his problem, experts say talk of US ‘energy independence’ is a smokescreen – with consumers paying the priceA month has passed since the US and I...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Blue Owl Capital limits withdrawals after investors try to redeem $5.4bn",
         "url": "https://www.theguardian.com/business/2026/apr/02/blue-owl-capital-private-credit-investment-limits-withdrawals",
         "description": "Private credit investment firm’s move is latest sign of crumbling confidence in unregulated lending marketA major private credit investment firm, Blue Owl Capital, has imposed a cap on withdrawals ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US crude oil hits $110 a barrel and markets drop as Trump dashes Iran de-escalation hopes – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/apr/02/uk-record-rise-fuel-prices-mortgage-shock-stock-markets-iran-war-oil-dollar-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsTrump claims Iran war ‘nearing completion’ and seeks to justify conflict in prime-time addressMiddle East crisis live: Macron criticises Tr...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK firms expect to raise prices more quickly as Iran war pushes up costs",
-        "url": "https://www.theguardian.com/business/2026/apr/02/uk-firms-expect-to-raise-prices-more-quickly-as-iran-war-pushes-up-costs",
-        "description": "Bank of England survey in March shows chief financial officers foresee 3.7% increase over coming yearBusiness live – latest updatesCompanies in the UK expect to raise their prices more rapidly over...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Artemis II is in orbit - what happens next?",
-        "url": "https://www.bbc.com/news/articles/c7vqre914pzo?at_medium=RSS&at_campaign=rss",
-        "description": "What are the mission's four astronauts doing and when will they go to the Moon?",
+        "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
+        "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+        "description": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "‘This is what you don’t see in F1’: the university where future race engineers are made",
+        "url": "https://www.theguardian.com/education/2026/apr/03/oxford-brookes-f1-formula-student-competition-fastest-race-car",
+        "description": "With alumni in every F1 team, Oxford Brookes University’s Formula Student team is the most prestigious in the countryAt the Oxford Brookes Headington campus, more than 100 students are busy buildin...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Sex at arm’s length? Male octopuses use specialised arm to mate, scientists find",
         "url": "https://www.theguardian.com/environment/2026/apr/02/sex-octopus-specialist-arm-mating-science",
@@ -156,13 +163,6 @@
         "title": "Labour is letting down Britain’s children, says National Education Union leader",
         "url": "https://www.theguardian.com/education/2026/apr/02/neu-leader-schools-running-on-empty-challenges-labour-education-record",
         "description": "Daniel Kebede tells his members that detail in new policies ‘just does not deliver’ and schools are ‘running on empty’The leader of the UK’s biggest education union has torn into the government’s r...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Pupils in England are losing their thinking skills because of AI, survey suggests",
-        "url": "https://www.theguardian.com/technology/2026/apr/02/pupils-england-losing-thinking-skills-because-of-ai-survey",
-        "description": "Two-thirds of secondary school teachers report a decline in core abilities such as writing and problem-solvingPupils using artificial intelligence are losing their capacity for critical thinking, a...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Artemis II blasts ever closer to the far side of the Moon",
+        "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
         "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
         "description": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Watch: Artemis II astronauts speak from space",
+        "url": "https://www.bbc.com/news/videos/crl10127elgo?at_medium=RSS&at_campaign=rss",
+        "description": "The crew on board the Artemis II spoke by video link, sharing messages for their families and experiences of the trip so far.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Trump removes US Attorney General Pam Bondi",
         "url": "https://www.bbc.com/news/articles/ce843ge47z4o?at_medium=RSS&at_campaign=rss",
         "description": "Bondi's time as top US law enforcement officer was overshadowed by her handling of the Epstein files.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "'I haven't slept for days': Iranians describe mounting desperation after a month of war",
-        "url": "https://www.bbc.com/news/articles/crm1vj941x9o?at_medium=RSS&at_campaign=rss",
-        "description": "Ordinary people from various parts of Iran describe expanding strikes, economic pain and fear of repression.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
