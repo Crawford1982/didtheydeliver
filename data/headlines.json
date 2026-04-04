@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-04T07:00:25.791752+00:00",
+  "fetched_at": "2026-04-04T12:54:13.397566+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Voters in Wales failed by inaccurate UK media reports on devolved issues, study finds",
-        "url": "https://www.theguardian.com/media/2026/apr/04/voters-in-wales-failed-by-inaccurate-uk-media-reports-on-devolved-issues-study-finds",
-        "description": "Reports on English policies seen in Wales as relating to whole of UK contribute to widespread confusion, researchers sayUK media is failing to report properly on devolved issues in Wales, leaving v...",
+        "title": "Unions privately voice misgivings over BMA pay demands and doctors’ strikes",
+        "url": "https://www.theguardian.com/politics/2026/apr/04/trade-unions-bma-pay-talks-demands-doctors-strikes",
+        "description": "Senior figures express concerns over medical union’s refusal of pay rise that is higher than offer to other NHS staffTrade unions have privately expressed qualms about the forthcoming doctors’ stri...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Relationship with Trump may be beyond repair, Keir Starmer told",
-        "url": "https://www.theguardian.com/politics/2026/apr/03/relationship-with-trump-may-be-beyond-repair-keir-starmer-told",
-        "description": "PM gets widespread backing after president’s mocking impersonation takes US-UK relationship to new lowKeir Starmer has been warned his relationship with Donald Trump may be beyond repair after the ...",
+        "title": "New North Sea drilling would barely reduce UK gas imports at all, data shows",
+        "url": "https://www.theguardian.com/environment/2026/apr/04/new-north-sea-drilling-jackdaw-rosebank-uk-gas-imports",
+        "description": "Exclusive: research finds Jackdaw field would provide only about 2% of current demand, and Rosebank only 1%Opening major new fields in the North Sea would make almost no difference to the UK’s reli...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Extend fully paid maternity leave for UK teachers to stem exodus, union says",
-        "url": "https://www.theguardian.com/money/2026/apr/03/extend-fully-paid-maternity-leave-for-uk-teachers-to-stem-exodus-union-says",
-        "description": "NASUWT says full entitlement should be increased to 26 weeks and paternity pay also improvedFull maternity pay for teachers across the UK should be increased to 26 weeks to help stem the exodus of ...",
+        "title": "Biometric checks stalled again for cross-Channel travellers",
+        "url": "https://www.theguardian.com/world/2026/apr/04/biometric-checks-stalled-again-for-cross-channel-travellers",
+        "description": "Fears of Easter chaos over scaling up of new EU border system are eased, with no facial IDs for Eurotunnel and Eurostar passengersPassengers crossing the Channel from the UK to France will not face...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Unions privately voice misgivings over BMA pay demands and doctors’ strikes",
+        "url": "https://www.theguardian.com/politics/2026/apr/04/trade-unions-bma-pay-talks-demands-doctors-strikes",
+        "description": "Senior figures express concerns over medical union’s refusal of pay rise that is higher than offer to other NHS staffTrade unions have privately expressed qualms about the forthcoming doctors’ stri...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "NHS rehabilitation care staff shortage fails stroke patients, say health leaders",
         "url": "https://www.theguardian.com/society/2026/apr/03/nhs-rehabiliation-care-staff-shortage-stroke-patients",
         "description": "People receive rehab only three to four days a week in hospital – and one to two days once they are discharged, data suggestsThe NHS is failing stroke patients and limiting their chances of recover...",
@@ -73,13 +80,6 @@
         "title": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
         "url": "https://www.theguardian.com/society/2026/apr/02/uk-drug-exports-to-us-spared-tariffs-under-deal-critics-say-will-cost-nhs-billions",
         "description": "‘Partnership’ on drug pricing also gives patients in Britain greater access to potentially life-extending treatments British drug exports to the US will escape tariffs imposed by Donald Trump as pa...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Streeting hits out at BMA ‘delusion’ as talks to avert resident doctors’ strike fail",
-        "url": "https://www.theguardian.com/society/2026/apr/02/wes-streeting-bma-delusion-resident-doctors-strike-nhs",
-        "description": "Six-day stoppage in England to go ahead from Tuesday as health secretary withdraws offer of extra training placesThe NHS in England is bracing for the longest strike yet by resident doctors after l...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -206,7 +206,7 @@
         "category": "foreign_policy"
       },
       {
-        "title": "After 16 years in power, can Viktor Orban finally be unseated?",
+        "title": "After 16 years in power, could Viktor Orban finally be unseated?",
         "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
         "description": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
         "source": "BBC News",
