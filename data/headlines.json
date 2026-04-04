@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-04T12:54:13.397566+00:00",
+  "fetched_at": "2026-04-04T18:40:52.594620+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Keir Starmalade, anyone? Will marmalade really have to be rebranded in UK?",
+        "url": "https://www.theguardian.com/world/2026/apr/04/breakfast-reset-will-marmalade-really-be-renamed-in-post-brexit-food-deal",
+        "description": "Britain is reportedly considering aligning with EU rules in what Daily Mail is calling the PM’s ‘breakfast reset’The story is, in Fleet Street terminology, a marmalade dropper. The name marmalade i...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Unions privately voice misgivings over BMA pay demands and doctors’ strikes",
         "url": "https://www.theguardian.com/politics/2026/apr/04/trade-unions-bma-pay-talks-demands-doctors-strikes",
@@ -17,13 +24,6 @@
         "category": "government"
       },
       {
-        "title": "Biometric checks stalled again for cross-Channel travellers",
-        "url": "https://www.theguardian.com/world/2026/apr/04/biometric-checks-stalled-again-for-cross-channel-travellers",
-        "description": "Fears of Easter chaos over scaling up of new EU border system are eased, with no facial IDs for Eurotunnel and Eurostar passengersPassengers crossing the Channel from the UK to France will not face...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "'Not fit for purpose' - the secret history of a deadly phrase",
         "url": "https://www.bbc.com/news/articles/c3dl18ndvydo?at_medium=RSS&at_campaign=rss",
         "description": "The four word phrase - first uttered by Labour Home Secretary John Reid - has become a by-word for incompetence.",
@@ -33,23 +33,23 @@
     ],
     "economy": [
       {
+        "title": "Trussonomics still haunts parties’ economic promises in run-up to UK local elections | Phillip Inman",
+        "url": "https://www.theguardian.com/business/2026/apr/04/trussonomics-still-haunts-parties-economic-promises-in-run-up-to-uk-local-elections",
+        "description": "Greens, Reform UK, Your Party, Conservatives and even Lib Dems are making extravagant spending pledgesAs local and regional elections across the UK loom into view, it is clear the spectre of Trusso...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "‘The good old days are gone’: how will US prices stand as war in Iran surges on?",
+        "url": "https://www.theguardian.com/us-news/2026/apr/05/prices-iran-war-gas-flights-economy",
+        "description": "Beyond rising costs of gas and air travel, experts say this is likely just beginning of higher prices amid global volatilitySign up for the Breaking News US email to get newsletter alerts in your i...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Martin Rowson on Easter, war and a world in turmoil – cartoon",
         "url": "https://www.theguardian.com/commentisfree/picture/2026/apr/03/martin-rowson-easter-world-turmoil-donald-trump-cartoon",
         "description": "Continue reading...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US jobs market surpassed expectations in March but February losses were worse than first reported",
-        "url": "https://www.theguardian.com/business/2026/apr/03/march-labor-market-jobs-report",
-        "description": "Employers added 178,000 new jobs in March and unemployment rate fell to 4.3%, ahead of economists’ predictionsSign up for the Breaking News US email to get newsletter alerts in your inboxThe US lab...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "How sheltered really is the US from the Gulf oil supply crisis?",
-        "url": "https://www.theguardian.com/world/2026/apr/03/trump-gulf-oil-crisis",
-        "description": "As Trump suggests Middle East oil disruption is not his problem, experts say talk of US ‘energy independence’ is a smokescreen – with consumers paying the priceA month has passed since the US and I...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
-        "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-        "description": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
+        "title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
+        "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
+        "description": "The International Atomic Energy Agency urges restraint to avoid a nuclear accident at Iran's Bushehr plant.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-        "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-        "description": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
+        "title": "US arrests relatives of deceased Iranian ​general Qasem ​Soleimani",
+        "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+        "description": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "After 16 years in power, could Viktor Orban finally be unseated?",
-        "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
-        "description": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
+        "title": "Russian attack on Ukraine market kills five",
+        "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
+        "description": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
