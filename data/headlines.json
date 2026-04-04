@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-03T18:45:23.927658+00:00",
+  "fetched_at": "2026-04-04T02:05:16.683528+00:00",
   "headlines": {
     "government": [
       {
@@ -54,25 +54,25 @@
         "category": "economy"
       },
       {
-        "title": "French-owned ship passes through Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
-        "description": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began.",
+        "title": "State pension age starts rising to 67 - here's how much you get and when",
+        "url": "https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss",
+        "description": "The age at which people can start receiving the state pension is going up in stages over the next two years.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
-        "url": "https://www.theguardian.com/society/2026/apr/02/uk-drug-exports-to-us-spared-tariffs-under-deal-critics-say-will-cost-nhs-billions",
-        "description": "‘Partnership’ on drug pricing also gives patients in Britain greater access to potentially life-extending treatments British drug exports to the US will escape tariffs imposed by Donald Trump as pa...",
+        "title": "NHS rehabilitation care staff shortage fails stroke patients, say health leaders",
+        "url": "https://www.theguardian.com/society/2026/apr/03/nhs-rehabiliation-care-staff-shortage-stroke-patients",
+        "description": "People receive rehab only three to four days a week in hospital – and one to two days once they are discharged, data suggestsThe NHS is failing stroke patients and limiting their chances of recover...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "NHS rehabilitation care staff shortage fails stroke patients, say health leaders",
-        "url": "https://www.theguardian.com/society/2026/apr/03/nhs-rehabiliation-care-staff-shortage-stroke-patients",
-        "description": "People receive rehab only three to four days a week in hospital – and one to two days once they are discharged, data suggestsThe NHS is failing stroke patients and limiting their chances of recover...",
+        "title": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
+        "url": "https://www.theguardian.com/society/2026/apr/02/uk-drug-exports-to-us-spared-tariffs-under-deal-critics-say-will-cost-nhs-billions",
+        "description": "‘Partnership’ on drug pricing also gives patients in Britain greater access to potentially life-extending treatments British drug exports to the US will escape tariffs imposed by Donald Trump as pa...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Artemis II leaves Earth orbit on track for far side of the Moon",
-        "url": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
-        "description": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+        "title": "Artemis II crew take 'spectacular' image of Earth",
+        "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+        "description": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "A ‘masculinity crisis’ is brewing in UK schools, union says",
+        "url": "https://www.theguardian.com/education/2026/apr/04/masculinity-crisis-brewing-uk-schools-teachers-union",
+        "description": "Misogynistic abuse of female staff is increasing, leaving teachers feeling ‘traumatised’ and ‘humiliated’Teachers’ leaders have said a “masculinity crisis” is fermenting in schools across the UK, w...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "University of Washington professor fired from director job after sending email criticizing Iran war",
         "url": "https://www.theguardian.com/us-news/2026/apr/03/washington-college-professor-fired-iran-war-criticism",
@@ -156,13 +163,6 @@
         "title": "Harvard faculty to vote on proposal to limit number of A grades in each course",
         "url": "https://www.theguardian.com/education/2026/apr/03/harvard-faculty-grade-inflation-vote-a-grades",
         "description": "Effort to curb grade inflation, by limiting top marks to 20% of students in a course, is opposed by most studentsSign up for the Breaking News US email to get newsletter alerts in your inboxHarvard...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Extend fully paid maternity leave for UK teachers to stem exodus, union says",
-        "url": "https://www.theguardian.com/money/2026/apr/03/extend-fully-paid-maternity-leave-for-uk-teachers-to-stem-exodus-union-says",
-        "description": "NASUWT says full entitlement should be increased to 26 weeks and paternity pay also improvedFull maternity pay for teachers across the UK should be increased to 26 weeks to help stem the exodus of ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "How elite US teams tackle combat rescue missions",
+        "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
+        "description": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Artemis II crew take 'spectacular' image of Earth",
         "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
         "description": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Burkina Faso must 'forget' about democracy, military leader says",
-        "url": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
-        "description": "Capt Ibrahim Traoré, who seized power in 2023, says democratic rule would not work for his country.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "French-owned ship passes through Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/cjd8275jrrko?at_medium=RSS&at_campaign=rss",
-        "description": "It appears to be the first ship owned by a major European firm to go through the strait since the conflict began.",
+        "title": "After 16 years in power, can Viktor Orban finally be unseated?",
+        "url": "https://www.bbc.com/news/articles/czd7y1n3jyjo?at_medium=RSS&at_campaign=rss",
+        "description": "Hungary is going to the polls in nine days - after 16 years in power, can Viktor Orban be unseated?",
         "source": "BBC News",
         "category": "foreign_policy"
       }
