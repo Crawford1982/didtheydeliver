@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-04T02:05:16.683528+00:00",
+  "fetched_at": "2026-04-04T07:00:25.791752+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Voters in Wales failed by inaccurate UK media reports on devolved issues, study finds",
+        "url": "https://www.theguardian.com/media/2026/apr/04/voters-in-wales-failed-by-inaccurate-uk-media-reports-on-devolved-issues-study-finds",
+        "description": "Reports on English policies seen in Wales as relating to whole of UK contribute to widespread confusion, researchers sayUK media is failing to report properly on devolved issues in Wales, leaving v...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Relationship with Trump may be beyond repair, Keir Starmer told",
         "url": "https://www.theguardian.com/politics/2026/apr/03/relationship-with-trump-may-be-beyond-repair-keir-starmer-told",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Young people ‘more likely to leave for health reasons when in low-paid, insecure jobs’",
-        "url": "https://www.theguardian.com/society/2026/apr/03/young-people-more-likely-to-leave-for-health-reasons-when-in-low-paid-insecure-jobs",
-        "description": "Research for TUC analyses link between job quality and economic inactivity, as UK youth unemployment risesYoung people in the UK are more likely to leave their job for health reasons and become eco...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Police offered support to tackle rising threats against MPs",
-        "url": "https://www.bbc.com/news/articles/c8ej47g6w3jo?at_medium=RSS&at_campaign=rss",
-        "description": "Reports of crimes against MPs have more than doubled since 2019, reaching almost 1,000 last year.",
+        "title": "'Not fit for purpose' - the secret history of a deadly phrase",
+        "url": "https://www.bbc.com/news/articles/c3dl18ndvydo?at_medium=RSS&at_campaign=rss",
+        "description": "The four word phrase - first uttered by Labour Home Secretary John Reid - has become a by-word for incompetence.",
         "source": "BBC News",
         "category": "government"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "From early birds to emerging butterflies: UK shows signs of earliest spring on record",
+        "url": "https://www.theguardian.com/environment/2026/apr/04/birds-butterflies-britain-shows-signs-of-earliest-spring-on-record",
+        "description": "Citizen science data reveals early flowering, nesting and insect activity as global heating accelerate seasonal changeBluebells are flowering, swallows are returning and orange-tip butterflies are ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Friday briefing: Why does your Easter egg feel smaller? Because it is",
         "url": "https://www.theguardian.com/world/2026/apr/03/friday-briefing-why-does-your-easter-egg-feel-smaller-because-it-is",
         "description": "In today’s newsletter: Cocoa shortages, climate shocks and global conflicts have collided to ​make chocolate pricier than ever beforeGood morning. Today is Good Friday – if you are following the we...",
@@ -130,14 +137,7 @@
         "category": "climate"
       },
       {
-        "title": "‘Fossil-fuel imperialism’: Trump’s hankering for Iranian oil runs deep",
-        "url": "https://www.theguardian.com/us-news/2026/apr/01/trump-iran-oil-fossil-fuel-imperialism",
-        "description": "Experts say the US believes it is entitled to resources it desires – a perspective president has supported for decadesDonald Trump said this past weekend he wants to “take the oil in Iran” by seizi...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Artemis II crew take 'spectacular' image of Earth",
+        "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
         "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
         "description": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
         "source": "BBC News",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Voters in Wales failed by inaccurate UK media reports on devolved issues, study finds",
+        "url": "https://www.theguardian.com/media/2026/apr/04/voters-in-wales-failed-by-inaccurate-uk-media-reports-on-devolved-issues-study-finds",
+        "description": "Reports on English policies seen in Wales as relating to whole of UK contribute to widespread confusion, researchers sayUK media is failing to report properly on devolved issues in Wales, leaving v...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "A ‘masculinity crisis’ is brewing in UK schools, union says",
         "url": "https://www.theguardian.com/education/2026/apr/04/masculinity-crisis-brewing-uk-schools-teachers-union",
@@ -156,13 +163,6 @@
         "title": "University of Washington professor fired from director job after sending email criticizing Iran war",
         "url": "https://www.theguardian.com/us-news/2026/apr/03/washington-college-professor-fired-iran-war-criticism",
         "description": "Aria Fani of University of Washington’s Middle East Center is latest critic of Israel to lose position at US universitySign up for the Breaking News US email to get newsletter alerts in your inboxA...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Harvard faculty to vote on proposal to limit number of A grades in each course",
-        "url": "https://www.theguardian.com/education/2026/apr/03/harvard-faculty-grade-inflation-vote-a-grades",
-        "description": "Effort to curb grade inflation, by limiting top marks to 20% of students in a course, is opposed by most studentsSign up for the Breaking News US email to get newsletter alerts in your inboxHarvard...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,14 +192,14 @@
     ],
     "foreign_policy": [
       {
-        "title": "How elite US teams tackle combat rescue missions",
+        "title": "Rescue team in Iran face 'harrowing and dangerous' search for US crew member",
         "url": "https://www.bbc.com/news/articles/c0le43jw8e9o?at_medium=RSS&at_campaign=rss",
-        "description": "Air force pararescue units who specialise in CSAR missions are among the most highly trained in the US military.",
+        "description": "A former US marine tells the BBC the priority of any recovery team would be to look for signs of life.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Artemis II crew take 'spectacular' image of Earth",
+        "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
         "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
         "description": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
         "source": "BBC News",
