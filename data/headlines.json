@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-05T07:04:59.552794+00:00",
+  "fetched_at": "2026-04-05T12:56:04.835122+00:00",
   "headlines": {
     "government": [
       {
@@ -24,14 +24,28 @@
         "category": "government"
       },
       {
-        "title": "Comedians tell ministers lack of funding is no laughing matter",
-        "url": "https://www.bbc.com/news/articles/c5y73z94xzeo?at_medium=RSS&at_campaign=rss",
-        "description": "Culture Minister Ian Murray has agreed to work with the comedy industry to boost support after talks.",
+        "title": "Keir Starmer 'concerned' over Kanye West UK festival dates",
+        "url": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
+        "description": "The festival's main sponsor Pepsi has withdrawn its funding from Wireless, it announced on Sunday.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "How Trump’s Iran war could make the world more reliant on coal",
+        "url": "https://www.theguardian.com/business/2026/apr/05/coal-reliance-iran-war-fossil-fuels",
+        "description": "The energy crisis sparked by the war is making some countries consider ramping up their use of dirty fuelsNot two months in office, as the price of west Texas crude approached $14 a barrel, Preside...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Higher energy costs from Iran war could threaten fragile economics of AI boom | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/apr/05/higher-energy-costs-iran-war-oil-economics-ai-boom",
+        "description": "Industry with business model not yet firmly established and investments financed by huge debts is particularly at riskDonald Trump’s most immediate concern in demanding Iran reopen the strait of Ho...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Trussonomics still haunts parties’ economic promises in run-up to UK local elections | Phillip Inman",
         "url": "https://www.theguardian.com/business/2026/apr/04/trussonomics-still-haunts-parties-economic-promises-in-run-up-to-uk-local-elections",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "‘The good old days are gone’: how will US prices stand as war in Iran surges on?",
-        "url": "https://www.theguardian.com/us-news/2026/apr/05/prices-iran-war-gas-flights-economy",
-        "description": "Beyond rising costs of gas and air travel, experts say this is likely just beginning of higher prices amid global volatilitySign up for the Breaking News US email to get newsletter alerts in your i...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Martin Rowson on Easter, war and a world in turmoil – cartoon",
-        "url": "https://www.theguardian.com/commentisfree/picture/2026/apr/03/martin-rowson-easter-world-turmoil-donald-trump-cartoon",
-        "description": "Continue reading...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "State pension age starts rising to 67 - here's how much you get and when",
-        "url": "https://www.bbc.com/news/articles/cx2e7e90kneo?at_medium=RSS&at_campaign=rss",
-        "description": "The age at which people can start receiving the state pension is going up in stages over the next two years.",
+        "title": "Keir Starmer 'concerned' over Kanye West UK festival dates",
+        "url": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
+        "description": "The festival's main sponsor Pepsi has withdrawn its funding from Wireless, it announced on Sunday.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "What we know so far about rescue of US airman in Iran",
+        "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+        "description": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Man charged over fatal shooting of baby in pram in New York",
         "url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
         "description": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.",
@@ -202,13 +209,6 @@
         "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
         "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
         "description": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "German males under 45 may need military approval for long stays abroad",
-        "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
-        "description": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
