@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-04T18:40:52.594620+00:00",
+  "fetched_at": "2026-04-05T02:26:39.575119+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Rise in number of girls being identified as victims in county lines exploitation, data shows",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/04/county-lines-drugs-girls-exploitation-data",
+        "description": "Charities suggest ‘gendered understanding’ of crime means services often fail to recognise girls and young women as victimsAn increasing number of girls are being identified as victims of county li...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Keir Starmalade, anyone? Will marmalade really have to be rebranded in UK?",
         "url": "https://www.theguardian.com/world/2026/apr/04/breakfast-reset-will-marmalade-really-be-renamed-in-post-brexit-food-deal",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "New North Sea drilling would barely reduce UK gas imports at all, data shows",
-        "url": "https://www.theguardian.com/environment/2026/apr/04/new-north-sea-drilling-jackdaw-rosebank-uk-gas-imports",
-        "description": "Exclusive: research finds Jackdaw field would provide only about 2% of current demand, and Rosebank only 1%Opening major new fields in the North Sea would make almost no difference to the UK’s reli...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "'Not fit for purpose' - the secret history of a deadly phrase",
-        "url": "https://www.bbc.com/news/articles/c3dl18ndvydo?at_medium=RSS&at_campaign=rss",
-        "description": "The four word phrase - first uttered by Labour Home Secretary John Reid - has become a by-word for incompetence.",
+        "title": "Comedians tell ministers lack of funding is no laughing matter",
+        "url": "https://www.bbc.com/news/articles/c5y73z94xzeo?at_medium=RSS&at_campaign=rss",
+        "description": "Culture Minister Ian Murray has agreed to work with the comedy industry to boost support after talks.",
         "source": "BBC News",
         "category": "government"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "UN watchdog voices 'deep concern' as Iran reports new attacks on nuclear plant",
+        "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
         "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
-        "description": "The International Atomic Energy Agency urges restraint to avoid a nuclear accident at Iran's Bushehr plant.",
+        "description": "Iran rejected Donald Trump's ultimatum for a deal to re-open the Strait of Hormuz whose closure has led to a spike in oil prices.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US arrests relatives of deceased Iranian ​general Qasem ​Soleimani",
-        "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-        "description": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
+        "title": "Search for missing airman presents serious test for US",
+        "url": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
+        "description": "The stakes could rise further if the weapons system officer of the downed F15 Eagle plane is captured by Iran.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russian attack on Ukraine market kills five",
-        "url": "https://www.bbc.com/news/articles/cp869m2gzr0o?at_medium=RSS&at_campaign=rss",
-        "description": "A Russian drone hit a busy spot in the southern Ukrainian town on Saturday morning, injuring another 21 people.",
+        "title": "Man charged over fatal shooting of baby in pram in New York",
+        "url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
+        "description": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
