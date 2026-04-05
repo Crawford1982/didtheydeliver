@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-04-05T12:56:04.835122+00:00",
+  "fetched_at": "2026-04-05T18:42:45.024556+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Fair Work Agency’s priorities criticised days before its launch",
-        "url": "https://www.theguardian.com/business/2026/apr/05/fair-work-agency-criticised-launch-dead-duck-employment-rights",
-        "description": "Cornerstone of the UK’s Employment Rights Act ‘in danger of becoming a dead duck’, says Unite bossThe government has asked its new employment rights watchdog to reduce the regulatory burden on busi...",
+        "title": "Starmer attacks Greens, saying vote for Labour rivals puts new workers’ rights at risk",
+        "url": "https://www.theguardian.com/politics/2026/apr/05/starmer-attacks-greens-saying-vote-for-labour-rivals-puts-new-workers-rights-at-risk",
+        "description": "PM also criticises business figures and opponents of changes, many of which come into force on MondayWorkers, pensioners and children: all better off. Ignore the critics – we really are standing up...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Ministers working with Labour backbenchers to temper Mahmood immigration plans",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/05/ministers-labour-backbenchers-temper-shabana-mahmood-immigration-plans",
-        "description": "Exclusive: Starmer urged to go further with exemptions if he wants to avoid widespread anger from his own MPsA number of ministers concerned about Shabana Mahmood’s immigration changes are working ...",
+        "title": "UK has detained 76 ‘age-disputed’ children under one in, one out scheme",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/05/uk-detained-age-disputed-migrant-children-one-in-one-out-scheme",
+        "description": "Concerns raised over minors placed in adult detention centres since removals began under scheme in SeptemberMore than 70 children from various conflict zones whose ages were disputed by the Home Of...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Rise in number of girls being identified as victims in county lines exploitation, data shows",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/04/county-lines-drugs-girls-exploitation-data",
-        "description": "Charities suggest ‘gendered understanding’ of crime means services often fail to recognise girls and young women as victimsAn increasing number of girls are being identified as victims of county li...",
+        "title": "Labour to back down on foie gras and fur bans to ease EU trade deal",
+        "url": "https://www.theguardian.com/world/2026/apr/05/labour-back-down-foie-gras-fur-bans-eu-trade-deal",
+        "description": "Exclusive: Animal welfare charities ‘bitterly disappointed’ UK government plans to backtrack on manifesto promisesThis article contains an image of a duck being force-fed that some readers may find...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Keir Starmer 'concerned' over Kanye West UK festival dates",
+        "title": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
         "url": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
-        "description": "The festival's main sponsor Pepsi has withdrawn its funding from Wireless, it announced on Sunday.",
+        "description": "Sir Keir Starmer says it is \"deeply concerning\" the rapper is set to headline a festival after recent antisemitic comments.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Keir Starmer 'concerned' over Kanye West UK festival dates",
+        "title": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
         "url": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
-        "description": "The festival's main sponsor Pepsi has withdrawn its funding from Wireless, it announced on Sunday.",
+        "description": "Sir Keir Starmer says it is \"deeply concerning\" the rapper is set to headline a festival after recent antisemitic comments.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "A striking exchange between nurse and doctor | Brief letters",
+        "url": "https://www.theguardian.com/society/2026/apr/05/a-striking-exchange-between-nurse-and-doctor",
+        "description": "Industrial inaction | Conversation adviser | Poppy seed panic | Handbell ringing | Breakfast measurementsAs a young ward sister and trade union steward, I remember, in the 1980s, when I was on the ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Unions privately voice misgivings over BMA pay demands and doctors’ strikes",
         "url": "https://www.theguardian.com/politics/2026/apr/04/trade-unions-bma-pay-talks-demands-doctors-strikes",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "UK drug exports to US spared tariffs under deal critics say will cost NHS billions",
-        "url": "https://www.theguardian.com/society/2026/apr/02/uk-drug-exports-to-us-spared-tariffs-under-deal-critics-say-will-cost-nhs-billions",
-        "description": "‘Partnership’ on drug pricing also gives patients in Britain greater access to potentially life-extending treatments British drug exports to the US will escape tariffs imposed by Donald Trump as pa...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Fewer heat-related deaths in 2025 despite warmest summer",
         "url": "https://www.bbc.com/news/articles/cy91xqxn2jdo?at_medium=RSS&at_campaign=rss",
         "description": "Summer 2025 was the warmest UK summer on record, with four heatwaves, a top temperature of nearly 38C and a mean temperature of 16.1C",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "UK has detained 76 ‘age-disputed’ children under one in, one out scheme",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/05/uk-detained-age-disputed-migrant-children-one-in-one-out-scheme",
+        "description": "Concerns raised over minors placed in adult detention centres since removals began under scheme in SeptemberMore than 70 children from various conflict zones whose ages were disputed by the Home Of...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Ministers working with Labour backbenchers to temper Mahmood immigration plans",
         "url": "https://www.theguardian.com/uk-news/2026/apr/05/ministers-labour-backbenchers-temper-shabana-mahmood-immigration-plans",
@@ -103,13 +110,6 @@
         "title": "Two dead and one missing after trying to cross Channel to UK",
         "url": "https://www.theguardian.com/uk-news/2026/apr/01/dead-missing-after-trying-to-cross-channel-to-uk",
         "description": "First fatal incident this year occurred hours after £16.2m ‘stop the boats’ deal agreed between Britain and FranceEurope live – latest updatesUK politics live – latest updatesTwo people have died a...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "The brilliant students the UK doesn’t want - podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/apr/01/the-brilliant-students-the-uk-doesnt-want-podcast",
-        "description": "Why has the UK introduced a ban on student visas for four countries? Today in Focus talks to affected students in Sudan and Afghanistan, as well as our home affairs editor, Rajeev SyalIn early Marc...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-        "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-        "description": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
+        "title": "Artemis's stunning Moon pictures - science or holiday photos?",
+        "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
+        "description": "The story behind the beautiful pictures beamed back to Earth from the Artemis II astronauts.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Mamdani pledged affordable New York housing in his campaign. How is that going?",
+        "url": "https://www.theguardian.com/us-news/2026/apr/05/zohran-mamdani-affordable-housing-new-york",
+        "description": "Mayor’s decision to appeal court order that the city must expand its housing voucher program has angered advocates for the homelessNew York City mayor Zohran Mamdani’s decision to appeal a court or...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "UK politics Q&A, as it happened: Andrew Sparrow answers your questions on Starmer, Reform and more",
         "url": "https://www.theguardian.com/politics/live/2026/apr/02/reform-uk-housing-grenfell-tower-keir-starmer-yvette-cooper-uk-politics-latest-news-updates",
         "description": "This blog is now closedQ: Do you agree with the Tories about wanting more oil and gas drilling from the North Sea?Davey says Kemi Badenoch claims she can get an extra £2.5bn in tax revenue by allow...",
@@ -181,34 +188,27 @@
         "description": "Simon Dudley fired after his comments were condemned by prime minister and families of fire victimsUK politics live – latest updatesReform UK’s housing spokesperson has been sacked from his role af...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Starmer calls on Reform to sack Simon Dudley after ‘everyone dies’ Grenfell comments",
-        "url": "https://www.theguardian.com/politics/2026/apr/02/reform-uk-simon-dudley-grenfell-families-everyone-dies",
-        "description": "PM says Farage should ‘do the decent thing’, after new housing spokesperson’s criticism of safety regulationsUK politics live – latest updatesKeir Starmer has called on Nigel Farage to sack Reform’...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "What we know so far about rescue of US airman in Iran",
+        "title": "Seriously wounded US airman rescued from Iran, Trump says",
+        "url": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
+        "description": "The recovery of the airman follows separate search efforts by both the US and Iran.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "How downed F-15 US airman was rescued inside Iran",
         "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
         "description": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Man charged over fatal shooting of baby in pram in New York",
-        "url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
-        "description": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
-        "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
-        "description": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
+        "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+        "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+        "description": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
