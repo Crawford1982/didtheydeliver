@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-05T02:26:39.575119+00:00",
+  "fetched_at": "2026-04-05T07:04:59.552794+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Fair Work Agency’s priorities criticised days before its launch",
+        "url": "https://www.theguardian.com/business/2026/apr/05/fair-work-agency-criticised-launch-dead-duck-employment-rights",
+        "description": "Cornerstone of the UK’s Employment Rights Act ‘in danger of becoming a dead duck’, says Unite bossThe government has asked its new employment rights watchdog to reduce the regulatory burden on busi...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Ministers working with Labour backbenchers to temper Mahmood immigration plans",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/05/ministers-labour-backbenchers-temper-shabana-mahmood-immigration-plans",
+        "description": "Exclusive: Starmer urged to go further with exemptions if he wants to avoid widespread anger from his own MPsA number of ministers concerned about Shabana Mahmood’s immigration changes are working ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Rise in number of girls being identified as victims in county lines exploitation, data shows",
         "url": "https://www.theguardian.com/uk-news/2026/apr/04/county-lines-drugs-girls-exploitation-data",
         "description": "Charities suggest ‘gendered understanding’ of crime means services often fail to recognise girls and young women as victimsAn increasing number of girls are being identified as victims of county li...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Keir Starmalade, anyone? Will marmalade really have to be rebranded in UK?",
-        "url": "https://www.theguardian.com/world/2026/apr/04/breakfast-reset-will-marmalade-really-be-renamed-in-post-brexit-food-deal",
-        "description": "Britain is reportedly considering aligning with EU rules in what Daily Mail is calling the PM’s ‘breakfast reset’The story is, in Fleet Street terminology, a marmalade dropper. The name marmalade i...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Unions privately voice misgivings over BMA pay demands and doctors’ strikes",
-        "url": "https://www.theguardian.com/politics/2026/apr/04/trade-unions-bma-pay-talks-demands-doctors-strikes",
-        "description": "Senior figures express concerns over medical union’s refusal of pay rise that is higher than offer to other NHS staffTrade unions have privately expressed qualms about the forthcoming doctors’ stri...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Ministers working with Labour backbenchers to temper Mahmood immigration plans",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/05/ministers-labour-backbenchers-temper-shabana-mahmood-immigration-plans",
+        "description": "Exclusive: Starmer urged to go further with exemptions if he wants to avoid widespread anger from his own MPsA number of ministers concerned about Shabana Mahmood’s immigration changes are working ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Two dead and one missing after trying to cross Channel to UK",
         "url": "https://www.theguardian.com/uk-news/2026/apr/01/dead-missing-after-trying-to-cross-channel-to-uk",
         "description": "First fatal incident this year occurred hours after £16.2m ‘stop the boats’ deal agreed between Britain and FranceEurope live – latest updatesUK politics live – latest updatesTwo people have died a...",
@@ -103,13 +110,6 @@
         "title": "The brilliant students the UK doesn’t want - podcast",
         "url": "https://www.theguardian.com/news/audio/2026/apr/01/the-brilliant-students-the-uk-doesnt-want-podcast",
         "description": "Why has the UK introduced a ban on student visas for four countries? Today in Focus talks to affected students in Sudan and Afghanistan, as well as our home affairs editor, Rajeev SyalIn early Marc...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "UK to pay France extra £16m in stopgap deal to patrol Channel beaches",
-        "url": "https://www.theguardian.com/uk-news/2026/mar/31/uk-pay-france-extra-patrol-channel-beaches",
-        "description": "Two-month arrangement aimed at preventing small-boat crossings comes as existing deal expiresThe UK will pay France an extra £16.2m to keep police patrolling Channel beaches and prevent a surge in ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "US and Iran trade threats to unleash 'hell' as search for missing US airman continues",
-        "url": "https://www.bbc.com/news/articles/c5y90jl8veyo?at_medium=RSS&at_campaign=rss",
-        "description": "Iran rejected Donald Trump's ultimatum for a deal to re-open the Strait of Hormuz whose closure has led to a spike in oil prices.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Search for missing airman presents serious test for US",
-        "url": "https://www.bbc.com/news/articles/c0le69de645o?at_medium=RSS&at_campaign=rss",
-        "description": "The stakes could rise further if the weapons system officer of the downed F15 Eagle plane is captured by Iran.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
         "title": "Man charged over fatal shooting of baby in pram in New York",
         "url": "https://www.bbc.com/news/articles/cx267dnex7ko?at_medium=RSS&at_campaign=rss",
         "description": "Two men have been arrested over the shooting of a seven-month-old baby in Williamsburg.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "US says it has arrested relatives of late Iranian ​general Qasem ​Soleimani",
+        "url": "https://www.bbc.com/news/articles/cgqkn4j48qdo?at_medium=RSS&at_campaign=rss",
+        "description": "The niece and grand-niece of Qasem Soleimani are in the custody of US Immigration and Customs Enforcement, officials said.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "German males under 45 may need military approval for long stays abroad",
+        "url": "https://www.bbc.com/news/articles/cvg3nr83xyvo?at_medium=RSS&at_campaign=rss",
+        "description": "Under the law, travel approvals must generally be granted and it remains unclear how the rule would be enforced if breached.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
