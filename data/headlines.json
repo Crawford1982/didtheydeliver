@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-06T07:42:08.489772+00:00",
+  "fetched_at": "2026-04-06T13:08:53.042982+00:00",
   "headlines": {
     "government": [
       {
-        "title": "The Greens, Reform and the end of two-party politics? – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/apr/06/the-greens-reform-and-the-end-of-two-party-politics-podcast",
-        "description": "In part two of our interview, Kiran Stacey speaks to the political scientist Prof Rob Ford about the voters Labour and the Conservatives are losing to the Greens and Reform, and how May’s elections...",
+        "title": "New UK farm inheritance tax rule will cause ‘significant challenges’, say accountants",
+        "url": "https://www.theguardian.com/money/2026/apr/06/new-uk-farm-inheritance-tax-rule-will-cause-significant-challenges-say-accountants",
+        "description": "Levy on inherited farms and family businesses worth £2.5m or more comes into force 6 AprilA new inheritance tax regime for UK farms and family businesses comes into force on Monday and will present...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,9 +17,9 @@
         "category": "government"
       },
       {
-        "title": "NHS urges patients not to put off care as doctors in England prepare for strike",
-        "url": "https://www.theguardian.com/society/2026/apr/06/nhs-patients-care-doctors-england-strike-bma-pay",
-        "description": "People encouraged to ‘come forward as normal’ when BMA members begin industrial action over pay on TuesdayThe NHS is urging patients not to put off seeking the care they need when resident doctors ...",
+        "title": "The Greens, Reform and the end of two-party politics? – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/apr/06/the-greens-reform-and-the-end-of-two-party-politics-podcast",
+        "description": "In part two of our interview, Kiran Stacey speaks to the political scientist Prof Rob Ford about the voters Labour and the Conservatives are losing to the Greens and Reform, and how May’s elections...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
-        "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
-        "description": "Brent crude rose above $110 before those gains eased after a report of US-Iran talks over a potential ceasefire.",
+        "title": "Benefits and pensions rise as two-child cap ends",
+        "url": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss",
+        "description": "Families on some benefits with three or more children will get an average rise of £4,100 a year.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘A surrender to special interests’: alarm as Utah shields fossil-fuel companies",
+        "url": "https://www.theguardian.com/us-news/2026/apr/06/utah-fossil-fuels-legal-shield",
+        "description": "New legislation comes amid push from big oil, as critics warn polluters’ profits prioritized over Americans’ healthUtah has made it nearly impossible for residents to hold fossil fuel companies leg...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "From early birds to emerging butterflies: UK shows signs of earliest spring on record",
         "url": "https://www.theguardian.com/environment/2026/apr/04/birds-butterflies-britain-shows-signs-of-earliest-spring-on-record",
         "description": "Citizen science data reveals early flowering, nesting and insect activity as global heating accelerate seasonal changeBluebells are flowering, swallows are returning and orange-tip butterflies are ...",
@@ -126,13 +133,6 @@
         "title": "Friday briefing: Why does your Easter egg feel smaller? Because it is",
         "url": "https://www.theguardian.com/world/2026/apr/03/friday-briefing-why-does-your-easter-egg-feel-smaller-because-it-is",
         "description": "In today’s newsletter: Cocoa shortages, climate shocks and global conflicts have collided to ​make chocolate pricier than ever beforeGood morning. Today is Good Friday – if you are following the we...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Google to tap into gas plant for AI datacenter in sharp turn from climate goals",
-        "url": "https://www.theguardian.com/technology/2026/apr/02/google-ai-datacenter",
-        "description": "Texas power plant would emit 4.5m tons of carbon dioxide per year, more than that of the entire city of San FranciscoGoogle’s plan for a partnership with a natural gas power plant that could provid...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
-        "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
-        "description": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
+        "title": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
+        "url": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
+        "description": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
