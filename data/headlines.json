@@ -1,18 +1,18 @@
 {
-  "fetched_at": "2026-04-06T13:08:53.042982+00:00",
+  "fetched_at": "2026-04-06T18:58:19.108808+00:00",
   "headlines": {
     "government": [
       {
-        "title": "New UK farm inheritance tax rule will cause ‘significant challenges’, say accountants",
-        "url": "https://www.theguardian.com/money/2026/apr/06/new-uk-farm-inheritance-tax-rule-will-cause-significant-challenges-say-accountants",
-        "description": "Levy on inherited farms and family businesses worth £2.5m or more comes into force 6 AprilA new inheritance tax regime for UK farms and family businesses comes into force on Monday and will present...",
+        "title": "Trump uses Neville Chamberlain jibe to mock Starmer over stance on Iran",
+        "url": "https://www.theguardian.com/us-news/2026/apr/06/trump-starmer-neville-chamberlain-iran",
+        "description": "As UK PM resists pressure to back airstrikes, US president invokes British leader known for his policy of appeasementMiddle East crisis live – latest updatesDonald Trump has appeared to compare Kei...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Sick pay rule changes to benefit up to 9.6m UK workers, TUC says",
-        "url": "https://www.theguardian.com/law/2026/apr/06/sick-pay-rule-changes-benefit-uk-workers-tuc",
-        "description": "Union says new entitlements, part of Employment Rights Act 2025, will help lower-income householdsUp to 9.6 million UK workers are to benefit from the changes to sick pay rules, according to unions...",
+        "title": "New UK farm inheritance tax rule will cause ‘significant challenges’, say accountants",
+        "url": "https://www.theguardian.com/money/2026/apr/06/new-uk-farm-inheritance-tax-rule-will-cause-significant-challenges-say-accountants",
+        "description": "Levy on inherited farms and family businesses worth £2.5m or more comes into force 6 AprilA new inheritance tax regime for UK farms and family businesses comes into force on Monday and will present...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,13 @@
     ],
     "economy": [
       {
+        "title": "Jamie Dimon says US should strengthen allies economically, in veiled criticism of Trump",
+        "url": "https://www.theguardian.com/business/2026/apr/06/jamie-dimon-us-donald-trump-jp-morgan-tariffs-letter-shareholders",
+        "description": "JP Morgan boss warns of risks of higher inflation and interest rates due to Iran war in annual letter to shareholdersMiddle East crisis – live updatesThe head of the US’s largest bank has pressed t...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "How Trump’s Iran war could make the world more reliant on coal",
         "url": "https://www.theguardian.com/business/2026/apr/05/coal-reliance-iran-war-fossil-fuels",
         "description": "The energy crisis sparked by the war is making some countries consider ramping up their use of dirty fuelsNot two months in office, as the price of west Texas crude approached $14 a barrel, Jimmy C...",
@@ -43,13 +50,6 @@
         "title": "Higher energy costs from Iran war could threaten fragile economics of AI boom | Heather Stewart",
         "url": "https://www.theguardian.com/business/2026/apr/05/higher-energy-costs-iran-war-oil-economics-ai-boom",
         "description": "Industry with business model not yet firmly established and investments financed by huge debts is particularly at riskDonald Trump’s most immediate concern in demanding Iran reopen the strait of Ho...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Trussonomics still haunts parties’ economic promises in run-up to UK local elections | Phillip Inman",
-        "url": "https://www.theguardian.com/business/2026/apr/04/trussonomics-still-haunts-parties-economic-promises-in-run-up-to-uk-local-elections",
-        "description": "Greens, Reform UK, Your Party, Conservatives and even Lib Dems are making extravagant spending pledgesAs local and regional elections across the UK loom into view, it is clear the spectre of Trusso...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "NHS urges patients not to put off care as doctors in England prepare for strike",
-        "url": "https://www.theguardian.com/society/2026/apr/06/nhs-patients-care-doctors-england-strike-bma-pay",
-        "description": "People encouraged to ‘come forward as normal’ when BMA members begin industrial action over pay on TuesdayThe NHS is urging patients not to put off seeking the care they need when resident doctors ...",
+        "title": "Key stroke treatment still not available around the clock across England",
+        "url": "https://www.theguardian.com/society/2026/apr/06/key-stroke-treatment-england-mechanical-thrombectomy-nhs",
+        "description": "Exclusive:  Seven of England’s 24 stroke centres still not providing mechanical thrombectomy 24/7 despite ministers’ pledgesThe NHS has not made a “life-changing” treatment for stroke available aro...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "A striking exchange between nurse and doctor | Brief letters",
-        "url": "https://www.theguardian.com/society/2026/apr/05/a-striking-exchange-between-nurse-and-doctor",
-        "description": "Industrial inaction | Conversation adviser | Poppy seed panic | Handbell ringing | Breakfast measurementsAs a young ward sister and trade union steward, I remember, in the 1980s, when I was on the ...",
+        "title": "NHS urges patients not to put off care as doctors in England prepare for strike",
+        "url": "https://www.theguardian.com/society/2026/apr/06/nhs-patients-care-doctors-england-strike-bma-pay",
+        "description": "People encouraged to ‘come forward as normal’ when BMA members begin industrial action over pay on TuesdayThe NHS is urging patients not to put off seeking the care they need when resident doctors ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -169,9 +169,16 @@
     ],
     "housing": [
       {
+        "title": "We need to talk about population overshoot | Letter",
+        "url": "https://www.theguardian.com/world/2026/apr/06/we-need-to-talk-about-population-overshoot",
+        "description": "Eco-aware family planning and economic degrowth are two of the wiser social paradigms trying to emerge to replace the ecocidal norms of the past, writes Barbara WilliamsYour article linking the dec...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Mamdani pledged affordable New York housing in his campaign. How is that going?",
         "url": "https://www.theguardian.com/us-news/2026/apr/05/zohran-mamdani-affordable-housing-new-york",
-        "description": "Mayor’s decision to appeal court order that the city must expand its housing voucher program has angered advocates for the homelessNew York City mayor Zohran Mamdani’s decision to appeal a court or...",
+        "description": "Mayor’s decision to appeal court order that the city must expand its housing voucher program has angered advocates for the homelessThe decision by New York City’s mayor, Zohran Mamdani, to appeal a...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -181,16 +188,16 @@
         "description": "This blog is now closedQ: Do you agree with the Tories about wanting more oil and gas drilling from the North Sea?Davey says Kemi Badenoch claims she can get an extra £2.5bn in tax revenue by allow...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Reform housing spokesperson sacked after Grenfell ‘everyone dies’ remarks",
-        "url": "https://www.theguardian.com/politics/2026/apr/02/reform-housing-spokesperson-sacked-after-grenfell-everyone-dies-remarks",
-        "description": "Simon Dudley fired after his comments were condemned by prime minister and families of fire victimsUK politics live – latest updatesReform UK’s housing spokesperson has been sacked from his role af...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
+        "url": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
+        "description": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "How rescue of US airman in remote part of Iran unfolded",
         "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
@@ -202,13 +209,6 @@
         "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
         "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
         "description": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "'Really feeling the love' - Savannah Guthrie returns to NBC as search for mother goes on",
-        "url": "https://www.bbc.com/news/articles/c04xqglg7xgo?at_medium=RSS&at_campaign=rss",
-        "description": "Nancy Guthrie disappeared from her home in Tucson, Arizona, in what authorities believe was an abduction.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
