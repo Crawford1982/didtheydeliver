@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-05T18:42:45.024556+00:00",
+  "fetched_at": "2026-04-06T02:27:44.283488+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "NHS urges patients not to put off care as doctors in England prepare for strike",
+        "url": "https://www.theguardian.com/society/2026/apr/06/nhs-patients-care-doctors-england-strike-bma-pay",
+        "description": "People encouraged to ‘come forward as normal’ when BMA members begin industrial action over pay on TuesdayThe NHS is urging patients not to put off seeking the care they need when resident doctors ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "New UK farm inheritance tax rule will cause ‘significant challenges’, say accountants",
+        "url": "https://www.theguardian.com/money/2026/apr/06/new-uk-farm-inheritance-tax-rule-will-cause-significant-challenges-say-accountants",
+        "description": "Levy on inherited farms and family businesses worth £2.5m or more comes into force 6 AprilA new inheritance tax regime for UK farms and family businesses comes into force on Monday and will present...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Starmer attacks Greens, saying vote for Labour rivals puts new workers’ rights at risk",
         "url": "https://www.theguardian.com/politics/2026/apr/05/starmer-attacks-greens-saying-vote-for-labour-rivals-puts-new-workers-rights-at-risk",
         "description": "PM also criticises business figures and opponents of changes, many of which come into force on MondayWorkers, pensioners and children: all better off. Ignore the critics – we really are standing up...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK has detained 76 ‘age-disputed’ children under one in, one out scheme",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/05/uk-detained-age-disputed-migrant-children-one-in-one-out-scheme",
-        "description": "Concerns raised over minors placed in adult detention centres since removals began under scheme in SeptemberMore than 70 children from various conflict zones whose ages were disputed by the Home Of...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour to back down on foie gras and fur bans to ease EU trade deal",
-        "url": "https://www.theguardian.com/world/2026/apr/05/labour-back-down-foie-gras-fur-bans-eu-trade-deal",
-        "description": "Exclusive: Animal welfare charities ‘bitterly disappointed’ UK government plans to backtrack on manifesto promisesThis article contains an image of a duck being force-fed that some readers may find...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -35,7 +35,7 @@
       {
         "title": "How Trump’s Iran war could make the world more reliant on coal",
         "url": "https://www.theguardian.com/business/2026/apr/05/coal-reliance-iran-war-fossil-fuels",
-        "description": "The energy crisis sparked by the war is making some countries consider ramping up their use of dirty fuelsNot two months in office, as the price of west Texas crude approached $14 a barrel, Preside...",
+        "description": "The energy crisis sparked by the war is making some countries consider ramping up their use of dirty fuelsNot two months in office, as the price of west Texas crude approached $14 a barrel, Jimmy C...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
-        "url": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Keir Starmer says it is \"deeply concerning\" the rapper is set to headline a festival after recent antisemitic comments.",
+        "title": "Oil back above $110 after expletive-laden Trump threat to Iran",
+        "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president said Iran's bridges and power plants would be destroyed unless it opened the Strait of Hormuz.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "NHS urges patients not to put off care as doctors in England prepare for strike",
+        "url": "https://www.theguardian.com/society/2026/apr/06/nhs-patients-care-doctors-england-strike-bma-pay",
+        "description": "People encouraged to ‘come forward as normal’ when BMA members begin industrial action over pay on TuesdayThe NHS is urging patients not to put off seeking the care they need when resident doctors ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "A striking exchange between nurse and doctor | Brief letters",
         "url": "https://www.theguardian.com/society/2026/apr/05/a-striking-exchange-between-nurse-and-doctor",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "NHS rehabilitation care staff shortage fails stroke patients, say health leaders",
-        "url": "https://www.theguardian.com/society/2026/apr/03/nhs-rehabiliation-care-staff-shortage-stroke-patients",
-        "description": "People receive rehab only three to four days a week in hospital – and one to two days once they are discharged, data suggestsThe NHS is failing stroke patients and limiting their chances of recover...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Fewer heat-related deaths in 2025 despite warmest summer",
-        "url": "https://www.bbc.com/news/articles/cy91xqxn2jdo?at_medium=RSS&at_campaign=rss",
-        "description": "Summer 2025 was the warmest UK summer on record, with four heatwaves, a top temperature of nearly 38C and a mean temperature of 16.1C",
+        "title": "'Two weeks will make such a difference': UK first as NI brings in miscarriage leave",
+        "url": "https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&at_campaign=rss",
+        "description": "Northern Ireland becomes first part of UK to bring in legal entitlement for parents affected by miscarriage at any stage of a pregnancy to have paid leave.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Seriously wounded US airman rescued from Iran, Trump says",
-        "url": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
-        "description": "The recovery of the airman follows separate search efforts by both the US and Iran.",
+        "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
+        "url": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "How downed F-15 US airman was rescued inside Iran",
-        "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-        "description": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
+        "title": "How rescue of US airman in remote part of Iran unfolded",
+        "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+        "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
-        "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
-        "description": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
+        "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
+        "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
+        "description": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
