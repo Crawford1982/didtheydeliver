@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-06T02:27:44.283488+00:00",
+  "fetched_at": "2026-04-06T07:42:08.489772+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "The Greens, Reform and the end of two-party politics? – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/apr/06/the-greens-reform-and-the-end-of-two-party-politics-podcast",
+        "description": "In part two of our interview, Kiran Stacey speaks to the political scientist Prof Rob Ford about the voters Labour and the Conservatives are losing to the Greens and Reform, and how May’s elections...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Sick pay rule changes to benefit up to 9.6m UK workers, TUC says",
+        "url": "https://www.theguardian.com/law/2026/apr/06/sick-pay-rule-changes-benefit-uk-workers-tuc",
+        "description": "Union says new entitlements, part of Employment Rights Act 2025, will help lower-income householdsUp to 9.6 million UK workers are to benefit from the changes to sick pay rules, according to unions...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "NHS urges patients not to put off care as doctors in England prepare for strike",
         "url": "https://www.theguardian.com/society/2026/apr/06/nhs-patients-care-doctors-england-strike-bma-pay",
         "description": "People encouraged to ‘come forward as normal’ when BMA members begin industrial action over pay on TuesdayThe NHS is urging patients not to put off seeking the care they need when resident doctors ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "New UK farm inheritance tax rule will cause ‘significant challenges’, say accountants",
-        "url": "https://www.theguardian.com/money/2026/apr/06/new-uk-farm-inheritance-tax-rule-will-cause-significant-challenges-say-accountants",
-        "description": "Levy on inherited farms and family businesses worth £2.5m or more comes into force 6 AprilA new inheritance tax regime for UK farms and family businesses comes into force on Monday and will present...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer attacks Greens, saying vote for Labour rivals puts new workers’ rights at risk",
-        "url": "https://www.theguardian.com/politics/2026/apr/05/starmer-attacks-greens-saying-vote-for-labour-rivals-puts-new-workers-rights-at-risk",
-        "description": "PM also criticises business figures and opponents of changes, many of which come into force on MondayWorkers, pensioners and children: all better off. Ignore the critics – we really are standing up...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Oil back above $110 after expletive-laden Trump threat to Iran",
+        "title": "Oil prices choppy after expletive-laden Trump threat to Iran",
         "url": "https://www.bbc.com/news/articles/c8dl7g6e59eo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president said Iran's bridges and power plants would be destroyed unless it opened the Strait of Hormuz.",
+        "description": "Brent crude rose above $110 before those gains eased after a report of US-Iran talks over a potential ceasefire.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "People living with incontinence face shortage of sanitary pads as NHS limits supplies",
+        "url": "https://www.theguardian.com/society/2026/apr/06/people-living-with-incontinence-face-shortage-of-sanitary-pads-as-nhs-limits-supplies",
+        "description": "More than half of NHS trusts have cap on availability of products, forcing patients to pay for products themselvesMillions of people across the UK living with incontinence are facing shortages of s...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "NHS urges patients not to put off care as doctors in England prepare for strike",
         "url": "https://www.theguardian.com/society/2026/apr/06/nhs-patients-care-doctors-england-strike-bma-pay",
@@ -73,13 +80,6 @@
         "title": "A striking exchange between nurse and doctor | Brief letters",
         "url": "https://www.theguardian.com/society/2026/apr/05/a-striking-exchange-between-nurse-and-doctor",
         "description": "Industrial inaction | Conversation adviser | Poppy seed panic | Handbell ringing | Breakfast measurementsAs a young ward sister and trade union steward, I remember, in the 1980s, when I was on the ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Unions privately voice misgivings over BMA pay demands and doctors’ strikes",
-        "url": "https://www.theguardian.com/politics/2026/apr/04/trade-unions-bma-pay-talks-demands-doctors-strikes",
-        "description": "Senior figures express concerns over medical union’s refusal of pay rise that is higher than offer to other NHS staffTrade unions have privately expressed qualms about the forthcoming doctors’ stri...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Artemis's stunning Moon pictures - science or holiday photos?",
-        "url": "https://www.bbc.com/news/articles/clye6j0g840o?at_medium=RSS&at_campaign=rss",
-        "description": "The story behind the beautiful pictures beamed back to Earth from the Artemis II astronauts.",
+        "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
+        "url": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
+        "description": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,13 +192,6 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
-        "url": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
         "title": "How rescue of US airman in remote part of Iran unfolded",
         "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
         "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
@@ -209,6 +202,13 @@
         "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
         "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
         "description": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Hungary alleges plot to blow up gas pipeline ahead of election",
+        "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+        "description": "The incident comes a week before the polls, and follow warnings of a potential operations staged to influence voters.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
