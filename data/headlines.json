@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-06T18:58:19.108808+00:00",
+  "fetched_at": "2026-04-07T02:23:06.625088+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Hyper-targeted scheme to help at-risk schools in England tackle knife crime",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/06/schools-england-hyper-targeted-help-knife-crime",
+        "description": "Home Office will use mapping technology and crime data to identify up to 250 schools in areas of greatest riskSchools across England are to receive dedicated support to prevent knife crime incident...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Trump uses Neville Chamberlain jibe to mock Starmer over stance on Iran",
         "url": "https://www.theguardian.com/us-news/2026/apr/06/trump-starmer-neville-chamberlain-iran",
@@ -13,13 +20,6 @@
         "title": "New UK farm inheritance tax rule will cause ‘significant challenges’, say accountants",
         "url": "https://www.theguardian.com/money/2026/apr/06/new-uk-farm-inheritance-tax-rule-will-cause-significant-challenges-say-accountants",
         "description": "Levy on inherited farms and family businesses worth £2.5m or more comes into force 6 AprilA new inheritance tax regime for UK farms and family businesses comes into force on Monday and will present...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "The Greens, Reform and the end of two-party politics? – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/apr/06/the-greens-reform-and-the-end-of-two-party-politics-podcast",
-        "description": "In part two of our interview, Kiran Stacey speaks to the political scientist Prof Rob Ford about the voters Labour and the Conservatives are losing to the Greens and Reform, and how May’s elections...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Benefits and pensions rise as two-child cap ends",
-        "url": "https://www.bbc.com/news/articles/cn085pdly86o?at_medium=RSS&at_campaign=rss",
-        "description": "Families on some benefits with three or more children will get an average rise of £4,100 a year.",
+        "title": "Trump's Hormuz deadline looms but Asian nations have already struck deals with Iran",
+        "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
+        "description": "Nations in the region have been keen to reach agreements as their economies are heavily reliant on Middle East energy.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "'Two weeks will make such a difference': UK first as NI brings in miscarriage leave",
-        "url": "https://www.bbc.com/news/articles/c9d4g24y5x8o?at_medium=RSS&at_campaign=rss",
-        "description": "Northern Ireland becomes first part of UK to bring in legal entitlement for parents affected by miscarriage at any stage of a pregnancy to have paid leave.",
+        "title": "Disruption expected as six-day doctors' strike begins",
+        "url": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&at_campaign=rss",
+        "description": "The NHS is advising patients in England to only use emergency services when necessary but attend any confirmed appointments.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say",
+        "url": "https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures",
+        "description": "Conservationists say move could push species closer to extinction and clearer environmental rules are needed insteadFollow our Australia news live blog for latest updatesGet our breaking news email...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "‘A surrender to special interests’: alarm as Utah shields fossil-fuel companies",
         "url": "https://www.theguardian.com/us-news/2026/apr/06/utah-fossil-fuels-legal-shield",
         "description": "New legislation comes amid push from big oil, as critics warn polluters’ profits prioritized over Americans’ healthUtah has made it nearly impossible for residents to hold fossil fuel companies leg...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Friday briefing: Why does your Easter egg feel smaller? Because it is",
-        "url": "https://www.theguardian.com/world/2026/apr/03/friday-briefing-why-does-your-easter-egg-feel-smaller-because-it-is",
-        "description": "In today’s newsletter: Cocoa shortages, climate shocks and global conflicts have collided to ​make chocolate pricier than ever beforeGood morning. Today is Good Friday – if you are following the we...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
         "url": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
         "description": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Hyper-targeted scheme to help at-risk schools in England tackle knife crime",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/06/schools-england-hyper-targeted-help-knife-crime",
+        "description": "Home Office will use mapping technology and crime data to identify up to 250 schools in areas of greatest riskSchools across England are to receive dedicated support to prevent knife crime incident...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Voters in Wales failed by inaccurate UK media reports on devolved issues, study finds",
         "url": "https://www.theguardian.com/media/2026/apr/04/voters-in-wales-failed-by-inaccurate-uk-media-reports-on-devolved-issues-study-finds",
@@ -156,13 +163,6 @@
         "title": "A ‘masculinity crisis’ is brewing in UK schools, union says",
         "url": "https://www.theguardian.com/education/2026/apr/04/masculinity-crisis-brewing-uk-schools-teachers-union",
         "description": "Misogynistic abuse of female staff is increasing, leaving teachers feeling ‘traumatised’ and ‘humiliated’Teachers’ leaders have said a “masculinity crisis” is fermenting in schools across the UK, w...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "University of Washington professor fired from director job after sending email criticizing Iran war",
-        "url": "https://www.theguardian.com/us-news/2026/apr/03/washington-college-professor-fired-iran-war-criticism",
-        "description": "Aria Fani of University of Washington’s Middle East Center is latest critic of Israel to lose position at US universitySign up for the Breaking News US email to get newsletter alerts in your inboxA...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
-        "url": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
-        "description": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
+        "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
+        "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
+        "description": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "How rescue of US airman in remote part of Iran unfolded",
-        "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
-        "description": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+        "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
+        "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump declares victory after rescue but threats to US operation in Iran still loom",
-        "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
-        "description": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
+        "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+        "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+        "description": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
