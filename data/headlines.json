@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-04-07T13:18:01.592484+00:00",
+  "fetched_at": "2026-04-07T19:02:12.223345+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Greens urge Streeting to ‘get serious’ about concerns of resident doctors – UK politics live",
+        "title": "Starmer urged to limit US access to UK bases after ‘dangerous’ Trump threats",
+        "url": "https://www.theguardian.com/world/2026/apr/07/pressure-starmer-curb-access-trump-threat-iran",
+        "description": "Lib Dems, Greens and some Labour MPs demand UK block US from using its airbases for Iran missionsMiddle East crisis – live updatesKeir Starmer is facing increasing pressure to limit US access to Br...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Charity cleared after false claims online over migrant welcome project",
+        "url": "https://www.theguardian.com/society/2026/apr/07/refugee-charity-schools-valentines-cards-asylum-seekers",
+        "description": "Watchdog finds allegations against City of Sanctuary UK were misleading after complaint from Tory MPA refugee charity subjected to vicious social media attacks over a migrant welcome project in sch...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK politics: Farage says Trump’s Iranian ‘civilisation will die’ threats went ‘way too far’– as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/apr/07/doctors-strike-wes-streeting-snp-fuel-prices-nigel-farage-reform-uk-keir-starmer-labour-strait-hormuz-uk-politics-latest-updates",
-        "description": "Co-deputy leader for the Greens Mothin Ali says the government’s 10-year plan for the NHS will go nowhere if the workforce feels unappreciated The Green party is backing resident doctors who are on...",
+        "description": "The Reform UK leader says he is ‘shocked’ by the remarks which were ‘over the top in every single way’The Green party is backing resident doctors who are on strike. This morning the party issued a ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK government bans Kanye West from entering country",
-        "url": "https://www.theguardian.com/music/2026/apr/07/home-office-bans-kanye-west-from-entering-uk-wireless-festival",
-        "description": "Rapper, who is legally known as Ye, has been criticised for making antisemitic remarks including voicing admiration for Adolf HitlerUK politics live – latest updatesThe rapper formerly known as Kan...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK government caps student loan interest rates at 6% from September",
-        "url": "https://www.theguardian.com/money/2026/apr/07/uk-government-caps-student-loan-interest-rates",
-        "description": "Minister says change for plan 2 and 3 loans in England and Wales will ‘protect borrowers’ from impact of global conflictUK politics live – latest updatesThe interest rate on plan 2 and plan 3 stude...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Kanye West blocked from travelling to UK, government tells BBC",
+        "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
         "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
-        "description": "West was due to headline London's Wireless Festival in July but drew criticism over past antisemitic comments.",
+        "description": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
         "source": "BBC News",
         "category": "government"
       }
@@ -35,7 +35,14 @@
       {
         "title": "Oil and gas crisis from Iran war worse than 1973, ​1979 and 2022 together, says IEA",
         "url": "https://www.theguardian.com/business/2026/apr/07/oil-prices-donald-trump-iran-stock-market-imf-inflation",
-        "description": "Oil prices seesaw and stock markets on edge amid Donald Trump’s deadline for Iran to reopen strait of Hormuz Business live – latest updatesThe oil and ‌gas crisis triggered by the blockade of the s...",
+        "description": "Oil prices swing and stock markets tense on approach to Trump’s deadline for Iran to reopen strait of HormuzBusiness live – latest updatesThe oil and ‌gas crisis triggered by the blockade of the st...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Hedge fund borrowing exposes emerging markets to greater Iran war risk, says IMF",
+        "url": "https://www.theguardian.com/business/2026/apr/07/emerging-economies-greater-risk-high-interest-currency-shocks-iran-war-imf",
+        "description": "Analysis shows developing economies more likely to experience higher interest rates and currency shocksBusiness live – latest updatesEmerging economies are at greater risk of higher interest rates ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -43,13 +50,6 @@
         "title": "UK City firms report fastest turnaround in fortunes in 30 years",
         "url": "https://www.theguardian.com/business/2026/apr/07/uk-city-firms-cbi-financial-sector-rachel-reeves",
         "description": "CBI figures showing surprise jump in financial sector’s growth will be welcome news for Rachel ReevesBritain’s financial services companies have reported a strong recovery in activity at the start ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Jamie Dimon says US should strengthen allies economically, in veiled criticism of Trump",
-        "url": "https://www.theguardian.com/business/2026/apr/06/jamie-dimon-us-donald-trump-jp-morgan-tariffs-letter-shareholders",
-        "description": "JP Morgan boss warns of risks of higher inflation and interest rates due to Iran war in annual letter to shareholdersMiddle East crisis – live updatesThe head of the US’s largest bank has pressed t...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,9 +93,16 @@
     ],
     "immigration": [
       {
-        "title": "Greens urge Streeting to ‘get serious’ about concerns of resident doctors – UK politics live",
+        "title": "Charity cleared after false claims online over migrant welcome project",
+        "url": "https://www.theguardian.com/society/2026/apr/07/refugee-charity-schools-valentines-cards-asylum-seekers",
+        "description": "Watchdog finds allegations against City of Sanctuary UK were misleading after complaint from Tory MPA refugee charity subjected to vicious social media attacks over a migrant welcome project in sch...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "UK politics: Farage says Trump’s Iranian ‘civilisation will die’ threats went ‘way too far’– as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/apr/07/doctors-strike-wes-streeting-snp-fuel-prices-nigel-farage-reform-uk-keir-starmer-labour-strait-hormuz-uk-politics-latest-updates",
-        "description": "Co-deputy leader for the Greens Mothin Ali says the government’s 10-year plan for the NHS will go nowhere if the workforce feels unappreciated The Green party is backing resident doctors who are on...",
+        "description": "The Reform UK leader says he is ‘shocked’ by the remarks which were ‘over the top in every single way’The Green party is backing resident doctors who are on strike. This morning the party issued a ...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -103,13 +110,6 @@
         "title": "Reform UK would stop visas for people from countries seeking slavery reparations",
         "url": "https://www.theguardian.com/politics/2026/apr/07/reform-uk-stop-visas-countries-seeking-reparations-slavery",
         "description": "The ‘bank is closed and the door is locked’, says Zia Yusuf as calls grow for compensation to remedy historical wrongsReform UK would stop issuing visas to people from any country that continues to...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "UK has detained 76 ‘age-disputed’ children under one in, one out scheme",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/05/uk-detained-age-disputed-migrant-children-one-in-one-out-scheme",
-        "description": "Concerns raised over minors placed in adult detention centres since removals began under scheme in SeptemberMore than 70 children from various conflict zones whose ages were disputed by the Home Of...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -148,7 +148,7 @@
       {
         "title": "UK government caps student loan interest rates at 6% from September",
         "url": "https://www.theguardian.com/money/2026/apr/07/uk-government-caps-student-loan-interest-rates",
-        "description": "Minister says change for plan 2 and 3 loans in England and Wales will ‘protect borrowers’ from impact of global conflictUK politics live – latest updatesThe interest rate on plan 2 and plan 3 stude...",
+        "description": "Minister says change for plan 2 and 3 loans in England and Wales will protect borrowers from impact of global conflictExplainer: what the rate cap means for graduatesMillions of graduates will have...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "JD Vance arrives in Hungary to back Orbán's re-election bid",
-        "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
-        "description": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
+        "title": "Tracking recent US-Israeli strikes on Iranian infrastructure",
+        "url": "https://www.bbc.com/news/articles/cx2w0v19gw8o?at_medium=RSS&at_campaign=rss",
+        "description": "Attacks have targeted bridges, steel plants and pharmaceutical facilities, verified videos show.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Chilean woman accused of Pinochet-era kidnaps loses Australia extradition battle",
-        "url": "https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss",
-        "description": "Adriana Rivas moved from Chile to Australia in the 1970s, working there as a nanny and cleaner.",
+        "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
+        "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
+        "description": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "One dead as train travelling 99mph collides with lorry in France",
-        "url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
-        "description": "The lorry driver is in custody after the train driver died during the collision in northern France.",
+        "title": "Has Artemis II shown we can land on the Moon again?",
+        "url": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
+        "description": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?",
         "source": "BBC News",
         "category": "foreign_policy"
       }
