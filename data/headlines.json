@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-07T02:23:06.625088+00:00",
+  "fetched_at": "2026-04-07T07:15:32.922121+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Hyper-targeted scheme to help at-risk schools in England tackle knife crime",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/06/schools-england-hyper-targeted-help-knife-crime",
-        "description": "Home Office will use mapping technology and crime data to identify up to 250 schools in areas of greatest riskSchools across England are to receive dedicated support to prevent knife crime incident...",
+        "title": "Reform UK would stop visas for people from countries seeking slavery reparations",
+        "url": "https://www.theguardian.com/politics/2026/apr/07/reform-uk-stop-visas-countries-seeking-reparations-slavery",
+        "description": "The ‘bank is closed and the door is locked’, says Zia Yusuf as calls grow for compensation to remedy historical wrongsReform UK has said it would stop issuing visas to any person from a country whi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Trump uses Neville Chamberlain jibe to mock Starmer over stance on Iran",
-        "url": "https://www.theguardian.com/us-news/2026/apr/06/trump-starmer-neville-chamberlain-iran",
-        "description": "As UK PM resists pressure to back airstrikes, US president invokes British leader known for his policy of appeasementMiddle East crisis live – latest updatesDonald Trump has appeared to compare Kei...",
+        "title": "Resident doctors’ strike has torpedoed pay rises and training posts, says Wes Streeting",
+        "url": "https://www.theguardian.com/society/2026/apr/07/resident-doctors-strike-has-torpedoed-pay-rises-and-training-posts-says-wes-streeting",
+        "description": "Exclusive: Health secretary says industrial action in England also threatens to derail NHS progress on waiting timesWes Streeting has accused resident doctors of “torpedoing” their own pay rises an...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "New UK farm inheritance tax rule will cause ‘significant challenges’, say accountants",
-        "url": "https://www.theguardian.com/money/2026/apr/06/new-uk-farm-inheritance-tax-rule-will-cause-significant-challenges-say-accountants",
-        "description": "Levy on inherited farms and family businesses worth £2.5m or more comes into force 6 AprilA new inheritance tax regime for UK farms and family businesses comes into force on Monday and will present...",
+        "title": "‘It’s heartbreaking’: resident doctors in England face halt on new training posts",
+        "url": "https://www.theguardian.com/society/2026/apr/07/resident-doctors-england-speciality-training-posts-strike-bma",
+        "description": "Withdrawal of additional speciality training roles amid strike deadlock has left some doctors with uncertain futureAfter almost two years on the NHS frontline as a resident doctor, Heather Gunn say...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "UK City firms report fastest turnaround in fortunes in 30 years",
+        "url": "https://www.theguardian.com/business/2026/apr/07/uk-city-firms-cbi-financial-sector-rachel-reeves",
+        "description": "CBI figures showing surprise jump in financial sector’s growth will be welcome news for Rachel ReevesBritain’s financial services companies have reported a strong recovery in activity at the start ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Jamie Dimon says US should strengthen allies economically, in veiled criticism of Trump",
         "url": "https://www.theguardian.com/business/2026/apr/06/jamie-dimon-us-donald-trump-jp-morgan-tariffs-letter-shareholders",
@@ -47,25 +54,25 @@
         "category": "economy"
       },
       {
-        "title": "Higher energy costs from Iran war could threaten fragile economics of AI boom | Heather Stewart",
-        "url": "https://www.theguardian.com/business/2026/apr/05/higher-energy-costs-iran-war-oil-economics-ai-boom",
-        "description": "Industry with business model not yet firmly established and investments financed by huge debts is particularly at riskDonald Trump’s most immediate concern in demanding Iran reopen the strait of Ho...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Trump's Hormuz deadline looms but Asian nations have already struck deals with Iran",
-        "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
-        "description": "Nations in the region have been keen to reach agreements as their economies are heavily reliant on Middle East energy.",
+        "title": "Oil prices rise ahead of Trump's Iran deal deadline",
+        "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
+        "description": "The US president has threatened to take out Iran \"in one night\" if it does not agree to open the Strait of Hormuz.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "People living with incontinence face shortage of sanitary pads as NHS limits supplies",
-        "url": "https://www.theguardian.com/society/2026/apr/06/people-living-with-incontinence-face-shortage-of-sanitary-pads-as-nhs-limits-supplies",
-        "description": "More than half of NHS trusts have cap on availability of products, forcing patients to pay for products themselvesMillions of people across the UK living with incontinence are facing shortages of s...",
+        "title": "Resident doctors’ strike has torpedoed pay rises and training posts, says Wes Streeting",
+        "url": "https://www.theguardian.com/society/2026/apr/07/resident-doctors-strike-has-torpedoed-pay-rises-and-training-posts-says-wes-streeting",
+        "description": "Exclusive: Health secretary says industrial action in England also threatens to derail NHS progress on waiting timesWes Streeting has accused resident doctors of “torpedoing” their own pay rises an...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "‘It’s heartbreaking’: resident doctors in England face halt on new training posts",
+        "url": "https://www.theguardian.com/society/2026/apr/07/resident-doctors-england-speciality-training-posts-strike-bma",
+        "description": "Withdrawal of additional speciality training roles amid strike deadlock has left some doctors with uncertain futureAfter almost two years on the NHS frontline as a resident doctor, Heather Gunn say...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -73,13 +80,6 @@
         "title": "Key stroke treatment still not available around the clock across England",
         "url": "https://www.theguardian.com/society/2026/apr/06/key-stroke-treatment-england-mechanical-thrombectomy-nhs",
         "description": "Exclusive:  Seven of England’s 24 stroke centres still not providing mechanical thrombectomy 24/7 despite ministers’ pledgesThe NHS has not made a “life-changing” treatment for stroke available aro...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "NHS urges patients not to put off care as doctors in England prepare for strike",
-        "url": "https://www.theguardian.com/society/2026/apr/06/nhs-patients-care-doctors-england-strike-bma-pay",
-        "description": "People encouraged to ‘come forward as normal’ when BMA members begin industrial action over pay on TuesdayThe NHS is urging patients not to put off seeking the care they need when resident doctors ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Reform UK would stop visas for people from countries seeking slavery reparations",
+        "url": "https://www.theguardian.com/politics/2026/apr/07/reform-uk-stop-visas-countries-seeking-reparations-slavery",
+        "description": "The ‘bank is closed and the door is locked’, says Zia Yusuf as calls grow for compensation to remedy historical wrongsReform UK has said it would stop issuing visas to any person from a country whi...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "UK has detained 76 ‘age-disputed’ children under one in, one out scheme",
         "url": "https://www.theguardian.com/uk-news/2026/apr/05/uk-detained-age-disputed-migrant-children-one-in-one-out-scheme",
         "description": "Concerns raised over minors placed in adult detention centres since removals began under scheme in SeptemberMore than 70 children from various conflict zones whose ages were disputed by the Home Of...",
@@ -103,13 +110,6 @@
         "title": "Ministers working with Labour backbenchers to temper Mahmood immigration plans",
         "url": "https://www.theguardian.com/uk-news/2026/apr/05/ministers-labour-backbenchers-temper-shabana-mahmood-immigration-plans",
         "description": "Exclusive: Starmer urged to go further with exemptions if he wants to avoid widespread anger from his own MPsA number of ministers concerned about Shabana Mahmood’s immigration changes are working ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Two dead and one missing after trying to cross Channel to UK",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/01/dead-missing-after-trying-to-cross-channel-to-uk",
-        "description": "First fatal incident this year occurred hours after £16.2m ‘stop the boats’ deal agreed between Britain and FranceEurope live – latest updatesUK politics live – latest updatesTwo people have died a...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "The 40 minutes when the Artemis crew loses contact with the Earth",
-        "url": "https://www.bbc.com/news/articles/cj0vyzmmy50o?at_medium=RSS&at_campaign=rss",
-        "description": "As the astronauts pass behind the Moon they will experience a moment of silence and solitude as communication with the Earth is blocked.",
+        "title": "Moon fly-by sees astronauts regain contact with Earth and head for home",
+        "url": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&at_campaign=rss",
+        "description": "The Artemis II crew go further than any humans before in Nasa's first crewed mission to the Moon in over 50 years.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "‘I see it as trafficking’: the brutal reality of life as a foreign student in the UK",
+        "url": "https://www.theguardian.com/education/ng-interactive/2026/apr/07/brutal-reality-of-life-as-a-foreign-student-in-the-uk",
+        "description": "Universities in Britain rely on overseas applicants paying full fees, which has given rise to some unscrupulous recruiters and left many hopefuls and their families deep in debtWhen Sam started loo...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Hyper-targeted scheme to help at-risk schools in England tackle knife crime",
         "url": "https://www.theguardian.com/uk-news/2026/apr/06/schools-england-hyper-targeted-help-knife-crime",
@@ -156,13 +163,6 @@
         "title": "Voters in Wales failed by inaccurate UK media reports on devolved issues, study finds",
         "url": "https://www.theguardian.com/media/2026/apr/04/voters-in-wales-failed-by-inaccurate-uk-media-reports-on-devolved-issues-study-finds",
         "description": "Reports on English policies seen in Wales as relating to whole of UK contribute to widespread confusion, researchers sayUK media is failing to report properly on devolved issues in Wales, leaving v...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "A ‘masculinity crisis’ is brewing in UK schools, union says",
-        "url": "https://www.theguardian.com/education/2026/apr/04/masculinity-crisis-brewing-uk-schools-teachers-union",
-        "description": "Misogynistic abuse of female staff is increasing, leaving teachers feeling ‘traumatised’ and ‘humiliated’Teachers’ leaders have said a “masculinity crisis” is fermenting in schools across the UK, w...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
-        "url": "https://www.bbc.com/news/articles/cqj8ep9w1pno?at_medium=RSS&at_campaign=rss",
-        "description": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Clock ticks on Trump's Iran ultimatum with little sign of breakthrough",
+        "title": "Little sign of breakthrough as Trump's Iran deadline nears",
         "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
         "description": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
-        "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
-        "description": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
+        "title": "JD Vance due in Hungary to back Orban's re-election bid",
+        "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
+        "description": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Taiwan opposition leader makes first China visit since 2016",
+        "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
+        "description": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
         "source": "BBC News",
         "category": "foreign_policy"
       }
