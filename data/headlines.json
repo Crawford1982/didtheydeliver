@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-04-07T07:15:32.922121+00:00",
+  "fetched_at": "2026-04-07T13:18:01.592484+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reform UK would stop visas for people from countries seeking slavery reparations",
-        "url": "https://www.theguardian.com/politics/2026/apr/07/reform-uk-stop-visas-countries-seeking-reparations-slavery",
-        "description": "The ‘bank is closed and the door is locked’, says Zia Yusuf as calls grow for compensation to remedy historical wrongsReform UK has said it would stop issuing visas to any person from a country whi...",
+        "title": "Greens urge Streeting to ‘get serious’ about concerns of resident doctors – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/07/doctors-strike-wes-streeting-snp-fuel-prices-nigel-farage-reform-uk-keir-starmer-labour-strait-hormuz-uk-politics-latest-updates",
+        "description": "Co-deputy leader for the Greens Mothin Ali says the government’s 10-year plan for the NHS will go nowhere if the workforce feels unappreciated The Green party is backing resident doctors who are on...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Resident doctors’ strike has torpedoed pay rises and training posts, says Wes Streeting",
-        "url": "https://www.theguardian.com/society/2026/apr/07/resident-doctors-strike-has-torpedoed-pay-rises-and-training-posts-says-wes-streeting",
-        "description": "Exclusive: Health secretary says industrial action in England also threatens to derail NHS progress on waiting timesWes Streeting has accused resident doctors of “torpedoing” their own pay rises an...",
+        "title": "UK government bans Kanye West from entering country",
+        "url": "https://www.theguardian.com/music/2026/apr/07/home-office-bans-kanye-west-from-entering-uk-wireless-festival",
+        "description": "Rapper, who is legally known as Ye, has been criticised for making antisemitic remarks including voicing admiration for Adolf HitlerUK politics live – latest updatesThe rapper formerly known as Kan...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "‘It’s heartbreaking’: resident doctors in England face halt on new training posts",
-        "url": "https://www.theguardian.com/society/2026/apr/07/resident-doctors-england-speciality-training-posts-strike-bma",
-        "description": "Withdrawal of additional speciality training roles amid strike deadlock has left some doctors with uncertain futureAfter almost two years on the NHS frontline as a resident doctor, Heather Gunn say...",
+        "title": "UK government caps student loan interest rates at 6% from September",
+        "url": "https://www.theguardian.com/money/2026/apr/07/uk-government-caps-student-loan-interest-rates",
+        "description": "Minister says change for plan 2 and 3 loans in England and Wales will ‘protect borrowers’ from impact of global conflictUK politics live – latest updatesThe interest rate on plan 2 and plan 3 stude...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Pepsi withdraws as UK festival sponsor after Kanye West backlash",
-        "url": "https://www.bbc.com/news/articles/cp86942yj97o?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Keir Starmer says it is \"deeply concerning\" the rapper is set to headline a festival after recent antisemitic comments.",
+        "title": "Kanye West blocked from travelling to UK, government tells BBC",
+        "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
+        "description": "West was due to headline London's Wireless Festival in July but drew criticism over past antisemitic comments.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Oil and gas crisis from Iran war worse than 1973, ​1979 and 2022 together, says IEA",
+        "url": "https://www.theguardian.com/business/2026/apr/07/oil-prices-donald-trump-iran-stock-market-imf-inflation",
+        "description": "Oil prices seesaw and stock markets on edge amid Donald Trump’s deadline for Iran to reopen strait of Hormuz Business live – latest updatesThe oil and ‌gas crisis triggered by the blockade of the s...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "UK City firms report fastest turnaround in fortunes in 30 years",
         "url": "https://www.theguardian.com/business/2026/apr/07/uk-city-firms-cbi-financial-sector-rachel-reeves",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "How Trump’s Iran war could make the world more reliant on coal",
-        "url": "https://www.theguardian.com/business/2026/apr/05/coal-reliance-iran-war-fossil-fuels",
-        "description": "The energy crisis sparked by the war is making some countries consider ramping up their use of dirty fuelsNot two months in office, as the price of west Texas crude approached $14 a barrel, Jimmy C...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil prices rise ahead of Trump's Iran deal deadline",
-        "url": "https://www.bbc.com/news/articles/c20qv0w1j1do?at_medium=RSS&at_campaign=rss",
-        "description": "The US president has threatened to take out Iran \"in one night\" if it does not agree to open the Strait of Hormuz.",
+        "title": "Music giant Universal gets $64bn takeover offer",
+        "url": "https://www.bbc.com/news/articles/cz0ex432dmyo?at_medium=RSS&at_campaign=rss",
+        "description": "The music giant behind acts such as Taylor Swift and Sabrina Carpenter gets an offer from Bill Ackman's Pershing Square.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,9 +93,16 @@
     ],
     "immigration": [
       {
+        "title": "Greens urge Streeting to ‘get serious’ about concerns of resident doctors – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/07/doctors-strike-wes-streeting-snp-fuel-prices-nigel-farage-reform-uk-keir-starmer-labour-strait-hormuz-uk-politics-latest-updates",
+        "description": "Co-deputy leader for the Greens Mothin Ali says the government’s 10-year plan for the NHS will go nowhere if the workforce feels unappreciated The Green party is backing resident doctors who are on...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Reform UK would stop visas for people from countries seeking slavery reparations",
         "url": "https://www.theguardian.com/politics/2026/apr/07/reform-uk-stop-visas-countries-seeking-reparations-slavery",
-        "description": "The ‘bank is closed and the door is locked’, says Zia Yusuf as calls grow for compensation to remedy historical wrongsReform UK has said it would stop issuing visas to any person from a country whi...",
+        "description": "The ‘bank is closed and the door is locked’, says Zia Yusuf as calls grow for compensation to remedy historical wrongsReform UK would stop issuing visas to people from any country that continues to...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -103,13 +110,6 @@
         "title": "UK has detained 76 ‘age-disputed’ children under one in, one out scheme",
         "url": "https://www.theguardian.com/uk-news/2026/apr/05/uk-detained-age-disputed-migrant-children-one-in-one-out-scheme",
         "description": "Concerns raised over minors placed in adult detention centres since removals began under scheme in SeptemberMore than 70 children from various conflict zones whose ages were disputed by the Home Of...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Ministers working with Labour backbenchers to temper Mahmood immigration plans",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/05/ministers-labour-backbenchers-temper-shabana-mahmood-immigration-plans",
-        "description": "Exclusive: Starmer urged to go further with exemptions if he wants to avoid widespread anger from his own MPsA number of ministers concerned about Shabana Mahmood’s immigration changes are working ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,7 +137,7 @@
         "category": "climate"
       },
       {
-        "title": "Moon fly-by sees astronauts regain contact with Earth and head for home",
+        "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
         "url": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&at_campaign=rss",
         "description": "The Artemis II crew go further than any humans before in Nasa's first crewed mission to the Moon in over 50 years.",
         "source": "BBC News",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "UK government caps student loan interest rates at 6% from September",
+        "url": "https://www.theguardian.com/money/2026/apr/07/uk-government-caps-student-loan-interest-rates",
+        "description": "Minister says change for plan 2 and 3 loans in England and Wales will ‘protect borrowers’ from impact of global conflictUK politics live – latest updatesThe interest rate on plan 2 and plan 3 stude...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘I see it as trafficking’: the brutal reality of life as a foreign student in the UK",
         "url": "https://www.theguardian.com/education/ng-interactive/2026/apr/07/brutal-reality-of-life-as-a-foreign-student-in-the-uk",
@@ -156,13 +163,6 @@
         "title": "Hyper-targeted scheme to help at-risk schools in England tackle knife crime",
         "url": "https://www.theguardian.com/uk-news/2026/apr/06/schools-england-hyper-targeted-help-knife-crime",
         "description": "Home Office will use mapping technology and crime data to identify up to 250 schools in areas of greatest riskSchools across England are to receive dedicated support to prevent knife crime incident...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Voters in Wales failed by inaccurate UK media reports on devolved issues, study finds",
-        "url": "https://www.theguardian.com/media/2026/apr/04/voters-in-wales-failed-by-inaccurate-uk-media-reports-on-devolved-issues-study-finds",
-        "description": "Reports on English policies seen in Wales as relating to whole of UK contribute to widespread confusion, researchers sayUK media is failing to report properly on devolved issues in Wales, leaving v...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Little sign of breakthrough as Trump's Iran deadline nears",
-        "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "JD Vance due in Hungary to back Orban's re-election bid",
+        "title": "JD Vance arrives in Hungary to back Orbán's re-election bid",
         "url": "https://www.bbc.com/news/articles/cyv16lq2rp1o?at_medium=RSS&at_campaign=rss",
         "description": "The US vice-president's visit is the latest show of White House support for the Hungarian leader.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Taiwan opposition leader makes first China visit since 2016",
-        "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
-        "description": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
+        "title": "Chilean woman accused of Pinochet-era kidnaps loses Australia extradition battle",
+        "url": "https://www.bbc.com/news/articles/c8r40d4xdngo?at_medium=RSS&at_campaign=rss",
+        "description": "Adriana Rivas moved from Chile to Australia in the 1970s, working there as a nanny and cleaner.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "One dead as train travelling 99mph collides with lorry in France",
+        "url": "https://www.bbc.com/news/articles/cq590egv9vzo?at_medium=RSS&at_campaign=rss",
+        "description": "The lorry driver is in custody after the train driver died during the collision in northern France.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
