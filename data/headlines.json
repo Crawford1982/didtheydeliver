@@ -1,30 +1,30 @@
 {
-  "fetched_at": "2026-04-08T07:18:47.812311+00:00",
+  "fetched_at": "2026-04-08T13:22:54.753039+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK opening new oil and gas fields would imperil global climate goals, experts say",
-        "url": "https://www.theguardian.com/environment/2026/apr/08/uk-new-oil-gas-fields-north-sea-global-climate-goals",
-        "description": "Senior climate figures warn North Sea drilling would encourage fossil fuel exploitation by developing countriesOpening new oil and gas fields in the North Sea would “send a shock wave around the wo...",
+        "title": "Iran war shows Trump not ‘reliable ally’ for UK, says Ed Davey – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/08/keir-starmer-iran-war-trump-ceasefire-gulf-strait-of-hormuz-labour-conservatives-liberal-democrats-reform-scotland-holyrood-uk-politics-latest-news-updates",
+        "description": "Lib Dem leader says conflict shows ‘classic Donald Trump cycle of destruction’OpenAI, the company behind ChatGPT, is proposing the extension of the four-day working week, as a response to AI taking...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Treat jailed drug dealers like radical extremists, says prisons watchdog",
-        "url": "https://www.theguardian.com/society/2026/apr/08/isolate-jailed-drug-dealers-charlie-taylor-inspector-prisons",
-        "description": "Charlie Taylor, inspector of prisons for England and Wales, says dealers should be isolated and ‘assertively managed’Jailed criminals who are flooding prisons with drugs should be isolated like rad...",
+        "title": "Londoners may regret protest votes for Reform or Greens in local elections, says Sadiq Khan",
+        "url": "https://www.theguardian.com/politics/2026/apr/08/londoners-may-regret-protest-votes-for-reform-or-greens-in-local-elections-says-sadiq-khan",
+        "description": "Exclusive: Capital’s mayor warns people not to use next month’s elections as a referendum on Labour’s progressUK politics live – latest updatesSadiq Khan has said he can understand why some former ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Commonwealth leaders vow to keep seeking reparations after Reform UK plan to halt visas",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas",
-        "description": "Politicians warn party’s pledge to ‘punish’ countries seeking justice for slavery will harm and isolate BritainCommonwealth politicians say they will not back down from seeking reparations as UK pu...",
+        "title": "What has conflict in Iran revealed about UK’s geopolitical standing and military readiness?",
+        "url": "https://www.theguardian.com/world/2026/apr/08/conflict-iran-us-uk-geopolitical-standing-military-readiness-explainer",
+        "description": "Whatever happens next as US and Iran agree to a temporary ceasefire, some important lessons have been learnedMiddle East crisis – live updatesThe world breathed a sigh of relief as the US and Iran ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer to visit Middle East after US and Iran reach ceasefire deal",
+        "title": "Starmer arrives in Saudi Arabia after US-Iran ceasefire deal",
         "url": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss",
         "description": "The prime minister welcomes the deal, saying the UK will do \"all we can to support and sustain this ceasefire\".",
         "source": "BBC News",
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "UK interest rate predictions fall as US and Iran agree two-week ceasefire",
+        "url": "https://www.theguardian.com/business/2026/apr/08/uk-interest-rate-predictions-us-iran-two-week-ceasefire",
+        "description": "Markets now forecast one rate rise this year, down from two on Tuesday, although mortgage rates may not fall quicklyBusiness live – latest updates City traders have cut their forecasts for UK inter...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Oil and gas crisis from Iran war worse than 1973, ​1979 and 2022 together, says IEA",
         "url": "https://www.theguardian.com/business/2026/apr/07/oil-prices-donald-trump-iran-stock-market-imf-inflation",
@@ -47,21 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "UK City firms report fastest turnaround in fortunes in 30 years",
-        "url": "https://www.theguardian.com/business/2026/apr/07/uk-city-firms-cbi-financial-sector-rachel-reeves",
-        "description": "CBI figures showing surprise jump in financial sector’s growth will be welcome news for Rachel ReevesBritain’s financial services companies have reported a strong recovery in activity at the start ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil prices plunge on US-Iran ceasefire deal to reopen Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-        "description": "Crude prices tumbled by as much as 15% on the conditional pause but is higher than before the war.",
+        "title": "Faisal Islam: Iran war pause is welcome but the economic scars will last",
+        "url": "https://www.bbc.com/news/articles/c5yx4e9d8pdo?at_medium=RSS&at_campaign=rss",
+        "description": "Allowing all ships through the Strait of Hormuz will calm markets but the war has created new problems.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Doctors’ strike timed to cause havoc over Easter break, says NHS England chief",
+        "url": "https://www.theguardian.com/society/2026/apr/08/doctors-strike-easter-break-rota-havoc-nhs-england-chief-jim-mackey",
+        "description": "Sir Jim Mackey said hospitals were struggling to fill rotas because six-day action was scheduled over holidayThe latest strike by resident doctors in England has been “deliberately timed to cause h...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Resident doctors’ strike has torpedoed pay rises and training posts, says Wes Streeting",
         "url": "https://www.theguardian.com/society/2026/apr/07/resident-doctors-strike-has-torpedoed-pay-rises-and-training-posts-says-wes-streeting",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Key stroke treatment still not available around the clock across England",
-        "url": "https://www.theguardian.com/society/2026/apr/06/key-stroke-treatment-england-mechanical-thrombectomy-nhs",
-        "description": "Exclusive:  Seven of England’s 24 stroke centres still not providing mechanical thrombectomy 24/7 despite ministers’ pledgesThe NHS has not made a “life-changing” treatment for stroke available aro...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Disruption expected as six-day doctors' strike begins",
-        "url": "https://www.bbc.com/news/articles/c8ej461k3e5o?at_medium=RSS&at_campaign=rss",
-        "description": "The NHS is advising patients in England to only use emergency services when necessary but attend any confirmed appointments.",
+        "title": "Hospitals coping well with doctors' strike so far - NHS boss",
+        "url": "https://www.bbc.com/news/articles/clyrzrp0x5go?at_medium=RSS&at_campaign=rss",
+        "description": "Resident doctors in England – the new name for junior doctors – are taking part in their 15th walkout in a long-running pay dispute.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Rightwing group PragerU thinks ‘western civilization is in danger’. Their plan? Infiltrate US schools",
+        "url": "https://www.theguardian.com/education/ng-interactive/2026/apr/08/prageru-university-conservatism",
+        "description": "As teachers eagerly adopt its free lesson plans and the White House boosts its videos, the non-profit’s leaders are intent on one goal: attracting young people to conservatismIn the fall of 2013, a...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "UK government caps student loan interest rates at 6% from September",
         "url": "https://www.theguardian.com/money/2026/apr/07/uk-government-caps-student-loan-interest-rates",
         "description": "Minister says change for plan 2 and 3 loans in England and Wales will protect borrowers from impact of global conflictExplainer: what the rate cap means for graduatesMillions of graduates will have...",
@@ -156,13 +163,6 @@
         "title": "‘I see it as trafficking’: the brutal reality of life as a foreign student in the UK",
         "url": "https://www.theguardian.com/education/ng-interactive/2026/apr/07/brutal-reality-of-life-as-a-foreign-student-in-the-uk",
         "description": "Universities in Britain rely on overseas applicants paying full fees, which has given rise to some unscrupulous recruiters and left many hopefuls and their families deep in debtWhen Sam started loo...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Hyper-targeted scheme to help at-risk schools in England tackle knife crime",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/06/schools-england-hyper-targeted-help-knife-crime",
-        "description": "Home Office will use mapping technology and crime data to identify up to 250 schools in areas of greatest riskSchools across England are to receive dedicated support to prevent knife crime incident...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
-        "url": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
-        "description": "He will serve out the rest of Marjorie Taylor Greene's term, which ends in January 2027.",
+        "title": "Israel carries out large wave of air strikes across Lebanon",
+        "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
+        "description": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley hours after a US-Iran ceasefire was announced.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
