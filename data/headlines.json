@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-04-08T02:24:04.155976+00:00",
+  "fetched_at": "2026-04-08T07:18:47.812311+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "UK opening new oil and gas fields would imperil global climate goals, experts say",
+        "url": "https://www.theguardian.com/environment/2026/apr/08/uk-new-oil-gas-fields-north-sea-global-climate-goals",
+        "description": "Senior climate figures warn North Sea drilling would encourage fossil fuel exploitation by developing countriesOpening new oil and gas fields in the North Sea would “send a shock wave around the wo...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Treat jailed drug dealers like radical extremists, says prisons watchdog",
+        "url": "https://www.theguardian.com/society/2026/apr/08/isolate-jailed-drug-dealers-charlie-taylor-inspector-prisons",
+        "description": "Charlie Taylor, inspector of prisons for England and Wales, says dealers should be isolated and ‘assertively managed’Jailed criminals who are flooding prisons with drugs should be isolated like rad...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Commonwealth leaders vow to keep seeking reparations after Reform UK plan to halt visas",
         "url": "https://www.theguardian.com/uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Antonia Romeo given powerful mandate to deliver No 10’s priorities",
-        "url": "https://www.theguardian.com/politics/2026/apr/07/antonia-romeo-handed-powerful-mandate-to-deliver-no-10s-priorities",
-        "description": "PM’s most senior civil servant now has task of rewriting civil service code and ‘making it recognised for improved productivity’ Antonia Romeo, Keir Starmer’s most senior civil servant, has been gi...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer urged to limit US access to UK bases after ‘dangerous’ Trump threats",
-        "url": "https://www.theguardian.com/world/2026/apr/07/pressure-starmer-curb-access-trump-threat-iran",
-        "description": "Lib Dems, Greens and some Labour MPs demand UK block US from using its airbases for Iran missionsMiddle East crisis – live updatesKeir Starmer is facing increasing pressure to limit US access to Br...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Wireless Festival cancelled after Kanye West blocked from coming to UK",
-        "url": "https://www.bbc.com/news/articles/c4gxk3kxjr0o?at_medium=RSS&at_campaign=rss",
-        "description": "West was due to headline the festival in July but drew criticism over past antisemitic comments.",
+        "title": "Starmer to visit Middle East after US and Iran reach ceasefire deal",
+        "url": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister welcomes the deal, saying the UK will do \"all we can to support and sustain this ceasefire\".",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
+        "title": "Oil prices plunge on US-Iran ceasefire deal to reopen Strait of Hormuz",
         "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-        "description": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
+        "description": "Crude prices tumbled by as much as 15% on the conditional pause but is higher than before the war.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Turkey to race ahead of EU on battery storage amid fossil fuel crisis",
+        "url": "https://www.theguardian.com/world/2026/apr/08/turkey-ahead-eu-battery-storage-fossil-fuel-crisis",
+        "description": "More than 33GW of battery capacity approved for Turkish grid since 2022 compared with 12-13GW in GermanyTurkey has given the green light to more batteries to buffer its electricity grid than any EU...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "World held hostage by reliance on fossil fuels, Christiana Figueres warns – and climate health impacts are ‘mother of all injustices’",
         "url": "https://www.theguardian.com/society/ng-interactive/2026/apr/08/world-held-hostage-reliance-fossil-fuels-health-christiana-figueres",
         "description": "Exclusive: Former UN climate chief to co-chair Lancet Commission examining how sea-level rise is reshaping health, wellbeing and inequalityWhat are the health impacts of sea-level rise, and who sho...",
@@ -126,13 +133,6 @@
         "title": "DHS secretary calls for US states to lead disaster response instead of Fema",
         "url": "https://www.theguardian.com/us-news/2026/apr/07/dhs-secretary-state-fema-disaster-response",
         "description": "Markwayne Mullin visits Asheville to survey Hurricane Helene recovery in first big trip since Kristi Noem’s ousterMarkwayne Mullin, the US homeland security secretary, used a visit to Asheville, No...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Using AI to speed up Australia’s environmental approvals risks ‘robodebt-style’ failures, scientists say",
-        "url": "https://www.theguardian.com/environment/2026/apr/06/ai-environmental-assessments-robodebt-style-failures",
-        "description": "Conservationists say move could push species closer to extinction and clearer environmental rules are needed insteadFollow our Australia news live blog for latest updatesGet our breaking news email...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,32 +169,39 @@
     ],
     "housing": [
       {
+        "title": "Landlords evicting tenants before law to prevent practice comes into force in England",
+        "url": "https://www.theguardian.com/society/2026/apr/08/landlords-no-fault-evictions-tenants-renters-rights-bill-law",
+        "description": "No-fault evictions made up one in three reports made to renters’ union Acorn in JanuaryIncreasing numbers of landlords are evicting tenants at the last minute before the law changes to outlaw the p...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "‘People are so judgmental’: the growing cohort of over-55s facing homelessness",
+        "url": "https://www.theguardian.com/society/2026/apr/08/over-55s-facing-homelessness-rising-costs-social-housing",
+        "description": "Richard Hewett, who was forced to sleep in his car when his relationship broke down, is one of many in the UK hit by rising costs and a lack of social housingWhen Richard Hewett’s relationship brok...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "We need to talk about population overshoot | Letter",
         "url": "https://www.theguardian.com/world/2026/apr/06/we-need-to-talk-about-population-overshoot",
         "description": "Eco-aware family planning and economic degrowth are two of the wiser social paradigms trying to emerge to replace the ecocidal norms of the past, writes Barbara WilliamsYour article linking the dec...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Mamdani pledged affordable New York housing in his campaign. How is that going?",
-        "url": "https://www.theguardian.com/us-news/2026/apr/05/zohran-mamdani-affordable-housing-new-york",
-        "description": "Mayor’s decision to appeal court order that the city must expand its housing voucher program has angered advocates for the homelessThe decision by New York City’s mayor, Zohran Mamdani, to appeal a...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "UK politics Q&A, as it happened: Andrew Sparrow answers your questions on Starmer, Reform and more",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/02/reform-uk-housing-grenfell-tower-keir-starmer-yvette-cooper-uk-politics-latest-news-updates",
-        "description": "This blog is now closedQ: Do you agree with the Tories about wanting more oil and gas drilling from the North Sea?Davey says Kemi Badenoch claims she can get an extra £2.5bn in tax revenue by allow...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Iran ceasefire deal a partial win for Trump - but at a high cost",
+        "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
         "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
         "description": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "What we know about the two-week ceasefire between the US and Iran",
+        "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
+        "description": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Trump-backed Republican Clay Fuller wins election to replace Marjorie Taylor Greene",
         "url": "https://www.bbc.com/news/articles/c8r40erdj6mo?at_medium=RSS&at_campaign=rss",
         "description": "He will serve out the rest of Marjorie Taylor Greene's term, which ends in January 2027.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Oil slides after US-Iran ceasefire deal to reopen Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-        "description": "The agreement was announced not long before Trump's Tuesday evening deadline was reached.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
