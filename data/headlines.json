@@ -1,67 +1,81 @@
 {
-  "fetched_at": "2026-04-08T13:22:54.753039+00:00",
+  "fetched_at": "2026-04-08T19:14:30.039124+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Iran war shows Trump not ‘reliable ally’ for UK, says Ed Davey – UK politics live",
+        "title": "Starmer says UK wants to help with opening of Hormuz strait on Gulf visit",
+        "url": "https://www.theguardian.com/world/2026/apr/08/keir-starmer-says-it-is-uks-job-to-help-reopen-strait-of-hormuz",
+        "description": "PM is in Saudi Arabia before expected wider trip to regional allies, who may see him as more reliable than TrumpMiddle East crisis – live updatesThe UK has a “job” to help reopen the strait of Horm...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK politics: Starmer warns ‘lot of work to do’ to make ceasefire permanent at start of talks in Gulf - as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/apr/08/keir-starmer-iran-war-trump-ceasefire-gulf-strait-of-hormuz-labour-conservatives-liberal-democrats-reform-scotland-holyrood-uk-politics-latest-news-updates",
-        "description": "Lib Dem leader says conflict shows ‘classic Donald Trump cycle of destruction’OpenAI, the company behind ChatGPT, is proposing the extension of the four-day working week, as a response to AI taking...",
+        "description": "PM will meet leaders in the region to discuss diplomatic efforts to support the ceasefire agreed between the US and IranOpenAI, the company behind ChatGPT, is proposing the extension of the four-da...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Londoners may regret protest votes for Reform or Greens in local elections, says Sadiq Khan",
-        "url": "https://www.theguardian.com/politics/2026/apr/08/londoners-may-regret-protest-votes-for-reform-or-greens-in-local-elections-says-sadiq-khan",
-        "description": "Exclusive: Capital’s mayor warns people not to use next month’s elections as a referendum on Labour’s progressUK politics live – latest updatesSadiq Khan has said he can understand why some former ...",
+        "title": "Tell us: have you received local election leaflets through your door?",
+        "url": "https://www.theguardian.com/politics/2026/apr/08/tell-us-have-you-received-local-election-leaflets-through-your-door",
+        "description": "We’d like to hear about the local election leaflets you’ve received from political parties in your areaHave you received local election leaflets through your door? We’d like to see them. In an era ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "What has conflict in Iran revealed about UK’s geopolitical standing and military readiness?",
-        "url": "https://www.theguardian.com/world/2026/apr/08/conflict-iran-us-uk-geopolitical-standing-military-readiness-explainer",
-        "description": "Whatever happens next as US and Iran agree to a temporary ceasefire, some important lessons have been learnedMiddle East crisis – live updatesThe world breathed a sigh of relief as the US and Iran ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer arrives in Saudi Arabia after US-Iran ceasefire deal",
+        "title": "Starmer says a lot of work remains to make US-Iran ceasefire hold",
         "url": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister welcomes the deal, saying the UK will do \"all we can to support and sustain this ceasefire\".",
+        "description": "The prime minister says fully reopening the Strait of Hormuz would help \"stabilise\" prices in the UK.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK interest rate predictions fall as US and Iran agree two-week ceasefire",
-        "url": "https://www.theguardian.com/business/2026/apr/08/uk-interest-rate-predictions-us-iran-two-week-ceasefire",
-        "description": "Markets now forecast one rate rise this year, down from two on Tuesday, although mortgage rates may not fall quicklyBusiness live – latest updates City traders have cut their forecasts for UK inter...",
+        "title": "Relief in financial markets after Iran ceasefire – but it is far from absolute | Richard Partington",
+        "url": "https://www.theguardian.com/world/2026/apr/08/relief-financial-markets-iran-ceasefire-far-from-absolute",
+        "description": "Situation still volatile as Tehran and Washington issue conflicting messages about opening of Hormuz channelA plunge in the oil price, stock market rally and renewed hopes for the global economic o...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Oil and gas crisis from Iran war worse than 1973, ​1979 and 2022 together, says IEA",
-        "url": "https://www.theguardian.com/business/2026/apr/07/oil-prices-donald-trump-iran-stock-market-imf-inflation",
-        "description": "Oil prices swing and stock markets tense on approach to Trump’s deadline for Iran to reopen strait of HormuzBusiness live – latest updatesThe oil and ‌gas crisis triggered by the blockade of the st...",
+        "title": "Will shipping in the strait of Hormuz – and oil prices – return to normal?",
+        "url": "https://www.theguardian.com/world/2026/apr/08/will-shipping-in-the-strait-of-hormuz-and-oil-prices-return-to-normal",
+        "description": "Analysts say doubts over stability of the ceasefire and damage to production sites mean the energy crisis is far from overMiddle East crisis – live updatesIf the US-Israeli ceasefire with Iran hold...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Hedge fund borrowing exposes emerging markets to greater Iran war risk, says IMF",
-        "url": "https://www.theguardian.com/business/2026/apr/07/emerging-economies-greater-risk-high-interest-currency-shocks-iran-war-imf",
-        "description": "Analysis shows developing economies more likely to experience higher interest rates and currency shocksBusiness live – latest updatesEmerging economies are at greater risk of higher interest rates ...",
+        "title": "Is Australia headed for a recession? A growing number of economists think so – here’s why I’m not one of them | Greg Jericho",
+        "url": "https://www.theguardian.com/business/grogonomics/2026/apr/08/australia-recession-economy-rba-trump-iran",
+        "description": "In backing down on his threats to destroy Iranian civilisation, Donald Trump has lessened concerns of a recession in Australia – at least for nowGet our breaking news email, free app or daily news ...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Faisal Islam: Iran war pause is welcome but the economic scars will last",
-        "url": "https://www.bbc.com/news/articles/c5yx4e9d8pdo?at_medium=RSS&at_campaign=rss",
-        "description": "Allowing all ships through the Strait of Hormuz will calm markets but the war has created new problems.",
+        "title": "Why it could take months for fuel and food prices to return to normal",
+        "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&at_campaign=rss",
+        "description": "Analysts fear long-lasting economic damage has already been set in motion.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Alarm in health service over Palantir staff being given NHS email accounts",
+        "url": "https://www.theguardian.com/society/2026/apr/08/alarm-health-service-palantir-staff-nhs-email-accounts",
+        "description": "Exclusive: Sources believe AI tech company’s engineers have been granted access to directory of up to 1.5m staffHealth service staff have expressed alarm that engineers working for controversial te...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Scientists develop AI tool to spot heart failure risk five years before it strikes",
+        "url": "https://www.theguardian.com/society/2026/apr/08/oxford-scientists-develop-ai-tool-spot-heart-failure",
+        "description": "Oxford team’s technology picked up danger signs with 86% accuracy in study of 72,000 patients in EnglandOxford scientists have developed a simple AI tool that can predict the risk of heart failure ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Doctors’ strike timed to cause havoc over Easter break, says NHS England chief",
         "url": "https://www.theguardian.com/society/2026/apr/08/doctors-strike-easter-break-rota-havoc-nhs-england-chief-jim-mackey",
@@ -70,28 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "Resident doctors’ strike has torpedoed pay rises and training posts, says Wes Streeting",
-        "url": "https://www.theguardian.com/society/2026/apr/07/resident-doctors-strike-has-torpedoed-pay-rises-and-training-posts-says-wes-streeting",
-        "description": "Exclusive: Health secretary says industrial action in England also threatens to derail NHS progress on waiting timesWes Streeting has accused resident doctors of “torpedoing” their own pay rises an...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "‘It’s heartbreaking’: resident doctors in England face halt on new training posts",
-        "url": "https://www.theguardian.com/society/2026/apr/07/resident-doctors-england-speciality-training-posts-strike-bma",
-        "description": "Withdrawal of additional speciality training roles amid strike deadlock has left some doctors with uncertain futureAfter almost two years on the NHS frontline as a resident doctor, Heather Gunn say...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Hospitals coping well with doctors' strike so far - NHS boss",
-        "url": "https://www.bbc.com/news/articles/clyrzrp0x5go?at_medium=RSS&at_campaign=rss",
-        "description": "Resident doctors in England – the new name for junior doctors – are taking part in their 15th walkout in a long-running pay dispute.",
+        "title": "New light shed on who benefits most from weight-loss jabs",
+        "url": "https://www.bbc.com/news/articles/cn5317dkqnxo?at_medium=RSS&at_campaign=rss",
+        "description": "People who carry variations in two genes linked to appetite and digestion can lose more weight when taking drugs to treat obesity, research suggests.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "More than 50 young asylum seekers have died in UK since 2015, data shows",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/08/young-asylum-seekers-deaths-suicides-uk",
+        "description": "Figures gathered from children’s services and health trusts show 31 deaths were suicides, including six in under-18sMore than 50 young asylum seekers in the UK have died in the past decade, the maj...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Commonwealth leaders vow to keep seeking reparations after Reform UK plan to halt visas",
         "url": "https://www.theguardian.com/uk-news/2026/apr/07/commonwealth-leaders-vow-to-keep-seeking-reparations-after-reform-uk-plan-to-halt-visas",
@@ -105,16 +112,16 @@
         "description": "Watchdog finds allegations against City of Sanctuary UK were misleading after complaint from Tory MPA refugee charity subjected to vicious social media attacks over a migrant welcome project in sch...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "UK politics: Farage says Trump’s Iranian ‘civilisation will die’ threats went ‘way too far’– as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/07/doctors-strike-wes-streeting-snp-fuel-prices-nigel-farage-reform-uk-keir-starmer-labour-strait-hormuz-uk-politics-latest-updates",
-        "description": "The Reform UK leader says he is ‘shocked’ by the remarks which were ‘over the top in every single way’The Green party is backing resident doctors who are on strike. This morning the party issued a ...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Trump’s EPA chief Zeldin gives keynote speech at climate-denying group’s event",
+        "url": "https://www.theguardian.com/us-news/2026/apr/08/epa-chief-zeldin-climate-denying-group-event",
+        "description": "Lee Zeldin opens conference for Heartland Institute, which once compared climate advocates to the UnabomberSign up for the Breaking News US email to get newsletter alerts in your inboxLee Zeldin, t...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Turkey to race ahead of EU on battery storage amid fossil fuel crisis",
         "url": "https://www.theguardian.com/world/2026/apr/08/turkey-ahead-eu-battery-storage-fossil-fuel-crisis",
@@ -130,25 +137,18 @@
         "category": "climate"
       },
       {
-        "title": "DHS secretary calls for US states to lead disaster response instead of Fema",
-        "url": "https://www.theguardian.com/us-news/2026/apr/07/dhs-secretary-state-fema-disaster-response",
-        "description": "Markwayne Mullin visits Asheville to survey Hurricane Helene recovery in first big trip since Kristi Noem’s ousterMarkwayne Mullin, the US homeland security secretary, used a visit to Asheville, No...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Artemis II crew head for home after travelling further from Earth than anyone before",
-        "url": "https://www.bbc.com/news/articles/cx23p6j5gxgo?at_medium=RSS&at_campaign=rss",
-        "description": "The Artemis II crew go further than any humans before in Nasa's first crewed mission to the Moon in over 50 years.",
+        "title": "Has Artemis II shown we can land on the Moon again?",
+        "url": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
+        "description": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
-        "title": "Rightwing group PragerU thinks ‘western civilization is in danger’. Their plan? Infiltrate US schools",
+        "title": "‘Masquerading as a university’: inside the brazen rightwing plan to conquer American schools",
         "url": "https://www.theguardian.com/education/ng-interactive/2026/apr/08/prageru-university-conservatism",
-        "description": "As teachers eagerly adopt its free lesson plans and the White House boosts its videos, the non-profit’s leaders are intent on one goal: attracting young people to conservatismIn the fall of 2013, a...",
+        "description": "As teachers eagerly adopt its free lesson plans and the White House boosts its videos, PragerU is intent on one goal: attracting young people to conservatismIn the fall of 2013, a silver-haired con...",
         "source": "The Guardian",
         "category": "education"
       },
