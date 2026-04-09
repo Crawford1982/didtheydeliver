@@ -1,30 +1,30 @@
 {
-  "fetched_at": "2026-04-08T19:14:30.039124+00:00",
+  "fetched_at": "2026-04-09T02:10:13.994932+00:00",
   "headlines": {
     "government": [
       {
+        "title": "Ministers unveil ‘right to try’ plan to help disabled people find work",
+        "url": "https://www.theguardian.com/world/2026/apr/09/ministers-unveil-right-to-try-plan-to-help-disabled-people-find-work",
+        "description": "Threat of losing benefits will be lifted but campaigners say more help needed to tackle hostile workplaces The government has unveiled its plan to allow disabled people to try work without fear of ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "US ignoring evidence Russia is helping Iran because it trusts Putin, says Zelenskyy",
+        "url": "https://www.theguardian.com/world/2026/apr/09/us-ignoring-evidence-russia-is-helping-iran-because-it-trusts-putin-says-zelenskyy",
+        "description": "Ukraine’s president tells podcast he has tried to draw White House’s attention to collaboration between Moscow and Tehran over strikes on US basesHow the Ukraine and Iran wars are starting to overl...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Starmer says UK wants to help with opening of Hormuz strait on Gulf visit",
         "url": "https://www.theguardian.com/world/2026/apr/08/keir-starmer-says-it-is-uks-job-to-help-reopen-strait-of-hormuz",
-        "description": "PM is in Saudi Arabia before expected wider trip to regional allies, who may see him as more reliable than TrumpMiddle East crisis – live updatesThe UK has a “job” to help reopen the strait of Horm...",
+        "description": "PM meets Mohammed bin Salman in Saudi Arabia before further visits to regional allies, who may see him as more reliable than TrumpMiddle East crisis – live updatesThe UK has a “job” to help reopen ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK politics: Starmer warns ‘lot of work to do’ to make ceasefire permanent at start of talks in Gulf - as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/08/keir-starmer-iran-war-trump-ceasefire-gulf-strait-of-hormuz-labour-conservatives-liberal-democrats-reform-scotland-holyrood-uk-politics-latest-news-updates",
-        "description": "PM will meet leaders in the region to discuss diplomatic efforts to support the ceasefire agreed between the US and IranOpenAI, the company behind ChatGPT, is proposing the extension of the four-da...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Tell us: have you received local election leaflets through your door?",
-        "url": "https://www.theguardian.com/politics/2026/apr/08/tell-us-have-you-received-local-election-leaflets-through-your-door",
-        "description": "We’d like to hear about the local election leaflets you’ve received from political parties in your areaHave you received local election leaflets through your door? We’d like to see them. In an era ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer says a lot of work remains to make US-Iran ceasefire hold",
+        "title": "Starmer says much work remains to make US-Iran ceasefire hold",
         "url": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss",
         "description": "The prime minister says fully reopening the Strait of Hormuz would help \"stabilise\" prices in the UK.",
         "source": "BBC News",
@@ -47,16 +47,16 @@
         "category": "economy"
       },
       {
-        "title": "Is Australia headed for a recession? A growing number of economists think so – here’s why I’m not one of them | Greg Jericho",
+        "title": "Is Australia headed for a recession? I hope not -  but the RBA should be more worried | Greg Jericho",
         "url": "https://www.theguardian.com/business/grogonomics/2026/apr/08/australia-recession-economy-rba-trump-iran",
         "description": "In backing down on his threats to destroy Iranian civilisation, Donald Trump has lessened concerns of a recession in Australia – at least for nowGet our breaking news email, free app or daily news ...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Why it could take months for fuel and food prices to return to normal",
-        "url": "https://www.bbc.com/news/articles/c5ywpv1d4geo?at_medium=RSS&at_campaign=rss",
-        "description": "Analysts fear long-lasting economic damage has already been set in motion.",
+        "title": "Oil prices rise as traders eye fragile US-Iran ceasefire",
+        "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
+        "description": "The cost of crude plunged on Wednesday after a deal was announced that includes the opening of the Strait of Hormuz.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -123,6 +123,13 @@
         "category": "climate"
       },
       {
+        "title": "‘Non-survivable’: heatwaves are already breaching human limits, with worse to come, study finds",
+        "url": "https://www.theguardian.com/environment/2026/apr/08/extreme-weather-heatwaves-breaching-human-survival-limits-study-finds",
+        "description": "Analysis of six extreme heatwaves found when temperature and humidity were accounted for, all were potentially deadly for older peopleExtreme heat is already creating “non-survivable” conditions fo...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Turkey to race ahead of EU on battery storage amid fossil fuel crisis",
         "url": "https://www.theguardian.com/world/2026/apr/08/turkey-ahead-eu-battery-storage-fossil-fuel-crisis",
         "description": "More than 33GW of battery capacity approved for Turkish grid since 2022 compared with 12-13GW in GermanyTurkey has given the green light to more batteries to buffer its electricity grid than any EU...",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "World held hostage by reliance on fossil fuels, Christiana Figueres warns – and climate health impacts are ‘mother of all injustices’",
-        "url": "https://www.theguardian.com/society/ng-interactive/2026/apr/08/world-held-hostage-reliance-fossil-fuels-health-christiana-figueres",
-        "description": "Exclusive: Former UN climate chief to co-chair Lancet Commission examining how sea-level rise is reshaping health, wellbeing and inequalityWhat are the health impacts of sea-level rise, and who sho...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Has Artemis II shown we can land on the Moon again?",
-        "url": "https://www.bbc.com/news/articles/cj60nkd8nrko?at_medium=RSS&at_campaign=rss",
-        "description": "The Artemis II mission has been near flawless to date, but has the test flight shown Nasa is ready to send humans to the lunar surface?",
+        "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
+        "url": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
+        "description": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "‘Excessive’ financial risks threaten survival of many English universities, report warns",
+        "url": "https://www.theguardian.com/education/2026/apr/09/english-universities-excessive-financial-risks-survival-warns-thinktank",
+        "description": "High levels of borrowing and rapid expansion among dangers identified by Higher Education Policy InstituteMany English universities are taking excessive financial risks that threaten not only their...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘Masquerading as a university’: inside the brazen rightwing plan to conquer American schools",
         "url": "https://www.theguardian.com/education/ng-interactive/2026/apr/08/prageru-university-conservatism",
@@ -156,13 +163,6 @@
         "title": "UK government caps student loan interest rates at 6% from September",
         "url": "https://www.theguardian.com/money/2026/apr/07/uk-government-caps-student-loan-interest-rates",
         "description": "Minister says change for plan 2 and 3 loans in England and Wales will protect borrowers from impact of global conflictExplainer: what the rate cap means for graduatesMillions of graduates will have...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘I see it as trafficking’: the brutal reality of life as a foreign student in the UK",
-        "url": "https://www.theguardian.com/education/ng-interactive/2026/apr/07/brutal-reality-of-life-as-a-foreign-student-in-the-uk",
-        "description": "Universities in Britain rely on overseas applicants paying full fees, which has given rise to some unscrupulous recruiters and left many hopefuls and their families deep in debtWhen Sam started loo...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Israel carries out large wave of air strikes across Lebanon",
+        "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
         "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-        "description": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley hours after a US-Iran ceasefire was announced.",
+        "description": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
