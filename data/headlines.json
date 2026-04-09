@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-09T02:10:13.994932+00:00",
+  "fetched_at": "2026-04-09T07:21:21.743198+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Lebanon must be included in US-Iran ceasefire deal, Yvette Cooper to say",
+        "url": "https://www.theguardian.com/world/2026/apr/09/lebanon-us-iran-ceasefire-deal-yvette-cooper",
+        "description": "Foreign secretary to address City leaders in London as Israel intensifies bombing and Vance says Lebanon is not part of dealMiddle East crisis – live updatesLebanon must be included in the ceasefir...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Ministers unveil ‘right to try’ plan to help disabled people find work",
         "url": "https://www.theguardian.com/world/2026/apr/09/ministers-unveil-right-to-try-plan-to-help-disabled-people-find-work",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Starmer says UK wants to help with opening of Hormuz strait on Gulf visit",
-        "url": "https://www.theguardian.com/world/2026/apr/08/keir-starmer-says-it-is-uks-job-to-help-reopen-strait-of-hormuz",
-        "description": "PM meets Mohammed bin Salman in Saudi Arabia before further visits to regional allies, who may see him as more reliable than TrumpMiddle East crisis – live updatesThe UK has a “job” to help reopen ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer says much work remains to make US-Iran ceasefire hold",
-        "url": "https://www.bbc.com/news/articles/cj0ve1006g9o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister says fully reopening the Strait of Hormuz would help \"stabilise\" prices in the UK.",
+        "title": "Cooper to urge full and toll-free reopening of Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/c93enywd10ro?at_medium=RSS&at_campaign=rss",
+        "description": "Foreign Secretary Yvette Cooper will call for shipping in the Strait of Hormuz to be toll-free and unhindered.",
         "source": "BBC News",
         "category": "government"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Pioneering wildlife cameraman Doug Allan dies in Nepal",
-        "url": "https://www.bbc.com/news/articles/czx9kvqxeq5o?at_medium=RSS&at_campaign=rss",
-        "description": "The cameraman and photographer won eight Emmy Awards for his work on acclaimed series like Blue Planet alongside Sir David Attenborough.",
+        "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
+        "url": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
+        "description": "The four astronauts said they were returning to Earth with \"so many more pictures, so many more stories\".",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
+        "url": "https://www.bbc.com/news/articles/c05d8j9r5ejo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
         "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
         "description": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
@@ -202,13 +209,6 @@
         "title": "What we know about the two-week ceasefire between the US and Iran",
         "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
         "description": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-        "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-        "description": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
