@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-10T02:29:15.472145+00:00",
+  "fetched_at": "2026-04-10T07:26:46.133516+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Could Trump be forced out of office? – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/apr/10/could-trump-be-forced-out-of-office-25th-amendment-podcast",
+        "description": "This week, despite securing a temporary ceasefire with Iran, there were calls from both the left and the right to invoke the 25th amendment of the US constitution to remove Donald Trump from office...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Israel’s attacks on Lebanon should not be happening, says Keir Starmer",
         "url": "https://www.theguardian.com/politics/2026/apr/09/israel-attacks-on-lebanon-should-not-be-happening-says-keir-starmer",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Starmer says talks with Gulf leaders have reinforced sense Iran war ceasefire is ‘fragile’ – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/09/iran-yvette-cooper-starmer-gulf-green-polanski-elections-housing-latest-news-updates",
-        "description": "Prime minister has been in talks with Saudi crown prince and UAE president today In interviews this morning Yvette Cooper, the foreign secretary, declined to confirm reports that a Russian warship ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Greens launch local election campaign with focus on housing",
-        "url": "https://www.bbc.com/news/articles/cj0v1qdd45no?at_medium=RSS&at_campaign=rss",
-        "description": "Party leader Zack Polanski accuses Labour of failing to build enough social and affordable homes.",
+        "title": "'We should not be at the mercy of events abroad' - Starmer",
+        "url": "https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says \"shocks\" like the conflict in Iran are becoming more frequent.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "EU fingerprint and photo travel rules come into force",
-        "url": "https://www.bbc.com/news/articles/c39rkpe8mj2o?at_medium=RSS&at_campaign=rss",
-        "description": "The EU's much-delayed Entry/Exit System will change the way UK passengers travel to 29 countries.",
+        "title": "This coat cost $248 in illegal tariffs. Will he ever get the money back?",
+        "url": "https://www.bbc.com/news/articles/ckgr67kgvdko?at_medium=RSS&at_campaign=rss",
+        "description": "Importers are in line for tariff refunds. But whether everyone who paid the for the tariffs will get money back is a trickier question.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Both doctors and the government are handling this strike badly – that’s why there is no end in sight | Polly Toynbee",
+        "url": "https://www.theguardian.com/commentisfree/2026/apr/10/doctors-government-dispute-bma-labour-nhs",
+        "description": "With the BMA making ‘impossible’ demands and Labour responding with Trumpian threats, negotiations are stuck – and it’s the NHS that will sufferWhat’s the off-ramp? When I ask one of the negotiatin...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Alarm in health service over Palantir staff being given NHS email accounts",
         "url": "https://www.theguardian.com/society/2026/apr/08/alarm-health-service-palantir-staff-nhs-email-accounts",
@@ -73,13 +80,6 @@
         "title": "Scientists develop AI tool to spot heart failure risk five years before it strikes",
         "url": "https://www.theguardian.com/society/2026/apr/08/oxford-scientists-develop-ai-tool-spot-heart-failure",
         "description": "Oxford team’s technology picked up danger signs with 86% accuracy in study of 72,000 patients in EnglandOxford scientists have developed a simple AI tool that can predict the risk of heart failure ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Doctors’ strike timed to cause havoc over Easter break, says NHS England chief",
-        "url": "https://www.theguardian.com/society/2026/apr/08/doctors-strike-easter-break-rota-havoc-nhs-england-chief-jim-mackey",
-        "description": "Sir Jim Mackey said hospitals were struggling to fill rotas because six-day action was scheduled over holidayThe latest strike by resident doctors in England has been “deliberately timed to cause h...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Artemis crew returning to Earth with 'all the good stuff' from Moon discoveries",
-        "url": "https://www.bbc.com/news/articles/c70dr45dj1lo?at_medium=RSS&at_campaign=rss",
-        "description": "The four astronauts said they were returning to Earth with \"so many more pictures, so many more stories\".",
+        "title": "How the Artemis crew will splash down on Earth",
+        "url": "https://www.bbc.com/news/videos/cn431g7v52qo?at_medium=RSS&at_campaign=rss",
+        "description": "The Artemis crew will return to Earth on 10 April after a 10-day mission that took them around the Moon.",
         "source": "BBC News",
         "category": "climate"
       }
