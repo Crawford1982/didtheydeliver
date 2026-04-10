@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-10T13:08:19.805914+00:00",
+  "fetched_at": "2026-04-10T18:51:33.123989+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer implies he didn’t tell Trump he was ‘fed up’ about his impact on rising UK energy bills – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/10/starmer-trump-putin-iran-war-farage-reform-latest-news-updates",
-        "description": "Prime minister says conversation with US president on Thursday night focused on need for ‘practical plan’ to open strait of HormuzTony Blair, the former Labour prime minister, has joined those sayi...",
+        "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’",
+        "url": "https://www.theguardian.com/politics/2026/apr/10/reform-uk-local-election-candidate-was-twice-disciplined-by-tories-over-alleged-racist-comments",
+        "description": "Conservatives disowned Derek Bullock in 2023 after he allegedly used racial slur to call for people of Pakistani heritage to be shotA Reform UK candidate for next month’s council elections was twic...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer says he is ‘fed up’ with Trump and Putin’s impact on UK energy costs",
-        "url": "https://www.theguardian.com/politics/2026/apr/10/starmer-fed-up-trump-uk-politics",
-        "description": "PM appears to draw comparison between Russian and US leaders’ actions and calls for plan to restore Hormuz strait shippingUK politics live – latest updatesMiddle East crisis – live updatesKeir Star...",
+        "title": "Remaining in Nato is in best interests of US, says Keir Starmer",
+        "url": "https://www.theguardian.com/world/2026/apr/10/remaining-in-nato-alliance-us-interests-keir-starmer",
+        "description": "PM pushes back after Trump’s threats to leave alliance and says European members must do more in light of Iran warKeir Starmer has said it is in the best interests of the US to stay in Nato and tha...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Could Trump be forced out of office? – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/apr/10/could-trump-be-forced-out-of-office-25th-amendment-podcast",
-        "description": "This week, despite securing a temporary ceasefire with Iran, there were calls from both the left and the right to invoke the 25th amendment of the US constitution to remove Donald Trump from office...",
+        "title": "Labour MPs propose specialist sexual offences courts to help trials backlog",
+        "url": "https://www.theguardian.com/law/2026/apr/10/labour-mps-propose-specialist-sexual-offences-courts-to-help-trials-backlog",
+        "description": "Rebels put forward amendments to courts bill in attempt to stop government plans to cut back on jury trialsLabour MPs are hoping to hijack plans to cut back on jury trials in England and Wales by p...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "US inflation jumps to highest level in almost two years",
-        "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
-        "description": "A surge in prices at the pump due to the Iran war has pushed the inflation rate to 3.3%.",
+        "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
+        "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
+        "description": "The trade body for European airports said if the Strait of Hormuz did not open in the next three weeks, there could be shortages.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Doctors’ leader claims new reduced pay offer killed chances of ending strikes in England",
+        "url": "https://www.theguardian.com/society/2026/apr/10/resident-doctors-leader-reduced-pay-offer-killed-chances-ending-strikes",
+        "description": "Exclusive: Deal for resident doctors was in sight when sudden change by ministers forced latest action, says Jack FletcherMinisters killed the chance to end strikes by resident doctors when they su...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Both doctors and the government are handling this strike badly – that’s why there is no end in sight | Polly Toynbee",
         "url": "https://www.theguardian.com/commentisfree/2026/apr/10/doctors-government-dispute-bma-labour-nhs",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "Scientists develop AI tool to spot heart failure risk five years before it strikes",
-        "url": "https://www.theguardian.com/society/2026/apr/08/oxford-scientists-develop-ai-tool-spot-heart-failure",
-        "description": "Oxford team’s technology picked up danger signs with 86% accuracy in study of 72,000 patients in EnglandOxford scientists have developed a simple AI tool that can predict the risk of heart failure ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "New light shed on who benefits most from weight-loss jabs",
         "url": "https://www.bbc.com/news/articles/cn5317dkqnxo?at_medium=RSS&at_campaign=rss",
         "description": "People who carry variations in two genes linked to appetite and digestion can lose more weight when taking drugs to treat obesity, research suggests.",
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
+        "title": "Man arrested after four die trying to cross Channel in small boat",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/10/man-arrested-four-die-channel-crossing-small-boat",
+        "description": "Two men and two women were swept away by currents while attempting to board dinghy off French coastA man has been arrested on suspicion of endangering life after four people died in a small boat Ch...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Home Office starts crackdown on EU citizens’ post-Brexit rights to live in UK",
+        "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
+        "description": "Concerns raised over use of travel data in determining whether people are ‘continuously’ in UK, after HMRC fiasco Ministers are to start removing post-Brexit residency rights from EU citizens who a...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Starmer says talks with Gulf leaders have reinforced sense Iran war ceasefire is ‘fragile’ – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/apr/09/iran-yvette-cooper-starmer-gulf-green-polanski-elections-housing-latest-news-updates",
         "description": "Prime minister has been in talks with Saudi crown prince and UAE president today In interviews this morning Yvette Cooper, the foreign secretary, declined to confirm reports that a Russian warship ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Four people die in Channel small-boat sinking",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/09/people-die-in-channel-small-boat-sinking",
-        "description": "At least 42 others rescued after incident in strong currents off coast of BoulogneTwo men and two women have died after a small boat sank in the Channel between France and Britain, French local aut...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "More than 50 young asylum seekers have died in UK since 2015, data shows",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/08/young-asylum-seekers-deaths-suicides-uk",
-        "description": "Figures gathered from children’s services and health trusts show 31 deaths were suicides, including six in under-18sMore than 50 young asylum seekers in the UK have died in the past decade, the maj...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Starmer implies he didn’t tell Trump he was ‘fed up’ about his impact on rising UK energy bills – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/10/starmer-trump-putin-iran-war-farage-reform-latest-news-updates",
+        "description": "Prime minister says conversation with US president on Thursday night focused on need for ‘practical plan’ to open strait of HormuzTony Blair, the former Labour prime minister, has joined those sayi...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Starmer says talks with Gulf leaders have reinforced sense Iran war ceasefire is ‘fragile’ – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/apr/09/iran-yvette-cooper-starmer-gulf-green-polanski-elections-housing-latest-news-updates",
         "description": "Prime minister has been in talks with Saudi crown prince and UAE president today In interviews this morning Yvette Cooper, the foreign secretary, declined to confirm reports that a Russian warship ...",
@@ -179,13 +186,6 @@
         "title": "‘The danger and value of water are in my blood’: how rain fences are making Dutch homes more climate resilient",
         "url": "https://www.theguardian.com/environment/2026/apr/09/rain-fences-dutch-homes-climate-resilient",
         "description": "Housing corporations are adopting rainwater storage in garden fences, reducing pressure during downpours and preserving water for times of droughtGood fences make good neighbours – but rain fences ...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Zack Polanski calls for UK to withdraw trade agreement with Israel after strikes on Lebanon",
-        "url": "https://www.theguardian.com/politics/2026/apr/09/zack-polanski-uk-trade-agreement-israel-lebanon-strikes",
-        "description": "Green leader says PM should impose tougher sanctions on Israel, which he accuses of acting in ‘completely uncontrolled way’UK politics live – latest updatesZack Polanski has called on the governmen...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
-        "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
-        "description": "Both sides have reason to end the war but share no common ground.",
+        "title": "Lebanon says ceasefire must be in place before Israel talks",
+        "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+        "description": "Lebanon will only take part in talks with Israel if a ceasefire is already in place, a senior official tells the BBC.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Melania Trump denies ties to Jeffrey Epstein and urges hearing for survivors",
-        "url": "https://www.bbc.com/news/articles/c3ex07l1qvpo?at_medium=RSS&at_campaign=rss",
-        "description": "She called rumours that Epstein introduced her to Donald Trump \"mean-spirited attempts to defame my reputation\".",
+        "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
+        "url": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
+        "description": "The killing came as ex-security chiefs warned \"government sponsored Jewish terrorism\" was out of control.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
