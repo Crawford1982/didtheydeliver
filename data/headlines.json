@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-04-10T07:26:46.133516+00:00",
+  "fetched_at": "2026-04-10T13:08:19.805914+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Starmer implies he didn’t tell Trump he was ‘fed up’ about his impact on rising UK energy bills – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/10/starmer-trump-putin-iran-war-farage-reform-latest-news-updates",
+        "description": "Prime minister says conversation with US president on Thursday night focused on need for ‘practical plan’ to open strait of HormuzTony Blair, the former Labour prime minister, has joined those sayi...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Starmer says he is ‘fed up’ with Trump and Putin’s impact on UK energy costs",
+        "url": "https://www.theguardian.com/politics/2026/apr/10/starmer-fed-up-trump-uk-politics",
+        "description": "PM appears to draw comparison between Russian and US leaders’ actions and calls for plan to restore Hormuz strait shippingUK politics live – latest updatesMiddle East crisis – live updatesKeir Star...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Could Trump be forced out of office? – podcast",
         "url": "https://www.theguardian.com/politics/audio/2026/apr/10/could-trump-be-forced-out-of-office-25th-amendment-podcast",
@@ -10,28 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Israel’s attacks on Lebanon should not be happening, says Keir Starmer",
-        "url": "https://www.theguardian.com/politics/2026/apr/09/israel-attacks-on-lebanon-should-not-be-happening-says-keir-starmer",
-        "description": "In article for Guardian, PM also calls for Iran conflict to become watershed moment for future UK securityThe Iran war is a warning: Britain must build resilience – at home and with our allies in E...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Sadiq Khan demands stronger action on social media ‘outrage economy’",
-        "url": "https://www.theguardian.com/media/2026/apr/09/sadiq-khan-london-mayor-social-media-outrage-economy",
-        "description": "Mayor says disinformation, including about London crime rates, is ‘eating away at basic bonds of trust’Sadiq Khan has called on ministers to take significantly stronger action against social media ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "'We should not be at the mercy of events abroad' - Starmer",
-        "url": "https://www.bbc.com/news/articles/cly7d9rv4nro?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister says \"shocks\" like the conflict in Iran are becoming more frequent.",
+        "title": "Iran conflict will define us for a generation, says PM",
+        "url": "https://www.bbc.com/news/articles/cr71ld371j5o?at_medium=RSS&at_campaign=rss",
+        "description": "Speaking during a three-day visit to the Middle East, the prime minister says the current ceasefire is \"fragile\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "US inflation soars in March as war on Iran drives economy into uncertainty",
+        "url": "https://www.theguardian.com/business/2026/apr/10/march-inflation-soars-iran-war-economy",
+        "description": "Prices were up 3.3% over the year, adding to the unpredictability that first came with Trump tariffsSign up for the Breaking News US email to get newsletter alerts in your inboxUS inflation soared ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Head of IMF says Iran war will permanently scar global economy even if peace is reached",
         "url": "https://www.theguardian.com/business/2026/apr/09/imf-head-kristalina-georgieva-iran-war-permanently-scar-global-economy",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Will shipping in the strait of Hormuz – and oil prices – return to normal?",
-        "url": "https://www.theguardian.com/world/2026/apr/08/will-shipping-in-the-strait-of-hormuz-and-oil-prices-return-to-normal",
-        "description": "Analysts say doubts over stability of the ceasefire and damage to production sites mean the energy crisis is far from overMiddle East crisis – live updatesIf the US-Israeli ceasefire with Iran hold...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "This coat cost $248 in illegal tariffs. Will he ever get the money back?",
-        "url": "https://www.bbc.com/news/articles/ckgr67kgvdko?at_medium=RSS&at_campaign=rss",
-        "description": "Importers are in line for tariff refunds. But whether everyone who paid the for the tariffs will get money back is a trickier question.",
+        "title": "US inflation jumps to highest level in almost two years",
+        "url": "https://www.bbc.com/news/articles/cde56g80xp5o?at_medium=RSS&at_campaign=rss",
+        "description": "A surge in prices at the pump due to the Iran war has pushed the inflation rate to 3.3%.",
         "source": "BBC News",
         "category": "economy"
       }
