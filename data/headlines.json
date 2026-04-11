@@ -1,14 +1,7 @@
 {
-  "fetched_at": "2026-04-11T12:56:21.499560+00:00",
+  "fetched_at": "2026-04-11T18:43:01.182263+00:00",
   "headlines": {
     "government": [
-      {
-        "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
-        "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
-        "description": "Concerns raised over use of travel data in determining whether people are ‘continuously’ in Britain after HMRC fiascoUK ministers are to start removing post-Brexit residency rights from EU citizens...",
-        "source": "The Guardian",
-        "category": "government"
-      },
       {
         "title": "UK forced to shelve Chagos Islands legislation after US dropped support",
         "url": "https://www.theguardian.com/world/2026/apr/11/uk-forced-to-shelve-legislation-to-return-chagos-islands-to-mauritius",
@@ -17,9 +10,16 @@
         "category": "government"
       },
       {
-        "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’",
-        "url": "https://www.theguardian.com/politics/2026/apr/10/reform-uk-local-election-candidate-was-twice-disciplined-by-tories-over-alleged-racist-comments",
-        "description": "Conservatives disowned Derek Bullock in 2023 after he allegedly used racial slur to call for people of Pakistani heritage to be shotA Reform UK candidate for next month’s council elections was twic...",
+        "title": "Tories would reinstate two-child benefit cap to fund defence, says Badenoch",
+        "url": "https://www.theguardian.com/politics/2026/apr/11/tories-reinstate-two-child-benefit-cap-fund-defence-kemi-badenoch",
+        "description": "Conservative leader promises biggest peacetime rearmament effort in UK history if her party is re-electedThe Conservatives would reinstate the two-child benefit cap and use the savings for a wide-r...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
+        "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
+        "description": "Concerns raised over use of travel data in determining if people are ‘continuously’ in Britain after HMRC fiascoUK ministers are to start removing post-Brexit residency rights from EU citizens who ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -93,16 +93,16 @@
     ],
     "immigration": [
       {
-        "title": "Man arrested after four die trying to cross Channel in small boat",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/10/man-arrested-four-die-channel-crossing-small-boat",
-        "description": "Two men and two women were swept away by currents while attempting to board dinghy off French coastA man has been arrested on suspicion of endangering life after four people died in a small boat Ch...",
+        "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
+        "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
+        "description": "Concerns raised over use of travel data in determining if people are ‘continuously’ in Britain after HMRC fiascoUK ministers are to start removing post-Brexit residency rights from EU citizens who ...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
-        "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
-        "description": "Concerns raised over use of travel data in determining whether people are ‘continuously’ in Britain after HMRC fiascoUK ministers are to start removing post-Brexit residency rights from EU citizens...",
+        "title": "Man arrested after four die trying to cross Channel in small boat",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/10/man-arrested-four-die-channel-crossing-small-boat",
+        "description": "Two men and two women were swept away by currents while attempting to board dinghy off French coastA man has been arrested on suspicion of endangering life after four people died in a small boat Ch...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Final push for votes as challenger to Hungary's Orbán senses victory",
-        "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
-        "description": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Artemis II mission was a triumph - now comes the hard part",
-        "url": "https://www.bbc.com/news/articles/cj0v119zp19o?at_medium=RSS&at_campaign=rss",
-        "description": "The mission was almost flawless but there are considerable obstacles ahead before a Moon landing.",
+        "title": "Artemis crew home safely after completing historic mission to the Moon",
+        "url": "https://www.bbc.com/news/articles/cr51z54d5rpo?at_medium=RSS&at_campaign=rss",
+        "description": "Four astronauts splashed down in the Pacific after a nine-day voyage that took them further from Earth than any humans.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
         "title": "Frontrunner for California governor denies sexual assault allegations",
         "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
-        "description": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
+        "description": "The Democratic congressman, a leading candidate in the race, has strongly denied the accusations saying he will fight with \"facts\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Nearly 400 sentenced in Nigeria for links to militant Islamists",
+        "url": "https://www.bbc.com/news/articles/cvge1kdmpzwo?at_medium=RSS&at_campaign=rss",
+        "description": "Judges handed down sentences ranging from five years to life imprisonment following mass trials.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
