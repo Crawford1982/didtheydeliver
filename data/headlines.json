@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-04-11T07:00:25.095249+00:00",
+  "fetched_at": "2026-04-11T12:56:21.499560+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
+        "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
+        "description": "Concerns raised over use of travel data in determining whether people are ‘continuously’ in Britain after HMRC fiascoUK ministers are to start removing post-Brexit residency rights from EU citizens...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK forced to shelve Chagos Islands legislation after US dropped support",
+        "url": "https://www.theguardian.com/world/2026/apr/11/uk-forced-to-shelve-legislation-to-return-chagos-islands-to-mauritius",
+        "description": "Officials accept that time has run out to pass law to allow transfer of islands to MauritiusThe UK government has been forced to shelve its legislation to hand the Chagos Islands to Mauritius, afte...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Reform UK local election candidate was twice disciplined by Tories over ‘racist comments’",
         "url": "https://www.theguardian.com/politics/2026/apr/10/reform-uk-local-election-candidate-was-twice-disciplined-by-tories-over-alleged-racist-comments",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Remaining in Nato is in best interests of US, says Keir Starmer",
-        "url": "https://www.theguardian.com/world/2026/apr/10/remaining-in-nato-alliance-us-interests-keir-starmer",
-        "description": "PM pushes back after Trump’s threats to leave alliance and says European members must do more in light of Iran warKeir Starmer has said it is in the best interests of the US to stay in Nato and tha...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour MPs propose specialist sexual offences courts to help trials backlog",
-        "url": "https://www.theguardian.com/law/2026/apr/10/labour-mps-propose-specialist-sexual-offences-courts-to-help-trials-backlog",
-        "description": "Rebels put forward amendments to courts bill in attempt to stop government plans to cut back on jury trialsLabour MPs are hoping to hijack plans to cut back on jury trials in England and Wales by p...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Iran conflict will define us for a generation, says PM",
-        "url": "https://www.bbc.com/news/articles/cr71ld371j5o?at_medium=RSS&at_campaign=rss",
-        "description": "Speaking during a three-day visit to the Middle East, the prime minister says the current ceasefire is \"fragile\".",
+        "title": "UK shelves Chagos deal after Trump opposition",
+        "url": "https://www.bbc.com/news/articles/c04x1lg1lygo?at_medium=RSS&at_campaign=rss",
+        "description": "UK government officials say they are not entirely abandoning the agreement but have run out of time.",
         "source": "BBC News",
         "category": "government"
       }
@@ -56,7 +56,7 @@
       {
         "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
         "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
-        "description": "The trade body for European airports said if the Strait of Hormuz did not open in the next three weeks, there could be shortages.",
+        "description": "Airports Council International (ACI) Europe said its members had \"increasing concerns\" about the availability of jet fuel.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -102,7 +102,7 @@
       {
         "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
         "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
-        "description": "Concerns raised over use of travel data in determining whether people are ‘continuously’ in UK, after HMRC fiasco UK ministers are to start removing post-Brexit residency rights from EU citizens wh...",
+        "description": "Concerns raised over use of travel data in determining whether people are ‘continuously’ in Britain after HMRC fiascoUK ministers are to start removing post-Brexit residency rights from EU citizens...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Student loan interest could rise despite cap on rates",
+        "url": "https://www.theguardian.com/money/2026/apr/11/student-loan-interest-rise-despite-uk-cap-rates-inflation",
+        "description": "Temporary limit in England and Wales won’t stop many facing higher charges from autumn due to jump in inflation from Iran warGovernment caps some student loan interest at 6%Some students and gradua...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Weekend students at 15 universities in England told to return loans and grants",
         "url": "https://www.theguardian.com/education/2026/apr/09/weekend-students-at-15-universities-in-england-told-to-return-loans-and-grants",
         "description": "Student Finance England tells about 22,000 students their universities wrongly told them they were eligibleMore than 20,000 university students in England who received government maintenance loans ...",
@@ -158,16 +165,16 @@
         "description": "High levels of borrowing and rapid expansion among dangers identified by Higher Education Policy InstituteMany English universities are taking excessive financial risks that threaten not only their...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "‘Masquerading as a university’: inside the brazen rightwing plan to conquer American schools",
-        "url": "https://www.theguardian.com/education/ng-interactive/2026/apr/08/prageru-university-conservatism",
-        "description": "As teachers eagerly adopt its free lesson plans and the White House boosts its videos, PragerU is intent on one goal: attracting young people to conservatismIn the fall of 2013, a silver-haired con...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "The hill I will die on: Yes, money can buy you happiness – if you spend it right | Eleanor Margolis",
+        "url": "https://www.theguardian.com/commentisfree/2026/apr/11/hill-i-will-die-on-many-can-buy-you-happiness",
+        "description": "For the super-rich with cash to burn, all those Rolexes and rare Labubus may not fill the void. But for me, a little goes a long wayWhen wages have stalled for nearly 20 years and I recently came f...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Starmer implies he didn’t tell Trump he was ‘fed up’ about his impact on rising UK energy bills – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/apr/10/starmer-trump-putin-iran-war-farage-reform-latest-news-updates",
@@ -181,25 +188,11 @@
         "description": "Prime minister has been in talks with Saudi crown prince and UAE president today In interviews this morning Yvette Cooper, the foreign secretary, declined to confirm reports that a Russian warship ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "‘The danger and value of water are in my blood’: how rain fences are making Dutch homes more climate resilient",
-        "url": "https://www.theguardian.com/environment/2026/apr/09/rain-fences-dutch-homes-climate-resilient",
-        "description": "Housing corporations are adopting rainwater storage in garden fences, reducing pressure during downpours and preserving water for times of droughtGood fences make good neighbours – but rain fences ...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Lyse Doucet: Historic US-Iran talks must bridge deep distrust",
-        "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
-        "description": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Final push for votes as challenger to Hungary's Orbán scents victory",
+        "title": "Final push for votes as challenger to Hungary's Orbán senses victory",
         "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
         "description": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.",
         "source": "BBC News",
@@ -209,6 +202,13 @@
         "title": "Artemis II mission was a triumph - now comes the hard part",
         "url": "https://www.bbc.com/news/articles/cj0v119zp19o?at_medium=RSS&at_campaign=rss",
         "description": "The mission was almost flawless but there are considerable obstacles ahead before a Moon landing.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Frontrunner for California governor denies sexual assault allegations",
+        "url": "https://www.bbc.com/news/articles/c20qg3g9554o?at_medium=RSS&at_campaign=rss",
+        "description": "The congressman is a leading Democratic candidate who is now facing calls to drop out of the race.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
