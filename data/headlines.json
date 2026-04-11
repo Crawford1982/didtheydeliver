@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-10T18:51:33.123989+00:00",
+  "fetched_at": "2026-04-11T02:08:30.740376+00:00",
   "headlines": {
     "government": [
       {
@@ -100,9 +100,9 @@
         "category": "immigration"
       },
       {
-        "title": "Home Office starts crackdown on EU citizens’ post-Brexit rights to live in UK",
+        "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
         "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
-        "description": "Concerns raised over use of travel data in determining whether people are ‘continuously’ in UK, after HMRC fiasco Ministers are to start removing post-Brexit residency rights from EU citizens who a...",
+        "description": "Concerns raised over use of travel data in determining whether people are ‘continuously’ in UK, after HMRC fiasco UK ministers are to start removing post-Brexit residency rights from EU citizens wh...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "How the Artemis crew will splash down on Earth",
-        "url": "https://www.bbc.com/news/videos/cn431g7v52qo?at_medium=RSS&at_campaign=rss",
-        "description": "The Artemis crew will return to Earth on 10 April after a 10-day mission that took them around the Moon.",
+        "title": "Back to Earth: What happens to the Artemis II astronauts now?",
+        "url": "https://www.bbc.com/news/articles/cpwjvgv2d4no?at_medium=RSS&at_campaign=rss",
+        "description": "The astronauts will have medical checks and will be reunited with their families.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
-        "url": "https://www.bbc.com/news/articles/cge0xre3d27o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
+        "title": "Historic Vance-Ghalibaf talks must bridge deep distrust",
+        "url": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
+        "description": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Lebanon says ceasefire must be in place before Israel talks",
+        "title": "Final push for votes as challenger to Hungary's Orbán scents victory",
+        "url": "https://www.bbc.com/news/articles/c0q9527y41lo?at_medium=RSS&at_campaign=rss",
+        "description": "As Péter Magyar's opposition movement leads in the polls, tens of thousands of anti-Orbán supporters fill Heroes' Square in Budapest.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Lebanon and Israel officials to meet in US on Tuesday",
         "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
-        "description": "Lebanon will only take part in talks with Israel if a ceasefire is already in place, a senior official tells the BBC.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
-        "url": "https://www.bbc.com/news/articles/czrekrzzex1o?at_medium=RSS&at_campaign=rss",
-        "description": "The killing came as ex-security chiefs warned \"government sponsored Jewish terrorism\" was out of control.",
+        "description": "A senior Lebanese official earlier told the BBC that Lebanon would only take part in talks if a ceasefire was in place.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
