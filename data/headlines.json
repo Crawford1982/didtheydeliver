@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-12T12:59:57.459889+00:00",
+  "fetched_at": "2026-04-12T18:48:49.458387+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Home Office to announce closure of 11 asylum hotels in next week",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/12/asylum-seeker-hotels-closures-home-office",
-        "description": "Exclusive: closures are part of pledge by Labour to end all use of hotels for asylum seekers by end of this parliamentThe Home Office is to announce the closure of 11 asylum hotels this week as par...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Wes Streeting attacks Trump’s ‘outrageous’ Iran war rhetoric",
+        "title": "UK will not join any Trump blockade of strait of Hormuz",
         "url": "https://www.theguardian.com/world/2026/apr/12/wes-streeting-attacks-trump-outrageous-iran-war-rhetoric",
-        "description": "Health secretary says failure of peace talks disappointing and UK-US relations have undoubtedly been strainedMiddle East crisis – live updatesWes Streeting has criticised Donald Trump’s rhetoric on...",
+        "description": "UK’s willingness to consider role in removing mines from strait is seen as distinct from Trump’s blockade proposalMiddle East crisis – live updatesThe UK will not be involved in any blockade of the...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK forced to shelve Chagos Islands legislation after US dropped support",
-        "url": "https://www.theguardian.com/world/2026/apr/11/uk-forced-to-shelve-legislation-to-return-chagos-islands-to-mauritius",
-        "description": "Officials accept that time has run out to pass law to allow transfer of islands to MauritiusThe UK government has been forced to shelve its legislation to hand the Chagos Islands to Mauritius, afte...",
+        "title": "Britain could adopt single market rules without MPs’ vote as part of UK-EU reset",
+        "url": "https://www.theguardian.com/politics/2026/apr/12/britain-single-market-rules-uk-eu-reset",
+        "description": "Exclusive: Ministers planning new legislation for alignment without full parliamentary scrutiny if in national interestMinisters are planning to fundamentally reshape Britain’s relationship with th...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Mauritius vows to ‘decolonise’ Chagos Islands after Starmer shelves handover",
+        "url": "https://www.theguardian.com/world/2026/apr/12/mauritius-vows-decolonise-chagos-islands-starmer-shelves-handover",
+        "description": "Mauritian foreign minister pledges to ‘spare no effort’ to regain control of islands, as US fails to give approval of deal A senior official in Mauritius’ government has vowed that the Chagos Islan...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Collapse of US-Iran talks heightens fears of prolonged energy shock",
+        "url": "https://www.theguardian.com/business/2026/apr/12/collapse-us-iran-talks-energy-shock-oil-prices",
+        "description": "Oil prices and borrowing costs are expected to rise this week as tankers remain stranded in the GulfMiddle East crisis live – latest updatesThe failure of the US and Iran to reach a peace deal afte...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Trump’s new budget ignores dying Americans and gives away record sums to the US military",
         "url": "https://www.theguardian.com/us-news/2026/apr/12/trump-budget-healthcare-military",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "US inflation soars in March as war on Iran drives economy into uncertainty",
-        "url": "https://www.theguardian.com/business/2026/apr/10/march-inflation-soars-iran-war-economy",
-        "description": "Prices were up 3.3% over the year, adding to the unpredictability that first came with Trump tariffsSign up for the Breaking News US email to get newsletter alerts in your inboxUS inflation soared ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Faisal Islam: Why the government is relaxed about Chinese car imports",
         "url": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss",
         "description": "The UK government believes the rise of China's car industry could be good for UK consumers and industry.",
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "Votes for populist parties in May elections will put NHS at risk, Streeting says",
+        "url": "https://www.theguardian.com/politics/2026/apr/12/voting-populist-parties-local-elections-nhs-risk-wes-streeting",
+        "description": "Exclusive: Health secretary warns of dangers of protest vote as he pitches NHS as key elections battlegroundVoters in May’s local and devolved elections risk putting the NHS in jeopardy if they vot...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Doctors’ leader claims new reduced pay offer killed chances of ending strikes in England",
         "url": "https://www.theguardian.com/society/2026/apr/10/resident-doctors-leader-reduced-pay-offer-killed-chances-ending-strikes",
@@ -73,13 +80,6 @@
         "title": "Both doctors and the government are handling this strike badly – that’s why there is no end in sight | Polly Toynbee",
         "url": "https://www.theguardian.com/commentisfree/2026/apr/10/doctors-government-dispute-bma-labour-nhs",
         "description": "With the BMA making ‘impossible’ demands and Labour responding with Trumpian threats, negotiations are stuck – and it’s the NHS that will sufferWhat’s the off-ramp? When I ask one of the negotiatin...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Alarm in health service over Palantir staff being given NHS email accounts",
-        "url": "https://www.theguardian.com/society/2026/apr/08/alarm-health-service-palantir-staff-nhs-email-accounts",
-        "description": "Exclusive: Sources believe AI tech company’s engineers have been granted access to directory of up to 1.5m staffHealth service staff have expressed alarm that engineers working for controversial te...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -192,16 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "After Iran talks falter, will Trump escalate or negotiate?",
-        "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
-        "description": "The world waits for Trump's verdict after the talks failed to yield a deal, writes the BBC's Lyse Doucet.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival",
-        "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
-        "description": "Most polls favour Péter Magyar, who fronts a grassroots party, and early figures point to a record turnout of voters.",
+        "title": "Trump's Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged",
+        "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
+        "description": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -209,6 +202,13 @@
         "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
         "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
         "description": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Civilians feared killed after reports of air strike on Nigerian market",
+        "url": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
+        "description": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
