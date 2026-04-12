@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-12T02:31:18.430560+00:00",
+  "fetched_at": "2026-04-12T07:13:06.342943+00:00",
   "headlines": {
     "government": [
       {
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
-        "url": "https://www.bbc.com/news/articles/c3w37ggp011o?at_medium=RSS&at_campaign=rss",
-        "description": "Airports Council International (ACI) Europe said its members had \"increasing concerns\" about the availability of jet fuel.",
+        "title": "Faisal Islam: Why the government is relaxed about Chinese car imports",
+        "url": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss",
+        "description": "The UK government believes the rise of China's car industry could be good for UK consumers and industry.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "‘We’re trapped’: despair for sellers as Iran war knocks confidence in UK housing market",
+        "url": "https://www.theguardian.com/money/2026/apr/12/trapped-despair-sellers-as-iran-war-knocks-uk-housing-market",
+        "description": "Estate agents say rising mortgage costs have created a mood of fear, with Canterbury among the cities being hitHave you lost a mortgage deal or seen your rate rise?On a warm, spring morning in Cant...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Canada slashed migration and housing costs dropped. There may be lessons for Australia",
         "url": "https://www.theguardian.com/world/2026/apr/12/canada-migration-levels-housing-costs-australia-ntwnfb",
         "description": "While rising vacancy rates caused a dip in rents and home prices, it hasn’t solved Canada’s chronically unaffordable property marketCanada’s decision to radically cut migration levels and slash the...",
@@ -179,13 +186,6 @@
         "title": "The hill I will die on: Yes, money can buy you happiness – if you spend it right | Eleanor Margolis",
         "url": "https://www.theguardian.com/commentisfree/2026/apr/11/hill-i-will-die-on-many-can-buy-you-happiness",
         "description": "For the super-rich with cash to burn, all those Rolexes and rare Labubus may not fill the void. But for me, a little goes a long wayWhen wages have stalled for nearly 20 years and I recently came f...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Starmer implies he didn’t tell Trump he was ‘fed up’ about his impact on rising UK energy bills – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/10/starmer-trump-putin-iran-war-farage-reform-latest-news-updates",
-        "description": "Prime minister says conversation with US president on Thursday night focused on need for ‘practical plan’ to open strait of HormuzTony Blair, the former Labour prime minister, has joined those sayi...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "'It's a special thing to be on Planet Earth': Artemis crew welcomed home in Houston",
-        "url": "https://www.bbc.com/news/videos/cd7jzj9rg1qo?at_medium=RSS&at_campaign=rss",
-        "description": "The four astronauts flew around the Moon in a nine-day voyage that took them further from Earth than any humans in history.",
+        "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+        "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+        "description": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Why this disillusioned Trump voter spends hours searching Epstein files",
-        "url": "https://www.bbc.com/news/articles/cx237vmr2lyo?at_medium=RSS&at_campaign=rss",
-        "description": "Many who support the president have expressed frustration with how Trump's former attorney general Pam Bondi handled the Epstein files.",
+        "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
+        "url": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
+        "description": "The high-profile Democrat, a leading contender in California's governor race, firmly denies the accusations.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
