@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-04-12T07:13:06.342943+00:00",
+  "fetched_at": "2026-04-12T12:59:57.459889+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Home Office to announce closure of 11 asylum hotels in next week",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/12/asylum-seeker-hotels-closures-home-office",
+        "description": "Exclusive: closures are part of pledge by Labour to end all use of hotels for asylum seekers by end of this parliamentThe Home Office is to announce the closure of 11 asylum hotels this week as par...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Wes Streeting attacks Trump’s ‘outrageous’ Iran war rhetoric",
+        "url": "https://www.theguardian.com/world/2026/apr/12/wes-streeting-attacks-trump-outrageous-iran-war-rhetoric",
+        "description": "Health secretary says failure of peace talks disappointing and UK-US relations have undoubtedly been strainedMiddle East crisis – live updatesWes Streeting has criticised Donald Trump’s rhetoric on...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK forced to shelve Chagos Islands legislation after US dropped support",
         "url": "https://www.theguardian.com/world/2026/apr/11/uk-forced-to-shelve-legislation-to-return-chagos-islands-to-mauritius",
@@ -10,46 +24,32 @@
         "category": "government"
       },
       {
-        "title": "Tories would reinstate two-child benefit cap to fund defence, says Badenoch",
-        "url": "https://www.theguardian.com/politics/2026/apr/11/tories-reinstate-two-child-benefit-cap-fund-defence-kemi-badenoch",
-        "description": "Conservative leader promises biggest peacetime rearmament effort in UK history if her party is re-electedThe Conservatives would reinstate the two-child benefit cap and use the savings for a wide-r...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
-        "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
-        "description": "Concerns raised over use of travel data in determining if people are ‘continuously’ in Britain after HMRC fiascoUK ministers are to start removing post-Brexit residency rights from EU citizens who ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK shelves Chagos deal after Trump opposition",
-        "url": "https://www.bbc.com/news/articles/c04x1lg1lygo?at_medium=RSS&at_campaign=rss",
-        "description": "UK government officials say they are not entirely abandoning the agreement but have run out of time.",
+        "title": "Starmer urges US and Iran to 'find way through' after peace talks falter",
+        "url": "https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister warns the US and Iran against \"escalation\", as negotiations end without agreement.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "Trump’s new budget ignores dying Americans and gives away record sums to the US military",
+        "url": "https://www.theguardian.com/us-news/2026/apr/12/trump-budget-healthcare-military",
+        "description": "President’s proposed budget slashes health department by 12% while throwing $1.5tn – a 42% increase – to the militaryAmericans are dying in droves. Deaths due to avoidable causes in the United Stat...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Task for the week: limit the fallout from biggest oil shock in decades | Richard Partington",
+        "url": "https://www.theguardian.com/business/2026/apr/12/iran-war-oil-energy-prices-inflation-washington-world-bank-imf",
+        "description": "As World Bank and IMF chiefs gather in Washington, the Iran war is driving up energy prices, fuelling inflation and testing voters’ patienceThe world’s finance ministers and central bank governors ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "US inflation soars in March as war on Iran drives economy into uncertainty",
         "url": "https://www.theguardian.com/business/2026/apr/10/march-inflation-soars-iran-war-economy",
         "description": "Prices were up 3.3% over the year, adding to the unpredictability that first came with Trump tariffsSign up for the Breaking News US email to get newsletter alerts in your inboxUS inflation soared ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Head of IMF says Iran war will permanently scar global economy even if peace is reached",
-        "url": "https://www.theguardian.com/business/2026/apr/09/imf-head-kristalina-georgieva-iran-war-permanently-scar-global-economy",
-        "description": "Kristalina Georgieva says even ‘most hopeful scenario’ will lead to growth downgrade and cause permanent hit to living standardsThe head of the International Monetary Fund has warned that the Iran ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Relief in financial markets after Iran ceasefire – but it is far from absolute | Richard Partington",
-        "url": "https://www.theguardian.com/world/2026/apr/08/relief-financial-markets-iran-ceasefire-far-from-absolute",
-        "description": "Situation still volatile as Tehran and Washington issue conflicting messages about opening of Hormuz channelA plunge in the oil price, stock market rally and renewed hopes for the global economic o...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
+        "title": "Home Office to announce closure of 11 asylum hotels in next week",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/12/asylum-seeker-hotels-closures-home-office",
+        "description": "Exclusive: closures are part of pledge by Labour to end all use of hotels for asylum seekers by end of this parliamentThe Home Office is to announce the closure of 11 asylum hotels this week as par...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "My Uncle Is Not Pablo Escobar review – colourful Latinx bank drama loses sting",
+        "url": "https://www.theguardian.com/stage/2026/apr/12/my-uncle-is-not-pablo-escobar-review-brixton-house-london-latinx-bank-sting",
+        "description": "Brixton House, London Five writers contribute fizzing ideas aplenty to this play exploring questions of Latinx identity in Britain, while also attempting to deliver an undercover dramaThere’s no sh...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
         "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
         "description": "Concerns raised over use of travel data in determining if people are ‘continuously’ in Britain after HMRC fiascoUK ministers are to start removing post-Brexit residency rights from EU citizens who ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Man arrested after four die trying to cross Channel in small boat",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/10/man-arrested-four-die-channel-crossing-small-boat",
-        "description": "Two men and two women were swept away by currents while attempting to board dinghy off French coastA man has been arrested on suspicion of endangering life after four people died in a small boat Ch...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Starmer says talks with Gulf leaders have reinforced sense Iran war ceasefire is ‘fragile’ – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/09/iran-yvette-cooper-starmer-gulf-green-polanski-elections-housing-latest-news-updates",
-        "description": "Prime minister has been in talks with Saudi crown prince and UAE president today In interviews this morning Yvette Cooper, the foreign secretary, declined to confirm reports that a Russian warship ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "‘I feel helpless’: college graduates can’t find entry-level roles in shrinking market amid rise of AI",
+        "url": "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai",
+        "description": "Young American graduates expressed frustration over fewer job openings and longer searchesSign up for the Breaking News US email to get newsletter alerts in your inboxAmerican college graduates are...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Student loan interest could rise despite cap on rates",
         "url": "https://www.theguardian.com/money/2026/apr/11/student-loan-interest-rise-despite-uk-cap-rates-inflation",
         "description": "Temporary limit in England and Wales won’t stop many facing higher charges from autumn due to jump in inflation from Iran warGovernment caps some student loan interest at 6%Some students and gradua...",
@@ -158,16 +165,16 @@
         "description": "Student Finance England tells about 22,000 students their universities wrongly told them they were eligibleMore than 20,000 university students in England who received government maintenance loans ...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "‘Excessive’ financial risks threaten survival of many English universities, report warns",
-        "url": "https://www.theguardian.com/education/2026/apr/09/english-universities-excessive-financial-risks-survival-warns-thinktank",
-        "description": "High levels of borrowing and rapid expansion among dangers identified by Higher Education Policy InstituteMany English universities are taking excessive financial risks that threaten not only their...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "‘Reverse-gentrify the country’: how Black and Indigenous intentional communities are reclaiming land",
+        "url": "https://www.theguardian.com/us-news/2026/apr/12/black-indigenous-ecovillage-community-reclaim-land",
+        "description": "From California to Alabama, people of color are building communal spaces rooted in care and traditionZappa Montag steps outside his home to a thicket of redwoods, Pacific madrones and oak trees. Do...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "‘We’re trapped’: despair for sellers as Iran war knocks confidence in UK housing market",
         "url": "https://www.theguardian.com/money/2026/apr/12/trapped-despair-sellers-as-iran-war-knocks-uk-housing-market",
@@ -181,34 +188,27 @@
         "description": "While rising vacancy rates caused a dip in rents and home prices, it hasn’t solved Canada’s chronically unaffordable property marketCanada’s decision to radically cut migration levels and slash the...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "The hill I will die on: Yes, money can buy you happiness – if you spend it right | Eleanor Margolis",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/11/hill-i-will-die-on-many-can-buy-you-happiness",
-        "description": "For the super-rich with cash to burn, all those Rolexes and rare Labubus may not fill the void. But for me, a little goes a long wayWhen wages have stalled for nearly 20 years and I recently came f...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Hungarians decide whether to end 16 years of Orbán rule and elect rival",
+        "title": "After Iran talks falter, will Trump escalate or negotiate?",
+        "url": "https://www.bbc.com/news/articles/c5y943x2g8qo?at_medium=RSS&at_campaign=rss",
+        "description": "The world waits for Trump's verdict after the talks failed to yield a deal, writes the BBC's Lyse Doucet.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Hungarians vote in big numbers on whether to end Orbán rule and elect rival",
         "url": "https://www.bbc.com/news/articles/cdxdepjrv95o?at_medium=RSS&at_campaign=rss",
-        "description": "Most polls favour Péter Magyar, who fronts a grassroots party, but PM Viktor Orbán has been in a defiant mood.",
+        "description": "Most polls favour Péter Magyar, who fronts a grassroots party, and early figures point to a record turnout of voters.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
-        "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
-        "description": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Prosecutor probes abuse claims against California governor candidate Swalwell",
-        "url": "https://www.bbc.com/news/articles/c7vq0jnn0yro?at_medium=RSS&at_campaign=rss",
-        "description": "The high-profile Democrat, a leading contender in California's governor race, firmly denies the accusations.",
+        "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
+        "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
+        "description": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
