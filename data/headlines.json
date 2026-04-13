@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-04-13T02:36:24.519306+00:00",
+  "fetched_at": "2026-04-13T08:02:03.655131+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "More than a fifth of UK’s ‘austerity children’ scarred by poverty, study says",
+        "url": "https://www.theguardian.com/society/2026/apr/13/uk-austerity-children-scarred-poverty-study-conservatives",
+        "description": "Researchers say hardship is a direct legacy of welfare benefit cuts imposed by Tory governments in recent years More than a fifth of all “austerity generation” British children have been scarred by...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Private firms providing services to NHS made £1.6bn profit in two years, research finds",
+        "url": "https://www.theguardian.com/society/2026/apr/13/private-companies-nhs-services-profit-chpi-research",
+        "description": "Exclusive: MPs say profit-making levels in England are ‘scandalous’ and call for cap on amount private companies can make from NHSPrivate firms providing services to the NHS including healthcare an...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Thousands of unpaid carers to face DWP repayment demands during overhaul",
         "url": "https://www.theguardian.com/society/2026/apr/13/unpaid-carers-allowance-dwp-benefit-repayment-demands",
@@ -10,46 +24,32 @@
         "category": "government"
       },
       {
-        "title": "Fried nuggets and steamed sponges off menu in school food overhaul in England",
-        "url": "https://www.theguardian.com/education/2026/apr/12/school-food-overhaul-england-fried-nuggets-steamed-sponges",
-        "description": "Campaigners welcome first update of school food standards in 13 years, which aims to help lower obesity ratesThe government is to announce an overhaul to school food standards in England that will ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK will not join any Trump blockade of strait of Hormuz",
-        "url": "https://www.theguardian.com/world/2026/apr/12/wes-streeting-attacks-trump-outrageous-iran-war-rhetoric",
-        "description": "UK’s willingness to consider role in removing mines from strait is seen as distinct from Trump’s blockade proposalMiddle East crisis – live updatesThe UK will not be involved in any blockade of the...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer urges US and Iran to 'find way through' after peace talks falter",
-        "url": "https://www.bbc.com/news/articles/c3dlmdl1v57o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister warns the US and Iran against \"escalation\", as negotiations end without agreement.",
+        "title": "UK will not join Trump's blockade of Iran's ports in the Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&at_campaign=rss",
+        "description": "UK minesweepers and anti-drone capabilities will continue operating in the region, as pressure ramps up to reopen the key shipping route.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Bernie Sanders warns ‘worst is yet to come’ in rallying cry against billionaires",
-        "url": "https://www.theguardian.com/us-news/2026/apr/13/bernie-sanders-warns-worst-is-yet-to-come-in-rallying-cry-against-billionaires",
-        "description": "US senator appears at Manhattan rally alongside New York City mayor Zohran Mamdani, who cautioned that AI is ‘coming for human jobs’Bernie Sanders has sounded an alarm over the US economy, warning ...",
+        "title": "Oil price tops $100 a barrel again after Trump announces strait of Hormuz blockade – business live",
+        "url": "https://www.theguardian.com/business/live/2026/apr/13/oil-price-barrel-trump-naval-blockade-strait-of-hormuz-stock-markets-ftse-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsStrait of Hormuz blockade explained: why is Trump threatening it now and will it increase the price of oil?Shares in European airlines are ...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Collapse of US-Iran talks heightens fears of prolonged energy shock",
-        "url": "https://www.theguardian.com/business/2026/apr/12/collapse-us-iran-talks-energy-shock-oil-prices",
-        "description": "Oil prices and borrowing costs are expected to rise this week as tankers remain stranded in the GulfMiddle East crisis live – latest updatesThe failure of the US and Iran to reach a peace deal afte...",
+        "title": "Oil price tops $100 a barrel after US-Iran talks fail and Trump orders strait of Hormuz blockade",
+        "url": "https://www.theguardian.com/business/2026/apr/13/oil-price-tops-100-dollars-barrel-us-blockade-strait-of-hormuz",
+        "description": "US Navy to impose blockade today in bid to choke off flow of Iranian oil Explainer: strait of Hormuz blockadeBusiness live – latest updatesOil prices have jumped back above $100 a barrel after week...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Trump’s new budget ignores dying Americans and gives away record sums to the US military",
-        "url": "https://www.theguardian.com/us-news/2026/apr/12/trump-budget-healthcare-military",
-        "description": "President’s proposed budget slashes health department by 12% while throwing $1.5tn – a 42% increase – to the militaryAmericans are dying in droves. Deaths due to avoidable causes in the United Stat...",
+        "title": "Iran war could plunge 32 million into poverty, says United Nations",
+        "url": "https://www.theguardian.com/society/2026/apr/13/iran-conflict-poverty-united-nations-development-reverse",
+        "description": "‘Development in reverse’ taking place involving rising energy and food costs and weaker economic growthMore than 32 million people worldwide could be plunged into poverty by the economic fallout fr...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Private firms providing services to NHS made £1.6bn profit in two years, research finds",
+        "url": "https://www.theguardian.com/society/2026/apr/13/private-companies-nhs-services-profit-chpi-research",
+        "description": "Exclusive: MPs say profit-making levels in England are ‘scandalous’ and call for cap on amount private companies can make from NHSPrivate firms providing services to the NHS including healthcare an...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Votes for populist parties in May elections will put NHS at risk, Streeting says",
         "url": "https://www.theguardian.com/politics/2026/apr/12/voting-populist-parties-local-elections-nhs-risk-wes-streeting",
         "description": "Exclusive: Health secretary warns of dangers of protest vote as he pitches NHS as key elections battlegroundVoters in May’s local and devolved elections risk putting the NHS in jeopardy if they vot...",
@@ -73,13 +80,6 @@
         "title": "Doctors’ leader claims new reduced pay offer killed chances of ending strikes in England",
         "url": "https://www.theguardian.com/society/2026/apr/10/resident-doctors-leader-reduced-pay-offer-killed-chances-ending-strikes",
         "description": "Exclusive: Deal for resident doctors was in sight when sudden change by ministers forced latest action, says Jack FletcherMinisters killed the chance to end strikes by resident doctors when they su...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Both doctors and the government are handling this strike badly – that’s why there is no end in sight | Polly Toynbee",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/10/doctors-government-dispute-bma-labour-nhs",
-        "description": "With the BMA making ‘impossible’ demands and Labour responding with Trumpian threats, negotiations are stuck – and it’s the NHS that will sufferWhat’s the off-ramp? When I ask one of the negotiatin...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Back to Earth: What happens to the Artemis II astronauts now?",
-        "url": "https://www.bbc.com/news/articles/cpwjvgv2d4no?at_medium=RSS&at_campaign=rss",
-        "description": "The astronauts will have medical checks and will be reunited with their families.",
+        "title": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
+        "url": "https://www.bbc.com/news/articles/clyrdkxvmmpo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Science Editor Rebecca Morelle reflects on how it felt to watch history being made.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -194,21 +194,21 @@
       {
         "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
         "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
-        "description": "Viktor Orbán's 16 years in power is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+        "description": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
+        "title": "Viktor Orbán's Hungarian experiment runs out of steam",
+        "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss",
+        "description": "Péter Magyar's historic win offers peace for a country exhausted by the tensions of Viktor Orbán's rule,  Nick Thorpe reports from Budapest.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Trump's threat raises risks and leaves predicaments unchanged",
         "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
         "description": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
-        "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
-        "description": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
