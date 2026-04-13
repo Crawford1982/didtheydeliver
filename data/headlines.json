@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-12T18:48:49.458387+00:00",
+  "fetched_at": "2026-04-13T02:36:24.519306+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Thousands of unpaid carers to face DWP repayment demands during overhaul",
+        "url": "https://www.theguardian.com/society/2026/apr/13/unpaid-carers-allowance-dwp-benefit-repayment-demands",
+        "description": "Ministers admit carer’s allowance penalties will continue while review of more than 200,000 cases is carried outThousands of unpaid carers will continue to be hit with hefty and potentially unfair ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Fried nuggets and steamed sponges off menu in school food overhaul in England",
+        "url": "https://www.theguardian.com/education/2026/apr/12/school-food-overhaul-england-fried-nuggets-steamed-sponges",
+        "description": "Campaigners welcome first update of school food standards in 13 years, which aims to help lower obesity ratesThe government is to announce an overhaul to school food standards in England that will ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK will not join any Trump blockade of strait of Hormuz",
         "url": "https://www.theguardian.com/world/2026/apr/12/wes-streeting-attacks-trump-outrageous-iran-war-rhetoric",
         "description": "UK’s willingness to consider role in removing mines from strait is seen as distinct from Trump’s blockade proposalMiddle East crisis – live updatesThe UK will not be involved in any blockade of the...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Britain could adopt single market rules without MPs’ vote as part of UK-EU reset",
-        "url": "https://www.theguardian.com/politics/2026/apr/12/britain-single-market-rules-uk-eu-reset",
-        "description": "Exclusive: Ministers planning new legislation for alignment without full parliamentary scrutiny if in national interestMinisters are planning to fundamentally reshape Britain’s relationship with th...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Mauritius vows to ‘decolonise’ Chagos Islands after Starmer shelves handover",
-        "url": "https://www.theguardian.com/world/2026/apr/12/mauritius-vows-decolonise-chagos-islands-starmer-shelves-handover",
-        "description": "Mauritian foreign minister pledges to ‘spare no effort’ to regain control of islands, as US fails to give approval of deal A senior official in Mauritius’ government has vowed that the Chagos Islan...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Bernie Sanders warns ‘worst is yet to come’ in rallying cry against billionaires",
+        "url": "https://www.theguardian.com/us-news/2026/apr/13/bernie-sanders-warns-worst-is-yet-to-come-in-rallying-cry-against-billionaires",
+        "description": "US senator appears at Manhattan rally alongside New York City mayor Zohran Mamdani, who cautioned that AI is ‘coming for human jobs’Bernie Sanders has sounded an alarm over the US economy, warning ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Collapse of US-Iran talks heightens fears of prolonged energy shock",
         "url": "https://www.theguardian.com/business/2026/apr/12/collapse-us-iran-talks-energy-shock-oil-prices",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Task for the week: limit the fallout from biggest oil shock in decades | Richard Partington",
-        "url": "https://www.theguardian.com/business/2026/apr/12/iran-war-oil-energy-prices-inflation-washington-world-bank-imf",
-        "description": "As World Bank and IMF chiefs gather in Washington, the Iran war is driving up energy prices, fuelling inflation and testing voters’ patienceThe world’s finance ministers and central bank governors ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Faisal Islam: Why the government is relaxed about Chinese car imports",
-        "url": "https://www.bbc.com/news/articles/cnv82v3n6yqo?at_medium=RSS&at_campaign=rss",
-        "description": "The UK government believes the rise of China's car industry could be good for UK consumers and industry.",
+        "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
+        "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
+        "description": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "New light shed on who benefits most from weight-loss jabs",
-        "url": "https://www.bbc.com/news/articles/cn5317dkqnxo?at_medium=RSS&at_campaign=rss",
-        "description": "People who carry variations in two genes linked to appetite and digestion can lose more weight when taking drugs to treat obesity, research suggests.",
+        "title": "Streeting denies changing pay deal for resident doctors",
+        "url": "https://www.bbc.com/news/articles/cddqn72l1n9o?at_medium=RSS&at_campaign=rss",
+        "description": "A current six-day strike in England is set to end at 06:59 on Monday.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Fried nuggets and steamed sponges off menu in school food overhaul in England",
+        "url": "https://www.theguardian.com/education/2026/apr/12/school-food-overhaul-england-fried-nuggets-steamed-sponges",
+        "description": "Campaigners welcome first update of school food standards in 13 years, which aims to help lower obesity ratesThe government is to announce an overhaul to school food standards in England that will ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "‘I feel helpless’: college graduates can’t find entry-level roles in shrinking market amid rise of AI",
         "url": "https://www.theguardian.com/us-news/2026/apr/12/college-graduates-job-market-ai",
         "description": "Young American graduates expressed frustration over fewer job openings and longer searchesSign up for the Breaking News US email to get newsletter alerts in your inboxAmerican college graduates are...",
@@ -156,13 +163,6 @@
         "title": "Student loan interest could rise despite cap on rates",
         "url": "https://www.theguardian.com/money/2026/apr/11/student-loan-interest-rise-despite-uk-cap-rates-inflation",
         "description": "Temporary limit in England and Wales won’t stop many facing higher charges from autumn due to jump in inflation from Iran warGovernment caps some student loan interest at 6%Some students and gradua...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Weekend students at 15 universities in England told to return loans and grants",
-        "url": "https://www.theguardian.com/education/2026/apr/09/weekend-students-at-15-universities-in-england-told-to-return-loans-and-grants",
-        "description": "Student Finance England tells about 22,000 students their universities wrongly told them they were eligibleMore than 20,000 university students in England who received government maintenance loans ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,7 +192,14 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump's Strait of Hormuz blockade threat raises risks and leaves predicaments unchanged",
+        "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+        "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
+        "description": "Viktor Orbán's 16 years in power is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Trump's blockade threat raises risks and leaves predicaments unchanged",
         "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
         "description": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
         "source": "BBC News",
@@ -202,13 +209,6 @@
         "title": "Asha Bhosle: The sound of Bollywood dies aged 92",
         "url": "https://www.bbc.com/news/articles/c6ppd0qdp1do?at_medium=RSS&at_campaign=rss",
         "description": "Her infectious voice got fans dancing and singing, becoming the soundtrack for generations of Indians.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Civilians feared killed after reports of air strike on Nigerian market",
-        "url": "https://www.bbc.com/news/articles/cgk021z3ejpo?at_medium=RSS&at_campaign=rss",
-        "description": "The Nigerian Air Force has not addressed reports it struck a village market while targeting militants.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
