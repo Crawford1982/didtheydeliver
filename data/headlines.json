@@ -1,30 +1,30 @@
 {
-  "fetched_at": "2026-04-13T08:02:03.655131+00:00",
+  "fetched_at": "2026-04-13T13:24:33.210553+00:00",
   "headlines": {
     "government": [
       {
-        "title": "More than a fifth of UK’s ‘austerity children’ scarred by poverty, study says",
-        "url": "https://www.theguardian.com/society/2026/apr/13/uk-austerity-children-scarred-poverty-study-conservatives",
-        "description": "Researchers say hardship is a direct legacy of welfare benefit cuts imposed by Tory governments in recent years More than a fifth of all “austerity generation” British children have been scarred by...",
+        "title": "Nigel Farage defends Richard Tice over allegations his firm broke law by failing to pay tax – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/13/iran-war-keir-starmer-brexit-trump-strait-hormuz-oil-fuel-southport-latest-news-updates",
+        "description": "Reform UK leader says ‘he is statisfied’ with his deputy after he was accused of failing to pay taxKeir Starmer has confirmed that he wants to stop children being exposed to addictive scrolling fea...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Private firms providing services to NHS made £1.6bn profit in two years, research finds",
-        "url": "https://www.theguardian.com/society/2026/apr/13/private-companies-nhs-services-profit-chpi-research",
-        "description": "Exclusive: MPs say profit-making levels in England are ‘scandalous’ and call for cap on amount private companies can make from NHSPrivate firms providing services to the NHS including healthcare an...",
+        "title": "What is the new EU bill and could it give UK ministers Henry VIII-type powers?",
+        "url": "https://www.theguardian.com/politics/2026/apr/13/what-new-eu-bill-uk-ministers-henry-viii-type-powers",
+        "description": "Legislation would allow government to implement evolving single market rules without full parliamentary scrutiny UK politics live – latest updatesMinisters in Britain are planning a new bill, which...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Thousands of unpaid carers to face DWP repayment demands during overhaul",
-        "url": "https://www.theguardian.com/society/2026/apr/13/unpaid-carers-allowance-dwp-benefit-repayment-demands",
-        "description": "Ministers admit carer’s allowance penalties will continue while review of more than 200,000 cases is carried outThousands of unpaid carers will continue to be hit with hefty and potentially unfair ...",
+        "title": "Hormuz, Hungary and the UK shifting closer to the EU – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/apr/13/hormuz-hungary-uk-shifting-closer-to-eu-podcast",
+        "description": "After 16 years in power in Hungary, Viktor Orbán has been defeated, marking a huge shift in the European Union. Meanwhile, Keir Starmer has defended potential legislation that will align the UK wit...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK will not join Trump's blockade of Iran's ports in the Strait of Hormuz",
+        "title": "Starmer says UK will not join Trump's blockade of Iran's ports",
         "url": "https://www.bbc.com/news/articles/c393wxzw4yjo?at_medium=RSS&at_campaign=rss",
         "description": "UK minesweepers and anti-drone capabilities will continue operating in the region, as pressure ramps up to reopen the key shipping route.",
         "source": "BBC News",
@@ -33,16 +33,16 @@
     ],
     "economy": [
       {
-        "title": "Oil price tops $100 a barrel again after Trump announces strait of Hormuz blockade – business live",
+        "title": "Oil price tops $100 a barrel as US prepares strait of Hormuz blockade; Goldman Sachs posts rise in profits – business live",
         "url": "https://www.theguardian.com/business/live/2026/apr/13/oil-price-barrel-trump-naval-blockade-strait-of-hormuz-stock-markets-ftse-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial newsStrait of Hormuz blockade explained: why is Trump threatening it now and will it increase the price of oil?Shares in European airlines are ...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Oil price tops $100 a barrel after US-Iran talks fail and Trump orders strait of Hormuz blockade",
+        "title": "Oil price tops $100 a barrel after peace talks fail and Trump orders blockade",
         "url": "https://www.theguardian.com/business/2026/apr/13/oil-price-tops-100-dollars-barrel-us-blockade-strait-of-hormuz",
-        "description": "US Navy to impose blockade today in bid to choke off flow of Iranian oil Explainer: strait of Hormuz blockadeBusiness live – latest updatesOil prices have jumped back above $100 a barrel after week...",
+        "description": "US Navy to impose blockade today in bid to choke off flow of Iranian oil Explainer: strait of Hormuz blockadeBusiness live – latest updatesOil prices jumped back above $100 a barrel and global stoc...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,7 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "Oil back above $100 as US to blockade Iranian ports after peace talks fail",
+        "title": "Oil jumps back above $100 after US-Iran peace talks fail",
         "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
         "description": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
         "source": "BBC News",
@@ -63,6 +63,20 @@
     ],
     "nhs": [
       {
+        "title": "Sussex baby deaths inquiry will fail to learn lessons after excluding families, Streeting warned",
+        "url": "https://www.theguardian.com/society/2026/apr/13/sussex-baby-deaths-inquiry-will-fail-to-learn-lessons-after-excluding-families-streeting-warned",
+        "description": "Bereaved parents say review of nine deaths is too narrow and will urge health secretary to add 60 more casesAn inquiry into the preventable deaths of babies in Sussex will fail to learn the lessons...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "AI to predict how bowel cancer patients will respond to new NHS drug",
+        "url": "https://www.theguardian.com/society/2026/apr/13/ai-bowel-cancer-patients-nhs-drug",
+        "description": "PhenMap tool could spare thousands of patients from treatment that would be ineffective for themA new AI-driven way of identifying how patients with advanced bowel cancer will respond to a drug tha...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Private firms providing services to NHS made £1.6bn profit in two years, research finds",
         "url": "https://www.theguardian.com/society/2026/apr/13/private-companies-nhs-services-profit-chpi-research",
         "description": "Exclusive: MPs say profit-making levels in England are ‘scandalous’ and call for cap on amount private companies can make from NHSPrivate firms providing services to the NHS including healthcare an...",
@@ -70,32 +84,25 @@
         "category": "nhs"
       },
       {
-        "title": "Votes for populist parties in May elections will put NHS at risk, Streeting says",
-        "url": "https://www.theguardian.com/politics/2026/apr/12/voting-populist-parties-local-elections-nhs-risk-wes-streeting",
-        "description": "Exclusive: Health secretary warns of dangers of protest vote as he pitches NHS as key elections battlegroundVoters in May’s local and devolved elections risk putting the NHS in jeopardy if they vot...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Doctors’ leader claims new reduced pay offer killed chances of ending strikes in England",
-        "url": "https://www.theguardian.com/society/2026/apr/10/resident-doctors-leader-reduced-pay-offer-killed-chances-ending-strikes",
-        "description": "Exclusive: Deal for resident doctors was in sight when sudden change by ministers forced latest action, says Jack FletcherMinisters killed the chance to end strikes by resident doctors when they su...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Streeting denies changing pay deal for resident doctors",
-        "url": "https://www.bbc.com/news/articles/cddqn72l1n9o?at_medium=RSS&at_campaign=rss",
-        "description": "A current six-day strike in England is set to end at 06:59 on Monday.",
+        "title": "Are spider bites on the rise in England?",
+        "url": "https://www.bbc.com/news/articles/cwyvg1jyry0o?at_medium=RSS&at_campaign=rss",
+        "description": "Experts say noble false widow spiders could be to blame for an increase in bites being treated in hospital.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
-        "title": "Home Office to announce closure of 11 asylum hotels in next week",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/12/asylum-seeker-hotels-closures-home-office",
-        "description": "Exclusive: closures are part of pledge by Labour to end all use of hotels for asylum seekers by end of this parliamentThe Home Office is to announce the closure of 11 asylum hotels this week as par...",
+        "title": "Asylum seekers removed from UK in waist and leg restraints, report finds",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/13/asylum-seekers-removed-uk-waist-leg-restraints-one-in-one-out-france",
+        "description": "Inspection reveals use of force after protest by detainees being deported under ‘one in, one out’ schemeAsylum seekers who protested against being forcibly removed to France under the Home Office’s...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Nigel Farage defends Richard Tice over allegations his firm broke law by failing to pay tax – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/13/iran-war-keir-starmer-brexit-trump-strait-hormuz-oil-fuel-southport-latest-news-updates",
+        "description": "Reform UK leader says ‘he is statisfied’ with his deputy after he was accused of failing to pay taxKeir Starmer has confirmed that he wants to stop children being exposed to addictive scrolling fea...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -105,16 +112,16 @@
         "description": "Brixton House, London Five writers contribute fizzing ideas aplenty to this play exploring questions of Latinx identity in Britain, while also attempting to deliver an undercover dramaThere’s no sh...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "UK starts crackdown on EU citizens’ post-Brexit rights",
-        "url": "https://www.theguardian.com/politics/2026/apr/10/home-office-starts-crackdown-on-eu-citizens-post-brexit-rights-to-live-in-uk",
-        "description": "Concerns raised over use of travel data in determining if people are ‘continuously’ in Britain after HMRC fiascoUK ministers are to start removing post-Brexit residency rights from EU citizens who ...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Are we heading for ‘super El Nino’ – and what could we expect?",
+        "url": "https://www.theguardian.com/environment/2026/apr/13/el-nino-explainer",
+        "description": "Experts say climate pattern could supercharge extreme weather events and push temperatures to record highsThere is a high likelihood that the phenomenon known as “El Niño” will emerge this summer –...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "US had hottest March on record as nation faced ‘unprecedented’ heat",
         "url": "https://www.theguardian.com/us-news/2026/apr/09/hottest-march-on-record",
@@ -126,13 +133,6 @@
         "title": "Bitten by snakes 200 times – on purpose: US man’s quest to help deliver new antivenom",
         "url": "https://www.theguardian.com/environment/2026/apr/09/intentional-snakebites-antivenom",
         "description": "Tim Friede put his ‘ass on the line’ to help stop snakebite deaths – whose numbers appear to be rising amid the climate crisisAs we overheat and degrade our planet, more people are likely to come i...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Mass drowning of chicks puts emperor penguins at risk of extinction",
-        "url": "https://www.theguardian.com/environment/2026/apr/09/mass-drowning-of-chicks-puts-emperor-penguins-at-risk-of-extinction",
-        "description": "Record low levels of Antarctic sea ice are having grim consequences for penguins yet to grow waterproof feathersThe mass drowning of emperor penguin chicks as sea ice is melted by the climate crisi...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Viktor Orbán's Hungarian experiment runs out of steam",
-        "url": "https://www.bbc.com/news/articles/cy81lg4yzeyo?at_medium=RSS&at_campaign=rss",
-        "description": "Péter Magyar's historic win offers peace for a country exhausted by the tensions of Viktor Orbán's rule,  Nick Thorpe reports from Budapest.",
+        "title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
+        "url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
+        "description": "European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump's threat raises risks and leaves predicaments unchanged",
-        "url": "https://www.bbc.com/news/articles/c8dl5mly2rzo?at_medium=RSS&at_campaign=rss",
-        "description": "The conflict is now a test of wills - Iran’s capacity to absorb strikes versus Trump’s tolerance for the war's costs.",
+        "title": "Pope says he has 'no fear' of Trump after scathing criticism",
+        "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
         "source": "BBC News",
         "category": "foreign_policy"
       }
