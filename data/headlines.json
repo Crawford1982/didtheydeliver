@@ -1,55 +1,55 @@
 {
-  "fetched_at": "2026-04-14T13:24:20.451879+00:00",
+  "fetched_at": "2026-04-14T19:14:17.931172+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reeves condemns Trump’s decision to launch war against Iran as ‘folly’– UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/14/keir-starmer-defence-spending-labour-latest-news-updates",
-        "description": "Chancellor ‘frustrated and angry’ at the effect on UK firms and families and says US went into war without a clear exit plan Q: Why are you calling for an inquiry into Nigel Farage’s investment in ...",
+        "title": "Hundreds of asylum seekers moved from hotels to army barracks, Home Office announces",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/14/hundreds-asylum-seekers-moved-hotels-army-barracks-home-office",
+        "description": "Refugee Council criticises Labour’s decision, saying military sites are unsuitable and ‘more expensive than hotels’Hundreds of asylum seekers have been removed from government-funded hotels while o...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Telegraph takeover by German buyer cleared by culture secretary",
-        "url": "https://www.theguardian.com/media/2026/apr/14/telegraph-takeover-cleared-lisa-nandy-axel-springer-ofcom",
-        "description": "Lisa Nandy says there are no grounds to refer Axel Springer deal to Ofcom, ending almost three years of uncertainty for titlesBusiness live – latest updatesThe culture secretary has cleared Axel Sp...",
+        "title": "UK woman fears being stranded in Spain over new Home Office border rules",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/14/uk-woman-fears-being-stranded-spain-new-home-office-border-rules",
+        "description": "Natasha Cochrane de la Rosa was refused boarding on flight to London because she was not aware of the rule changeA British woman has told how she fears being stranded in Spain for months after bein...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform activist suspended over racist and antisemitic comments remains election agent",
-        "url": "https://www.theguardian.com/politics/2026/apr/14/reform-activist-suspended-over-racist-antisemitic-comments-remains-election-agent-adam-mitula",
-        "description": "Adam Mitula is acting as election agent for Reform candidates in three wards in Tameside area for 7 May pollsUK politics live – latest updatesA Reform UK activist in the Gorton and Denton byelectio...",
+        "title": "Government sets aside extra £1bn for victims of UK’s infected blood scandal",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/14/compensation-victims-infected-blood-scandal-rise",
+        "description": "Additional funds include extra £35,000 each for former pupils experimented on at school without their knowledgeCompensation payments will rise for people affected by the infected blood scandal, inc...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Former Nato chief warns UK's national security 'in peril'",
-        "url": "https://www.bbc.com/news/articles/cje4n5ppgw7o?at_medium=RSS&at_campaign=rss",
-        "description": "Lord George Robertson, a former Labour defence secretary, will use a speech to accuse \"non-military experts in the Treasury\" of \"vandalism\".",
+        "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
+        "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss",
+        "description": "The financial body cuts its growth forecast for the UK and warns the war threatens to throw the global economy \"off course\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK growth forecasts slashed by IMF as Iran war hurts global economy – business live",
+        "title": "Iran war escalation could trigger global recession, IMF warns",
+        "url": "https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices",
+        "description": "Growth forecasts cut for US and global economy, while UK suffers sharpest downgrade in G7Reeves arrives at IMF with little leeway to prove its UK downgrade wrongA further escalation in the Iran war...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Reeves arrives at IMF with little leeway to prove its UK downgrade wrong",
+        "url": "https://www.theguardian.com/business/2026/apr/14/rachel-reeves-arrives-at-imf-with-little-leeway-to-prove-its-uk-downgrade-wrong",
+        "description": "Chancellor faced with fund’s forecast that impact of Iran war will leave Britain as G7’s biggest loserIran war escalation could trigger global recession, IMF warnsThe Iran war is bad news for the g...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK growth forecasts slashed by IMF as Iran war hurts global economy – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/apr/14/iran-war-hurting-global-economic-growth-imf-meeting-rachel-reeves-oil-price-stock-markets-latest-updates",
-        "description": "Global oil demand will decline this year for the first time since the Covid-19 pandemic in 2020, IEA predictsTask for the week: limit the fallout from biggest oil shock in decadesNewsflash: The Int...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Trump pick to lead Federal Reserve has assets worth over $100m, disclosures indicate",
-        "url": "https://www.theguardian.com/business/2026/apr/14/trump-federal-reserve-pick-kevin-warsh",
-        "description": "Kevin Warsh, seeking to replace Fed chair, Jerome Powell, had to file financial disclosures for Senate approvalKevin Warsh, the former Federal Reserve governor chosen by Donald Trump to lead the ce...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "IMF warns ‘unprecedented’ energy crisis could trigger global recession as Australia prepares for G20 fuel talks",
-        "url": "https://www.theguardian.com/business/2026/apr/14/imf-world-economic-outlook-energy-crisis-global-recession-australia-fuel",
-        "description": "As treasurer Jim Chalmers weighs ‘extreme uncertainty’, one economic scenario sees global growth plunging to just 2% in 2026Get our breaking news email, free app or daily news podcastThe Internatio...",
+        "description": "International Monetary Fund has lowered its forecast for UK growth in 2026 and 2027, due to Iran war and weak growth in late 2025Iran war escalation could trigger global recession, IMF warnsNewsfla...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "Government sets aside extra £1bn for victims of UK’s infected blood scandal",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/14/compensation-victims-infected-blood-scandal-rise",
+        "description": "Additional funds include extra £35,000 each for former pupils experimented on at school without their knowledgeCompensation payments will rise for people affected by the infected blood scandal, inc...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "NHS improves genetic testing for minority ethnic cancer patients",
         "url": "https://www.theguardian.com/society/2026/apr/13/nhs-improves-genetic-testing-minority-ethnic-cancer-patients",
@@ -77,21 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "AI to predict how bowel cancer patients will respond to new NHS drug",
-        "url": "https://www.theguardian.com/society/2026/apr/13/ai-bowel-cancer-patients-nhs-drug",
-        "description": "PhenMap tool could spare thousands of patients from treatment that would be ineffective for themA new AI-driven way of identifying how patients with advanced bowel cancer will respond to a drug tha...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Doctors' strikes can have surprising benefits - but are they sustainable?",
-        "url": "https://www.bbc.com/news/articles/cp3l2pygnlyo?at_medium=RSS&at_campaign=rss",
-        "description": "Some hospital trusts tell the BBC previous action has seen shorter waits, faster decisions and calmer corridors.",
+        "title": "Single-sex space guidance for organisations to be published after May elections",
+        "url": "https://www.bbc.com/news/articles/cn08849wz07o?at_medium=RSS&at_campaign=rss",
+        "description": "Equalities minister Bridget Phillipson says election rules mean a new draft cannot be published until next month.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Hundreds of asylum seekers moved from hotels to army barracks, Home Office announces",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/14/hundreds-asylum-seekers-moved-hotels-army-barracks-home-office",
+        "description": "Refugee Council criticises Labour’s decision, saying military sites are unsuitable and ‘more expensive than hotels’Hundreds of asylum seekers have been removed from government-funded hotels while o...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Mahmood’s migration changes will deliver fraction of claimed savings, data suggests",
         "url": "https://www.theguardian.com/uk-news/2026/apr/13/mahmood-migration-reforms-fraction-claimed-savings",
@@ -103,13 +110,6 @@
         "title": "Nige and Zia set out plan to send ‘Boriswave’ traitors to the gulag | John Crace",
         "url": "https://www.theguardian.com/politics/2026/apr/13/nige-and-zia-plan-boriswave-traitors-gulag",
         "description": "Farage and sidekick are still sore about how the Tories handled Brexit, although new mates Braverman and Jenrick are forgivenThe Reform UK press conference began a little behind schedule. Time in w...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Shabana Mahmood says Southport inquiry report exposed ‘systematic failures across multiple public sector organisations’ – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/13/iran-war-keir-starmer-brexit-trump-strait-hormuz-oil-fuel-southport-latest-news-updates",
-        "description": "The home secretary made the comments after an inquiry revealed that the system ‘completely failed’Keir Starmer has confirmed that he wants to stop children being exposed to addictive scrolling feat...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "From blast off to splashdown: My days following Nasa's historic mission to the Moon",
-        "url": "https://www.bbc.com/news/articles/clyrdkxvmmpo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC Science Editor Rebecca Morelle reflects on how it felt to watch history being made.",
+        "title": "New footage shows moment Orion capsule hatch is opened at sea",
+        "url": "https://www.bbc.com/news/videos/clyxxnz97wxo?at_medium=RSS&at_campaign=rss",
+        "description": "Newly released video shows the moment the hatch of Artemis II's Orion capsule is unlocked to a joyful reunion with the four astronauts.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Lebanon seeks peace, but Hezbollah needs to be convinced first",
-        "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
-        "description": "The Lebanese government go into peace talks with limited influence over the group.",
+        "title": "Hamas rejects Gaza disarmament plan, Palestinian official says",
+        "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
+        "description": "The official tells the BBC that the armed group will not move forward with talks until Israel fully complies with its commitments.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Hospital at centre of child HIV outbreak caught reusing syringes in undercover filming",
-        "url": "https://www.bbc.com/news/articles/clyrd818gd2o?at_medium=RSS&at_campaign=rss",
-        "description": "Footage shows staff in Pakistan injecting without gloves and reusing syringes, but the hospital boss refuses to acknowledge it is genuine.",
+        "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
+        "url": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
+        "description": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Greek police using masked migrants to forcibly push other migrants back across border",
-        "url": "https://www.bbc.com/news/articles/c86vpq42dl0o?at_medium=RSS&at_campaign=rss",
-        "description": "Mercenaries recruited since at least 2020 for illegal migrant ‘pushbacks’ in Greece, BBC told",
+        "title": "Another woman accuses Swalwell of drugging and raping her in 2018",
+        "url": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
+        "description": "Lonna Drewes accused Swalwell of drugging her drink before assaulting her in a hotel room.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
