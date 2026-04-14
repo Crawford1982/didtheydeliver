@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-13T19:14:19.755812+00:00",
+  "fetched_at": "2026-04-14T02:30:05.936197+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Renewed ties with EU needed to boost UK security and economy, says Starmer",
-        "url": "https://www.theguardian.com/politics/2026/apr/13/keir-starmer-defends-plan-for-closer-alignment-with-eu-rules",
-        "description": "PM says lessons must be learned from shocks to cost of living as government plans to align with bloc’s rules by defaultThe economic and security benefits of a closer relationship with the EU are “s...",
+        "title": "Starmer’s ‘corrosive complacency’ on defence has put UK in peril, says ex-Nato chief",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/14/starmer-accused-of-corrosive-complacency-about-defence-by-ex-head-of-nato",
+        "description": "George Robertson says Iran war should be wake-up call to address military underfunding in scathing remarksThe British government has shown a “corrosive complacency towards defence” and put the UK “...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Shabana Mahmood says Southport inquiry report exposed ‘systematic failures across multiple public sector organisations’ – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/13/iran-war-keir-starmer-brexit-trump-strait-hormuz-oil-fuel-southport-latest-news-updates",
-        "description": "The home secretary made the comments after an inquiry revealed that the system ‘completely failed’Keir Starmer has confirmed that he wants to stop children being exposed to addictive scrolling feat...",
+        "title": "Chagos Islands treaty is now ‘impossible to agree at political level’, UK minister says",
+        "url": "https://www.theguardian.com/world/2026/apr/13/chagos-islands-treaty-mauritius-uk-bill-parliament",
+        "description": "Stephen Doughty says US withdrawal of support means bill cannot complete passage through parliamentA treaty over ceding sovereignty of the Chagos Islands to Mauritius has become “impossible to agre...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Founder of Starmer’s legal chambers condemns Labour plans to cut jury trials",
-        "url": "https://www.theguardian.com/law/2026/apr/13/founder-of-starmer-legal-chambers-geoffrey-robertson-condemns-labour-plans-to-cut-jury-trials",
-        "description": "Geoffrey Robertson says proposals to reduce backlog are betrayal of party’s values and a ‘cure worse than the disease’The founder of Keir Starmer’s barristers’ chambers has condemned the planned re...",
+        "title": "Mahmood’s migration changes will deliver fraction of claimed savings, data suggests",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/13/mahmood-migration-reforms-fraction-claimed-savings",
+        "description": "Exclusive: Analysis of government figures indicates public finances will gain  £600m not £10bn if migrants’ access to benefits is reducedShabana Mahmood’s migration changes are expected to save jus...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Oil jumps back above $100 after US-Iran peace talks fail",
-        "url": "https://www.bbc.com/news/articles/cn781z4lgg4o?at_medium=RSS&at_campaign=rss",
-        "description": "The failure of negotiations at the weekend has raised concerns that the global energy crisis will deepen.",
+        "title": "Man faces attempted murder charges in attack on home of OpenAI's Sam Altman",
+        "url": "https://www.bbc.com/news/articles/cq597n1pg6lo?at_medium=RSS&at_campaign=rss",
+        "description": "The Texas man, who also faces federal felony charges, allegedly had documents advocating for violence against AI executives.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Orbán era swept away by Péter Magyar's Hungary election landslide",
-        "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
-        "description": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+        "title": "Lebanon enters talks with Israel but with no cards to play",
+        "url": "https://www.bbc.com/news/articles/cr51l794mlyo?at_medium=RSS&at_campaign=rss",
+        "description": "The Lebanese government go into peace talks with limited influence over the group.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Katya Adler: Jubilation in Budapest will be felt in Europe but leaves Moscow cold",
-        "url": "https://www.bbc.com/news/articles/cn0wzxqyx17o?at_medium=RSS&at_campaign=rss",
-        "description": "European leaders share Hungarians' joy over the ousting of Vladimir Putin's EU ally, writes the BBC's Europe editor.",
+        "title": "BBC joins paramedics on duty in Lebanon after Israeli strikes",
+        "url": "https://www.bbc.com/news/videos/cwyk8rz1pzyo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Middle East correspondent Hugo Bachega joins paramedics on duty in Nabatieh - a city that was once vibrant, but is now abandoned.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
-        "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
-        "description": "Italy's prime minister and the US president are close allies, but Trump has refused to apologise to the \"very weak\" Pope Leo XIV.",
+        "title": "Hungary's next PM would pick up if Putin calls and tell him to stop Ukraine war",
+        "url": "https://www.bbc.com/news/articles/cd6lzezp4zvo?at_medium=RSS&at_campaign=rss",
+        "description": "Russia has offered \"pragmatic\" relations, but Péter Magyar says he will not call Vladimir Putin himself.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
