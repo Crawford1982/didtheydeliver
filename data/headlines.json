@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-15T02:28:29.698671+00:00",
+  "fetched_at": "2026-04-15T07:44:22.449376+00:00",
   "headlines": {
     "government": [
       {
@@ -24,14 +24,28 @@
         "category": "government"
       },
       {
-        "title": "UK faces biggest hit to growth from Iran war of major economies, IMF says",
-        "url": "https://www.bbc.com/news/articles/c3v670qwz97o?at_medium=RSS&at_campaign=rss",
-        "description": "The financial body cuts its growth forecast for the UK and warns the war threatens to throw the global economy \"off course\".",
+        "title": "Legal advisers help migrants pose as gay to get asylum, undercover BBC investigation finds",
+        "url": "https://www.bbc.com/news/articles/c937wldkkw8o?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC exposes a shadow industry charging migrants thousands of pounds to help them cheat the asylum system.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Stock markets recovering Iran war losses amid peace deal hopes; Reeves and Bessent to meet at IMF – business live",
+        "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsMiddle East crisis live: US claims blockade has ‘completely halted economic trade’ into Iran, as Trump hints at return to talks in Pakistan...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "IMF says strait of Hormuz closure raises prospect of ‘major energy crisis’ – video",
+        "url": "https://www.theguardian.com/business/video/2026/apr/15/imf-says-strait-of-hormuz-closure-raises-prospect-of-major-energy-crisis-video",
+        "description": "The International Monetary Fund is forecasting a range of possible global economic scenarios due to the ongoing conflict in the Middle East. IMF’s chief economist, Pierre-Olivier Gourinchas, says: ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Iran war escalation could trigger global recession, IMF warns",
         "url": "https://www.theguardian.com/business/2026/apr/14/iran-war-global-recession-imf-uk-growth-forecasts-oil-prices",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Reeves arrives at IMF with little leeway to prove its UK downgrade wrong",
-        "url": "https://www.theguardian.com/business/2026/apr/14/rachel-reeves-arrives-at-imf-with-little-leeway-to-prove-its-uk-downgrade-wrong",
-        "description": "Chancellor faced with fund’s forecast that impact of Iran war will leave Britain as G7’s biggest loserIran war escalation could trigger global recession, IMF warnsThe Iran war is bad news for the g...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK growth forecasts slashed by IMF as Iran war hurts global economy – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/apr/14/iran-war-hurting-global-economic-growth-imf-meeting-rachel-reeves-oil-price-stock-markets-latest-updates",
-        "description": "International Monetary Fund has lowered its forecast for UK growth in 2026 and 2027, due to Iran war and weak growth in late 2025Iran war escalation could trigger global recession, IMF warnsNewsfla...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Help to Buy mostly helped high earners, IFS says",
-        "url": "https://www.bbc.com/news/articles/cy511kd5lkwo?at_medium=RSS&at_campaign=rss",
-        "description": "People with lower incomes benefitted less from the house-buying scheme than those with high incomes, the influential think tank says.",
+        "title": "AA and BSM ordered to refund learner drivers for hidden fees",
+        "url": "https://www.bbc.com/news/articles/c07000dzg9do?at_medium=RSS&at_campaign=rss",
+        "description": "The owner of the driving schools has been fined for failing to disclose fees upfront online.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
+        "title": "More than half of Britain’s butterfly species in decline, monitoring scheme shows",
+        "url": "https://www.theguardian.com/environment/2026/apr/15/butterfly-monitoring-scheme-britain-decline",
+        "description": "Warmer weather has benefited some species in Britain, but others that rely on specific plants or habitats have struggled“Insectageddon” has not occurred, but there has been a loss of butterfly dive...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Tuvalu, tiny Pacific nation at the forefront of climate crisis, to host world leaders before Cop31 summit",
+        "url": "https://www.theguardian.com/environment/2026/apr/15/tuvalu-cop-31-summer-leaders-meeting",
+        "description": "Conference president expresses ‘complete faith’ in Chris Bowen to lead tough negotiationsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news po...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Are we heading for ‘super El Niño’ – and what could we expect?",
         "url": "https://www.theguardian.com/environment/2026/apr/13/el-nino-explainer",
         "description": "Experts say climate pattern could supercharge extreme weather events and push temperatures to record highsThere is a high likelihood that the phenomenon known as “El Niño” will emerge this summer –...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘Suddenly, boom, it’s completely warm’: summers are getting longer – especially in Sydney, study finds",
-        "url": "https://www.theguardian.com/environment/2026/apr/14/summers-are-longer-more-intense-temperatures",
-        "description": "Researchers examined trends in 10 global cities, with Sydney’s summer growing at two-and-a-half times the averageScientist Ted Scott could feel that summers in his home state of Minnesota were not ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "US had hottest March on record as nation faced ‘unprecedented’ heat",
-        "url": "https://www.theguardian.com/us-news/2026/apr/09/hottest-march-on-record",
-        "description": "The continental US registered its most abnormally hot month in 132 years of records, according to Noaa data March’s persistent unseasonable heat was so intense that the continental United States re...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -153,16 +153,16 @@
         "category": "education"
       },
       {
-        "title": "Surrounded by windfarms but out of work: the reality of the green jobs boom on England’s east coast",
-        "url": "https://www.theguardian.com/environment/2026/apr/14/windfarm-reality-green-jobs-boom-englands-east-coast-unemployment",
-        "description": "The government hails the ‘green revolution’ as a solution to economic decline, but some young jobseekers say the rhetoric does not match their experienceOn paper, Jake Snell, 19, sounds like the pe...",
+        "title": "Reeves condemns Trump’s decision to launch war against Iran as ‘folly’– as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/14/keir-starmer-defence-spending-labour-latest-news-updates",
+        "description": "Chancellor ‘frustrated and angry’ at the effect on UK firms and families and says US went into war without a clear exit plan Q: Why are you calling for an inquiry into Nigel Farage’s investment in ...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Fried nuggets and steamed sponges off menu in school food overhaul in England",
-        "url": "https://www.theguardian.com/education/2026/apr/12/school-food-overhaul-england-fried-nuggets-steamed-sponges",
-        "description": "Campaigners welcome first update of school food standards in 13 years, which aims to help lower obesity ratesThe government is to announce an overhaul to school food standards in England that will ...",
+        "title": "Surrounded by windfarms but out of work: the reality of the green jobs boom on England’s east coast",
+        "url": "https://www.theguardian.com/environment/2026/apr/14/windfarm-reality-green-jobs-boom-englands-east-coast-unemployment",
+        "description": "The government hails the ‘green revolution’ as a solution to economic decline, but some young jobseekers say the rhetoric does not match their experienceOn paper, Jake Snell, 19, sounds like the pe...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Hamas rejects Gaza disarmament plan, Palestinian official says",
-        "url": "https://www.bbc.com/news/articles/cn4vvxxg8lgo?at_medium=RSS&at_campaign=rss",
-        "description": "The official tells the BBC that the armed group will not move forward with talks until Israel fully complies with its commitments.",
+        "title": "'Bit of pain' worth long-term security from Iran, Bessent tells BBC",
+        "url": "https://www.bbc.com/news/articles/c4g66p2q075o?at_medium=RSS&at_campaign=rss",
+        "description": "US Treasury Secretary said a \"small bit of economic pain\" was worth it to eliminate the threat of Iranian strikes on Western capitals.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
-        "url": "https://www.bbc.com/news/articles/c8dll93j7d5o?at_medium=RSS&at_campaign=rss",
-        "description": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar.",
+        "title": "Israel and Lebanon hold first direct talks since 1993",
+        "url": "https://www.bbc.com/news/articles/cp8ddydl18vo?at_medium=RSS&at_campaign=rss",
+        "description": "A US statement said the two sides had agreed to launch direct negotiations, at a time and place to be determined.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Another woman accuses Swalwell of rape, saying he drugged her in 2018",
-        "url": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
-        "description": "Lonna Drewes accused Swalwell of drugging her drink before assaulting her in a hotel room.",
+        "title": "Three years of messages at once - a chronicle of Sudan's war pours in as trapped reporter's phone turns on",
+        "url": "https://www.bbc.com/news/articles/cy01d1g0rrjo?at_medium=RSS&at_campaign=rss",
+        "description": "As the conflict enters its fourth year, journalist Mohamed Suleiman shudders at what has been lost.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
