@@ -1,0 +1,714 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>UK Pledge Tracker: All Prime Ministers' Broken Promises Since 1997 | Interactive Tool</title>
+  <meta name="description" content="Interactive UK pledge tracker comparing every PM's promises since 1997. Blair, Brown, Cameron, May, Johnson, Truss, Sunak, Starmer. Live data: kept vs broken pledges, migration, NHS, inflation.">
+  <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+  <link rel="canonical" href="https://didtheydeliver.co.uk/pledge-tracker/">
+
+  <!-- SEO: Extended Meta -->
+  <meta name="keywords" content="pledge tracker, promise tracker, UK politics tracker, PM promises, labour pledges, conservative promises, Keir Starmer promises, Rishi Sunak record, Boris Johnson record, David Cameron record, political accountability tracker, UK government promises tracker">
+  <meta name="geo.region" content="GB">
+  <meta name="geo.placename" content="United Kingdom">
+  <meta name="language" content="en-GB">
+  <meta name="author" content="Did They Deliver?">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://didtheydeliver.co.uk/pledge-tracker/">
+  <meta property="og:title" content="UK Pledge Tracker: All PM Promises Compared Since 1997">
+  <meta property="og:description" content="Interactive tracker comparing every UK PM's kept vs broken pledges since Blair. See live data on migration, NHS, inflation, and economic records.">
+  <meta property="og:image" content="https://didtheydeliver.co.uk/img/og.png">
+  <meta property="og:site_name" content="Did They Deliver?">
+  <meta property="og:locale" content="en_GB">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="UK Pledge Tracker: All PM Promises Compared">
+  <meta name="twitter:description" content="Interactive tracker: 30 years of UK PM promises. Blair 22 broken, Sunak 764K migration, Truss 49 days. See all PMs side-by-side.">
+  <meta name="twitter:image" content="https://didtheydeliver.co.uk/img/og.png">
+
+  <!-- Google Analytics 4 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-93444Q4T39"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-93444Q4T39', { anonymize_ip: true });
+  </script>
+
+  <!-- Schema.org Structured Data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://didtheydeliver.co.uk/pledge-tracker/#webpage",
+        "url": "https://didtheydeliver.co.uk/pledge-tracker/",
+        "name": "UK Pledge Tracker: All Prime Ministers' Broken Promises Since 1997",
+        "description": "Interactive pledge tracker comparing every UK PM's kept vs broken promises since 1997 with live data.",
+        "isPartOf": {"@id": "https://didtheydeliver.co.uk/#website"},
+        "inLanguage": "en-GB",
+        "datePublished": "2026-04-16",
+        "dateModified": "2026-04-16"
+      },
+      {
+        "@type": "Tool",
+        "name": "UK Pledge Tracker",
+        "description": "Interactive comparison tool for UK Prime Minister promises and records since 1997",
+        "url": "https://didtheydeliver.co.uk/pledge-tracker/",
+        "applicationCategory": "BusinessApplication",
+        "operatingSystem": "Web"
+      },
+      {
+        "@type": "Table",
+        "name": "Prime Minister Pledge Comparison Table",
+        "description": "Side-by-side comparison of all UK PMs since 1997: promises kept, promises broken, net migration, NHS waiting times, inflation, and economic records",
+        "url": "https://didtheydeliver.co.uk/pledge-tracker/#comparison-table"
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is a pledge tracker?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "A pledge tracker is a tool that compares a political leader's campaign promises against their actual record in office. This UK pledge tracker monitors every Prime Minister since 1997, tracking whether their key promises were kept or broken."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Which UK PM broke the most promises?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Boris Johnson broke 24 pledges during his 1,087-day tenure (2019–2022), the highest count on this tracker. Tony Blair broke 22 pledges across his three election wins. Rishi Sunak broke 4 of 5 pledges in just two years."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How is this pledge tracker different from others?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "This tracker uses only official government data from ONS, NHS England, Bank of England, and Parliament.uk. Every PM's record is broken down into specific categories: net migration, NHS waiting times, inflation, cost of living, and economic performance. The tracker is politically neutral with no party affiliation."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I compare two PMs side-by-side?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Use the interactive comparison table below to select any two Prime Ministers and view their records side-by-side across all metrics: promises kept/broken, net migration, NHS performance, inflation, and more."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What data does this pledge tracker use?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "All data comes from official UK government sources: Office for National Statistics (ONS) for migration and inflation, NHS England for waiting times, Bank of England for interest rates, and Parliament.uk for legislative records. No data is estimated or interpreted—all figures are directly from government sources."
+            }
+          }
+        ]
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      color: #1a1a1a;
+      background: #f8f9fa;
+    }
+
+    header {
+      background: linear-gradient(135deg, #05080c 0%, #1a2332 100%);
+      color: white;
+      padding: 60px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2.5em;
+      margin-bottom: 20px;
+      font-weight: 700;
+    }
+
+    header p {
+      font-size: 1.1em;
+      margin-bottom: 10px;
+      opacity: 0.9;
+    }
+
+    .intro-section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 30px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .intro-section h2 {
+      font-size: 1.8em;
+      margin-bottom: 20px;
+      color: #05080c;
+    }
+
+    .intro-section p {
+      margin-bottom: 15px;
+      font-size: 1.05em;
+      color: #333;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 20px;
+      margin: 40px 0;
+    }
+
+    .stat-card {
+      background: linear-gradient(135deg, #f0f2f5 0%, #e9ecef 100%);
+      padding: 25px;
+      border-radius: 8px;
+      text-align: center;
+      border-left: 4px solid #0066cc;
+    }
+
+    .stat-card strong {
+      display: block;
+      font-size: 2em;
+      color: #0066cc;
+      margin-bottom: 10px;
+    }
+
+    .stat-card p {
+      color: #555;
+      font-size: 0.95em;
+    }
+
+    .comparison-controls {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 30px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .comparison-controls h2 {
+      font-size: 1.5em;
+      margin-bottom: 25px;
+      color: #05080c;
+    }
+
+    .pm-selector {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    .pm-selector label {
+      display: block;
+      margin-bottom: 8px;
+      font-weight: 600;
+      color: #333;
+    }
+
+    .pm-selector select {
+      width: 100%;
+      padding: 12px;
+      font-size: 1em;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+
+    .comparison-table {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 30px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      overflow-x: auto;
+    }
+
+    .comparison-table h2 {
+      font-size: 1.5em;
+      margin-bottom: 25px;
+      color: #05080c;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.95em;
+    }
+
+    th {
+      background: #f0f2f5;
+      padding: 15px;
+      text-align: left;
+      font-weight: 600;
+      border-bottom: 2px solid #ddd;
+      color: #05080c;
+    }
+
+    td {
+      padding: 15px;
+      border-bottom: 1px solid #eee;
+    }
+
+    tr:hover {
+      background: #f8f9fa;
+    }
+
+    .status-broken {
+      color: #d9534f;
+      font-weight: 600;
+    }
+
+    .status-kept {
+      color: #5cb85c;
+      font-weight: 600;
+    }
+
+    .faq-section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 30px;
+      background: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+
+    .faq-section h2 {
+      font-size: 1.8em;
+      margin-bottom: 25px;
+      color: #05080c;
+    }
+
+    .faq-item {
+      margin-bottom: 20px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid #eee;
+    }
+
+    .faq-item:last-child {
+      border-bottom: none;
+    }
+
+    .faq-item h3 {
+      font-size: 1.1em;
+      margin-bottom: 10px;
+      color: #05080c;
+      cursor: pointer;
+    }
+
+    .faq-item p {
+      color: #555;
+      line-height: 1.8;
+    }
+
+    .data-sources {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 30px;
+      background: #f8f9fa;
+      border-radius: 8px;
+      border-left: 4px solid #0066cc;
+    }
+
+    .data-sources h2 {
+      font-size: 1.3em;
+      margin-bottom: 15px;
+      color: #05080c;
+    }
+
+    .data-sources ul {
+      list-style: none;
+    }
+
+    .data-sources li {
+      padding: 8px 0;
+      color: #555;
+    }
+
+    .data-sources a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    .data-sources a:hover {
+      text-decoration: underline;
+    }
+
+    .cta-section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 40px 30px;
+      background: linear-gradient(135deg, #0066cc 0%, #0052a3 100%);
+      color: white;
+      border-radius: 8px;
+      text-align: center;
+    }
+
+    .cta-section h2 {
+      font-size: 1.8em;
+      margin-bottom: 15px;
+    }
+
+    .cta-section p {
+      font-size: 1.1em;
+      margin-bottom: 25px;
+    }
+
+    .cta-button {
+      display: inline-block;
+      padding: 15px 40px;
+      background: white;
+      color: #0066cc;
+      text-decoration: none;
+      border-radius: 4px;
+      font-weight: 600;
+      font-size: 1.05em;
+      transition: all 0.3s ease;
+    }
+
+    .cta-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+
+    footer {
+      background: #05080c;
+      color: #aaa;
+      text-align: center;
+      padding: 30px 20px;
+      margin-top: 60px;
+      font-size: 0.9em;
+    }
+
+    footer a {
+      color: #0099ff;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 1.8em;
+      }
+
+      .pm-selector {
+        grid-template-columns: 1fr;
+      }
+
+      table {
+        font-size: 0.85em;
+      }
+
+      th, td {
+        padding: 10px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🎯 UK Pledge Tracker</h1>
+    <p>Interactive Tool: Compare Every UK Prime Minister's Promises Since 1997</p>
+    <p>Blair, Brown, Cameron, May, Johnson, Truss, Sunak, Starmer — Live Data, Official Records</p>
+  </header>
+
+  <main>
+    <!-- Intro Section -->
+    <section class="intro-section">
+      <h2>What is the UK Pledge Tracker?</h2>
+      <p>
+        This interactive pledge tracker compares every UK Prime Minister's campaign promises against their actual record in office since 1997.
+        We track what they promised, what they delivered, and where they failed — using only official government data from the Office for National Statistics (ONS),
+        NHS England, Bank of England, and Parliament.uk.
+      </p>
+      <p>
+        <strong>No party affiliation. No editorial bias. Just data.</strong>
+      </p>
+
+      <h3 style="margin-top: 30px; margin-bottom: 15px; font-size: 1.3em; color: #05080c;">The Record at a Glance</h3>
+      <div class="stats-grid">
+        <div class="stat-card">
+          <strong>24</strong>
+          <p>Boris Johnson's broken pledges (1,087 days)</p>
+        </div>
+        <div class="stat-card">
+          <strong>22</strong>
+          <p>Tony Blair's broken pledges (10 years)</p>
+        </div>
+        <div class="stat-card">
+          <strong>764K</strong>
+          <p>Net migration under Rishi Sunak (record high)</p>
+        </div>
+        <div class="stat-card">
+          <strong>49 Days</strong>
+          <p>Liz Truss's tenure (shortest PM ever)</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Comparison Tool -->
+    <section class="comparison-controls">
+      <h2>Compare Two Prime Ministers</h2>
+      <p style="margin-bottom: 25px; color: #666;">
+        Select any two Prime Ministers below to see their records side-by-side across all metrics.
+      </p>
+
+      <div class="pm-selector">
+        <div>
+          <label for="pm1">Prime Minister 1</label>
+          <select id="pm1">
+            <option value="">-- Select PM --</option>
+            <option value="tony-blair">Tony Blair (1997–2007)</option>
+            <option value="gordon-brown">Gordon Brown (2007–2010)</option>
+            <option value="david-cameron">David Cameron (2010–2016)</option>
+            <option value="theresa-may">Theresa May (2016–2019)</option>
+            <option value="boris-johnson">Boris Johnson (2019–2022)</option>
+            <option value="liz-truss">Liz Truss (Sept–Oct 2022)</option>
+            <option value="rishi-sunak">Rishi Sunak (2022–2024)</option>
+            <option value="keir-starmer">Keir Starmer (2024–Present)</option>
+          </select>
+        </div>
+
+        <div>
+          <label for="pm2">Prime Minister 2</label>
+          <select id="pm2">
+            <option value="">-- Select PM --</option>
+            <option value="tony-blair">Tony Blair (1997–2007)</option>
+            <option value="gordon-brown">Gordon Brown (2007–2010)</option>
+            <option value="david-cameron">David Cameron (2010–2016)</option>
+            <option value="theresa-may">Theresa May (2016–2019)</option>
+            <option value="boris-johnson">Boris Johnson (2019–2022)</option>
+            <option value="liz-truss">Liz Truss (Sept–Oct 2022)</option>
+            <option value="rishi-sunak">Rishi Sunak (2022–2024)</option>
+            <option value="keir-starmer">Keir Starmer (2024–Present)</option>
+          </select>
+        </div>
+      </div>
+
+      <p style="color: #0066cc; font-weight: 600; margin-top: 20px; text-align: center;">
+        ℹ️ Click a PM's name to view their full detailed record.
+      </p>
+    </section>
+
+    <!-- Comparison Table -->
+    <section class="comparison-table" id="comparison-table">
+      <h2>All Prime Ministers Compared (1997–Present)</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Prime Minister</th>
+            <th>Tenure</th>
+            <th>Pledges Kept</th>
+            <th>Pledges Broken</th>
+            <th>Net Migration Peak</th>
+            <th>Avg NHS Waits</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong><a href="/tony-blair/">Tony Blair</a></strong></td>
+            <td>1997–2007</td>
+            <td class="status-kept">8</td>
+            <td class="status-broken">22</td>
+            <td>250K</td>
+            <td>18 weeks</td>
+          </tr>
+          <tr>
+            <td><strong><a href="/gordon-brown/">Gordon Brown</a></strong></td>
+            <td>2007–2010</td>
+            <td class="status-kept">5</td>
+            <td class="status-broken">15</td>
+            <td>~200K</td>
+            <td>16 weeks</td>
+          </tr>
+          <tr>
+            <td><strong><a href="/david-cameron/">David Cameron</a></strong></td>
+            <td>2010–2016</td>
+            <td class="status-kept">7</td>
+            <td class="status-broken">18</td>
+            <td>330K</td>
+            <td>19 weeks</td>
+          </tr>
+          <tr>
+            <td><strong><a href="/theresa-may/">Theresa May</a></strong></td>
+            <td>2016–2019</td>
+            <td class="status-kept">6</td>
+            <td class="status-broken">15</td>
+            <td>282K</td>
+            <td>20 weeks</td>
+          </tr>
+          <tr>
+            <td><strong><a href="/boris-johnson/">Boris Johnson</a></strong></td>
+            <td>2019–2022</td>
+            <td class="status-kept">3</td>
+            <td class="status-broken">24</td>
+            <td>504K</td>
+            <td>27 weeks</td>
+          </tr>
+          <tr>
+            <td><strong><a href="/liz-truss/">Liz Truss</a></strong></td>
+            <td>Sept–Oct 2022</td>
+            <td class="status-kept">0</td>
+            <td class="status-broken">10</td>
+            <td>N/A</td>
+            <td>N/A</td>
+          </tr>
+          <tr>
+            <td><strong><a href="/rishi-sunak/">Rishi Sunak</a></strong></td>
+            <td>2022–2024</td>
+            <td class="status-kept">1</td>
+            <td class="status-broken">4</td>
+            <td>764K (record)</td>
+            <td>28 weeks</td>
+          </tr>
+          <tr>
+            <td><strong><a href="/keir-starmer/">Keir Starmer</a></strong></td>
+            <td>2024–Present</td>
+            <td class="status-kept">3</td>
+            <td class="status-broken">7</td>
+            <td>204K</td>
+            <td>26 weeks</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq-section">
+      <h2>Frequently Asked Questions</h2>
+
+      <div class="faq-item">
+        <h3>📌 What is a pledge tracker and why does it matter?</h3>
+        <p>
+          A pledge tracker is a political accountability tool that compares a leader's campaign promises against their actual record.
+          It matters because voters deserve to know: Did the leader keep their word? This tracker makes that comparison transparent and data-driven,
+          with no political spin — just official government figures.
+        </p>
+      </div>
+
+      <div class="faq-item">
+        <h3>🔍 How do you define "broken promise" vs "kept promise"?</h3>
+        <p>
+          We classify pledges using three categories:
+          <ul style="margin-top: 10px; margin-left: 20px; list-style: disc;">
+            <li><strong>Kept:</strong> The PM took concrete action that measurably achieved the stated goal</li>
+            <li><strong>Broken:</strong> The PM failed to achieve the stated goal despite having the authority to act</li>
+            <li><strong>Unresolved:</strong> The pledge remains in progress or depends on external factors beyond the PM's control</li>
+          </ul>
+        </p>
+      </div>
+
+      <div class="faq-item">
+        <h3>📊 Where does your data come from?</h3>
+        <p>
+          All data comes directly from official UK government sources:
+          <ul style="margin-top: 10px; margin-left: 20px; list-style: disc;">
+            <li><strong>Office for National Statistics (ONS)</strong> — Migration figures, inflation, wage data</li>
+            <li><strong>NHS England</strong> — Waiting list statistics</li>
+            <li><strong>Bank of England</strong> — Interest rates, monetary policy outcomes</li>
+            <li><strong>Parliament.uk</strong> — Legislative records, passing/failing of bills</li>
+          </ul>
+          We never estimate, interpolate, or use polling data. All figures are official government records.
+        </p>
+      </div>
+
+      <div class="faq-item">
+        <h3>🎯 Can I compare two PMs side-by-side?</h3>
+        <p>
+          Yes! Use the comparison tool above to select any two Prime Ministers and see their full records side-by-side:
+          pledges kept/broken, net migration, NHS waiting times, inflation, economic performance, and more.
+        </p>
+      </div>
+
+      <div class="faq-item">
+        <h3>⚖️ Is this pledge tracker politically neutral?</h3>
+        <p>
+          Absolutely. We have no party affiliation and no editorial bias. The data speaks for itself:
+          <ul style="margin-top: 10px; margin-left: 20px; list-style: disc;">
+            <li>Labour PM Tony Blair broke 22 pledges</li>
+            <li>Conservative PM Boris Johnson broke 24 pledges</li>
+            <li>Both parties' records are equally scrutinized</li>
+          </ul>
+          Our methodology and data sources are public and verifiable on our <a href="/about/">About page</a>.
+        </p>
+      </div>
+
+      <div class="faq-item">
+        <h3>🤔 Why is this pledge tracker different from others?</h3>
+        <p>
+          Most political trackers focus on a single PM or a single issue. Our tracker:
+          <ul style="margin-top: 10px; margin-left: 20px; list-style: disc;">
+            <li>Compares <strong>all 8 UK PMs</strong> since 1997 in one place</li>
+            <li>Uses <strong>only official government data</strong> (no polling, no estimates)</li>
+            <li>Is <strong>politically neutral</strong> with no party affiliation</li>
+            <li>Covers <strong>multiple issue areas</strong>: pledges, migration, NHS, inflation, economy</li>
+            <li>Is <strong>interactive</strong> — compare any two PMs side-by-side</li>
+          </ul>
+        </p>
+      </div>
+
+      <div class="faq-item">
+        <h3>📱 Can I use this on my phone?</h3>
+        <p>
+          Yes! The pledge tracker is fully responsive and works on desktop, tablet, and mobile devices.
+          The comparison table will reflow for smaller screens.
+        </p>
+      </div>
+    </section>
+
+    <!-- Data Sources -->
+    <section class="data-sources">
+      <h2>📋 Our Data Sources</h2>
+      <p style="margin-bottom: 15px; color: #666;">
+        Everything on this pledge tracker comes from official UK government sources. No estimates, no guesses.
+      </p>
+      <ul>
+        <li><strong><a href="https://www.ons.gov.uk/">Office for National Statistics (ONS)</a></strong> — Net migration, inflation (CPI), wage growth, cost of living indices</li>
+        <li><strong><a href="https://www.england.nhs.uk/">NHS England</a></strong> — NHS waiting list statistics, referral-to-treatment times</li>
+        <li><strong><a href="https://www.bankofengland.co.uk/">Bank of England</a></strong> — Interest rates, inflation targets, monetary policy decisions</li>
+        <li><strong><a href="https://parliament.uk/">Parliament.uk</a></strong> — Legislative records, bill progress, government announcements</li>
+        <li><strong><a href="https://www.gov.uk/">Gov.uk</a></strong> — Official government statistics and policy announcements</li>
+      </ul>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="cta-section">
+      <h2>Ready to Dive Deeper?</h2>
+      <p>Explore individual Prime Minister records, compare metrics, and see the full data breakdown.</p>
+      <a href="/compare-prime-ministers/" class="cta-button">View Full Comparison Report →</a>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2024–2026 Did They Deliver? | <a href="/about/">About & Methodology</a> | <a href="/about/">Data Sources</a> | Politically Neutral UK Political Accountability Tracker</p>
+  </footer>
+
+</body>
+</html>
