@@ -2,3 +2,9 @@
 .env
 node_modules/
 *.log
+
+# Local working notes / one-off SEO analyses (not part of the published site)
+BEFORE_AFTER_SEO_COMPARISON.txt
+IMPLEMENTATION_SUMMARY.md
+PLEDGE_TRACKER_PAGE_ANALYSIS.md
+SEO_CTR_Optimization_Report.md
