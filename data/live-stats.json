@@ -48,13 +48,13 @@
       "stale": true
     },
     "net_migration": {
-      "value": 685000,
-      "display": "685K/yr",
-      "period": "Jun 2025",
+      "value": 204000,
+      "display": "204K/yr",
+      "period": "YE Jun 2025 (prov.)",
       "label": "Net Migration",
-      "color": "r",
+      "color": "a",
       "source": "ONS MIG/DJZN",
-      "stale": true
+      "stale": false
     },
     "nhs_rtt": {
       "value": 7100000,
@@ -111,7 +111,7 @@
       "pm": "starmer",
       "pledge": "Reduce overall net migration",
       "target": "Significant reduction from 764,000 peak",
-      "current": "685K/yr (Jun 2025) — record was 764,000",
+      "current": "204K/yr (YE Jun 2025 prov.) — down from 764K peak",
       "status": "partial",
       "source": "ONS LTIM"
     }
