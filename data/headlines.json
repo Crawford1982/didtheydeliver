@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-15T19:16:22.838861+00:00",
+  "fetched_at": "2026-04-16T02:35:24.389928+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Boosting military spending by slashing welfare is not the answer, senior Labour figures warn Reeves",
-        "url": "https://www.theguardian.com/politics/2026/apr/15/military-spending-increase-welfare-rachel-reeves",
-        "description": "MPs and peers say pitting defence and welfare against each other risks losing public support for increased spending on the militarySenior Labour figures have warned that Rachel Reeves must find alt...",
+        "title": "English councils need to hire 1,400 more educational psychologists, says report",
+        "url": "https://www.theguardian.com/education/2026/apr/16/english-councils-need-to-hire-1400-more-educational-psychologists-says-report",
+        "description": "Rising demand from children with special needs means the £140m required could come from government grantsCouncils in England need to hire 1,400 more educational psychologists at a cost of £140m to ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reeves tells Americans Trump’s Iran war is a ‘mistake’",
-        "url": "https://www.theguardian.com/politics/2026/apr/15/rachel-reeves-donald-trump-iran-war-uk-us",
-        "description": "UK chancellor steps up criticism, telling Washington event she is unconvinced conflict has made world a safer placeMiddle East crisis – live updatesRachel Reeves has stepped up her criticism of Don...",
+        "title": "Reeves gives more energy bill support to businesses as Iran war pushes up costs",
+        "url": "https://www.theguardian.com/business/2026/apr/15/rachel-reeves-energy-bill-support-business-iran-war",
+        "description": "Scheme cutting bills by up to 25% expanded to cover 10,000 firms, but they will not be paid until next yearRachel Reeves has announced an expansion of support for the most energy-intensive UK busin...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Wales’s first minister calls on Keir Starmer to halt US-UK space defence project",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/15/wales-first-minister-keir-starmer-space-defence-project-darc-donald-trump",
-        "description": "Eluned Morgan says US under Donald Trump is ‘not partner it once was’ with Iran threats and ‘contempt’ towards UKWales’s first minister has called on Keir Starmer to suspend a big joint defence pro...",
+        "title": "MPs vote against social media ban for under-16s a second time",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/15/mps-vote-against-social-media-ban-for-under-16s-a-second-time",
+        "description": "Commons rejects proposal by 256 to 150 to side with government on plan to tackle online harms affecting childrenMPs have rejected a proposal to ban under-16s from using social media for the second ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "Live Nation and Ticketmaster had monopoly over big venues, US jury finds",
+        "url": "https://www.theguardian.com/business/2026/apr/15/live-nation-ticketmaster-monopoly-ruling",
+        "description": "Verdict in states’ case says concert giant stifled competition in ticketing industry, raising pressure for changesConcert giant Live Nation and its Ticketmaster subsidiary had a harmful monopoly ov...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Wall Street scales fresh record high as investors bet on end of Iran war",
+        "url": "https://www.theguardian.com/business/2026/apr/15/stock-market-record-high-iran-war",
+        "description": "The S&P breached 7,000 points for the first time in history, in a rally that erased stark losses incurred at start of warWall Street scaled a fresh all-time high on Wednesday amid growing optimism ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "IMF calls for countries to economise on energy supplies, and hails UK’s budget deficit improvement – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/apr/15/stock-markets-iran-war-peace-deal-reeves-bessent-imf-business-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial news, as IMF managing director Kristalina Georgieva gives a press conference in Washington DCReeves steps up criticism of Trump’s Iran war, bra...",
@@ -40,32 +54,18 @@
         "category": "economy"
       },
       {
-        "title": "Trump threatens to fire Fed chair Jerome Powell amid pressure campaign",
-        "url": "https://www.theguardian.com/business/2026/apr/15/trump-threatens-fire-fed-chair-jerome-powell",
-        "description": "US president says he has ‘held back’ on firing the head of the Federal Reserve leading up to end of Powell’s term in MaySign up for the Breaking News US email to get newsletter alerts in your inbox...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Economic shock from Iran war risks driving up global debt levels, says IMF",
-        "url": "https://www.theguardian.com/business/2026/apr/15/iran-war-global-debt-imf-prices-growth",
-        "description": "Conflict is pushing up price of energy and food, fuelling higher borrowing costs and hitting growth, report saysIran war escalation could trigger global recession, IMF warnsThe Iran war risks trigg...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US war on Iran was a 'mistake', says Reeves",
-        "url": "https://www.bbc.com/news/articles/cr5110n2l3mo?at_medium=RSS&at_campaign=rss",
-        "description": "The chancellor's criticism follows a report that the conflict will hit the UK harder than other big economies.",
+        "title": "Bank boss tells BBC he won't rush interest rate rises",
+        "url": "https://www.bbc.com/news/articles/cn5330l73y2o?at_medium=RSS&at_campaign=rss",
+        "description": "Bank of England governor says the Iran war energy shock makes the next rate decision \"very very difficult\".",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "Streeting relaunches women’s health strategy to tackle ‘medical misogyny’",
-        "url": "https://www.theguardian.com/society/2026/apr/14/wes-streeting-women-nhs-england-health-strategy",
-        "description": "Health secretary says NHS is ‘failing women’ and pledges to end ‘gaslighting’ by doctorsWes Streeting has vowed to stop women being “gaslit” by doctors as he relaunches the women’s health strategy ...",
+        "title": "People in north of England twice as likely to be killed in accidents as Londoners, report finds",
+        "url": "https://www.theguardian.com/society/2026/apr/16/people-in-north-of-england-twice-as-likely-to-be-killed-in-accidents-as-londoners-report-finds",
+        "description": "Safety charity warns deaths are rising overall and closely linked to deprivationPeople in the north of England are twice as likely to be killed in accidents than Londoners, with accidental deaths c...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -77,9 +77,9 @@
         "category": "nhs"
       },
       {
-        "title": "Government sets aside extra £1bn for victims of UK’s infected blood scandal",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/14/compensation-victims-infected-blood-scandal-rise",
-        "description": "Additional funds include extra £35,000 each for former pupils experimented on at school without their knowledgeCompensation payments will rise for people affected by the infected blood scandal, inc...",
+        "title": "Streeting relaunches women’s health strategy to tackle ‘medical misogyny’",
+        "url": "https://www.theguardian.com/society/2026/apr/14/wes-streeting-women-nhs-england-health-strategy",
+        "description": "Health secretary says NHS is ‘failing women’ and pledges to end ‘gaslighting’ by doctorsWes Streeting has vowed to stop women being “gaslit” by doctors as he relaunches the women’s health strategy ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "English councils need to hire 1,400 more educational psychologists, says report",
+        "url": "https://www.theguardian.com/education/2026/apr/16/english-councils-need-to-hire-1400-more-educational-psychologists-says-report",
+        "description": "Rising demand from children with special needs means the £140m required could come from government grantsCouncils in England need to hire 1,400 more educational psychologists at a cost of £140m to ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Sri Lankan student could be deported from UK after one-day student fee delay",
         "url": "https://www.theguardian.com/education/2026/apr/15/sri-lankan-student-could-be-deported-from-uk-student-fee-delay-coventry-university",
         "description": "Coventry University reported Navodya De Silva, 25, to Home Office after £8,000 arrived late, causing termination of visaA Sri Lankan university student says her life has been ruined because a one-d...",
@@ -158,20 +165,13 @@
         "description": "We would like to hear parents’ views on their children’s school mealsThe government is to announce an overhaul to school food standards in England that will lead to dishes such as fish and chips an...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "‘An incalculable loss’: Hampshire College to close doors after fall semester",
-        "url": "https://www.theguardian.com/us-news/2026/apr/14/hampshire-college-massachusetts-closure",
-        "description": "Massachusetts liberal arts college laments ‘heartbreaking reality’ and says financial pressures to blameA Massachusetts liberal arts college is set to close permanently due to low enrollment and fi...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
       {
-        "title": "Government’s 1.5m housebuilding target in England is suffering subsidence | Nils Pratley",
+        "title": "Government’s 1.5m housebuilding target in England is suffering from subsidence | Nils Pratley",
         "url": "https://www.theguardian.com/society/2026/apr/15/government-housebuilding-target-england-iran-war-barratt-redrow",
-        "description": "As the country’s biggest housebuilder cuts land buying and the Iran war pushes up costs, setting an ambitious figure appears even more foolishThis is what the government didn’t want to hear when it...",
+        "description": "As the country’s biggest housebuilder cuts land buying and the Iran war pushes up costs, setting such an ambitious figure appears even more foolishThis is what the government didn’t want to hear wh...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+        "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Former US Marine pilot loses appeal against extradition from Australia",
+        "url": "https://www.bbc.com/news/articles/c20q2n0l9vgo?at_medium=RSS&at_campaign=rss",
+        "description": "Daniel Duggan was arrested in 2022 over claims he illegally trained the Chinese military in South Africa.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Trump's rift with Pope is playing out in public - it's costing him valuable support",
         "url": "https://www.bbc.com/news/articles/c070jxyjrmeo?at_medium=RSS&at_campaign=rss",
         "description": "Leading conservative Catholics tell the BBC why they back the American pontiff in his spat with Trump.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
-        "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
-        "description": "Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Nine killed in second Turkish school shooting in two days",
-        "url": "https://www.bbc.com/news/articles/cn088n9e6e9o?at_medium=RSS&at_campaign=rss",
-        "description": "Eight students and one teacher died in the attack, according to Interior Minister Mustafa Cifci.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
