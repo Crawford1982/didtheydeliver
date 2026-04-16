@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-04-16T07:44:59.973107+00:00",
+  "fetched_at": "2026-04-16T13:28:37.014360+00:00",
   "headlines": {
     "government": [
       {
-        "title": "CEO of bitcoin firm championed by Nigel Farage leaves company",
-        "url": "https://www.theguardian.com/politics/2026/apr/16/ceo-of-bitcoin-firm-championed-by-nigel-farage-leaves-company-stack-btc",
-        "description": "Resignation announced of Jai Patel, whose liquidated crypto firm was relaunched as Stack BTC this yearThe chief executive of a bitcoin company promoted by Nigel Farage has left his role as the vent...",
+        "title": "News of BBC jobs cuts ‘real concern‘, says UK’s culture secretary",
+        "url": "https://www.theguardian.com/media/2026/apr/16/bbc-jobs-cuts-real-concern-says-lisa-nandy-culture-secretary",
+        "description": "Lisa Nandy says BBC staff have been strongly affected and have expressed frustration that high-paid presenters and executives are unlikely to be affectedThe BBC’s sudden announcement of 2,000 job c...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Is Keir Starmer ‘complacent’ on defence? – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/apr/16/is-keir-starmer-complacent-on-defence-podcast",
-        "description": "Keir Starmer has hit back at Labour peer George Robertson’s criticisms about defence funding. Why has the government been slow to prioritise defence and what trade-offs is Keir Starmer willing to m...",
+        "title": "Starmer tells social media firms in No 10 meeting ‘things can’t go on like this’",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/16/keir-starmer-social-media-firms-no-10-meeting",
+        "description": "PM summons senior figures from Meta, TikTok, Google and X and says social media is ‘putting our children at risk’Keir Starmer has told social media bosses “things can’t go on like this” in a meetin...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "English councils need to hire 1,400 more educational psychologists, says report",
-        "url": "https://www.theguardian.com/education/2026/apr/16/english-councils-need-to-hire-1400-more-educational-psychologists-says-report",
-        "description": "Rising demand from children with special needs means the £140m required could come from government grantsCouncils in England need to hire 1,400 more educational psychologists at a cost of £140m to ...",
+        "title": "Scottish retailers dismiss SNP proposal to cap price of essential foods as a ‘potty gimmick’ – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/16/iran-economy-food-fuel-local-elections-covid-latest-news-updates",
+        "description": "Scottish Retail Consortium blames rising supply chain and commodity costs as it also hits out at ‘relentless rises in statutory costs imposed by government’ Swinney says this is a manifesto for the...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Migrants making false domestic abuse claims to stay in UK, BBC investigation finds",
-        "url": "https://www.bbc.com/news/articles/crl19dzdd38o?at_medium=RSS&at_campaign=rss",
-        "description": "In the third part of an undercover investigation, the BBC reveals how rules aimed at protecting abuse victims are being exploited.",
+        "title": "Home Office investigating after BBC finds migrants making false claims to stay in UK",
+        "url": "https://www.bbc.com/news/articles/c0q92lg9ln5o?at_medium=RSS&at_campaign=rss",
+        "description": "No 10 says the government is working to ensure \"anyone potentially abusing our immigration system is held accountable\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK economy on ‘stronger footing’ than expected before energy shock after February growth surge – business live",
+        "title": "UK could face gaps on supermarket shelves by summer if Iran war continues",
+        "url": "https://www.theguardian.com/business/2026/apr/16/uk-possible-food-shortages-iran-war-co2",
+        "description": "Ministers drawing up contingency plans for ‘reasonable worst-case scenario’ if supply of CO2 is disruptedBusiness live – latest updatesThe UK could face some gaps on supermarket shelves this summer...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Europe has ‘maybe 6 weeks of jet fuel left,’ energy agency head warns – business live",
         "url": "https://www.theguardian.com/business/live/2026/apr/16/uk-february-gdp-report-economy-iran-war-stock-market-reeves-ftse-sterling-live-updates",
-        "description": "UK economy smashes forecasts with 0.5% growth in February, but economists fear growth will now slow sharply due to Iran warThe UK’s growth acceleration in February is likely to be “short-lived”, du...",
+        "description": "There will be flight cancellations ‘soon’ if oil supplies are not restored in coming weeks, says head of IEAEurope has only six weeks’ supply of jet fuel left owing to Iran war, says energy chiefTh...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Live Nation and Ticketmaster had monopoly over big venues, US jury finds",
-        "url": "https://www.theguardian.com/business/2026/apr/15/live-nation-ticketmaster-monopoly-ruling",
-        "description": "Verdict in states’ case says concert giant stifled competition in ticketing industry, raising pressure for changesConcert giant Live Nation and its Ticketmaster subsidiary had a harmful monopoly ov...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK economy grew faster than expected ahead of Iran war",
-        "url": "https://www.bbc.com/news/articles/cz0e23r0993o?at_medium=RSS&at_campaign=rss",
-        "description": "The economy saw its biggest monthly rise in more than two years just before the outbreak of the US-Israeli war with Iran.",
+        "title": "Europe has 'maybe 6 weeks of jet fuel left', energy boss warns",
+        "url": "https://www.bbc.com/news/articles/czjw2kz0l22o?at_medium=RSS&at_campaign=rss",
+        "description": "Flights could soon be cancelled if supplies from the Gulf remain blocked, says the International Energy Agency.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,32 +84,32 @@
         "category": "nhs"
       },
       {
-        "title": "'Breakthrough' Alzheimer's drugs unlikely to benefit patients, report suggests",
-        "url": "https://www.bbc.com/news/articles/cql77wlqlx7o?at_medium=RSS&at_campaign=rss",
-        "description": "A major review has provoked a backlash after concluding the medicines provide too little benefit to be noticed.",
+        "title": "Covid jabs huge success, but work needed on trust in vaccines - key findings from Covid report",
+        "url": "https://www.bbc.com/news/articles/ce3dp52l70zo?at_medium=RSS&at_campaign=rss",
+        "description": "Immunisation saved hundreds of thousands of UK lives, but vaccine hesitancy remains an issue.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
+        "title": "Scottish retailers dismiss SNP proposal to cap price of essential foods as a ‘potty gimmick’ – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/16/iran-economy-food-fuel-local-elections-covid-latest-news-updates",
+        "description": "Scottish Retail Consortium blames rising supply chain and commodity costs as it also hits out at ‘relentless rises in statutory costs imposed by government’ Swinney says this is a manifesto for the...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "How will attitudes change if students like me aren’t taught the truth about British colonial history? | Astrid Barltrop",
+        "url": "https://www.theguardian.com/commentisfree/2026/apr/16/students-truth-british-colonial-history-a-level-curriculum-race-migration",
+        "description": "The skewed perspectives in my A-level curriculum are staggering. Until that changes, harmful ideas about race and migration will live onAstrid Barltrop is the winner of the The Guardian Foundation’...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Sri Lankan student could be deported from UK after one-day student fee delay",
         "url": "https://www.theguardian.com/education/2026/apr/15/sri-lankan-student-could-be-deported-from-uk-student-fee-delay-coventry-university",
         "description": "Coventry University reported Navodya De Silva, 25, to Home Office after £8,000 arrived late, causing termination of visaA Sri Lankan university student says her life has been ruined because a one-d...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Hundreds of asylum seekers moved from hotels to army barracks, Home Office announces",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/14/hundreds-asylum-seekers-moved-hotels-army-barracks-home-office",
-        "description": "Refugee Council criticises Labour’s decision, saying military sites are unsuitable and ‘more expensive than hotels’Hundreds of asylum seekers have been removed from government-funded hotels while o...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Mahmood’s migration changes will deliver fraction of claimed savings, data suggests",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/13/mahmood-migration-reforms-fraction-claimed-savings",
-        "description": "Exclusive: Analysis of government figures indicates public finances will gain  £600m not £10bn if migrants’ access to benefits is reducedShabana Mahmood’s migration changes are expected to save jus...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Butterfly numbers are dropping but here are five species you may see more of",
-        "url": "https://www.bbc.com/news/articles/c75kk7p41npo?at_medium=RSS&at_campaign=rss",
-        "description": "A warming climate has helped some to flourish, researchers say, but the outlook is troubling.",
+        "title": "Why cheap power could matter more than clean power in the push for net zero",
+        "url": "https://www.bbc.com/news/articles/c86ey5n9vx9o?at_medium=RSS&at_campaign=rss",
+        "description": "The question of how important making our electricity clean is to going green is coming under increasing scrutiny",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
-        "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Israeli demolitions levelling towns in south Lebanon, satellite images show",
+        "title": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
         "url": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
         "description": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Frank Gardner: What is China's role in the Iran war?",
-        "url": "https://www.bbc.com/news/videos/cz67760pq0xo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC Security Correspondent Frank Gardner explains how the world's second-largest economy fits into the Gulf conflict.",
+        "title": "Pope criticises 'tyrants' who spend billions on wars, days after Trump spat",
+        "url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
+        "description": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Turkish police detain 162 people over online praise for school shootings",
+        "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
+        "description": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
