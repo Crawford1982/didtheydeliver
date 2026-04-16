@@ -24,6 +24,12 @@
 
   <!-- Comparison & Topic Landing Pages -->
   <url>
+    <loc>https://didtheydeliver.co.uk/pledge-tracker/</loc>
+    <lastmod>2026-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+  <url>
     <loc>https://didtheydeliver.co.uk/compare-prime-ministers/</loc>
     <lastmod>2026-03-31</lastmod>
     <changefreq>monthly</changefreq>
