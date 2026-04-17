@@ -1,48 +1,41 @@
 {
-  "fetched_at": "2026-04-17T07:45:11.130271+00:00",
+  "fetched_at": "2026-04-17T13:18:09.130208+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Minister defends Starmer amid Mandelson revelations, saying vetting decision ‘utterly unacceptable’ – UK politics live",
+        "title": "Starmer says it is ‘staggering’ and ‘unforgivable’ he was not told Mandelson failed vetting – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/apr/17/peter-mandelson-keir-starmer-olly-robbins-vetting-foreign-office-latest-news-updates",
-        "description": "Darren Jones says he has ordered an urgent review into news that the Foreign Office ignored security vetting adviceOlly Robbins forced out in Mandelson vetting rowJones told BBC Radio 4’s Today Pro...",
+        "description": "PM responds to Guardian revelations that Foreign Office overrode failed security vetting for former minister Olly Robbins forced out in Mandelson vetting rowJones repeatedly denied that the prime m...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer should face Commons inquiry over Mandelson vetting, says Ed Davey",
-        "url": "https://www.theguardian.com/politics/2026/apr/17/starmer-mandelson-commons-inquiry-privileges-committee-vetting-ed-davey",
-        "description": "Exclusive: Liberal Democrat leader calls for privileges committee to investigate whether PM misled parliamentUK politics live – latest updatesA powerful Commons committee should investigate whether...",
+        "title": "Olly Robbins is just the latest: a guide to the high-profile exits under Starmer’s tenure",
+        "url": "https://www.theguardian.com/politics/2026/apr/17/olly-robbins-guide-resignations-keir-starmer-labour",
+        "description": "There has been a steady succession of departures by ministers and senior officials in the past two yearsThe exit of the top civil servant Olly Robbins from the UK Foreign, Commonwealth and Developm...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Woman stranded in Dusseldorf after return UK flight blocked over Home Office admin error",
-        "url": "https://www.theguardian.com/politics/2026/apr/17/woman-dusseldorf-uk-home-office-return-flight-blocked",
-        "description": "Liza Tobay, who lives in UK, was told her settled status had been ‘red flagged’ after trying to make a connecting flight from Munich to EdinburghA German woman has been separated from her two-year-...",
+        "title": "Southport inquiry chair to review Peter Mandelson vetting process",
+        "url": "https://www.theguardian.com/politics/2026/apr/17/retired-high-court-judge-to-review-peter-mandelson-vetting-process",
+        "description": "Exclusive: Adrian Fulford will also examine wider national security vetting system in review commissioned by No 10UK politics live – latest updatesA retired high court judge is expected to review P...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Chris Mason: Mandelson nightmare haunts Starmer again",
-        "url": "https://www.bbc.com/news/articles/c8dl8l5l008o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister is believed to be absolutely furious over the handling of Lord Mandelson's vetting, Chris Mason writes.",
+        "title": "What we know about Mandelson's vetting and security clearance",
+        "url": "https://www.bbc.com/news/articles/cj0n5700nrpo?at_medium=RSS&at_campaign=rss",
+        "description": "The former US ambassador was given a security clearance despite concerns being raised during checks.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK could face gaps on supermarket shelves by summer if Iran war continues",
-        "url": "https://www.theguardian.com/business/2026/apr/16/uk-possible-food-shortages-iran-war-co2",
-        "description": "Ministers drawing up contingency plans for ‘reasonable worst-case scenario’ if supply of CO2 is disruptedBusiness live – latest updatesThe UK could face some gaps on supermarket shelves this summer...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Wheat price heading for biggest jump in two months as Iran war threatens to drive food security higher – business live",
+        "title": "Oil tumbles 10% as Iran declares strait of Hormuz ‘completely open’ – business live",
         "url": "https://www.theguardian.com/business/live/2026/apr/17/wheat-price-jump-iran-war-fertiliser-food-insecurity-oil-stock-markets-latest-updates",
-        "description": "Rolling coverage of the latest economic and financial newsCuts to overseas aid will worsen shocks to global economy, David Miliband saysBritain’s blue-chip share index has dropped slightly, pulled ...",
+        "description": "Rolling coverage of the latest economic and financial news, as Iran war drives up food insecurity fears and puts pressures on companiesCuts to overseas aid will worsen shocks to global economy, Dav...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +47,16 @@
         "category": "economy"
       },
       {
+        "title": "Ukraine war briefing: €90bn EU loan for Ukraine to be released in second quarter",
+        "url": "https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia",
+        "description": "EU economy commissioner says Iran war is feeding Russia’s war machine; Trump condemns massive strikes on Ukraine. What we know on day 1,513The EU expects to start releasing a new €90bn loan to Ukra...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
         "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-        "description": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
+        "description": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -208,7 +208,7 @@
       {
         "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
         "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
-        "description": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
+        "description": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cyber-security weaknesses.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
