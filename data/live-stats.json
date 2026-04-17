@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-16T08:26:39Z",
-  "updated_readable": "16 April 2026",
+  "updated": "2026-04-17T08:26:26Z",
+  "updated_readable": "17 April 2026",
   "stats": {
     "cpi": {
       "value": 2.8,
@@ -54,7 +54,7 @@
       "label": "Net Migration",
       "color": "a",
       "source": "ONS MIG/DJZN",
-      "stale": false
+      "stale": true
     },
     "nhs_rtt": {
       "value": 7100000,
@@ -111,7 +111,7 @@
       "pm": "starmer",
       "pledge": "Reduce overall net migration",
       "target": "Significant reduction from 764,000 peak",
-      "current": "204K/yr (YE Jun 2025 prov.) — down from 764K peak",
+      "current": "204K/yr (YE Jun 2025 (prov.)) — record was 764,000",
       "status": "partial",
       "source": "ONS LTIM"
     }
