@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-04-16T19:12:26.393634+00:00",
+  "fetched_at": "2026-04-17T02:31:05.286419+00:00",
   "headlines": {
     "government": [
       {
+        "title": "Foreign Office’s top civil servant Olly Robbins forced out over Mandelson vetting row",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/16/foreign-offices-top-civil-servant-olly-robbins-leaves-post-in-mandelson-vetting-row",
+        "description": "Keir Starmer understood to have lost confidence in official over decision to override security vetting failureMandelson failed vetting but Foreign Office overruled decisionSir Olly Robbins, the UK ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Reeves looking to break link between gas cost and electricity prices",
+        "url": "https://www.theguardian.com/business/2026/apr/16/reeves-break-link-between-gas-cost-and-electricity-prices",
+        "description": "Chancellor wants to reduce impact of gas on market prices, as it almost always sets price of electricity in UKThe chancellor, Rachel Reeves, has said she and Ed Miliband, the energy secretary, are ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Rachel Reeves warns other budgets may be cut to lift defence spending",
         "url": "https://www.theguardian.com/politics/2026/apr/16/rachel-reeves-warns-other-budgets-may-be-cut-to-lift-defence-spending",
-        "description": "Chancellor says she is ‘working through a range of options’ to boost the armed forces but does not want to put up taxesUK politics live – latest updatesRachel Reeves has warned “difficult choices” ...",
+        "description": "Chancellor says she is ‘working through a range of options’ to boost the armed forces but does not want to put up taxesRachel Reeves has warned “difficult choices” are required to increase defence ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Badenoch calls Farage an ‘opportunist’ after he urges Scottish nationalists to back Reform",
-        "url": "https://www.theguardian.com/politics/2026/apr/16/badenoch-calls-farage-an-opportunist-after-he-urges-scottish-nationalists-to-back-reform",
-        "description": "Tory leader criticises Farage for saying that holding another independence vote ‘probably quite reasonable’Kemi Badenoch, the leader of the Conservative party, has accused Nigel Farage of being an ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour and Lib Dem MPs demand ‘shameful’ Palantir NHS contract be scrapped",
-        "url": "https://www.theguardian.com/technology/2026/apr/16/labour-and-lib-dem-mps-demand-shameful-palantir-nhs-contract-be-scrapped",
-        "description": "Spy-tech company and founder Peter Thiel should ‘have their hands ripped off our NHS’, say MPs MPs have queued up to demand the government scraps its £330m NHS contract with the spy-tech company Pa...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer did not know Mandelson failed vetting, government says",
-        "url": "https://www.bbc.com/news/articles/cx2r15151xgo?at_medium=RSS&at_campaign=rss",
-        "description": "A decision to go against the recommendation of the vetting agency was taken by officials in the Foreign Office, spokesperson says.",
+        "title": "Top Foreign Office official to leave post after Mandelson vetting row",
+        "url": "https://www.bbc.com/news/articles/c747r3v90k3o?at_medium=RSS&at_campaign=rss",
+        "description": "It comes after it emerged the peer failed security vetting but the Foreign Office still allowed him to take up the post.",
         "source": "BBC News",
         "category": "government"
       }
@@ -40,9 +40,9 @@
         "category": "economy"
       },
       {
-        "title": "IMF chief Georgieva warns ‘everyone will feel the impact’ of energy price shock, as UK growth beats forecasts – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/apr/16/uk-february-gdp-report-economy-iran-war-stock-market-reeves-ftse-sterling-live-updates",
-        "description": "There will be flight cancellations ‘soon’ if oil supplies are not restored in coming weeks, says head of IEAEurope has only six weeks’ supply of jet fuel left owing to Iran war, says energy chiefTh...",
+        "title": "Ukraine war briefing: €90bn EU loan for Ukraine to be released in second quarter",
+        "url": "https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia",
+        "description": "EU economy commissioner says Iran war is feeding Russia’s war machine; Trump condemns massive strikes on Ukraine. What we know on day 1,513The EU expects to start releasing a new €90bn loan to Ukra...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "No issues with UK fuel supply, says Reeves",
-        "url": "https://www.bbc.com/news/articles/c5y97jjnqzyo?at_medium=RSS&at_campaign=rss",
-        "description": "The chancellor was speaking at the end of the International Monetary Fund meeting in Washington.",
+        "title": "Finance ministers and top bankers raise serious concerns about Mythos AI model",
+        "url": "https://www.bbc.com/news/articles/c2ev24yx4rmo?at_medium=RSS&at_campaign=rss",
+        "description": "Experts say Mythos potentially has an unprecedented ability to identify and exploit cybersecurity weaknesses.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -171,7 +171,7 @@
       {
         "title": "Anatomy of a policy: how One Nation’s anti-immigration stance on housing became Coalition strategy",
         "url": "https://www.theguardian.com/australia-news/2026/apr/16/anatomy-of-a-policy-one-nation-coalition-angus-taylor-anti-immigration-housing",
-        "description": "Discriminating against non-citizens in Australia was until recent days a fringe approach – but Angus Taylor has taken the idea and run with itGet our breaking news email, free app or daily news pod...",
+        "description": "Discriminating against non-citizens in Australia was until recent days a fringe approach – but Angus Taylor has taken the idea and run with itFollow our Australia news live blog for latest updatesG...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Singer D4vd arrested in connection with death of missing teen girl",
+        "url": "https://www.bbc.com/news/articles/c20d22ev21wo?at_medium=RSS&at_campaign=rss",
+        "description": "The remains of 14-year-old Celeste Rivas Hernandez were found in the singer's car last year.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Pope criticises 'tyrants' who spend billions on wars after Trump spat",
         "url": "https://www.bbc.com/news/articles/cvg0z3n5e5jo?at_medium=RSS&at_campaign=rss",
         "description": "The comments follow a high-profile spat with US President Donald Trump, who called the Pope weak on crime.",
@@ -202,13 +209,6 @@
         "title": "Turkish police detain 162 people over online posts about school shootings",
         "url": "https://www.bbc.com/news/articles/cz9025d7jqzo?at_medium=RSS&at_campaign=rss",
         "description": "At least 16 people were injured in a shooting at a high school on Tuesday, before another nine were killed in a separate school shooting on Wednesday.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Former Arsenal goalkeeper Alex Manninger dies after car hit by train",
-        "url": "https://www.bbc.com/sport/football/articles/c4g84l14e5eo?at_medium=RSS&at_campaign=rss",
-        "description": "Former Arsenal goalkeeper Alex Manninger dies at the age of 48 after his car is struck by a train.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
