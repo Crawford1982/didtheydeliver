@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-18T13:00:47.789360+00:00",
+  "fetched_at": "2026-04-18T18:51:08.295632+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Olly Robbins ‘thrown under bus’ by No 10, says ex-Foreign Office chief – UK politics live",
+        "title": "Two more Reform local election candidates accused of offensive posts",
+        "url": "https://www.theguardian.com/politics/2026/apr/18/two-more-reform-local-election-candidates-accused-offensive-posts",
+        "description": "Labour calls on Nigel Farage to sack candidates and says his party’s checks ‘clearly not fit for purpose’Reform UK’s checks on candidates are “clearly not fit for purpose”, Labour has said after tw...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Olly Robbins ‘thrown under bus’ by No 10, says ex-Foreign Office chief – as it happened",
         "url": "https://www.theguardian.com/uk-news/live/2026/apr/18/keir-starmer-peter-mandelson-olly-robbins-antonia-romeo-labour-uk-politics-latest-news-updates",
-        "description": "Sir Simon McDonald said No 10 ‘wanted a scalp’ but removal of Robbins from Foreign Office felt ‘wrong’Keir Starmer faces ‘judgment day’Five unanswered questionsOn Friday the Cabinet Office released...",
+        "description": "This blog is now closed, you can read more on this story hereOn Friday the Cabinet Office released a template page from the summary document produced by UKSV after Mandelson’s vetting. The document...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "Mandelson scandal is biggest crisis for diplomatic service in decades, says ex-Foreign Office chief",
         "url": "https://www.theguardian.com/politics/2026/apr/18/peter-mandelson-scandal-crisis-diplomatic-service-keir-starmer-oliver-robbins",
-        "description": "Simon McDonald says Olly Robbins was ‘thrown under a bus’ by the prime minister and the decision feels wrong• UK politics live – latest updatesThe Peter Mandelson security vetting scandal is the bi...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Green MP: Labour caricatures working-class people over greyhound racing",
-        "url": "https://www.theguardian.com/politics/2026/apr/18/green-mp-hannah-spencer-labour-caricatures-working-class-people-over-greyhounds-ban",
-        "description": "Hannah Spencer says minister ‘continuously offends people by saying working-class people don’t care about dogs’Labour is “offensively caricaturing” working-class people by saying they do not want a...",
+        "description": "Simon McDonald says Olly Robbins was ‘thrown under a bus’ by the prime minister and the decision feels wrongThe Peter Mandelson security vetting scandal is the biggest crisis for the diplomatic ser...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,13 @@
     ],
     "economy": [
       {
+        "title": "Reeves rightly fears the bond market, but she can afford to ditch one unhelpful rule | Phillip Inman",
+        "url": "https://www.theguardian.com/business/2026/apr/18/reeves-rightly-fears-the-bond-market-but-she-can-afford-to-ditch-one-unhelpful-rule",
+        "description": "The chancellor has wisely vowed to drive down the annual deficit, but long-term defence investment must not be delayedThere is a good reason Rachel Reeves is wary of the dreaded bond market vigilan...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Traders placed over $1bn in perfectly timed bets on the Iran war. What is going on?",
         "url": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
         "description": "Suspicious wagers on the US-Israel war in Iran are creating huge windfalls and raising concerns among lawmakersSixteen bets made $100,000 accurately predicting the timing of the US airstrikes again...",
@@ -43,13 +50,6 @@
         "title": "‘It’s a twilight zone’: Iran war casts deep shadows over IMF gathering in Washington",
         "url": "https://www.theguardian.com/politics/2026/apr/18/twilight-zone-iran-war-casts-deep-shadows-rachel-reeves-imf-gathering-washington",
         "description": "Rachel Reeves joins global finance chiefs in highlighting how households and businesses are feeling the pain of higher energy pricesMiddle East crisis live: latest news updatesThe most severe energ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil tumbles 10% and stock markets rally as Iran declares strait of Hormuz ‘completely open’ – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/apr/17/wheat-price-jump-iran-war-fertiliser-food-insecurity-oil-stock-markets-latest-updates",
-        "description": "Rolling coverage of the latest economic and financial news, as Brent crude tumbles below $90 a barrelCuts to overseas aid will worsen shocks to global economy, David Miliband saysThe conflict in Ir...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,9 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "‘Whatever life throws at us, we don’t walk alone’: how a London synagogue attack birthed an act of solidarity",
+        "title": "‘A quiet, radical act’: Muslim neighbours support members of attacked London synagogue",
         "url": "https://www.theguardian.com/news/2026/apr/18/london-synagogue-antisemitism-finchley-communities",
-        "description": "After the attempted arson attack on a London synagogue, communities remain determined that ‘building higher walls’ will not stem rising tide of antisemitism“How good and how wonderful it is when fr...",
+        "description": "After attempted arson attack, communities are determined to remain resilient and open“How good and how wonderful it is when friends sit together,” reads a variation on a verse from Psalms painted h...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
-        "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
-        "description": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
+        "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+        "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+        "description": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Pope says 'tyrants' speech was not aimed at Trump",
+        "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
+        "description": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
         "url": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
         "description": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Thousands celebrate open-air Mass with Pope Leo in Cameroon - in pictures",
-        "url": "https://www.bbc.com/news/articles/cdj7kwn1d78o?at_medium=RSS&at_campaign=rss",
-        "description": "Pope Leo XIV is on his third day in Cameroon before he heads to Angola on Saturday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
