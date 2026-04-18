@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-04-17T18:59:29.848219+00:00",
+  "fetched_at": "2026-04-18T02:21:43.329008+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer was kept in dark about Mandelson’s vetting by two other top civil servants",
+        "title": "Keir Starmer faces ‘judgment day’ as Mandelson vetting debacle grows",
+        "url": "https://www.theguardian.com/politics/2026/apr/17/keir-starmer-faces-judgment-day-as-mandelson-vetting-debacle-grows",
+        "description": "As revelations mount and accusations fly, prime minister prepares for MPs’ anger and Olly Robbins’ testimony early next weekKeir Starmer’s claim he was “staggered” not to have been told of Peter Ma...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Starmer was left in dark about Mandelson’s vetting by two other top civil servants",
         "url": "https://www.theguardian.com/politics/2026/apr/17/keir-starmer-kept-in-dark-peter-mandelson-vetting-two-top-civil-servants",
-        "description": "Exclusive: Officials have spent weeks debating whether or not to release highly sensitive information about the affairKeir Starmer was kept in the dark about sensitive information relating to Peter...",
+        "description": "Exclusive: Officials have spent weeks debating whether or not to release highly sensitive information about the affairKeir Starmer was left in the dark about sensitive information relating to Peter...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -13,13 +20,6 @@
         "title": "Is Mandelson vetting scandal the final straw for Starmer? – The Latest",
         "url": "https://www.theguardian.com/news/audio/2026/apr/17/is-mandelson-vetting-scandal-the-final-straw-for-starmer-the-latest",
         "description": "Keir Starmer says it is ‘staggering’ and ‘unforgivable’ that he was not told Peter Mandelson had failed security vetting before taking up the role of US ambassador. The comments follow a Guardian i...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "India fails to pass bill to boost women’s representation after delimitation row",
-        "url": "https://www.theguardian.com/world/2026/apr/17/india-narendra-modi-women-representation-delimitationl",
-        "description": "Opposition accuses Narendra Modi government of using quotas as cover for redrawing electoral mapThe Indian government has failed to pass a bill to increase female representation in parliament after...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Oil prices plunge as Iran says Strait of Hormuz 'open' during ceasefire",
-        "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
-        "description": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
+        "title": "Mortgage rates show signs of falling after Iran war peak",
+        "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss",
+        "description": "Major lenders make rate reductions as markets take some heart from a possible truce in the Iran war.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Rollout of Covid vaccines extraordinary feat - inquiry report",
-        "url": "https://www.bbc.com/news/articles/cp8dpjx1yvmo?at_medium=RSS&at_campaign=rss",
-        "description": "Covid vaccines saved hundreds of thousands of lives, but a small minority harmed need better support, says report.",
+        "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%",
+        "url": "https://www.bbc.com/news/articles/c4g84nxwz8wo?at_medium=RSS&at_campaign=rss",
+        "description": "A study confirms the vaccine gives excellent protection for babies against life-threatening chest infections.",
         "source": "BBC News",
         "category": "nhs"
       }
