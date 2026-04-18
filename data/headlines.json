@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-04-18T07:06:29.327866+00:00",
+  "fetched_at": "2026-04-18T13:00:47.789360+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Olly Robbins ‘thrown under bus’ by No 10, says ex-Foreign Office chief – UK politics live",
+        "url": "https://www.theguardian.com/uk-news/live/2026/apr/18/keir-starmer-peter-mandelson-olly-robbins-antonia-romeo-labour-uk-politics-latest-news-updates",
+        "description": "Sir Simon McDonald said No 10 ‘wanted a scalp’ but removal of Robbins from Foreign Office felt ‘wrong’Keir Starmer faces ‘judgment day’Five unanswered questionsOn Friday the Cabinet Office released...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Mandelson scandal is biggest crisis for diplomatic service in decades, says ex-Foreign Office chief",
+        "url": "https://www.theguardian.com/politics/2026/apr/18/peter-mandelson-scandal-crisis-diplomatic-service-keir-starmer-oliver-robbins",
+        "description": "Simon McDonald says Olly Robbins was ‘thrown under a bus’ by the prime minister and the decision feels wrong• UK politics live – latest updatesThe Peter Mandelson security vetting scandal is the bi...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Green MP: Labour caricatures working-class people over greyhound racing",
         "url": "https://www.theguardian.com/politics/2026/apr/18/green-mp-hannah-spencer-labour-caricatures-working-class-people-over-greyhounds-ban",
@@ -10,32 +24,25 @@
         "category": "government"
       },
       {
-        "title": "‘It’s a twilight zone’: Iran war casts deep shadows over IMF gathering in Washington",
-        "url": "https://www.theguardian.com/politics/2026/apr/18/twilight-zone-iran-war-casts-deep-shadows-rachel-reeves-imf-gathering-washington",
-        "description": "Rachel Reeves joins global finance chiefs in highlighting how households and businesses are feeling the pain of higher energy pricesThe most severe energy shock since the 1970s, the risk of a globa...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Keir Starmer faces ‘judgment day’ as Mandelson vetting debacle grows",
-        "url": "https://www.theguardian.com/politics/2026/apr/17/keir-starmer-faces-judgment-day-as-mandelson-vetting-debacle-grows",
-        "description": "As revelations mount and accusations fly, prime minister prepares for MPs’ anger and Olly Robbins’ testimony early next weekKeir Starmer’s claim he was “staggered” not to have been told of Peter Ma...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "'Staggering' I was not told Mandelson failed vetting, says PM",
-        "url": "https://www.bbc.com/news/articles/c17v2452vglo?at_medium=RSS&at_campaign=rss",
-        "description": "The PM is facing calls to resign over the revelation that Lord Mandelson did not pass security checks.",
+        "title": "Senior official ousted over Mandelson security row to face MPs",
+        "url": "https://www.bbc.com/news/articles/c0kryzd8l7no?at_medium=RSS&at_campaign=rss",
+        "description": "Former Foreign Office chief Sir Olly Robbins is expected to be grilled by the Foreign Affairs Committee on Tuesday.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "Traders placed over $1bn in perfectly timed bets on the Iran war. What is going on?",
+        "url": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
+        "description": "Suspicious wagers on the US-Israel war in Iran are creating huge windfalls and raising concerns among lawmakersSixteen bets made $100,000 accurately predicting the timing of the US airstrikes again...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "‘It’s a twilight zone’: Iran war casts deep shadows over IMF gathering in Washington",
         "url": "https://www.theguardian.com/politics/2026/apr/18/twilight-zone-iran-war-casts-deep-shadows-rachel-reeves-imf-gathering-washington",
-        "description": "Rachel Reeves joins global finance chiefs in highlighting how households and businesses are feeling the pain of higher energy pricesThe most severe energy shock since the 1970s, the risk of a globa...",
+        "description": "Rachel Reeves joins global finance chiefs in highlighting how households and businesses are feeling the pain of higher energy pricesMiddle East crisis live: latest news updatesThe most severe energ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -43,13 +50,6 @@
         "title": "Oil tumbles 10% and stock markets rally as Iran declares strait of Hormuz ‘completely open’ – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/apr/17/wheat-price-jump-iran-war-fertiliser-food-insecurity-oil-stock-markets-latest-updates",
         "description": "Rolling coverage of the latest economic and financial news, as Brent crude tumbles below $90 a barrelCuts to overseas aid will worsen shocks to global economy, David Miliband saysThe conflict in Ir...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Cuts to overseas aid will worsen shocks to global economy, David Miliband says",
-        "url": "https://www.theguardian.com/politics/2026/apr/17/cuts-to-oversea-aid-worsen-shocks-global-economy-david-miliband-iran-war",
-        "description": "Exclusive: Former UK foreign secretary says poor and rich countries alike will be hit amid humanitarian crisis sparked by Iran warCuts to overseas aid by countries including the US and the UK risk ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "‘Whatever life throws at us, we don’t walk alone’: how a London synagogue attack birthed an act of solidarity",
+        "url": "https://www.theguardian.com/news/2026/apr/18/london-synagogue-antisemitism-finchley-communities",
+        "description": "After the attempted arson attack on a London synagogue, communities remain determined that ‘building higher walls’ will not stem rising tide of antisemitism“How good and how wonderful it is when fr...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "No 10 claims Starmer did not know Mandelson failed security vetting until this week – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/apr/16/iran-economy-food-fuel-local-elections-covid-latest-news-updates",
         "description": "The prime minister was not aware that the former US ambassador had failed the vetting process, according to Downing StreetSwinney says this is a manifesto for the whole of Scotland.He confirms that...",
@@ -103,13 +110,6 @@
         "title": "How will attitudes change if students like me aren’t taught the truth about British colonial history? | Astrid Barltrop",
         "url": "https://www.theguardian.com/commentisfree/2026/apr/16/students-truth-british-colonial-history-a-level-curriculum-race-migration",
         "description": "The skewed perspectives in my A-level curriculum are staggering. Until that changes, harmful ideas about race and migration will live onAstrid Barltrop is the winner of the The Guardian Foundation’...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Sri Lankan student could be deported from UK after one-day student fee delay",
-        "url": "https://www.theguardian.com/education/2026/apr/15/sri-lankan-student-could-be-deported-from-uk-student-fee-delay-coventry-university",
-        "description": "Coventry University reported Navodya De Silva, 25, to Home Office after £8,000 arrived late, causing termination of visaA Sri Lankan university student says her life has been ruined because a one-d...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -192,13 +192,6 @@
     ],
     "foreign_policy": [
       {
-        "title": "Oil prices plunge as Iran says Strait 'open'",
-        "url": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
-        "description": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
         "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
         "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
         "description": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
@@ -206,9 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Kanye West concert in Poland cancelled over antisemitic comments",
-        "url": "https://www.bbc.com/news/articles/czx95rl4ek5o?at_medium=RSS&at_campaign=rss",
-        "description": "The UK government blocked the rapper from entering the country over his history of making pro-Nazi and racist statements.",
+        "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
+        "url": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
+        "description": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Thousands celebrate open-air Mass with Pope Leo in Cameroon - in pictures",
+        "url": "https://www.bbc.com/news/articles/cdj7kwn1d78o?at_medium=RSS&at_campaign=rss",
+        "description": "Pope Leo XIV is on his third day in Cameroon before he heads to Angola on Saturday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
