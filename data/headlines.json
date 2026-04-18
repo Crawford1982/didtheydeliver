@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-18T02:21:43.329008+00:00",
+  "fetched_at": "2026-04-18T07:06:29.327866+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Green MP: Labour caricatures working-class people over greyhound racing",
+        "url": "https://www.theguardian.com/politics/2026/apr/18/green-mp-hannah-spencer-labour-caricatures-working-class-people-over-greyhounds-ban",
+        "description": "Hannah Spencer says minister ‘continuously offends people by saying working-class people don’t care about dogs’Labour is “offensively caricaturing” working-class people by saying they do not want a...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "‘It’s a twilight zone’: Iran war casts deep shadows over IMF gathering in Washington",
+        "url": "https://www.theguardian.com/politics/2026/apr/18/twilight-zone-iran-war-casts-deep-shadows-rachel-reeves-imf-gathering-washington",
+        "description": "Rachel Reeves joins global finance chiefs in highlighting how households and businesses are feeling the pain of higher energy pricesThe most severe energy shock since the 1970s, the risk of a globa...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Keir Starmer faces ‘judgment day’ as Mandelson vetting debacle grows",
         "url": "https://www.theguardian.com/politics/2026/apr/17/keir-starmer-faces-judgment-day-as-mandelson-vetting-debacle-grows",
         "description": "As revelations mount and accusations fly, prime minister prepares for MPs’ anger and Olly Robbins’ testimony early next weekKeir Starmer’s claim he was “staggered” not to have been told of Peter Ma...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer was left in dark about Mandelson’s vetting by two other top civil servants",
-        "url": "https://www.theguardian.com/politics/2026/apr/17/keir-starmer-kept-in-dark-peter-mandelson-vetting-two-top-civil-servants",
-        "description": "Exclusive: Officials have spent weeks debating whether or not to release highly sensitive information about the affairKeir Starmer was left in the dark about sensitive information relating to Peter...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Is Mandelson vetting scandal the final straw for Starmer? – The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/apr/17/is-mandelson-vetting-scandal-the-final-straw-for-starmer-the-latest",
-        "description": "Keir Starmer says it is ‘staggering’ and ‘unforgivable’ that he was not told Peter Mandelson had failed security vetting before taking up the role of US ambassador. The comments follow a Guardian i...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,13 @@
     ],
     "economy": [
       {
+        "title": "‘It’s a twilight zone’: Iran war casts deep shadows over IMF gathering in Washington",
+        "url": "https://www.theguardian.com/politics/2026/apr/18/twilight-zone-iran-war-casts-deep-shadows-rachel-reeves-imf-gathering-washington",
+        "description": "Rachel Reeves joins global finance chiefs in highlighting how households and businesses are feeling the pain of higher energy pricesThe most severe energy shock since the 1970s, the risk of a globa...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Oil tumbles 10% and stock markets rally as Iran declares strait of Hormuz ‘completely open’ – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/apr/17/wheat-price-jump-iran-war-fertiliser-food-insecurity-oil-stock-markets-latest-updates",
         "description": "Rolling coverage of the latest economic and financial news, as Brent crude tumbles below $90 a barrelCuts to overseas aid will worsen shocks to global economy, David Miliband saysThe conflict in Ir...",
@@ -43,13 +50,6 @@
         "title": "Cuts to overseas aid will worsen shocks to global economy, David Miliband says",
         "url": "https://www.theguardian.com/politics/2026/apr/17/cuts-to-oversea-aid-worsen-shocks-global-economy-david-miliband-iran-war",
         "description": "Exclusive: Former UK foreign secretary says poor and rich countries alike will be hit amid humanitarian crisis sparked by Iran warCuts to overseas aid by countries including the US and the UK risk ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Ukraine war briefing: €90bn EU loan for Ukraine to be released in second quarter",
-        "url": "https://www.theguardian.com/world/2026/apr/17/ukraine-war-briefing-90bn-eu-loan-russia",
-        "description": "EU economy commissioner says Iran war is feeding Russia’s war machine; Trump condemns massive strikes on Ukraine. What we know on day 1,513The EU expects to start releasing a new €90bn loan to Ukra...",
         "source": "The Guardian",
         "category": "economy"
       },
