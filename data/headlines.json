@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-18T18:51:08.295632+00:00",
+  "fetched_at": "2026-04-19T02:35:55.232498+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Starmer would have blocked Mandelson role over vetting failure, says Lammy",
+        "url": "https://www.theguardian.com/politics/2026/apr/18/starmer-would-have-blocked-mandelson-role-over-vetting-failure-says-lammy",
+        "description": "Deputy prime minister says it is ‘inexplicable’ top civil servant kept Downing Street in darkKeir Starmer would have blocked Peter Mandelson from serving as the UK’s ambassador to Washington had he...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Two more Reform local election candidates accused of offensive posts",
         "url": "https://www.theguardian.com/politics/2026/apr/18/two-more-reform-local-election-candidates-accused-offensive-posts",
@@ -13,13 +20,6 @@
         "title": "Olly Robbins ‘thrown under bus’ by No 10, says ex-Foreign Office chief – as it happened",
         "url": "https://www.theguardian.com/uk-news/live/2026/apr/18/keir-starmer-peter-mandelson-olly-robbins-antonia-romeo-labour-uk-politics-latest-news-updates",
         "description": "This blog is now closed, you can read more on this story hereOn Friday the Cabinet Office released a template page from the summary document produced by UKSV after Mandelson’s vetting. The document...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Mandelson scandal is biggest crisis for diplomatic service in decades, says ex-Foreign Office chief",
-        "url": "https://www.theguardian.com/politics/2026/apr/18/peter-mandelson-scandal-crisis-diplomatic-service-keir-starmer-oliver-robbins",
-        "description": "Simon McDonald says Olly Robbins was ‘thrown under a bus’ by the prime minister and the decision feels wrongThe Peter Mandelson security vetting scandal is the biggest crisis for the diplomatic ser...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -42,7 +42,7 @@
       {
         "title": "Traders placed over $1bn in perfectly timed bets on the Iran war. What is going on?",
         "url": "https://www.theguardian.com/world/2026/apr/18/iran-war-bets-ethics-concerns",
-        "description": "Suspicious wagers on the US-Israel war in Iran are creating huge windfalls and raising concerns among lawmakersSixteen bets made $100,000 accurately predicting the timing of the US airstrikes again...",
+        "description": "Suspicious wagers on the US-Israel war in Iran are creating huge windfalls and raising concerns among lawmakersSixteen bets made $100,000 each accurately predicting the timing of the US airstrikes ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Pregnancy vaccine reduces baby hospital admissions for RSV by 80%",
-        "url": "https://www.bbc.com/news/articles/c4g84nxwz8wo?at_medium=RSS&at_campaign=rss",
-        "description": "A study confirms the vaccine gives excellent protection for babies against life-threatening chest infections.",
+        "title": "Should you really trust health advice from an AI chatbot?",
+        "url": "https://www.bbc.com/news/articles/clyepyy82kxo?at_medium=RSS&at_campaign=rss",
+        "description": "Abi has had very mixed results when asking a chatbot for guidance about her health issues.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Strait of Hormuz closed again, Iran says, as ships attacked",
+        "url": "https://www.bbc.com/news/articles/cx2631x6nelo?at_medium=RSS&at_campaign=rss",
+        "description": "Iran is blaming a US blockade for the closure, saying it breaches the ceasefire reached between the two countries.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "At least six killed in Kyiv as gunman opens fire and takes hostages",
         "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
         "description": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
@@ -202,13 +209,6 @@
         "title": "Pope says 'tyrants' speech was not aimed at Trump",
         "url": "https://www.bbc.com/news/articles/ce84j261kj1o?at_medium=RSS&at_campaign=rss",
         "description": "The pontiff says his remarks have been misinterpreted after a spat with the US president.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Madonna joins Sabrina Carpenter to surprise Coachella",
-        "url": "https://www.bbc.com/news/articles/c77my6gnpy4o?at_medium=RSS&at_campaign=rss",
-        "description": "The Queen of Pop makes a guest appearance during the Espresso singer's headline set.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
