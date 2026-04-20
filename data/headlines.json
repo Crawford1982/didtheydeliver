@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-04-19T18:50:40.704473+00:00",
+  "fetched_at": "2026-04-20T02:36:37.113985+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Starmer will not be swayed by Trump’s ‘small and petty’ insults, says Lammy",
+        "url": "https://www.theguardian.com/politics/2026/apr/19/starmer-will-not-be-swayed-by-trumps-small-and-petty-insults-says-lammy",
+        "description": "Exclusive: deputy PM says UK will not join Iran conflict despite Trump’s sometimes ‘incomprehensible’ social-media barbsDonald Trump’s insults towards Keir Starmer are “small and petty” and designe...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Judgment day as Starmer faces Commons showdown over Mandelson scandal",
+        "url": "https://www.theguardian.com/politics/2026/apr/19/starmer-faces-commons-showdown-over-mandelson-vetting-scandal",
+        "description": "Prime minister to deliver high-stakes statement to MPs over vetting controversy that has put his position in perilKeir Starmer will deliver a high-stakes statement to MPs on Monday as he struggles ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Ministers urged to share Mandelson vetting files with intelligence committee",
         "url": "https://www.theguardian.com/politics/2026/apr/19/ministers-urged-to-share-mandelson-vetting-files-with-intelligence-committee",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Starmer did not gamble with national security over Mandelson, says minister",
-        "url": "https://www.theguardian.com/politics/2026/apr/19/starmer-did-not-gamble-with-national-security-over-mandelson-says-minister",
-        "description": "Liz Kendall tries to limit fallout from vetting scandal as PM prepares for Commons showdownKeir Starmer did not gamble with national security by appointing Peter Mandelson as the UK’s ambassador to...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer would have blocked Mandelson appointment if he had known about failed vetting, ministers say – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/19/keir-starmer-leadership-prime-minister-labour-party-peter-mandelson-vetting-latest-news",
-        "description": "The prime minister’s leadership is still in the spotlight after Peter Mandelson was appointed US ambassador after he failed security vettingOur Scotland correspondent Libby Brooks has written this ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer would have blocked Mandelson over vetting failure, ministers say",
-        "url": "https://www.bbc.com/news/articles/c80m2z42pr1o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister says he only learned of security concerns around the ex-US ambassador earlier this week.",
+        "title": "Five questions awaiting Starmer as he faces Commons over Mandelson scandal",
+        "url": "https://www.bbc.com/news/articles/c5yw6egnjg2o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister said he was \"staggered\" to find out last week that civil servants in the Foreign Office withheld information from him.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Mortgage rates show signs of falling after Iran war peak",
-        "url": "https://www.bbc.com/news/articles/cwyx2q86lgpo?at_medium=RSS&at_campaign=rss",
-        "description": "Major lenders make rate reductions as markets take some heart from a possible truce in the Iran war.",
+        "title": "Oil prices rise after Trump says Iranian ship seized",
+        "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+        "description": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Should you really trust health advice from an AI chatbot?",
-        "url": "https://www.bbc.com/news/articles/clyepyy82kxo?at_medium=RSS&at_campaign=rss",
-        "description": "Abi has had very mixed results when asking a chatbot for guidance about her health issues.",
+        "title": "Health visitors call for limits on 'impossible' 1,000-family caseloads",
+        "url": "https://www.bbc.com/news/articles/ce8lp0pz3y9o?at_medium=RSS&at_campaign=rss",
+        "description": "BBC analysis shows the number of health visitors in England has almost halved in the last 10 years.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+        "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
+        "description": "Tehran vows retaliation soon for what it calls an \"act of armed piracy\", which comes as the US prepares for a second round of talks.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Eight children killed in Louisiana shooting, police say",
         "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
-        "description": "The children, aged from one to 14 years old, were killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\".",
+        "description": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
-        "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
-        "description": "Authorities say the officers have been suspended and an investigation into their actions is under way.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Rat poison found in HiPP baby food jar in Austria, police say",
-        "url": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
-        "description": "The brand warned on Saturday that consuming the purées may be potentially \"life-threatening\".",
+        "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+        "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+        "description": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
