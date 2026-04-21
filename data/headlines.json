@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-21T02:32:10.347650+00:00",
+  "fetched_at": "2026-04-21T07:48:54.664018+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Sacked Foreign Office chief Olly Robbins to face MPs’ questions over Mandelson vetting – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/21/olly-robbins-peter-mandelson-vetting-keir-starmer-uk-politics-latest-news-updates",
+        "description": "Robbins was forced out as Foreign Office permanent secretary over the Mandelson vetting revelations in the GuardianDonald Trump seems to be conducting his relationship with Keir Starmer chiefly by ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Starmer addresses the Mandelson vetting saga – podcast",
         "url": "https://www.theguardian.com/news/audio/2026/apr/21/starmer-addresses-the-mandelson-vetting-saga-podcast",
@@ -17,21 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Peter Mandelson: a timeline of his appointment as UK ambassador to US",
-        "url": "https://www.theguardian.com/politics/2026/apr/20/peter-mandelson-a-timeline-of-his-appointment-as-uk-ambassadorto-the-us",
-        "description": "Keir Starmer details vetting procedure overruled by the FCDO and culminated in his decision to appoint MandelsonIn a pivotal Commons statement to MPs on Monday, Keir Starmer laid out the most detai...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Officials deliberately withheld Mandelson vetting result from me, Starmer says",
-        "url": "https://www.bbc.com/news/articles/cx2wllel54no?at_medium=RSS&at_campaign=rss",
-        "description": "The PM tells the Commons that if he had known the peer failed security vetting he would not have been appointed.",
+        "title": "Sacked civil servant to speak out in Mandelson vetting row",
+        "url": "https://www.bbc.com/news/articles/czrezg3vyzjo?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Olly Robbins is expected to defend his decision not to tell Sir Keir Starmer that Lord Mandelson failed vetting.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "UK unemployment shows surprise fall to 4.9% as pay growth drops to lowest in five years",
+        "url": "https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates",
+        "description": "Bank of England expected to keep interest rates on hold as Iran war casts shadow over labour marketBusiness live – latest updatesUnemployment in the UK unexpectedly fell in the three months to Febr...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Lord Skidelsky obituary",
         "url": "https://www.theguardian.com/books/2026/apr/20/robert-skidelsky-obituary",
@@ -47,21 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "Consumer watchdog zeroes in on Woolworths’ allegedly fake discounts as it meets supermarket giant in court",
-        "url": "https://www.theguardian.com/australia-news/2026/apr/21/consumer-watchdog-accc-supermarket-woolworths-court-hearings-australia",
-        "description": "Vinegar, Tim Tams and baby rice are among the products to be scrutinised in the Australian Competition and Consumer Commission’s caseFollow our Australia news live blog for latest updatesGet our br...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Petrol thefts surge as Iran war pushes up fuel costs",
-        "url": "https://www.bbc.com/news/articles/cx2drmm1mglo?at_medium=RSS&at_campaign=rss",
-        "description": "One petrol retailer says he is experiencing about five drive-offs a week at each forecourt, costing him thousands.",
+        "title": "UK unemployment rate drops unexpectedly",
+        "url": "https://www.bbc.com/news/articles/cjd84pkkjgpo?at_medium=RSS&at_campaign=rss",
+        "description": "Most analysts had predicted the rate would remain unchanged at 5.2%.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Palantir manifesto described as ‘ramblings of a supervillain’ amid UK contract fears",
+        "url": "https://www.theguardian.com/technology/2026/apr/21/palantir-manifesto-uk-contract-fears-mps",
+        "description": "Alarm caused by posts of Alex Karp, tech firm’s CEO, championing US military dominance and of AI weaponsThe US spy tech company Palantir published a manifesto extolling the benefits of American pow...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Labour’s great green energy plan could be a legacy as vital as the NHS | Polly Toynbee",
+        "url": "https://www.theguardian.com/commentisfree/2026/apr/21/labours-green-energy-plan-legacy-nhs-ed-miliband",
+        "description": "Ed Miliband has a rare chance to do for the climate what Nye Bevan did for health: create something future generations will be proud ofIt looks unlikely that Labour will emerge as the largest party...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "The fight against medical misogyny has a long way to go | Letters",
         "url": "https://www.theguardian.com/society/2026/apr/19/the-fight-against-medical-misogyny-has-a-long-way-to-go",
@@ -70,23 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Air pollution making people in UK get long-term illnesses earlier, study finds",
-        "url": "https://www.theguardian.com/environment/2026/apr/17/air-pollution-making-people-in-uk-get-long-term-illnesses-earlier-study-finds",
-        "description": "Pollution is ‘silent accelerator that robs individuals of their healthiest years’, say researchersResearch reveals air pollution is advancing the average age that people in the UK acquire long-term...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Labour and Lib Dem MPs demand ‘shameful’ Palantir NHS contract be scrapped",
-        "url": "https://www.theguardian.com/technology/2026/apr/16/labour-and-lib-dem-mps-demand-shameful-palantir-nhs-contract-be-scrapped",
-        "description": "Spy-tech company and founder Peter Thiel should ‘have their hands ripped off our NHS’, say MPs MPs have queued up to demand the government scraps its £330m NHS contract with the spy-tech company Pa...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Health visitors call for limits on 'impossible' 1,000-family caseloads",
-        "url": "https://www.bbc.com/news/articles/ce8lp0pz3y9o?at_medium=RSS&at_campaign=rss",
-        "description": "BBC analysis shows the number of health visitors in England has almost halved in the last 10 years.",
+        "title": "Surgeon's mesh surgery cost £20m in compensation",
+        "url": "https://www.bbc.com/news/articles/cdrmv48d43jo?at_medium=RSS&at_campaign=rss",
+        "description": "The NHS confirms it has paid millions to patients injured in operations involving Tony Dixon.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Fears for 1,000 breeding toads after reservoir drained by water company",
-        "url": "https://www.bbc.com/news/articles/c8ejjd86p73o?at_medium=RSS&at_campaign=rss",
-        "description": "Volunteers who helped more than 1,500 toads cross a busy road to a breeding ground fear they have died.",
+        "title": "High electricity bills targeted in planned shakeup to energy pricing",
+        "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
+        "description": "The war in the Middle East has brought renewed attention to Britain's vulnerability to energy price shocks.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Apple names new chief executive to replace Tim Cook",
+        "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
         "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
-        "description": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman.",
+        "description": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
-        "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
-        "description": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials.",
+        "title": "Japan on high alert for 'huge' second quake after lifting tsunami warning",
+        "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
+        "description": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
