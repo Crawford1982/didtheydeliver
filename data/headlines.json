@@ -1,67 +1,81 @@
 {
-  "fetched_at": "2026-04-23T13:27:25.334885+00:00",
+  "fetched_at": "2026-04-23T19:09:57.821708+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Former Labour MP calls for Starmer to face Commons committee over Mandelson vetting",
-        "url": "https://www.theguardian.com/politics/2026/apr/23/karl-turner-former-labour-mp-calls-starmer-face-commons-committee-mandelson-vetting",
-        "description": "Karl Turner, who lost Labour whip after criticising PM and No 10, calls for privileges committee to examine if Starmer misled parliamentUK politics live – latest updatesA former Labour MP has joine...",
+        "title": "‘Toxic’ views of Reform UK candidates raise questions about party’s vetting",
+        "url": "https://www.theguardian.com/politics/2026/apr/23/toxic-views-reform-uk-candidates-raise-questions-about-elections-vetting",
+        "description": "Hope Not Hate campaign identifies election hopefuls calling for a ‘white Britain’ and complaining of ‘kowtowing to the black community’A Reform UK candidate who called for a “white Britain” and sai...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK undershoots annual borrowing target by £700m",
-        "url": "https://www.theguardian.com/business/2026/apr/23/uk-undershoots-annual-borrowing-target",
-        "description": "Figure hits three-year low but Iran war expected to blow hole in Reeves’s fiscal ‘headroom’Business live – latest updatesThe UK government budget came in below its annual borrowing target by £700m,...",
+        "title": "Foreign Office unit tracking Israel’s potential breaches of international law closes due to cuts",
+        "url": "https://www.theguardian.com/politics/2026/apr/23/foreign-office-unit-israel-potential-breaches-international-law-closed",
+        "description": "Exclusive: Officials warn department will also lose access to database of 26,000 verified incidents due to cutsThe Foreign Office unit tracking potential breaches of international law by Israel in ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer brushes off reports that cabinet ministers don’t support him over sacking of Olly Robbins – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/23/keir-starmer-peter-mandelson-vetting-cat-little-olly-robbins-vet-uk-politics-latest-news-updates",
-        "description": "The prime minister said that cabinet is still united and focused on delivering the government’s policy agendaLittle says in March she had a meeting when she asked to see the Foreign Office’s docume...",
+        "title": "UK prepared to deploy RAF Typhoons to keep strait of Hormuz open after Iran war",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/23/uk-raf-typhoons-strait-of-hormuz-iran-war",
+        "description": "Proposal at heart of offer made during a 30-country two-day meeting jointly organised by FranceMiddle East crisis – live updatesBritain is prepared to deploy a squadron of RAF Typhoons based in Qat...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK and France strike new £662m small boats deal",
-        "url": "https://www.bbc.com/news/articles/cz0ev7enk2lo?at_medium=RSS&at_campaign=rss",
-        "description": "The three-year agreement will see at least 50 riot-trained police officers drafted in to tackle violence and “hostile crowds”.",
+        "title": "Starmer says he's acting in national interest after Trump criticism",
+        "url": "https://www.bbc.com/news/articles/c77mpknd6lpo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president earlier told the BBC the UK should have given more support to the US over the Iran war.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "Iran war hurting UK economy as consumer confidence falls; BP’s new chair suffers investor revolt – as it happened",
+        "url": "https://www.theguardian.com/business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates",
+        "description": "UK consumer optimism drops for third month running, as people grow more worried about the economy and their personal financial situationEconomic output across the eurozone has fallen for first time...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK braces for price rises driven by Iran war as economic confidence plummets",
+        "url": "https://www.theguardian.com/business/2026/apr/23/uk-braces-for-price-rises-driven-by-iran-war-as-economic-confidence-plummets",
+        "description": "Consumer confidence hit its lowest level since October 2023 this month, with surveys showing the cost pressures companies are facingConfidence in the UK economy has fallen sharply amid the mounting...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "UK undershoots annual borrowing target by £700m",
         "url": "https://www.theguardian.com/business/2026/apr/23/uk-undershoots-annual-borrowing-target",
-        "description": "Figure hits three-year low but Iran war expected to blow hole in Reeves’s fiscal ‘headroom’Business live – latest updatesThe UK government budget came in below its annual borrowing target by £700m,...",
+        "description": "Figure hits three-year low but Iran war expected to blow hole in Reeves’s fiscal ‘headroom’The UK government budget came in below its annual borrowing target by £700m, official figures show – but t...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Iran war driving up costs for UK companies; BP’s new chair suffers investor revolt – business live",
-        "url": "https://www.theguardian.com/business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates",
-        "description": "Service providers report sharpest acceleration in service sector cost inflation in 30 years, largely due to higher fuel pricesEconomic output across the eurozone has fallen for first time in 16 mon...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "City firms bank on ‘Savvy Squirrel’ advertising campaign to push Britons towards investing",
-        "url": "https://www.theguardian.com/money/2026/apr/23/savvy-squirrel-advertising-uk-investment-business",
-        "description": "The campaign is part of government initiative to boost financial risk taking, amid fears UK growth is being stymiedNils Pratley: the ‘Savvy Squirrel looks a bit too tame’City firms are pinning thei...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK borrowing lowest for three years  but Iran war clouds outlook",
-        "url": "https://www.bbc.com/news/articles/ckge5291152o?at_medium=RSS&at_campaign=rss",
-        "description": "The improvement in government finances is unlikely to last, analysts say, with the impact of the Iran way yet to hit.",
+        "title": "Which airlines are cancelling flights to the UK - and what can you do?",
+        "url": "https://www.bbc.com/news/articles/cr41yel6v4eo?at_medium=RSS&at_campaign=rss",
+        "description": "Airlines are putting up prices and cancelling flights in response to higher jet fuel prices.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Baby died after NHS trust failed to warn mother of ‘unsafe’ home birth, coroner finds",
+        "url": "https://www.theguardian.com/society/2026/apr/23/baby-died-after-nhs-trust-failed-to-warn-mother-of-unsafe-home-birth-coroner-finds",
+        "description": "Seven-day-old Poppy Hope Lomas died after complications during home birth encouraged by midwives at Barnet hospitalA mother who lost her baby a week after an “unsafe” home birth that went against m...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Keir Starmer was wrong to sack Olly Robbins | Brief letters",
+        "url": "https://www.theguardian.com/politics/2026/apr/23/keir-starmer-was-wrong-to-sack-olly-robbins",
+        "description": "Civil service strain | Westminster bubble | Better than Nigel Farage | Andy Burnham’s chancePerhaps the most damaging consequence of the Mandelson affair is not the fate of the prime minister (Repo...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "One person diagnosed with cancer every 80 seconds in UK, report reveals",
         "url": "https://www.theguardian.com/society/2026/apr/23/one-person-diagnosed-with-cancer-every-80-seconds-in-uk-report-reveals",
@@ -70,32 +84,18 @@
         "category": "nhs"
       },
       {
-        "title": "Condom prices could rise 30% due to Iran war, says world’s top producer Karex",
-        "url": "https://www.theguardian.com/society/2026/apr/22/condom-prices-iran-war-cost-price-rise-karex",
-        "description": "Karex produces more than 5 billion condoms annually and is a supplier to leading brands like Durex and Trojan, as well as the NHS The world’s top condom producer, Malaysia’s Karex Bhd, plans to rai...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Palantir manifesto described as ‘ramblings of a supervillain’ amid UK contract fears",
-        "url": "https://www.theguardian.com/technology/2026/apr/21/palantir-manifesto-uk-contract-fears-mps",
-        "description": "Alarm caused by posts of Alex Karp, tech firm’s CEO, championing US military dominance and of AI weaponsThe US spy tech company Palantir published a manifesto extolling the benefits of American pow...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "'My baby scratches and scratches': Families say their homes are making their children sick",
-        "url": "https://www.bbc.com/news/articles/cm2r70gwkjjo?at_medium=RSS&at_campaign=rss",
-        "description": "A cross-party report has called for safer conditions for the record number of families living in temporary accommodation.",
+        "title": "UK Biobank health data listed for sale in China, government confirms",
+        "url": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss",
+        "description": "The government said medical data of 500,000 people was affected but no personally identifiable information had been made available.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
-        "title": "Migrant care workers to leaflet Shabana Mahmood constituents over longer wait to settle",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/23/migrant-care-workers-unison-shabana-mahmood-earned-settlement",
-        "description": "Campaign is said to be first time Labour-affiliated Unison is lobbying en masse against a key party policyMigrant workers and the UK’s largest union will carry out a mass leafleting campaign in Sha...",
+        "title": "UK to pay for French officers to deport asylum seekers from war-torn countries",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/23/uk-to-pay-for-french-officers-to-deport-asylum-seekers-from-war-torn-countries",
+        "description": "Removal site in Dunkirk will hold people of 10 nationalities trying to reach UK in small boats under new £660m deal with FrenchThe UK will pay for 200 French officers to detain and deport people se...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Ban 'forever chemicals' in uniforms and frying pans, MPs urge",
-        "url": "https://www.bbc.com/news/articles/ckg98q1yx9vo?at_medium=RSS&at_campaign=rss",
-        "description": "School uniforms and non-stick pans are some of the everyday products that should stop using chemicals called PFAS, MPs say.",
+        "title": "Meet the 19-metre octopus that prowled the ancient seas",
+        "url": "https://www.bbc.com/news/articles/cyv1rgm16r2o?at_medium=RSS&at_campaign=rss",
+        "description": "Giant octopuses may have ruled the oceans 100 million years ago, according to fossil evidence.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "The cinema lab: brain activity tracked to find secret to creating immersive films",
+        "url": "https://www.theguardian.com/science/2026/apr/23/brain-activity-tracked-secret-immersive-films",
+        "description": "Bristol University project aims to help directors make better movies and take greater risks – with one already onboardAt first glance, it looks like any high-end cinema: booming surround sound, a r...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Plan for healthier school meals in England will hit services, say caterers",
         "url": "https://www.theguardian.com/education/2026/apr/23/plan-healthier-school-meals-england-services-caterers",
@@ -158,16 +165,16 @@
         "description": "More than 70% have cut down in past year on teaching assistants, who play key role in helping children with SendTwo-fifths of school leaders in England have been forced to cut back on support for c...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "‘Apprenticeship penalty’ on benefits forces young people from poorer UK families to quit",
-        "url": "https://www.theguardian.com/education/2026/apr/23/apprenticeship-penalty-poorer-uk-families-benefits-young-people-quit-training",
-        "description": "Government advisers call for review of rules that cause loss of household income when a child takes up job training Young people from disadvantaged backgrounds are abandoning valuable job training ...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "The Guardian view on help to buy: entrenching housing inequalities, rather than helping | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-help-to-buy-entrenching-housing-inequalities-rather-than-helping",
+        "description": "The Tories’ flagship scheme has aided higher earners most. The latest analysis of its flaws should lead to a rethinkThe results are in. The biggest winners from the Conservatives’ help to buy schem...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "A moment that changed me: I thought landlords were unchallengeable – until I met one of mine at a party",
         "url": "https://www.theguardian.com/lifeandstyle/2026/apr/22/a-moment-that-changed-me-i-thought-landlords-were-unchallengeable-until-i-met-one-of-mine-at-a-party",
@@ -181,34 +188,27 @@
         "description": "Calls for ‘urgent, sustained action’ over rising number of children who do not have permanent homeLiving in temporary accommodation has contributed to the deaths of 104 children in England in the p...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Death of Sydney’s ‘birdman’ described as ‘beyond tragic’ by Albanese government",
-        "url": "https://www.theguardian.com/australia-news/2026/apr/21/death-of-sydneys-birdman-described-as-beyond-tragic-by-albanese-government",
-        "description": "NSW housing and homelessness minister says Bikram Lama’s death shows the ‘gaps’ that people without residency can fall throughFollow our Australia news live blog for latest updatesGet our breaking ...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Two trains collide head-on in Denmark, leaving five critically hurt",
-        "url": "https://www.bbc.com/news/articles/cgqkw3qk0dlo?at_medium=RSS&at_campaign=rss",
-        "description": "The accident happened early on Thursday at a level crossing north of Copenhagen.",
+        "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+        "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+        "description": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
-        "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
-        "description": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
+        "title": "In Tehran, money is short and a return to war looms over daily life",
+        "url": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US Navy chief leaving post 'effective immediately', Pentagon says",
-        "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
-        "description": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding.",
+        "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
+        "url": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
+        "description": "Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
