@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-22T19:12:07.235188+00:00",
+  "fetched_at": "2026-04-23T02:33:49.917828+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Divisions emerge in Keir Starmer’s cabinet over his sacking of Olly Robbins",
-        "url": "https://www.theguardian.com/politics/2026/apr/22/olly-robbins-starmer-sacking-ministers-cabinet-meeting",
-        "description": "PM under increasing pressure over Mandelson vetting scandal as sources say ministers spoke up at tense meetingKeir Starmer is looking increasingly isolated over his handling of the Peter Mandelson ...",
+        "title": "City firms bank on ‘savvy’ advertising campaign to push Brits towards investing",
+        "url": "https://www.theguardian.com/money/2026/apr/23/savvy-squirrel-advertising-uk-investment-business",
+        "description": "The campaign, fronted by a CGI squirrel, is part of government initiative to boost financial risk taking, amid fears UK growth is being stymiedNils Pratley: the ‘Savvy Squirrel looks a hit too tame...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Morgan McSweeney, Keir Starmer’s former chief of staff, to be questioned by MPs",
-        "url": "https://www.theguardian.com/politics/2026/apr/22/morgan-mcsweeney-starmer-former-chief-of-staff-to-be-questioned-by-mps",
-        "description": "Exclusive: McSweeney summoned by foreign affairs select committee in rare step, as Mandelson vetting row continuesMorgan McSweeney is facing a showdown with MPs who will grill him on whether he pla...",
+        "title": "UK to pay France another £660m to curb Channel crossings",
+        "url": "https://www.theguardian.com/world/2026/apr/22/uk-pay-france-660m-to-curb-channel-crossings",
+        "description": "Three-year deal includes funding for a riot squad to ‘disperse’ people trying to board small boatsThe UK government has agreed to pay France another £660m to curb the number of asylum seekers trave...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK politics: Labour MP calls for Starmer’s resignation to end ‘psychodrama’ – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/22/keir-starmer-kemi-badenoch-pmqs-olly-robbins-peter-mandelson-uk-politics-latest-news-updates",
-        "description": "Jonathan Brash says ‘own goals’ are distracting from Labour’s achievementsUK inflation accelerated to 3.3% in March after the Iran war triggered the biggest jump in fuel prices for more than three ...",
+        "title": "Inquiry clears Bristol school of antisemitism for postponing Jewish MP’s visit",
+        "url": "https://www.theguardian.com/news/2026/apr/22/no-evidence-of-antisemitism-at-bristol-brunel-academy-school-postponed-visit-by-jewish-mp-damien-egan-review-finds",
+        "description": "Independent review into Bristol Brunel academy finds Damien Egan visit was postponed over safeguarding concernsAn independent inquiry into a Bristol secondary school that found itself at the centre...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,9 @@
     ],
     "economy": [
       {
-        "title": "Takeaway coffee sales plunge as fuel and living costs dent Australian spending. Is the economy next?",
-        "url": "https://www.theguardian.com/business/2026/apr/22/takeaway-coffee-sales-australian-economy-fuel-living-costs",
-        "description": "The trend has been accelerated by the US-Israel war on Iran, leaving households – and cafe owners – glum, surveys suggestFollow our Australia news live blog for latest updatesGet our breaking news ...",
+        "title": "City firms bank on ‘savvy’ advertising campaign to push Brits towards investing",
+        "url": "https://www.theguardian.com/money/2026/apr/23/savvy-squirrel-advertising-uk-investment-business",
+        "description": "The campaign, fronted by a CGI squirrel, is part of government initiative to boost financial risk taking, amid fears UK growth is being stymiedNils Pratley: the ‘Savvy Squirrel looks a hit too tame...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Three ways the latest inflation figures affect you",
-        "url": "https://www.bbc.com/news/articles/c75k002qkzno?at_medium=RSS&at_campaign=rss",
-        "description": "How high could inflation get? And what could it mean for borrowers and savers around the country?",
+        "title": "AI is flattening the jobs market for young people, says Sunak",
+        "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
+        "description": "The former prime minister said graduates' concerns about getting entry-level jobs are justified.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "One person diagnosed with cancer every 80 seconds in UK, report reveals",
+        "url": "https://www.theguardian.com/society/2026/apr/23/one-person-diagnosed-with-cancer-every-80-seconds-in-uk-report-reveals",
+        "description": "NHS struggling to cope with record numbers, which Cancer Research UK says puts progress on survival rates at riskThe number of people in the UK being diagnosed with cancer has reached a record high...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Condom prices could rise 30% due to Iran war, says world’s top producer Karex",
         "url": "https://www.theguardian.com/society/2026/apr/22/condom-prices-iran-war-cost-price-rise-karex",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "Palantir manifesto described as ‘ramblings of a supervillain’ amid UK contract fears",
-        "url": "https://www.theguardian.com/technology/2026/apr/21/palantir-manifesto-uk-contract-fears-mps",
-        "description": "Alarm caused by posts of Alex Karp, tech firm’s CEO, championing US military dominance and of AI weaponsThe US spy tech company Palantir published a manifesto extolling the benefits of American pow...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Hay fever misery does last longer - here is how to cope",
         "url": "https://www.bbc.com/news/articles/cqj8kk0z0l5o?at_medium=RSS&at_campaign=rss",
         "description": "Symptoms are lasting for up to two weeks longer than in the 1990s, according to a major report - so what can you do about the pollen bomb?",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "UK to pay France another £660m to curb Channel crossings",
+        "url": "https://www.theguardian.com/world/2026/apr/22/uk-pay-france-660m-to-curb-channel-crossings",
+        "description": "Three-year deal includes funding for a riot squad to ‘disperse’ people trying to board small boatsThe UK government has agreed to pay France another £660m to curb the number of asylum seekers trave...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Matriarchal dystopias: Joe Orton got there before the Two Ronnies | Brief letters",
         "url": "https://www.theguardian.com/stage/2026/apr/22/matriarchal-dystopias-joe-orton-got-there-before-the-two-ronnies",
@@ -105,20 +112,13 @@
         "description": "Home secretary accuses protesters of trying to ‘delegitimise’ concerns people have over immigrationShabana Mahmood told “white liberal” hecklers to “fuck right off” after being accused at an on-sta...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Albanians in UK scapegoated by rightwing media and politicians, says ambassador",
-        "url": "https://www.theguardian.com/politics/2026/apr/21/albanians-uk-scapegoated-rightwing-ambassador-uran-ferizi",
-        "description": "In a letter to the Guardian, Uran Ferizi criticises ‘obsession’ with demonising AlbaniansAlbanians in Britain are paying the price in schools and workplaces of being scapegoated by rightwing media ...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Anthony Fauci makes acting debut in Oedipus the King play reading in DC",
+        "title": "Actorly Fauci becomes blind prophet for Oedipus the King reading in DC",
         "url": "https://www.theguardian.com/us-news/2026/apr/22/anthony-fauci-acting-debut-oedipus-the-king",
-        "description": "Fauci was joined by actor Jesse Eisenberg and top Senate Democrat Chuck Schumer in reading for DC Climate WeekWhen Anthony Fauci put on a pair of sunglasses, the hall erupted in cheers and applause...",
+        "description": "Jesse Eisenberg and Chuck Schumer also star – could 2,500-year-old play teach US something about the climate crisis?When Anthony Fauci put on a pair of sunglasses, the hall erupted in cheers and ap...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Electricity bills targeted in planned shakeup to energy pricing",
-        "url": "https://www.bbc.com/news/articles/c79jg43vd8no?at_medium=RSS&at_campaign=rss",
-        "description": "The war in the Middle East has brought renewed attention to Britain's vulnerability to energy price shocks.",
+        "title": "Ban 'forever chemicals' in uniforms and frying pans, MPs urge",
+        "url": "https://www.bbc.com/news/articles/ckg98q1yx9vo?at_medium=RSS&at_campaign=rss",
+        "description": "School uniforms and non-stick pans are some of the everyday products that should stop using chemicals called PFAS, MPs say.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Los Angeles school board votes to set limits on classroom screen time",
+        "url": "https://www.theguardian.com/us-news/2026/apr/22/los-angeles-school-district-screen-time",
+        "description": "Measure will also limit device use during passing periods, lunch and recess and block  YouTube on district devicesSign up for the Breaking News US email to get newsletter alerts in your inboxThe Lo...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Inquiry clears Bristol school of antisemitism for postponing Jewish MP’s visit",
         "url": "https://www.theguardian.com/news/2026/apr/22/no-evidence-of-antisemitism-at-bristol-brunel-academy-school-postponed-visit-by-jewish-mp-damien-egan-review-finds",
@@ -156,13 +163,6 @@
         "title": "Officials too slow to act on falling pupil numbers in England, says watchdog",
         "url": "https://www.theguardian.com/education/2026/apr/22/lower-birthrate-causing-glut-school-places-england-nao",
         "description": "Demographic changes will cause a glut of school places, according to National Audit Office reportA failure to account for England’s falling birthrate is leading to a glut of school places and a pot...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Texas can require public schools to display Ten Commandments, court rules",
-        "url": "https://www.theguardian.com/us-news/2026/apr/21/texas-public-schools-ten-commandments",
-        "description": "Appeals court ruling is a victory for conservatives who have long sought to incorporate more religion into schoolsSign up for the Breaking News US email to get newsletter alerts in your inboxTexas ...",
         "source": "The Guardian",
         "category": "education"
       }
