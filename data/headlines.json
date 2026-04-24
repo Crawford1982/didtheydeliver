@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-23T19:09:57.821708+00:00",
+  "fetched_at": "2026-04-24T02:34:15.654955+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Trump says he will ‘probably put a big tariff on the UK’ if it doesn’t drop digital services tax",
+        "url": "https://www.theguardian.com/us-news/2026/apr/24/trump-tariff-uk-digital-services-tax-warning",
+        "description": "US president accuses UK of thinking it can ‘make an easy buck’ from US tech companies, weeks after warning that UK–US trade deal can be changedDonald Trump has threatened to impose tariffs on the U...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "‘Toxic’ views of Reform UK candidates raise questions about party’s vetting",
         "url": "https://www.theguardian.com/politics/2026/apr/23/toxic-views-reform-uk-candidates-raise-questions-about-elections-vetting",
@@ -13,13 +20,6 @@
         "title": "Foreign Office unit tracking Israel’s potential breaches of international law closes due to cuts",
         "url": "https://www.theguardian.com/politics/2026/apr/23/foreign-office-unit-israel-potential-breaches-international-law-closed",
         "description": "Exclusive: Officials warn department will also lose access to database of 26,000 verified incidents due to cutsThe Foreign Office unit tracking potential breaches of international law by Israel in ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK prepared to deploy RAF Typhoons to keep strait of Hormuz open after Iran war",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/23/uk-raf-typhoons-strait-of-hormuz-iran-war",
-        "description": "Proposal at heart of offer made during a 30-country two-day meeting jointly organised by FranceMiddle East crisis – live updatesBritain is prepared to deploy a squadron of RAF Typhoons based in Qat...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Which airlines are cancelling flights to the UK - and what can you do?",
-        "url": "https://www.bbc.com/news/articles/cr41yel6v4eo?at_medium=RSS&at_campaign=rss",
-        "description": "Airlines are putting up prices and cancelling flights in response to higher jet fuel prices.",
+        "title": "Stock markets are too high and set to fall, says Bank of England deputy",
+        "url": "https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss",
+        "description": "It is unusual for a senior figure at the Bank to be so forthright on market movements.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "We are in a ‘fossil-fuel crisis’. Is Labor meeting the moment? – Full Story newsroom edition",
+        "url": "https://www.theguardian.com/global/video/2026/apr/24/we-are-in-a-fossil-fuel-crisis-is-labor-meeting-the-moment-full-story-newsroom-edition",
+        "description": "It’s been almost two months since the US and Israel launched a war on Iran, unleashing violence across the region and chaos in the global economy. But one of the strange and definitely unintended c...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Republican lawmakers attempt to shield big oil from climate lawsuits in ‘alarming’ bills",
         "url": "https://www.theguardian.com/us-news/2026/apr/23/republicans-big-oil-climate-lawsuits",
         "description": "Climate experts and advocates warn House and Senate bills will protect polluters at the cost of the climate Republican lawmakers are attempting to shield big oil from having to pay for its contribu...",
@@ -126,13 +133,6 @@
         "title": "Actorly Fauci becomes blind prophet for Oedipus the King reading in DC",
         "url": "https://www.theguardian.com/us-news/2026/apr/22/anthony-fauci-acting-debut-oedipus-the-king",
         "description": "Jesse Eisenberg and Chuck Schumer also star – could 2,500-year-old play teach US something about the climate crisis?When Anthony Fauci put on a pair of sunglasses, the hall erupted in cheers and ap...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "EU plans to cut electricity taxes to shield households from Iran war energy crisis",
-        "url": "https://www.theguardian.com/environment/2026/apr/22/eu-plans-cut-electricity-taxes-shield-households-iran-war-energy-crisis",
-        "description": "Brussels will relax state aid rules to allow member countries to offer ‘targeted and temporary’ supportThe EU will cut electricity taxes and provide consumers with fresh incentives to ditch fuel-bu...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "In Tehran, money is short and a return to war looms over daily life",
-        "url": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future.",
+        "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+        "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+        "description": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
-        "url": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
-        "description": "Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way.",
+        "title": "Masked Iranian forces appear to seize ships in staged video",
+        "url": "https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&at_campaign=rss",
+        "description": "Analysis indicates that parts of the video appear to have been filmed hours after the ships were reportedly seized.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
