@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-24T02:34:15.654955+00:00",
+  "fetched_at": "2026-04-24T08:02:10.365253+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Reform UK asks steel bosses to draft ‘alternative strategy’ for industry",
+        "url": "https://www.theguardian.com/business/2026/apr/24/reform-uk-steel-policy-manufacturing-labour",
+        "description": "Industry sceptical as Nigel Farage’s party goes on charm offensive to help win over former Labour heartlandsReform UK has asked steel bosses to draw up an “alternative steel strategy” to rival rece...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Trump says he will ‘probably put a big tariff on the UK’ if it doesn’t drop digital services tax",
         "url": "https://www.theguardian.com/us-news/2026/apr/24/trump-tariff-uk-digital-services-tax-warning",
@@ -17,39 +24,32 @@
         "category": "government"
       },
       {
-        "title": "Foreign Office unit tracking Israel’s potential breaches of international law closes due to cuts",
-        "url": "https://www.theguardian.com/politics/2026/apr/23/foreign-office-unit-israel-potential-breaches-international-law-closed",
-        "description": "Exclusive: Officials warn department will also lose access to database of 26,000 verified incidents due to cutsThe Foreign Office unit tracking potential breaches of international law by Israel in ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer says he's acting in national interest after Trump criticism",
-        "url": "https://www.bbc.com/news/articles/c77mpknd6lpo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president earlier told the BBC the UK should have given more support to the US over the Iran war.",
+        "title": "Assisted dying bill to run out of time as Lords hold final debate",
+        "url": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&at_campaign=rss",
+        "description": "The Terminally Ill Adults (End of Life) Bill was supported by MPs but has not cleared its stages in the Lords.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "Stock markets set to fall, Bank of England deputy governor warns; Trump threatens UK with ‘big tariff’ over digital services tax – business live",
+        "url": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live",
+        "description": "Sarah Breeden explains ‘I’m not saying it will happen today, tomorrow, in 12 months’ time’, but system needs to be resilientThe oil price has risen by almost 1% this morning, as the US and Iran con...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Retail sales rise as British motorists stock up on fuel",
+        "url": "https://www.theguardian.com/business/2026/apr/24/retail-sales-rise-british-motorists-petrol-diesel",
+        "description": "ONS says sales up by 0.7% in March, spurred by big rise in fuel purchases and sunny weather helping retailersBusiness live – latest updatesRetail sales in Great Britain rose last month due to motor...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Iran war hurting UK economy as consumer confidence falls; BP’s new chair suffers investor revolt – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates",
         "description": "UK consumer optimism drops for third month running, as people grow more worried about the economy and their personal financial situationEconomic output across the eurozone has fallen for first time...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK braces for price rises driven by Iran war as economic confidence plummets",
-        "url": "https://www.theguardian.com/business/2026/apr/23/uk-braces-for-price-rises-driven-by-iran-war-as-economic-confidence-plummets",
-        "description": "Consumer confidence hit its lowest level since October 2023 this month, with surveys showing the cost pressures companies are facingConfidence in the UK economy has fallen sharply amid the mounting...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK undershoots annual borrowing target by £700m",
-        "url": "https://www.theguardian.com/business/2026/apr/23/uk-undershoots-annual-borrowing-target",
-        "description": "Figure hits three-year low but Iran war expected to blow hole in Reeves’s fiscal ‘headroom’The UK government budget came in below its annual borrowing target by £700m, official figures show – but t...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -70,6 +70,13 @@
         "category": "nhs"
       },
       {
+        "title": "One in 10 operations in England cancelled with less than 24 hours’ notice",
+        "url": "https://www.theguardian.com/society/2026/apr/24/operations-england-cancelled-less-than-24-hours-notice",
+        "description": "Nearly 40% of cancellations could be avoided, researchers sayAbout one in 10 operations in England are cancelled with less than 24 hours’ notice or postponed, according to research..A study of elec...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Keir Starmer was wrong to sack Olly Robbins | Brief letters",
         "url": "https://www.theguardian.com/politics/2026/apr/23/keir-starmer-was-wrong-to-sack-olly-robbins",
         "description": "Civil service strain | Westminster bubble | Better than Nigel Farage | Andy Burnham’s chancePerhaps the most damaging consequence of the Mandelson affair is not the fate of the prime minister (Repo...",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "One person diagnosed with cancer every 80 seconds in UK, report reveals",
-        "url": "https://www.theguardian.com/society/2026/apr/23/one-person-diagnosed-with-cancer-every-80-seconds-in-uk-report-reveals",
-        "description": "NHS struggling to cope with record numbers, which Cancer Research UK says puts progress on survival rates at riskThe number of people in the UK being diagnosed with cancer has reached a record high...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "UK Biobank health data listed for sale in China, government confirms",
-        "url": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss",
-        "description": "The government said medical data of 500,000 people was affected but no personally identifiable information had been made available.",
+        "title": "Assisted dying bill to run out of time as Lords hold final debate",
+        "url": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&at_campaign=rss",
+        "description": "The Terminally Ill Adults (End of Life) Bill was supported by MPs but has not cleared its stages in the Lords.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Meet the 19-metre octopus that prowled the ancient seas",
-        "url": "https://www.bbc.com/news/articles/cyv1rgm16r2o?at_medium=RSS&at_campaign=rss",
-        "description": "Giant octopuses may have ruled the oceans 100 million years ago, according to fossil evidence.",
+        "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
+        "url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
+        "description": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
-        "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
-        "description": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
+        "title": "Epstein housed abuse victims in London flats, BBC reveals",
+        "url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
+        "description": "The revelations intensify concerns about repeated police decisions not to investigate 2015 trafficking claims.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Masked Iranian forces appear to seize ships in staged video",
-        "url": "https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&at_campaign=rss",
-        "description": "Analysis indicates that parts of the video appear to have been filmed hours after the ships were reportedly seized.",
+        "title": "Kenyan leader sparks uproar after  mocking Nigerians' spoken English",
+        "url": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss",
+        "description": "William Ruto says Kenyans speak \"some of the best English in the world\" while it is hard to understand Nigerians.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
