@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-24T13:22:09.401669+00:00",
+  "fetched_at": "2026-04-24T18:50:45.855538+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Downing Street says sovereignty of Falkland Islands ‘rests with the UK’ after leaked Pentagon report – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/24/keir-starmer-peter-mandelson-us-met-police-westminster-assisted-dying-latest-news",
-        "description": "Report suggests the US could review its position on the British claim to the territory after lack of support in Iran warDowning Street has hit back at reports suggesting the US could reconsider its...",
+        "title": "US won’t give unredacted Epstein documents to UK police without formal request",
+        "url": "https://www.theguardian.com/us-news/2026/apr/24/us-wont-give-unredacted-epstein-documents-to-uk-police-without-lengthy-formal-request",
+        "description": "Police investigating allegations Mandelson and former prince Andrew passed sensitive info to Epstein will struggle to make charges stick without filesBritish police investigating the former prince ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Zack Polanski calls for ‘nuance’ when discussing antisemitism in rebuke of PM",
+        "url": "https://www.theguardian.com/news/2026/apr/24/zak-polanski-calls-for-nuance-when-discussing-antisemitism-in-rebuke-of-pm",
+        "description": "Green party leader attacks Keir Starmer’s ‘silly games’ after prime minister accused him of playing down recent incidentsZack Polanski has called on politicians to treat antisemitism with “consider...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
         "url": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
-        "description": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran warThe UK’s position on the Falklands is resolute and unchanging, Downing Street has i...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Greta Thunberg, Sally Rooney and Brian Eno defy Palestine Action ban in letter to judges",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/24/scholars-writers-artists-defy-ban-palestine-action-letter-judges",
-        "description": "Exclusive: Scholars, writers and artists risk arrest with message of support for proscribed group before next week’s appeal hearingUK politics live – latest updatesSally Rooney, Greta Thunberg and ...",
+        "description": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran warUK politics live – latest updatesDowning Street has been forced to insist that Brit...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,16 +33,16 @@
     ],
     "economy": [
       {
-        "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – business live",
+        "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live",
-        "description": "Brent crude hits highest level since the US and Iran first agreed a ceasefire in early AprilRetail sales rise in Britain after Iran war prompted ‘panic at the pumps’Trump says he will ‘probably put...",
+        "description": "Brent crude hits highest level since the US and Iran first agreed a ceasefire in early AprilUS justice department drops criminal investigation against Jerome PowellRetail sales rise in Britain afte...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Retail sales rise in Britain after Iran war prompted ‘panic at the pumps’",
+        "title": "Retail sales rise in Great Britain after Iran war prompted ‘panic at the pumps’",
         "url": "https://www.theguardian.com/business/2026/apr/24/retail-sales-rise-british-motorists-petrol-diesel",
-        "description": "ONS says sales rose by 0.7% in March, spurred by motorists filling their tanks and sunny weather helping retailersBusiness live – latest updatesMotorists stocking up on fuel helped to push up retai...",
+        "description": "Rise of 0.7% in March was spurred by motorists filling their tanks, and the sun helping clothing and footwearBusiness live – latest updatesMotorists stocking up on fuel helped to push up retail sal...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -63,16 +63,16 @@
     ],
     "nhs": [
       {
-        "title": "Baby died after NHS trust failed to warn mother of ‘unsafe’ home birth, coroner finds",
-        "url": "https://www.theguardian.com/society/2026/apr/23/baby-died-after-nhs-trust-failed-to-warn-mother-of-unsafe-home-birth-coroner-finds",
-        "description": "Seven-day-old Poppy Hope Lomas died after complications during home birth encouraged by midwives at Barnet hospitalA mother who lost her baby a week after an “unsafe” home birth that went against m...",
+        "title": "One in 10 operations in England cancelled with less than 24 hours’ notice",
+        "url": "https://www.theguardian.com/society/2026/apr/24/operations-england-cancelled-less-than-24-hours-notice",
+        "description": "Nearly 40% of cancellations could be avoided, researchers sayAbout one in 10 operations in England are cancelled with less than 24 hours’ notice or postponed, according to research..A study of elec...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "One in 10 operations in England cancelled with less than 24 hours’ notice",
-        "url": "https://www.theguardian.com/society/2026/apr/24/operations-england-cancelled-less-than-24-hours-notice",
-        "description": "Nearly 40% of cancellations could be avoided, researchers sayAbout one in 10 operations in England are cancelled with less than 24 hours’ notice or postponed, according to research..A study of elec...",
+        "title": "Baby died after NHS trust failed to warn mother of ‘unsafe’ home birth, coroner finds",
+        "url": "https://www.theguardian.com/society/2026/apr/23/baby-died-after-nhs-trust-failed-to-warn-mother-of-unsafe-home-birth-coroner-finds",
+        "description": "Seven-day-old Poppy Hope Lomas died after complications during home birth encouraged by midwives at Barnet hospitalA mother who lost her baby a week after an “unsafe” home birth that went against m...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Assisted dying bill to run out of time as Lords hold final debate",
+        "title": "Assisted dying bill runs out of time but supporters vow to try again",
         "url": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&at_campaign=rss",
-        "description": "The Terminally Ill Adults (End of Life) Bill was supported by MPs but has not cleared its stages in the Lords.",
+        "description": "The proposed legislation was supported by MPs but has not cleared its stages in the Lords.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Officials hugely underestimated impact of AI datacentres on UK carbon emissions",
+        "url": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
+        "description": "Revised figures increase fears about energy-intensive datacentres worsening climate emergencyThe UK government vastly underestimated the climate impact of artificial intelligence, it has emerged, a...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Tokyo workers encouraged to wear shorts to cut energy costs and keep cool",
         "url": "https://www.theguardian.com/world/2026/apr/24/tokyo-workers-asked-to-swap-suits-for-shorts-to-combat-energy-costs-and-heat",
         "description": "Officials hope more casual attire for public servants will save electricity during Iran war as summer heat approachesPublic servants working for the Tokyo metropolitan government are being encourag...",
@@ -126,13 +133,6 @@
         "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
         "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
         "description": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh pathThe world’s first Transitioning Away from Fossil Fuels conference, co-hosted ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Soundtrack of the sea: divers use underwater speakers to help dying coral reefs",
-        "url": "https://www.theguardian.com/environment/2026/apr/24/coral-reefs-jamaica",
-        "description": "Divers are installing waterproof speakers in the ocean to help pull a coral reef near Jamaica back from the brinkThe northern coast of Jamaica once served as the backdrop for scenes in the James Bo...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "‘Take them to Byron’: Gold Coast glitter strip cracks down on people living on the streets",
+        "url": "https://www.theguardian.com/australia-news/2026/apr/25/gold-coast-glitter-strip-homeless-people",
+        "description": "A report presented to the Gold Coast council says its compliance-led approach has had ‘positive results’Get our breaking news email, free app or daily news podcastTen weeks ago, Peter Watson fell o...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "The Guardian view on help to buy: entrenching housing inequalities, rather than helping | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/apr/23/the-guardian-view-on-help-to-buy-entrenching-housing-inequalities-rather-than-helping",
         "description": "The Tories’ flagship scheme has aided higher earners most. The latest analysis of its flaws should lead to a rethinkThe results are in. The biggest winners from the Conservatives’ help to buy schem...",
@@ -179,13 +186,6 @@
         "title": "A moment that changed me: I thought landlords were unchallengeable – until I met one of mine at a party",
         "url": "https://www.theguardian.com/lifeandstyle/2026/apr/22/a-moment-that-changed-me-i-thought-landlords-were-unchallengeable-until-i-met-one-of-mine-at-a-party",
         "description": "When I bumped into my former landlord it changed my perspective. After years of renting, it gave me the confidence to stand up for myself in an objectively unfair gameAfter 12 years of renting, I’v...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Temporary accommodation linked to deaths of 104 children in England in six years",
-        "url": "https://www.theguardian.com/society/2026/apr/22/temporary-accommodation-deaths-children-england",
-        "description": "Calls for ‘urgent, sustained action’ over rising number of children who do not have permanent homeLiving in temporary accommodation has contributed to the deaths of 104 children in England in the p...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-        "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-        "description": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus.",
+        "title": "Who is making decisions in Iran?",
+        "url": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
+        "description": "Iran's new supreme leader is supposed to have the final say, but in practice the picture is far murkier.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
