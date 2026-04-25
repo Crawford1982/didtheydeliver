@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-25T13:02:42.902657+00:00",
+  "fetched_at": "2026-04-25T18:52:15.857789+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Security vetting stepped up after MP is given bodyguard with far-right links",
+        "url": "https://www.theguardian.com/politics/2026/apr/25/security-vetting-stepped-up-after-mp-is-given-bodyguard-with-far-right-links",
+        "description": "Extra social media checks brought in amid growing threat to politicians from extremistsThe security company that provides bodyguards for MPs has tightened its vetting processes after it sent a body...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
         "url": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
@@ -13,13 +20,6 @@
         "title": "Shabana Mahmood does not rule out sending back refused Afghan asylum seekers",
         "url": "https://www.theguardian.com/uk-news/2026/apr/24/shabana-mahmood-refuses-to-rule-out-sending-back-failed-afghan-asylum-seekers",
         "description": "Home secretary indicates Whitehall talks about returns programme, a move that would shock humanitarian groupsShabana Mahmood has refused to rule out sending rejected Afghan asylum seekers back to t...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "US won’t give unredacted Epstein documents to UK police without formal request",
-        "url": "https://www.theguardian.com/us-news/2026/apr/24/us-wont-give-unredacted-epstein-documents-to-uk-police-without-lengthy-formal-request",
-        "description": "Police investigating allegations Mandelson and former prince Andrew passed sensitive info to Epstein will struggle to make charges stick without filesBritish police investigating the former prince ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "A federal program has helped Native Hawaiian medical students for 35 years. It’s now being sued for discrimination",
+        "url": "https://www.theguardian.com/us-news/2026/apr/25/hative-hawaiian-scholarship-program-lawsuit",
+        "description": "Do No Harm, a conservative group, wants the scholarship, which has helped islands’ underserved communities, declared unconstitutionalDoctors and health experts in Hawaii say a decades-old federal p...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "‘I’m spending my house deposit savings to pay off my postgrad student loan’",
         "url": "https://www.theguardian.com/money/2026/apr/24/house-deposit-savings-student-loan-interest-rates-debt",
         "description": "Lucy O’Brien was shocked when she discovered how high interest rates were leading to ballooning debtLike many of my drowning-in-debt “plan 2” student loan comrades, I didn’t think twice about divin...",
@@ -156,13 +163,6 @@
         "title": "The cinema lab: brain activity tracked to find secret to creating immersive films",
         "url": "https://www.theguardian.com/science/2026/apr/23/brain-activity-tracked-secret-immersive-films",
         "description": "Bristol University project aims to help directors make better movies and take greater risks – with one already onboardAt first glance, it looks like any high-end cinema: booming surround sound, a r...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Plan for healthier school meals in England will hit services, say caterers",
-        "url": "https://www.theguardian.com/education/2026/apr/23/plan-healthier-school-meals-england-services-caterers",
-        "description": "Trade body warns that changes are likely to drive up costs and push pupils to find somewhere to buy junk food Business live – latest updatesA government push to get schoolchildren eating more lenti...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+        "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
         "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-        "description": "Witnesses report clashes in the centre and north of the country in what has been described as the largest jihadist attack in years.",
+        "description": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-        "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-        "description": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+        "title": "Mexico says US agents killed in crash weren't permitted to operate there",
+        "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
+        "description": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
