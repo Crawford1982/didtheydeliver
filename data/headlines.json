@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-25T07:14:55.390311+00:00",
+  "fetched_at": "2026-04-25T13:02:42.902657+00:00",
   "headlines": {
     "government": [
       {
@@ -24,14 +24,21 @@
         "category": "government"
       },
       {
-        "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-        "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
-        "description": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
+        "title": "Relish and dread as Starmer 'shambles' hangs over Scotland and Wales elections",
+        "url": "https://www.bbc.com/news/articles/cq59xvdzjv7o?at_medium=RSS&at_campaign=rss",
+        "description": "Laura Kuenssberg travels to Wales and Scotland to speak to candidates and voters ahead of May 7 polls.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Unlucky chancellor? Iran shock hits Reeves just as UK seemed to turn corner",
+        "url": "https://www.theguardian.com/politics/2026/apr/25/iran-shock-hits-rachel-reeves-chancellor-as-uk-economy-turns-corner",
+        "description": "The economy and public finances were on the right path, bond yields were falling, interest rates likely to drop further … then came the US-Israeli attackDonald Trump’s war on Iran is “folly”; shado...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live",
@@ -43,13 +50,6 @@
         "title": "Retail sales rise in Great Britain after Iran war prompted ‘panic at the pumps’",
         "url": "https://www.theguardian.com/business/2026/apr/24/retail-sales-rise-british-motorists-petrol-diesel",
         "description": "Rise of 0.7% in March was spurred by motorists filling their tanks, and the sun helping clothing and footwearBusiness live – latest updatesMotorists stocking up on fuel helped to push up retail sal...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Iran war hurting UK economy as consumer confidence falls; BP’s new chair suffers investor revolt – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/apr/23/uk-government-borrowing--oil-100-a-barrel-strait-of-hormuz-deadlock-growth-latest-updates",
-        "description": "UK consumer optimism drops for third month running, as people grow more worried about the economy and their personal financial situationEconomic output across the eurozone has fallen for first time...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Criminalisation of climate protesters in UK is counterproductive, research finds",
+        "url": "https://www.theguardian.com/environment/2026/apr/25/criminalisation-of-climate-protesters-in-uk-is-counterproductive-research-finds",
+        "description": "Study of 1,300 campaigners finds arrests, fines and jail terms increase determination of activists to take direct actionThe criminalisation of direct action climate protests in the UK is counterpro...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Officials hugely underestimated impact of AI datacentres on UK carbon emissions",
         "url": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
         "description": "Revised figures increase fears about energy-intensive datacentres worsening climate emergencyThe UK government vastly underestimated the climate impact of artificial intelligence, it has emerged, a...",
@@ -126,13 +133,6 @@
         "title": "Tokyo workers encouraged to wear shorts to cut energy costs and keep cool",
         "url": "https://www.theguardian.com/world/2026/apr/24/tokyo-workers-asked-to-swap-suits-for-shorts-to-combat-energy-costs-and-heat",
         "description": "Officials hope more casual attire for public servants will save electricity during Iran war as summer heat approachesPublic servants working for the Tokyo metropolitan government are being encourag...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
-        "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
-        "description": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh pathThe world’s first Transitioning Away from Fossil Fuels conference, co-hosted ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-        "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
-        "description": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
+        "title": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+        "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+        "description": "Witnesses report clashes in the centre and north of the country in what has been described as the largest jihadist attack in years.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
-        "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
-        "description": "On Friday morning, souring relations between Europe and the United States  reared its Medusa-like head again, writes the BBC's Europe editor.",
+        "title": "Seven dead in major Russian attack on Ukraine",
+        "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+        "description": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-        "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
-        "description": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
+        "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+        "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+        "description": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
