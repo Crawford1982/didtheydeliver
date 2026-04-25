@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-25T02:24:19.624619+00:00",
+  "fetched_at": "2026-04-25T07:14:55.390311+00:00",
   "headlines": {
     "government": [
       {
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Safety fears as UK hospitals use nurses to cover for doctors due to shortage of medics",
+        "url": "https://www.theguardian.com/society/2026/apr/25/safety-fears-as-uk-hospitals-use-nurses-to-cover-for-doctors-due-to-shortage-of-medics",
+        "description": "Exclusive: Advanced practitioners are being deployed to cover doctor rota gaps across the NHS, figures showUK hospitals are using nurses to cover for doctors because of an NHS-wide shortage of medi...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "One in 10 operations in England cancelled with less than 24 hours’ notice",
         "url": "https://www.theguardian.com/society/2026/apr/24/operations-england-cancelled-less-than-24-hours-notice",
         "description": "Nearly 40% of cancellations could be avoided, researchers sayAbout one in 10 operations in England are cancelled with less than 24 hours’ notice or postponed, according to research..A study of elec...",
@@ -73,13 +80,6 @@
         "title": "Baby died after NHS trust failed to warn mother of ‘unsafe’ home birth, coroner finds",
         "url": "https://www.theguardian.com/society/2026/apr/23/baby-died-after-nhs-trust-failed-to-warn-mother-of-unsafe-home-birth-coroner-finds",
         "description": "Seven-day-old Poppy Hope Lomas died after complications during home birth encouraged by midwives at Barnet hospitalA mother who lost her baby a week after an “unsafe” home birth that went against m...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Keir Starmer was wrong to sack Olly Robbins | Brief letters",
-        "url": "https://www.theguardian.com/politics/2026/apr/23/keir-starmer-was-wrong-to-sack-olly-robbins",
-        "description": "Civil service strain | Westminster bubble | Better than Nigel Farage | Andy Burnham’s chancePerhaps the most damaging consequence of the Mandelson affair is not the fate of the prime minister (Repo...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -169,7 +169,7 @@
     ],
     "housing": [
       {
-        "title": "Bikram Lama’s quiet death prompts a reckoning with ‘human cost’ of homelessness policy failures",
+        "title": "‘Immigration limbo’ left Bikram Lama homeless before he died in Hyde park. Calls are growing for change",
         "url": "https://www.theguardian.com/australia-news/2026/apr/25/bikram-lamas-quiet-death-prompts-a-reckoning-with-human-cost-of-homelessness-policy-failures",
         "description": "Alliance of 48 councils across Australia issue damning statement calling for more support for people in ‘immigration limbo’, joining growing chorusGet our breaking news email, free app or daily new...",
         "source": "The Guardian",
@@ -192,13 +192,6 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
-        "url": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss",
-        "description": "Iran says its Foreign Minister Abbas Araghchi is already in Pakistan but that there is no meeting planned between Iran and the US.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
         "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
         "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
         "description": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
@@ -209,6 +202,13 @@
         "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
         "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
         "description": "On Friday morning, souring relations between Europe and the United States  reared its Medusa-like head again, writes the BBC's Europe editor.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+        "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+        "description": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
