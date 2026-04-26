@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-04-25T18:52:15.857789+00:00",
+  "fetched_at": "2026-04-26T02:39:11.621708+00:00",
   "headlines": {
     "government": [
       {
+        "title": "Key figure in Mandelson vetting scandal will not give evidence before MPs",
+        "url": "https://www.theguardian.com/politics/2026/apr/25/key-figure-in-mandelson-vetting-scandal-will-not-give-evidence-before-mps",
+        "description": "Chief property and security officer Ian Collard set to submit written answers to foreign affairs committee questionsA key figure in the row over Peter Mandelson’s appointment as UK ambassador to Wa...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Security vetting stepped up after MP is given bodyguard with far-right links",
         "url": "https://www.theguardian.com/politics/2026/apr/25/security-vetting-stepped-up-after-mp-is-given-bodyguard-with-far-right-links",
-        "description": "Extra social media checks brought in amid growing threat to politicians from extremistsThe security company that provides bodyguards for MPs has tightened its vetting processes after it sent a body...",
+        "description": "Exclusive: Extra social media checks brought in amid growing threat to politicians from extremistsThe security company that provides bodyguards for MPs has tightened its vetting processes after it ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -13,13 +20,6 @@
         "title": "UK position on Falklands will not change, No 10 says after leaked Pentagon memo",
         "url": "https://www.theguardian.com/uk-news/2026/apr/24/uk-position-falklands-unchanged-leaked-pentagon-memo",
         "description": "Internal email proposes US should reassess support for UK claim to islands because of lack of support for Iran warUK politics live – latest updatesDowning Street has been forced to insist that Brit...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Shabana Mahmood does not rule out sending back refused Afghan asylum seekers",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/24/shabana-mahmood-refuses-to-rule-out-sending-back-failed-afghan-asylum-seekers",
-        "description": "Home secretary indicates Whitehall talks about returns programme, a move that would shock humanitarian groupsShabana Mahmood has refused to rule out sending rejected Afghan asylum seekers back to t...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
-        "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-        "description": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
+        "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+        "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+        "description": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Seven dead in major Russian attack on Ukraine",
-        "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-        "description": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+        "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
+        "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+        "description": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
