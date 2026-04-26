@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-26T07:28:00.689836+00:00",
+  "fetched_at": "2026-04-26T13:04:29.110249+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK departments at odds over energy demands of AI datacentres",
-        "url": "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
-        "description": "Discrepancy in forecasts raises questions over government planning for net zeroOne vision of the UK’s future involves a decarbonised economy powered by clean, renewable energy. Another involves mak...",
+        "title": "Keir Starmer vows to lead Labour into next general election after bruising week",
+        "url": "https://www.theguardian.com/politics/2026/apr/26/keir-starmer-vows-lead-labour-general-election-mandelson-vetting",
+        "description": "Prime minister says his job is not at risk over Mandelson vetting as allies back him against claims of wrongdoingKeir Starmer has said he will lead Labour into the next general election, as his Dow...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Dozens of MPs oppose Streeting’s new power to say what NHS pays for drugs",
-        "url": "https://www.theguardian.com/politics/2026/apr/26/mps-oppose-wes-streeting-power-to-say-what-nhs-pays-for-drugs-nice",
-        "description": "Health secretary’s ‘power grab’ to override Nice comes amid growing concern move may be illegal and benefit big pharmaDozens of MPs are opposing Wes Streeting’s decision to award himself power to d...",
+        "title": "Voters contend with ‘grotesque’ leaflets and ‘dodgy’ data in English elections",
+        "url": "https://www.theguardian.com/politics/2026/apr/26/voters-contend-with-grotesque-leaflets-and-dodgy-data-in-english-local-elections-say-analysts",
+        "description": "Exclusive: Investigation into campaigning materials for local polls in May challenges tactical voting claims Election leaflets are providing “grotesque” information about how to vote tactically in ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Key figure in Mandelson vetting scandal will not give evidence before MPs",
-        "url": "https://www.theguardian.com/politics/2026/apr/25/key-figure-in-mandelson-vetting-scandal-will-not-give-evidence-before-mps",
-        "description": "Chief property and security officer Ian Collard set to submit written answers to foreign affairs committee questionsA key figure in the row over Peter Mandelson’s appointment as UK ambassador to Wa...",
+        "title": "Starmer says ‘vast majority’ of Labour MPs still support him, despite Mandelson controversy – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/26/keir-starmer-labour-support-mandelson-controversy-uk-politics-live",
+        "description": "Prime minister says ‘you never hear from … the people who are supportive, loyal and just want to get on with the job’Keir Starmer and the Labour party continue to fight to maintain control in the a...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Britain is undermining the care workers it depends on | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/apr/26/britain-undermining-care-workers-depends-on-labour-immigration",
+        "description": "Labour’s immigration plans tear up the promise made to 300,000 people recruited for a sector in crisis  “We are deflated, we are sad. We feel the government is trying to pull the rug from under our...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Unlucky chancellor? Iran shock hits Reeves just as UK seemed to turn corner",
         "url": "https://www.theguardian.com/politics/2026/apr/25/iran-shock-hits-rachel-reeves-chancellor-as-uk-economy-turns-corner",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Retail sales rise in Great Britain after Iran war prompted ‘panic at the pumps’",
-        "url": "https://www.theguardian.com/business/2026/apr/24/retail-sales-rise-british-motorists-petrol-diesel",
-        "description": "Rise of 0.7% in March was spurred by motorists filling their tanks, and the sun helping clothing and footwearBusiness live – latest updatesMotorists stocking up on fuel helped to push up retail sal...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "China car giant BYD says it can thrive without US",
-        "url": "https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss",
-        "description": "With the price of fuel rising China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels.",
+        "title": "Higher prices could last for eight months after Iran war, minister says",
+        "url": "https://www.bbc.com/news/articles/cm29m98md2do?at_medium=RSS&at_campaign=rss",
+        "description": "Officials are monitoring stock levels and planning for any potential disruptions to the supply chain.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,46 +93,46 @@
     ],
     "immigration": [
       {
+        "title": "Do stronger borders ever work?",
+        "url": "https://www.theguardian.com/books/2026/apr/26/do-stronger-borders-ever-work",
+        "description": "Leaders have thrown up walls and barriers throughout history – but their effects are unpredictableFour millennia ago, a Sumerian king, his frontier beset by nomadic tribes fleeing prolonged drought...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Britain is undermining the care workers it depends on | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/apr/26/britain-undermining-care-workers-depends-on-labour-immigration",
+        "description": "Labour’s immigration plans tear up the promise made to 300,000 people recruited for a sector in crisis  “We are deflated, we are sad. We feel the government is trying to pull the rug from under our...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Shabana Mahmood does not rule out sending back refused Afghan asylum seekers",
         "url": "https://www.theguardian.com/uk-news/2026/apr/24/shabana-mahmood-refuses-to-rule-out-sending-back-failed-afghan-asylum-seekers",
         "description": "Home secretary indicates Whitehall talks about returns programme, a move that would shock humanitarian groupsShabana Mahmood has refused to rule out sending rejected Afghan asylum seekers back to t...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "UK to pay for French officers to deport asylum seekers from war-torn countries",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/23/uk-to-pay-for-french-officers-to-deport-asylum-seekers-from-war-torn-countries",
-        "description": "Removal site in Dunkirk will hold people of 10 nationalities trying to reach UK in small boats under new £660m deal with FrenchThe UK will pay for 200 French officers to detain and deport people se...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Shabana Mahmood’s expletive was shocking. But not for the reason you think | Zoe Williams",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/23/shabana-mahmood-expletive-shocking-home-secretary-liberals",
-        "description": "With her four-letter-word riposte to a heckler, the home secretary played the victim and cynically puts the blame for her immigration plans on liberalsIf all you know about Shabana Mahmood’s interv...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
+        "title": "Toxins plus climate harms likely cause of reduced fertility, study finds",
+        "url": "https://www.theguardian.com/science/2026/apr/26/toxic-exposure-climate-crisis-study",
+        "description": "Researchers find ‘alarming’ effect on fertility across global species from simultaneous exposuresSimultaneous exposure to toxic chemicals and climate change’s impacts likely generates an additive o...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "NatWest faces AGM showdown over ‘climate backtracking’",
+        "url": "https://www.theguardian.com/business/2026/apr/26/natwest-agm-showdown-climate-backtracking-protest-vote",
+        "description": "Shareholders including the Church of England back call for protest votes against bank’s chairNatWest is at risk of an embarrassing showdown at its shareholder meeting this week as investors and sci...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "UK departments at odds over energy demands of AI datacentres",
         "url": "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
         "description": "Discrepancy in forecasts raises questions over government planning for net zeroOne vision of the UK’s future involves a decarbonised economy powered by clean, renewable energy. Another involves mak...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Criminalisation of climate protesters in UK is counterproductive, research finds",
-        "url": "https://www.theguardian.com/environment/2026/apr/25/criminalisation-of-climate-protesters-in-uk-is-counterproductive-research-finds",
-        "description": "Study of 1,300 campaigners finds arrests, fines and jail terms increase determination of activists to take direct actionThe criminalisation of direct action climate protests in the UK is counterpro...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Officials hugely underestimated impact of AI datacentres on UK carbon emissions",
-        "url": "https://www.theguardian.com/technology/2026/apr/24/officials-hugely-underestimated-impact-of-ai-datacentres-on-uk-carbon-emissions",
-        "description": "Revised figures increase fears about energy-intensive datacentres worsening climate emergencyThe UK government vastly underestimated the climate impact of artificial intelligence, it has emerged, a...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,7 +192,7 @@
     ],
     "foreign_policy": [
       {
-        "title": "What it was like in the room as shots rang out at correspondents' dinner",
+        "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
         "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
         "description": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue.",
         "source": "BBC News",
