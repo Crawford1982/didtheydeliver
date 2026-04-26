@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-04-26T13:04:29.110249+00:00",
+  "fetched_at": "2026-04-26T18:53:39.958055+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Royal Mail investigating claims that postal worker ‘binned Reform UK election leaflets’",
+        "url": "https://www.theguardian.com/business/2026/apr/26/royal-mail-investigating-claims-postal-worker-binned-reform-uk-election-leaflets",
+        "description": "Message on private Facebook group for staff said: ‘I dumped them all in a bin. They can sack me!’Royal Mail is investigating allegations that a postal worker claimed to have “dumped” Reform UK camp...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Keir Starmer vows to lead Labour into next general election after bruising week",
         "url": "https://www.theguardian.com/politics/2026/apr/26/keir-starmer-vows-lead-labour-general-election-mandelson-vetting",
@@ -10,16 +17,9 @@
         "category": "government"
       },
       {
-        "title": "Voters contend with ‘grotesque’ leaflets and ‘dodgy’ data in English elections",
+        "title": "Voters contend with ‘dodgy’ data in party leaflets for English local elections",
         "url": "https://www.theguardian.com/politics/2026/apr/26/voters-contend-with-grotesque-leaflets-and-dodgy-data-in-english-local-elections-say-analysts",
         "description": "Exclusive: Investigation into campaigning materials for local polls in May challenges tactical voting claims Election leaflets are providing “grotesque” information about how to vote tactically in ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer says ‘vast majority’ of Labour MPs still support him, despite Mandelson controversy – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/26/keir-starmer-labour-support-mandelson-controversy-uk-politics-live",
-        "description": "Prime minister says ‘you never hear from … the people who are supportive, loyal and just want to get on with the job’Keir Starmer and the Labour party continue to fight to maintain control in the a...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,23 +33,23 @@
     ],
     "economy": [
       {
+        "title": "UK faces higher prices for eight months after war in Iran ends, says minister",
+        "url": "https://www.theguardian.com/money/2026/apr/26/uk-faces-higher-pricesafter-war-iran-ends-darren-jones",
+        "description": "Darren Jones suggests cost of energy, food and flights will remain high after de-escalation and Hormuz strait reopensThe UK faces higher prices for food and fuel for at least eight months after the...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Cheap spirits, pricey condoms: how war in the Middle East is shifting the way Australians spend",
+        "url": "https://www.theguardian.com/australia-news/2026/apr/27/australian-economy-spending-middle-east-war-household-budget",
+        "description": "Beyond cutting back on driving, households are slicing deeper into their budgets, with some even forgoing healthcareGet our breaking news email, free app or daily news podcastAs soon as petrol pric...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Britain is undermining the care workers it depends on | Heather Stewart",
         "url": "https://www.theguardian.com/business/2026/apr/26/britain-undermining-care-workers-depends-on-labour-immigration",
         "description": "Labour’s immigration plans tear up the promise made to 300,000 people recruited for a sector in crisis  “We are deflated, we are sad. We feel the government is trying to pull the rug from under our...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Unlucky chancellor? Iran shock hits Reeves just as UK seemed to turn corner",
-        "url": "https://www.theguardian.com/politics/2026/apr/25/iran-shock-hits-rachel-reeves-chancellor-as-uk-economy-turns-corner",
-        "description": "The economy and public finances were on the right path, bond yields were falling, interest rates likely to drop further … then came the US-Israeli attackDonald Trump’s war on Iran is “folly”; shado...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil hits highest level since US-Iran ceasefire began, as conflict hurts Gulf crude production – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/apr/24/stock-market-warning-bank-of-england-deputy-governor-trump-threatens-uk-tariff-business-live",
-        "description": "Brent crude hits highest level since the US and Iran first agreed a ceasefire in early AprilUS justice department drops criminal investigation against Jerome PowellRetail sales rise in Britain afte...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "Dozens of MPs oppose Streeting’s new power to say what NHS pays for drugs",
-        "url": "https://www.theguardian.com/politics/2026/apr/26/mps-oppose-wes-streeting-power-to-say-what-nhs-pays-for-drugs-nice",
-        "description": "Health secretary’s ‘power grab’ to override Nice comes amid growing concern move may be illegal and benefit big pharmaDozens of MPs are opposing Wes Streeting’s decision to award himself power to d...",
+        "title": "Heartsink review – terminally ill doctor struggles to be a patient",
+        "url": "https://www.theguardian.com/stage/2026/apr/26/heartsink-a-medical-comedy-review-riverside-studios-london",
+        "description": "Riverside Studios, LondonJeffrey Longford is pedantic and superior in Farine Clarke’s medical drama – griping at everything from hospital data systems to gender-neutral loosHeartsinks, in doctors’ ...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Safety fears as UK hospitals use nurses to cover for doctors due to shortage of medics",
-        "url": "https://www.theguardian.com/society/2026/apr/25/safety-fears-as-uk-hospitals-use-nurses-to-cover-for-doctors-due-to-shortage-of-medics",
-        "description": "Exclusive: Advanced practitioners are being deployed to cover doctor rota gaps across the NHS, figures showUK hospitals are using nurses to cover for doctors because of an NHS-wide shortage of medi...",
+        "title": "Dozens of MPs oppose Streeting’s new power to say what NHS pays for drugs",
+        "url": "https://www.theguardian.com/politics/2026/apr/26/mps-oppose-wes-streeting-power-to-say-what-nhs-pays-for-drugs-nice",
+        "description": "Health secretary’s ‘power grab’ to override Nice comes amid growing concern move may be illegal and benefit big pharmaDozens of MPs are opposing Wes Streeting’s decision to award himself power to d...",
         "source": "The Guardian",
         "category": "nhs"
       },
