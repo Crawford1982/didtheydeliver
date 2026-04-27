@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-04-27T02:41:39.458480+00:00",
+  "fetched_at": "2026-04-27T08:23:34.548711+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK government move to delay social media ban faces pushback in Lords",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/26/uk-government-move-to-delay-social-media-ban-faces-pushback-in-lords",
-        "description": "Peers and campaigners say proposal for three-year window to impose controls breaks promise of quick actionPeers will vote on Monday on a government move that could delay action on children’s access...",
+        "title": "People in UK spend fewer years in good health than a decade ago, study finds",
+        "url": "https://www.theguardian.com/society/2026/apr/27/people-in-uk-spend-fewer-years-in-good-health-than-a-decade-ago-study-finds",
+        "description": "Exclusive: Health Foundation says Britain is ‘going backwards’ compared with most other rich countriesFindings on healthy life expectancy in UK shed light on its deteriorating healthPeople in the U...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,21 +17,28 @@
         "category": "government"
       },
       {
-        "title": "Rival Labour factions understood to be discussing how to remove Keir Starmer as leader",
-        "url": "https://www.theguardian.com/politics/2026/apr/26/keir-starmer-vows-lead-labour-general-election-mandelson-vetting",
-        "description": "Talk among MPs shifts from whether PM could be removed to possible processes for ‘transition’ as frustration growsLabour figures from across rival factions have begun circulating informal proposals...",
+        "title": "UK government move to delay social media ban faces pushback in Lords",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/26/uk-government-move-to-delay-social-media-ban-faces-pushback-in-lords",
+        "description": "Peers and campaigners say proposal for three-year window to impose controls breaks promise of quick actionPeers will vote on Monday on a government move that could delay action on children’s access...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer insists 'majority' of Labour MPs back his leadership",
-        "url": "https://www.bbc.com/news/articles/c705228kpx9o?at_medium=RSS&at_campaign=rss",
-        "description": "This week has seen increasing speculation among Labour MPs about Sir Keir's judgement and leadership.",
+        "title": "King's visit to 'revitalise' relationship with US, says UK ambassador",
+        "url": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+        "description": "The UK's ambassador to the US welcomes the state visit, at a difficult time for UK and US relations.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Oil at three-week high as US-Iran peace talks stall, and Goldman lifts price forecast – business live",
+        "url": "https://www.theguardian.com/business/live/2026/apr/27/oil-prices-high-us-iran-peace-talks-stock-markets-house-prices-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsShares in athletic apparel and footwear company Adidas have jumped by almost 1.75% in early trading after three of its athletes shone at th...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
         "url": "https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "Britain is undermining the care workers it depends on | Heather Stewart",
-        "url": "https://www.theguardian.com/business/2026/apr/26/britain-undermining-care-workers-depends-on-labour-immigration",
-        "description": "Labour’s immigration plans tear up the promise made to 300,000 people recruited for a sector in crisis  “We are deflated, we are sad. We feel the government is trying to pull the rug from under our...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Oil prices rise as US-Iran peace talks stall",
         "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
         "description": "President Trump said on Saturday that the US had cancelled plans to send a team to Pakistan for negotiations.",
@@ -63,9 +63,16 @@
     ],
     "nhs": [
       {
-        "title": "From syringes to stents: Iran war exposes NHS dependency on petrochemicals",
-        "url": "https://www.theguardian.com/society/2026/apr/26/nhs-high-alert-healthcare-shortages-iran-war-petrochemicals",
-        "description": "NHS chiefs fear rising costs and healthcare shortages due to the shipping standstill in the GulfThe war in Iran has put the NHS on high alert amid fears about looming shortages and rising costs for...",
+        "title": "Four-fifths of UK mental health nurses say their workload is unmanageable",
+        "url": "https://www.theguardian.com/society/2026/apr/27/four-fifths-uk-mental-health-nurses-say-workload-unmanageable",
+        "description": "Half of respondents to RCN poll said patients ‘frequently come to harm’ because caseloads are too highMental health patients in the UK are routinely coming to harm because of high caseloads, unders...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "People in UK spend fewer years in good health than a decade ago, study finds",
+        "url": "https://www.theguardian.com/society/2026/apr/27/people-in-uk-spend-fewer-years-in-good-health-than-a-decade-ago-study-finds",
+        "description": "Exclusive: Health Foundation says Britain is ‘going backwards’ compared with most other rich countriesFindings on healthy life expectancy in UK shed light on its deteriorating healthPeople in the U...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Dozens of MPs oppose Streeting’s new power to say what NHS pays for drugs",
-        "url": "https://www.theguardian.com/politics/2026/apr/26/mps-oppose-wes-streeting-power-to-say-what-nhs-pays-for-drugs-nice",
-        "description": "Health secretary’s ‘power grab’ to override Nice comes amid growing concern move may be illegal and benefit big pharmaDozens of MPs are opposing Wes Streeting’s decision to award himself power to d...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Assisted dying bill runs out of time but supporters vow to try again",
-        "url": "https://www.bbc.com/news/articles/cgk0vz5e2zxo?at_medium=RSS&at_campaign=rss",
-        "description": "The proposed legislation was supported by MPs but has not cleared its stages in the Lords.",
+        "title": "UK healthy life expectancy falls by two years in past decade",
+        "url": "https://www.bbc.com/news/articles/c20q07w3gl9o?at_medium=RSS&at_campaign=rss",
+        "description": "Poor housing, obesity and the effects of deprivation have been suggested as underlying cause.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Australia’s south-east set for drier and hotter winter as BoM forecasts potential El Niño",
+        "url": "https://www.theguardian.com/australia-news/2026/apr/27/weather-australia-el-nino-bom-forecast-winter-dry-hot",
+        "description": "Queensland and NSW set for lower than usual rainfall in May, June and July, while temperatures in most of the country likely to be higher than normalFollow our Australia news live blog for latest u...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Toxins plus climate harms likely cause of reduced fertility, study finds",
         "url": "https://www.theguardian.com/science/2026/apr/26/toxic-exposure-climate-crisis-study",
         "description": "Researchers find ‘alarming’ effect on fertility across global species from simultaneous exposuresSimultaneous exposure to toxic chemicals and climate change’s impacts likely generates an additive o...",
@@ -126,13 +133,6 @@
         "title": "NatWest faces AGM showdown over ‘climate backtracking’",
         "url": "https://www.theguardian.com/business/2026/apr/26/natwest-agm-showdown-climate-backtracking-protest-vote",
         "description": "Shareholders including the Church of England back call for protest votes against bank’s chairNatWest is at risk of an embarrassing showdown at its shareholder meeting this week as investors and sci...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "UK departments at odds over energy demands of AI datacentres",
-        "url": "https://www.theguardian.com/technology/2026/apr/26/uk-departments-at-odds-over-energy-demands-of-ai-datacentres",
-        "description": "Discrepancy in forecasts raises questions over government planning for net zeroOne vision of the UK’s future involves a decarbonised economy powered by clean, renewable energy. Another involves mak...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
-        "url": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
-        "description": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
+        "title": "Suspected gunman at Washington press dinner identified as 31-year-old Californian",
+        "url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
+        "description": "The man arrested at the event attended by President Trump has been named in US media as Cole Tomas Allen from California.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
-        "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue.",
+        "title": "Oil prices rise as US-Iran peace talks stall",
+        "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
+        "description": "President Trump said on Saturday that the US had cancelled plans to send a team to Pakistan for negotiations.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
-        "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
-        "description": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner.",
+        "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
+        "url": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
+        "description": "In a rare interview, Commander Robert Brovdi shared how his unit accounts for a third of all targets destroyed on the battlefield.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
