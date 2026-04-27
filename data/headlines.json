@@ -1,39 +1,46 @@
 {
-  "fetched_at": "2026-04-27T13:51:12.962761+00:00",
+  "fetched_at": "2026-04-27T19:20:11.055949+00:00",
   "headlines": {
     "government": [
       {
-        "title": "MPs to vote on whether to hold inquiry into Starmer over Mandelson",
-        "url": "https://www.theguardian.com/politics/2026/apr/27/mps-vote-inquiry-starmer-mandelson",
-        "description": "Commons speaker to grant application by Tories for vote on investigation into whether PM misled MPs, say sourcesUK politics live – latest updatesKeir Starmer faces a vote on whether to launch an in...",
+        "title": "Rachel Reeves considering rent freeze to limit Iran war fallout",
+        "url": "https://www.theguardian.com/politics/2026/apr/27/rachel-reeves-considering-rent-freeze-to-limit-iran-war-fallout",
+        "description": "Exclusive: Sources say chancellor is examining exceptional measures to protect household budgetsRachel Reeves is considering imposing a one-year rent freeze on private sector homes amid growing ala...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Badenoch says parliament ‘right place to hold Starmer to account’ in bid to win support from Labour MPs for inquiry – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/27/keir-starmer-peter-mandelson-inquiry-speaker-shoplifting-latest-news-updates",
-        "description": "The Conservative leader said Labour MPs should ‘look in to their consciences’ during vote on whether privileges committee should hold an inquiryDowning Street has said that the UK is “in a good pos...",
+        "title": "What might McSweeney and Barton reveal about Mandelson vetting scandal?",
+        "url": "https://www.theguardian.com/politics/2026/apr/27/what-might-mcsweeney-and-barton-reveal-about-mandelson-vetting-scandal",
+        "description": "MPs likely to question Starmer’s ex-chief of staff and former top official in Foreign Office on pressure, process and accessThe evidence of two ex-officials on Tuesday morning will be a key moment ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Sadiq Khan may try to stop Scotland Yard signing Palantir contract",
-        "url": "https://www.theguardian.com/politics/2026/apr/27/sadiq-khan-may-try-to-stop-scotland-yard-signing-palantir-contract",
-        "description": "Exclusive: Mayor raises concerns about using public money to support firms ‘who act contrary to London’s values’UK politics live – latest updatesSadiq Khan may oppose Scotland Yard using Palantir’s...",
+        "title": "Hannah Spencer riles fellow MPs with attack on parliament’s drinking culture",
+        "url": "https://www.theguardian.com/politics/2026/apr/27/green-mp-hannah-spencer-attacks-parliament-drinking-culture",
+        "description": "Green party byelection winner says ‘you can smell the alcohol when people are in between votes’UK politics live – latest updatesWhen Hannah Spencer spoke of her shock that in Westminster “you can s...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "MPs to vote on launching inquiry into PM's Mandelson claims",
+        "title": "Starmer faces vote on inquiry over Mandelson vetting claims",
         "url": "https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&at_campaign=rss",
-        "description": "Keir Starmer has denied accusations he misled MPs over Lord Mandelson's appointment as the UK's ambassador to the US.",
+        "description": "No 10 brands the move \"a desperate political stunt by the Conservative Party\", which had asked for the vote.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Goldman raises oil price forecasts as Iran war deadlock continues; Shell buying Canada’s ARC in $13.6bn deal – business live",
+        "title": "EU faces ‘China shock’ as EV imports drive Beijing’s record surplus with bloc",
+        "url": "https://www.theguardian.com/world/2026/apr/27/eu-faces-china-shock-as-ev-imports-drive-beijings-record-surplus-with-bloc",
+        "description": "China sold goods worth about $148bn to EU in first quarter of year, but imported just $65bnThe EU is experiencing a prolonged “China shock” as a flood of Chinese EVs into Europe helped push Beijing...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Goldman raises oil price forecasts as Iran war deadlock continues; Shell buying Canada’s ARC in $13.6bn deal – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/apr/27/oil-prices-high-us-iran-peace-talks-stock-markets-house-prices-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial newsChina blocks $2bn Meta takeover of AI agent developer ManusShares in athletic apparel and footwear company Adidas have jumped by almost 1.7...",
         "source": "The Guardian",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
-        "url": "https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs",
-        "description": "‘Inadequate economic security’ is putting growth and jobs at risk, says British Chambers of Commerce  UK business leaders have called on the government to build an EU-style “trade bazooka” to prote...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil prices rise as US-Iran peace talks stall",
-        "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
-        "description": "President Trump said the US had cancelled plans to send a team to Pakistan for negotiations.",
+        "title": "European flight prices are falling in short term, Wizz Air boss says",
+        "url": "https://www.bbc.com/news/articles/c3exel4p1yqo?at_medium=RSS&at_campaign=rss",
+        "description": "While many airlines say they are raising prices due to high fuel costs, József Váradi says European airlines are trying to boost demand",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "People in UK spend fewer years in good health than a decade ago, study finds",
-        "url": "https://www.theguardian.com/society/2026/apr/27/people-in-uk-spend-fewer-years-in-good-health-than-a-decade-ago-study-finds",
-        "description": "Exclusive: Health Foundation says Britain is ‘going backwards’ compared with most other rich countriesFindings on healthy life expectancy in UK shed light on its deteriorating healthPeople in the U...",
+        "title": "What the parties promise Welsh voters on the NHS, schools, childcare and tax",
+        "url": "https://www.theguardian.com/politics/2026/apr/27/what-labour-plaid-reform-greens-tories-libdems-promise-welsh-voters",
+        "description": "Labour, Plaid Cymru, Reform, the Greens, the Tories and the Lib Dems set out competing plans but offer little detail on how they would pay for themThe parties most likely to win the Senedd election...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Heartsink review – terminally ill doctor struggles to be a patient",
-        "url": "https://www.theguardian.com/stage/2026/apr/26/heartsink-a-medical-comedy-review-riverside-studios-london",
-        "description": "Riverside Studios, LondonJeffrey Longford is pedantic and superior in Farine Clarke’s medical drama – griping at everything from hospital data systems to gender-neutral loosHeartsinks, in doctors’ ...",
+        "title": "People in UK spend fewer years in good health than a decade ago, study finds",
+        "url": "https://www.theguardian.com/society/2026/apr/27/people-in-uk-spend-fewer-years-in-good-health-than-a-decade-ago-study-finds",
+        "description": "Exclusive: Health Foundation says Britain is ‘going backwards’ compared with most other rich countriesFindings on healthy life expectancy in UK shed light on its deteriorating healthPeople in the U...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,28 +93,35 @@
     ],
     "immigration": [
       {
-        "title": "Do stronger borders ever work?",
-        "url": "https://www.theguardian.com/books/2026/apr/26/do-stronger-borders-ever-work",
-        "description": "Leaders have thrown up walls and barriers throughout history – but their effects are unpredictableFour millennia ago, a Sumerian king, his frontier beset by nomadic tribes fleeing prolonged drought...",
+        "title": "What does Britain need from Labour? Not another new PM, but a government with the guts to take radical action | Polly Toynbee",
+        "url": "https://www.theguardian.com/commentisfree/2026/apr/27/britain-labour-prime-minister-government-radical-action",
+        "description": "There’s no point searching for a saviour without a genuine change in direction. Real courage is necessary – because Labour still has time to fix what is brokenIf not Keir Starmer, then who? That’s ...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Britain is undermining the care workers it depends on | Heather Stewart",
-        "url": "https://www.theguardian.com/business/2026/apr/26/britain-undermining-care-workers-depends-on-labour-immigration",
-        "description": "Labour’s immigration plans tear up the promise made to 300,000 people recruited for a sector in crisis  “We are deflated, we are sad. We feel the government is trying to pull the rug from under our...",
+        "title": "How AI job scams are destroying people’s hopes | Letters",
+        "url": "https://www.theguardian.com/money/2026/apr/27/how-ai-job-scams-are-destroying-peoples-hopes",
+        "description": "Sasha Cooklin, Darryl Dixon and Niall Leonard respond to an article by Victoria Turk about the boom in AI-driven fraud in recruitmentArtificial intelligence isn’t just being used by scammers to pro...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Shabana Mahmood does not rule out sending back refused Afghan asylum seekers",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/24/shabana-mahmood-refuses-to-rule-out-sending-back-failed-afghan-asylum-seekers",
-        "description": "Home secretary indicates Whitehall talks about returns programme, a move that would shock humanitarian groupsShabana Mahmood has refused to rule out sending rejected Afghan asylum seekers back to t...",
+        "title": "A brutal wrestle on a plane, passengers outraged, attendants helpless: I saw the UK’s deportation policy at work | Hugh Muir",
+        "url": "https://www.theguardian.com/commentisfree/2026/apr/27/plane-passengers-uk-deportation-policy-gatwick-forced-removals",
+        "description": "On the runway at Gatwick, the visceral reality of forced removals was laid bare. If only more could see what is done in our nameIt’s Gatwick airport, mid-afternoon, and on the runway there is turmo...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Heavy rain not ‘nearly enough’ to tame two wildfires in drought-stricken Georgia",
+        "url": "https://www.theguardian.com/us-news/2026/apr/27/georgia-wildfires-rain",
+        "description": "Pineland Road fire and Highway 82 fire have destroyed over 100 homes, and are part of large number of wildfires this spring in the US southSign up for the Breaking News US email to get newsletter a...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Clean energy switch must not be excuse to plunder Indigenous lands, say leaders",
         "url": "https://www.theguardian.com/world/2026/apr/27/clean-energy-switch-must-not-be-excuse-to-plunder-indigenous-lands-say-leaders",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Toxins plus climate harms likely cause of reduced fertility, study finds",
-        "url": "https://www.theguardian.com/science/2026/apr/26/toxic-exposure-climate-crisis-study",
-        "description": "Researchers find ‘alarming’ effect on fertility across global species from simultaneous exposuresSimultaneous exposure to toxic chemicals and climate change’s impacts likely generates an additive o...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "UK's biggest ever environmental pollution claim reaches High Court",
         "url": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss",
         "description": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "What the parties promise Welsh voters on the NHS, schools, childcare and tax",
+        "url": "https://www.theguardian.com/politics/2026/apr/27/what-labour-plaid-reform-greens-tories-libdems-promise-welsh-voters",
+        "description": "Labour, Plaid Cymru, Reform, the Greens, the Tories and the Lib Dems set out competing plans but offer little detail on how they would pay for themThe parties most likely to win the Senedd election...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "HSBC ‘reviewing’ private school perk for bankers in Hong Kong",
         "url": "https://www.theguardian.com/business/2026/apr/27/hsbc-reviewing-private-school-perk-for-bankers-in-hong-kong",
@@ -158,43 +165,36 @@
         "description": "It feels as if your work and your identity are fused. You’ll get through this, but you may have to use this time to consider other careersI’ve been a teacher for more than 20 years and loved it. I ...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "A federal program has helped Native Hawaiian medical students for 35 years. It’s now being sued for discrimination",
-        "url": "https://www.theguardian.com/us-news/2026/apr/25/hative-hawaiian-scholarship-program-lawsuit",
-        "description": "Do No Harm, a conservative group, wants the scholarship, which has helped islands’ underserved communities, declared unconstitutionalDoctors and health experts in Hawaii say a decades-old federal p...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Rachel Reeves considering rent freeze to limit Iran war fallout",
+        "url": "https://www.theguardian.com/politics/2026/apr/27/rachel-reeves-considering-rent-freeze-to-limit-iran-war-fallout",
+        "description": "Exclusive: Sources say chancellor is examining exceptional measures to protect household budgetsRachel Reeves is considering imposing a one-year rent freeze on private sector homes amid growing ala...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "If it’s only AI that’s keeping you up at night, maybe you’re doing OK | Letters",
+        "url": "https://www.theguardian.com/technology/2026/apr/27/if-its-only-ai-thats-keeping-you-up-at-night-maybe-youre-doing-ok",
+        "description": "Poverty is far more pressing for many people, writes Lynsey Hanley. Plus letters from Martin Pitt and Michael BulleyReading Alexander Hurst’s column on the frictionless experience of life promised ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "‘Sludge in the system’: myriad problems stymie Labour’s 1.5m new homes pledge",
         "url": "https://www.theguardian.com/business/2026/apr/26/sludge-in-the-system-myriad-problems-stymie-labours-15m-new-homes-pledge",
         "description": "Soaring cost of building materials, lack of affordability and planning bottlenecks are some of the obstacles thwarting housing targetAt South and City College in Birmingham, dozens of young people ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "‘Immigration limbo’ left Bikram Lama homeless before he died in Hyde park. Calls are growing for change",
-        "url": "https://www.theguardian.com/australia-news/2026/apr/25/bikram-lamas-quiet-death-prompts-a-reckoning-with-human-cost-of-homelessness-policy-failures",
-        "description": "Alliance of 48 councils across Australia issue damning statement calling for more support for people in ‘immigration limbo’, joining growing chorusGet our breaking news email, free app or daily new...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "‘Take them to Byron’: Gold Coast glitter strip cracks down on people living on the streets",
-        "url": "https://www.theguardian.com/australia-news/2026/apr/25/gold-coast-glitter-strip-homeless-people",
-        "description": "A report presented to the Gold Coast council says its compliance-led approach has had ‘positive results’Get our breaking news email, free app or daily news podcastTen weeks ago, Peter Watson fell o...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "What we're learning about suspected Washington press dinner gunman",
-        "url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
-        "description": "The man arrested at the event attended by President Trump is due in court on Monday.",
+        "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+        "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+        "description": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
-        "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
-        "description": "Officials say a rebel leader known as \"Marlon\" ordered the attack in which 20 people were killed.",
+        "title": "Pakistan accused of attacking Afghan university",
+        "url": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
+        "description": "Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
