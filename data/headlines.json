@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-04-27T08:23:34.548711+00:00",
+  "fetched_at": "2026-04-27T13:51:12.962761+00:00",
   "headlines": {
     "government": [
       {
-        "title": "People in UK spend fewer years in good health than a decade ago, study finds",
-        "url": "https://www.theguardian.com/society/2026/apr/27/people-in-uk-spend-fewer-years-in-good-health-than-a-decade-ago-study-finds",
-        "description": "Exclusive: Health Foundation says Britain is ‘going backwards’ compared with most other rich countriesFindings on healthy life expectancy in UK shed light on its deteriorating healthPeople in the U...",
+        "title": "MPs to vote on whether to hold inquiry into Starmer over Mandelson",
+        "url": "https://www.theguardian.com/politics/2026/apr/27/mps-vote-inquiry-starmer-mandelson",
+        "description": "Commons speaker to grant application by Tories for vote on investigation into whether PM misled MPs, say sourcesUK politics live – latest updatesKeir Starmer faces a vote on whether to launch an in...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffs",
-        "url": "https://www.theguardian.com/business/2026/apr/26/uk-urged-deploy-eu-style-trade-bazooka-trump-tariffs",
-        "description": "‘Inadequate economic security’ is putting growth and jobs at risk, says British Chambers of Commerce  UK business leaders have called on the government to build an EU-style “trade bazooka” to prote...",
+        "title": "Badenoch says parliament ‘right place to hold Starmer to account’ in bid to win support from Labour MPs for inquiry – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/27/keir-starmer-peter-mandelson-inquiry-speaker-shoplifting-latest-news-updates",
+        "description": "The Conservative leader said Labour MPs should ‘look in to their consciences’ during vote on whether privileges committee should hold an inquiryDowning Street has said that the UK is “in a good pos...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK government move to delay social media ban faces pushback in Lords",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/26/uk-government-move-to-delay-social-media-ban-faces-pushback-in-lords",
-        "description": "Peers and campaigners say proposal for three-year window to impose controls breaks promise of quick actionPeers will vote on Monday on a government move that could delay action on children’s access...",
+        "title": "Sadiq Khan may try to stop Scotland Yard signing Palantir contract",
+        "url": "https://www.theguardian.com/politics/2026/apr/27/sadiq-khan-may-try-to-stop-scotland-yard-signing-palantir-contract",
+        "description": "Exclusive: Mayor raises concerns about using public money to support firms ‘who act contrary to London’s values’UK politics live – latest updatesSadiq Khan may oppose Scotland Yard using Palantir’s...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "King's visit to 'revitalise' relationship with US, says UK ambassador",
-        "url": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
-        "description": "The UK's ambassador to the US welcomes the state visit, at a difficult time for UK and US relations.",
+        "title": "MPs to vote on launching inquiry into PM's Mandelson claims",
+        "url": "https://www.bbc.com/news/articles/c3r3r2vzjp1o?at_medium=RSS&at_campaign=rss",
+        "description": "Keir Starmer has denied accusations he misled MPs over Lord Mandelson's appointment as the UK's ambassador to the US.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Oil at three-week high as US-Iran peace talks stall, and Goldman lifts price forecast – business live",
+        "title": "Goldman raises oil price forecasts as Iran war deadlock continues; Shell buying Canada’s ARC in $13.6bn deal – business live",
         "url": "https://www.theguardian.com/business/live/2026/apr/27/oil-prices-high-us-iran-peace-talks-stock-markets-house-prices-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsShares in athletic apparel and footwear company Adidas have jumped by almost 1.75% in early trading after three of its athletes shone at th...",
+        "description": "Rolling coverage of the latest economic and financial newsChina blocks $2bn Meta takeover of AI agent developer ManusShares in athletic apparel and footwear company Adidas have jumped by almost 1.7...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "G7 central banks poised to hold borrowing costs amid concerns over prolonged Iran war",
+        "url": "https://www.theguardian.com/business/2026/apr/27/g7-central-banks-hold-borrowing-costs-global-economy-iran-war-inflation-prices-warning",
+        "description": "Critical week for global economy as banks expected to issue warnings over conflict driving up pricesBusiness live – latest updatesThe world’s most powerful central banks are poised to hold borrowin...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "UK faces higher prices for eight months after war in Iran ends, says minister",
-        "url": "https://www.theguardian.com/money/2026/apr/26/uk-faces-higher-pricesafter-war-iran-ends-darren-jones",
-        "description": "Darren Jones suggests cost of energy, food and flights will remain high after de-escalation and Hormuz strait reopensThe UK faces higher prices for food and fuel for at least eight months after the...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Oil prices rise as US-Iran peace talks stall",
         "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
-        "description": "President Trump said on Saturday that the US had cancelled plans to send a team to Pakistan for negotiations.",
+        "description": "President Trump said the US had cancelled plans to send a team to Pakistan for negotiations.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Clean energy switch must not be excuse to plunder Indigenous lands, say leaders",
+        "url": "https://www.theguardian.com/world/2026/apr/27/clean-energy-switch-must-not-be-excuse-to-plunder-indigenous-lands-say-leaders",
+        "description": "Global conference told benefits should not come at expense of well-protected environmentsThe energy transition must not be used as a fresh excuse to plunder Indigenous territories, delegates at a g...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Australia’s south-east set for drier and hotter winter as BoM forecasts potential El Niño",
         "url": "https://www.theguardian.com/australia-news/2026/apr/27/weather-australia-el-nino-bom-forecast-winter-dry-hot",
         "description": "Queensland and NSW set for lower than usual rainfall in May, June and July, while temperatures in most of the country likely to be higher than normalFollow our Australia news live blog for latest u...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "NatWest faces AGM showdown over ‘climate backtracking’",
-        "url": "https://www.theguardian.com/business/2026/apr/26/natwest-agm-showdown-climate-backtracking-protest-vote",
-        "description": "Shareholders including the Church of England back call for protest votes against bank’s chairNatWest is at risk of an embarrassing showdown at its shareholder meeting this week as investors and sci...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "UK's biggest ever environmental pollution claim reaches High Court",
         "url": "https://www.bbc.com/news/articles/cqxl5rjw58po?at_medium=RSS&at_campaign=rss",
         "description": "One of the UK's largest chicken producers and a water company accused of polluting three rivers including the River Wye",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "HSBC ‘reviewing’ private school perk for bankers in Hong Kong",
+        "url": "https://www.theguardian.com/business/2026/apr/27/hsbc-reviewing-private-school-perk-for-bankers-in-hong-kong",
+        "description": "Hundreds of senior staff in territory benefit from nearly £30,000-a-year grant per child not available to staff in group’s other hubsBusiness live – latest updatesHSBC is reportedly reviewing a per...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "I’m out of a job after issues at the schools I worked for. Is it my fault? | Annalisa Barbieri",
         "url": "https://www.theguardian.com/lifeandstyle/2026/apr/26/out-of-job-after-conflicts-schools-where-worked-annalisa-barbieri",
@@ -156,13 +163,6 @@
         "title": "A federal program has helped Native Hawaiian medical students for 35 years. It’s now being sued for discrimination",
         "url": "https://www.theguardian.com/us-news/2026/apr/25/hative-hawaiian-scholarship-program-lawsuit",
         "description": "Do No Harm, a conservative group, wants the scholarship, which has helped islands’ underserved communities, declared unconstitutionalDoctors and health experts in Hawaii say a decades-old federal p...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘I’m spending my house deposit savings to pay off my postgrad student loan’",
-        "url": "https://www.theguardian.com/money/2026/apr/24/house-deposit-savings-student-loan-interest-rates-debt",
-        "description": "Lucy O’Brien was shocked when she discovered how high interest rates were leading to ballooning debtLike many of my drowning-in-debt “plan 2” student loan comrades, I didn’t think twice about divin...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Suspected gunman at Washington press dinner identified as 31-year-old Californian",
+        "title": "What we're learning about suspected Washington press dinner gunman",
         "url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
-        "description": "The man arrested at the event attended by President Trump has been named in US media as Cole Tomas Allen from California.",
+        "description": "The man arrested at the event attended by President Trump is due in court on Monday.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Oil prices rise as US-Iran peace talks stall",
-        "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
-        "description": "President Trump said on Saturday that the US had cancelled plans to send a team to Pakistan for negotiations.",
+        "title": "Trump says King will be 'very safe' during US visit after security talks",
+        "url": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+        "description": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
-        "url": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
-        "description": "In a rare interview, Commander Robert Brovdi shared how his unit accounts for a third of all targets destroyed on the battlefield.",
+        "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
+        "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
+        "description": "Officials say a rebel leader known as \"Marlon\" ordered the attack in which 20 people were killed.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
