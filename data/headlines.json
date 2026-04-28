@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-04-28T08:23:55.424123+00:00",
+  "fetched_at": "2026-04-28T19:40:11.999317+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Ministers open-minded on shape of UK social media limits, Phillipson says",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/28/ministers-open-minded-uk-social-media-limits-bridget-phillipson",
-        "description": "Education secretary says children will face restrictions and government will consider range of views on their formChildren in the UK will face restrictions on their use of social media but the gove...",
+        "title": "No 10 dismisses Reeves’s reported plan for freeze on private rents",
+        "url": "https://www.theguardian.com/politics/2026/apr/28/no-10-dismisses-reeves-reported-plan-for-freeze-on-private-rents",
+        "description": "Downing Street says focus will remain on cutting bills, backing renters and lowering energy pricesDowning Street has dismissed the idea of a freeze on private sector rents even as Rachel Reeves lef...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Former top civil servant gives evidence to MPs on Mandelson vetting ahead of critical vote for Starmer - UK politics live",
+        "title": "Starmer sees off Tory calls for inquiry into Mandelson role after No 10 flexes muscle",
+        "url": "https://www.theguardian.com/politics/2026/apr/28/starmer-sees-off-tory-calls-for-inquiry-into-mandelson-role-after-no-10-flexes-muscle",
+        "description": "Vote goes prime minister’s way but some Labour MPs accuse him of creating perception of ‘cover-up’Keir Starmer has seen off an opposition attempt to refer him to a standards committee over Peter Ma...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK politics: Starmer avoids privileges committee inquiry into vetting of Peter Mandelson – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/apr/28/keir-starmer-labour-peter-mandelson-vetting-morgan-mcsweeney-kemi-badenoch-vote-uk-politics-latest-news-updates",
-        "description": "Philip Barton gives evidence to foreign affairs committee, with Morgan McSweeney due later this morning, ahead of vote this afternoon Q: Where you ever asked your view about appointing Peter Mandel...",
+        "description": "MPs rejected a Conservative party proposal for the prime minister to face a parliamentary inquiry into his appointment of Peter MandelsonQ: Was there pressure on you to approve Mandelson’s vetting?...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "What is the latest Palestine Action court case – and what is at stake?",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/28/what-is-the-latest-palestine-action-court-case-and-what-is-at-stake",
-        "description": "Government appeal against high court ruling could have implications for right to protest and lead to other groups being proscribedThe home secretary, Shabana Mahmood, will have her appeal against t...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "'Some form' of social media restrictions for under-16s, minister promises",
-        "url": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss",
-        "description": "Education Minister Olivia Bailey says the government will introduce “age or functionality restrictions”.",
+        "title": "PM won't face inquiry over claims he misled MPs on Mandelson vetting",
+        "url": "https://www.bbc.com/news/articles/cx21lx9ne83o?at_medium=RSS&at_campaign=rss",
+        "description": "A Conservative-led motion sought to have the prime minister's remarks assessed by Privileges Committee.",
         "source": "BBC News",
         "category": "government"
       }
@@ -40,28 +40,35 @@
         "category": "economy"
       },
       {
-        "title": "BP reports ‘horrifying’ jump in profits as Iran war boosts oil trading; Brent crude hits three-week high – business live",
+        "title": "GM expecting $500m Trump tariff refund, boosting its 2026 earnings outlook",
+        "url": "https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund",
+        "description": "Companies are now seeking refunds on tariffs after supreme court ruled Trump’s emergency levies were illegalSign up for the Breaking News US email to get newsletter alerts in your inboxGeneral Moto...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UAE quits Opec in ‘pivotal moment’ for oil producing group – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/apr/28/bp-profits-double-iran-war-oil-price-stock-markets-live-updates",
-        "description": "Energy companies are profiting from Iran war, campaigners warn, after BP’s profits double in first quarter of 2026BP profits more than double as oil and gas prices soar in Iran warAlthough rising e...",
+        "description": "It’s UAExit as the United Arab Emirates will leave Opec on 1 May, in a blow to the group of oil producersBP profits more than double as oil and gas prices soar in Iran warUAE quits Opec in win for ...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "EU faces ‘China shock’ as EV imports drive Beijing’s record surplus with bloc",
-        "url": "https://www.theguardian.com/world/2026/apr/27/eu-faces-china-shock-as-ev-imports-drive-beijings-record-surplus-with-bloc",
-        "description": "China sold goods worth about $148bn to EU in first quarter of year, but imported just $65bnThe EU is experiencing a prolonged “China shock” as a flood of Chinese EVs into Europe helped push Beijing...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "BP profits more than double as Iran war sends oil prices higher",
-        "url": "https://www.bbc.com/news/articles/c2eveyvgn9no?at_medium=RSS&at_campaign=rss",
-        "description": "The energy giant said it had seen an \"exceptional\" performance at its oil trading business.",
+        "title": "United Arab Emirates to quit oil cartel Opec",
+        "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
+        "description": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Address checks are lacking at the DVLA | Brief letters",
+        "url": "https://www.theguardian.com/money/2026/apr/28/address-checks-are-lacking-at-the-dvla",
+        "description": "Another fine mess | The rise of ‘ghost owners’ | NHS cancer screening | Full ‘wazzock’ insult | Cloning monarch butterfliesThe Driver and Vehicle Licensing Agency does not appear to check addresses...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "What the parties promise Welsh voters on the NHS, schools, childcare and tax",
         "url": "https://www.theguardian.com/politics/2026/apr/27/what-labour-plaid-reform-greens-tories-libdems-promise-welsh-voters",
@@ -77,62 +84,55 @@
         "category": "nhs"
       },
       {
-        "title": "People in UK spend fewer years in good health than a decade ago, study finds",
-        "url": "https://www.theguardian.com/society/2026/apr/27/people-in-uk-spend-fewer-years-in-good-health-than-a-decade-ago-study-finds",
-        "description": "Exclusive: Health Foundation says Britain is ‘going backwards’ compared with most other rich countriesFindings on healthy life expectancy in UK shed light on its deteriorating healthPeople in the U...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "'Some form' of social media restrictions for under-16s, minister promises",
-        "url": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss",
-        "description": "Education Minister Olivia Bailey says the government will introduce “age or functionality restrictions”.",
+        "title": "UK healthy life expectancy falls by two years in past decade",
+        "url": "https://www.bbc.com/news/articles/c20q07w3gl9o?at_medium=RSS&at_campaign=rss",
+        "description": "Poor housing, obesity and the effects of deprivation have been suggested as underlying cause.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
+        "title": "Shabana Mahmood’s frustration with immigration debate is understandable | Letter",
+        "url": "https://www.theguardian.com/politics/2026/apr/28/shabana-mahmood-frustration-with-immigration-debate-is-understandable",
+        "description": "David Holmes says the home secretary’s language may be coarse, but her immigration controls respond to a genuine public concernZoe Williams criticises Shabana Mahmood’s recent language as showing “...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Man who heckled Shabana Mahmood dismisses ‘laughable’ white liberal claim",
+        "url": "https://www.theguardian.com/politics/2026/apr/28/man-who-heckled-shabana-mahmood-dismisses-white-liberal-claim-immigration",
+        "description": "Protester says he migrated from Malaysia as a child and describes home secretary’s immigration policies as cruelUK politics live – latest updatesA protester who heckled Shabana Mahmood said he came...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "What does Britain need from Labour? Not another new PM, but a government with the guts to take radical action | Polly Toynbee",
         "url": "https://www.theguardian.com/commentisfree/2026/apr/27/britain-labour-prime-minister-government-radical-action",
         "description": "There’s no point searching for a saviour without a genuine change in direction. Real courage is necessary – because Labour still has time to fix what is brokenIf not Keir Starmer, then who? That’s ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "How AI job scams are destroying people’s hopes | Letters",
-        "url": "https://www.theguardian.com/money/2026/apr/27/how-ai-job-scams-are-destroying-peoples-hopes",
-        "description": "Sasha Cooklin, Darryl Dixon and Niall Leonard respond to an article by Victoria Turk about the boom in AI-driven fraud in recruitmentArtificial intelligence isn’t just being used by scammers to pro...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "A brutal wrestle on a plane, passengers outraged, attendants helpless: I saw the UK’s deportation policy at work | Hugh Muir",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/27/plane-passengers-uk-deportation-policy-gatwick-forced-removals",
-        "description": "On the runway at Gatwick, the visceral reality of forced removals was laid bare. If only more could see what is done in our nameIt’s Gatwick airport, mid-afternoon, and on the runway there is turmo...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
+        "title": "Singing activists disrupt NatWest meeting over ‘climate backtracking’",
+        "url": "https://www.theguardian.com/business/2026/apr/28/activists-natwest-meeting-climate-backtracking",
+        "description": "AGM briefly adjourned after protesters wearing T-shirts labelled ‘No more big oil’ burst into songThe chair of NatWest was forced to defend the bank against accusations of “climate backtracking” at...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Trump’s attempt to crush clean energy progress not going to plan, experts say",
+        "url": "https://www.theguardian.com/us-news/2026/apr/28/trump-clean-energy-progress",
+        "description": "US generated more power from renewables including solar and wind than gas last month in a firstDonald Trump has wielded the full might of his administration to crush the progress of clean energy, w...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Heavy rain not ‘nearly enough’ to tame two wildfires in drought-stricken Georgia",
         "url": "https://www.theguardian.com/us-news/2026/apr/27/georgia-wildfires-rain",
         "description": "Pineland Road fire and Highway 82 fire have destroyed over 100 homes, and are part of large number of wildfires this spring in the US southSign up for the Breaking News US email to get newsletter a...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Clean energy switch must not be excuse to plunder Indigenous lands, say leaders",
-        "url": "https://www.theguardian.com/world/2026/apr/27/clean-energy-switch-must-not-be-excuse-to-plunder-indigenous-lands-say-leaders",
-        "description": "Global conference told benefits should not come at expense of well-protected environmentsThe energy transition must not be used as a fresh excuse to plunder Indigenous territories, delegates at a g...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Australia’s south-east set for drier and hotter winter as BoM forecasts potential El Niño",
-        "url": "https://www.theguardian.com/australia-news/2026/apr/27/weather-australia-el-nino-bom-forecast-winter-dry-hot",
-        "description": "Queensland and NSW set for lower than usual rainfall in May, June and July, while temperatures in most of the country likely to be higher than normalFollow our Australia news live blog for latest u...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,46 +169,46 @@
     ],
     "housing": [
       {
+        "title": "No 10 dismisses Reeves’s reported plan for freeze on private rents",
+        "url": "https://www.theguardian.com/politics/2026/apr/28/no-10-dismisses-reeves-reported-plan-for-freeze-on-private-rents",
+        "description": "Downing Street says focus will remain on cutting bills, backing renters and lowering energy pricesDowning Street has dismissed the idea of a freeze on private sector rents even as Rachel Reeves lef...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "UK politics: Starmer avoids privileges committee inquiry into vetting of Peter Mandelson – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/28/keir-starmer-labour-peter-mandelson-vetting-morgan-mcsweeney-kemi-badenoch-vote-uk-politics-latest-news-updates",
+        "description": "MPs rejected a Conservative party proposal for the prime minister to face a parliamentary inquiry into his appointment of Peter MandelsonQ: Was there pressure on you to approve Mandelson’s vetting?...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Rachel Reeves considering rent freeze to limit Iran war fallout",
         "url": "https://www.theguardian.com/politics/2026/apr/27/rachel-reeves-considering-rent-freeze-to-limit-iran-war-fallout",
         "description": "Exclusive: Sources say chancellor is examining exceptional measures to protect household budgetsRachel Reeves is considering imposing a one-year rent freeze on private sector homes amid growing ala...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "If it’s only AI that’s keeping you up at night, maybe you’re doing OK | Letters",
-        "url": "https://www.theguardian.com/technology/2026/apr/27/if-its-only-ai-thats-keeping-you-up-at-night-maybe-youre-doing-ok",
-        "description": "Poverty is far more pressing for many people, writes Lynsey Hanley. Plus letters from Martin Pitt and Michael BulleyReading Alexander Hurst’s column on the frictionless experience of life promised ...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "‘Sludge in the system’: myriad problems stymie Labour’s 1.5m new homes pledge",
-        "url": "https://www.theguardian.com/business/2026/apr/26/sludge-in-the-system-myriad-problems-stymie-labours-15m-new-homes-pledge",
-        "description": "Soaring cost of building materials, lack of affordability and planning bottlenecks are some of the obstacles thwarting housing targetAt South and City College in Birmingham, dozens of young people ...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Suspect charged with attempted assassination of Trump at Washington dinner",
-        "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
-        "description": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible.",
+        "title": "United Arab Emirates to quit oil cartel Opec",
+        "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
+        "description": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US political violence generates a familiar cycle - this time it's in overdrive",
-        "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
-        "description": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment.",
+        "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
+        "url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
+        "description": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
-        "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
-        "description": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
+        "title": "Former FBI director James Comey indicted for second time",
+        "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+        "description": "The indictment stems from a 2025 photo of seashells posted by Comey that critics have said encouraged violence against the US president.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
