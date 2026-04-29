@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-29T13:54:16.327113+00:00",
+  "fetched_at": "2026-04-29T19:23:56.452603+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Farage reported to parliament’s standards watchdog over undeclared £5m donation – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/29/pmqs-live-keir-starmer-kemi-badenoch-uk-politics-latest-news-updates",
-        "description": "Farage was given £5m by the Thai-based billionaire Christopher Harborne shortly before announcing he would stand in the 2024 general electionExclusive: Farage was given undisclosed £5m by crypto bi...",
+        "title": "Senior UK ministers deride Rachel Reeves’s reported plan of year-long rent freeze",
+        "url": "https://www.theguardian.com/politics/2026/apr/29/senior-uk-ministers-deride-reeves-year-long-rent-freeze",
+        "description": "Housing secretary and housing minister latest to criticise idea, which has also been ruled out by No 10Senior ministers have poured scorn on the idea of freezing private sector rents for a year, le...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "More private health records of UK Biobank volunteers appear on Chinese website",
-        "url": "https://www.theguardian.com/technology/2026/apr/29/uk-data-leaks-alibaba-biobank-health-records",
-        "description": "Patrick Vallance says government working with Chinese officials to remove postings from Alibaba after Biobank data breach last weekThere have been further listings of confidential health records of...",
+        "title": "Leasehold ban in England and Wales unlikely before next general election, minister says",
+        "url": "https://www.theguardian.com/money/2026/apr/29/leasehold-ban-in-england-and-wales-unlikely-before-next-general-election-minister-says",
+        "description": "Matthew Pennycook says ending system must be done slowly to avoid hitting housing supply and legal pitfallsA ban on new leasehold properties in England and Wales is unlikely to come into force unti...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "AstraZeneca makes surprise U-turn with £300m pharma investment in UK",
-        "url": "https://www.theguardian.com/business/2026/apr/29/astrazeneca-makes-surprise-u-turn-with-300m-pharma-investment",
-        "description": "Drugmaker had stalled large-scale projects in England but has now pledged investment at two sites, announced by Keir StarmerBritain’s biggest drugmaker AstraZeneca has said it will invest £300m in ...",
+        "title": "Nigel Farage referred to standards watchdog over undisclosed £5m gift",
+        "url": "https://www.theguardian.com/politics/2026/apr/29/nigel-farage-referred-standards-watchdog-undisclosed-gift",
+        "description": "Rival parties demand investigation as Tory party chair refers Reform UK leader to commissioner over gift from crypto tycoonExclusive: Farage given undisclosed £5m by crypto tycoonAnalysis: Farage’s...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -40,28 +40,35 @@
         "category": "economy"
       },
       {
-        "title": "AstraZeneca investing £300m in UK life sciences, Starmer announces; UK asks refineries to maximise jet fuel supply – business live",
+        "title": "Jerome Powell says he’ll stay on Fed board after central bank keeps interest rates unchanged in defiance of Trump",
+        "url": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate",
+        "description": "Chair had said he’d leave after inquiry into building renovations but now says there are ‘remaining steps in the process’ he’s watchingSign up for the Breaking News US email to get newsletter alert...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Oil nearing $120 a barrel for first time since 2022 as Trump maintains Iranian blockade – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates",
-        "description": "Rolling coverage of the latest economic and financial news, as PM reveals AstraZeneca’s new UK investment plansAstraZeneca makes surprise U-turn with £300m pharma investment in UKThe oil price has ...",
+        "description": "Rolling coverage of the latest economic and financial news, as Brent crude approaches highest level since Middle East conflict beganAstraZeneca makes surprise U-turn with £300m pharma investment in...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "UK firms in ‘critical financial stress’ jump by a third as costs rise, report finds",
-        "url": "https://www.theguardian.com/business/2026/apr/29/uk-firms-in-critical-financial-stress-jump-by-a-third-costs-rise-report-says",
-        "description": "Insolvency firm points to tax rises, staff costs and shaky consumer confidence after number increases to 62,193The number of UK businesses in “critical financial distress” has risen by more than a ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil price jumps to nearly $117 after reports of 'extended' Iran blockade",
-        "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-        "description": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
+        "title": "'Numbskull, moron and too stupid': Trump and Powell's biggest clashes",
+        "url": "https://www.bbc.com/news/articles/c7v952p61dgo?at_medium=RSS&at_campaign=rss",
+        "description": "How the US President Donald Trump and Federal Reserve chair Jerome Powell came to blows.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "The use of advanced practitioners in the NHS is no reason to fear for patient safety | Letters",
+        "url": "https://www.theguardian.com/society/2026/apr/29/the-use-of-advanced-practitioners-in-the-nhs-is-no-reason-to-fear-for-patient-safety",
+        "description": "Readers respond to the British Medical Association’s warning that the increasing use of ‘non-doctors’ in medical roles is unsafeI am an advanced clinical practitioner in acute respiratory medicine,...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "A non-controversial public health policy? The UK's gradual ban on smoking has been a PR success | Devi Sridhar",
         "url": "https://www.theguardian.com/commentisfree/2026/apr/29/uk-gradual-smoking-ban-success",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Address checks are lacking at the DVLA | Brief letters",
-        "url": "https://www.theguardian.com/money/2026/apr/28/address-checks-are-lacking-at-the-dvla",
-        "description": "Another fine mess | The rise of ‘ghost owners’ | NHS cancer screening | Full ‘wazzock’ insult | Cloning monarch butterfliesThe Driver and Vehicle Licensing Agency does not appear to check addresses...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Early care scheme could prevent thousands of miscarriages a year",
-        "url": "https://www.bbc.com/news/articles/c62r8lzgnk2o?at_medium=RSS&at_campaign=rss",
-        "description": "Current rules state that three unsuccessful pregnancies are needed to trigger NHS support - but a pilot project could bring about change.",
+        "title": "Claimants in Johnson & Johnson talcum powder case rise to 7,000",
+        "url": "https://www.bbc.com/news/articles/c4g05q08y02o?at_medium=RSS&at_campaign=rss",
+        "description": "The case, which opened in the High Court on Wednesday, originally involved 3,000 claimants and is set to become the largest product liability case in UK history.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -146,69 +146,69 @@
     ],
     "education": [
       {
-        "title": "Sussex University overturns £585,000 fine as high court rejects free speech breach claim",
+        "title": "Office for Students’ University of Sussex humiliation is a symptom of deeper failings",
+        "url": "https://www.theguardian.com/education/2026/apr/29/office-for-students-university-of-sussex-humiliation-is-a-symptom-of-deeper-failings",
+        "description": "England’s higher education regulator must rebuild trust with troubled sector after series of blunders under previous leadershipIn its brief and unhappy life, England’s Office for Students has been ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Oxford’s new £185m humanities hub is polished, refined … and funded by a Trump ally",
+        "url": "https://www.theguardian.com/artanddesign/2026/apr/29/oxford-university-stephen-schwarzman-centre-for-the-humanities",
+        "description": "Billionaire Stephen Schwarzman’s portrait hangs discreetly in a building that promises cultural clout and architectural poise – yet can seem rather bland and bloodless When the wealthy Paduan banke...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "University of Sussex overturns £585,000 fine as high court rejects free speech breach claim",
         "url": "https://www.theguardian.com/education/2026/apr/29/sussex-university-overturns-fine-free-speech-kathleen-stock",
-        "description": "Ruling is blow to Office for Students after it issued record fine for allegations over professor’s trans rights viewsSussex University has overturned a £585,000 fine from England’s higher education...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Teaching in classes grouped by ability does not hamper progress of less able pupils, study finds",
-        "url": "https://www.theguardian.com/education/2026/apr/29/teaching-classes-by-ability-does-not-hamper-less-able-pupils-study-secondary-schools-england",
-        "description": "Research on maths teaching in English secondary schools upends decades of debate over mixed-ability educationTeaching pupils in classes grouped by ability improves the results of high-flyers but do...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Calls for ‘student premium’ to support disadvantaged young people after GCSEs",
-        "url": "https://www.theguardian.com/society/2026/apr/28/calls-for-student-premium-to-support-disadvantaged-young-people-after-gcses",
-        "description": "Social mobility groups say post-16 funding gap risks young people falling out of education, work and trainingA coalition of 14 social mobility organisations is urging the government to fund a “stud...",
+        "description": "Ruling is blow to Office for Students after it issued record fine for allegations over professor’s trans rights viewsThe University of Sussex has overturned a £585,000 fine from England’s higher ed...",
         "source": "The Guardian",
         "category": "education"
       }
     ],
     "housing": [
       {
-        "title": "Farage reported to parliament’s standards watchdog over undeclared £5m donation – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/29/pmqs-live-keir-starmer-kemi-badenoch-uk-politics-latest-news-updates",
-        "description": "Farage was given £5m by the Thai-based billionaire Christopher Harborne shortly before announcing he would stand in the 2024 general electionExclusive: Farage was given undisclosed £5m by crypto bi...",
+        "title": "Leasehold ban in England and Wales unlikely before next general election, minister says",
+        "url": "https://www.theguardian.com/money/2026/apr/29/leasehold-ban-in-england-and-wales-unlikely-before-next-general-election-minister-says",
+        "description": "Matthew Pennycook says ending system must be done slowly to avoid hitting housing supply and legal pitfallsA ban on new leasehold properties in England and Wales is unlikely to come into force unti...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Urban areas host 80% of England’s homes at high risk of flooding, study finds",
-        "url": "https://www.theguardian.com/environment/2026/apr/29/england-homes-high-risk-flooding-towns-cities-urban-environment-study",
-        "description": "Exclusive: 839,000 homes in urban areas face threat of surface-water flooding, with social housing tenants most vulnerable to costsEight in 10 of the homes that are at high risk of flooding in Engl...",
+        "title": "Senior UK ministers deride Rachel Reeves’s reported plan of year-long rent freeze",
+        "url": "https://www.theguardian.com/politics/2026/apr/29/senior-uk-ministers-deride-reeves-year-long-rent-freeze",
+        "description": "Housing secretary and housing minister latest to criticise idea, which has also been ruled out by No 10Senior ministers have poured scorn on the idea of freezing private sector rents for a year, le...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "No 10 dismisses Reeves’s reported plan for freeze on private rents",
-        "url": "https://www.theguardian.com/politics/2026/apr/28/no-10-dismisses-reeves-reported-plan-for-freeze-on-private-rents",
-        "description": "Downing Street says focus will remain on cutting bills, backing renters and lowering energy pricesDowning Street has dismissed the idea of a freeze on private sector rents even as Rachel Reeves lef...",
+        "title": "The landlords’ view of the rental market | Letters",
+        "url": "https://www.theguardian.com/society/2026/apr/29/the-landlords-view-of-the-rental-market",
+        "description": "It isn’t a story of villains and victims, but a housing system under strain, writes Nick Vernoum. Plus a letter from John FarquharYour article on landlords (I thought landlords were unchallengeable...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
-        "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
-        "description": "In the two months since the deadly strike, the US defence department has said only that the incident is under investigation.",
+        "title": "Oil price soars above $118 after reports of 'extended' Iran blockade",
+        "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+        "description": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Five takeaways from the King's historic address to Congress",
-        "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
-        "description": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
+        "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+        "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
+        "description": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Comey charged with threatening Trump's life in Instagram post",
-        "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-        "description": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.",
+        "title": "Madagascar detains French national over alleged plot to stir unrest",
+        "url": "https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss",
+        "description": "Malagasy prosecuters used a Whatsapp group as evidence for the detained individuals alleged crimes.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
