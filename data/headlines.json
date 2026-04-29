@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-29T02:48:08.232363+00:00",
+  "fetched_at": "2026-04-29T08:16:20.536488+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Minister dismisses Labour rebels as ‘usual suspects’; Starmer prepares for final PMQs of parliamentary session – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/29/pmqs-live-keir-starmer-kemi-badenoch-uk-politics-latest-news-updates",
+        "description": "PM will face Kemi Badenoch and other MPs at final PMQs of the 2025-26 parliamentary sessionGood morning. Originally Keir Starmer was hoping that there would not be a need for a PMQs today, but we h...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Earlier specialised care could prevent 10,000 miscarriages a year, UK study finds",
+        "url": "https://www.theguardian.com/society/2026/apr/29/miscarriages-graded-specialised-care-uk-study",
+        "description": "Charity says starting specialised care after first miscarriage instead of third reduces risk of future lossesGiving women access to specialised care after their first miscarriage could prevent abou...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Starmer sees off major Labour rebellion over call for Mandelson inquiry",
         "url": "https://www.theguardian.com/politics/2026/apr/28/starmer-sees-off-tory-calls-for-inquiry-into-mandelson-role-after-no-10-flexes-muscle",
         "description": "No 10 deploys full weight to block parliamentary inquiry bid as MPs warn PM running out of political capitalKeir Starmer has seen off a major Labour rebellion over a bid to force a parliamentary in...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "No 10 dismisses Reeves’s reported plan for freeze on private rents",
-        "url": "https://www.theguardian.com/politics/2026/apr/28/no-10-dismisses-reeves-reported-plan-for-freeze-on-private-rents",
-        "description": "Downing Street says focus will remain on cutting bills, backing renters and lowering energy pricesDowning Street has dismissed the idea of a freeze on private sector rents even as Rachel Reeves lef...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK politics: Starmer avoids privileges committee inquiry into vetting of Peter Mandelson – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/28/keir-starmer-labour-peter-mandelson-vetting-morgan-mcsweeney-kemi-badenoch-vote-uk-politics-latest-news-updates",
-        "description": "MPs rejected a Conservative party proposal for the prime minister to face a parliamentary inquiry into his appointment of Peter MandelsonQ: Was there pressure on you to approve Mandelson’s vetting?...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -40,6 +40,13 @@
         "category": "economy"
       },
       {
+        "title": "Oil hits one month high as Trump plumps for ‘extended blockade of Iran’; UK exports to Middle East tumble – business live",
+        "url": "https://www.theguardian.com/business/live/2026/apr/29/uk-exports-middle-east-iran-war-economy-oil-stock-markets-government-live-updates",
+        "description": "Rolling coverage of the latest economic and financial newsUK urged to deploy EU-style ‘trade bazooka’ against Trump’s tariffsThe oil price has hit its highest level in a month, following reports th...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "GM expecting $500m Trump tariff refund, boosting its 2026 earnings outlook",
         "url": "https://www.theguardian.com/business/2026/apr/28/general-motors-trump-tariffs-refund",
         "description": "Companies are now seeking refunds on tariffs after supreme court ruled Trump’s emergency levies were illegalSign up for the Breaking News US email to get newsletter alerts in your inboxGeneral Moto...",
@@ -47,14 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "UAE quits Opec in ‘pivotal moment’ for oil producing group – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/apr/28/bp-profits-double-iran-war-oil-price-stock-markets-live-updates",
-        "description": "It’s UAExit as the United Arab Emirates will leave Opec on 1 May, in a blow to the group of oil producersBP profits more than double as oil and gas prices soar in Iran warUAE quits Opec in win for ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Face serum advert banned over 'five years younger' claim",
+        "title": "Advert for £49 serum banned over 'five years younger' claim",
         "url": "https://www.bbc.com/news/articles/c78kl05en7po?at_medium=RSS&at_campaign=rss",
         "description": "Eucerin asked 160 people to use the serum for four weeks then say how much younger they thought they looked.",
         "source": "BBC News",
@@ -63,23 +63,23 @@
     ],
     "nhs": [
       {
+        "title": "A non-controversial public health policy? The UK's gradual ban on smoking has been a PR success | Devi Sridhar",
+        "url": "https://www.theguardian.com/commentisfree/2026/apr/29/uk-gradual-smoking-ban-success",
+        "description": "The world will be watching to see how the ban for anyone born after 2009 works out. So far it’s been a win with smokers and non-smokers alikeLast week saw the passage of the tobacco and vapes bill,...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Earlier specialised care could prevent 10,000 miscarriages a year, UK study finds",
+        "url": "https://www.theguardian.com/society/2026/apr/29/miscarriages-graded-specialised-care-uk-study",
+        "description": "Charity says starting specialised care after first miscarriage instead of third reduces risk of future lossesGiving women access to specialised care after their first miscarriage could prevent abou...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Address checks are lacking at the DVLA | Brief letters",
         "url": "https://www.theguardian.com/money/2026/apr/28/address-checks-are-lacking-at-the-dvla",
         "description": "Another fine mess | The rise of ‘ghost owners’ | NHS cancer screening | Full ‘wazzock’ insult | Cloning monarch butterfliesThe Driver and Vehicle Licensing Agency does not appear to check addresses...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "What the parties promise Welsh voters on the NHS, schools, childcare and tax",
-        "url": "https://www.theguardian.com/politics/2026/apr/27/what-labour-plaid-reform-greens-tories-libdems-promise-welsh-voters",
-        "description": "Labour, Plaid Cymru, Reform, the Greens, the Tories and the Lib Dems set out competing plans but offer little detail on how they would pay for themThe parties most likely to win the Senedd election...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Four-fifths of UK mental health nurses say their workload is unmanageable",
-        "url": "https://www.theguardian.com/society/2026/apr/27/four-fifths-uk-mental-health-nurses-say-workload-unmanageable",
-        "description": "Half of respondents to RCN poll said patients ‘frequently come to harm’ because caseloads are too highMental health patients in the UK are routinely coming to harm because of high caseloads, unders...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Urban areas host 80% of England’s homes at high risk of flooding, study finds",
+        "url": "https://www.theguardian.com/environment/2026/apr/29/england-homes-high-risk-flooding-towns-cities-urban-environment-study",
+        "description": "Exclusive: 839,000 homes in urban areas face threat of surface-water flooding, with social housing tenants most vulnerable to costsEight in 10 of the homes that are at high risk of flooding in Engl...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Singing activists disrupt NatWest meeting over ‘climate backtracking’",
         "url": "https://www.theguardian.com/business/2026/apr/28/activists-natwest-meeting-climate-backtracking",
         "description": "AGM briefly adjourned after protesters wearing T-shirts labelled ‘No more big oil’ burst into songThe chair of NatWest was forced to defend the bank against accusations of “climate backtracking” at...",
@@ -126,13 +133,6 @@
         "title": "Trump’s attempt to crush clean energy progress not going to plan, experts say",
         "url": "https://www.theguardian.com/us-news/2026/apr/28/trump-clean-energy-progress",
         "description": "US generated more power from renewables including solar and wind than gas last month in a firstDonald Trump has wielded the full might of his administration to crush the progress of clean energy, w...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Heavy rain not ‘nearly enough’ to tame two wildfires in drought-stricken Georgia",
-        "url": "https://www.theguardian.com/us-news/2026/apr/27/georgia-wildfires-rain",
-        "description": "Pineland Road fire and Highway 82 fire have destroyed over 100 homes, and are part of large number of wildfires this spring in the US southSign up for the Breaking News US email to get newsletter a...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Urban areas host 80% of England’s homes at high risk of flooding, study finds",
+        "url": "https://www.theguardian.com/environment/2026/apr/29/england-homes-high-risk-flooding-towns-cities-urban-environment-study",
+        "description": "Exclusive: 839,000 homes in urban areas face threat of surface-water flooding, with social housing tenants most vulnerable to costsEight in 10 of the homes that are at high risk of flooding in Engl...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "No 10 dismisses Reeves’s reported plan for freeze on private rents",
         "url": "https://www.theguardian.com/politics/2026/apr/28/no-10-dismisses-reeves-reported-plan-for-freeze-on-private-rents",
         "description": "Downing Street says focus will remain on cutting bills, backing renters and lowering energy pricesDowning Street has dismissed the idea of a freeze on private sector rents even as Rachel Reeves lef...",
@@ -181,16 +188,16 @@
         "description": "MPs rejected a Conservative party proposal for the prime minister to face a parliamentary inquiry into his appointment of Peter MandelsonQ: Was there pressure on you to approve Mandelson’s vetting?...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Rachel Reeves considering rent freeze to limit Iran war fallout",
-        "url": "https://www.theguardian.com/politics/2026/apr/27/rachel-reeves-considering-rent-freeze-to-limit-iran-war-fallout",
-        "description": "Exclusive: Sources say chancellor is examining exceptional measures to protect household budgetsRachel Reeves is considering imposing a one-year rent freeze on private sector homes amid growing ala...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Five takeaways from the King's historic address to Congress",
+        "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+        "description": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Comey charged with threatening Trump's life in Instagram post",
         "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "United Arab Emirates to quit oil cartel Opec",
-        "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-        "description": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
-        "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
-        "description": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
+        "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
+        "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
+        "description": "It will have little effect on the current oil blockades, but it could change everything afterwards.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
