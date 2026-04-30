@@ -1,71 +1,78 @@
 {
-  "fetched_at": "2026-04-30T13:52:18.414952+00:00",
+  "fetched_at": "2026-04-30T19:19:41.067420+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Farage did not need to declare £5m donation as it was ‘private’, claims Braverman – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/apr/30/local-election-campaign-labour-reform-conservatives-tories-greens-lib-dems-latest-news-updates",
-        "description": "Former Tory home secretary turned Reform UK education spokesperson defends party leader over undeclared giftOn BBC Radio Merseyside the presenter, Tony Snell, put it to Kemi Badenoch that Merseysid...",
+        "title": "Starmer restores powers to ousted hereditary peers in Lords shake-up",
+        "url": "https://www.theguardian.com/politics/2026/apr/30/keir-starmer-restores-powers-hereditary-peers-house-of-lords",
+        "description": "Dozens handed life peerages in apparent concession, enabling their return to red benchesDozens of hereditary peers whose seats have been abolished have had their lawmaking powers restored as Keir S...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour calls on Jenrick to give £37,500 campaign donation to charity amid electoral law investigation",
-        "url": "https://www.theguardian.com/politics/2026/apr/30/labour-robert-jenrick-give-campaign-donation-charity-allegation",
-        "description": "Electoral Commission is investigating claims money given to MP came from US businessman now convicted of wire fraudUK politics live – latest updatesLabour has called on Robert Jenrick to give up al...",
+        "title": "UK terrorism threat level raised to ‘severe’ after Golders Green attack",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/30/uk-terrorism-threat-level-raised-to-severe-after-golders-green-attack",
+        "description": "Joint Terrorism Analysis Centre’s assessment means terror attack thought to be ‘highly likely’The UK terrorism threat level has been raised to “severe” by the Joint Terrorism Analysis Centre after ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Spectator owner’s son calls for mine-laden ‘floating wall’ to stop Channel crossings",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/30/spectator-paul-winston-marshall-mine-laden-floating-wall-stop-channel-crossings",
-        "description": "Winston Marshall, former member of Mumford & Sons, says people crossing are ‘economic migrants’ not refugeesThe son of the Spectator owner, Paul Marshall, has said Britain should construct a mine-l...",
+        "title": "Will Reform dominate the local and devolved elections? – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/apr/30/will-reform-dominate-local-devolved-elections-podcast",
+        "description": "Pippa Crerar is joined by the election analyst Prof Rob Ford to look at the upcoming local and devolved elections. Will Reform dominate across England? Can the Greens remove Labour’s longstanding h...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Farage received £5m from donor before he became MP",
-        "url": "https://www.bbc.com/news/articles/cn5pr0gp3gro?at_medium=RSS&at_campaign=rss",
-        "description": "The Reform leader says the gift was for his personal security - but opponents say he should have declared it.",
+        "title": "Met chief defends knife attack officers after Greens criticism",
+        "url": "https://www.bbc.com/news/articles/c74r9rlw9ngo?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Mark Rowley says he is \"disappointed\" that Green Party leader Zack Polanski shared a post condemning how police subdued the suspect.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "Bank of England warns ‘higher inflation unavoidable’ after holding interest rates",
+        "url": "https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold",
+        "description": "Governor says decision to keep rates at 3.75% reasonable given unpredictability of events unfolding in Middle EastBusiness live – latest updatesWhy Bank kept rates on hold despite UK bracing for Tr...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Bank of England warns UK should brace for higher inflation due to Middle East war – video",
+        "url": "https://www.theguardian.com/business/video/2026/apr/30/bank-of-england-higher-inflation-middle-east-war-video",
+        "description": "The Bank of England has left interest rates unchanged at 3.75% but warned that the UK may need to brace for hikes later this year, as a result of the war in the Middle East.The Bank’s rate-setting ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’",
         "url": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
-        "description": "Markets spooked as US president appears willing to keep up naval blockade and Iran keeps strait of Hormuz all but shutBusiness live – latest updatesThe global oil price has soared above $126 a barr...",
+        "description": "Markets spooked as US president appears willing to keep up naval blockade and Iran keeps strait of Hormuz all but shutBusiness live – latest updatesThe global oil price hit $126 a barrel on Thursda...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "US economic growth rebounds 2% as consumer spending slows amid Iran war",
-        "url": "https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war",
-        "description": "First quarter output, driven by AI investment and government spending, rose as oil shock fuels inflation fearsUS gross domestic product (GDP) accelerated 2% in the first three months of 2026, thoug...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Eurozone inflation soars to 3% as Iran war drives up energy prices",
-        "url": "https://www.theguardian.com/business/2026/apr/30/eurozone-inflation-increase-iran-war-drives-up-energy-prices",
-        "description": "ECB keeps interest rates on hold as growth stumbles and price rises gather pace, up from 2.6% in March and 1.9% in FebruaryBusiness live – latest updatesAir France-KLM cuts forecasts amid $2.4bn fu...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Bank of England hints at higher rates as Iran war fuels inflation",
+        "title": "Bank of England says rates could rise as Iran war fuels inflation",
         "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
-        "description": "The Bank of England votes for no immediate change to borrowing costs as it monitors the knock-on effects of the Middle East conflict.",
+        "description": "The Bank of England voted to hold interest rates at 3.75% as it monitors the knock-on effects of the Middle East conflict.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "The use of advanced practitioners in the NHS is no reason to fear for patient safety | Letters",
-        "url": "https://www.theguardian.com/society/2026/apr/29/the-use-of-advanced-practitioners-in-the-nhs-is-no-reason-to-fear-for-patient-safety",
-        "description": "Readers respond to the British Medical Association’s warning that the increasing use of ‘non-doctors’ in medical roles is unsafeI am an advanced clinical practitioner in acute respiratory medicine,...",
+        "title": "Austerity to blame for the fall in healthy life expectancy | Letters",
+        "url": "https://www.theguardian.com/society/2026/apr/30/austerity-to-blame-for-the-fall-in-healthy-life-expectancy",
+        "description": "Readers respond to the news that people in the UK are spending fewer years in good health than a decade agoA major cause of the fall in healthy life expectancy (People in UK spend fewer years in go...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Why routine cancer tests have age limits | Brief letters",
+        "url": "https://www.theguardian.com/society/2026/apr/30/why-routine-cancer-tests-have-age-limits",
+        "description": "Bowel and breast cancer screening | Battery farms | Illustrating a ‘wazzock’ | High price for Chelsea coachJane Ghosh asks why the NHS’s routine screening for bowel and breast cancer has upper age ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -73,13 +80,6 @@
         "title": "UK researchers develop tool to identify people most at risk of obesity-related diseases",
         "url": "https://www.theguardian.com/society/2026/apr/30/uk-researchers-identify-people-most-at-risk-obesity-related-diseases",
         "description": "Data tool could help NHS prioritise who gets access to limited weight-loss medication, say scientistsA new tool that can shed light on who is most at risk of obesity-related diseases could help ide...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "A non-controversial public health policy? The UK's gradual ban on smoking has been a PR success | Devi Sridhar",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/29/uk-gradual-smoking-ban-success",
-        "description": "The world will be watching to see how the ban for anyone born after 2009 works out. So far it’s been a win with smokers and non-smokers alikeLast week saw the passage of the tobacco and vapes bill,...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,9 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "Spectator owner’s son calls for mine-laden ‘floating wall’ to stop Channel crossings",
+        "title": "GB News owner’s son calls for mine-laden ‘floating wall’ to stop Channel crossings",
         "url": "https://www.theguardian.com/uk-news/2026/apr/30/spectator-paul-winston-marshall-mine-laden-floating-wall-stop-channel-crossings",
-        "description": "Winston Marshall, former member of Mumford & Sons, says people crossing are ‘economic migrants’ not refugeesThe son of the Spectator owner, Paul Marshall, has said Britain should construct a mine-l...",
+        "description": "Winston Marshall, former member of Mumford & Sons, says people crossing are ‘economic migrants’ not refugeesUK politics live – latest updatesThe son of the GB News co-owner Paul Marshall has said B...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Democrats say EPA head’s budget cut proposal ‘reads like climate change deniers’ manifesto’",
+        "url": "https://www.theguardian.com/environment/2026/apr/30/epa-budget-cut-proposal",
+        "description": "Lee Zeldin claims before Senate that Trump administration plan will make Environmental Protection Agency ‘more efficient’Senate Democrats accused the Trump administration of abandoning the Environm...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "‘Historic breakthrough’: Colombia climate talks end with hopes raised for fossil fuel phaseout",
         "url": "https://www.theguardian.com/environment/2026/apr/30/colombia-climate-talks-end-fossil-fuel-phaseout",
         "description": "Nearly 60 countries back voluntary roadmaps to wean world off coal, oil and gas, at conference prompted by frustration with UN climate summitsBusiness live – latest updatesEurope live – latest upda...",
@@ -126,13 +133,6 @@
         "title": "‘Suicidal’ model of capitalism leading to war and fascism, climate summit told",
         "url": "https://www.theguardian.com/environment/2026/apr/29/capitalism-colombia-climate-summit-gustavo-petro",
         "description": "Colombia president Gustavo Petro tells 57-country talks on a green energy transition that fossil fuel interests could destroy humanityThe world is threatened by a “suicidal” model of capitalism tha...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Urban areas host 80% of England’s homes at high risk of flooding, study finds",
-        "url": "https://www.theguardian.com/environment/2026/apr/29/england-homes-high-risk-flooding-towns-cities-urban-environment-study",
-        "description": "Exclusive: 839,000 homes in urban areas face threat of surface-water flooding, with social housing tenants most vulnerable to costsEight in 10 of the homes that are at high risk of flooding in Engl...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,13 +169,6 @@
     ],
     "housing": [
       {
-        "title": "Leasehold ban in England and Wales unlikely before next general election, minister says",
-        "url": "https://www.theguardian.com/money/2026/apr/29/leasehold-ban-in-england-and-wales-unlikely-before-next-general-election-minister-says",
-        "description": "Matthew Pennycook says ending system must be done slowly to avoid hitting housing supply and legal pitfallsA ban on new leasehold properties in England and Wales is unlikely to come into force unti...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
         "title": "Labour is facing wipeout in its final stronghold. Why? It’s housing, housing, housing | Aditya Chakrabortty",
         "url": "https://www.theguardian.com/commentisfree/2026/apr/30/labour-wipeout-local-elections-london-housing",
         "description": "In the 1980s, Labour-controlled London built 52,000 council homes. During the Tony Blair decade, just 280. It’s brought this local-election catastrophe on itselfOver the week to come, journalists w...",
@@ -188,20 +181,27 @@
         "description": "Housing secretary and housing minister latest to criticise idea, which has also been ruled out by No 10Senior ministers have poured scorn on the idea of freezing private sector rents for a year, le...",
         "source": "The Guardian",
         "category": "housing"
+      },
+      {
+        "title": "Leasehold ban in England and Wales unlikely before next general election, minister says",
+        "url": "https://www.theguardian.com/money/2026/apr/29/leasehold-ban-in-england-and-wales-unlikely-before-next-general-election-minister-says",
+        "description": "Matthew Pennycook says ending system must be done slowly to avoid hitting housing supply and legal pitfallsA ban on new leasehold properties in England and Wales is unlikely to come into force unti...",
+        "source": "The Guardian",
+        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-        "description": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+        "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+        "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+        "description": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
-        "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-        "description": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
+        "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+        "description": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
