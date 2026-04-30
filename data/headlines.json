@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-29T19:23:56.452603+00:00",
+  "fetched_at": "2026-04-30T02:50:25.832365+00:00",
   "headlines": {
     "government": [
       {
@@ -33,16 +33,16 @@
     ],
     "economy": [
       {
-        "title": "UK faces £35bn hit and risk of recession this year over impact of Iran war, thinktank warns",
-        "url": "https://www.theguardian.com/business/2026/apr/29/uk-risk-of-recession-this-year-over-impact-of-iran-war-thinktank-warns",
-        "description": "Niesr says even under best-case scenario, economy would grow at slower pace in 2026 and 2027 because of conflictBritain is facing a £35bn economic hit and the risk of a recession this year as the f...",
+        "title": "Existing property investors likely to avoid more tax under possible CGT changes in Chalmers’ May budget",
+        "url": "https://www.theguardian.com/australia-news/2026/apr/30/federal-budget-cgt-capital-gains-tax-existing-property-investors",
+        "description": "Treasurer tells Commonwealth Bank podcast that he aims to ‘recognise the decisions that people have taken in the past’Follow our Australia news live blog for latest updatesGet our breaking news ema...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Jerome Powell says he’ll stay on Fed board after central bank keeps interest rates unchanged in defiance of Trump",
+        "title": "Jerome Powell to stay on Fed board after central bank holds rates steady in defiance of Trump",
         "url": "https://www.theguardian.com/business/2026/apr/29/fed-jerome-powell-decision-hold-interest-rate",
-        "description": "Chair had said he’d leave after inquiry into building renovations but now says there are ‘remaining steps in the process’ he’s watchingSign up for the Breaking News US email to get newsletter alert...",
+        "description": "Chair planned to exit after inquiry into building renovations but will now oversee ‘remaining steps in the process’Sign up for the Breaking News US email to get newsletter alerts in your inboxThe U...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "'Numbskull, moron and too stupid': Trump and Powell's biggest clashes",
-        "url": "https://www.bbc.com/news/articles/c7v952p61dgo?at_medium=RSS&at_campaign=rss",
-        "description": "How the US President Donald Trump and Federal Reserve chair Jerome Powell came to blows.",
+        "title": "Interest rates expected to be held as uncertainty over Iran war continues",
+        "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
+        "description": "Future base rate changes are hard to predict as analysts judge the economic impact of the Iran war.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Claimants in Johnson & Johnson talcum powder case rise to 7,000",
-        "url": "https://www.bbc.com/news/articles/c4g05q08y02o?at_medium=RSS&at_campaign=rss",
-        "description": "The case, which opened in the High Court on Wednesday, originally involved 3,000 claimants and is set to become the largest product liability case in UK history.",
+        "title": "Women can wait years for an endometriosis diagnosis. New tech could change that",
+        "url": "https://www.bbc.com/news/articles/clyplwvgxjvo?at_medium=RSS&at_campaign=rss",
+        "description": "A new scan technique could spot areas of endometriosis missed by conventional scans, scientists say.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -192,13 +192,6 @@
     ],
     "foreign_policy": [
       {
-        "title": "Oil price soars above $118 after reports of 'extended' Iran blockade",
-        "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-        "description": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
         "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
         "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
         "description": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
@@ -206,9 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Madagascar detains French national over alleged plot to stir unrest",
-        "url": "https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss",
-        "description": "Malagasy prosecuters used a Whatsapp group as evidence for the detained individuals alleged crimes.",
+        "title": "Bondi shooting inquiry calls for gun reform and more security at Jewish festivals",
+        "url": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
+        "description": "An interim report says country should prioritise 'nationally consistent' firearms reforms.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Hegseth clashes with lawmakers over Iran war in nearly six-hour-long hearing",
+        "url": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss",
+        "description": "US Defence Secretary Pete Hegseth sparred with Democratic lawmakers during a nearly six-hour-long hearing, in his first time facing questions under oath since the start of the Iran war.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
