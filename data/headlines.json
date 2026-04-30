@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-04-30T08:20:46.892326+00:00",
+  "fetched_at": "2026-04-30T13:52:18.414952+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Senior UK ministers deride Rachel Reeves’s reported plan of year-long rent freeze",
-        "url": "https://www.theguardian.com/politics/2026/apr/29/senior-uk-ministers-deride-reeves-year-long-rent-freeze",
-        "description": "Housing secretary and housing minister latest to criticise idea, which has also been ruled out by No 10Senior ministers have poured scorn on the idea of freezing private sector rents for a year, le...",
+        "title": "Farage did not need to declare £5m donation as it was ‘private’, claims Braverman – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/apr/30/local-election-campaign-labour-reform-conservatives-tories-greens-lib-dems-latest-news-updates",
+        "description": "Former Tory home secretary turned Reform UK education spokesperson defends party leader over undeclared giftOn BBC Radio Merseyside the presenter, Tony Snell, put it to Kemi Badenoch that Merseysid...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Leasehold ban in England and Wales unlikely before next general election, minister says",
-        "url": "https://www.theguardian.com/money/2026/apr/29/leasehold-ban-in-england-and-wales-unlikely-before-next-general-election-minister-says",
-        "description": "Matthew Pennycook says ending system must be done slowly to avoid hitting housing supply and legal pitfallsA ban on new leasehold properties in England and Wales is unlikely to come into force unti...",
+        "title": "Labour calls on Jenrick to give £37,500 campaign donation to charity amid electoral law investigation",
+        "url": "https://www.theguardian.com/politics/2026/apr/30/labour-robert-jenrick-give-campaign-donation-charity-allegation",
+        "description": "Electoral Commission is investigating claims money given to MP came from US businessman now convicted of wire fraudUK politics live – latest updatesLabour has called on Robert Jenrick to give up al...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Nigel Farage referred to standards watchdog over undisclosed £5m gift",
-        "url": "https://www.theguardian.com/politics/2026/apr/29/nigel-farage-referred-standards-watchdog-undisclosed-gift",
-        "description": "Rival parties demand investigation as Tory party chair refers Reform UK leader to commissioner over gift from crypto tycoonExclusive: Farage given undisclosed £5m by crypto tycoonAnalysis: Farage’s...",
+        "title": "Spectator owner’s son calls for mine-laden ‘floating wall’ to stop Channel crossings",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/30/spectator-paul-winston-marshall-mine-laden-floating-wall-stop-channel-crossings",
+        "description": "Winston Marshall, former member of Mumford & Sons, says people crossing are ‘economic migrants’ not refugeesThe son of the Spectator owner, Paul Marshall, has said Britain should construct a mine-l...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,30 +33,30 @@
     ],
     "economy": [
       {
-        "title": "Why is Britain’s economy so stuck? It’s the tension between what voters want and what the bond markets allow | Larry Elliott",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/30/britain-economy-stuck-tension-bond-markets",
-        "description": "There is no such thing as the Bond Dealers party, but there might as well be – the people who trade in UK debt exert a stranglehold over our politicsThe days of two-party politics are over. When vo...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil price tops $120 a barrel after Trump warns Iran blockade could last ‘months’",
+        "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’",
         "url": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
-        "description": "Oil markets spooked as US president appears willing to maintain US Navy blockade and Iran keeps strait of Hormuz all but shut The price of Brent oil soared above $126 a barrel on Wednesday, its hig...",
+        "description": "Markets spooked as US president appears willing to keep up naval blockade and Iran keeps strait of Hormuz all but shutBusiness live – latest updatesThe global oil price has soared above $126 a barr...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Rising costs forcing 3m UK households to skip meals, Which? report finds",
-        "url": "https://www.theguardian.com/business/2026/apr/30/rising-costs-forcing-3m-uk-households-skip-meals-which-report",
-        "description": "Consumer insight tracker shows 85% are worried about food prices and a majority think the economy will deteriorateThree million UK households are being forced to skip meals as consumers resort to d...",
+        "title": "US economic growth rebounds 2% as consumer spending slows amid Iran war",
+        "url": "https://www.theguardian.com/business/2026/apr/30/gdp-consumer-spending-slows-iran-war",
+        "description": "First quarter output, driven by AI investment and government spending, rose as oil shock fuels inflation fearsUS gross domestic product (GDP) accelerated 2% in the first three months of 2026, thoug...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-        "description": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+        "title": "Eurozone inflation soars to 3% as Iran war drives up energy prices",
+        "url": "https://www.theguardian.com/business/2026/apr/30/eurozone-inflation-increase-iran-war-drives-up-energy-prices",
+        "description": "ECB keeps interest rates on hold as growth stumbles and price rises gather pace, up from 2.6% in March and 1.9% in FebruaryBusiness live – latest updatesAir France-KLM cuts forecasts amid $2.4bn fu...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Bank of England hints at higher rates as Iran war fuels inflation",
+        "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
+        "description": "The Bank of England votes for no immediate change to borrowing costs as it monitors the knock-on effects of the Middle East conflict.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "A non-controversial public health policy? The UK's gradual ban on smoking has been a PR success | Devi Sridhar",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/29/uk-gradual-smoking-ban-success",
-        "description": "The world will be watching to see how the ban for anyone born after 2009 works out. So far it’s been a win with smokers and non-smokers alikeLast week saw the passage of the tobacco and vapes bill,...",
+        "title": "UK researchers develop tool to identify people most at risk of obesity-related diseases",
+        "url": "https://www.theguardian.com/society/2026/apr/30/uk-researchers-identify-people-most-at-risk-obesity-related-diseases",
+        "description": "Data tool could help NHS prioritise who gets access to limited weight-loss medication, say scientistsA new tool that can shed light on who is most at risk of obesity-related diseases could help ide...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Earlier specialised care could prevent 10,000 miscarriages a year, UK study finds",
-        "url": "https://www.theguardian.com/society/2026/apr/29/miscarriages-graded-specialised-care-uk-study",
-        "description": "Charity says starting specialised care after first miscarriage instead of third reduces risk of future lossesGiving women access to specialised care after their first miscarriage could prevent abou...",
+        "title": "A non-controversial public health policy? The UK's gradual ban on smoking has been a PR success | Devi Sridhar",
+        "url": "https://www.theguardian.com/commentisfree/2026/apr/29/uk-gradual-smoking-ban-success",
+        "description": "The world will be watching to see how the ban for anyone born after 2009 works out. So far it’s been a win with smokers and non-smokers alikeLast week saw the passage of the tobacco and vapes bill,...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Spectator owner’s son calls for mine-laden ‘floating wall’ to stop Channel crossings",
+        "url": "https://www.theguardian.com/uk-news/2026/apr/30/spectator-paul-winston-marshall-mine-laden-floating-wall-stop-channel-crossings",
+        "description": "Winston Marshall, former member of Mumford & Sons, says people crossing are ‘economic migrants’ not refugeesThe son of the Spectator owner, Paul Marshall, has said Britain should construct a mine-l...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "The bridesmaid ban: how the Home Office tarnished a British citizen’s big day – and cost them £2,000",
         "url": "https://www.theguardian.com/politics/2026/apr/29/the-bridesmaid-ban-how-the-home-office-tarnished-a-british-citizens-big-day-and-cost-them-2000",
         "description": "Everything was in place for Andrea’s dream celebration in Barbados. Then her close friend was denied the right to walk across a British airport to board a connecting flightWeddings can be complicat...",
@@ -105,16 +112,16 @@
         "description": "David Holmes says the home secretary’s language may be coarse, but her immigration controls respond to a genuine public concernZoe Williams criticises Shabana Mahmood’s recent language as showing “...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Man who heckled Shabana Mahmood dismisses ‘laughable’ white liberal claim",
-        "url": "https://www.theguardian.com/politics/2026/apr/28/man-who-heckled-shabana-mahmood-dismisses-white-liberal-claim-immigration",
-        "description": "Protester says he migrated from Malaysia as a child and describes home secretary’s immigration policies as cruelUK politics live – latest updatesA protester who heckled Shabana Mahmood said he came...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "‘Historic breakthrough’: Colombia climate talks end with hopes raised for fossil fuel phaseout",
+        "url": "https://www.theguardian.com/environment/2026/apr/30/colombia-climate-talks-end-fossil-fuel-phaseout",
+        "description": "Nearly 60 countries back voluntary roadmaps to wean world off coal, oil and gas, at conference prompted by frustration with UN climate summitsBusiness live – latest updatesEurope live – latest upda...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "‘Suicidal’ model of capitalism leading to war and fascism, climate summit told",
         "url": "https://www.theguardian.com/environment/2026/apr/29/capitalism-colombia-climate-summit-gustavo-petro",
@@ -126,13 +133,6 @@
         "title": "Urban areas host 80% of England’s homes at high risk of flooding, study finds",
         "url": "https://www.theguardian.com/environment/2026/apr/29/england-homes-high-risk-flooding-towns-cities-urban-environment-study",
         "description": "Exclusive: 839,000 homes in urban areas face threat of surface-water flooding, with social housing tenants most vulnerable to costsEight in 10 of the homes that are at high risk of flooding in Engl...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Singing activists disrupt NatWest meeting over ‘climate backtracking’",
-        "url": "https://www.theguardian.com/business/2026/apr/28/activists-natwest-meeting-climate-backtracking",
-        "description": "AGM briefly adjourned after protesters wearing T-shirts labelled ‘No more big oil’ burst into songThe chair of NatWest was forced to defend the bank against accusations of “climate backtracking” at...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
-        "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
-        "description": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump.",
+        "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
+        "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+        "description": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Jewish agency warned of 'high' threat level ahead of Bondi shooting, report finds",
-        "url": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
-        "description": "Gun reforms should be prioritised and policing around Jewish events increased, royal commission says.",
+        "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
+        "url": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
+        "description": "The blockade comes days after Mali's defence minister was assassinated in a series of nationwide attacks.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
