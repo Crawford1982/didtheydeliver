@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-04-30T19:19:41.067420+00:00",
+  "fetched_at": "2026-05-01T02:56:33.231397+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer restores powers to ousted hereditary peers in Lords shake-up",
-        "url": "https://www.theguardian.com/politics/2026/apr/30/keir-starmer-restores-powers-hereditary-peers-house-of-lords",
-        "description": "Dozens handed life peerages in apparent concession, enabling their return to red benchesDozens of hereditary peers whose seats have been abolished have had their lawmaking powers restored as Keir S...",
+        "title": "Will the Greens win over Hackney? - podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/may/01/will-the-greens-win-over-hackney-podcast",
+        "description": "Helen Pidd and Peter Walker on the local elections and why the Green party has surged in the pollsThe Green party in Hackney, London, is feeling optimistic about the local elections. Today in Focus...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK terrorism threat level raised to ‘severe’ after Golders Green attack",
-        "url": "https://www.theguardian.com/uk-news/2026/apr/30/uk-terrorism-threat-level-raised-to-severe-after-golders-green-attack",
-        "description": "Joint Terrorism Analysis Centre’s assessment means terror attack thought to be ‘highly likely’The UK terrorism threat level has been raised to “severe” by the Joint Terrorism Analysis Centre after ...",
+        "title": "Tony Blair’s thinktank urges Labour to scrap ‘unaffordable’ pension triple lock",
+        "url": "https://www.theguardian.com/money/2026/may/01/tony-blair-thinktank-urges-labour-scrap-pension-triple-lock",
+        "description": "State pension was ‘built for a different era’, says former PM’s organisation amid pressure on government financesLabour has been urged by Tony Blair’s thinktank to scrap the pensions triple lock am...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Will Reform dominate the local and devolved elections? – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/apr/30/will-reform-dominate-local-devolved-elections-podcast",
-        "description": "Pippa Crerar is joined by the election analyst Prof Rob Ford to look at the upcoming local and devolved elections. Will Reform dominate across England? Can the Greens remove Labour’s longstanding h...",
+        "title": "Solicitors report late flood of no-fault evictions before ban in England",
+        "url": "https://www.theguardian.com/society/2026/apr/30/late-flood-no-fault-evictions-ban-england-renters-rights-act",
+        "description": "Advice charity also helping thousands of tenants before Renters’ Rights Act comes into force on FridaySolicitors say they have been inundated with requests to serve last-minute section 21 no-fault ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Met chief defends knife attack officers after Greens criticism",
-        "url": "https://www.bbc.com/news/articles/c74r9rlw9ngo?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Mark Rowley says he is \"disappointed\" that Green Party leader Zack Polanski shared a post condemning how police subdued the suspect.",
+        "title": "UK should not keep changing prime ministers, warns John Major",
+        "url": "https://www.bbc.com/news/articles/cgepy0xw1nzo?at_medium=RSS&at_campaign=rss",
+        "description": "The former Tory PM tells the BBC political leaders are letting young people down by failing tackle long-term problems.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Tony Blair’s thinktank urges Labour to scrap ‘unaffordable’ pension triple lock",
+        "url": "https://www.theguardian.com/money/2026/may/01/tony-blair-thinktank-urges-labour-scrap-pension-triple-lock",
+        "description": "State pension was ‘built for a different era’, says former PM’s organisation amid pressure on government financesLabour has been urged by Tony Blair’s thinktank to scrap the pensions triple lock am...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Bank of England warns ‘higher inflation unavoidable’ after holding interest rates",
         "url": "https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold",
@@ -47,21 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "Oil price tops $126 a barrel after Trump warns Iran blockade could last ‘months’",
-        "url": "https://www.theguardian.com/world/2026/apr/30/oil-price-news-highest-since-2022-us-iran-ceasefire-strait-of-hormuz",
-        "description": "Markets spooked as US president appears willing to keep up naval blockade and Iran keeps strait of Hormuz all but shutBusiness live – latest updatesThe global oil price hit $126 a barrel on Thursda...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Bank of England says rates could rise as Iran war fuels inflation",
-        "url": "https://www.bbc.com/news/articles/cg7p89mp2rjo?at_medium=RSS&at_campaign=rss",
-        "description": "The Bank of England voted to hold interest rates at 3.75% as it monitors the knock-on effects of the Middle East conflict.",
+        "title": "'There were letters I didn't want to open': Rise in unpaid debt court cases",
+        "url": "https://www.bbc.com/news/articles/cwy2ldl1k7do?at_medium=RSS&at_campaign=rss",
+        "description": "The number of county court judgements rose by 17.5% in the first quarter of this year compared to last, data suggests.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Martha’s rule may have saved more than 500 lives in England since 2024",
+        "url": "https://www.theguardian.com/society/2026/may/01/marthas-rule-may-have-saved-more-than-500-lives-in-england-since-2024",
+        "description": "Patient safety mechanism which gives patients the right to seek a second opinion having ‘lifesaving impact’, says health secretary‘I am invoking Martha’s rule’: how a woman saved her father from ne...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "‘I am invoking Martha’s rule’: how a woman saved her father from near death in hospital",
+        "url": "https://www.theguardian.com/society/2026/may/01/marthas-rule-how-a-woman-saved-her-father-from-near-death-in-hospital-oxford",
+        "description": "David Osenton almost died because of medical mistakes and delays, but new rule allowed Karen to demand a second opinionMartha’s rule may have saved more than 500 lives in England since 2024For six ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Austerity to blame for the fall in healthy life expectancy | Letters",
         "url": "https://www.theguardian.com/society/2026/apr/30/austerity-to-blame-for-the-fall-in-healthy-life-expectancy",
@@ -70,23 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Why routine cancer tests have age limits | Brief letters",
-        "url": "https://www.theguardian.com/society/2026/apr/30/why-routine-cancer-tests-have-age-limits",
-        "description": "Bowel and breast cancer screening | Battery farms | Illustrating a ‘wazzock’ | High price for Chelsea coachJane Ghosh asks why the NHS’s routine screening for bowel and breast cancer has upper age ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "UK researchers develop tool to identify people most at risk of obesity-related diseases",
-        "url": "https://www.theguardian.com/society/2026/apr/30/uk-researchers-identify-people-most-at-risk-obesity-related-diseases",
-        "description": "Data tool could help NHS prioritise who gets access to limited weight-loss medication, say scientistsA new tool that can shed light on who is most at risk of obesity-related diseases could help ide...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "'Amazing' moment for communities given right to buy for the first time",
-        "url": "https://www.bbc.com/news/articles/clypwyzk71po?at_medium=RSS&at_campaign=rss",
-        "description": "Ministers say the new law in England gives power to local people who want to help others.",
+        "title": "The struggle to get hold of medication in England is set to get worse",
+        "url": "https://www.bbc.com/news/articles/c202jqn3jzro?at_medium=RSS&at_campaign=rss",
+        "description": "People living with conditions include heart problems, stroke risks, eye infections and bipolar are unable to get hold of the drugs they rely on.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Fema employees who criticized Trump cuts reinstated after months on leave",
+        "url": "https://www.theguardian.com/us-news/2026/apr/30/fema-letter-katrina-declaration",
+        "description": "Workers wrote ‘Katrina declaration’, warning that funding cuts made US dangerously unprepared for natural disastersFourteen employees with the US Federal Emergency Management Agency returned to wor...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Democrats say EPA head’s budget cut proposal ‘reads like climate change deniers’ manifesto’",
         "url": "https://www.theguardian.com/environment/2026/apr/30/epa-budget-cut-proposal",
         "description": "Lee Zeldin claims before Senate that Trump administration plan will make Environmental Protection Agency ‘more efficient’Senate Democrats accused the Trump administration of abandoning the Environm...",
@@ -126,13 +133,6 @@
         "title": "‘Historic breakthrough’: Colombia climate talks end with hopes raised for fossil fuel phaseout",
         "url": "https://www.theguardian.com/environment/2026/apr/30/colombia-climate-talks-end-fossil-fuel-phaseout",
         "description": "Nearly 60 countries back voluntary roadmaps to wean world off coal, oil and gas, at conference prompted by frustration with UN climate summitsBusiness live – latest updatesEurope live – latest upda...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘Suicidal’ model of capitalism leading to war and fascism, climate summit told",
-        "url": "https://www.theguardian.com/environment/2026/apr/29/capitalism-colombia-climate-summit-gustavo-petro",
-        "description": "Colombia president Gustavo Petro tells 57-country talks on a green energy transition that fossil fuel interests could destroy humanityThe world is threatened by a “suicidal” model of capitalism tha...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Solicitors report late flood of no-fault evictions before ban in England",
+        "url": "https://www.theguardian.com/society/2026/apr/30/late-flood-no-fault-evictions-ban-england-renters-rights-act",
+        "description": "Advice charity also helping thousands of tenants before Renters’ Rights Act comes into force on FridaySolicitors say they have been inundated with requests to serve last-minute section 21 no-fault ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Labour is facing wipeout in its final stronghold. Why? It’s housing, housing, housing | Aditya Chakrabortty",
         "url": "https://www.theguardian.com/commentisfree/2026/apr/30/labour-wipeout-local-elections-london-housing",
         "description": "In the 1980s, Labour-controlled London built 52,000 council homes. During the Tony Blair decade, just 280. It’s brought this local-election catastrophe on itselfOver the week to come, journalists w...",
@@ -181,16 +188,16 @@
         "description": "Housing secretary and housing minister latest to criticise idea, which has also been ruled out by No 10Senior ministers have poured scorn on the idea of freezing private sector rents for a year, le...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Leasehold ban in England and Wales unlikely before next general election, minister says",
-        "url": "https://www.theguardian.com/money/2026/apr/29/leasehold-ban-in-england-and-wales-unlikely-before-next-general-election-minister-says",
-        "description": "Matthew Pennycook says ending system must be done slowly to avoid hitting housing supply and legal pitfallsA ban on new leasehold properties in England and Wales is unlikely to come into force unti...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Violence in Australian town after arrest of man over girl's murder",
+        "url": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+        "description": "Unrest took place outside hospital where man suspected of murdering a five-year-old girl was being treated.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
         "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-        "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-        "description": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
-        "url": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
-        "description": "The blockade comes days after Mali's defence minister was assassinated in a series of nationwide attacks.",
+        "title": "Venice Biennale jury resigns days before start of exhibition",
+        "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+        "description": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
