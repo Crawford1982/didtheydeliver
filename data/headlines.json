@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-05-01T02:56:33.231397+00:00",
+  "fetched_at": "2026-05-01T08:10:01.602963+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Will the Greens win over Hackney? - podcast",
+        "title": "Nearly twice as many men as women standing in May elections in UK",
+        "url": "https://www.theguardian.com/politics/2026/may/01/men-women-candidates-may-elections-england-scotland-wales",
+        "description": "Exclusive: women ‘massively underrepresented’ in next week’s local and devolved elections, campaigners say Women will be massively underrepresented on ballot papers across the UK next week, campaig...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "On the ground in London as the Greens surge",
         "url": "https://www.theguardian.com/news/audio/2026/may/01/will-the-greens-win-over-hackney-podcast",
-        "description": "Helen Pidd and Peter Walker on the local elections and why the Green party has surged in the pollsThe Green party in Hackney, London, is feeling optimistic about the local elections. Today in Focus...",
+        "description": "Helen Pidd visits Hackney in east London, just one part of the capital where the Green party hopes to oust Labour. She also talks to Peter Walker about whether the Greens are ready for power.The Gr...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,21 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Solicitors report late flood of no-fault evictions before ban in England",
-        "url": "https://www.theguardian.com/society/2026/apr/30/late-flood-no-fault-evictions-ban-england-renters-rights-act",
-        "description": "Advice charity also helping thousands of tenants before Renters’ Rights Act comes into force on FridaySolicitors say they have been inundated with requests to serve last-minute section 21 no-fault ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "UK should not keep changing prime ministers, warns John Major",
         "url": "https://www.bbc.com/news/articles/cgepy0xw1nzo?at_medium=RSS&at_campaign=rss",
-        "description": "The former Tory PM tells the BBC political leaders are letting young people down by failing tackle long-term problems.",
+        "description": "The former Tory PM tells the BBC political leaders are letting young people down by failing to tackle long-term problems.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "NatWest faces £140m hit from Iran war as UK growth slows and inflation rises",
+        "url": "https://www.theguardian.com/business/2026/may/01/natwest-faces-140m-hit-from-iran-war-as-uk-growth-slows-and-inflation-rises",
+        "description": "Profits ahead of expectations but almost half of £283m impairment charge follows forecast reassessmentBusiness live – latest updatesNatWest said the economic fallout from the conflict in the Middle...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Tony Blair’s thinktank urges Labour to scrap ‘unaffordable’ pension triple lock",
         "url": "https://www.theguardian.com/money/2026/may/01/tony-blair-thinktank-urges-labour-scrap-pension-triple-lock",
@@ -43,13 +50,6 @@
         "title": "Bank of England warns ‘higher inflation unavoidable’ after holding interest rates",
         "url": "https://www.theguardian.com/business/2026/apr/30/bank-of-england-leaves-interest-rates-on-hold",
         "description": "Governor says decision to keep rates at 3.75% reasonable given unpredictability of events unfolding in Middle EastBusiness live – latest updatesWhy Bank kept rates on hold despite UK bracing for Tr...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Bank of England warns UK should brace for higher inflation due to Middle East war – video",
-        "url": "https://www.theguardian.com/business/video/2026/apr/30/bank-of-england-higher-inflation-middle-east-war-video",
-        "description": "The Bank of England has left interest rates unchanged at 3.75% but warned that the UK may need to brace for hikes later this year, as a result of the war in the Middle East.The Bank’s rate-setting ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "How LNG interests are seeking to disrupt global talks on decarbonising shipping",
+        "url": "https://www.theguardian.com/environment/2026/may/01/lng-liquefied-natural-gas-imo-talks-shipping",
+        "description": "Observers say pressure on IMO negotiations appears to be linked to countries that have invested heavily in gasAbout a fifth of the world’s oil and liquefied natural gas (LNG) passed through the str...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Fema employees who criticized Trump cuts reinstated after months on leave",
         "url": "https://www.theguardian.com/us-news/2026/apr/30/fema-letter-katrina-declaration",
         "description": "Workers wrote ‘Katrina declaration’, warning that funding cuts made US dangerously unprepared for natural disastersFourteen employees with the US Federal Emergency Management Agency returned to wor...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "‘Historic breakthrough’: Colombia climate talks end with hopes raised for fossil fuel phaseout",
-        "url": "https://www.theguardian.com/environment/2026/apr/30/colombia-climate-talks-end-fossil-fuel-phaseout",
-        "description": "Nearly 60 countries back voluntary roadmaps to wean world off coal, oil and gas, at conference prompted by frustration with UN climate summitsBusiness live – latest updatesEurope live – latest upda...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Global forest loss slows but El Niño fires could threaten progress",
         "url": "https://www.bbc.com/news/articles/c78q5pygn66o?at_medium=RSS&at_campaign=rss",
         "description": "The loss of tropical rainforests eased last year, according to new analysis, but scientists warn they are still disappearing rapidly.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "‘It ruined my night’: photographers accused of targeting women at St Andrews May Dip",
+        "url": "https://www.theguardian.com/media/2026/may/01/photographers-women-swimwear-st-andrews-may-dip",
+        "description": "Students taking part in university’s annual ritual say images of them in swimwear are being published without consent in national newspapersWhen the sun rises at dawn on Friday, hundreds of St Andr...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Office for Students’ University of Sussex humiliation is a symptom of deeper failings",
         "url": "https://www.theguardian.com/education/2026/apr/29/office-for-students-university-of-sussex-humiliation-is-a-symptom-of-deeper-failings",
@@ -156,13 +163,6 @@
         "title": "Oxford’s new £185m humanities hub is polished, refined … and funded by a Trump ally",
         "url": "https://www.theguardian.com/artanddesign/2026/apr/29/oxford-university-stephen-schwarzman-centre-for-the-humanities",
         "description": "Billionaire Stephen Schwarzman’s portrait hangs discreetly in a building that promises cultural clout and architectural poise – yet can seem rather bland and bloodless When the wealthy Paduan banke...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "University of Sussex overturns £585,000 fine as high court rejects free speech breach claim",
-        "url": "https://www.theguardian.com/education/2026/apr/29/sussex-university-overturns-fine-free-speech-kathleen-stock",
-        "description": "Ruling is blow to Office for Students after it issued record fine for allegations over professor’s trans rights viewsThe University of Sussex has overturned a £585,000 fine from England’s higher ed...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -206,7 +206,7 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Venice Biennale jury resigns days before start of exhibition",
+        "title": "Venice Biennale jury resigns days before start of top art exhibition",
         "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
         "description": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
         "source": "BBC News",
