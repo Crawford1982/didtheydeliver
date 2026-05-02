@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-01T19:10:29.603362+00:00",
+  "fetched_at": "2026-05-02T02:37:29.338135+00:00",
   "headlines": {
     "government": [
       {
@@ -63,13 +63,6 @@
     ],
     "nhs": [
       {
-        "title": "Martha’s rule may have saved more than 500 lives in England since 2024",
-        "url": "https://www.theguardian.com/society/2026/may/01/marthas-rule-may-have-saved-more-than-500-lives-in-england-since-2024",
-        "description": "Patient safety mechanism which gives patients the right to seek a second opinion having ‘lifesaving impact’, says health secretary‘I am invoking Martha’s rule’: how a woman saved her father from ne...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Woman’s fight for sterilisation raises questions over access to procedure",
         "url": "https://www.theguardian.com/society/2026/may/01/female-sterilisation-nhs-access-questions",
         "description": "Critics say women face unequal treatment but others say tighter controls reflect legitimate medical concernsA psychologist who was denied sterilisation on the NHS has successfully challenged the de...",
@@ -80,6 +73,13 @@
         "title": "Woman denied permanent birth control on NHS wins case with ombudsman",
         "url": "https://www.theguardian.com/society/2026/may/01/woman-denied-permanent-birth-control-nhs-wins-case-ombudsman-leah-spasova",
         "description": "Leah Spasova from Oxfordshire fought for 10 years to obtain tubal ligation procedure, while men could get vasectomiesAnalysis: questions over how accessible procedure should beA woman denied a perm...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "‘I am invoking Martha’s rule’: how a woman saved her father from near death in hospital",
+        "url": "https://www.theguardian.com/society/2026/may/01/marthas-rule-how-a-woman-saved-her-father-from-near-death-in-hospital-oxford",
+        "description": "David Osenton almost died because of medical mistakes and delays, but new rule allowed Karen to demand a second opinionMartha’s rule may have saved more than 500 lives in England since 2024For six ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Is this actually what Anne Boleyn looked like?",
-        "url": "https://www.bbc.com/news/videos/c3d2e581k7do?at_medium=RSS&at_campaign=rss",
-        "description": "An algorithm has suggested images of what were thought to be Anne Boleyn might not be.",
+        "title": "Is this the real face of Anne Boleyn?",
+        "url": "https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&at_campaign=rss",
+        "description": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump repeats that he is 'not happy' with Iran as deadline to seek approval for war looms",
-        "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-        "description": "President Trump said on Friday that said a deal has been hard to reach in part because Iranian leadership was \"very confused\".",
+        "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+        "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+        "description": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+        "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+        "description": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
         "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
         "description": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "French PM fuels row with trip to buy baguettes",
-        "url": "https://www.bbc.com/news/articles/czx2rnk9y9go?at_medium=RSS&at_campaign=rss",
-        "description": "Sébastien Lecornu visited a boulangerie on Labour Day, defying unions who say 1 May must remain a mandatory rest day.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
