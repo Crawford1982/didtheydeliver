@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-03T13:08:03.143647+00:00",
+  "fetched_at": "2026-05-03T18:58:33.581772+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Starmer adviser held 16 undisclosed meetings with top US tech bosses",
+        "url": "https://www.theguardian.com/politics/2026/may/03/starmer-adviser-varun-chandra-undisclosed-meetings-us-tech-bosses",
+        "description": "Exclusive: Varun Chandra’s talks with Google, Meta, Apple and others raise fears of ‘lobbying behind closed doors’An influential government adviser close to Keir Starmer and Rachel Reeves held 16 u...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK politics: Polanski says he would ‘discourage’ the use of ‘globalise the intifada’ chant on marches – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/03/local-elections-greens-polanksi-labour-starmer-conservatives-badenoch-reform-latest-news-updates",
@@ -13,13 +20,6 @@
         "title": "Polanski says he would discourage ‘globalise the intifada’ chant but warns against march bans",
         "url": "https://www.theguardian.com/politics/2026/may/03/zack-polanski-warns-against-banning-london-pro-palestine-protest-green-party",
         "description": "Green party leader says specifically outlawing controversial phrase would restrict freedom of speechZack Polanski has said he would discourage pro-Palestine protesters from using the chant “globali...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Lucy Powell says Labour has ‘no magic bullet’ as MPs brace for heavy losses in local elections",
-        "url": "https://www.theguardian.com/politics/2026/may/03/lucy-powell-no-magic-bullet-labour-britain-problems-local-elections",
-        "description": "Deputy leader plays down leadership talk and says party must focus on long-term challenges rather than personnelLabour’s deputy leader has warned there will be “no magic bullet” to solve Labour’s p...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "The Guardian view on unhealthy Britain: from housing to junk food, there are solutions | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/may/03/the-guardian-view-on-unhealthy-britain-from-housing-to-junk-food-there-are-solutions",
+        "description": "People are living with sickness or disability younger than a decade ago. That should shock the country and prompt actionThe two-year decline in healthy life expectancy in Britain, set out in new an...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Woman’s fight for sterilisation raises questions over access to procedure",
         "url": "https://www.theguardian.com/society/2026/may/01/female-sterilisation-nhs-access-questions",
         "description": "Critics say women face unequal treatment but others say tighter controls reflect legitimate medical concernsA psychologist who was denied sterilisation on the NHS has successfully challenged the de...",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "‘I am invoking Martha’s rule’: how a woman saved her father from near death in hospital",
-        "url": "https://www.theguardian.com/society/2026/may/01/marthas-rule-how-a-woman-saved-her-father-from-near-death-in-hospital-oxford",
-        "description": "David Osenton almost died because of medical mistakes and delays, but new rule allowed Karen to demand a second opinionMartha’s rule may have saved more than 500 lives in England since 2024For six ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "What death doulas can teach us about dying",
         "url": "https://www.bbc.com/news/articles/cp9vp0ld1leo?at_medium=RSS&at_campaign=rss",
         "description": "Death doulas or soul midwives have increased in popularity in recent years. What do they do?",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "Louise London obituary",
+        "url": "https://www.theguardian.com/uk-news/2026/may/03/louise-london-obituary",
+        "description": "My friend Louise London, who has died of cancer aged 78, had an unshakable commitment to human rights, which she pursued as a solicitor on behalf of the disadvantaged, as a historian and as a volun...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Sudanese woman and 16-year-old girl reportedly die trying to cross Channel",
         "url": "https://www.theguardian.com/uk-news/2026/may/03/female-sudanese-asylum-seekers-die-trying-to-cross-channel",
@@ -103,13 +110,6 @@
         "title": "‘I was mortally offended’: writers on the throwaway comments that changed their lives",
         "url": "https://www.theguardian.com/lifeandstyle/2026/may/03/sentence-comment-changed-my-life-yomi-adegoke-matt-haig-bella-mackie-megan-nolan-nikesh-shukla",
         "description": "Can a sentence affect the course of your life? Five authors reveal the interactions that transformed the way they saw themselves – and the worldWhen I was 14, I had to start a new school. I wasn’t ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "From Mumford & Sons to ‘free speech’ YouTuber: Winston Marshall’s dramatic career change",
-        "url": "https://www.theguardian.com/media/2026/may/02/winston-marshall-gb-news-owner-son-career-change-free-speech-youtube",
-        "description": "GB News owner’s son, who wants Channel to be mined to stop migrants, is latest to have a go at transatlantic rightwing commentaryOn a Los Angeles stage in 2011 Winston Marshall, then the banjo play...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "The Guardian view on unhealthy Britain: from housing to junk food, there are solutions | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/may/03/the-guardian-view-on-unhealthy-britain-from-housing-to-junk-food-there-are-solutions",
+        "description": "People are living with sickness or disability younger than a decade ago. That should shock the country and prompt actionThe two-year decline in healthy life expectancy in Britain, set out in new an...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Solicitors report late flood of no-fault evictions before ban in England",
         "url": "https://www.theguardian.com/society/2026/apr/30/late-flood-no-fault-evictions-ban-england-renters-rights-act",
         "description": "Advice charity also helping thousands of tenants before Renters’ Rights Act comes into force on FridaySolicitors say they have been inundated with requests to serve last-minute section 21 no-fault ...",
@@ -181,34 +188,27 @@
         "description": "In the 1980s, Labour-controlled London built 52,000 council homes. During the Tony Blair decade, just 280. It’s brought this local-election catastrophe on itselfOver the week to come, journalists w...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Senior UK ministers deride Rachel Reeves’s reported plan of year-long rent freeze",
-        "url": "https://www.theguardian.com/politics/2026/apr/29/senior-uk-ministers-deride-reeves-year-long-rent-freeze",
-        "description": "Housing secretary and housing minister latest to criticise idea, which has also been ruled out by No 10Senior ministers have poured scorn on the idea of freezing private sector rents for a year, le...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-        "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
-        "description": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
+        "title": "Iran says US has responded to its latest peace proposal",
+        "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+        "description": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
-        "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
-        "description": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
+        "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+        "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+        "description": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Nigeria summons South African envoy over attacks on its nationals",
-        "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
-        "description": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent.",
+        "title": "Three die after virus outbreak on Atlantic cruise ship",
+        "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+        "description": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
