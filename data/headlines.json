@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-05-03T02:49:11.680455+00:00",
+  "fetched_at": "2026-05-03T08:00:38.938853+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Dig deep! Reform frontbench promotes JCBs after £200,000 donation from firm",
+        "title": "Reform frontbench promotes JCB’s pothole machine after firm’s £200,000 donation",
         "url": "https://www.theguardian.com/politics/2026/may/02/reform-uk-funding-promoting-jcb-machine-farage-jenrick-anderson",
         "description": "Nigel Farage, Lee Anderson and Robert Jenrick, among others, have sung the praises of the JCB PotHole Pro Reform UK’s leading figures have repeatedly promoted a new pothole-fixing machine by the co...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Dynamic pay on platforms such as Uber should be banned, says TUC",
+        "url": "https://www.theguardian.com/business/2026/may/03/dynamic-pay-uber-tuc",
+        "description": "Exclusive: Union body finds workers describing themselves as ‘gambling’ because wages felt like the outcome of chance rather than workThe practice of using “dynamic pricing” to set pay on gig econo...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -13,13 +20,6 @@
         "title": "Organisers challenge Starmer’s threat to ban some pro-Palestine marches",
         "url": "https://www.theguardian.com/uk-news/2026/may/02/organisers-challenge-starmer-threat-to-ban-some-pro-palestine-marches",
         "description": "PM says there are instances in which he would support bans but organisers say this would ‘strike at root of free speech’Organisers of pro-Palestine marches have said Keir Starmer’s threat to ban so...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Badenoch apologises after Bloody Sunday footage used in post defending UK veterans",
-        "url": "https://www.theguardian.com/politics/2026/may/02/kemi-badenoch-social-media-posts-bloody-sunday-footage",
-        "description": "Tory leader says she did not sign off on video attacking Labour’s Troubles legacy proposals Kemi Badenoch has apologised after footage from Bloody Sunday was used in social media posts criticising ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,7 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "Airlines can cancel flights in advance over fuel shortages, under new plans",
+        "title": "Airlines can cancel flights in advance over fuel shortages under new plans",
         "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss",
         "description": "Ministers hope move would help avoid last-minute flight cancellations for passengers this summer over Middle East fuel supplies.",
         "source": "BBC News",
@@ -63,16 +63,16 @@
     ],
     "nhs": [
       {
-        "title": "Woman denied permanent birth control on NHS wins case with ombudsman",
-        "url": "https://www.theguardian.com/society/2026/may/01/woman-denied-permanent-birth-control-nhs-wins-case-ombudsman-leah-spasova",
-        "description": "Leah Spasova from Oxfordshire fought for 10 years to obtain tubal ligation procedure, while men could get vasectomiesAnalysis: questions over how accessible procedure should beA woman denied a perm...",
+        "title": "Woman’s fight for sterilisation raises questions over access to procedure",
+        "url": "https://www.theguardian.com/society/2026/may/01/female-sterilisation-nhs-access-questions",
+        "description": "Critics say women face unequal treatment but others say tighter controls reflect legitimate medical concernsA psychologist who was denied sterilisation on the NHS has successfully challenged the de...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Woman’s fight for sterilisation raises questions over access to procedure",
-        "url": "https://www.theguardian.com/society/2026/may/01/female-sterilisation-nhs-access-questions",
-        "description": "Critics say women face unequal treatment but others say tighter controls reflect legitimate medical concernsA psychologist who was denied sterilisation on the NHS has successfully challenged the de...",
+        "title": "Woman denied permanent birth control on NHS wins case with ombudsman",
+        "url": "https://www.theguardian.com/society/2026/may/01/woman-denied-permanent-birth-control-nhs-wins-case-ombudsman-leah-spasova",
+        "description": "Leah Spasova from Oxfordshire fought for 10 years to obtain tubal ligation procedure, while men could get vasectomiesAnalysis: questions over how accessible procedure should beA woman denied a perm...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -192,7 +192,7 @@
     ],
     "foreign_policy": [
       {
-        "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+        "title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
         "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
         "description": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
         "source": "BBC News",
