@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-04T13:58:27.615804+00:00",
+  "fetched_at": "2026-05-04T19:27:15.172277+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – UK politics live",
+        "title": "Cabinet ministers warn mutinous MPs about trying to oust Keir Starmer",
+        "url": "https://www.theguardian.com/politics/2026/may/04/cabinet-ministers-warn-mutinous-mps-over-ousting-keir-starmer",
+        "description": "Labour leadership challenge in wake of disastrous local poll results could unleash chaos in party, MPs toldCabinet ministers have warned mutinous Labour MPs that any attempt to oust Keir Starmer af...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Starmer lauds £78bn EU loan for Ukraine amid increased Trump tensions",
+        "url": "https://www.theguardian.com/world/2026/may/04/europe-must-face-up-to-tensions-with-trump-keir-starmer-says",
+        "description": "Prime minister uses European Political Community summit to begin negotiations for UK participation in schemeKeir Starmer has said the benefit of joining the European Union’s £78bn loan scheme for U...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
         "description": "Nigel Farage’s party proposed to place detention centres in places that vote for Green council leaders or MPsKeir Starmer has said that Europe has to face up to the fact that its alliance with the ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform government could cause Truss-style chaos, says renewables industry",
-        "url": "https://www.theguardian.com/environment/2026/may/04/reform-uk-government-truss-renewable-energy-policy",
-        "description": "Lobbyist Tara Singh says stripping projects of subsidy contracts would undermine investor confidence in UKBritain could be beset by levels of economic chaos last seen under Liz Truss if a Reform UK...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Europe must face up to ‘tensions’ with Trump, Keir Starmer says",
-        "url": "https://www.theguardian.com/world/2026/may/04/europe-must-face-up-to-tensions-with-trump-keir-starmer-says",
-        "description": "Comments at European Political Community summit come as Britain seeks to join EU’s loan scheme for UkraineUK politics live – latest updatesKeir Starmer has acknowledged that “tensions” between Dona...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Women with perinatal OCD are still being failed | Letter",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/may/04/women-with-perinatal-ocd-are-still-being-failed",
+        "description": "Screening at the six-week check and signposting to services could prevent suffering and save lives, write Fiona Challacombe, Diana Wilson and Maria BavettaWe were glad that the story of Kimberley N...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "London schools trialling VR to relieve pupils’ stress",
         "url": "https://www.theguardian.com/society/2026/may/04/london-schools-trialling-vr-to-relieve-pupils-stress",
         "description": "Phase Space pilot programme with NHS mental health trust used to calm anxiety around exams, ADHD and home troublesSchools have begun deploying virtual reality to help pupils cope with stress caused...",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "The Guardian view on unhealthy Britain: from housing to junk food, there are solutions | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/03/the-guardian-view-on-unhealthy-britain-from-housing-to-junk-food-there-are-solutions",
-        "description": "People are living with sickness or disability younger than a decade ago. That should shock the country and prompt actionThe two-year decline in healthy life expectancy in Britain, set out in new an...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "NHS cancer jab could save patients hours in hospital",
         "url": "https://www.bbc.com/news/articles/cx214vld41ko?at_medium=RSS&at_campaign=rss",
         "description": "Thousands of patients will be offered a new injectable form of an immunotherapy drug that takes minutes.",
@@ -93,14 +93,7 @@
     ],
     "immigration": [
       {
-        "title": "Louise London obituary",
-        "url": "https://www.theguardian.com/uk-news/2026/may/03/louise-london-obituary",
-        "description": "My friend Louise London, who has died of cancer aged 78, had an unshakable commitment to human rights, which she pursued as a solicitor on behalf of the disadvantaged, as a historian and as a volun...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – UK politics live",
+        "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
         "description": "Nigel Farage’s party proposed to place detention centres in places that vote for Green council leaders or MPsKeir Starmer has said that Europe has to face up to the fact that its alliance with the ...",
         "source": "The Guardian",
@@ -110,6 +103,13 @@
         "title": "More unbridled nastiness from Reform – but would it really create migrant detention centres in Green-voting areas? | Zoe Williams",
         "url": "https://www.theguardian.com/commentisfree/2026/may/04/more-unbridled-nastiness-reform-would-it-really-create-migrant-detention-centres-green-voting-areas",
         "description": "What’s home affairs spokesperson Zia Yusuf playing at with his new policy? Is it about pushing Labour further to the right, or just an attempt to ramp up rage and resentment?All parties struggle to...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Reform’s toxic thinking has infected Scottish politics – this week’s Holyrood elections will tell us how badly | Jasmeen Kanwal",
+        "url": "https://www.theguardian.com/commentisfree/2026/may/04/scotland-election-reform-threat",
+        "description": "For so long, the Scottish government has made a point of  welcoming migrants. But I now see troubling changes in my countryJasmeen Kanwal is an educator and writer who lives in EdinburghAs Scotland...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "One in four humanities students in Australia to take more than 25 years to pay off student loans, treasury finds",
+        "url": "https://www.theguardian.com/australia-news/2026/may/04/hecs-student-loan-humanities-students-australia-25-years",
+        "description": "Job ready graduates program will also leave almost two-thirds of humanities and creative arts students with debts exceeding $50,000Get our breaking news email, free app or daily news podcastOne in ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Where Duolingo falls down: how I learned to speak Welsh with my mother – podcast",
         "url": "https://www.theguardian.com/news/audio/2026/may/04/where-duolingo-falls-down-how-i-learned-to-speak-welsh-with-my-mother-podcast",
         "description": "Once violently defended from extinction, Welsh is still a part of daily life. By learning my family’s language, I hoped to join their conversationBy Dan Fox. Read by Matt Addis Continue reading...",
@@ -156,13 +163,6 @@
         "title": "‘Go inside, he will kill you’: Israeli militants step up West Bank school attacks",
         "url": "https://www.theguardian.com/world/2026/may/02/israeli-militants-attack-west-bank-schools-settler-violence",
         "description": "Education is being targeted across Palestine, with the murder of 14-year-old Aws al-Naasan only the latest in a spree of violenceThe Israeli reservist shot 14-year-old Aws al-Naasan in the head jus...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Ofsted inspections pushing headteachers to ‘point of destruction’, union chief says",
-        "url": "https://www.theguardian.com/education/2026/may/01/ofsted-inspections-destruction-criticised-union-head-paul-whiteman-naht",
-        "description": "NAHT leader says schools watchdog for England does not raise standards, amid opposition to ‘Nando’s-style’ scoringSchool leaders are being pressurised “to the point of destruction”, the head of a t...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-        "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
-        "description": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday.",
+        "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+        "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+        "description": "A 33-year-old German citizen was detained following the incident, the authorities say.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
-        "url": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
-        "description": "The long-time champion of Trump and former New York mayor is in hospital, according to his spokesman.",
+        "title": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
+        "url": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss",
+        "description": "The ex-New York mayor 'remains in critical but stable condition', according to his spokesman.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
