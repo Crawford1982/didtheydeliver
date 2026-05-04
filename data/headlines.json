@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-03T18:58:33.581772+00:00",
+  "fetched_at": "2026-05-04T02:46:41.865790+00:00",
   "headlines": {
     "government": [
       {
@@ -24,14 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Polanski says police 'should not be above scrutiny' over Golders Green response",
-        "url": "https://www.bbc.com/news/articles/c78q6w1vzz7o?at_medium=RSS&at_campaign=rss",
-        "description": "The Green Party leader says he apologised for reposting a tweet criticising the officers' response because it was \"not the appropriate forum\".",
+        "title": "UK to enter talks to join £78bn EU loan scheme for Ukraine",
+        "url": "https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Keir Starmer will meet leaders at the European Political Community summit in Armenia on Monday.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Interest rates are set to rise. Use our loan calculator to check how a rate hike could affect you",
+        "url": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
+        "description": "The RBA is expected to lift rates again this week after soaring fuel prices pushed up inflationFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily n...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Average price of gas in California edges past $6 a gallon, highest level in four years",
         "url": "https://www.theguardian.com/us-news/2026/may/01/gas-price-california-iran-war",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "ACCC v Woolworths may have exposed the ‘magic’ of supermarket discounts – but will it change how we shop?",
-        "url": "https://www.theguardian.com/business/2026/may/02/accc-v-woolworths-may-have-exposed-the-magic-of-supermarket-discounts-but-will-it-change-how-we-shop",
-        "description": "The seven-day trial in the watchdog’s case against the supermarket offered a rare glimpse into its internal machinationsGet our breaking news email, free app or daily news podcastPicture this: you’...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Airlines can cancel flights in advance over fuel shortages under new plans",
-        "url": "https://www.bbc.com/news/articles/c794zd1vqn4o?at_medium=RSS&at_campaign=rss",
-        "description": "Ministers hope move would help avoid last-minute flight cancellations for passengers this summer over Middle East fuel supplies.",
+        "title": "GameStop makes $55.5bn takeover offer for eBay",
+        "url": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss",
+        "description": "GameStop's boss Ryan Cohen says he sees potential to make eBay a much bigger rival to Amazon.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "What death doulas can teach us about dying",
-        "url": "https://www.bbc.com/news/articles/cp9vp0ld1leo?at_medium=RSS&at_campaign=rss",
-        "description": "Death doulas or soul midwives have increased in popularity in recent years. What do they do?",
+        "title": "NHS cancer jab could mean patients spend hours less in hospital",
+        "url": "https://www.bbc.com/news/articles/cx214vld41ko?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of patients will be offered a new injectable form of an immunotherapy drug that takes minutes.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -206,7 +206,7 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Three die after virus outbreak on Atlantic cruise ship",
+        "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
         "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
         "description": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
         "source": "BBC News",
