@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-04T02:46:41.865790+00:00",
+  "fetched_at": "2026-05-04T08:28:16.955156+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer adviser held 16 undisclosed meetings with top US tech bosses",
-        "url": "https://www.theguardian.com/politics/2026/may/03/starmer-adviser-varun-chandra-undisclosed-meetings-us-tech-bosses",
-        "description": "Exclusive: Varun Chandra’s talks with Google, Meta, Apple and others raise fears of ‘lobbying behind closed doors’An influential government adviser close to Keir Starmer and Rachel Reeves held 16 u...",
+        "title": "Starmer says UK opening talks with EU on joining €90bn loan scheme for Ukraine – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
+        "description": "The prime minister is backing the deal as it would allow British firms to access the contracts funded by the loanThe UK is set to announce further sanctions on Russian companies involved in militar...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK politics: Polanski says he would ‘discourage’ the use of ‘globalise the intifada’ chant on marches – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/may/03/local-elections-greens-polanksi-labour-starmer-conservatives-badenoch-reform-latest-news-updates",
-        "description": "Green leader has apologised for retweeting post suggesting police used excessive force when arresting Golders Green suspectLabour’s deputy leader has warned there will be “no magic bullet” to solve...",
+        "title": "Can the Greens and Reform win big in London? podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/may/04/can-the-greens-and-reform-win-big-in-london-podcast",
+        "description": "This week Politics Weekly is on the road with the Greens in Hackney and Reform UK in Bromley ahead of the local elections to see why people are turning their backs on the traditional parties in Lon...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Polanski says he would discourage ‘globalise the intifada’ chant but warns against march bans",
-        "url": "https://www.theguardian.com/politics/2026/may/03/zack-polanski-warns-against-banning-london-pro-palestine-protest-green-party",
-        "description": "Green party leader says specifically outlawing controversial phrase would restrict freedom of speechZack Polanski has said he would discourage pro-Palestine protesters from using the chant “globali...",
+        "title": "Labour MPs say ‘endless drama’ of leadership speculation must stop",
+        "url": "https://www.theguardian.com/politics/2026/may/04/labour-mps-say-endless-drama-of-leadership-speculation-must-stop",
+        "description": "Downing Street begins fightback against predictions of imminent challenge to Keir StarmerLabour MPs are calling for a close to the “endless drama” of leadership speculation, as Downing Street begin...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "Women in developing countries hardest hit by rising debt burden, UN research finds",
+        "url": "https://www.theguardian.com/world/2026/may/04/women-in-developing-countries-hardest-hit-by-rising-debt-burden-un-research-finds",
+        "description": "Study warns women face job losses and increased unpaid care duties as debt and conflict-driven turbulence force spending cutsWomen are hit hardest when the debt burden in developing countries rises...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Jim Chalmers rules out fuel excise extension and downplays hopes for tax relief in ‘most responsible’ budget yet",
+        "url": "https://www.theguardian.com/australia-news/2026/may/04/jim-chalmers-rules-out-fuel-excise-extension-and-downplays-hopes-for-tax-relief-in-most-responsible-budget-yet",
+        "description": "The treasurer also says May federal budget will play ‘helpful, not harmful, role in fight against inflation’Follow our Australia news live blog for latest updatesGet our breaking news email, free a...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Interest rates are set to rise. Use our loan calculator to check how a rate hike could affect you",
         "url": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
         "description": "The RBA is expected to lift rates again this week after soaring fuel prices pushed up inflationFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily n...",
@@ -40,28 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "Average price of gas in California edges past $6 a gallon, highest level in four years",
-        "url": "https://www.theguardian.com/us-news/2026/may/01/gas-price-california-iran-war",
-        "description": "Analysts say Americans have now paid $21.7bn more to fill their tanks since the start of the US war on IranExxon and Chevron quarterly earnings fall despite soaring oil pricesSign up for the Breaki...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "The Guardian view on Britain’s fragile systems: when global shocks hit your shopping bill | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/01/the-guardian-view-on-britains-fragile-systems-when-global-shocks-hit-your-shopping-bill",
-        "description": "Energy disruption abroad drives prices at home, showing how few safeguards are built in – which is why a call for resilience must be heededWhen the Bank of England warned this week that food inflat...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "GameStop makes $55.5bn takeover offer for eBay",
-        "url": "https://www.bbc.com/news/articles/cn0p8yled1do?at_medium=RSS&at_campaign=rss",
-        "description": "GameStop's boss Ryan Cohen says he sees potential to make eBay a much bigger rival to Amazon.",
+        "title": "Trump says US to 'guide' stranded ships through Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/c775jevkyv2o?at_medium=RSS&at_campaign=rss",
+        "description": "More than 100 aircraft and 15,000 personnel will be part of the operation due to start on Monday, the US military says.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "London schools trialling VR to relieve pupils’ stress",
+        "url": "https://www.theguardian.com/society/2026/may/04/london-schools-trialling-vr-to-relieve-pupils-stress",
+        "description": "Phase Space pilot programme with NHS mental health trust used to calm anxiety around exams, ADHD and home troublesSchools have begun deploying virtual reality to help pupils cope with stress caused...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Thousands of cancer patients in England to benefit from new immunotherapy jab",
+        "url": "https://www.theguardian.com/society/2026/may/04/thousands-of-cancer-patients-in-england-to-benefit-from-new-immunotherapy-jab",
+        "description": "Injectable pembrolizumab can treat several types of cancer and can be administered in under two minutesThousands of patients across England each year will benefit from a new immunotherapy treatment...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "The Guardian view on unhealthy Britain: from housing to junk food, there are solutions | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/may/03/the-guardian-view-on-unhealthy-britain-from-housing-to-junk-food-there-are-solutions",
@@ -70,21 +84,7 @@
         "category": "nhs"
       },
       {
-        "title": "Woman’s fight for sterilisation raises questions over access to procedure",
-        "url": "https://www.theguardian.com/society/2026/may/01/female-sterilisation-nhs-access-questions",
-        "description": "Critics say women face unequal treatment but others say tighter controls reflect legitimate medical concernsA psychologist who was denied sterilisation on the NHS has successfully challenged the de...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Woman denied permanent birth control on NHS wins case with ombudsman",
-        "url": "https://www.theguardian.com/society/2026/may/01/woman-denied-permanent-birth-control-nhs-wins-case-ombudsman-leah-spasova",
-        "description": "Leah Spasova from Oxfordshire fought for 10 years to obtain tubal ligation procedure, while men could get vasectomiesAnalysis: questions over how accessible procedure should beA woman denied a perm...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "NHS cancer jab could mean patients spend hours less in hospital",
+        "title": "NHS cancer jab could save patients hours in hospital",
         "url": "https://www.bbc.com/news/articles/cx214vld41ko?at_medium=RSS&at_campaign=rss",
         "description": "Thousands of patients will be offered a new injectable form of an immunotherapy drug that takes minutes.",
         "source": "BBC News",
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
+        "title": "Monday briefing: ​Will a new alliance of nations be able to guide the world towards a post-fossil fuel future?",
+        "url": "https://www.theguardian.com/world/2026/may/04/monday-briefing-will-a-new-alliance-of-nations-be-able-to-guide-the-world-towards-a-post-fossil-fuel-future",
+        "description": "In today’s newsletter: As oil prices spike and geopolitical tensions rise​, a diverse group of governments is attempting to build momentum ​and rewrite the global energy scriptGood morning. The cos...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "‘Wake-up call’: methane emissions from Australian coalmines more than double official estimates, report finds",
+        "url": "https://www.theguardian.com/environment/2026/may/04/methane-emissions-australian-coalmines-more-than-double-official-estimates-report-finds",
+        "description": "International Energy Agency findings show government must commit to rapid cuts in emissions of greenhouse gas, climate experts saySign up for climate and environment editor Adam Morton’s free Clear...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Could Santa Marta climate talks mark ground zero in push to ditch fossil fuels?",
         "url": "https://www.theguardian.com/environment/2026/may/01/could-key-climate-talks-mark-ground-zero-in-global-push-to-ditch-fossil-fuels",
         "description": "Colombia hosted nearly 60 countries at pivotal time on world stage for fight to transition to a clean energy futureLooking out to sea from the grey sandy beaches of Santa Marta, on Colombia’s Carib...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "How LNG interests are seeking to disrupt global talks on decarbonising shipping",
-        "url": "https://www.theguardian.com/environment/2026/may/01/lng-liquefied-natural-gas-imo-talks-shipping",
-        "description": "Observers say pressure on IMO negotiations appears to be linked to countries that have invested heavily in gasAbout a fifth of the world’s oil and liquefied natural gas (LNG) passed through the str...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Fema employees who criticized Trump cuts reinstated after months on leave",
-        "url": "https://www.theguardian.com/us-news/2026/apr/30/fema-letter-katrina-declaration",
-        "description": "Workers wrote ‘Katrina declaration’, warning that funding cuts made US dangerously unprepared for natural disastersFourteen employees with the US Federal Emergency Management Agency returned to wor...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Where Duolingo falls down: how I learned to speak Welsh with my mother – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/may/04/where-duolingo-falls-down-how-i-learned-to-speak-welsh-with-my-mother-podcast",
+        "description": "Once violently defended from extinction, Welsh is still a part of daily life. By learning my family’s language, I hoped to join their conversationBy Dan Fox. Read by Matt Addis Continue reading...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "‘Go inside, he will kill you’: Israeli militants step up West Bank school attacks",
         "url": "https://www.theguardian.com/world/2026/may/02/israeli-militants-attack-west-bank-schools-settler-violence",
         "description": "Education is being targeted across Palestine, with the murder of 14-year-old Aws al-Naasan only the latest in a spree of violenceThe Israeli reservist shot 14-year-old Aws al-Naasan in the head jus...",
@@ -158,16 +165,16 @@
         "description": "NAHT leader says schools watchdog for England does not raise standards, amid opposition to ‘Nando’s-style’ scoringSchool leaders are being pressurised “to the point of destruction”, the head of a t...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "‘It ruined my night’: photographers accused of targeting women at St Andrews May Dip",
-        "url": "https://www.theguardian.com/media/2026/may/01/photographers-women-swimwear-st-andrews-may-dip",
-        "description": "Students taking part in university’s annual ritual say images of them in swimwear are being published without consent in national newspapersWhen the sun rises at dawn on Friday, hundreds of St Andr...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Baby found dead at Wagga beach homeless encampment as mother and another infant taken to hospital",
+        "url": "https://www.theguardian.com/australia-news/2026/may/04/baby-dead-wagga-beach-homeless-encampment-ntwnfb",
+        "description": "Police say ‘no suspicious circumstances’ while local councillor argues ‘tragedy’ shows housing crisis has gotten out of hand in regional AustraliaFollow our Australia news live blog for latest upda...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "The Guardian view on unhealthy Britain: from housing to junk food, there are solutions | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/may/03/the-guardian-view-on-unhealthy-britain-from-housing-to-junk-food-there-are-solutions",
@@ -181,23 +188,9 @@
         "description": "Advice charity also helping thousands of tenants before Renters’ Rights Act comes into force on FridaySolicitors say they have been inundated with requests to serve last-minute section 21 no-fault ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Labour is facing wipeout in its final stronghold. Why? It’s housing, housing, housing | Aditya Chakrabortty",
-        "url": "https://www.theguardian.com/commentisfree/2026/apr/30/labour-wipeout-local-elections-london-housing",
-        "description": "In the 1980s, Labour-controlled London built 52,000 council homes. During the Tony Blair decade, just 280. It’s brought this local-election catastrophe on itselfOver the week to come, journalists w...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
-      {
-        "title": "Iran says US has responded to its latest peace proposal",
-        "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
-        "description": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
       {
         "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
         "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
@@ -208,7 +201,14 @@
       {
         "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
         "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-        "description": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
+        "description": "The World Health Organization said one case of hantavirus infection had been confirmed, with five more suspected cases under investigation.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+        "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+        "description": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
