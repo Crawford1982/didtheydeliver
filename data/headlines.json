@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-05-04T19:27:15.172277+00:00",
+  "fetched_at": "2026-05-05T02:39:33.102016+00:00",
   "headlines": {
     "government": [
       {
+        "title": "‘A test of our values’: Starmer to call for whole-society response to rising antisemitism",
+        "url": "https://www.theguardian.com/politics/2026/may/04/starmer-call-society-response-rising-antisemitism",
+        "description": "PM will say responsibility to stand with Jewish communities lies with ‘every one of us’ at event on TuesdayKeir Starmer will call for a whole-of-society response to rising antisemitism on Tuesday, ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Cabinet ministers warn mutinous MPs about trying to oust Keir Starmer",
         "url": "https://www.theguardian.com/politics/2026/may/04/cabinet-ministers-warn-mutinous-mps-over-ousting-keir-starmer",
-        "description": "Labour leadership challenge in wake of disastrous local poll results could unleash chaos in party, MPs toldCabinet ministers have warned mutinous Labour MPs that any attempt to oust Keir Starmer af...",
+        "description": "Labour leadership challenge in wake of disastrous local poll results could unleash chaos in party, MPs toldCabinet ministers have told mutinous Labour MPs that any attempt to oust Keir Starmer afte...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
-        "description": "Nigel Farage’s party proposed to place detention centres in places that vote for Green council leaders or MPsKeir Starmer has said that Europe has to face up to the fact that its alliance with the ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK joining Ukraine loan scheme would be good for EU ties, Starmer says",
-        "url": "https://www.bbc.com/news/articles/c1420e1p1l0o?at_medium=RSS&at_campaign=rss",
-        "description": "The UK is \"discussing participating\" in a £78bn (€90bn) European Union loan scheme to support Ukraine, the prime minister says.",
+        "title": "Starmer to host Downing Street summit to address antisemitism",
+        "url": "https://www.bbc.com/news/articles/czd2l55d1e7o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister will meet leaders from a number of sectors at Downing Street on Tuesday.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "US denies Iranian report warship was struck by missiles",
-        "url": "https://www.bbc.com/news/articles/c775jevkyv2o?at_medium=RSS&at_campaign=rss",
-        "description": "It comes as the US said on Monday it will begin to help \"guide\" vessels out of the Strait of Hormuz.",
+        "title": "British pubs closing at a rate of almost two per day in 2026",
+        "url": "https://www.bbc.com/news/articles/c9d355nw7jzo?at_medium=RSS&at_campaign=rss",
+        "description": "The British Beer and Pub Association says 161 pubs have closed in the first three months of this year.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Modern slavery at record levels in UK and expected to worsen, report warns",
+        "url": "https://www.theguardian.com/world/2026/may/05/modern-slavery-record-levels-uk-worsen-report",
+        "description": "Government’s anti-slavery commissioner says traffickers are exploiting a growing pipeline of vulnerabilitySlavery in the UK is at record levels and is expected to worsen over the next decade, the g...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Reform UK plan to set up migrant detention centres in Green-voting areas condemned by other parties – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/04/local-election-uk-keir-starmer-ukraine-eu-loan-deal-latest-news-updates",
         "description": "Nigel Farage’s party proposed to place detention centres in places that vote for Green council leaders or MPsKeir Starmer has said that Europe has to face up to the fact that its alliance with the ...",
@@ -103,13 +110,6 @@
         "title": "More unbridled nastiness from Reform – but would it really create migrant detention centres in Green-voting areas? | Zoe Williams",
         "url": "https://www.theguardian.com/commentisfree/2026/may/04/more-unbridled-nastiness-reform-would-it-really-create-migrant-detention-centres-green-voting-areas",
         "description": "What’s home affairs spokesperson Zia Yusuf playing at with his new policy? Is it about pushing Labour further to the right, or just an attempt to ramp up rage and resentment?All parties struggle to...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Reform’s toxic thinking has infected Scottish politics – this week’s Holyrood elections will tell us how badly | Jasmeen Kanwal",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/04/scotland-election-reform-threat",
-        "description": "For so long, the Scottish government has made a point of  welcoming migrants. But I now see troubling changes in my countryJasmeen Kanwal is an educator and writer who lives in EdinburghAs Scotland...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,9 +146,9 @@
     ],
     "education": [
       {
-        "title": "One in four humanities students in Australia to take more than 25 years to pay off student loans, treasury finds",
+        "title": "One in four humanities students in Australia to take more than 25 years to pay off student loans, Treasury finds",
         "url": "https://www.theguardian.com/australia-news/2026/may/04/hecs-student-loan-humanities-students-australia-25-years",
-        "description": "Job ready graduates program will also leave almost two-thirds of humanities and creative arts students with debts exceeding $50,000Get our breaking news email, free app or daily news podcastOne in ...",
+        "description": "Job-ready graduates program will also leave almost two-thirds of humanities and creative arts students with debts exceeding $50,000Follow our Australia news live blog for latest updatesGet our brea...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
+        "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+        "description": "Shipping company Maersk says one of its US-flagged commercial vessels has successfully exited the Strait of Hormuz under US military protection.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
         "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
         "description": "A 33-year-old German citizen was detained following the incident, the authorities say.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+        "title": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
         "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-        "description": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
-        "url": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss",
-        "description": "The ex-New York mayor 'remains in critical but stable condition', according to his spokesman.",
+        "description": "The operator of the MV Hondius ship says a Dutch couple and a German national have died.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
