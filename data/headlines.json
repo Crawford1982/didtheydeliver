@@ -1,46 +1,46 @@
 {
-  "fetched_at": "2026-05-05T13:52:20.031465+00:00",
+  "fetched_at": "2026-05-05T19:18:04.724365+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Rachel Reeves and Scott Bessent argued in person about Iran war, sources say",
-        "url": "https://www.theguardian.com/world/2026/may/05/rachel-reeves-scott-bessent-argued-in-person-iran-war-sources",
-        "description": "UK chancellor said to have told US treasury secretary she did not like his tone during meeting in Washington in AprilUK politics live – latest updatesMiddle East crisis – live updatesRachel Reeves ...",
+        "title": "MoD has no system to detect civilian harm caused by military, study shows",
+        "url": "https://www.theguardian.com/uk-news/2026/may/05/mod-no-system-detect-civilian-harm-caused-by-military-study-shows",
+        "description": "Revelation comes after report commissioned by department released in response to charity’s FoI requestThe Ministry of Defence has no system for examining whether UK military action has killed or in...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Badenoch defends seeking a ban on pro-Palestine marches but not Tommy Robinson ones – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/may/05/keir-starmer-uk-antisemitism-summit-golders-green-terror-latest-news-updates",
-        "description": "Tory leader says the protests are ‘not the same’Kemi Badenoch has questioned whether the undisclosed £5m donation given to Nigel Farage by a crypto billionaire shows that he has been “bought”.In an...",
+        "title": "Stop plotting to oust Keir Starmer, ex-deputy Labour leader urges MPs",
+        "url": "https://www.theguardian.com/politics/2026/may/05/stop-plotting-to-oust-keir-starmer-ex-deputy-labour-leader-urges-mps",
+        "description": "Tom Watson, who had role in attempted coup against Tony Blair in 2006, said move would go down extremely badly with votersLabour MPs have been urged to stop plotting to remove Keir Starmer by Tom W...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK’s long-term borrowing costs hit highest level since 1998",
-        "url": "https://www.theguardian.com/business/2026/may/05/uk-borrowing-costs-bond-yields-gilts-rachel-reeves",
-        "description": "Rise in bond yields due to fuel prices and political stability concerns will eat away at Rachel Reeves’s fiscal headroomBusiness live – latest updatesThe UK government’s long-term borrowing costs h...",
+        "title": "Farage’s partner refuses to confirm how she paid for house in his constituency",
+        "url": "https://www.theguardian.com/politics/2026/may/05/farage-partner-refuses-confirm-house-constituency-clacton-laure-ferrari",
+        "description": "French publication Le Monde says Laure Ferrari ‘dodged’ question when quizzed over property purchase in ClactonNigel Farage’s partner, Laure Ferrari, has refused to confirm how she paid for a house...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Inciting antisemitism will not be tolerated, Starmer warns Iran",
+        "title": "All of society must tackle 'crisis' of antisemitism, Starmer says",
         "url": "https://www.bbc.com/news/articles/czd2l55d1e7o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister promises to tackle \"malign threats\" at a Downing Street summit focused on antisemitism.",
+        "description": "The PM hosts a summit of leaders from the police, arts and universities, after a spate of attacks against British Jews.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK’s long-term borrowing costs hit highest level since 1998",
-        "url": "https://www.theguardian.com/business/2026/may/05/uk-borrowing-costs-bond-yields-gilts-rachel-reeves",
-        "description": "Rise in bond yields due to fuel prices and political stability concerns will eat away at Rachel Reeves’s fiscal headroomBusiness live – latest updatesThe UK government’s long-term borrowing costs h...",
+        "title": "Reform UK’s immigration policies are a significant risk to the UK economy | Sushil Wadhwani",
+        "url": "https://www.theguardian.com/business/2026/may/05/reform-uk-immigration-policies-uk-economy-election",
+        "description": "An exodus of workers will be damaging – and electoral change might help Britain escape instability and low growthWhile all eyes are on the Middle East and the risk of a global recession, a possible...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "UK 30-year borrowing costs hit highest since 1998 amid oil price surge and political instability – business live",
+        "title": "UK 30-year borrowing costs hit highest since 1998 amid oil price surge and political uncertainty – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/may/05/hsbc-400m-uk-fraud-charge-rachel-reeves-scott-bessent-row-stock-markets-car-sales-live-updates",
         "description": "Long-term UK borrowing costs hit 28-year high on expectations of higher inflation, and speculation that local elections could prompt leadership challengeFull story: UK’s long-term borrowing costs h...",
         "source": "The Guardian",
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Gap co-founder Doris Fisher dies aged 94",
-        "url": "https://www.bbc.com/news/articles/c0q2w7e41wxo?at_medium=RSS&at_campaign=rss",
-        "description": "She opened the first store with her husband Don in 1969, with the company calling her \"a pioneering force in American retail\".",
+        "title": "UK long-term borrowing costs reach 28-year high",
+        "url": "https://www.bbc.com/news/articles/c936qn69016o?at_medium=RSS&at_campaign=rss",
+        "description": "There have been extra jitters in UK government debt markets ahead of Thursday's local and national elections.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Ann Barrett obituary",
+        "url": "https://www.theguardian.com/society/2026/may/05/ann-barrett-obituary",
+        "description": "Oncologist and authority on paediatric radiotherapy who championed a multidisciplinary, holistic approachIn 1968, when Ann Barrett qualified in medicine, the fast-changing specialty of oncology was...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Women with perinatal OCD are still being failed | Letter",
         "url": "https://www.theguardian.com/lifeandstyle/2026/may/04/women-with-perinatal-ocd-are-still-being-failed",
@@ -73,13 +80,6 @@
         "title": "London schools trialling VR to relieve pupils’ stress",
         "url": "https://www.theguardian.com/society/2026/may/04/london-schools-trialling-vr-to-relieve-pupils-stress",
         "description": "Phase Space pilot programme with NHS mental health trust used to calm anxiety around exams, ADHD and home troublesSchools have begun deploying virtual reality to help pupils cope with stress caused...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Thousands of cancer patients in England to benefit from new immunotherapy jab",
-        "url": "https://www.theguardian.com/society/2026/may/04/thousands-of-cancer-patients-in-england-to-benefit-from-new-immunotherapy-jab",
-        "description": "Injectable pembrolizumab can treat several types of cancer and can be administered in under two minutesThousands of patients across England each year will benefit from a new immunotherapy treatment...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -125,7 +125,7 @@
       {
         "title": "‘Point of no return’: New Orleans relocation must start now due to sea level, study finds",
         "url": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis",
-        "description": "Louisiana’s cultural hotspot could be surrounded by Gulf of Mexico before end of this century, authors sayThe process of relocating people from New Orleans should start immediately, as the city has...",
+        "description": "Louisiana’s cultural hotspot could be surrounded by the Gulf of Mexico before the end of this century, authors sayThe process of relocating people from New Orleans should start immediately, as the ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "‘Close to zero impact’: US study casts doubt on effect of phone ban in schools",
+        "url": "https://www.theguardian.com/politics/2026/may/05/mobile-phone-ban-schools-us-study",
+        "description": "Researchers say findings are not reason to shy away from restrictions as MPs consider ban in England’s schoolsStrict bans on mobile phones in schools have “close to zero” impact on student learning...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "One in four humanities students in Australia to take more than 25 years to pay off student loans, Treasury finds",
         "url": "https://www.theguardian.com/australia-news/2026/may/04/hecs-student-loan-humanities-students-australia-25-years",
         "description": "Job-ready graduates program will also leave almost two-thirds of humanities and creative arts students with debts exceeding $50,000Follow our Australia news live blog for latest updatesGet our brea...",
@@ -158,16 +165,16 @@
         "description": "Once violently defended from extinction, Welsh is still a part of daily life. By learning my family’s language, I hoped to join their conversationBy Dan Fox. Read by Matt Addis Continue reading...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "‘Go inside, he will kill you’: Israeli militants step up West Bank school attacks",
-        "url": "https://www.theguardian.com/world/2026/may/02/israeli-militants-attack-west-bank-schools-settler-violence",
-        "description": "Education is being targeted across Palestine, with the murder of 14-year-old Aws al-Naasan only the latest in a spree of violenceThe Israeli reservist shot 14-year-old Aws al-Naasan in the head jus...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "The Guardian view on the Renters’ Rights Act: finally, protections fit for the modern housing market | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/may/05/the-guardian-view-on-the-renters-rights-act-finally-protections-fit-for-the-modern-housing-market",
+        "description": "The rising number of private renters in Britain have for too long put up with chronically insecure tenancy agreements and poor conditionsThe defining trend in British housing in recent decades has ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Dame Shirley Porter obituary",
         "url": "https://www.theguardian.com/society/2026/may/05/dame-shirley-porter-obituary",
@@ -178,14 +185,7 @@
       {
         "title": "A new kind of van life: $180 to camp for seven months – and a real taste of freedom",
         "url": "https://www.theguardian.com/us-news/2026/may/05/van-life-quartzsite-arizona",
-        "description": "As the US sees rapidly housing costs, nomads flock to the public lands of Quartzsite, Arizona, where a person can legally live for more than half a yearEvery autumn across North America, migration ...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "On the eve of section 21 being abolished, I was served an eviction notice. I was far from alone | George Francis Lee",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/05/section-21-eviction-notice-renters-right-act",
-        "description": "The Renters’ Right Act has finally given tenants in England more security over their housing, but landlords still hold the upper hand when setting rentsYou never welcome an email from your landlord...",
+        "description": "As the US sees rapidly rising housing costs, nomads flock to the public lands around Quartzsite, Arizona, where a person can legally live for more than half a yearThis story was produced in partner...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -199,9 +199,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Zelensky condemns Russian 'utter cynicism' as it strikes ahead of truce",
+        "title": "Russian attacks kill at least 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
         "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
-        "description": "Russia demanded a ceasefire on 8 and 9 May but Ukraine said it would pause the fighting sooner, meaning any violations would be pinned on Moscow.",
+        "description": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
