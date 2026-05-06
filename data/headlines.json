@@ -1,38 +1,52 @@
 {
-  "fetched_at": "2026-05-06T14:08:47.938907+00:00",
+  "fetched_at": "2026-05-06T19:44:42.096595+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Polanski says he is not ready to be PM, but might be in two years’ time – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/may/06/local-elections-labour-starmer-greens-polanski-red-cross-reform-tories-conservatives-lib-dems-latest-news-updates",
-        "description": "Green leader also apologised for misrepresenting his work with the Red Cross, and defended party policy on drugsLabour has criticised Zack Polanski for saying he was concerned about how the suspect...",
+        "title": "Sudanese asylum seekers challenge Home Office rule changes for refugees",
+        "url": "https://www.theguardian.com/uk-news/2026/may/06/sudanese-asylum-seekers-challenge-home-office-changes-to-refugee-rules",
+        "description": "Shabana Mahmood has announced plan to cut leave to remain from five years to 30 months, to concern of UN’s refugee agencyTwo Sudanese asylum seekers are challenging a central element of Labour’s pl...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform-led Lancashire county council to quit refugee resettlement scheme",
-        "url": "https://www.theguardian.com/uk-news/2026/may/06/reform-lancashire-county-council-to-quit-refugee-resettlement-schemes-elections",
-        "description": "Councillor announces plan to withdraw from government-funded programme in run-up to May electionsUK politics live – latest updatesThe Reform-led Lancashire county council will withdraw from the gov...",
+        "title": "Nigel Farage’s income since being elected MP has hit £2m, analysis shows",
+        "url": "https://www.theguardian.com/politics/2026/may/06/nigel-farage-finance-parliament-salary-reform",
+        "description": "Reform UK leader has registered wide range of financial interests on top of his Commons salary since July 2024Cameo, speeches, pushing gold bullion: how Farage has made millions since becoming an M...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Airlines among companies using fuel surcharges to cover surge in costs, UK survey shows",
-        "url": "https://www.theguardian.com/business/2026/may/06/airlines-and-companies-using-fuel-surcharges-to-cover-surge-in-costs-uk-survey-shows",
-        "description": "Firms raising prices at fastest rate in three years, driven by soaring energy and wage bills but also extra materials costsBusiness live – latest updatesOil prices fall as Trump hails ‘progress’ on...",
+        "title": "Burnham sparks Labour anger with plan to appear at event alongside Greens",
+        "url": "https://www.theguardian.com/politics/2026/may/06/andy-burnham-labour-anger-appearance-greens-change-now",
+        "description": "Some MPs accuse Burnham of undermining local election messaging by agreeing to speak at event later this monthPolitics live – latest updatesAndy Burnham’s decision to appear at a progressive rally ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Campaigning sprint finish ahead of elections around Britain tomorrow",
-        "url": "https://www.bbc.com/news/articles/c759z9w7z3yo?at_medium=RSS&at_campaign=rss",
-        "description": "A mesmerising mix of results are expected after candidates make their final pitches, our political editor writes.",
+        "title": "Political parties make final pitches ahead of key elections",
+        "url": "https://www.bbc.com/news/articles/cvgzwdee72eo?at_medium=RSS&at_campaign=rss",
+        "description": "A final push for votes is under way on the last day of campaigning ahead of elections across England, Scotland and Wales.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "Oil prices fall as Trump says strait of Hormuz ‘open to all’ if Iran accepts deal",
+        "url": "https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran",
+        "description": "US president says war will end if Tehran agrees to deal, but that ‘bombing starts’ again if it does notOil prices fell and stock markets rose as Donald Trump said the war with Iran would end and th...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Up to 150 former WH Smith stores face closure, putting thousands of jobs at risk",
+        "url": "https://www.theguardian.com/business/2026/may/06/dozens-of-former-wh-smith-stores-face-closure-putting-thousands-of-jobs-at-risk",
+        "description": "Modella Capital, which rebranded shops as TG Jones, unveils radical restructuring plan, including rent holidaysUp to 150 former WH Smith stores are likely to close, putting thousands of jobs at ris...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Airlines among companies using fuel surcharges to cover surge in costs, UK survey shows",
         "url": "https://www.theguardian.com/business/2026/may/06/airlines-and-companies-using-fuel-surcharges-to-cover-surge-in-costs-uk-survey-shows",
         "description": "Firms raising prices at fastest rate in three years, driven by soaring energy and wage bills but also extra materials costsBusiness live – latest updatesOil prices fall as Trump hails ‘progress’ on...",
@@ -40,28 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Cut borrowing costs for poorer countries to free up $900bn for development – report",
-        "url": "https://www.theguardian.com/global-development/2026/may/06/cut-borrowing-costs-for-poorer-countries-to-free-up-900bn-for-development-report",
-        "description": "G77 nations spend $8tn a year servicing debts, but analysis shows how comprehensive relief could benefit social spendingCutting debt servicing costs for the world’s poorest countries could free up ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Four in five Britons worried Iran war will make food more expensive, poll finds",
-        "url": "https://www.theguardian.com/business/2026/may/06/iran-war-food-prices-expensive-inflation-poll",
-        "description": "Shoppers concerned about effect of Middle East conflict, as UK retailers say government running out of time to cut costsFour in five people are worried that the Iran war will make food more expensi...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Airlines cut 13,000 flights in May as jet fuel prices soar",
+        "title": "People urged not to cancel flights over fuel shortage fears",
         "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
-        "description": "Airlines have removed nearly two million seats from flights over the month, data from Cirium shows.",
+        "description": "Airlines have cut 13,000 flights globally in May as jet fuel prices soar due to the conflict in the Middle East.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Doctors’ archaic attitudes over sterilisation | Letter",
+        "url": "https://www.theguardian.com/society/2026/may/06/doctors-archaic-attitudes-over-sterilisation",
+        "description": "A reader recalls her experience of trying to obtain a vasectomy for her husband on the NHS in the 1990sReading this article (Woman denied permanent birth control on NHS wins case with ombudsman, 1 ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Opera singer who hid deafness for 30 years hails ‘life-changing’ surgery",
         "url": "https://www.theguardian.com/society/2026/may/06/opera-singer-hid-deafness-cochlear-implants-life-changing-surgery",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Black people in England twice as likely to suffer stroke as white counterparts",
-        "url": "https://www.theguardian.com/society/2026/may/06/black-people-twice-likely-stroke-white-england-study",
-        "description": "In-depth study also reveals patients from black African and Caribbean backgrounds are less likely to receive timely carePeople from black backgrounds in England are twice as likely to experience st...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "What is the cruise ship hantavirus and how does it spread?",
-        "url": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&at_campaign=rss",
-        "description": "The Andes strain of the virus has been confirmed in some passengers, which can rarely be passed from person to person.",
+        "title": "Two Britons self-isolating in UK after being on hantavirus cruise ship",
+        "url": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss",
+        "description": "They do not have symptoms but contacted health officials after being on the MV Hondius cruise ship struck by the outbreak.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -100,9 +100,9 @@
         "category": "immigration"
       },
       {
-        "title": "Reform-led Lancashire county council to quit refugee resettlement scheme",
+        "title": "Reform-led Lancashire county council could quit refugee resettlement scheme",
         "url": "https://www.theguardian.com/uk-news/2026/may/06/reform-lancashire-county-council-to-quit-refugee-resettlement-schemes-elections",
-        "description": "Councillor announces plan to withdraw from government-funded programme in run-up to May electionsUK politics live – latest updatesThe Reform-led Lancashire county council will withdraw from the gov...",
+        "description": "Councillor announces plan to withdraw from government-funded programme on eve of local electionsUK politics live – latest updatesThe Reform-led Lancashire county council will withdraw from the gove...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Massive Alaska megatsunami was second largest ever recorded",
-        "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
-        "description": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+        "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
+        "url": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
+        "description": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "German police raid neo-Nazi criminal youth groups",
-        "url": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
-        "description": "Police search locations in 12 states, mainly in the East and South of the country in what prosecutors say is a targeted raid.",
+        "title": "Massive Alaska megatsunami was second largest ever recorded",
+        "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+        "description": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
