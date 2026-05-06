@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-06T08:25:10.934571+00:00",
+  "fetched_at": "2026-05-06T14:08:47.938907+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Polanski accuses Times of ‘scraping the barrel’ over his claim to be charity spokesperson – UK politics live",
+        "title": "Polanski says he is not ready to be PM, but might be in two years’ time – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/may/06/local-elections-labour-starmer-greens-polanski-red-cross-reform-tories-conservatives-lib-dems-latest-news-updates",
-        "description": "Green leader said he hosted fundraisers for the Red Cross but accepts he should not have described himself as a spokesperson for itGood morning. Zack Polanski was largely unknown until he became th...",
+        "description": "Green leader also apologised for misrepresenting his work with the Red Cross, and defended party policy on drugsLabour has criticised Zack Polanski for saying he was concerned about how the suspect...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "EU trade deal could force UK to restrict use of weedkiller linked to cancer",
-        "url": "https://www.theguardian.com/environment/2026/may/06/eu-trade-deal-could-force-uk-restrict-glyphosate-weedkiller-linked-to-cancer",
-        "description": "Glyphosate is currently sprayed on cereal and pulse crops to dessicate them and make them easier to harvestA new trade deal with the EU could lead to restrictions on the use of the controversial we...",
+        "title": "Reform-led Lancashire county council to quit refugee resettlement scheme",
+        "url": "https://www.theguardian.com/uk-news/2026/may/06/reform-lancashire-county-council-to-quit-refugee-resettlement-schemes-elections",
+        "description": "Councillor announces plan to withdraw from government-funded programme in run-up to May electionsUK politics live – latest updatesThe Reform-led Lancashire county council will withdraw from the gov...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "May elections: What’s at stake across England, Wales and Scotland?",
-        "url": "https://www.theguardian.com/politics/2026/may/06/may-elections-hopes-fears-parties-england-wales-scotland-key-takeaways",
-        "description": "Will Reform take Sunderland, or the Greens take Hackney? Can Plaid Cymru take a historic victory in Wales, and will Labour be forced into third place in Scotland? We examine the possible outcomes f...",
+        "title": "Airlines among companies using fuel surcharges to cover surge in costs, UK survey shows",
+        "url": "https://www.theguardian.com/business/2026/may/06/airlines-and-companies-using-fuel-surcharges-to-cover-surge-in-costs-uk-survey-shows",
+        "description": "Firms raising prices at fastest rate in three years, driven by soaring energy and wage bills but also extra materials costsBusiness live – latest updatesOil prices fall as Trump hails ‘progress’ on...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,16 @@
     ],
     "economy": [
       {
-        "title": "Reform UK’s immigration policies are a significant risk to the UK economy | Sushil Wadhwani",
-        "url": "https://www.theguardian.com/business/2026/may/05/reform-uk-immigration-policies-uk-economy-election",
-        "description": "An exodus of workers will be damaging – and electoral change might help Britain escape instability and low growthWhile all eyes are on the Middle East and the risk of a global recession, a possible...",
+        "title": "Airlines among companies using fuel surcharges to cover surge in costs, UK survey shows",
+        "url": "https://www.theguardian.com/business/2026/may/06/airlines-and-companies-using-fuel-surcharges-to-cover-surge-in-costs-uk-survey-shows",
+        "description": "Firms raising prices at fastest rate in three years, driven by soaring energy and wage bills but also extra materials costsBusiness live – latest updatesOil prices fall as Trump hails ‘progress’ on...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Cut borrowing costs for poorer countries to free up $900bn for development – report",
+        "url": "https://www.theguardian.com/global-development/2026/may/06/cut-borrowing-costs-for-poorer-countries-to-free-up-900bn-for-development-report",
+        "description": "G77 nations spend $8tn a year servicing debts, but analysis shows how comprehensive relief could benefit social spendingCutting debt servicing costs for the world’s poorest countries could free up ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -43,13 +50,6 @@
         "title": "Four in five Britons worried Iran war will make food more expensive, poll finds",
         "url": "https://www.theguardian.com/business/2026/may/06/iran-war-food-prices-expensive-inflation-poll",
         "description": "Shoppers concerned about effect of Middle East conflict, as UK retailers say government running out of time to cut costsFour in five people are worried that the Iran war will make food more expensi...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Rubio insists US is ‘very fortunate’ as Iran war pushes gas price near $4.50",
-        "url": "https://www.theguardian.com/us-news/2026/may/05/marco-rubio-iran-gas-prices",
-        "description": "US secretary of state says US is better off than other countries hit by disruption in oil supplies‘A dollar or two increase is devastating’: US readers on toll of rising gas pricesMarco Rubio has a...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -84,37 +84,44 @@
         "category": "nhs"
       },
       {
-        "title": "Cruise ship with hantavirus outbreak to sail to Canary Islands",
-        "url": "https://www.bbc.com/news/articles/ce8pypvjx1ko?at_medium=RSS&at_campaign=rss",
-        "description": "Spain's health ministry said the MV Hondius is expected to arrive within three to four days.",
+        "title": "What is the cruise ship hantavirus and how does it spread?",
+        "url": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&at_campaign=rss",
+        "description": "The Andes strain of the virus has been confirmed in some passengers, which can rarely be passed from person to person.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
+        "title": "Sudanese asylum seekers challenge Home Office rule changes for refugees",
+        "url": "https://www.theguardian.com/uk-news/2026/may/06/sudanese-asylum-seekers-challenge-home-office-changes-to-refugee-rules",
+        "description": "Shabana Mahmood has announced plan to cut leave to remain from five years to 30 months, to concern of UN’s refugee agencyTwo Sudanese asylum seekers are challenging a central element of Labour’s pl...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Reform-led Lancashire county council to quit refugee resettlement scheme",
+        "url": "https://www.theguardian.com/uk-news/2026/may/06/reform-lancashire-county-council-to-quit-refugee-resettlement-schemes-elections",
+        "description": "Councillor announces plan to withdraw from government-funded programme in run-up to May electionsUK politics live – latest updatesThe Reform-led Lancashire county council will withdraw from the gov...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Why is Reform UK threatening Green areas with migrant detention centres?",
         "url": "https://www.theguardian.com/politics/2026/may/05/grotesque-parties-criticise-reform-uk-plan-to-set-up-migrant-detention-centres-in-green-voting-areas",
         "description": "‘Grotesque’ policy is seen as effort to sharpen dividing lines before local electionsComing just days before millions go to the polls, Zia Yusuf’s announcement that a Reform government would “prior...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Reform UK’s immigration policies are a significant risk to the UK economy | Sushil Wadhwani",
-        "url": "https://www.theguardian.com/business/2026/may/05/reform-uk-immigration-policies-uk-economy-election",
-        "description": "An exodus of workers will be damaging – and electoral change might help Britain escape instability and low growthWhile all eyes are on the Middle East and the risk of a global recession, a possible...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Modern slavery at record levels in UK and expected to worsen, report warns",
-        "url": "https://www.theguardian.com/world/2026/may/05/modern-slavery-record-levels-uk-worsen-report",
-        "description": "Government’s anti-slavery commissioner says traffickers are exploiting a growing pipeline of vulnerabilitySlavery in the UK is at record levels and is expected to worsen over the next decade, the g...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Alaska’s 2025 mega tsunami highlights risk to cruise lines as glaciers retreat",
+        "url": "https://www.theguardian.com/us-news/2026/may/06/alaska-mega-tsunami-climate-change-glacier",
+        "description": "Researchers say 481-metre wave in fjord was triggered by rockslide linked to climate crisisA mega tsunami in Alaska last year in a fjord visited by cruise ships is a stark warning of the risks of c...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "‘Historic breakthrough’: could the fossil fuel era be coming to an end? – podcast",
         "url": "https://www.theguardian.com/science/audio/2026/may/05/historic-breakthrough-could-the-fossil-fuel-era-be-coming-to-an-end-podcast",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Fixing methane mega-leaks could boost energy stock amid crisis, report says",
-        "url": "https://www.theguardian.com/environment/2026/may/04/fixing-mega-leaks-of-methane-would-hugely-boost-energy-stock-amid-crisis-report-says",
-        "description": "International Energy Agency analysis shows methane leaks remained at near-record highs in 2025Methane emissions from the energy sector remained at near record levels in 2025, the International Ener...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Is this the real face of Anne Boleyn?",
-        "url": "https://www.bbc.com/news/articles/cp9pz53e891o?at_medium=RSS&at_campaign=rss",
-        "description": "A computer science team believes they have discovered a previously unknown sketch of King Henry VIII's second wife - but not everyone is convinced.",
+        "title": "Massive Alaska megatsunami was second largest ever recorded",
+        "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+        "description": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
-        "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
-        "description": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
+        "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+        "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+        "description": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
-        "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
-        "description": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country.",
+        "title": "Massive Alaska megatsunami was second largest ever recorded",
+        "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+        "description": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
-        "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
-        "description": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
+        "title": "German police raid neo-Nazi criminal youth groups",
+        "url": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
+        "description": "Police search locations in 12 states, mainly in the East and South of the country in what prosecutors say is a targeted raid.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
