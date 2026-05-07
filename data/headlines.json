@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-05-06T19:44:42.096595+00:00",
+  "fetched_at": "2026-05-07T02:46:29.384048+00:00",
   "headlines": {
     "government": [
       {
+        "title": "Keir Starmer makes late pitch to voters turning to Greens and Reform",
+        "url": "https://www.theguardian.com/politics/2026/may/06/starmer-late-pitch-voters-labour-greens-reform-elections",
+        "description": "As Labour faces record-breaking losses in Thursday’s local elections, prime minister says rivals are unfit to leadLabour is braced for record-breaking losses in Thursday’s local elections in Englan...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Sudanese asylum seekers challenge Home Office rule changes for refugees",
         "url": "https://www.theguardian.com/uk-news/2026/may/06/sudanese-asylum-seekers-challenge-home-office-changes-to-refugee-rules",
-        "description": "Shabana Mahmood has announced plan to cut leave to remain from five years to 30 months, to concern of UN’s refugee agencyTwo Sudanese asylum seekers are challenging a central element of Labour’s pl...",
+        "description": "Shabana Mahmood has announced plan to cut leave to remain from five years to 30 months, to concern of UN refugee agencyTwo Sudanese asylum seekers are challenging a central element of Labour’s plan...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,21 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Burnham sparks Labour anger with plan to appear at event alongside Greens",
-        "url": "https://www.theguardian.com/politics/2026/may/06/andy-burnham-labour-anger-appearance-greens-change-now",
-        "description": "Some MPs accuse Burnham of undermining local election messaging by agreeing to speak at event later this monthPolitics live – latest updatesAndy Burnham’s decision to appear at a progressive rally ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Political parties make final pitches ahead of key elections",
-        "url": "https://www.bbc.com/news/articles/cvgzwdee72eo?at_medium=RSS&at_campaign=rss",
-        "description": "A final push for votes is under way on the last day of campaigning ahead of elections across England, Scotland and Wales.",
+        "title": "Millions across England, Scotland and Wales to vote in key elections",
+        "url": "https://www.bbc.com/news/articles/c62xkw1pyvzo?at_medium=RSS&at_campaign=rss",
+        "description": "The polls on Thursday will be the biggest test of public opinion since the general election in 2024.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Fertiliser shortages will have ‘dramatic’ effect on global food prices, warns farming boss",
+        "url": "https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
+        "description": "Powerful property and farming firm Grosvenor Group says knock-on effect of Iran war could arrive next yearFertiliser shortages caused by the Iran war have driven up costs for UK farmers by up to 70...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Oil prices fall as Trump says strait of Hormuz ‘open to all’ if Iran accepts deal",
         "url": "https://www.theguardian.com/business/2026/may/06/oil-prices-ease-and-markets-rally-as-trump-works-towards-deal-with-iran",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Airlines among companies using fuel surcharges to cover surge in costs, UK survey shows",
-        "url": "https://www.theguardian.com/business/2026/may/06/airlines-and-companies-using-fuel-surcharges-to-cover-surge-in-costs-uk-survey-shows",
-        "description": "Firms raising prices at fastest rate in three years, driven by soaring energy and wage bills but also extra materials costsBusiness live – latest updatesOil prices fall as Trump hails ‘progress’ on...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "People urged not to cancel flights over fuel shortage fears",
-        "url": "https://www.bbc.com/news/articles/cyv24v3mpdmo?at_medium=RSS&at_campaign=rss",
-        "description": "Airlines have cut 13,000 flights globally in May as jet fuel prices soar due to the conflict in the Middle East.",
+        "title": "'We had people come just to see it': Amazon delivers its first UK parcels by drone",
+        "url": "https://www.bbc.com/news/articles/cx21k21vnmgo?at_medium=RSS&at_campaign=rss",
+        "description": "The unmanned aircraft can drop off 100 parcels a day within a 12km radius of Amazon's hub.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Two Britons self-isolating in UK after being on hantavirus cruise ship",
-        "url": "https://www.bbc.com/news/articles/c9wepl8we90o?at_medium=RSS&at_campaign=rss",
-        "description": "They do not have symptoms but contacted health officials after being on the MV Hondius cruise ship struck by the outbreak.",
+        "title": "What is hantavirus and how does it spread?",
+        "url": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&at_campaign=rss",
+        "description": "The Andes strain of the virus has been confirmed in some passengers, which can rarely be passed from person to person.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -95,7 +95,7 @@
       {
         "title": "Sudanese asylum seekers challenge Home Office rule changes for refugees",
         "url": "https://www.theguardian.com/uk-news/2026/may/06/sudanese-asylum-seekers-challenge-home-office-changes-to-refugee-rules",
-        "description": "Shabana Mahmood has announced plan to cut leave to remain from five years to 30 months, to concern of UN’s refugee agencyTwo Sudanese asylum seekers are challenging a central element of Labour’s pl...",
+        "description": "Shabana Mahmood has announced plan to cut leave to remain from five years to 30 months, to concern of UN refugee agencyTwo Sudanese asylum seekers are challenging a central element of Labour’s plan...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-        "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-        "description": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
+        "title": "Iran considering US proposal to end war, official says",
+        "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+        "description": "The White House reportedly believes it could be closing in on a 14-point memorandum of understanding with Iran.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
-        "url": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
-        "description": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980.",
+        "title": "Trump's hopes for an Iran peace deal come with caveats",
+        "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+        "description": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Massive Alaska megatsunami was second largest ever recorded",
-        "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
-        "description": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
+        "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+        "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+        "description": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
