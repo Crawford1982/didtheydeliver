@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-07T14:05:44.145608+00:00",
+  "fetched_at": "2026-05-07T19:42:23.590983+00:00",
   "headlines": {
     "government": [
       {
-        "title": "May elections live: Badenoch rows back on Reform pacts as millions cast their votes",
+        "title": "‘Worst year in memory’: parties describe climate of abuse on campaign trail for May elections",
+        "url": "https://www.theguardian.com/politics/2026/may/07/parties-election-climate-abuse-campaign-trail",
+        "description": "Candidates from across spectrum report abuse online and in person before local and devolved elections in England, Wales and ScotlandCandidates and political parties have described a climate of abus...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Election monitors note instances of voters in England turned away over ID",
+        "url": "https://www.theguardian.com/politics/2026/may/07/local-elections-england-monitors-voters-id",
+        "description": "European observers have seen incidents of confusion over ID requirements but problem is not regarded as widespreadInstances of voters being turned away from polling stations owing to confusion over...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "May elections: Badenoch rows back on Reform pacts as millions cast their votes – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/07/may-local-elections-polls-open-england-scotland-wales-uk-politics-latest-news-updates",
         "description": "Tory leader tells Sun that there won’t be council tie-ups as Farage’s party is not ‘serious’ as votes under way in England, Wales and ScotlandAnd here is the eve-of-poll statement that Rhun ap Iorw...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "STV’s Scotland election coverage to be hit by strike action over pay",
-        "url": "https://www.theguardian.com/media/2026/may/07/stv-scotland-election-coverage-hit-strike-action-pay",
-        "description": "About 120 journalists and broadcast staff expected to protest about pay freeze as  STV invests in new radio stationUK politics live – latest updatesCoverage of Scotland’s election counts by STV, th...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer’s failure to demonstrate strong values ‘driving away progressive voters’",
-        "url": "https://www.theguardian.com/politics/2026/may/07/keir-starmer-driving-away-progressive-voters-labour",
-        "description": "Report using research from senior Blair and Clinton pollster comes as Labour braces for dismal election resultsMay elections: What’s at stake across England, Wales and Scotland?UK politics live – l...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Shell latest oil giant to see profits surge due to Iran war impact",
-        "url": "https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss",
-        "description": "The energy giant's profits jump by nearly a quarter as it benefits from the recent volatility in the oil price",
+        "title": "Portugal and Italy will not suspend digital border checks for Brits",
+        "url": "https://www.bbc.com/news/articles/c78k9ke78ljo?at_medium=RSS&at_campaign=rss",
+        "description": "Reports had suggested the countries were set to follow the example of Greece, which effectively suspended biometric checks for UK nationals.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Trump’s Iran war may stymie climate gains with boost to big oil, experts say",
+        "url": "https://www.theguardian.com/us-news/2026/may/07/iran-war-big-oil-climate",
+        "description": "Windfall profits could lock in Trump-era political wins for the industry and slow clean-energy transitionThe billions in profits big oil is reaping due to the Iran war may stymie the energy transit...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "New gasfield approved near Twelve Apostles puts climate and ‘pristine’ ocean in jeopardy, environmentalists warn",
         "url": "https://www.theguardian.com/australia-news/2026/may/07/otway-basin-gasfield-project-approved-near-twelve-apostles",
         "description": "Victorian and federal Labor governments greenlight Otway basin drilling project with potential to supply one-third of state’s gasFollow our Australia news live blog for latest updatesGet our breaki...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Alaska’s 2025 mega tsunami highlights risk to cruise lines as glaciers retreat",
-        "url": "https://www.theguardian.com/us-news/2026/may/06/alaska-mega-tsunami-climate-change-glacier",
-        "description": "Researchers say 481-metre wave in fjord was triggered by rockslide linked to climate crisisA mega tsunami in Alaska last year in a fjord visited by cruise ships is a stark warning of the risks of c...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Massive Alaska megatsunami was second largest ever recorded",
         "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
         "description": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves.",
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
+        "title": "Historic Oxford cinema under threat as Oriel College refuses to extend lease",
+        "url": "https://www.theguardian.com/culture/2026/may/07/historic-oxford-cinema-under-threat-as-oriel-college-refuses-to-extend-lease",
+        "description": "The Ultimate Picture Palace opened in 1911 and is housed in a Grade II-listed building in need of renovationThe survival of one of the UK’s oldest independent cinemas is under threat while its land...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Mo Farah urges against possible £120m cut to school sports in England",
+        "url": "https://www.theguardian.com/education/2026/may/07/mo-farah-against-cut-school-sports-england",
+        "description": "Athlete and sport bodies call for rethink after health and education departments each propose £60m funding cutsMo Farah and more than 70 leading UK sporting bodies have demanded the government reth...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Palestinian ambassador protests to Foreign Office over ’erasure’ by British Museum",
         "url": "https://www.theguardian.com/world/2026/may/06/palestinian-ambassador-protest-foreign-office-british-museum",
         "description": "Objection after museum removes word ‘Palestine’ from list of countries of ancient Levant and Egypt and from some explanatory panelsThe Palestinian ambassador to the UK has called for Foreign Office...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘Close to zero impact’: US study casts doubt on effect of phone ban in schools",
-        "url": "https://www.theguardian.com/politics/2026/may/05/mobile-phone-ban-schools-us-study",
-        "description": "Researchers say findings are not reason to shy away from restrictions as MPs consider ban in England’s schoolsStrict bans on mobile phones in schools have “close to zero” impact on student learning...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "One in four humanities students in Australia to take more than 25 years to pay off student loans, Treasury finds",
-        "url": "https://www.theguardian.com/australia-news/2026/may/04/hecs-student-loan-humanities-students-australia-25-years",
-        "description": "Job-ready graduates program will also leave almost two-thirds of humanities and creative arts students with debts exceeding $50,000Follow our Australia news live blog for latest updatesGet our brea...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Race to trace passengers who left hantavirus cruise ship at island",
+        "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
         "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
-        "description": "A 69-year-old woman who later died in South Africa is among those who left MV Hondius at St Helena.",
+        "description": "Ther World Health Organization says it is not in the same situation as with Covid-19 because hantavirus spreads differently.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Three women linked to Islamic State arrested in Australia on return from Syria",
-        "url": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
-        "description": "Three women who allegedly supported IS were arrested after they flew home to Australia for the first time in years.",
+        "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
+        "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
+        "description": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
-        "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-        "description": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
+        "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
+        "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
+        "description": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
