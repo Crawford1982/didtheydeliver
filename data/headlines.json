@@ -1,39 +1,46 @@
 {
-  "fetched_at": "2026-05-08T13:45:24.501389+00:00",
+  "fetched_at": "2026-05-08T19:16:02.861012+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Elections 2026 live: ‘I’m not going to walk away,’ says Starmer as Reform makes big gains and Labour faces defeat in Wales",
+        "title": "2026 elections mapped: how Labour lost ground in different directions",
+        "url": "https://www.theguardian.com/politics/ng-interactive/2026/may/08/2026-elections-mapped-labour-reform-uk-greens-scotland-wales-england-local",
+        "description": "Keir Starmer’s party lost out to Reform and the Greens, with no respite in Scotland, Wales or England. These maps show the scale of the historic resultsElection 2026 live: latest news updatesFull r...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "2026 election results: latest from local, Scottish and Welsh votes",
+        "url": "https://www.theguardian.com/politics/ng-interactive/2026/may/07/local-elections-2026-may-full-results-england-scotland-wales",
+        "description": "From devolved parliaments in Scotland and Wales to councils and mayoralties in England, find out what happened in your areaElections mapped: how Labour lost ground in different directionsLatest new...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Elections 2026 live: Labour suffers historic defeat in Wales as Reform surges in English council elections and Greens make gains",
         "url": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates",
-        "description": "Farage says Labour being ‘wiped out by Reform in many of their traditional areas’; Greens win first mayoralty in Hackney2026 election results: latest from local, Scottish and Welsh votesWe’re getti...",
+        "description": "Welsh Labour leader and first minister Eluned Morgan loses seat with party pushed into third place behind Plaid Cymru and Reform2026 election results: latest from local, Scottish and Welsh votesWe’...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Steve Hilton: British strategist becomes unlikely frontrunner for California governor",
-        "url": "https://www.theguardian.com/us-news/2026/may/08/steve-hilton-british-strategist-frontrunner-california-governor-david-cameron",
-        "description": "Former David Cameron adviser says a vote for him will make California ‘Califordable’ – not everyone is convinced He “knows how to wind people up like Trump”, according to friends, and made his name...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Nigel Farage dodges questions on £5m gift from crypto billionaire",
-        "url": "https://www.theguardian.com/politics/2026/may/08/nigel-farage-dodges-questions-5m-gift-crypto-billionaire-christopher-harborne-reform-uk",
-        "description": "Reform leader irritated when asked about money from Christopher Harborne on day of party’s election gainsElection 2026 live: latest news updatesNigel Farage has repeatedly refused to answer questio...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Election results so far at a glance - and what's still to come",
+        "title": "At a glance: Election results so far",
         "url": "https://www.bbc.com/news/articles/cvgz155y9exo?at_medium=RSS&at_campaign=rss",
-        "description": "Reform UK has made gains at the expense of Labour and the Conservatives in early council election results overnight.",
+        "description": "Reform UK has made big gains in England, whilst Labour suffers an historic wipeout in Wales.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "US economy beats forecasts with 115,000 new jobs added in April; pound and UK bonds stronger as Starmer pledges to stay on as PM – business live",
+        "title": "UK borrowing costs fall and pound rises after Starmer says he will stay as PM",
+        "url": "https://www.theguardian.com/business/2026/may/08/uk-borrowing-costs-fall-pound-rises-keir-starmer-bond-yields",
+        "description": "Bond yields drop as market fears ease that Labour leader will be replaced by a more leftwing rival Elections 2026 – live updatesBusiness live – latest updatesUK government borrowing costs fell and ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "US consumer confidence hits record low as Americans fret about rising prices; jobs report beats forecasts – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial newsUK bond prices have now rallied, after Keir Starmer pledged not to resign and analysts suggested Labour was not doing as badly as feared in...",
         "source": "The Guardian",
@@ -43,13 +50,6 @@
         "title": "US added 115,000 jobs in April in surprise gain amid Iran war uncertainty",
         "url": "https://www.theguardian.com/business/2026/may/08/april-jobs-report",
         "description": "Unemployment remained steady at 4.3% as the US-Israel war on Iran continues to rattle the American economyUS employers added 115,000 jobs in April and the unemployment rate remained steady at 4.3%,...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Trump walks back threat to rip up part of EU trade deal but tells bloc to ratify by 4 July",
-        "url": "https://www.theguardian.com/us-news/2026/may/07/trump-gives-eu-until-4-july-to-ratify-trade-deal-or-face-much-higher-tariffs",
-        "description": "US president expresses impatience at speed of EU’s implementation and warns of ‘much higher’ tariffsUS trade court rules against Trump’s 10% global tariffsBusiness live – latest updatesDonald Trump...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Sexual harassment more than twice as prevalent at England’s top universities, analysis finds",
+        "url": "https://www.theguardian.com/education/2026/may/08/sexual-harassment-statistics-england-top-universities-analysis",
+        "description": "Harassment reported by 35% of students at ‘high tariff’ institutions compared with 17% at those with lowest entry gradesStudents at England’s leading universities were more than twice as likely to ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Historic Oxford cinema under threat as Oriel College refuses to extend lease",
         "url": "https://www.theguardian.com/culture/2026/may/07/historic-oxford-cinema-under-threat-as-oriel-college-refuses-to-extend-lease",
         "description": "The Ultimate Picture Palace opened in 1911 and is housed in a Grade II-listed building in need of renovationThe survival of one of the UK’s oldest independent cinemas is under threat while its land...",
@@ -156,13 +163,6 @@
         "title": "Mo Farah urges against possible £120m cut to school sports in England",
         "url": "https://www.theguardian.com/education/2026/may/07/mo-farah-against-cut-school-sports-england",
         "description": "Athlete and sport bodies call for rethink after health and education departments each propose £60m funding cutsMo Farah and more than 70 leading UK sporting bodies have demanded the government reth...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Palestinian ambassador protests to Foreign Office over ’erasure’ by British Museum",
-        "url": "https://www.theguardian.com/world/2026/may/06/palestinian-ambassador-protest-foreign-office-british-museum",
-        "description": "Objection after museum removes word ‘Palestine’ from list of countries of ancient Levant and Egypt and from some explanatory panelsThe Palestinian ambassador to the UK has called for Foreign Office...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
-        "description": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+        "title": "Iran accuses US of 'reckless military adventure'",
+        "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+        "description": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+        "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
         "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
-        "description": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany.",
+        "description": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
