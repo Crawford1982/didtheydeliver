@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-05-07T19:42:23.590983+00:00",
+  "fetched_at": "2026-05-08T02:50:13.797574+00:00",
   "headlines": {
     "government": [
       {
-        "title": "‘Worst year in memory’: parties describe climate of abuse on campaign trail for May elections",
-        "url": "https://www.theguardian.com/politics/2026/may/07/parties-election-climate-abuse-campaign-trail",
-        "description": "Candidates from across spectrum report abuse online and in person before local and devolved elections in England, Wales and ScotlandCandidates and political parties have described a climate of abus...",
+        "title": "Elections 2026 live: Labour suffers early losses as Reform makes gains in England",
+        "url": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates",
+        "description": "Local council results are being announced in England; Scottish and Welsh parliament results are due from midday2026 election results: latest from local, Scottish and Welsh votesWe’re getting statem...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Election monitors note instances of voters in England turned away over ID",
-        "url": "https://www.theguardian.com/politics/2026/may/07/local-elections-england-monitors-voters-id",
-        "description": "European observers have seen incidents of confusion over ID requirements but problem is not regarded as widespreadInstances of voters being turned away from polling stations owing to confusion over...",
+        "title": "2026 election results: latest from local, Scottish and Welsh votes",
+        "url": "https://www.theguardian.com/politics/ng-interactive/2026/may/07/local-elections-2026-may-full-results-england-scotland-wales",
+        "description": "From devolved parliaments in Scotland and Wales to councils and mayoralties in England, find out what happened in your areaLatest news updates and analysis from election night Continue reading...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "May elections: Badenoch rows back on Reform pacts as millions cast their votes – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/may/07/may-local-elections-polls-open-england-scotland-wales-uk-politics-latest-news-updates",
-        "description": "Tory leader tells Sun that there won’t be council tie-ups as Farage’s party is not ‘serious’ as votes under way in England, Wales and ScotlandAnd here is the eve-of-poll statement that Rhun ap Iorw...",
+        "title": "Polls close in elections across England, Scotland and Wales",
+        "url": "https://www.theguardian.com/politics/2026/may/07/polls-close-elections-england-scotland-wales-labour-reform-greens-lib-dems-conservatives",
+        "description": "Results of elections for councils in England, the Senedd in Wales and the Scottish parliament could transform Great Britain’s political landscape2026 election results: latest from local, Scottish a...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Man arrested for selling Morgan McSweeney's stolen phone",
-        "url": "https://www.bbc.com/news/articles/cpvp48x2d70o?at_medium=RSS&at_campaign=rss",
-        "description": "McSweeney was the prime minister's chief of staff in October 2025 when his government phone was stolen in London.",
+        "title": "Labour expected to lose Senedd after century of winning elections in Wales",
+        "url": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&at_campaign=rss",
+        "description": "Labour sources have told the BBC the party's century-long winning run is expected to come to an end.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Portugal and Italy will not suspend digital border checks for Brits",
-        "url": "https://www.bbc.com/news/articles/c78k9ke78ljo?at_medium=RSS&at_campaign=rss",
-        "description": "Reports had suggested the countries were set to follow the example of Greece, which effectively suspended biometric checks for UK nationals.",
+        "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+        "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
+        "description": "The flare-up further endangers the US-Iran ceasefire, which Trump extended indefinitely on 21 April.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -171,7 +171,7 @@
       {
         "title": "‘Came here with hope’ and ‘died unseen’: tearful crowd says goodbye to homeless man Bikram Lama",
         "url": "https://www.theguardian.com/society/2026/may/07/bikram-lama-vigilcame-here-with-hope-and-died-unseen-tearful-crowd-says-goodbye-to-homeless-man-bikram-lama-ntwnfb",
-        "description": "People gathered at dusk under the fig tree canopy of Sydney’s Hyde Park to pay tribute to the 32-year-old who died nearby and lay undiscovered for up to a weekFollow our Australia news live blog fo...",
+        "description": "People gather at dusk under the fig tree canopy of Sydney’s Hyde Park to pay tribute to the 32-year-old who died nearby and lay undiscovered for up to a weekFollow our Australia news live blog for ...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+        "description": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
         "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
         "description": "Ther World Health Organization says it is not in the same situation as with Covid-19 because hantavirus spreads differently.",
@@ -202,13 +209,6 @@
         "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
         "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
         "description": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
-        "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
-        "description": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
