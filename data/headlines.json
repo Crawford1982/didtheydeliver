@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-05-08T02:50:13.797574+00:00",
+  "fetched_at": "2026-05-08T07:28:57.928460+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Elections 2026 live: Labour suffers early losses as Reform makes gains in England",
+        "title": "Elections 2026 live: Labour loses hundreds of council seats in England as Reform UK surges",
         "url": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates",
         "description": "Local council results are being announced in England; Scottish and Welsh parliament results are due from midday2026 election results: latest from local, Scottish and Welsh votesWe’re getting statem...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Labour losses pile up in England local elections as Reform UK makes gains",
+        "url": "https://www.theguardian.com/politics/2026/may/08/labour-reform-uk-england-local-elections-2026-scotland-wales",
+        "description": "Reform runaway winners in north-east, likely pushing Labour into opposition in Hartlepool, with other losses for Starmer in Chorley, Wigan, Redditch and TamworthElection 2026 live: latest news upda...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,21 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Polls close in elections across England, Scotland and Wales",
-        "url": "https://www.theguardian.com/politics/2026/may/07/polls-close-elections-england-scotland-wales-labour-reform-greens-lib-dems-conservatives",
-        "description": "Results of elections for councils in England, the Senedd in Wales and the Scottish parliament could transform Great Britain’s political landscape2026 election results: latest from local, Scottish a...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour expected to lose Senedd after century of winning elections in Wales",
-        "url": "https://www.bbc.com/news/articles/cdrpxvz61vko?at_medium=RSS&at_campaign=rss",
-        "description": "Labour sources have told the BBC the party's century-long winning run is expected to come to an end.",
+        "title": "Election results so far at a glance - and what's still to come",
+        "url": "https://www.bbc.com/news/articles/cvgz155y9exo?at_medium=RSS&at_campaign=rss",
+        "description": "Reform UK has made gains at the expense of Labour and the Conservatives in early council election results overnight.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Oil back over $100 as US-Iran ceasefire comes under pressure; UK house prices drop – business live",
+        "url": "https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsLondon’s stock market is sliding at the start of trading.The FTSE 100 index has dropped by 67 points, or 0.65%, to 10,209 points.“We are ac...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Fertiliser shortages to have dramatic effect on food prices, says Duke of Westminster’s firm",
         "url": "https://www.theguardian.com/business/2026/may/06/fertiliser-shortages-iran-war-global-food-prices-farming",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Up to 150 former WH Smith stores face closure, putting thousands of jobs at risk",
-        "url": "https://www.theguardian.com/business/2026/may/06/dozens-of-former-wh-smith-stores-face-closure-putting-thousands-of-jobs-at-risk",
-        "description": "Modella Capital, which rebranded shops as TG Jones, unveils radical restructuring plan, including rent holidaysUp to 150 former WH Smith stores are likely to close, putting thousands of jobs at ris...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
         "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-        "description": "The flare-up further endangers the US-Iran ceasefire, which Trump extended indefinitely on 21 April.",
+        "description": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "How worried should we be about hantavirus?",
-        "url": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss",
-        "description": "Some passengers potentially exposed to hantavirus have already taken flights to numerous countries.",
+        "title": "Ethiopian woman's joy at rare quintuplets after 12 years trying for a baby",
+        "url": "https://www.bbc.com/news/articles/c893y34zlv0o?at_medium=RSS&at_campaign=rss",
+        "description": "The woman, 35, says she was praying for a baby and was \"overjoyed\" to be \"blessed with five at once\".",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
-        "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
-        "description": "Ther World Health Organization says it is not in the same situation as with Covid-19 because hantavirus spreads differently.",
+        "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
+        "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
+        "description": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
-        "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
-        "description": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
+        "title": "Third British national has suspected hantavirus infection, UK government says",
+        "url": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
+        "description": "The patient is on the remote Atlantic island of Tristan da Cunha, which was visited by the cruise ship in April.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
