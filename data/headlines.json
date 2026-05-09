@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-05-09T02:44:37.196001+00:00",
+  "fetched_at": "2026-05-09T07:54:53.184284+00:00",
   "headlines": {
     "government": [
       {
-        "title": "John Swinney urges Starmer to show Scotland ‘greater respect’ after SNP victory",
-        "url": "https://www.theguardian.com/politics/2026/may/08/john-swinney-declares-victory-for-snp-in-holyrood-elections",
-        "description": "Scottish Labour leader, Anas Sarwar, concedes his party was comprehensively beaten in election as count puts his party on 17 seats, a tie with ReformElection 2026 live: latest news updatesFull resu...",
+        "title": "2026 election results: latest from local, Scottish and Welsh votes",
+        "url": "https://www.theguardian.com/politics/ng-interactive/2026/may/07/local-elections-2026-may-full-results-england-scotland-wales",
+        "description": "From devolved parliaments in Scotland and Wales to councils and mayoralties in England, find out what happened in your areaElections mapped: how Labour lost ground in different directions Continue ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour suffers historic defeat in Wales as Reform surges in English council elections and Greens make gains – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/may/07/elections-2026-local-scotland-wales-reform-green-labour-conservatives-live-news-updates",
-        "description": "Welsh Labour leader and first minister Eluned Morgan loses seat with party pushed into third place behind Plaid Cymru and ReformThis liveblog is now closed. Read the Guardian’s report on the electi...",
+        "title": "2026 elections mapped: how Labour lost ground in different directions",
+        "url": "https://www.theguardian.com/politics/ng-interactive/2026/may/08/2026-elections-mapped-labour-reform-uk-greens-scotland-wales-england-local",
+        "description": "Keir Starmer’s party lost out to Reform and the Greens, with no respite in Scotland, Wales or England. These maps show the scale of the historic resultsFull results from England, Scotland and Wales...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Nigel Farage hails ‘historic shift in politics’ after Reform UK election gains",
-        "url": "https://www.theguardian.com/politics/2026/may/08/nigel-farage-reform-uk-election-gains-essex-sunderland",
-        "description": "Party has success in Labour and Tory heartland areas but one pollster says results suggest Reform may have peakedFull results from England, Scotland and WalesElections mapped: how Labour lost groun...",
+        "title": "Most Labour members think Starmer cannot revive party fortunes, poll finds",
+        "url": "https://www.theguardian.com/politics/2026/may/09/labour-members-keir-starmer-party-fortunes-poll",
+        "description": "Exclusive: Mayor of Greater Manchester Andy Burnham is preferred choice of new leader for 42% of those surveyedFull results from England, Scotland and WalesThe majority of Labour members say they d...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer under pressure, as Labour suffers heavy election losses",
-        "url": "https://www.bbc.com/news/articles/cz62dwe30wdo?at_medium=RSS&at_campaign=rss",
-        "description": "Reform makes huge gains in England, as Labour loses power in Wales and the SNP wins fifth term in Scotland.",
+        "title": "Analysis: Many Labour MPs are blaming the boss for elections body blow",
+        "url": "https://www.bbc.com/news/articles/c5yxr7zng6po?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Keir Starmer is facing what looks like a coordinated attempt to get him to set a timetable for his departure.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "US jet fuel could be used in Europe to ease possible shortages",
-        "url": "https://www.bbc.com/news/articles/cp8pk2m4nlxo?at_medium=RSS&at_campaign=rss",
-        "description": "An international air body suggests wider acceptance of US-grade jet fuel could help to head off any supply problems.",
+        "title": "The UK is set for a staycation summer - and there are plenty of hidden gems",
+        "url": "https://www.bbc.com/news/articles/cgjpv9pdnpwo?at_medium=RSS&at_campaign=rss",
+        "description": "Seasoned staycationers share their favourite spots as Airbnb and Booking.com say interest in UK stays are up on last year.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Iran accuses US of 'reckless military adventure'",
-        "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
-        "description": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
+        "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
+        "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+        "description": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
-        "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
-        "description": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
+        "title": "Iran accuses US of 'reckless military adventure'",
+        "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+        "description": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
