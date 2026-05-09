@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-09T13:15:33.149567+00:00",
+  "fetched_at": "2026-05-09T18:59:45.611543+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer admits ‘unnecessary mistakes’ but rejects calls to quit – UK politics live",
+        "title": "Labour MP says she will trigger leadership contest by Monday if cabinet does not launch challenge – ask it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/09/may-elections-results-keir-starmer-labour-nigel-farage-reform-uk-politics-latest-news-updates",
-        "description": "Several frontbenchers told the Guardian the PM’s time in office should not go beyond the end of the yearMapped: how Labour lost ground in different directionsGordon Brown has been appointed as a sp...",
+        "description": "Catherine West says she will try to get the necessary signatures herself to trigger a leadership contestMapped: how Labour lost ground in different directionsGordon Brown has been appointed as a sp...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "British leader Keir Starmer under pressure after heavy election losses",
-        "url": "https://www.theguardian.com/politics/2026/may/09/british-leader-keir-starmer-under-pressure-after-heavy-election-losses",
-        "description": "Labour party loses more than 1,400 English council seats and crashes out in Welsh and Scottish parliament votes• UK politics live – latest updatesKeir Starmer, the British prime minister, is facing...",
+        "title": "MPs from Labour’s left to urge Ed Miliband to consider leadership bid",
+        "url": "https://www.theguardian.com/politics/2026/may/09/mps-from-labours-left-to-urge-ed-miliband-to-consider-leadership-bid",
+        "description": "Keir Starmer set to face challenge as former minister says she will trigger race if no cabinet minister comes forwardUK politics live – latest updatesMPs from Labour’s left are expected to urge Ed ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer brings in Gordon Brown and Harriet Harman to ease pressure on him to resign",
-        "url": "https://www.theguardian.com/politics/2026/may/09/starmer-brings-gordon-brown-harriet-harman-ease-pressure-resign",
-        "description": "Brown to advise on global finance, while Harman will focus on social and economic improvements for women and girlsUK politics live – latest updatesFull results from England, Scotland and WalesKeir ...",
+        "title": "‘I’ll talk to work on Monday’: what happens when a ‘paper candidate’ actually wins?",
+        "url": "https://www.theguardian.com/politics/2026/may/09/tyrone-scott-hackney-council-greens-paper-candidate",
+        "description": "Tyrone Scott, who didn’t think he had a hope in the election, wants to help the Greens rebuild ‘community cohesion’ in HackneyYou would expect most political candidates who pull off a shock win to ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,9 @@
     ],
     "economy": [
       {
-        "title": "UK borrowing costs fall and pound rises after Starmer says he will stay as PM",
-        "url": "https://www.theguardian.com/business/2026/may/08/uk-borrowing-costs-fall-pound-rises-keir-starmer-bond-yields",
-        "description": "Bond yields drop as market fears ease that Labour leader will be replaced by a more leftwing rivalUK government borrowing costs fell and the pound rose on Friday as Keir Starmer vowed to remain as ...",
+        "title": "With Trump’s low approval rating and Republicans’ ‘self-destruction’, can Democrats take the Senate?",
+        "url": "https://www.theguardian.com/us-news/2026/may/09/trumps-low-approval-ratings-republicans-self-destruction-democrats-senate",
+        "description": "Even with the Iran war weighing Trump’s party down, Democrats face a challenge turning the upper chamber blueThe county of Louisa in eastern Iowa is so rural that there is not a single stoplight on...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,9 +47,9 @@
         "category": "economy"
       },
       {
-        "title": "US added 115,000 jobs in April in surprise gain amid Iran war uncertainty",
-        "url": "https://www.theguardian.com/business/2026/may/08/april-jobs-report",
-        "description": "Unemployment remained steady at 4.3% as the US-Israel war on Iran continues to rattle the American economyUS employers added 115,000 jobs in April and the unemployment rate remained steady at 4.3%,...",
+        "title": "UK borrowing costs fall and pound rises after Starmer says he will stay as PM",
+        "url": "https://www.theguardian.com/business/2026/may/08/uk-borrowing-costs-fall-pound-rises-keir-starmer-bond-yields",
+        "description": "Bond yields drop as market fears ease that Labour leader will be replaced by a more leftwing rivalUK government borrowing costs fell and the pound rose on Friday as Keir Starmer vowed to remain as ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "‘It’s about recognising our role in history’: Bradford exhibition to revisit live Somali display",
+        "url": "https://www.theguardian.com/uk-news/2026/may/09/bradford-exhibition-to-revisit-live-somali-display",
+        "description": "At the city’s Great Exhibition of 1904, 57 Somali men, women and children cooked, weaved and danced for visitorsIt was, the posters said, a rare chance to see a “little known but interesting people...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Sexual harassment more than twice as prevalent at England’s top universities, analysis finds",
         "url": "https://www.theguardian.com/education/2026/may/08/sexual-harassment-statistics-england-top-universities-analysis",
         "description": "Harassment reported by 35% of students at ‘high tariff’ institutions compared with 17% at those with lowest entry gradesStudents at England’s leading universities were more than twice as likely to ...",
@@ -156,13 +163,6 @@
         "title": "Historic Oxford cinema under threat as Oriel College refuses to extend lease",
         "url": "https://www.theguardian.com/culture/2026/may/07/historic-oxford-cinema-under-threat-as-oriel-college-refuses-to-extend-lease",
         "description": "The Ultimate Picture Palace opened in 1911 and is housed in a Grade II-listed building in need of renovationThe survival of one of the UK’s oldest independent cinemas is under threat while its land...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Mo Farah urges against possible £120m cut to school sports in England",
-        "url": "https://www.theguardian.com/education/2026/may/07/mo-farah-against-cut-school-sports-england",
-        "description": "Athlete and sport bodies call for rethink after health and education departments each propose £60m funding cutsMo Farah and more than 70 leading UK sporting bodies have demanded the government reth...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,7 +192,7 @@
     ],
     "foreign_policy": [
       {
-        "title": "Putin denounces Nato at scaled back Victory Day parade",
+        "title": "Putin denounces Nato at scaled-back Victory Day parade",
         "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
         "description": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine.",
         "source": "BBC News",
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
-        "url": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
-        "description": "Some on the Spanish island worry the imminent arrival of the MV Hondius could pose a health risk.",
+        "title": "I will serve - not rule over Hungary, says new PM",
+        "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+        "description": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
