@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-05-10T13:16:19.505305+00:00",
+  "fetched_at": "2026-05-10T19:02:18.254869+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Labour MP challenges ministers to trigger leadership contest as Starmer vows to fight on – UK politics live",
+        "title": "Angela Rayner calls blocking Andy Burnham’s return to parliament a mistake as pressure mounts on Keir Starmer – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/10/may-elections-keir-starmer-catherine-west-labour-leadership-nigel-farage-reform-conservatives-kemi-badenoch-richard-tice-bridget-phillipson-uk-politics-latest-news-updates",
-        "description": "Catherine West issues ultimatum for the PM as ex-minister Josh Simons joins calls for prime minister to quitAt the start of her programme Laura Kuenssberg addressed Catherine West and Bridget Phill...",
+        "description": "Catherine West issues ultimatum for PM as ex-minister Josh Simons joins calls for prime minister to quitAt the start of her programme Laura Kuenssberg addressed Catherine West and Bridget Phillipso...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "What’s behind surge in support for Reform and Greens across England? Five key takeaways",
-        "url": "https://www.theguardian.com/politics/2026/may/10/surge-support-greens-reform-across-england-five-key-takeaways",
-        "description": "Significant gains this week lay bare an increasingly fragmented political systemFull results from England, Scotland and WalesLocal elections have fundamentally reshaped the political landscape in E...",
+        "title": "Full nationalisation of British Steel expected in King’s speech",
+        "url": "https://www.theguardian.com/business/2026/may/10/full-nationalisation-of-british-steel-expected-in-kings-speech",
+        "description": "Officials reportedly drafting legislation likely to safeguard Britain’s last blast furnaces and save thousands of jobs The full nationalisation of British Steel is expected to be announced in the K...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Don’t let Farage and Reform divide us, Labour’s Sarwar urges Holyrood leaders",
-        "url": "https://www.theguardian.com/politics/2026/may/10/anas-sarwar-labour-scotland-holyrood-farage-reform-snp",
-        "description": "Scottish Labour leader says he aims to hold SNP to account after his party tied for second with Reform in electionsUK politics live – latest updatesThe Scottish Labour leader, Anas Sarwar, has warn...",
+        "title": "Plaid Cymru leader plans minority Welsh government built on cooperation",
+        "url": "https://www.theguardian.com/politics/2026/may/10/plaid-cymru-leader-plans-minority-welsh-government-cooperation",
+        "description": "Rhun ap Iorwerth says he hopes to work with other parties and press the UK government for extra powersThe leader of Plaid Cymru, Rhun ap Iorwerth, has vowed to form a stable minority government in ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Is Starmer's leadership under serious threat?",
-        "url": "https://www.bbc.com/news/articles/c8d81m665q5o?at_medium=RSS&at_campaign=rss",
-        "description": "Downing Street is trying to ignore the challenge from a former minister, but it has raised eyebrows around Westminster.",
+        "title": "Rayner issues 'last chance' warning to Starmer and backs Burnham to return",
+        "url": "https://www.bbc.com/news/articles/c5yekp5j36zo?at_medium=RSS&at_campaign=rss",
+        "description": "In her first comments since Labour's election defeats, the ex-deputy PM calls for bolder action from the prime minister.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "‘Degree of complacency’: are supply chains prepared for impact of ongoing Iran war?",
+        "url": "https://www.theguardian.com/business/2026/may/10/degree-complacency-supply-chains-prepared-impact-iran-war",
+        "description": "The economic warnings are bleak, but full extent of shortages are still not felt for many European countriesThe biggest energy shock in modern history, jet fuel shortages “within weeks”, a global r...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "With Trump’s low approval rating and Republicans’ ‘self-destruction’, can Democrats take the Senate?",
         "url": "https://www.theguardian.com/us-news/2026/may/09/trumps-low-approval-ratings-republicans-self-destruction-democrats-senate",
@@ -43,13 +50,6 @@
         "title": "US consumer confidence hits record low as Americans fret about rising prices; jobs report beats forecasts – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/may/08/oil-us-iran-ceasefire-uk-house-prices-food-prices-jobs-report-pound-bonds-elections-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial newsUK bond prices have now rallied, after Keir Starmer pledged not to resign and analysts suggested Labour was not doing as badly as feared in...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK borrowing costs fall and pound rises after Starmer says he will stay as PM",
-        "url": "https://www.theguardian.com/business/2026/may/08/uk-borrowing-costs-fall-pound-rises-keir-starmer-bond-yields",
-        "description": "Bond yields drop as market fears ease that Labour leader will be replaced by a more leftwing rivalUK government borrowing costs fell and the pound rose on Friday as Keir Starmer vowed to remain as ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Ethiopian woman's joy at rare quintuplets after 12 years trying for a baby",
-        "url": "https://www.bbc.com/news/articles/c893y34zlv0o?at_medium=RSS&at_campaign=rss",
-        "description": "The woman, 35, says she was praying for a baby and was \"overjoyed\" to be \"blessed with five at once\".",
+        "title": "What is hantavirus and how does it spread?",
+        "url": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&at_campaign=rss",
+        "description": "The Andes strain of the virus, which can rarely be passed from person to person,  has been found among passengers of a cruise ship.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -146,28 +146,35 @@
     ],
     "education": [
       {
+        "title": "‘One of the greatest invisible tragedies’: is the loss of childhood imagination inevitable?",
+        "url": "https://www.theguardian.com/society/ng-interactive/2026/may/11/loss-of-childhood-imagination",
+        "description": "We have created the most stifling and sanitised imaginative space conceivable for children, says teacher Brendan James Murray. Today true imagination has become a radical actThe six children sit to...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
+        "description": "The problem wasn’t just the perfectly polished, yet mediocre prose. It’s what’s lost when we surrender the struggle to translate thought into wordsI have been teaching fiction writing at MIT since ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "‘It’s about recognising our role in history’: Bradford exhibition to revisit live Somali display",
         "url": "https://www.theguardian.com/uk-news/2026/may/09/bradford-exhibition-to-revisit-live-somali-display",
         "description": "At the city’s Great Exhibition of 1904, 57 Somali men, women and children cooked, weaved and danced for visitorsIt was, the posters said, a rare chance to see a “little known but interesting people...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Sexual harassment more than twice as prevalent at England’s top universities, analysis finds",
-        "url": "https://www.theguardian.com/education/2026/may/08/sexual-harassment-statistics-england-top-universities-analysis",
-        "description": "Harassment reported by 35% of students at ‘high tariff’ institutions compared with 17% at those with lowest entry gradesStudents at England’s leading universities were more than twice as likely to ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Historic Oxford cinema under threat as Oriel College refuses to extend lease",
-        "url": "https://www.theguardian.com/culture/2026/may/07/historic-oxford-cinema-under-threat-as-oriel-college-refuses-to-extend-lease",
-        "description": "The Ultimate Picture Palace opened in 1911 and is housed in a Grade II-listed building in need of renovationThe survival of one of the UK’s oldest independent cinemas is under threat while its land...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Renters’ Rights Act could worsen court delays without proper funding | Letters",
+        "url": "https://www.theguardian.com/society/2026/may/10/renters-rights-act-could-worsen-court-delays-without-proper-funding",
+        "description": "Investment in the courts and legal aid will be vital to deal with the expected increase in contested repossession cases, says Mark Evans of the Law Society of England and WalesThe new Renters’ Righ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "‘Everyone was in tears’: the tenants given eviction notices just before ban in England",
         "url": "https://www.theguardian.com/society/2026/may/10/tenants-no-fault-eviction-notices-just-before-ban-england-section-21",
@@ -181,18 +188,11 @@
         "description": "People gather at dusk under the fig tree canopy of Sydney’s Hyde Park to pay tribute to the 32-year-old who died nearby and lay undiscovered for up to a weekFollow our Australia news live blog for ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "The Guardian view on the Renters’ Rights Act: finally, protections fit for the modern housing market | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/05/the-guardian-view-on-the-renters-rights-act-finally-protections-fit-for-the-modern-housing-market",
-        "description": "The rising number of private renters in Britain have for too long put up with chronically insecure tenancy agreements and poor conditionsThe defining trend in British housing in recent decades has ...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "First passengers fly home from virus-hit cruise ship",
+        "title": "Countries airlift nationals evacuated from virus-hit cruise ship",
         "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
         "description": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
         "source": "BBC News",
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
-        "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
-        "description": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
+        "title": "Iran sends response to US proposals to end war",
+        "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+        "description": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
