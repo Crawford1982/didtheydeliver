@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-10T08:06:40.467458+00:00",
+  "fetched_at": "2026-05-10T13:16:19.505305+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer insists he won’t quit as PM as Labour MP challenges ministers to trigger leadership contest – UK politics live",
+        "title": "Labour MP challenges ministers to trigger leadership contest as Starmer vows to fight on – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/may/10/may-elections-keir-starmer-catherine-west-labour-leadership-nigel-farage-reform-conservatives-kemi-badenoch-richard-tice-bridget-phillipson-uk-politics-latest-news-updates",
-        "description": "Former junior minister Catherine West says that unless a cabinet minister comes forward to challenge the PM by Monday, she willAsked if she had a message for Labour MPs asked to support West’s lead...",
+        "description": "Catherine West issues ultimatum for the PM as ex-minister Josh Simons joins calls for prime minister to quitAt the start of her programme Laura Kuenssberg addressed Catherine West and Bridget Phill...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour MP says she will trigger leadership contest by Monday if cabinet does not launch challenge – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/may/09/may-elections-results-keir-starmer-labour-nigel-farage-reform-uk-politics-latest-news-updates",
-        "description": "Catherine West says she will try to get the necessary signatures herself to trigger a leadership contestMapped: how Labour lost ground in different directionsGordon Brown has been appointed as a sp...",
+        "title": "What’s behind surge in support for Reform and Greens across England? Five key takeaways",
+        "url": "https://www.theguardian.com/politics/2026/may/10/surge-support-greens-reform-across-england-five-key-takeaways",
+        "description": "Significant gains this week lay bare an increasingly fragmented political systemFull results from England, Scotland and WalesLocal elections have fundamentally reshaped the political landscape in E...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "MPs from Labour’s left to urge Ed Miliband to consider leadership bid",
-        "url": "https://www.theguardian.com/politics/2026/may/09/mps-from-labours-left-to-urge-ed-miliband-to-consider-leadership-bid",
-        "description": "Starmer faces prospect of challenge as ex-minister says she will try to trigger race if no one in cabinet comes forwardMPs from Labour’s left are expected to urge Ed Miliband to consider a leadersh...",
+        "title": "Don’t let Farage and Reform divide us, Labour’s Sarwar urges Holyrood leaders",
+        "url": "https://www.theguardian.com/politics/2026/may/10/anas-sarwar-labour-scotland-holyrood-farage-reform-snp",
+        "description": "Scottish Labour leader says he aims to hold SNP to account after his party tied for second with Reform in electionsUK politics live – latest updatesThe Scottish Labour leader, Anas Sarwar, has warn...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "GPs and hospitals in England to be required to share data to create single patient records",
+        "url": "https://www.theguardian.com/society/2026/may/10/gps-and-hospitals-in-england-to-be-required-to-share-data-to-create-single-patient-records",
+        "description": "Wes Streeting says legislation will save lives, but GPs are concerned about liability for errors introduced by other providersGPs and hospitals will be required to share patient data under legislat...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Doctors’ union drops opposition to Cass review of NHS gender healthcare",
         "url": "https://www.theguardian.com/world/2026/may/07/doctors-union-cass-review-nhs-gender-healthcare",
         "description": "British Medical Association says review into gender identity services was ‘robust’ after previously rejecting findingsThe trade union representing doctors across the UK has dropped its opposition t...",
@@ -73,13 +80,6 @@
         "title": "Doctors’ archaic attitudes over sterilisation | Letter",
         "url": "https://www.theguardian.com/society/2026/may/06/doctors-archaic-attitudes-over-sterilisation",
         "description": "A reader recalls her experience of trying to obtain a vasectomy for her husband on the NHS in the 1990sReading this article (Woman denied permanent birth control on NHS wins case with ombudsman, 1 ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Opera singer who hid deafness for 30 years hails ‘life-changing’ surgery",
-        "url": "https://www.theguardian.com/society/2026/may/06/opera-singer-hid-deafness-cochlear-implants-life-changing-surgery",
-        "description": "Janine Roebuck, from London, says she no longer considers herself deaf after double cochlear implants restored hearingAn opera singer who hid her deafness for more than 30 years has described “life...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Gullah Geechee people set out to keep their family land. Unclear titles and surging taxes are pushing them out",
+        "url": "https://www.theguardian.com/news/2026/may/10/gullah-geechee-low-country",
+        "description": "Property disputes, predatory developers and surging sea levels are putting the historic Black community at riskOn Arthur Champen’s half-acre property in Hilton Head Island, South Carolina, a thicke...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Airline emissions in Europe top pre-Covid levels despite pledge to decarbonise",
         "url": "https://www.theguardian.com/environment/2026/may/08/airline-emissions-in-europe-top-pre-covid-levels-despite-pledge-to-decarbonise",
         "description": "Promises to cut emissions and use more fuel-efficient planes fail to stop rise, with Ryanair’s carbon footprint 50% up on 2019Emissions from flying in Europe have now passed pre-pandemic levels, wi...",
@@ -126,13 +133,6 @@
         "title": "Inequality causing 100,000 extra deaths a year from heat and cold in Europe",
         "url": "https://www.theguardian.com/environment/2026/may/08/inequality-extra-deaths-heat-cold-europe-climate",
         "description": "Findings come after third-hottest April on record globally and amid fears of more brutal European summer weatherEconomic inequality adds more than 100,000 deaths to the vast toll from heat and cold...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Trump’s Iran war may stymie climate gains with boost to big oil, experts say",
-        "url": "https://www.theguardian.com/us-news/2026/may/07/iran-war-big-oil-climate",
-        "description": "Windfall profits could lock in Trump-era political wins for the industry and slow clean-energy transitionThe billions in profits big oil is reaping due to the Iran war may stymie the energy transit...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "‘Everyone was in tears’: the tenants given eviction notices just before ban in England",
+        "url": "https://www.theguardian.com/society/2026/may/10/tenants-no-fault-eviction-notices-just-before-ban-england-section-21",
+        "description": "Shock and fears for future, including homelessness, after landlords rushed to issue section 21 notices before 1 MayIt was 2pm on 30 April when Carl Kansinde Middleton received a “no fault” eviction...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "‘Came here with hope’ and ‘died unseen’: tearful crowd says goodbye to homeless man Bikram Lama",
         "url": "https://www.theguardian.com/society/2026/may/07/bikram-lama-vigilcame-here-with-hope-and-died-unseen-tearful-crowd-says-goodbye-to-homeless-man-bikram-lama-ntwnfb",
         "description": "People gather at dusk under the fig tree canopy of Sydney’s Hyde Park to pay tribute to the 32-year-old who died nearby and lay undiscovered for up to a weekFollow our Australia news live blog for ...",
@@ -181,20 +188,20 @@
         "description": "The rising number of private renters in Britain have for too long put up with chronically insecure tenancy agreements and poor conditionsThe defining trend in British housing in recent decades has ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Dame Shirley Porter obituary",
-        "url": "https://www.theguardian.com/society/2026/may/05/dame-shirley-porter-obituary",
-        "description": "Former leader of Westminster city council found to have misused her powers in the ‘homes for votes’ scandalThere was a time in the late 1980s when Shirley Porter was the second most famous and powe...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Virus-hit cruise ship arrives in Tenerife as medics await passengers",
+        "title": "First passengers fly home from virus-hit cruise ship",
         "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC's Sarah Rainsford reports from Tenerife where the MV Hondius has arrived, after a deadly hantavirus outbreak.",
+        "description": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
+        "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
+        "description": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Putin says he thinks Ukraine conflict 'coming to an end'",
         "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo?at_medium=RSS&at_campaign=rss",
         "description": "The Russian leader sees potential for Ukraine negotiations, but condemns the West's backing for President Zelensky.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Lebanon says Israeli strikes killed 39",
-        "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-        "description": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
