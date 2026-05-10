@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-10T02:51:09.726722+00:00",
+  "fetched_at": "2026-05-10T08:06:40.467458+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Starmer insists he won’t quit as PM as Labour MP challenges ministers to trigger leadership contest – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/may/10/may-elections-keir-starmer-catherine-west-labour-leadership-nigel-farage-reform-conservatives-kemi-badenoch-richard-tice-bridget-phillipson-uk-politics-latest-news-updates",
+        "description": "Former junior minister Catherine West says that unless a cabinet minister comes forward to challenge the PM by Monday, she willAsked if she had a message for Labour MPs asked to support West’s lead...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Labour MP says she will trigger leadership contest by Monday if cabinet does not launch challenge – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/09/may-elections-results-keir-starmer-labour-nigel-farage-reform-uk-politics-latest-news-updates",
@@ -12,21 +19,14 @@
       {
         "title": "MPs from Labour’s left to urge Ed Miliband to consider leadership bid",
         "url": "https://www.theguardian.com/politics/2026/may/09/mps-from-labours-left-to-urge-ed-miliband-to-consider-leadership-bid",
-        "description": "Keir Starmer set to face challenge as former minister says she will trigger race if no cabinet minister comes forwardMPs from Labour’s left are expected to urge Ed Miliband to consider a leadership...",
+        "description": "Starmer faces prospect of challenge as ex-minister says she will try to trigger race if no one in cabinet comes forwardMPs from Labour’s left are expected to urge Ed Miliband to consider a leadersh...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "‘I’ll talk to work on Monday’: what happens when a ‘paper candidate’ actually wins?",
-        "url": "https://www.theguardian.com/politics/2026/may/09/tyrone-scott-hackney-council-greens-paper-candidate",
-        "description": "Tyrone Scott, who didn’t think he had a hope in the election, wants to help the Greens rebuild ‘community cohesion’ in HackneyYou would expect most political candidates who pull off a shock win to ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Challenge Starmer by Monday or I will, Labour MP tells cabinet",
-        "url": "https://www.bbc.com/news/articles/cx210w87l4do?at_medium=RSS&at_campaign=rss",
-        "description": "Catherine West tells the BBC if a leadership hopeful does not put themselves forward she will try to trigger a contest.",
+        "title": "Is Starmer's leadership under serious threat?",
+        "url": "https://www.bbc.com/news/articles/c8d81m665q5o?at_medium=RSS&at_campaign=rss",
+        "description": "Downing Street is trying to ignore the challenge from a former minister, but it has raised eyebrows around Westminster.",
         "source": "BBC News",
         "category": "government"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Lebanon says Israeli strikes killed 39",
-        "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-        "description": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+        "title": "Virus-hit cruise ship arrives in Tenerife as medics await passengers",
+        "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Sarah Rainsford reports from Tenerife where the MV Hondius has arrived, after a deadly hantavirus outbreak.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Tenerife medics poised for arrival of virus-hit cruise ship",
-        "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-        "description": "BBC's Sarah Rainsford reports from the port in Tenerife where the MV Hondius is soon to dock, after a deadly hantavirus outbreak.",
+        "title": "Lebanon says Israeli strikes killed 39",
+        "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+        "description": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
