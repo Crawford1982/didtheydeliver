@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-10T19:02:18.254869+00:00",
+  "fetched_at": "2026-05-11T03:26:30.321791+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Starmer faces fight to survive as Streeting and Rayner eye leadership bids",
+        "url": "https://www.theguardian.com/politics/2026/may/10/starmer-faces-perilous-24-hours-streeting-readying-leadership-bid",
+        "description": "Chances of Starmer remaining in No 10 appear to be diminishing as about 40 Labour MPs call on him to quitKeir Starmer faces a fight for his political life in the next 24 hours as potential Labour l...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Angela Rayner calls blocking Andy Burnham’s return to parliament a mistake as pressure mounts on Keir Starmer – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/10/may-elections-keir-starmer-catherine-west-labour-leadership-nigel-farage-reform-conservatives-kemi-badenoch-richard-tice-bridget-phillipson-uk-politics-latest-news-updates",
@@ -10,23 +17,16 @@
         "category": "government"
       },
       {
-        "title": "Full nationalisation of British Steel expected in King’s speech",
+        "title": "Full nationalisation of British Steel expected in king’s speech",
         "url": "https://www.theguardian.com/business/2026/may/10/full-nationalisation-of-british-steel-expected-in-kings-speech",
-        "description": "Officials reportedly drafting legislation likely to safeguard Britain’s last blast furnaces and save thousands of jobs The full nationalisation of British Steel is expected to be announced in the K...",
+        "description": "Officials reportedly drafting legislation likely to safeguard Britain’s last blast furnaces and save thousands of jobs The full nationalisation of British Steel is expected to be announced in the k...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Plaid Cymru leader plans minority Welsh government built on cooperation",
-        "url": "https://www.theguardian.com/politics/2026/may/10/plaid-cymru-leader-plans-minority-welsh-government-cooperation",
-        "description": "Rhun ap Iorwerth says he hopes to work with other parties and press the UK government for extra powersThe leader of Plaid Cymru, Rhun ap Iorwerth, has vowed to form a stable minority government in ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Rayner issues 'last chance' warning to Starmer and backs Burnham to return",
-        "url": "https://www.bbc.com/news/articles/c5yekp5j36zo?at_medium=RSS&at_campaign=rss",
-        "description": "In her first comments since Labour's election defeats, the ex-deputy PM calls for bolder action from the prime minister.",
+        "title": "Starmer to promise bolder action as leadership threats mount",
+        "url": "https://www.bbc.com/news/articles/cjwpq1dg5q3o?at_medium=RSS&at_campaign=rss",
+        "description": "The embattled PM will seek to persuade his MPs not to ditch him as Labour leader in a speech on Monday.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "The UK is set for a staycation summer - and there are plenty of hidden gems",
-        "url": "https://www.bbc.com/news/articles/cgjpv9pdnpwo?at_medium=RSS&at_campaign=rss",
-        "description": "Seasoned staycationers share their favourite spots as Airbnb and Booking.com say interest in UK stays are up on last year.",
+        "title": "No summer border delays for Brits, Greek tourism minister says",
+        "url": "https://www.bbc.com/news/articles/cn5pxyr9xr7o?at_medium=RSS&at_campaign=rss",
+        "description": "Olga Kefalogianni says the Greek government doesn't want visitors to be \"burdened\" by biometric checks.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "What is hantavirus and how does it spread?",
-        "url": "https://www.bbc.com/news/articles/c8r8j1l6j0go?at_medium=RSS&at_campaign=rss",
-        "description": "The Andes strain of the virus, which can rarely be passed from person to person,  has been found among passengers of a cruise ship.",
+        "title": "French national shows symptoms on return from hantavirus-hit ship",
+        "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+        "description": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Countries airlift nationals evacuated from virus-hit cruise ship",
-        "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-        "description": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Army parachutes onto remote island to help Briton with suspected hantavirus",
-        "url": "https://www.bbc.com/news/articles/cvgzv77ldpdo?at_medium=RSS&at_campaign=rss",
-        "description": "The specialist team parachuted onto Tristan da Cunha, a remote British overseas territory, to treat them.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Iran sends response to US proposals to end war",
+        "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
         "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
         "description": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
+        "url": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
+        "description": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "French national shows symptoms on return from hantavirus-hit ship",
+        "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
+        "description": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
