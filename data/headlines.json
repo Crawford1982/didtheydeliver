@@ -1,71 +1,71 @@
 {
-  "fetched_at": "2026-05-11T09:37:28.958022+00:00",
+  "fetched_at": "2026-05-11T14:48:09.525114+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Keir Starmer gives major make-or-break speech in attempt to avert leadership challenge – UK politics live",
+        "title": "Starmer’s speech fails to stop more Labour MPs calling for his resignation – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates",
-        "description": "PM tries to convince Labour MPs to back him after Thursday’s election losses and says UK will go ‘down very dark path’ if Labour does not recover Botterill says voters she spoke to during the campa...",
+        "description": "More Labour MPs continue to call for prime minister to set a timetable for his resignationBotterill says voters she spoke to during the campaign felt the country does not work for them. She is a wo...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer faces fight to survive as Streeting and Rayner eye leadership bids",
-        "url": "https://www.theguardian.com/politics/2026/may/10/starmer-faces-perilous-24-hours-streeting-readying-leadership-bid",
-        "description": "Chances of Starmer remaining in No 10 appear to be diminishing as about 40 Labour MPs call on him to quitUK politics live – latest updatesWho are the main threats to Keir Starmer’s Labour leadershi...",
+        "title": "UK gilt yields creep higher as Starmer speech fails to dispel investor ‘jitters’",
+        "url": "https://www.theguardian.com/business/2026/may/11/uk-gilt-yields-creep-higher-as-starmer-speech-fails-to-dispel-investor-jitters",
+        "description": "Cost of government borrowing rises on concerns about potential for political instability and rising inflationBusiness live – latest updatesUK politics live – latest updatesThe cost of government bo...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "2026 elections mapped: how Labour lost ground in different directions",
-        "url": "https://www.theguardian.com/politics/ng-interactive/2026/may/08/2026-elections-mapped-labour-reform-uk-greens-scotland-wales-england-local",
-        "description": "Keir Starmer’s party lost out to Reform and the Greens, with no respite in Scotland, Wales or England. These maps show the scale of the historic resultsFull results from England, Scotland and Wales...",
+        "title": "Seven people barred from coming to UK for far-right rally",
+        "url": "https://www.theguardian.com/politics/2026/may/11/people-barred-from-uk-for-far-right-rally",
+        "description": "Keir Starmer says ‘agitators’ will be blocked from attending Tommy Robinson’s Unite the Kingdom eventUK politics live – latest updatesSeven people hoping to attend a far-right rally in central Lond...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer to promise bolder action as leadership threats mount",
-        "url": "https://www.bbc.com/news/articles/cjwpq1dg5q3o?at_medium=RSS&at_campaign=rss",
-        "description": "The embattled PM will seek to persuade his MPs not to ditch him as Labour leader in a speech on Monday.",
+        "title": "Analysis: Has Starmer done enough to save his premiership?",
+        "url": "https://www.bbc.com/news/articles/c3r2pr95yq0o?at_medium=RSS&at_campaign=rss",
+        "description": "Was the prime minister's speech enough to avert a challenge to his leadership less than two years after he won a landslide general election victory?",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK government borrowing costs rise as pressure mounts on Starmer, and oil price jumps – business live",
+        "title": "UK borrowing costs rise as Starmer speech fails to dispel investor ‘jitters’",
+        "url": "https://www.theguardian.com/business/2026/may/11/uk-gilt-yields-creep-higher-as-starmer-speech-fails-to-dispel-investor-jitters",
+        "description": "Bond yields creep higher on concerns about potential for political instability and rising inflationBusiness live – latest updatesUK politics live – latest updatesThe cost of government borrowing ha...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK government borrowing costs rise as Starmer ‘fails to reassure bond markets’ – business live",
         "url": "https://www.theguardian.com/business/live/2026/may/11/uk-economy-job-losses-iran-war-oil-pound-bonds-politics-starmer-live-updates",
-        "description": "Rolling coverage of the latest economic and financial newsStarmer faces fight to survive as Streeting and Rayner eye leadership bidsGovernment bond yields are rising across the board this morning, ...",
+        "description": "Yields on 10- and 30-year British government bonds have risen today, as investors digest possibility of leadership challengeStarmer faces fight to survive as Streeting and Rayner eye leadership bid...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Oil prices climb after Trump dismisses Iran’s response to peace plan",
-        "url": "https://www.theguardian.com/business/2026/may/11/oil-prices-climb-trump-dismisses-iran-response-us-peace-plan",
-        "description": "Brent crude rises after US president calls overture from Tehran ‘totally unacceptable’Business live – news updatesOil prices have climbed after Donald Trump condemned Iran’s response to US proposal...",
+        "title": "Democrats are playing with fire in trying to reclaim tax cuts from Republicans",
+        "url": "https://www.theguardian.com/business/2026/may/11/democrats-tax-cuts-republicans",
+        "description": "Senator Chris Van Hollen and other Democratic lawmakers are embracing a policy that hardly benefits the middle classSoul-searching within the Democratic party is to be expected after its loss in th...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "US Senate expected to confirm Kevin Warsh as next Federal Reserve chair",
-        "url": "https://www.theguardian.com/business/2026/may/11/senate-kevin-warsh-federal-reserve-chair",
-        "description": "Warsh would succeed outgoing Fed chair Jerome Powell as Trump continues his push to influence the US central bankSign up for the Breaking News US newsletter email The US Senate is expected to confi...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil prices jump after Trump dismisses Iran proposal to end war",
-        "url": "https://www.bbc.com/news/articles/ckgp4ev4yg4o?at_medium=RSS&at_campaign=rss",
-        "description": "The Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments.",
+        "title": "British Steel nationalisation plans announced by Starmer",
+        "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
+        "description": "The steelworks has been under government control for almost a year, but leglistation to nationalise it will be put forward this week.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "GPs and hospitals in England to be required to share data to create single patient records",
-        "url": "https://www.theguardian.com/society/2026/may/10/gps-and-hospitals-in-england-to-be-required-to-share-data-to-create-single-patient-records",
-        "description": "Wes Streeting says legislation will save lives, but GPs are concerned about liability for errors introduced by other providersGPs and hospitals will be required to share patient data under legislat...",
+        "title": "Palantir’s access to identifiable NHS England patient data is ‘dangerous’, MPs say",
+        "url": "https://www.theguardian.com/society/2026/may/11/palantir-access-nhs-england-patient-data",
+        "description": "Health service has given US tech firm ‘unlimited access’ to certain data to build integrated platform, according to reportsUK politics live – latest updatesMPs have warned that an NHS decision to g...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -77,16 +77,16 @@
         "category": "nhs"
       },
       {
-        "title": "Doctors’ union drops opposition to Cass review of NHS gender healthcare",
-        "url": "https://www.theguardian.com/world/2026/may/07/doctors-union-cass-review-nhs-gender-healthcare",
-        "description": "British Medical Association says review into gender identity services was ‘robust’ after previously rejecting findingsThe trade union representing doctors across the UK has dropped its opposition t...",
+        "title": "GPs and hospitals in England to be required to share data to create single patient records",
+        "url": "https://www.theguardian.com/society/2026/may/10/gps-and-hospitals-in-england-to-be-required-to-share-data-to-create-single-patient-records",
+        "description": "Wes Streeting says legislation will save lives, but GPs are concerned about liability for errors introduced by other providersGPs and hospitals will be required to share patient data under legislat...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
         "title": "How worried should we be about hantavirus?",
         "url": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss",
-        "description": "Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public.",
+        "description": "Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Lasers in the sky: hi-tech missions track record snowpack loss in US west",
+        "url": "https://www.theguardian.com/us-news/2026/may/11/critically-low-snowpack-west",
+        "description": "Data from missions showing critically low snowpack on mountains across the west raises alarm among expertsHigh above the jagged peaks of California’s Sierra Nevada, the view from the cockpit is bre...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Gullah Geechee people set out to keep their family land. Unclear titles and surging taxes are pushing them out",
         "url": "https://www.theguardian.com/news/2026/may/10/gullah-geechee-low-country",
         "description": "Property disputes, predatory developers and surging sea levels are putting the historic Black community at riskOn Arthur Champen’s half-acre property in Hilton Head Island, South Carolina, a thicke...",
@@ -126,13 +133,6 @@
         "title": "Airline emissions in Europe top pre-Covid levels despite pledge to decarbonise",
         "url": "https://www.theguardian.com/environment/2026/may/08/airline-emissions-in-europe-top-pre-covid-levels-despite-pledge-to-decarbonise",
         "description": "Promises to cut emissions and use more fuel-efficient planes fail to stop rise, with Ryanair’s carbon footprint 50% up on 2019Emissions from flying in Europe have now passed pre-pandemic levels, wi...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Inequality causing 100,000 extra deaths a year from heat and cold in Europe",
-        "url": "https://www.theguardian.com/environment/2026/may/08/inequality-extra-deaths-heat-cold-europe-climate",
-        "description": "Findings come after third-hottest April on record globally and amid fears of more brutal European summer weatherEconomic inequality adds more than 100,000 deaths to the vast toll from heat and cold...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -176,16 +176,16 @@
         "category": "housing"
       },
       {
-        "title": "‘Everyone was in tears’: the tenants given eviction notices just before ban in England",
-        "url": "https://www.theguardian.com/society/2026/may/10/tenants-no-fault-eviction-notices-just-before-ban-england-section-21",
-        "description": "Shock and fears for future, including homelessness, after landlords rushed to issue section 21 notices before 1 MayIt was 2pm on 30 April when Carl Kansinde Middleton received a “no fault” eviction...",
+        "title": "Thinktank calls for ‘double lock’ England private rent cap to ease living costs",
+        "url": "https://www.theguardian.com/business/2026/may/11/ippr-thinktank-double-lock-england-private-rent-cap-living-costs",
+        "description": "Influential IPPR proposes capping rents at whichever is lower of consumer price inflation or wage growthUK politics live – latest updatesOne of the thinktanks closest to the Labour government is ur...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "‘Came here with hope’ and ‘died unseen’: tearful crowd says goodbye to homeless man Bikram Lama",
-        "url": "https://www.theguardian.com/society/2026/may/07/bikram-lama-vigilcame-here-with-hope-and-died-unseen-tearful-crowd-says-goodbye-to-homeless-man-bikram-lama-ntwnfb",
-        "description": "People gather at dusk under the fig tree canopy of Sydney’s Hyde Park to pay tribute to the 32-year-old who died nearby and lay undiscovered for up to a weekFollow our Australia news live blog for ...",
+        "title": "‘Everyone was in tears’: the tenants given eviction notices just before ban in England",
+        "url": "https://www.theguardian.com/society/2026/may/10/tenants-no-fault-eviction-notices-just-before-ban-england-section-21",
+        "description": "Shock and fears for future, including homelessness, after landlords rushed to issue section 21 notices before 1 MayIt was 2pm on 30 April when Carl Kansinde Middleton received a “no fault” eviction...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-        "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-        "description": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage.",
+        "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+        "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+        "description": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Philippine VP Sara Duterte impeached for a second time",
-        "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
-        "description": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president.",
+        "title": "Washington dinner shooting suspect pleads not guilty",
+        "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
+        "description": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
