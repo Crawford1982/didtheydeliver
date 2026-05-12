@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-05-11T19:45:12.586585+00:00",
+  "fetched_at": "2026-05-12T02:52:03.605697+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Four ministerial aides quit and more than 60 MPs call for Keir Starmer’s resignation as speech fails to quell rebellion – UK politics live",
+        "title": "Why does everyone hate Keir Starmer? – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/may/12/why-does-everyone-hate-keir-starmer-podcast",
+        "description": "Aditya Chakrabortty on the Labour leader’s predicament – and if he may be the last prime minister of the two-party systemIn these highly polarised times, dunking on the prime minister – and this PM...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Senior cabinet ministers and more than 70 MPs call for Keir Starmer’s resignation as speech fails to quell rebellion – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/11/keir-starmer-labour-leadership-speech-angela-rayner-wes-streeting-andy-burnham-catherine-west-may-elections-uk-politics-latest-news-updates",
-        "description": "Labour MPs say prime minister did not ‘did not speak clearly enough’ this morning and urged him to set a timetable for his exitBotterill says voters she spoke to during the campaign felt the countr...",
+        "description": "Home secretary Shabana Mahmood reported to be among those who have told the PM to consider his position.Botterill says voters she spoke to during the campaign felt the country does not work for the...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Newly elected Reform councillor resigns after social media claims",
-        "url": "https://www.theguardian.com/politics/2026/may/11/newly-elected-reform-councillor-resigns-stuart-prior-social-media",
-        "description": "Stuart Prior quits as scrutiny grows of new councillors accused of racist, antisemitic or anti-Muslim remarksA Reform UK councillor has resigned days after being elected, after he allegedly celebra...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "More than 60 Labour MPs call on Starmer to set timetable to quit",
+        "title": "Starmer on the brink as cabinet ministers urge him to quit",
         "url": "https://www.theguardian.com/politics/2026/may/11/more-than-60-labour-mps-call-on-starmer-to-set-timetable-to-quit",
-        "description": "Move comes after PM insisted he would prove his doubters wrong and fight any leadership challengeUK politics live – latest updatesMore than 60 MPs have called on Keir Starmer to set a timetable to ...",
+        "description": "Exclusive: Yvette Cooper and Shabana Mahmood believed to be among those telling PM to oversee orderly departure hours after he said he would fight any challengeKeir Starmer’s grip on power appeared...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "PM under pressure as aides quit and MPs call for him to resign",
         "url": "https://www.bbc.com/news/articles/c7v9r38d24do?at_medium=RSS&at_campaign=rss",
-        "description": "Nearly 60 Labour MPs have publicly urged the PM either to resign immediately or set out a timetable to stand down.",
+        "description": "Over 70 Labour MPs have publicly urged the PM either to resign immediately or set out a timetable to stand down.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "UK households cut back spending at fastest rate in 18 months, Barclays says",
+        "url": "https://www.theguardian.com/business/2026/may/12/uk-households-cut-spending-barclays-credit-card-iran-war",
+        "description": "Dip in credit card spending in April, particularly on travel, suggests Britons preparing for harder times amid Iran war falloutHouseholds cut back on their spending in April at the fastest pace in ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "UK government borrowing costs rise as Starmer ‘fails to reassure bond markets’ – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/may/11/uk-economy-job-losses-iran-war-oil-pound-bonds-politics-starmer-live-updates",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Democrats are playing with fire in trying to reclaim tax cuts from Republicans",
-        "url": "https://www.theguardian.com/business/2026/may/11/democrats-tax-cuts-republicans",
-        "description": "Senator Chris Van Hollen and other Democratic lawmakers are embracing a policy that hardly benefits the middle classSoul-searching within the Democratic party is to be expected after its loss in th...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "British Steel nationalisation plans announced by Starmer",
-        "url": "https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss",
-        "description": "The steelworks has been under government control for almost a year, but leglistation to nationalise it will be put forward this week.",
+        "title": "How driving test booking is changing for learner drivers",
+        "url": "https://www.bbc.com/news/articles/ckgpl9zdw3po?at_medium=RSS&at_campaign=rss",
+        "description": "From 12 May, only learner drivers can book their own tests, not instructors.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "UK alcohol deaths fall for first time since Covid pandemic",
-        "url": "https://www.bbc.com/news/articles/c3v2dxg79w2o?at_medium=RSS&at_campaign=rss",
-        "description": "Experts say the “modest reduction” is “not cause for complacency”, with calls to redouble efforts to slash deaths further.",
+        "title": "How worried should we be about hantavirus?",
+        "url": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss",
+        "description": "Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Birmingham City University urged not to axe Black studies MA",
+        "url": "https://www.theguardian.com/education/2026/may/12/birmingham-city-university-urged-not-to-axe-black-studies-ma",
+        "description": "More than 100 figures sign open letter criticising closure, just months after MA was launchedMore than 100 academics, writers and activists from around the world have signed an open letter condemni...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Cambridge University seeks deal with Saudi defence ministry despite rights concerns",
         "url": "https://www.theguardian.com/education/2026/may/11/cambridge-university-judge-business-school-saudi-defence-ministry",
         "description": "Senior academics describe the Judge business school’s proposal to provide services and training as ‘horrifying’Cambridge University’s business school is seeking to provide “leadership development” ...",
@@ -156,13 +163,6 @@
         "title": "‘One of the greatest invisible tragedies’: is the loss of childhood imagination inevitable?",
         "url": "https://www.theguardian.com/society/ng-interactive/2026/may/11/loss-of-childhood-imagination",
         "description": "We have created the most stifling and sanitised imaginative space conceivable for children, says teacher Brendan James Murray. Today true imagination has become a radical actThe six children sit to...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
-        "description": "The problem wasn’t just the perfectly polished, yet mediocre prose. It’s what’s lost when we surrender the struggle to translate thought into wordsI have been teaching fiction writing at MIT since ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "US and French nationals test positive for hantavirus after leaving ship",
-        "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
-        "description": "The American national has arrived in Nebraska, while a French woman is isolating in Paris.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
-        "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
-        "description": "Two people are being monitored in Atlanta, while 16 others are in Nebraska at the nation's only national quarantine unit.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
         "title": "Trump says Iran ceasefire is on 'massive life support'",
         "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
         "description": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+        "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+        "description": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Last passengers leave virus-hit cruise ship as three more test positive",
+        "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+        "description": "An American and a French national who have returned home have tested positive for hantavirus.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
