@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-05-12T19:50:08.310264+00:00",
+  "fetched_at": "2026-05-13T02:56:39.886386+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Streeting to meet Starmer on Wednesday as the prime minister defies calls to step down – UK politics live",
+        "title": "Labour must fulfil promise to introduce clean air act, charities urge",
+        "url": "https://www.theguardian.com/environment/2026/may/13/labour-must-fulfil-promise-to-introduce-clean-air-act-charities-urge",
+        "description": "Party held out prospect of act while in opposition but plan did not make it into election manifestoMinisters should bring forward a new clean air act that would ban wood burning, clear diesel vehic...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Starmer hopes to regain momentum with unveiling of dozens of bills in king’s speech",
+        "url": "https://www.theguardian.com/politics/2026/may/12/starmer-bills-kings-speech",
+        "description": "Planned legislation includes housing, immigration and energy measures, and comes amid awkwardness with the palace over Charles’s roleKeir Starmer will attempt to regain the political initiative on ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Streeting to meet Starmer on Wednesday as the prime minister defies calls to step down – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/12/keir-starmer-prime-minister-resignation-labour-leadership-cabinet-meeting-yvette-cooper-shabana-mahmood-andy-burnham-wes-streeting-uk-politics-latest-news-updates",
         "description": "A number of Streeting’s allies resigned from their ministerial posts on Tuesday and called for Keir Starmer to quitStarmer tells cabinet he will not quit without leadership challengeHere are some p...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Online safety campaigners reveal Starmer frustrations after Phillips exit",
-        "url": "https://www.theguardian.com/politics/2026/may/12/online-safety-campaigners-reveal-starmer-frustrations-after-phillips-exit",
-        "description": "PM accused of dragging heels on forcing tech firms to block transmission of nude photos on children’s phonesInternet safety and children’s rights campaigners say they have been frustrated for month...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "JP Morgan could scrap £3bn London HQ if Starmer is replaced by PM ‘hostile to banks’",
-        "url": "https://www.theguardian.com/business/2026/may/12/jamie-dimon-jp-morgan-could-scrap-new-3bn-hq-if-starmer-is-replaced-by-pm-hostile-to-banks",
-        "description": "Jamie Dimon says US banking giant could rethink Canary Wharf tower if a future Labour leader targets lendersThe boss of JP Morgan, Jamie Dimon, has warned he could scrap plans to build a new £3bn U...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Phillips among four ministers to quit as Starmer battles for premiership",
+        "title": "Starmer to meet Streeting as leadership crisis divides Labour",
         "url": "https://www.bbc.com/news/articles/cx21jkmxd42o?at_medium=RSS&at_campaign=rss",
-        "description": "The Labour MP says there's \"nothing bold\" about Sir Keir's approach, after he vowed to fight on.",
+        "description": "The meeting comes after four ministers resigned and more than 80 Labour MPs called for Sir Keir to go.",
         "source": "BBC News",
         "category": "government"
       }
@@ -35,7 +35,14 @@
       {
         "title": "Investor jitters over Starmer uncertainty drive UK borrowing costs to 28-year high",
         "url": "https://www.theguardian.com/business/2026/may/12/uk-borrowing-costs-keir-starmer-bond-yields-pound-dollar-labour",
-        "description": "Bond yields soar and pound falls against dollar as investors brace for potential Labour leadership changeUK politics live – latest updatesLong-term UK borrowing costs soared to the highest level in...",
+        "description": "Bond yields soar and pound falls against dollar as investors brace for potential Labour leadership changeLong-term UK borrowing costs soared to the highest level in almost three decades on Tuesday ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Three-quarters of UK millionaires would be happy to pay more tax, research finds",
+        "url": "https://www.theguardian.com/news/2026/may/13/three-quarters-uk-millionaires-willing-pay-more-tax-research-finds",
+        "description": "Despite concerns super-rich are leaving due to tax burdens, 88% of those surveyed were proud to live in UK and would pay more to fund public servicesNine in 10 UK millionaires are proud to live in ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,14 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "US inflation jumped to 3.8% in April as war with Iran continues to drive up prices",
-        "url": "https://www.theguardian.com/business/2026/may/12/us-inflation-april-iran-war",
-        "description": "Prices rose 3.8% over the last year, according to Bureau of Labor Statistics data, highest jump since 2023Sign up for the Breaking News US newsletter emailUS inflation jumped to 3.8% in April as th...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Sam Altman: Elon Musk said control of OpenAI should go to his children",
+        "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
         "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
         "description": "Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing.",
         "source": "BBC News",
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "How worried should we be about hantavirus?",
-        "url": "https://www.bbc.com/news/articles/c98r199e195o?at_medium=RSS&at_campaign=rss",
-        "description": "Passengers potentially exposed to hantavirus are being repatriated, so what is the risk to the wider public?",
+        "title": "Daily pill to help keep weight off after stopping obesity jabs",
+        "url": "https://www.bbc.com/news/articles/cwy2e9wlvjxo?at_medium=RSS&at_campaign=rss",
+        "description": "The tablet - orforglipron - is available in the US and could soon launch in the UK.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -162,7 +162,7 @@
       {
         "title": "Youth mobility scheme disagreement hampering reset of UK-EU relations",
         "url": "https://www.theguardian.com/politics/2026/may/12/youth-mobility-scheme-disagreement-hampering-reset-uk-eu-relations",
-        "description": "Deal was expected by end of month but talks hit buffers over cap on number of people entering UK and tuition feesUK politics live – latest updatesEurope live – latest updatesSignificant gaps remain...",
+        "description": "Deal was expected by end of month but talks hit buffers over cap on number of people entering UK and tuition feesSignificant gaps remain in negotiations on the reset in relations between the UK and...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "A decade on, Trump returns to a stronger and more assertive China",
+        "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
+        "description": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "No sign of larger hantavirus outbreak, says UN health agency",
         "url": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
         "description": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump says Iran ceasefire is on 'massive life support'",
-        "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Lebanon says two paramedics among 10 killed in Israeli strikes",
-        "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
-        "description": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
+        "title": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
+        "url": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
+        "description": "The government hopes reforms will help young people enter the market, while critics say it will stifle supply.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
