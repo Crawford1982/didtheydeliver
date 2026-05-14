@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-05-14T14:08:50.200785+00:00",
+  "fetched_at": "2026-05-14T19:44:14.408036+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reeves seizes on surprise UK growth as evidence Labour leadership must stay",
-        "url": "https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data",
-        "description": "Chancellor says ‘now not the time to put economic stability at risk’ as ONS records 0.3% growth in first month of Iran warBusiness live – latest updatesAnalysis: Reeves says ‘if economy ain’t broke...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Streeting resigns as health secretary but stops short of launching leadership bid - UK politics live",
+        "title": "Starmer will not attempt to block Burnham from standing to be MP in Makerfield - UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/may/14/angela-rayner-says-starmer-should-reflect-on-stepping-aside-after-hmrc-clears-her-over-tax-affairs-uk-politics-live",
-        "description": "Streeting calls on PM to resign and implies that he would stand as a candidate in a leadership contestAl Carns, the defence minister first elected in 2024, will launch his own leadership bid if a c...",
+        "description": "Announcing he would step down as an MP, Labour’s Josh Simons said: ‘I am standing aside so that Andy Burnham can return to his home’Al Carns, the defence minister first elected in 2024, will launch...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Wes Streeting’s resignation letter – what he said and what he meant",
-        "url": "https://www.theguardian.com/politics/2026/may/14/wes-streeting-resignation-letter-what-he-said-and-what-he-meant",
-        "description": "The key points in the health secretary’s long letter to Keir Starmer decodedUK politics live – latest updatesAs resignation letters go it is long – two pages and nearly 1,000 words – and relatively...",
+        "title": "Who is Josh Simons, the Labour MP who quit for Andy Burnham?",
+        "url": "https://www.theguardian.com/politics/2026/may/14/who-is-josh-simons-labour-mp-andy-burnham",
+        "description": "Makerfield MP is an ambitious Labour figure who only won the seat two years agoUK politics live – latest updates“He’s burned bright and briefly,” says one MP of Josh Simons. At the age of 32, the M...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "At a glance: Starmer fights to stay on as prime minister",
-        "url": "https://www.bbc.com/news/articles/c8jv1mzzkjgo?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister is fighting to stay on in No 10 as heavy election losses trigger a Labour revolt.",
+        "title": "Labour MP to stand down to allow Burnham run for byelection amid leadership row",
+        "url": "https://www.theguardian.com/politics/2026/may/14/labour-mp-to-stand-down-to-allow-burnham-run-for-byelection-amid-leadership-row",
+        "description": "Greater Manchester mayor would need to win Josh Simons’s former seat to launch challenge against Starmer UK politics live – latest updatesAndy Burnham now has a route back to parliament after the L...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Streeting resigns and criticises government's 'drift'",
+        "url": "https://www.bbc.com/news/articles/cgkpr6y3266o?at_medium=RSS&at_campaign=rss",
+        "description": "Streeting says he has lost confidence in Sir Keir Starmer and calls for a debate about \"what comes next\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Reeves warns against risking economic stability with leadership battle, after UK growth beats forecasts in March – business live",
-        "url": "https://www.theguardian.com/business/live/2026/may/14/uk-gdp-report-economic-growth-iran-war-rachel-reeves-bond-yields-live-updates",
-        "description": "Chancellor warns against plunging the country ‘into chaos’ with leadership battle, after economy grows at fastest pace in a year in Q1 2026UK economy records surprise 0.3% growth despite Iran warAn...",
+        "title": "The gilt market will hover over any Labour leadership contest | Nils Pratley",
+        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/14/the-gilt-market-will-hover-over-any-labour-leadership-contest",
+        "description": "The Iran war is the bigger story – but the bond market is primed to deliver a kick if extreme positions arise from a formal raceIt is a mistake to think every twitch in the price of UK government d...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Labor’s budget will benefit the young – but does little to woo voters drawn to One Nation",
+        "url": "https://www.theguardian.com/australia-news/2026/may/15/australia-2026-budget-labor-one-nation-voters-ntwnfb",
+        "description": "Jim Chalmers’ budget tips the scales in favour of younger and less well-off households – but it’s middle-class gen X that are turning to the rightwing partyExplore all of our 2026 Australia federal...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -43,13 +50,6 @@
         "title": "Reeves seizes on surprise UK growth as evidence Labour leadership must stay",
         "url": "https://www.theguardian.com/business/2026/may/14/uk-economy-records-surprise-growth-first-month-iran-war-ons-data",
         "description": "Chancellor says ‘now not the time to put economic stability at risk’ as ONS records 0.3% growth in first month of Iran warBusiness live – latest updatesAnalysis: Reeves says ‘if economy ain’t broke...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Rachel Reeves suggests if it ain’t broke, don’t fix it - as fight to keep her job goes on",
-        "url": "https://www.theguardian.com/business/2026/may/14/rachel-reeves-uk-economy-gdp-boost",
-        "description": "The GDP boost has raised the chancellor’s prospects for staying in post, whoever wins the Labour leadership battleBusiness live – latest updatesUK economy records surprise 0.3% growth despite Iran ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -63,23 +63,23 @@
     ],
     "nhs": [
       {
-        "title": "Hospital waiting times in England have improved, Streeting says",
+        "title": "Waiting times for hospital treatment in England hit key target, figures show",
         "url": "https://www.theguardian.com/society/2026/may/14/wes-streeting-nhs-hospitals-england-key-target-improved-waiting-times",
-        "description": "Outgoing health secretary declares Labour’s ‘plan for the NHS is working’ as hospitals hit key targetHospitals in England have hit a key target for improving the time it takes patients to get treat...",
+        "description": "Outgoing health secretary declares Labour’s ‘plan for the NHS is working’,  though experts question how goal was reachedHospitals in England have hit a key target for improving the time it takes pa...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "You’ve heard the king’s speech – but I think a better one might run like this | David Blunkett",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/14/kings-speech-david-blunkett-government-cost-of-living",
-        "description": "If I were in government I’d propose a very different response to the challenges we face – starting with protecting people from the cost of livingDavid Blunkett was Labour home secretary from 2001 t...",
+        "title": "Starmer will not attempt to block Burnham from standing to be MP in Makerfield - UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/may/14/angela-rayner-says-starmer-should-reflect-on-stepping-aside-after-hmrc-clears-her-over-tax-affairs-uk-politics-live",
+        "description": "Announcing he would step down as an MP, Labour’s Josh Simons said: ‘I am standing aside so that Andy Burnham can return to his home’Al Carns, the defence minister first elected in 2024, will launch...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Rise in sickle cell disease prompts NHS call for more Black blood donors",
-        "url": "https://www.theguardian.com/society/2026/may/14/rise-in-sickle-cell-disease-prompts-call-for-black-blood-donors",
-        "description": "Exclusive: Demand for blood to treat the rare disorder has soared by 132% in 10 yearsDemand for blood needed to treat rare disorders such as sickle cell has soared by more than 130% in 10 years, fo...",
+        "title": "Wes Streeting vowed to fix ‘broken’ NHS but critics say he failed to deliver",
+        "url": "https://www.theguardian.com/politics/2026/may/14/wes-streeting-vowed-fix-broken-nhs-critics-failed",
+        "description": "NHS experts and MPs say he ‘told a good story’ as health secretary while kicking difficult cans down the roadUK politics live – latest updatesWes Streeting’s 22 months in office were characterised ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Watchdog groups urge Senate to investigate Samuel Alito over oil stock conflicts",
+        "url": "https://www.theguardian.com/us-news/2026/may/14/alito-stock-conflicts-senate-investigation",
+        "description": "Groups say supreme court justice, who owns oil stocks, may be violating ethics codes by participating in certain casesThe supreme court justice Samuel Alito, who owns stock in oil companies, may be...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "UN members prepare for pivotal vote on landmark ICJ climate justice ruling",
         "url": "https://www.theguardian.com/world/2026/may/14/un-members-prepare-for-pivotal-vote-on-landmark-icj-climate-justice-ruling",
         "description": "If resolution is passed, governments will recognise their legal responsibility to cut greenhouse gas emissionsThe UN’s willingness to tackle the climate crisis in a fair and legal way will be teste...",
@@ -126,13 +133,6 @@
         "title": "‘Irresponsible’: backlash as Utah approves datacenter twice the size of Manhattan",
         "url": "https://www.theguardian.com/us-news/2026/may/13/utah-approves-datacenter-backlash",
         "description": "Facility would require more power than entire state uses and suck up vast amount of water in drought-stricken areaA plan to create one of the world’s largest datacenters, a gargantuan project spann...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Datacentres should be forced to invest in wind and solar energy, all states agree – except Queensland",
-        "url": "https://www.theguardian.com/environment/2026/may/12/datacentres-australia-wind-solar-energy-investment",
-        "description": "State and federal energy ministers say investments in new renewable energy and storage should ‘fully offset’ new datacentres’ energy needsFollow our Australia news live blog for latest updatesGet o...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Former Nigerian minister sentenced to 75 years in rare corruption verdict",
-        "url": "https://www.bbc.com/news/articles/c0j296392j1o?at_medium=RSS&at_campaign=rss",
-        "description": "Former Power Minister Saleh Mamman was convicted last week - but the authorities do not know his whereabouts.",
+        "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+        "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+        "description": "Two children are among at least 12 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
