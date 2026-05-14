@@ -1,18 +1,18 @@
 {
-  "fetched_at": "2026-05-13T19:53:08.750808+00:00",
+  "fetched_at": "2026-05-14T03:21:41.828425+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Wes Streeting prepares to launch leadership challenge against Keir Starmer",
-        "url": "https://www.theguardian.com/politics/2026/may/13/wes-streeting-prepares-to-launch-leadership-challenge-against-keir-starmer",
-        "description": "Health secretary’s move to force race sparks scramble on left of Labour for candidate to oppose himUK politics live – latest updatesWes Streeting is preparing to launch a leadership challenge again...",
+        "title": "Keir Starmer sets out changes to education, health and courts in king’s speech",
+        "url": "https://www.theguardian.com/politics/2026/may/13/starmer-sets-out-changes-to-education-health-and-courts-in-kings-speech",
+        "description": "King Charles unveils government agenda for the next year as PM faces leadership threat from within LabourKeir Starmer attempted to reassert his authority over his restive party on Wednesday, announ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Keir Starmer sets out changes to education, health and courts in king’s speech",
-        "url": "https://www.theguardian.com/politics/2026/may/13/starmer-sets-out-changes-to-education-health-and-courts-in-kings-speech",
-        "description": "King Charles unveils government agenda for the next year as PM faces leadership threat from within LabourUK politics live – latest updatesKeir Starmer on Wednesday looked to reassert his authority ...",
+        "title": "Wes Streeting prepares to launch leadership challenge against Keir Starmer",
+        "url": "https://www.theguardian.com/politics/2026/may/13/wes-streeting-prepares-to-launch-leadership-challenge-against-keir-starmer",
+        "description": "Health secretary’s move to force race sparks scramble on left of Labour for candidate to oppose himWes Streeting is preparing to launch a leadership challenge against Keir Starmer on Thursday if th...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Starmer hopes to save his job with promise of change - and warnings of chaos",
-        "url": "https://www.bbc.com/news/articles/c392djn3zzdo?at_medium=RSS&at_campaign=rss",
-        "description": "There is a big moment coming in the next 24 hours, for Sir Keir Starmer and for would-be challengers to the prime minister.",
+        "title": "Starmer warns of 'chaos' amid speculation about challenge",
+        "url": "https://www.bbc.com/news/articles/cvgzv4eqdrno?at_medium=RSS&at_campaign=rss",
+        "description": "Health Secretary Wes Streeting is thought to be plotting a Labour leadership challenge as early as Thursday.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,32 +54,32 @@
         "category": "economy"
       },
       {
-        "title": "Tui sees summer sales fall 10% due to cautious UK customers",
-        "url": "https://www.bbc.com/news/articles/ce8p31ngv90o?at_medium=RSS&at_campaign=rss",
-        "description": "The travel operator says customers are delaying booking holidays over Iran war concerns.",
+        "title": "Higher Europe air fares 'inevitable', says industry head",
+        "url": "https://www.bbc.com/news/articles/clyprnelzxzo?at_medium=RSS&at_campaign=rss",
+        "description": "Flying by air will get more expensive as oil prices remain high after the US and Israel's conflict with Iran.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
+        "title": "NHS drugs go-ahead offers lifeline to children with rare muscle-wasting disease",
+        "url": "https://www.theguardian.com/society/2026/may/14/nhs-drugs-go-ahead-offers-lifeline-to-children-with-rare-muscle-wasting-disease",
+        "description": "Medicines watchdog approves two treatments for patients with spinal muscular atrophyHundreds of children with a rare muscle-wasting disease will be able to receive two drugs that can improve their ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Weight gain as adult increases cancer risk by up to five times, research shows",
+        "url": "https://www.theguardian.com/society/2026/may/13/weight-gain-adulthood-raises-cancer-risk-by-up-to-five-times-research",
+        "description": "Swedish study of 600,000 patients between 17 and 60 years old suggests there is no safe age to get heavierGaining weight as an adult increases the risk of cancer by up to five times, according to r...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Six from hantavirus cruise ship leave Arrowe Park hospital to isolate at home",
         "url": "https://www.theguardian.com/world/2026/may/13/six-from-hantavirus-cruise-ship-leave-arrowe-park-hospital-to-isolate-at-home",
         "description": "Passengers will remain in isolation for 45 days of isolation, with health officials confirming they remain asymptomaticSix people who were evacuated from the cruise ship affected by a hantavirus ou...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "One in seven in UK prefer consulting AI chatbots to seeing doctor, study finds",
-        "url": "https://www.theguardian.com/society/2026/may/13/one-in-seven-prefer-ai-chatbots-to-seeing-doctor-uk-study",
-        "description": "Exclusive: Doctors say ‘highly concerning’ poll highlights risk to patients of turning to AI for medical adviceOne in seven people are using AI chatbots for health advice instead of seeing their GP...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "The king’s speech: what is the government’s legislative agenda for the next 12 months?",
-        "url": "https://www.theguardian.com/politics/2026/may/13/kings-speech-government-keir-starmer-legislative-agenda-next-12-months",
-        "description": "Keir Starmer set out bills to abolish NHS England, overhaul Send provision, limit jury trials and forge ties with EUKeir Starmer has laid out long-promised changes to education, health and the cour...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -178,7 +178,7 @@
       {
         "title": "‘This is not a World Cup for the people’: residents in host cities sound alarm over housing affordability",
         "url": "https://www.theguardian.com/us-news/2026/may/13/fifa-world-cup-cost",
-        "description": "Organizers are concerned Fifa tournament will deepen housing crisis as short-term listings spawn and unhoused people are further displaced in sweepsMore than 10 million people are expected to visit...",
+        "description": "Organizers fear Fifa event will deepen crisis as short-term listings proliferate and sweeps displace unhoused peopleMore than 10 million people are expected to visit the US for the World Cup this s...",
         "source": "The Guardian",
         "category": "housing"
       },
