@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-15T19:27:34.254705+00:00",
+  "fetched_at": "2026-05-16T02:48:46.299221+00:00",
   "headlines": {
     "government": [
       {
@@ -26,7 +26,7 @@
       {
         "title": "Burnham cleared to run for selection in pivotal by-election",
         "url": "https://www.bbc.com/news/articles/ckgp2e0rrj4o?at_medium=RSS&at_campaign=rss",
-        "description": "If the Greater Manchester mayor goes on to the win the by-election, he would be able to launch a leadership challenge against the PM.",
+        "description": "If the Greater Manchester mayor goes on to win the by-election, he would be able to launch a leadership challenge against the PM.",
         "source": "BBC News",
         "category": "government"
       }
@@ -93,16 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "UK ministers accused of weakening legal protections for torture victims",
-        "url": "https://www.theguardian.com/uk-news/2026/may/14/uk-ministers-accused-weakening-legal-protections-torture-victims-seeking-asylum",
-        "description": "Council of Europe members plan to change interpretation of ECHR to make it easier to deport refused asylum seekersKeir Starmer’s government has been accused of trying to water down legal protection...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
         "title": "UK joins European deal to send rejected asylum seekers to third-country hubs",
         "url": "https://www.theguardian.com/world/2026/may/15/uk-joins-european-deal-to-send-rejected-asylum-seekers-to-third-country-hubs",
-        "description": "All 46 Council of Europe members sign agreement ‘deplored’ by human rights organisationsThe UK and 45 other European countries have signed an agreement that explicitly endorses plans to send unwant...",
+        "description": "All 46 Council of Europe members sign agreement ‘deplored’ by human rights organisations The UK and 45 other European countries have signed an agreement that explicitly endorses plans to send unwan...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -110,6 +103,13 @@
         "title": "Why rights groups fear new ECHR declaration could weaken migrant protections",
         "url": "https://www.theguardian.com/law/2026/may/15/rights-groups-fear-echr-declaration-weaken-migrant-protections",
         "description": "Political statement agreed by all 46 Council of Europe states could give them more leeway to carry out deportationsA political declaration aimed at clarifying key aspects of the European convention...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Experience: I smuggled myself out of the UK",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/may/15/experience-i-smuggled-myself-out-of-the-uk",
+        "description": "We were locked in a box in a lorry for 12 hours. I’ve never been so terrifiedI escaped from my home, Soran, in the Erbil area of northern Iraq, in 2011 when I was 19 years old. My life was in dange...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+        "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
         "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
         "description": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
-        "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-        "description": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+        "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+        "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
