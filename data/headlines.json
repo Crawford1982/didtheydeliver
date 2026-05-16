@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-16T02:48:46.299221+00:00",
+  "fetched_at": "2026-05-16T08:02:51.854728+00:00",
   "headlines": {
     "government": [
       {
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Declare climate crisis a global public health emergency, experts tell WHO",
+        "url": "https://www.theguardian.com/environment/2026/may/16/who-should-declare-climate-crisis-global-public-health-emergency-experts-say",
+        "description": "Exclusive: Commission says alert would trigger coordinated international response that could help avoid millions dyingThe climate crisis should be declared a global public health emergency by the W...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Ban private jets and cut speed limits to avert UK fuel crisis, say campaigners",
         "url": "https://www.theguardian.com/environment/2026/may/15/ban-private-jets-cut-speed-limits-uk-fuel-crisis",
         "description": "Climate and transport organisations warn ministers not to ‘sleepwalk into crisis’ amid Iran war oil and gas shortagesPrivate jets should be banned and the speed limit on UK motorways reduced to 60m...",
@@ -126,13 +133,6 @@
         "title": "Watchdog groups urge Senate to investigate Samuel Alito over oil stock conflicts",
         "url": "https://www.theguardian.com/us-news/2026/may/14/alito-stock-conflicts-senate-investigation",
         "description": "Groups say supreme court justice, who owns oil stocks, may be violating ethics codes by participating in certain casesThe supreme court justice Samuel Alito, who owns stock in oil companies, may be...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "UN members prepare for pivotal vote on landmark ICJ climate justice ruling",
-        "url": "https://www.theguardian.com/world/2026/may/14/un-members-prepare-for-pivotal-vote-on-landmark-icj-climate-justice-ruling",
-        "description": "If resolution is passed, governments will recognise their legal responsibility to cut greenhouse gas emissionsThe UN’s willingness to tackle the climate crisis in a fair and legal way will be teste...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Record numbers of UK renters crowdfunding to cover bills",
+        "url": "https://www.theguardian.com/society/2026/may/16/record-numbers-of-uk-renters-crowdfunding-to-cover-bills",
+        "description": "Rent donations on GoFundMe up 60% since 2022, with 100,000 donors helping people keep a roof over their headsA record number of people in the UK are turning to crowdfunding to cover rent and househ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Rise in deed theft across US prompts crackdown in New York City",
         "url": "https://www.theguardian.com/us-news/2026/may/15/nyc-american-deed-theft-crisis",
         "description": "After more than 500 deed theft complaints last year, Zohran Mamdani pushes crackdown effortNurul Islamnuru, an immigrant from Bangladesh, rented a one-bedroom apartment in Queens, New York, with hi...",
@@ -179,13 +186,6 @@
         "title": "Why do we keep building on land at risk of flooding?",
         "url": "https://www.theguardian.com/society/video/2026/may/14/why-do-we-keep-building-on-land-at-risk-of-flooding",
         "description": "A recent study by Aviva found that one in nine new homes in England are being built on land at risk of flooding – often entirely within planning rules. Josh Toussaint-Strauss investigates how the s...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "The king’s speech: what is the government’s legislative agenda for the next 12 months?",
-        "url": "https://www.theguardian.com/politics/2026/may/13/kings-speech-government-keir-starmer-legislative-agenda-next-12-months",
-        "description": "Keir Starmer set out bills to abolish NHS England, overhaul Send provision, limit jury trials and forge ties with EUKeir Starmer has laid out long-promised changes to education, health and the cour...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
-        "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
+        "title": "Trump says senior IS leader killed by US and Nigerian forces",
+        "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
