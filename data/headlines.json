@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-16T08:02:51.854728+00:00",
+  "fetched_at": "2026-05-16T13:19:46.730897+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Tens of thousands march through London for far-right and pro-Palestine protests – live",
+        "url": "https://www.theguardian.com/uk-news/live/2026/may/16/far-right-unite-the-kingdom-rally-tommy-robinson-london-nakba-day-march-latest-news-updates",
+        "description": "Police say 11 arrested ‘for a variety of offences’ as far right and pro-Palestine marches take place in LondonCommenting on today’s policing operation in London, the Met Police said they had made t...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "A third of Britons believe they have changed social class, survey finds",
+        "url": "https://www.theguardian.com/inequality/2026/may/16/social-class-working-upper-changed-attest-survey-uk",
+        "description": "‘Polyclass’ of 6 million people consider themselves to belong to more than one social category, researchers sayMore than a third of Britons say they have changed social class, with upper-middle and...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Far-right activists barred from UK before Tommy Robinson rally",
         "url": "https://www.theguardian.com/uk-news/2026/may/15/far-right-activists-barred-uk-tommy-robinson-rally",
         "description": "Keir Starmer accuses Robinson of ‘peddling hatred and division’ and  archbishop of Canterbury urges people to ‘choose hope’ Eleven foreign far-right activists have been blocked from entering the UK...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Andy Burnham will push to become PM before Labour conference, allies say",
-        "url": "https://www.theguardian.com/politics/2026/may/15/andy-burnham-pm-labour-autumn-conference",
-        "description": "Autumn conference in Liverpool targeted for victorious homecoming but Reform UK to fight hard in byelection Andy Burnham will push to become prime minister in time to address Labour’s autumn party ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour’s NEC approves Burnham’s byelection pathway back to parliament",
-        "url": "https://www.theguardian.com/politics/2026/may/15/labours-nec-approves-burnham-byelection-pathway-parliament",
-        "description": "Party’s governing body allows Greater Manchester mayor to run for selection as candidate in MakerfieldAndy Burnham has cleared the first hurdle as he seeks to become an MP again after Labour’s gove...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "UK borrowing costs rise and pound falls as leadership drama continues",
-        "url": "https://www.bbc.com/news/articles/czr2pl5lj84o?at_medium=RSS&at_campaign=rss",
-        "description": "Analysts say the moves have been fuelled by concerns a Burnham-led government would increase government borrowing.",
+        "title": "'They took £20,000 I didn't owe': Parents hit by child maintenance errors",
+        "url": "https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&at_campaign=rss",
+        "description": "John Hammond is one of 30 parents who told BBC Your Voice they'd experienced problems with the CMS.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Divers in Maldives resume search for Italian scuba divers who drowned in cave",
+        "url": "https://www.theguardian.com/world/2026/may/16/maldives-scuba-divers-italy-drowned-cave",
+        "description": "Authorities previously suspended recovery operation for bodies of four divers believed to have died while exploring Vaavu Atoll caveDivers in the Maldives have resumed their search for the bodies o...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Declare climate crisis a global public health emergency, experts tell WHO",
         "url": "https://www.theguardian.com/environment/2026/may/16/who-should-declare-climate-crisis-global-public-health-emergency-experts-say",
         "description": "Exclusive: Commission says alert would trigger coordinated international response that could help avoid millions dyingThe climate crisis should be declared a global public health emergency by the W...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Watchdog groups urge Senate to investigate Samuel Alito over oil stock conflicts",
-        "url": "https://www.theguardian.com/us-news/2026/may/14/alito-stock-conflicts-senate-investigation",
-        "description": "Groups say supreme court justice, who owns oil stocks, may be violating ethics codes by participating in certain casesThe supreme court justice Samuel Alito, who owns stock in oil companies, may be...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Is it safe to swim at England's bathing sites?",
         "url": "https://www.bbc.com/news/videos/c0q27gn78d1o?at_medium=RSS&at_campaign=rss",
         "description": "Signs warning people not to swim are in place at almost all of England's official inland river bathing sites due to concerns the water could be unsafe",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "La Gradiva review – stunning coming-of-age story of young love and sexual tension",
+        "url": "https://www.theguardian.com/film/2026/may/16/la-gradiva-review-stunning-coming-of-age-story-of-young-love-and-sexual-tension",
+        "description": "Cannes film festival: Marine Atlan’s debut film follows a group of French high-school kids and their long-suffering teacher on a visit to Pompeii and NaplesHere is cinematographer turned director M...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "After viral graduation walk, paraplegic student calls for greater accessibility: ‘It doesn’t have to be so hard’",
         "url": "https://www.theguardian.com/education/2026/may/15/jaiden-picot-graduation-video-quadriplegic-accessibility",
@@ -158,39 +165,39 @@
         "description": "News will come as a shock to staff, especially at Cranfield, but the institutions’ bosses say intention is growthThe announcement that King’s College London is to absorb Cranfield University came a...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "King’s College London to merge with Cranfield University",
-        "url": "https://www.theguardian.com/education/2026/may/14/kings-college-london-to-merge-with-cranfield-university",
-        "description": "Merged institution will become second largest mainstream university in UK with about 47,000 studentsKing’s College London has agreed to merge with Cranfield University, creating a new UK “super-uni...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Mick Jagger and Eric Clapton win battle to stop 29-storey block being built by Thames",
+        "url": "https://www.theguardian.com/politics/2026/may/16/mick-jagger-eric-clapton-win-battle-stop-29-storey-block-thames",
+        "description": "Planning inspector backs council’s rejection of development which was ‘not exemplary, extraordinary, remarkable or distinctive, just tall’Celebrities including Rolling Stones frontman Mick Jagger h...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "From reality TV villain to mayor? Spencer Pratt tries to convince Los Angeles he should lead the city",
+        "url": "https://www.theguardian.com/us-news/2026/may/16/spencer-pratt-los-angeles-mayor",
+        "description": "The Hills’ antagonist has made the city’s response to the 2025 wildfires the central tenet of his campaignLos Angeles is no stranger to drama. But the rapid ascension of a former reality TV bad boy...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Record numbers of UK renters crowdfunding to cover bills",
         "url": "https://www.theguardian.com/society/2026/may/16/record-numbers-of-uk-renters-crowdfunding-to-cover-bills",
         "description": "Rent donations on GoFundMe up 60% since 2022, with 100,000 donors helping people keep a roof over their headsA record number of people in the UK are turning to crowdfunding to cover rent and househ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Rise in deed theft across US prompts crackdown in New York City",
-        "url": "https://www.theguardian.com/us-news/2026/may/15/nyc-american-deed-theft-crisis",
-        "description": "After more than 500 deed theft complaints last year, Zohran Mamdani pushes crackdown effortNurul Islamnuru, an immigrant from Bangladesh, rented a one-bedroom apartment in Queens, New York, with hi...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Why do we keep building on land at risk of flooding?",
-        "url": "https://www.theguardian.com/society/video/2026/may/14/why-do-we-keep-building-on-land-at-risk-of-flooding",
-        "description": "A recent study by Aviva found that one in nine new homes in England are being built on land at risk of flooding – often entirely within planning rules. Josh Toussaint-Strauss investigates how the s...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+        "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+        "description": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
         "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
@@ -202,13 +209,6 @@
         "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
         "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
         "description": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Trump says senior IS leader killed by US and Nigerian forces",
-        "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
