@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-05-16T19:03:14.153592+00:00",
+  "fetched_at": "2026-05-17T02:57:32.693886+00:00",
   "headlines": {
     "government": [
       {
+        "title": "UK and France extend ‘one in, one out’ small boats pilot scheme until October",
+        "url": "https://www.theguardian.com/uk-news/2026/may/16/uk-and-france-extend-one-in-one-out-small-boats-pilot-scheme-until-october",
+        "description": "Asylum seekers express dismay at continuation of scheme agreed last year that has failed to stop crossings in ChannelThe Home Office is extending a controversial scheme to stop asylum seekers cross...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Tommy Robinson tells tens of thousands at London rally to prepare for ‘battle of Britain’",
         "url": "https://www.theguardian.com/politics/2026/may/16/tommy-robinson-tells-tens-of-thousands-at-london-rally-to-prepare-for-battle-of-britain",
-        "description": "Turnout down at second Unite the Kingdom march featuring Islamophobic and ethnonationalist hate speech and flyersThe far-right activist Tommy Robinson told tens of thousands of supporters to prepar...",
+        "description": "Turnout down at second ‘unite the kingdom’ march featuring Islamophobic and ethnonationalist hate speech and flyersThe far-right activist Tommy Robinson told tens of thousands of supporters to prep...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Andy Burnham says Labour must put energy and water under public control",
-        "url": "https://www.theguardian.com/politics/2026/may/16/andy-burnham-energy-water-under-public-control-keir-starmer",
-        "description": "Greater Manchester mayor suggests programme of renationalisation would be key policy if he succeeds Keir Starmer as PMAndy Burnham has suggested that a programme of mass renationalisation would be ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Streeting says he would join leadership race as Burnham vows to 'save' Labour",
-        "url": "https://www.bbc.com/news/articles/c17297n77z1o?at_medium=RSS&at_campaign=rss",
-        "description": "The former health secretary says there must be a 'proper contest' while Burnham says Labour needs to be 'saved from where it's been'.",
+        "title": "Labour leadership jostling puts Brexit back under political spotlight",
+        "url": "https://www.bbc.com/news/articles/c5y7l265pe8o?at_medium=RSS&at_campaign=rss",
+        "description": "The UK's relationship with the EU is shaping up as a key issue for a possible Labour leadership contest and the coming by-election in the Makerfield.",
         "source": "BBC News",
         "category": "government"
       }
@@ -84,14 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "'We're right on track,' says Streeting as key target for hospital waiting times hit",
-        "url": "https://www.bbc.com/news/articles/cvgzv0j19vvo?at_medium=RSS&at_campaign=rss",
-        "description": "Government his its interim target of 65% of patients in England being treated within 18 weeks.",
+        "title": "Canadian from hantavirus-hit cruise ship tests positive",
+        "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
+        "description": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "UK and France extend ‘one in, one out’ small boats pilot scheme until October",
+        "url": "https://www.theguardian.com/uk-news/2026/may/16/uk-and-france-extend-one-in-one-out-small-boats-pilot-scheme-until-october",
+        "description": "Asylum seekers express dismay at continuation of scheme agreed last year that has failed to stop crossings in ChannelThe Home Office is extending a controversial scheme to stop asylum seekers cross...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "UK joins European deal to send rejected asylum seekers to third-country hubs",
         "url": "https://www.theguardian.com/world/2026/may/15/uk-joins-european-deal-to-send-rejected-asylum-seekers-to-third-country-hubs",
@@ -103,13 +110,6 @@
         "title": "Why rights groups fear new ECHR declaration could weaken migrant protections",
         "url": "https://www.theguardian.com/law/2026/may/15/rights-groups-fear-echr-declaration-weaken-migrant-protections",
         "description": "Political statement agreed by all 46 Council of Europe states could give them more leeway to carry out deportationsA political declaration aimed at clarifying key aspects of the European convention...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Experience: I smuggled myself out of the UK",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/may/15/experience-i-smuggled-myself-out-of-the-uk",
-        "description": "We were locked in a box in a lorry for 12 hours. I’ve never been so terrifiedI escaped from my home, Soran, in the Erbil area of northern Iraq, in 2011 when I was 19 years old. My life was in dange...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,13 +146,6 @@
     ],
     "education": [
       {
-        "title": "Canvas hack: is it ever a good idea to pay a ransom, and what happens to the data?",
-        "url": "https://www.theguardian.com/technology/2026/may/17/canvas-hack-cyber-criminals-data-ransom-paid",
-        "description": "Businesses are advised against paying – but as the Canvas platform hack shows, many are prepared to deal to protect users’ privacyGet our breaking news email, free app or daily news podcastAfter a ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
         "title": "La Gradiva review – stunning coming-of-age story of young love and sexual tension",
         "url": "https://www.theguardian.com/film/2026/may/16/la-gradiva-review-stunning-coming-of-age-story-of-young-love-and-sexual-tension",
         "description": "Cannes film festival: Marine Atlan’s debut film follows a group of French high-school kids and their long-suffering teacher on a visit to Pompeii and NaplesHere is cinematographer turned director M...",
@@ -163,6 +156,13 @@
         "title": "After viral graduation walk, paraplegic student calls for greater accessibility: ‘It doesn’t have to be so hard’",
         "url": "https://www.theguardian.com/education/2026/may/15/jaiden-picot-graduation-video-quadriplegic-accessibility",
         "description": "After a truck accident left him paralyzed, Jaiden Picot crossed his graduation stage in a robotic exoskeletonJaiden Picot, who was paralyzed in 2024 after a truck hit him, never imagined that video...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "King’s College and Cranfield hope to be stronger together in surprise merger",
+        "url": "https://www.theguardian.com/education/2026/may/15/kings-college-cranfield-stronger-together-surprise-merger",
+        "description": "News will come as a shock to staff, especially at Cranfield, but the institutions’ bosses say intention is growthThe announcement that King’s College London is to absorb Cranfield University came a...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Hezbollah drone strike videos show evolving tactics against Israel",
+        "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Taiwan insists it is independent after Trump warning",
         "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
         "description": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Senior IS leader killed in joint operation, US and Nigeria say",
-        "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-        "description": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
-        "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
-        "description": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
+        "title": "Man drives car into pedestrians in Italy, injuring eight",
+        "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+        "description": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
