@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-17T02:57:32.693886+00:00",
+  "fetched_at": "2026-05-17T08:20:17.559958+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Labour leadership talk ‘froth and nonsense’, says senior minister – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/may/17/labour-leadership-keir-starmer-andy-burnham-wes-streeting-uk-politics-live",
+        "description": "Lisa Nandy says no candidate has launched a challenge to Keir Starmer, despite ‘feverish speculation’ around Andy Burnham and Wes StreetingAsked about former health secretary Wes Streeting’s call f...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK and France extend ‘one in, one out’ small boats pilot scheme until October",
         "url": "https://www.theguardian.com/uk-news/2026/may/16/uk-and-france-extend-one-in-one-out-small-boats-pilot-scheme-until-october",
@@ -17,13 +24,6 @@
         "category": "government"
       },
       {
-        "title": "Tens of thousands march through London for far-right and pro-Palestine protests – as it happened",
-        "url": "https://www.theguardian.com/uk-news/live/2026/may/16/far-right-unite-the-kingdom-rally-tommy-robinson-london-nakba-day-march-latest-news-updates",
-        "description": "Police say 11 arrested ‘for a variety of offences’ as far-right and pro-Palestine marches take place in LondonCommenting on today’s policing operation in London, the Met Police said they had made t...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "Labour leadership jostling puts Brexit back under political spotlight",
         "url": "https://www.bbc.com/news/articles/c5y7l265pe8o?at_medium=RSS&at_campaign=rss",
         "description": "The UK's relationship with the EU is shaping up as a key issue for a possible Labour leadership contest and the coming by-election in the Makerfield.",
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "Tech founders use AI-generated images to poke fun at Anthony Albanese in protest against tax changes",
+        "url": "https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes",
+        "description": "‘He’s having a great time with his new 47% equity,’ one entrepreneur jokes, warning that some startups may leave Australia behindGet our breaking news email, free app or daily news podcastTech entr...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "The ungovernable country? Why Britain keeps losing prime ministers",
+        "url": "https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers",
+        "description": "May, Johnson, Truss, Sunak, and now perhaps Starmer: each one was brought low for a reason. But what if the deeper problem is the office itself?They were times in which prime ministers seemed to be...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Pound heads for worst week in 18 months as Burnham lines up Labour bid",
         "url": "https://www.theguardian.com/business/2026/may/15/pound-sterling-andy-burnham-labour-bid-uk-borrowing-bond-yield-oil-price-inflation",
         "description": "UK government borrowing costs jump amid political uncertainty and oil price rise that fuelled inflation worriesBusiness live – latest updatesThe pound was heading for its worst week in 18 months on...",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "UK borrowing costs hit new highs as City traders brace for Burnham, and pound heads for worst week since 2024 – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/may/15/rich-list-sunday-times-billionaires-reform-donor-christopher-harborne-hinduja-radcliffe-dyson-beckham-live-updates",
-        "description": "UK 10-year government bond yields have hit their highest since 2008The Sunday Times have also calculated the UK’s biggest donors to charity.Hedge fund manager Sir Chris Hohn tops the list after giv...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Wealth of Britain’s 157 billionaires now equal to 22% of country’s GDP",
-        "url": "https://www.theguardian.com/inequality/2026/may/15/wealth-britain-billionaires-gdp-rich-list-inequality",
-        "description": "This ‘ghost GDP’ shows how headline economic growth is increasingly disconnected from reality for most, says reportUK politics live – latest updatesBusiness live – latest updatesThe wealth of Brita...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "'They took £20,000 I didn't owe': Parents hit by child maintenance errors",
-        "url": "https://www.bbc.com/news/articles/cq8wjn98y85o?at_medium=RSS&at_campaign=rss",
-        "description": "John Hammond is one of 30 parents who told BBC Your Voice they'd experienced problems with the CMS.",
+        "title": "Robert paid £726 to skip the driving test waiting list. New laws mean others won't be able to",
+        "url": "https://www.bbc.com/news/articles/cx219pn5g70o?at_medium=RSS&at_campaign=rss",
+        "description": "The government is cracking down on third parties who use bots to buy tests and resell them at inflated prices.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+        "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+        "description": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Hezbollah drone strike videos show evolving tactics against Israel",
         "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
         "description": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
@@ -202,13 +209,6 @@
         "title": "Taiwan insists it is independent after Trump warning",
         "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
         "description": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Man drives car into pedestrians in Italy, injuring eight",
-        "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
-        "description": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
