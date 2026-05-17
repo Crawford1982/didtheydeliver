@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-05-17T08:20:17.559958+00:00",
+  "fetched_at": "2026-05-17T13:18:10.054262+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Labour leadership talk ‘froth and nonsense’, says senior minister – UK politics live",
+        "title": "Thames Water investors say temporary nationalisation would slow its recovery",
+        "url": "https://www.theguardian.com/business/2026/may/17/thames-water-investors-say-temporary-nationalisation-would-slow-its-recovery",
+        "description": "Comments come after Andy Burnham says he would renationalise water and other businesses as PMInvestors in Thames Water have told the Labour government that a temporary nationalisation of the embatt...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Labour leadership talk ‘froth and nonsense’, says senior minister – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/17/labour-leadership-keir-starmer-andy-burnham-wes-streeting-uk-politics-live",
-        "description": "Lisa Nandy says no candidate has launched a challenge to Keir Starmer, despite ‘feverish speculation’ around Andy Burnham and Wes StreetingAsked about former health secretary Wes Streeting’s call f...",
+        "description": "Lisa Nandy says no candidate has launched a challenge to Keir Starmer, despite ‘feverish speculation’ around Andy Burnham and Wes StreetingThe Conservative leader called accusations her party could...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK and France extend ‘one in, one out’ small boats pilot scheme until October",
-        "url": "https://www.theguardian.com/uk-news/2026/may/16/uk-and-france-extend-one-in-one-out-small-boats-pilot-scheme-until-october",
-        "description": "Asylum seekers express dismay at continuation of scheme agreed last year that has failed to stop crossings in ChannelThe Home Office is extending a controversial scheme to stop asylum seekers cross...",
+        "title": "Culture secretary says Streeting’s call for UK to rejoin EU is ‘odd’",
+        "url": "https://www.theguardian.com/politics/2026/may/17/culture-secretary-lisa-nandy-says-wes-streeting-rejoin-eu-call-odd",
+        "description": "Lisa Nandy told the BBC she did not understand ‘sudden focus on Europe’ from Labour leadership hopefulUK politics live – latest updatesThe UK culture secretary has dismissed calls for Britain to re...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Tommy Robinson tells tens of thousands at London rally to prepare for ‘battle of Britain’",
-        "url": "https://www.theguardian.com/politics/2026/may/16/tommy-robinson-tells-tens-of-thousands-at-london-rally-to-prepare-for-battle-of-britain",
-        "description": "Turnout down at second ‘unite the kingdom’ march featuring Islamophobic and ethnonationalist hate speech and flyersThe far-right activist Tommy Robinson told tens of thousands of supporters to prep...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour leadership jostling puts Brexit back under political spotlight",
-        "url": "https://www.bbc.com/news/articles/c5y7l265pe8o?at_medium=RSS&at_campaign=rss",
-        "description": "The UK's relationship with the EU is shaping up as a key issue for a possible Labour leadership contest and the coming by-election in the Makerfield.",
+        "title": "Personal decision for Starmer on whether to fight leadership contest, minister says",
+        "url": "https://www.bbc.com/news/articles/clypg60k25ro?at_medium=RSS&at_campaign=rss",
+        "description": "Culture Secretary Lisa Nandy tells the BBC that the prime minister has \"shown before that he's up for a fight\" and she \"wouldn't write [him] off\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Whatever happens with the leadership, Labour must tackle the issue of social care head-on | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/may/17/leadership-labour-must-tackle-issue-social-care-head-on",
+        "description": "The challenge of how to look after an ageing population has been ducked by politicians for too longIf a new Labour leader wants to underline their determination to wrestle with Britain’s political ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Tech founders use AI-generated images to poke fun at Anthony Albanese in protest against tax changes",
         "url": "https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes",
@@ -43,13 +50,6 @@
         "title": "The ungovernable country? Why Britain keeps losing prime ministers",
         "url": "https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers",
         "description": "May, Johnson, Truss, Sunak, and now perhaps Starmer: each one was brought low for a reason. But what if the deeper problem is the office itself?They were times in which prime ministers seemed to be...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Pound heads for worst week in 18 months as Burnham lines up Labour bid",
-        "url": "https://www.theguardian.com/business/2026/may/15/pound-sterling-andy-burnham-labour-bid-uk-borrowing-bond-yield-oil-price-inflation",
-        "description": "UK government borrowing costs jump amid political uncertainty and oil price rise that fuelled inflation worriesBusiness live – latest updatesThe pound was heading for its worst week in 18 months on...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Experts sound alarm as North America’s bees start swarm season unusually early",
+        "url": "https://www.theguardian.com/environment/2026/may/17/north-america-bees-early-swarm-season",
+        "description": "After record losses last year, beekeepers report a warm winter has led to bees ‘waking up earlier’ this yearAfter a series of record-breaking US heatwaves, the 2026 bee swarm season in North Americ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Maldives diver dies in operation to recover bodies of Italians from cave",
         "url": "https://www.theguardian.com/world/2026/may/16/maldives-scuba-divers-italy-drowned-cave",
         "description": "Mohamed Mahudhee suffered decompression sickness after searching for scuba divers in Vaavu Atoll and died in hospitalA Maldivian military diver has died during a high-risk operation to recover the ...",
@@ -126,13 +133,6 @@
         "title": "Declare climate crisis a global public health emergency, experts tell WHO",
         "url": "https://www.theguardian.com/environment/2026/may/16/who-should-declare-climate-crisis-global-public-health-emergency-experts-say",
         "description": "Exclusive: Commission says alert would trigger coordinated international response that could help avoid millions dyingThe climate crisis should be declared a global public health emergency by the W...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Ban private jets and cut speed limits to avert UK fuel crisis, say campaigners",
-        "url": "https://www.theguardian.com/environment/2026/may/15/ban-private-jets-cut-speed-limits-uk-fuel-crisis",
-        "description": "Climate and transport organisations warn ministers not to ‘sleepwalk into crisis’ amid Iran war oil and gas shortagesPrivate jets should be banned and the speed limit on UK motorways reduced to 60m...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Hezbollah drone strike videos show evolving tactics against Israel",
-        "url": "https://www.bbc.com/news/articles/c1j2zwe9g5no?at_medium=RSS&at_campaign=rss",
-        "description": "BBC Verify has examined dozens of videos of fibre-optic drone attacks carried out by the Lebanese armed group.",
+        "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+        "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Taiwan insists it is independent after Trump warning",
-        "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
-        "description": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
+        "title": "Man drives car into pedestrians in Italy, injuring eight",
+        "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+        "description": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
