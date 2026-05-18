@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-05-17T19:07:24.101328+00:00",
+  "fetched_at": "2026-05-18T03:35:33.913946+00:00",
   "headlines": {
     "government": [
       {
+        "title": "Campaigners threaten legal action over UK-US deal on prices NHS pays for drugs",
+        "url": "https://www.theguardian.com/society/2026/may/18/campaigners-threaten-legal-action-over-uk-us-deal-on-prices-nhs-pays-for-drugs",
+        "description": "Two campaign groups claim that change to how NHS treatments are approved amounts to ‘unlawful power grab’Campaigners against the UK’s controversial drug pricing deal with Donald Trump are threateni...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "David Lammy promises 25% cut in number of children jailed while they await trial",
+        "url": "https://www.theguardian.com/law/2026/may/18/david-lammy-promises-cut-in-children-jailed-awaiting-trial",
+        "description": "Justice secretary’s white paper will overhaul youth justice rules and could end lifelong criminal records for under-18sDavid Lammy has promised to cut the number of children kept in jail while they...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Andy Burnham faces perilous race to win Makerfield byelection, allies say",
         "url": "https://www.theguardian.com/politics/2026/may/17/andy-burnham-faces-perilous-race-to-win-makerfield-byelection-allies-say",
-        "description": "Reform, which won more than 50% of the local election vote, is likely to focus heavily on immigration and BrexitAndy Burnham faces a perilous race to win the Makerfield seat, his allies have warned...",
+        "description": "Reform, which won more than 50% of the local election vote, is likely to focus heavily on immigration and BrexitAndy Burnham faces a perilous race to win the Makerfield seat, his allies have said, ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "London mayor criticises plans for north of England bid to host Olympics",
-        "url": "https://www.theguardian.com/uk-news/2026/may/17/london-mayor-sadiq-khan-plans-north-of-england-olympics",
-        "description": "Excluding capital would be ‘missed opportunity’, says Sadiq Khan, given existing assets and ‘world-class infrastructure’The mayor of London has criticised plans to explore a bid for the north of En...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Where does UK-EU relationship stand and how might bid to rejoin bloc be received?",
-        "url": "https://www.theguardian.com/politics/2026/may/17/explainer-uk-eu-relationship-brexit-bid-rejoining",
-        "description": "Labour leadership contender Wes Streeting calls Brexit a ‘catastrophic mistake’ while Andy Burnham sees ‘long-term case’ for rejoining EUWes Streeting, who resigned as Britain’s health secretary la...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Personal decision for Starmer on whether to fight leadership contest, minister says",
-        "url": "https://www.bbc.com/news/articles/clypg60k25ro?at_medium=RSS&at_campaign=rss",
-        "description": "Culture Secretary Lisa Nandy tells the BBC that the prime minister has \"shown before that he's up for a fight\" and she \"wouldn't write [him] off\".",
+        "title": "HS2 failings blamed on high-speed focus and political pressure",
+        "url": "https://www.bbc.com/news/articles/c936xeeye41o?at_medium=RSS&at_campaign=rss",
+        "description": "A new reviews confirms the high-speed rail line's \"original sins\" include a technical design, changing political priorities and ballooning costs.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "UK firms halt investments and hiring as Iran war pushes up costs, bosses warn",
+        "url": "https://www.theguardian.com/business/2026/may/18/uk-firms-halt-investments-and-hiring-as-iran-war-pushes-up-costs-bosses-warn",
+        "description": "Survey shows businesses ‘struggling to absorb latest economic shock’, while data says April vacancies down 7.7%The worsening fallout from the Iran war is forcing businesses to halt their UK investm...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Crime increasingly a ‘serious barrier’ to UK growth, say business leaders",
+        "url": "https://www.theguardian.com/uk-news/2026/may/17/crime-serious-barrier-uk-growth-business-leaders",
+        "description": "British Chambers of Commerce survey shows firms ‘are dealing with rising levels of theft, fraud and cyber-attacks’UK business leaders have warned that crime is becoming an increasingly “serious bar...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "The Guardian view on Cuba: Trump says he can do ‘anything I want’ to the island. It doesn’t belong to him | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/may/17/the-guardian-view-on-cuba-trump-says-he-can-do-anything-i-want-to-the-island-it-doesnt-belong-to-him",
@@ -40,28 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Whatever happens with the leadership, Labour must tackle the issue of social care head-on | Heather Stewart",
-        "url": "https://www.theguardian.com/business/2026/may/17/leadership-labour-must-tackle-issue-social-care-head-on",
-        "description": "The challenge of how to look after an ageing population has been ducked by politicians for too longIf a new Labour leader wants to underline their determination to wrestle with Britain’s political ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Tech founders use AI-generated images to poke fun at Anthony Albanese in protest against tax changes",
-        "url": "https://www.theguardian.com/australia-news/2026/may/17/tech-founders-use-ai-generated-images-to-poke-fun-at-anthony-albanese-in-protest-against-tax-changes",
-        "description": "‘He’s having a great time with his new 47% equity,’ one entrepreneur jokes, warning that some startups may leave Australia behindGet our breaking news email, free app or daily news podcastTech entr...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Robert paid £726 to skip the driving test waiting list. New laws mean others won't be able to",
-        "url": "https://www.bbc.com/news/articles/cx219pn5g70o?at_medium=RSS&at_campaign=rss",
-        "description": "The government is cracking down on third parties who use bots to buy tests and resell them at inflated prices.",
+        "title": "Oil prices rise after Trump warns 'clock is ticking' on Iran peace talks",
+        "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
+        "description": "Energy markets have been on a wild ride as the key Strait of Hormuz waterway remains effectively closed.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Campaigners threaten legal action over UK-US deal on prices NHS pays for drugs",
+        "url": "https://www.theguardian.com/society/2026/may/18/campaigners-threaten-legal-action-over-uk-us-deal-on-prices-nhs-pays-for-drugs",
+        "description": "Two campaign groups claim that change to how NHS treatments are approved amounts to ‘unlawful power grab’Campaigners against the UK’s controversial drug pricing deal with Donald Trump are threateni...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Who is James Murray, the new health secretary replacing Wes Streeting?",
         "url": "https://www.theguardian.com/politics/2026/may/15/james-murray-new-health-secretary-replacing-wes-streeting",
@@ -73,13 +80,6 @@
         "title": "‘So much of it resonates’: The Pitt strikes a chord with UK A&E medics",
         "url": "https://www.theguardian.com/society/2026/may/15/the-pitt-uk-accident-emergency-doctors-nurses-hbo",
         "description": "Doctors and nurses say hit drama paints a mostly realistic picture of the frontline of emergency medicineIt’s the hospital drama that is adored by critics and fans alike, with its hard-hitting, act...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Weight-loss jabs could halve sickness absence and ease strain on NHS, study suggests",
-        "url": "https://www.theguardian.com/science/2026/may/14/weight-loss-jabs-sick-leave-wegovy-health",
-        "description": "Research shows sick leave among patients prescribed GLP-1 injections over nine-month period reduced by 50%Weight-loss drugs could halve sickness absence and significantly reduce the strain on the N...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+        "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+        "description": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
         "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
         "description": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
@@ -202,13 +209,6 @@
         "title": "How worrying is the Ebola outbreak in DR Congo?",
         "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
         "description": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-        "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
