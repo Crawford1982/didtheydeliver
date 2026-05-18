@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-18T03:35:33.913946+00:00",
+  "fetched_at": "2026-05-18T10:01:19.206380+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Campaigners threaten legal action over UK-US deal on prices NHS pays for drugs",
-        "url": "https://www.theguardian.com/society/2026/may/18/campaigners-threaten-legal-action-over-uk-us-deal-on-prices-nhs-pays-for-drugs",
-        "description": "Two campaign groups claim that change to how NHS treatments are approved amounts to ‘unlawful power grab’Campaigners against the UK’s controversial drug pricing deal with Donald Trump are threateni...",
+        "title": "Lammy dismisses Streeting’s call for UK to rejoin EU as ‘sixth form’ debating position – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/may/18/keir-starmer-labour-leadership-wes-streeting-andy-burnham-david-lammy-brexit-eu-latest-news-updates",
+        "description": "Deputy PM says the public will not forgive weeks of internal debate on the EU and Labour leadership, warning it will play into Reform’s handsAngela Rayner was asked by No 10 last week if she would ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "David Lammy promises 25% cut in number of children jailed while they await trial",
-        "url": "https://www.theguardian.com/law/2026/may/18/david-lammy-promises-cut-in-children-jailed-awaiting-trial",
-        "description": "Justice secretary’s white paper will overhaul youth justice rules and could end lifelong criminal records for under-18sDavid Lammy has promised to cut the number of children kept in jail while they...",
+        "title": "Starmer is not setting out timetable for his departure, says David Lammy",
+        "url": "https://www.theguardian.com/politics/2026/may/18/keir-starmer-not-setting-out-timetable-departure-david-lammy-andy-burnham-labour",
+        "description": "Deputy PM says Andy Burnham would be ‘great addition to parliament’ but leadership row is an ‘own goal’ for LabourKeir Starmer is not about to set a timetable for his departure from Downing Street,...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham faces perilous race to win Makerfield byelection, allies say",
-        "url": "https://www.theguardian.com/politics/2026/may/17/andy-burnham-faces-perilous-race-to-win-makerfield-byelection-allies-say",
-        "description": "Reform, which won more than 50% of the local election vote, is likely to focus heavily on immigration and BrexitAndy Burnham faces a perilous race to win the Makerfield seat, his allies have said, ...",
+        "title": "National Conversation project launches as Britain risks ‘being torn apart by differences’",
+        "url": "https://www.theguardian.com/society/2026/may/18/national-conversation-project-britain-community-social-cohesion",
+        "description": "Commission led by Sajid Javid and Jon Cruddas asks public to share vision of community and country to help rebuild social cohesionSajid Javid has warned the country risks “being torn apart by our d...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "UK government borrowing costs slip back from multi-year highs as bond market rout calms – business live",
+        "url": "https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates",
+        "description": "Rolling coverage of the latest economic and financial news, as rising oil price sours sentiment in the markets and drive up bond yieldsThe head of the International Monetary Fund has said that a se...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Oil prices rise and bonds wobble as Iran war stokes inflation fears",
+        "url": "https://www.theguardian.com/business/2026/may/18/oil-prices-rise-bonds-iran-war-peace-talks-inflation-trump-crude-gilts-starmer",
+        "description": "Trump warning over peace talks drives up crude price as UK gilts hit by uncertainty over Starmer leadershipBusiness live – latest updatesOil prices rose and global bonds wobbled on Monday, as fresh...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "UK firms halt investments and hiring as Iran war pushes up costs, bosses warn",
         "url": "https://www.theguardian.com/business/2026/may/18/uk-firms-halt-investments-and-hiring-as-iran-war-pushes-up-costs-bosses-warn",
         "description": "Survey shows businesses ‘struggling to absorb latest economic shock’, while data says April vacancies down 7.7%The worsening fallout from the Iran war is forcing businesses to halt their UK investm...",
@@ -40,21 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "Crime increasingly a ‘serious barrier’ to UK growth, say business leaders",
-        "url": "https://www.theguardian.com/uk-news/2026/may/17/crime-serious-barrier-uk-growth-business-leaders",
-        "description": "British Chambers of Commerce survey shows firms ‘are dealing with rising levels of theft, fraud and cyber-attacks’UK business leaders have warned that crime is becoming an increasingly “serious bar...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "The Guardian view on Cuba: Trump says he can do ‘anything I want’ to the island. It doesn’t belong to him | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/17/the-guardian-view-on-cuba-trump-says-he-can-do-anything-i-want-to-the-island-it-doesnt-belong-to-him",
-        "description": "Buoyed by his removal of Venezuela’s Nicolás Maduro, the US president is intensifying an economic stranglehold and military menaceWhile the world watched the pomp of Donald Trump’s trip to Beijing,...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil prices rise after Trump warns 'clock is ticking' on Iran peace talks",
+        "title": "Oil prices rise after Trump warns Iran over stalled peace talks",
         "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
         "description": "Energy markets have been on a wild ride as the key Strait of Hormuz waterway remains effectively closed.",
         "source": "BBC News",
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "Two-thirds of NHS nurses believe lack of staff is putting patients at risk, survey finds",
+        "url": "https://www.theguardian.com/society/2026/may/18/nhs-nurses-believe-lack-of-staff-putting-patients-at-risk-survey-finds",
+        "description": "Union to urge ministers to bring in mandatory minimum staffing, as ageing population increases demand for careAlmost two-thirds of nurses believe there are too few of them working in the NHS to kee...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Campaigners threaten legal action over UK-US deal on prices NHS pays for drugs",
         "url": "https://www.theguardian.com/society/2026/may/18/campaigners-threaten-legal-action-over-uk-us-deal-on-prices-nhs-pays-for-drugs",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "‘So much of it resonates’: The Pitt strikes a chord with UK A&E medics",
-        "url": "https://www.theguardian.com/society/2026/may/15/the-pitt-uk-accident-emergency-doctors-nurses-hbo",
-        "description": "Doctors and nurses say hit drama paints a mostly realistic picture of the frontline of emergency medicineIt’s the hospital drama that is adored by critics and fans alike, with its hard-hitting, act...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Canadian from hantavirus-hit cruise ship tests positive",
         "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
         "description": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "Hundreds of children affected by UK’s halting of refugee family reunion, says Red Cross",
+        "url": "https://www.theguardian.com/politics/2026/may/18/hundreds-of-children-affected-uk-suspension-refugee-family-reunion-red-cross",
+        "description": "Charity estimates up to 1,360 children could remain separated from families for every month the suspension continuesHundreds of children every month face being separated from their families since t...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "UK and France extend ‘one in, one out’ small boats pilot scheme until October",
         "url": "https://www.theguardian.com/uk-news/2026/may/16/uk-and-france-extend-one-in-one-out-small-boats-pilot-scheme-until-october",
@@ -105,16 +112,16 @@
         "description": "All 46 Council of Europe members sign agreement ‘deplored’ by human rights organisations The UK and 45 other European countries have signed an agreement that explicitly endorses plans to send unwan...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Why rights groups fear new ECHR declaration could weaken migrant protections",
-        "url": "https://www.theguardian.com/law/2026/may/15/rights-groups-fear-echr-declaration-weaken-migrant-protections",
-        "description": "Political statement agreed by all 46 Council of Europe states could give them more leeway to carry out deportationsA political declaration aimed at clarifying key aspects of the European convention...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "More than 100 UK datacentres plan to burn gas to generate electricity",
+        "url": "https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity",
+        "description": "Requests for gas connections by operators amount to more than 15 terawatt hours per year, endangering climate targetsMore than 100 new datacentres in the UK plan to burn gas to generate electricity...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Experts sound alarm as North America’s bees start swarm season unusually early",
         "url": "https://www.theguardian.com/environment/2026/may/17/north-america-bees-early-swarm-season",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Declare climate crisis a global public health emergency, experts tell WHO",
-        "url": "https://www.theguardian.com/environment/2026/may/16/who-should-declare-climate-crisis-global-public-health-emergency-experts-say",
-        "description": "Exclusive: Commission says alert would trigger coordinated international response that could help avoid millions dyingThe climate crisis should be declared a global public health emergency by the W...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Is it safe to swim at England's bathing sites?",
-        "url": "https://www.bbc.com/news/videos/c0q27gn78d1o?at_medium=RSS&at_campaign=rss",
-        "description": "Signs warning people not to swim are in place at almost all of England's official inland river bathing sites due to concerns the water could be unsafe",
+        "title": "Waste carrier licences to be tightened as part of illegal dumping crackdown",
+        "url": "https://www.bbc.com/news/articles/c707jlxwx38o?at_medium=RSS&at_campaign=rss",
+        "description": "The proposed changes come after a cow named Beau Vine got approved for a waste removal licence.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "After dinosaurs, it’s spot the dog! But can a child really learn anything in a gallery?",
+        "url": "https://www.theguardian.com/artanddesign/2026/may/18/national-museum-cardiff-can-a-child-really-learn-anything-in-a-gallery",
+        "description": "Galleries such as National Museum Cardiff pull in children with their play areas and pencils – but stick around and you’ll notice kids critiquing Turner paintings tooNeil Osborne and his three-year...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Sons of jailed Saudi scholars urge Cambridge to drop plans to train Riyadh staff",
         "url": "https://www.theguardian.com/education/2026/may/17/sons-scholars-facing-death-penalty-cambrige-judge-business-school-saudi-defence-ministry",
@@ -158,16 +165,16 @@
         "description": "Cannes film festival: Marine Atlan’s debut film follows a group of French high-school kids and their long-suffering teacher on a visit to Pompeii and NaplesHere is cinematographer turned director M...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "After viral graduation walk, paraplegic student calls for greater accessibility: ‘It doesn’t have to be so hard’",
-        "url": "https://www.theguardian.com/education/2026/may/15/jaiden-picot-graduation-video-quadriplegic-accessibility",
-        "description": "After a truck accident left him paralyzed, Jaiden Picot crossed his graduation stage in a robotic exoskeletonJaiden Picot, who was paralyzed in 2024 after a truck hit him, never imagined that video...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "A house for £1? What a day at a property auction taught me about the UK housing crisis",
+        "url": "https://www.theguardian.com/society/2026/may/18/what-property-auction-taught-me-uk-housing-crisis",
+        "description": "Some of the homes have been repossessed, while others are being sold off by debt-laden housing associations. Who buys them – and who will end up living there?Amid the high-stakes bustle of numbered...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Mick Jagger and Eric Clapton win battle to stop 29-storey block being built by Thames",
         "url": "https://www.theguardian.com/politics/2026/may/16/mick-jagger-eric-clapton-win-battle-stop-29-storey-block-thames",
@@ -181,34 +188,27 @@
         "description": "The Hills’ antagonist has made the city’s response to the 2025 wildfires the central tenet of his campaignLos Angeles is no stranger to drama. But the rapid ascension of a former reality TV bad boy...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Record numbers of UK renters crowdfunding to cover bills",
-        "url": "https://www.theguardian.com/society/2026/may/16/record-numbers-of-uk-renters-crowdfunding-to-cover-bills",
-        "description": "Rent donations on GoFundMe up 60% since 2022, with 100,000 donors helping people keep a roof over their headsA record number of people in the UK are turning to crowdfunding to cover rent and househ...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
         "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
         "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-        "description": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
+        "description": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-        "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-        "description": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
+        "title": "Strike over high fuel prices paralyses transport in Kenya",
+        "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
+        "description": "Key roads have remained largely empty and some schools have asked students to stay at home.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "How worrying is the Ebola outbreak in DR Congo?",
-        "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
-        "description": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported.",
+        "title": "Driver of crashed train tested positive for drugs, Thai police say",
+        "url": "https://www.bbc.com/news/articles/c3v2ngnpgl9o?at_medium=RSS&at_campaign=rss",
+        "description": "The freight train collided with a bus in Bangkok, killing eight people and injuring dozens of others.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
