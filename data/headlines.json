@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-05-18T15:29:55.340444+00:00",
+  "fetched_at": "2026-05-18T19:43:18.679898+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reeves poised to cancel planned fuel duty rise to help with cost of living",
-        "url": "https://www.theguardian.com/politics/2026/may/18/rachel-reeves-fuel-duty-cost-of-living",
-        "description": "Chancellor has been under pressure to extend 5p temporary cut at an estimated cost to government of £2.4bn a yearUK politics live – latest updatesRachel Reeves is planning to cancel a rise in fuel ...",
+        "title": "No ‘tailor-made’ deal for UK if it wants to rejoin bloc, say former EU Brexit officials",
+        "url": "https://www.theguardian.com/world/2026/may/18/no-tailor-made-deal-uk-eu-brexit-officials-rejoin",
+        "description": "Britain likely to face ‘warm, welcoming stance’ if it seeks re-entry but also a ‘hard-headed one’ – with no special dealsBritain would not be able to rejoin the EU on the special terms it enjoyed i...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "‘I am not going to walk away’, says Starmer – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/may/18/keir-starmer-labour-leadership-wes-streeting-andy-burnham-david-lammy-brexit-eu-latest-news-updates",
-        "description": "The prime minister said he wouldn’t be setting out a timetable to stand down if Andy Burnham wins the Makerfield byelectionJakub Krupa writes the Guardian’s Europe live blog.The European Commission...",
+        "title": "Andy Burnham vows to ‘change Labour’ in direct challenge to Keir Starmer",
+        "url": "https://www.theguardian.com/politics/2026/may/18/andy-burnham-vows-change-labour-direct-challenge-keir-starmer",
+        "description": "Expected candidate in Makerfield byelection says party ‘needs to change if we are to regain people’s trust’Andy Burnham drew the battle lines for the future of the Labour party on Monday as the Gre...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham says he will not try to return UK to EU",
-        "url": "https://www.theguardian.com/politics/2026/may/18/andy-burnham-says-he-will-not-try-to-return-uk-to-eu",
-        "description": "Burnham vows to have ‘relentless domestic focus’ in Makerfield in first speech since announcing byelection runUK politics live – latest updatesAndy Burnham has said he will not try to return the UK...",
+        "title": "Farage claim he bought £1.4m house with I’m a Celebrity fee under scrutiny",
+        "url": "https://www.theguardian.com/politics/2026/may/18/farage-claim-bought-house-with-im-a-celebrity-fee-under-scrutiny",
+        "description": "Accounts for Reform UK leader’s media company suggest money was not withdrawn at time of property purchase Nigel Farage is facing fresh scrutiny over his claim that he paid for his £1.4m house from...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "PM insists he will not walk away as Burnham promises to change Labour",
+        "title": "Burnham pledges not to 're-run' Brexit arguments",
         "url": "https://www.bbc.com/news/articles/cx21en4807wo?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister has faced calls from his own MPs to step down and outline a timetable for his departure.",
+        "description": "The potential leadership challenger says he is not proposing the UK considers rejoining the EU.",
         "source": "BBC News",
         "category": "government"
       }
@@ -40,28 +40,35 @@
         "category": "economy"
       },
       {
-        "title": "IMF raises UK growth forecast and backs Reeves’s deficit reduction plans; bonds recover as oil price falls – business live",
+        "title": "Andy Burnham’s change in tack on fiscal rules and bond markets is understandable",
+        "url": "https://www.theguardian.com/politics/2026/may/18/andy-burnham-stance-fiscal-rules-bond-markets-analysis",
+        "description": "Bookies’ favourite to replace Keir Starmer tones down stance on government borrowing to assuage City investorsAndy Burnham has always faced a narrow path to replace Keir Starmer as prime minister: ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "IMF raises UK growth forecast and backs Reeves’s deficit reduction plans; bonds recover after sell-off – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates",
         "description": "International Monetary Fund says ‘Staying the course on deficit reduction will be important’ for the UK, in annual assessment of the economyIMF urges UK to ‘stay the course’ on borrowing amid Starm...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Donald Trump’s approval rating sinks to lowest point of second term",
-        "url": "https://www.theguardian.com/us-news/2026/may/18/donald-trump-second-term-approval-rating-drops",
-        "description": "US president’s approval rating falls to 37% days after he said Americans’ financial situation is not motivating him to broker deal with IranDonald Trump’s approval rating has fallen to its lowest p...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK growth forecast upgraded by IMF but risks remain",
-        "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
-        "description": "Growth has been upgraded from 0.8% to 1% for 2026 in the influential body's latest forecast.",
+        "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman",
+        "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+        "description": "Jurors spent nearly a month hearing and viewing evidence in the high-profile trial, where Musk had accused Altman of \"stealing a charity\".",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "NHS urged to update website after renaming polycystic ovary syndrome",
+        "url": "https://www.theguardian.com/society/2026/may/18/nhs-urged-to-update-website-after-renaming-polycystic-ovary-syndrome-polyendocrine-metabolic-syndrome-pcos-pmos",
+        "description": "Charity says absence of new name polyendocrine metabolic syndrome (PMOS) could cause confusionThe NHS must move quickly to update information for patients after the renaming of polycystic ovary syn...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Two-thirds of NHS nurses believe lack of staff is putting patients at risk, survey finds",
         "url": "https://www.theguardian.com/society/2026/may/18/nhs-nurses-believe-lack-of-staff-putting-patients-at-risk-survey-finds",
@@ -73,13 +80,6 @@
         "title": "Campaigners threaten legal action over UK-US deal on prices NHS pays for drugs",
         "url": "https://www.theguardian.com/society/2026/may/18/campaigners-threaten-legal-action-over-uk-us-deal-on-prices-nhs-pays-for-drugs",
         "description": "Two campaign groups claim that change to how NHS treatments are approved amounts to ‘unlawful power grab’Campaigners against the UK’s controversial drug pricing deal with Donald Trump are threateni...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Who is James Murray, the new health secretary replacing Wes Streeting?",
-        "url": "https://www.theguardian.com/politics/2026/may/15/james-murray-new-health-secretary-replacing-wes-streeting",
-        "description": "The MP for Ealing North has not run a major department before, but has a reputation as one of the few politicians ‘nobody hates’UK politics live – latest updatesThe softly spoken former Treasury mi...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -183,7 +183,7 @@
         "category": "housing"
       },
       {
-        "title": "From reality TV villain to mayor? Spencer Pratt tries to convince Los Angeles he should lead the city",
+        "title": "Spencer Pratt was a noughties reality TV villain. Can he convince Los Angeles to make him mayor?",
         "url": "https://www.theguardian.com/us-news/2026/may/16/spencer-pratt-los-angeles-mayor",
         "description": "The Hills’ antagonist has made the city’s response to the 2025 wildfires the central tenet of his campaignLos Angeles is no stranger to drama. But the rapid ascension of a former reality TV bad boy...",
         "source": "The Guardian",
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Judge rules gun, writings are admissible in Luigi Mangione's New York murder trial",
-        "url": "https://www.bbc.com/news/articles/cx21g6qz45xo?at_medium=RSS&at_campaign=rss",
-        "description": "Other items found with Mangione at a Pennsylvania McDonald's will not be allowed to be presented in court, the judge ruled.",
+        "title": "At least 100 dead in Ebola outbreak as US doctor working in DR Congo tests positive, reports say",
+        "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+        "description": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Two men arrested over stunt at enclosure of famed monkey Punch",
-        "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
-        "description": "Two US nationals have been arrested after one jumped the fence of the monkey, who went viral online, police say.",
+        "title": "What is Ebola and why is stopping this outbreak so difficult?",
+        "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
+        "description": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Former Google CEO Eric Schmidt booed by graduates at mention of AI",
-        "url": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
-        "description": "The reaction underscores a growing anxiety among students over AI's impact on jobs and their future careers.",
+        "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
+        "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
+        "description": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
