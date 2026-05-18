@@ -1,62 +1,62 @@
 {
-  "fetched_at": "2026-05-18T10:01:19.206380+00:00",
+  "fetched_at": "2026-05-18T15:29:55.340444+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Lammy dismisses Streeting’s call for UK to rejoin EU as ‘sixth form’ debating position – UK politics live",
+        "title": "Reeves poised to cancel planned fuel duty rise to help with cost of living",
+        "url": "https://www.theguardian.com/politics/2026/may/18/rachel-reeves-fuel-duty-cost-of-living",
+        "description": "Chancellor has been under pressure to extend 5p temporary cut at an estimated cost to government of £2.4bn a yearUK politics live – latest updatesRachel Reeves is planning to cancel a rise in fuel ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "‘I am not going to walk away’, says Starmer – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/may/18/keir-starmer-labour-leadership-wes-streeting-andy-burnham-david-lammy-brexit-eu-latest-news-updates",
-        "description": "Deputy PM says the public will not forgive weeks of internal debate on the EU and Labour leadership, warning it will play into Reform’s handsAngela Rayner was asked by No 10 last week if she would ...",
+        "description": "The prime minister said he wouldn’t be setting out a timetable to stand down if Andy Burnham wins the Makerfield byelectionJakub Krupa writes the Guardian’s Europe live blog.The European Commission...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer is not setting out timetable for his departure, says David Lammy",
-        "url": "https://www.theguardian.com/politics/2026/may/18/keir-starmer-not-setting-out-timetable-departure-david-lammy-andy-burnham-labour",
-        "description": "Deputy PM says Andy Burnham would be ‘great addition to parliament’ but leadership row is an ‘own goal’ for LabourKeir Starmer is not about to set a timetable for his departure from Downing Street,...",
+        "title": "Andy Burnham says he will not try to return UK to EU",
+        "url": "https://www.theguardian.com/politics/2026/may/18/andy-burnham-says-he-will-not-try-to-return-uk-to-eu",
+        "description": "Burnham vows to have ‘relentless domestic focus’ in Makerfield in first speech since announcing byelection runUK politics live – latest updatesAndy Burnham has said he will not try to return the UK...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "National Conversation project launches as Britain risks ‘being torn apart by differences’",
-        "url": "https://www.theguardian.com/society/2026/may/18/national-conversation-project-britain-community-social-cohesion",
-        "description": "Commission led by Sajid Javid and Jon Cruddas asks public to share vision of community and country to help rebuild social cohesionSajid Javid has warned the country risks “being torn apart by our d...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "HS2 failings blamed on high-speed focus and political pressure",
-        "url": "https://www.bbc.com/news/articles/c936xeeye41o?at_medium=RSS&at_campaign=rss",
-        "description": "A new reviews confirms the high-speed rail line's \"original sins\" include a technical design, changing political priorities and ballooning costs.",
+        "title": "PM insists he will not walk away as Burnham promises to change Labour",
+        "url": "https://www.bbc.com/news/articles/cx21en4807wo?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister has faced calls from his own MPs to step down and outline a timetable for his departure.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK government borrowing costs slip back from multi-year highs as bond market rout calms – business live",
+        "title": "Rising prices are Britons’ biggest money worry as inflation stays high, survey finds",
+        "url": "https://www.theguardian.com/business/2026/may/18/rising-prices-money-inflation-higher-interest-rates-petrol-prices",
+        "description": "Households ‘increasingly gloomy’ about finances amid fears of interest rate rises due to higher fuel pricesBusiness live – latest updatesRising prices have become the top financial concern for UK h...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "IMF raises UK growth forecast and backs Reeves’s deficit reduction plans; bonds recover as oil price falls – business live",
         "url": "https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates",
-        "description": "Rolling coverage of the latest economic and financial news, as rising oil price sours sentiment in the markets and drive up bond yieldsThe head of the International Monetary Fund has said that a se...",
+        "description": "International Monetary Fund says ‘Staying the course on deficit reduction will be important’ for the UK, in annual assessment of the economyIMF urges UK to ‘stay the course’ on borrowing amid Starm...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Oil prices rise and bonds wobble as Iran war stokes inflation fears",
-        "url": "https://www.theguardian.com/business/2026/may/18/oil-prices-rise-bonds-iran-war-peace-talks-inflation-trump-crude-gilts-starmer",
-        "description": "Trump warning over peace talks drives up crude price as UK gilts hit by uncertainty over Starmer leadershipBusiness live – latest updatesOil prices rose and global bonds wobbled on Monday, as fresh...",
+        "title": "Donald Trump’s approval rating sinks to lowest point of second term",
+        "url": "https://www.theguardian.com/us-news/2026/may/18/donald-trump-second-term-approval-rating-drops",
+        "description": "US president’s approval rating falls to 37% days after he said Americans’ financial situation is not motivating him to broker deal with IranDonald Trump’s approval rating has fallen to its lowest p...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "UK firms halt investments and hiring as Iran war pushes up costs, bosses warn",
-        "url": "https://www.theguardian.com/business/2026/may/18/uk-firms-halt-investments-and-hiring-as-iran-war-pushes-up-costs-bosses-warn",
-        "description": "Survey shows businesses ‘struggling to absorb latest economic shock’, while data says April vacancies down 7.7%The worsening fallout from the Iran war is forcing businesses to halt their UK investm...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil prices rise after Trump warns Iran over stalled peace talks",
-        "url": "https://www.bbc.com/news/articles/czx2ne2ryppo?at_medium=RSS&at_campaign=rss",
-        "description": "Energy markets have been on a wild ride as the key Strait of Hormuz waterway remains effectively closed.",
+        "title": "UK growth forecast upgraded by IMF but risks remain",
+        "url": "https://www.bbc.com/news/articles/cm2p72mmddyo?at_medium=RSS&at_campaign=rss",
+        "description": "Growth has been upgraded from 0.8% to 1% for 2026 in the influential body's latest forecast.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Trump cuts to weather data could make forecasts less reliable, warn experts",
+        "url": "https://www.theguardian.com/us-news/2026/may/18/trump-cuts-ai-weather-prediction-forecasts",
+        "description": "Use of AI is a valuable tool for weather prediction but only when it’s trained with ample data, experts sayAs the US prepares for hurricane season and a summer of record-breaking heat, experts fear...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "More than 100 UK datacentres plan to burn gas to generate electricity",
         "url": "https://www.theguardian.com/business/2026/may/18/uk-datacentres-plan-to-burn-gas-to-generate-electricity",
         "description": "Requests for gas connections by operators amount to more than 15 terawatt hours per year, endangering climate targetsMore than 100 new datacentres in the UK plan to burn gas to generate electricity...",
@@ -126,13 +133,6 @@
         "title": "Experts sound alarm as North America’s bees start swarm season unusually early",
         "url": "https://www.theguardian.com/environment/2026/may/17/north-america-bees-early-swarm-season",
         "description": "After record losses last year, beekeepers report a warm winter has led to bees ‘waking up earlier’ this yearAfter a series of record-breaking US heatwaves, the 2026 bee swarm season in North Americ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Maldives diver dies in operation to recover bodies of Italians from cave",
-        "url": "https://www.theguardian.com/world/2026/may/16/maldives-scuba-divers-italy-drowned-cave",
-        "description": "Mohamed Mahudhee suffered decompression sickness after searching for scuba divers in Vaavu Atoll and died in hospitalA Maldivian military diver has died during a high-risk operation to recover the ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-        "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-        "description": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing.",
+        "title": "Judge rules gun, writings are admissible in Luigi Mangione's New York murder trial",
+        "url": "https://www.bbc.com/news/articles/cx21g6qz45xo?at_medium=RSS&at_campaign=rss",
+        "description": "Other items found with Mangione at a Pennsylvania McDonald's will not be allowed to be presented in court, the judge ruled.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Strike over high fuel prices paralyses transport in Kenya",
-        "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
-        "description": "Key roads have remained largely empty and some schools have asked students to stay at home.",
+        "title": "Two men arrested over stunt at enclosure of famed monkey Punch",
+        "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
+        "description": "Two US nationals have been arrested after one jumped the fence of the monkey, who went viral online, police say.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Driver of crashed train tested positive for drugs, Thai police say",
-        "url": "https://www.bbc.com/news/articles/c3v2ngnpgl9o?at_medium=RSS&at_campaign=rss",
-        "description": "The freight train collided with a bus in Bangkok, killing eight people and injuring dozens of others.",
+        "title": "Former Google CEO Eric Schmidt booed by graduates at mention of AI",
+        "url": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
+        "description": "The reaction underscores a growing anxiety among students over AI's impact on jobs and their future careers.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
