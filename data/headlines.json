@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-19T03:28:56.798853+00:00",
+  "fetched_at": "2026-05-19T09:40:22.377519+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Labour likely to win next election with Burnham as leader, say party members – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates",
+        "description": "YouGov polling reveals support for prospective challenger, with members believing Starmer could not secure another victory Andrew Neil, the broadcaster and Daily Mail columnist, is not impressed by...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war",
+        "url": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
+        "description": "Pay growth eases to 3.4% as businesses face pressure from soaring energy costsAnalysis: No feelgood factor for ReevesBusiness live – latest updatesUnemployment in the UK has unexpectedly risen to 5...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Free up fertiliser supplies to avert global food crisis, Yvette Cooper urges",
         "url": "https://www.theguardian.com/global-development/2026/may/19/fertiliser-supplies-global-food-crisis-yvette-cooper",
         "description": "UK foreign secretary says urgent pressure needed to get strait of Hormuz reopened and fertiliser and fuel movingGlobal fertiliser supplies must be freed up within weeks to avoid disaster, with harv...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "‘Dodgy’ shops handling criminal cash targeted by new specialist unit",
-        "url": "https://www.theguardian.com/world/2026/may/18/dodgy-shops-handling-criminal-cash-targeted-by-new-unit",
-        "description": "Estimated £1bn per year is laundered through vape stores, barbers, mini-marts and sweet shops, officials say“Dodgy” retail outlets such as vape stores, barbers, mini-marts and sweet shops suspected...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "No ‘tailor-made’ deal for UK if it wants to rejoin bloc, say former EU Brexit officials",
-        "url": "https://www.theguardian.com/world/2026/may/18/no-tailor-made-deal-uk-eu-brexit-officials-rejoin",
-        "description": "Britain likely to face ‘warm, welcoming stance’ if it seeks re-entry but also a ‘hard-headed one’ – with no special dealsBritain would not be able to rejoin the EU on the special terms it enjoyed i...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,39 +33,46 @@
     ],
     "economy": [
       {
-        "title": "Rising prices are Britons’ biggest money worry as inflation stays high, survey finds",
-        "url": "https://www.theguardian.com/business/2026/may/18/rising-prices-money-inflation-higher-interest-rates-petrol-prices",
-        "description": "Households ‘increasingly gloomy’ about finances amid fears of interest rate rises due to higher fuel pricesRising prices have become the top financial concern for UK households, according to a mont...",
+        "title": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war",
+        "url": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
+        "description": "Pay growth eases to 3.4% as businesses face pressure from soaring energy costsAnalysis: No feelgood factor for ReevesBusiness live – latest updatesUnemployment in the UK has unexpectedly risen to 5...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Andy Burnham’s change in tack on fiscal rules and bond markets is understandable",
-        "url": "https://www.theguardian.com/politics/2026/may/18/andy-burnham-stance-fiscal-rules-bond-markets-analysis",
-        "description": "Bookies’ favourite to replace Keir Starmer tones down stance on government borrowing to assuage City investorsAndy Burnham has always faced a narrow path to replace Keir Starmer as prime minister: ...",
+        "title": "UK wage growth slows and unemployment rate rises as companies react to Iran war – business live",
+        "url": "https://www.theguardian.com/business/live/2026/may/19/uk-wage-growth-unemployment-rate-markets-business-live-news",
+        "description": "Jobless rate unexpectedly rises to 5% and employment falls by 100,000, biggest drop in six years; economists say June interest rate hike looks less likelyOur economics editor Heather Stewart report...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "IMF raises UK growth forecast and backs Reeves’s deficit reduction plans; bonds recover after sell-off – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates",
-        "description": "International Monetary Fund says ‘Staying the course on deficit reduction will be important’ for the UK, in annual assessment of the economyIMF urges UK to ‘stay the course’ on borrowing amid Starm...",
+        "title": "No feelgood factor for Reeves as Iran war snuffs out economic upturn",
+        "url": "https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment",
+        "description": "Rise in unemployment and weak pay growth underline how tough this year will be for UK householdsUK unemployment unexpectedly rises to 5%Business live – latest updatesNews that the UK unemployment r...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Faisal Islam: Burnham seeks to calm markets by committing to fiscal rules",
-        "url": "https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss",
-        "description": "Greater Manchester Mayor Andy Burnham is looking to manage the markets as well as the Makerfield byelection",
+        "title": "UK unemployment rate unexpectedly rises",
+        "url": "https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss",
+        "description": "The number of UK job vacancies also fell to its lowest level in five years as the initial impact of the Iran war on businesses starts to be seen.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "NHS urged to update website after renaming polycystic ovary syndrome",
+        "title": "NHS urged to update website after renaming of polycystic ovary syndrome",
         "url": "https://www.theguardian.com/society/2026/may/18/nhs-urged-to-update-website-after-renaming-polycystic-ovary-syndrome-polyendocrine-metabolic-syndrome-pcos-pmos",
-        "description": "Charity says absence of new name polyendocrine metabolic syndrome (PMOS) could cause confusionThe NHS must move quickly to update information for patients after the renaming of polycystic ovary syn...",
+        "description": "Charity says it hopes NHS will ‘move quickly’ to add new name, polyendocrine metabolic ovarian syndrome (PMOS)The NHS must move quickly to update information for patients after the renaming of poly...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "NHS rollout of artificial pancreas narrows inequality in diabetes care",
+        "url": "https://www.theguardian.com/society/2026/may/19/nhs-rollout-artificial-pancreas-narrows-inequality-diabetes-care",
+        "description": "Exclusive: People from deprived and minority ethnic backgrounds have better access to device than for previous technologiesThe rollout of a “life-changing” artificial pancreas on the NHS for people...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Two-thirds of NHS nurses believe lack of staff is putting patients at risk, survey finds",
-        "url": "https://www.theguardian.com/society/2026/may/18/nhs-nurses-believe-lack-of-staff-putting-patients-at-risk-survey-finds",
-        "description": "Union to urge ministers to bring in mandatory minimum staffing, as ageing population increases demand for careAlmost two-thirds of nurses believe there are too few of them working in the NHS to kee...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Canadian from hantavirus-hit cruise ship tests positive",
-        "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
-        "description": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
+        "title": "Ebola may be spreading faster than first thought, WHO doctor warns",
+        "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Waste carrier licences to be tightened as part of illegal dumping crackdown",
-        "url": "https://www.bbc.com/news/articles/c707jlxwx38o?at_medium=RSS&at_campaign=rss",
-        "description": "The proposed changes come after a cow named Beau Vine got approved for a waste removal licence.",
+        "title": "Europe's oldest science park could be redeveloped",
+        "url": "https://www.bbc.com/news/articles/c8d8rddp1vqo?at_medium=RSS&at_campaign=rss",
+        "description": "Cambridge Science Park submits plans which could create 20,000 jobs and new public spaces.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
+        "title": "Ebola may be spreading faster than first thought, WHO doctor warns",
+        "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Trump says he called off new Iran attack at request of Gulf states",
         "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+        "description": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
         "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
         "description": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "At least 100 dead in Ebola outbreak in DR Congo, official says",
-        "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
-        "description": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
