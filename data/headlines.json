@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-05-19T09:40:22.377519+00:00",
+  "fetched_at": "2026-05-19T15:18:26.182318+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Labour likely to win next election with Burnham as leader, say party members – UK politics live",
+        "title": "Minister defends Mandelson file redactions and says documents to be released in June – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates",
-        "description": "YouGov polling reveals support for prospective challenger, with members believing Starmer could not secure another victory Andrew Neil, the broadcaster and Daily Mail columnist, is not impressed by...",
+        "description": "Darren Jones says release will be ‘one of the largest government publications ever laid in this house’On Friday parliament’s intelligence and security committee issued a damning statement about the...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war",
-        "url": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
-        "description": "Pay growth eases to 3.4% as businesses face pressure from soaring energy costsAnalysis: No feelgood factor for ReevesBusiness live – latest updatesUnemployment in the UK has unexpectedly risen to 5...",
+        "title": "Senior minister defends decision to withhold some Mandelson files",
+        "url": "https://www.theguardian.com/politics/2026/may/19/senior-minister-defends-decision-withhold-mandelson-files",
+        "description": "Darren Jones says there are good reasons not to disclose certain details and next batch will be released next monthUK politics live – latest updatesA senior minister has defended the government’s d...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Free up fertiliser supplies to avert global food crisis, Yvette Cooper urges",
-        "url": "https://www.theguardian.com/global-development/2026/may/19/fertiliser-supplies-global-food-crisis-yvette-cooper",
-        "description": "UK foreign secretary says urgent pressure needed to get strait of Hormuz reopened and fertiliser and fuel movingGlobal fertiliser supplies must be freed up within weeks to avoid disaster, with harv...",
+        "title": "Stop the anonymous briefings and show respect, two ministers tell Labour MPs",
+        "url": "https://www.theguardian.com/politics/2026/may/19/stop-anonymous-briefings-respect-labour-cooper-reynolds",
+        "description": "Yvette Cooper and Jonathan Reynolds urge colleagues to support each other and remember ‘who we’re here to serve’UK politics live – latest updatesTwo cabinet ministers have warned Labour colleagues ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham pledges not to 're-run' Brexit arguments",
-        "url": "https://www.bbc.com/news/articles/cx21en4807wo?at_medium=RSS&at_campaign=rss",
-        "description": "The potential leadership challenger says he is not proposing the UK considers rejoining the EU.",
+        "title": "Burnham confirmed as Labour candidate in Makerfield",
+        "url": "https://www.bbc.com/news/articles/cewpj870pw7o?at_medium=RSS&at_campaign=rss",
+        "description": "The Labour Party formally announces Andy Burnham as its candidate to stand in the Makerfield by-election.",
         "source": "BBC News",
         "category": "government"
       }
@@ -40,7 +40,7 @@
         "category": "economy"
       },
       {
-        "title": "UK wage growth slows and unemployment rate rises as companies react to Iran war – business live",
+        "title": "UK wage growth slows and unemployment rate rises as companies react to Iran war – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/may/19/uk-wage-growth-unemployment-rate-markets-business-live-news",
         "description": "Jobless rate unexpectedly rises to 5% and employment falls by 100,000, biggest drop in six years; economists say June interest rate hike looks less likelyOur economics editor Heather Stewart report...",
         "source": "The Guardian",
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "UK unemployment rate unexpectedly rises",
-        "url": "https://www.bbc.com/news/articles/czx2plkvg45o?at_medium=RSS&at_campaign=rss",
-        "description": "The number of UK job vacancies also fell to its lowest level in five years as the initial impact of the Iran war on businesses starts to be seen.",
+        "title": "Petrol hits highest price since start of Iran war",
+        "url": "https://www.bbc.com/news/articles/cdep64555wzo?at_medium=RSS&at_campaign=rss",
+        "description": "The average price of unleaded has risen to 158.52p a litre, according to the RAC, who warn that it could rise further in the coming weeks.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,7 +84,7 @@
         "category": "nhs"
       },
       {
-        "title": "Ebola may be spreading faster than first thought, WHO doctor warns",
+        "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
         "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
         "description": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
         "source": "BBC News",
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘Foolish’ CSIRO job cuts will mean Australia unable to provide climate projections to global reports, scientists warn",
+        "url": "https://www.theguardian.com/australia-news/2026/may/20/csiro-job-cuts-climate-australia-projections-to-global-reports",
+        "description": "Exclusive: Science agency is planning to sack a third of the team working on the national climate model, sources sayGet our breaking news email, free app or daily news podcastJob cuts at the nation...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Trump cuts to weather data could make forecasts less reliable, warn experts",
         "url": "https://www.theguardian.com/us-news/2026/may/18/trump-cuts-ai-weather-prediction-forecasts",
         "description": "Use of AI is a valuable tool for weather prediction but only when it’s trained with ample data, experts sayAs the US prepares for hurricane season and a summer of record-breaking heat, experts fear...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Experts sound alarm as North America’s bees start swarm season unusually early",
-        "url": "https://www.theguardian.com/environment/2026/may/17/north-america-bees-early-swarm-season",
-        "description": "After record losses last year, beekeepers report a warm winter has led to bees ‘waking up earlier’ this yearAfter a series of record-breaking US heatwaves, the 2026 bee swarm season in North Americ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Europe's oldest science park could be redeveloped",
         "url": "https://www.bbc.com/news/articles/c8d8rddp1vqo?at_medium=RSS&at_campaign=rss",
         "description": "Cambridge Science Park submits plans which could create 20,000 jobs and new public spaces.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Children’s reading should prioritise pleasure over learning, says laureate",
+        "url": "https://www.theguardian.com/society/2026/may/19/childrens-reading-should-prioritise-pleasure-over-learning-says-laureate",
+        "description": "Frank Cottrell-Boyce tells MPs to focus on early-years reading, with more support for parents and nursery workersThe children’s laureate Frank Cottrell-Boyce has urged the government to prioritise ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Third of university students in Great Britain think AI job losses will cause social unrest, poll finds",
         "url": "https://www.theguardian.com/technology/2026/may/19/third-university-students-think-ai-job-losses-cause-social-unrest-poll",
@@ -158,16 +165,16 @@
         "description": "Galleries such as National Museum Cardiff pull in children with their play areas and pencils – but stick around and you’ll notice kids critiquing Turner paintings tooNeil Osborne and his three-year...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Sons of jailed Saudi scholars urge Cambridge to drop plans to train Riyadh staff",
-        "url": "https://www.theguardian.com/education/2026/may/17/sons-scholars-facing-death-penalty-cambrige-judge-business-school-saudi-defence-ministry",
-        "description": "Exclusive: Families of men facing death penalty join opposition to proposals to run courses for defence ministryThe families of two scholars facing the death penalty in Saudi Arabia have appealed t...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Rough sleepers are in public, but the public look away. This Adelaide program could provide an answer",
+        "url": "https://www.theguardian.com/society/2026/may/20/rough-sleepers-homelessness-australia-stigma-adelaide-street-connect-ntwnfb",
+        "description": "Street Connect allows people to flag the location of a rough sleeper, triggering an outreach worker to visit themGet our breaking news email, free app or daily news podcastOn a cold, bright autumn ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "A house for £1? What a day at a property auction taught me about the UK housing crisis",
         "url": "https://www.theguardian.com/society/2026/may/18/what-property-auction-taught-me-uk-housing-crisis",
@@ -181,34 +188,27 @@
         "description": "Planning inspector backs council’s rejection of development, which was ‘not exemplary, extraordinary, remarkable or distinctive, just tall’Celebrities including Rolling Stones frontman Mick Jagger ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Spencer Pratt was a noughties reality TV villain. Can he convince Los Angeles to make him mayor?",
-        "url": "https://www.theguardian.com/us-news/2026/may/16/spencer-pratt-los-angeles-mayor",
-        "description": "The Hills’ antagonist has made the city’s response to the 2025 wildfires the central tenet of his campaignLos Angeles is no stranger to drama. But the rapid ascension of a former reality TV bad boy...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Ebola may be spreading faster than first thought, WHO doctor warns",
+        "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
         "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
         "description": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump says he called off new Iran attack at request of Gulf states",
-        "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".",
+        "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
+        "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
+        "description": "Security guard Amin Abdullah, one of three killed in the attack, was described as \"a shining light\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
-        "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
-        "description": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
+        "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
+        "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
+        "description": "Nadia Marcinko is relatively unknown but may soon be called before US legislators.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
