@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-18T19:43:18.679898+00:00",
+  "fetched_at": "2026-05-19T03:28:56.798853+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Free up fertiliser supplies to avert global food crisis, Yvette Cooper urges",
+        "url": "https://www.theguardian.com/global-development/2026/may/19/fertiliser-supplies-global-food-crisis-yvette-cooper",
+        "description": "UK foreign secretary says urgent pressure needed to get strait of Hormuz reopened and fertiliser and fuel movingGlobal fertiliser supplies must be freed up within weeks to avoid disaster, with harv...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "‘Dodgy’ shops handling criminal cash targeted by new specialist unit",
+        "url": "https://www.theguardian.com/world/2026/may/18/dodgy-shops-handling-criminal-cash-targeted-by-new-unit",
+        "description": "Estimated £1bn per year is laundered through vape stores, barbers, mini-marts and sweet shops, officials say“Dodgy” retail outlets such as vape stores, barbers, mini-marts and sweet shops suspected...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "No ‘tailor-made’ deal for UK if it wants to rejoin bloc, say former EU Brexit officials",
         "url": "https://www.theguardian.com/world/2026/may/18/no-tailor-made-deal-uk-eu-brexit-officials-rejoin",
         "description": "Britain likely to face ‘warm, welcoming stance’ if it seeks re-entry but also a ‘hard-headed one’ – with no special dealsBritain would not be able to rejoin the EU on the special terms it enjoyed i...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Andy Burnham vows to ‘change Labour’ in direct challenge to Keir Starmer",
-        "url": "https://www.theguardian.com/politics/2026/may/18/andy-burnham-vows-change-labour-direct-challenge-keir-starmer",
-        "description": "Expected candidate in Makerfield byelection says party ‘needs to change if we are to regain people’s trust’Andy Burnham drew the battle lines for the future of the Labour party on Monday as the Gre...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Farage claim he bought £1.4m house with I’m a Celebrity fee under scrutiny",
-        "url": "https://www.theguardian.com/politics/2026/may/18/farage-claim-bought-house-with-im-a-celebrity-fee-under-scrutiny",
-        "description": "Accounts for Reform UK leader’s media company suggest money was not withdrawn at time of property purchase Nigel Farage is facing fresh scrutiny over his claim that he paid for his £1.4m house from...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -35,7 +35,7 @@
       {
         "title": "Rising prices are Britons’ biggest money worry as inflation stays high, survey finds",
         "url": "https://www.theguardian.com/business/2026/may/18/rising-prices-money-inflation-higher-interest-rates-petrol-prices",
-        "description": "Households ‘increasingly gloomy’ about finances amid fears of interest rate rises due to higher fuel pricesBusiness live – latest updatesRising prices have become the top financial concern for UK h...",
+        "description": "Households ‘increasingly gloomy’ about finances amid fears of interest rate rises due to higher fuel pricesRising prices have become the top financial concern for UK households, according to a mont...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Jury tosses Elon Musk's lawsuit against OpenAI and its boss Sam Altman",
-        "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-        "description": "Jurors spent nearly a month hearing and viewing evidence in the high-profile trial, where Musk had accused Altman of \"stealing a charity\".",
+        "title": "Faisal Islam: Burnham seeks to calm markets by committing to fiscal rules",
+        "url": "https://www.bbc.com/news/articles/c0e2dl455d5o?at_medium=RSS&at_campaign=rss",
+        "description": "Greater Manchester Mayor Andy Burnham is looking to manage the markets as well as the Makerfield byelection",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "Two-thirds of NHS nurses believe lack of staff is putting patients at risk, survey finds",
-        "url": "https://www.theguardian.com/society/2026/may/18/nhs-nurses-believe-lack-of-staff-putting-patients-at-risk-survey-finds",
-        "description": "Union to urge ministers to bring in mandatory minimum staffing, as ageing population increases demand for careAlmost two-thirds of nurses believe there are too few of them working in the NHS to kee...",
+        "title": "Racist abuse of NHS nurses rising amid ‘normalisation’ of extreme views, RCN warns",
+        "url": "https://www.theguardian.com/society/2026/may/19/racist-abuse-nhs-nurses-jumps-rcn-figures",
+        "description": "Figures disclosed by nursing union show big rise on reported incidents which may only be ‘tip of the iceberg’Racist abuse of NHS nurses has jumped by 86% in the last few years, which their union’s ...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Campaigners threaten legal action over UK-US deal on prices NHS pays for drugs",
-        "url": "https://www.theguardian.com/society/2026/may/18/campaigners-threaten-legal-action-over-uk-us-deal-on-prices-nhs-pays-for-drugs",
-        "description": "Two campaign groups claim that change to how NHS treatments are approved amounts to ‘unlawful power grab’Campaigners against the UK’s controversial drug pricing deal with Donald Trump are threateni...",
+        "title": "Two-thirds of NHS nurses believe lack of staff is putting patients at risk, survey finds",
+        "url": "https://www.theguardian.com/society/2026/may/18/nhs-nurses-believe-lack-of-staff-putting-patients-at-risk-survey-finds",
+        "description": "Union to urge ministers to bring in mandatory minimum staffing, as ageing population increases demand for careAlmost two-thirds of nurses believe there are too few of them working in the NHS to kee...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Third of university students in Great Britain think AI job losses will cause social unrest, poll finds",
+        "url": "https://www.theguardian.com/technology/2026/may/19/third-university-students-think-ai-job-losses-cause-social-unrest-poll",
+        "description": "Tracker of attitudes towards artificial intelligence also finds almost half of the public would prefer to avoid itOne in three university students think AI will wipe out jobs so rapidly it will tri...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "After dinosaurs, it’s spot the dog! But can a child really learn anything in a gallery?",
         "url": "https://www.theguardian.com/artanddesign/2026/may/18/national-museum-cardiff-can-a-child-really-learn-anything-in-a-gallery",
         "description": "Galleries such as National Museum Cardiff pull in children with their play areas and pencils – but stick around and you’ll notice kids critiquing Turner paintings tooNeil Osborne and his three-year...",
@@ -156,13 +163,6 @@
         "title": "Sons of jailed Saudi scholars urge Cambridge to drop plans to train Riyadh staff",
         "url": "https://www.theguardian.com/education/2026/may/17/sons-scholars-facing-death-penalty-cambrige-judge-business-school-saudi-defence-ministry",
         "description": "Exclusive: Families of men facing death penalty join opposition to proposals to run courses for defence ministryThe families of two scholars facing the death penalty in Saudi Arabia have appealed t...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "La Gradiva review – stunning coming-of-age story of young love and sexual tension",
-        "url": "https://www.theguardian.com/film/2026/may/16/la-gradiva-review-stunning-coming-of-age-story-of-young-love-and-sexual-tension",
-        "description": "Cannes film festival: Marine Atlan’s debut film follows a group of French high-school kids and their long-suffering teacher on a visit to Pompeii and NaplesHere is cinematographer turned director M...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "At least 100 dead in Ebola outbreak as US doctor working in DR Congo tests positive, reports say",
+        "title": "Trump says he called off new Iran attack at request of Gulf states",
+        "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque",
+        "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
+        "description": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "At least 100 dead in Ebola outbreak in DR Congo, official says",
         "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
         "description": "The World Health Organization (WHO) has declared the outbreak an international emergency.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "What is Ebola and why is stopping this outbreak so difficult?",
-        "url": "https://www.bbc.com/news/articles/cz72p75zg4qo?at_medium=RSS&at_campaign=rss",
-        "description": "An outbreak of Ebola in DR Congo involves a rare strain and is in an area affected by conflict.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
-        "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
-        "description": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
