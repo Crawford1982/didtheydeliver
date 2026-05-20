@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-05-20T15:17:43.862183+00:00",
+  "fetched_at": "2026-05-20T20:13:11.463042+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Streeting says he resigned because Labour ‘in fight of our lives against nationalism’, and is currently losing – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/may/20/keir-starmer-wes-streeting-labour-leadership-kemi-badenoch-pmqs-conservatives-reform-uk-politics-latest-news-updates",
-        "description": "Former health secretary standing down after saying he no longer had confidence in Keir Starmer as PMLabour is in a curious, transitional state at the moment. Officially Keir Starmer is committed to...",
+        "title": "UK struggles to reassure Ukraine after easing new sanctions on Russian oil",
+        "url": "https://www.theguardian.com/world/2026/may/20/uk-struggles-to-reassure-ukraine-after-easing-new-sanctions-on-russian-oil",
+        "description": "Diplomats mount salvage operation after ‘clumsy’ announcement upsets KyivThe UK was last night desperately trying to reassure Kyiv its new sanctions policy on Russia did not weaken restrictions, af...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "A decade after the Brexit vote, we want to hear how you feel now",
-        "url": "https://www.theguardian.com/politics/2026/may/20/brexit-vote-decade-later-we-want-to-hear-how-you-feel-now",
-        "description": "As the UK approaches the 10th anniversary of the Brexit referendum, we’d like to hear how people feel about the decision now and whether your views have changed over the past decadeIt’s been nearly...",
+        "title": "Burnham to back Shabana Mahmood’s immigration changes, allies say",
+        "url": "https://www.theguardian.com/politics/2026/may/20/burnham-to-back-shabana-mahmoods-immigration-changes-allies-say",
+        "description": "Exclusive: Greater Manchester mayor understood to support home secretary’s push to limit legal and illegal migrationAndy Burnham is backing Shabana Mahmood’s controversial changes to the immigratio...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "ChatGPT and other AI bots made huge errors before Scottish election, study finds",
-        "url": "https://www.theguardian.com/technology/2026/may/20/ai-chatbots-chatgpt-replika-grok-gemini-misinformation-scottish-election-demos",
-        "description": "Exclusive: Electoral Commission calls for new controls, as Demos finds tools made up fake scandals, invented candidates or gave wrong dateUK politics live – latest updatesThe Electoral Commission h...",
+        "title": "Starmer’s top advisers knew about ‘indefensible’ journalists probe, documents reveal",
+        "url": "https://www.theguardian.com/media/2026/may/20/keir-starmer-advisers-journalists-investigation-thinktank",
+        "description": "PM’s former chief of staff, Morgan McSweeney, among aides briefed on investigation into reporters writing about Labour TogetherKeir Starmer’s most senior advisers were briefed about an “indefensibl...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK waters down new Russian oil sanctions as fuel prices rise",
-        "url": "https://www.bbc.com/news/articles/cy42x3g7r89o?at_medium=RSS&at_campaign=rss",
-        "description": "The change reflects increasing supply concerns over certain fuels due to the effective blockade of the Strait of Hormuz.",
+        "title": "Fuel duty freeze extended until the end of the year",
+        "url": "https://www.bbc.com/news/articles/c3021md6jq6o?at_medium=RSS&at_campaign=rss",
+        "description": "Fuel duty was initially cut by 5p in March 2022, under the Conservative government.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "The Treasury’s supermarket food price cap wheeze was bananas | Nils Pratley",
+        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/20/treasury-supermarket-food-price-cap",
+        "description": "Retailers such as M&S need not worry – the UK is not in a state of emergency and competition is clearly workingCall for food price caps ‘preposterous’, says M&S boss“Completely preposterous,” said ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "UK inflation eases more than expected to 2.8%, led by lower electricity and gas bills – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates",
@@ -47,39 +54,32 @@
         "category": "economy"
       },
       {
-        "title": "UK inflation slows to 2.8% as energy price cap softens impact of rising fuel costs",
-        "url": "https://www.theguardian.com/business/2026/may/20/uk-inflation-slows-energy-price-cap-softens-impact-of-rising-fuel-costs",
-        "description": "Lower than expected April annual rate a lift for Rachel Reeves as impact of Iran war yet to fully hit householdsBusiness live – latest updatesUK inflation slowed to 2.8% in April, the lowest rate i...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Supermarkets hit back over pressure to cap price of milk, bread and eggs",
-        "url": "https://www.bbc.com/news/articles/c5y7qz806q3o?at_medium=RSS&at_campaign=rss",
-        "description": "A minister confirms talks have taken place but says there will be no mandatory cap on essential food prices.",
+        "title": "UK agrees £3.7bn trade deal with six Gulf states",
+        "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
+        "description": "The deal will remove an estimated £580m worth of tariffs from British exports, but rights groups are critical",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
+        "title": "The causes and dire effects of the NHS nurse shortage | Letters",
+        "url": "https://www.theguardian.com/society/2026/may/20/the-causes-and-dire-effects-of-the-nhs-nurse-shortage",
+        "description": "Zoe Anderson says the health service’s rigid working conditions forced her to leave. Plus Jill Whitehead on how a lack of nursing care contributed to her son’s deathThe latest figures from the Roya...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Why patients are turning to Dr Chatbot | Letters",
+        "url": "https://www.theguardian.com/society/2026/may/20/why-patients-are-turning-to-dr-chatbot",
+        "description": "Richard Eltringham and Barbara Riddell point to the decline in general practice as the reason why people are turning to AI for health advice. Plus a letter from Dr Katie BakerYour report (One in se...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Children in mental health crisis waiting up to three days in A&E for specialist bed in England",
         "url": "https://www.theguardian.com/society/2026/may/20/children-mental-health-crisis-three-days-ae-specialist-bed-england",
         "description": "Nurses’ union criticises ‘catastrophic system-wide failure’ in NHS as more under-18s getting stuck in emergency wardsChildren and young people in England having a mental health crisis are spending ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Least fit people need to do more exercise than fittest to get same benefit – study",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/may/19/least-fit-people-need-to-do-more-exercise-than-fittest-to-get-same-benefit-study",
-        "description": "Research appears to challenge previous studies but some experts call aspects of it ‘misguided’People who are the least fit need to do 30-50 minutes more exercise a week than the fittest to get the ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "NHS rollout of artificial pancreas narrows inequality in diabetes care",
-        "url": "https://www.theguardian.com/society/2026/may/19/nhs-rollout-artificial-pancreas-narrows-inequality-diabetes-care",
-        "description": "Exclusive: People from deprived and minority ethnic backgrounds have better access to device than for previous technologiesThe rollout of a “life-changing” artificial pancreas on the NHS for people...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
+        "title": "Asylum seeker has deportation ticket cancelled after attempting suicide",
+        "url": "https://www.theguardian.com/uk-news/2026/may/20/asylum-seeker-deportation-ticket-cancelled-attempting-take-his-own-life",
+        "description": "Eritrean man was due to be forcibly removed to France under ‘one in, one out’ schemeAn Eritrean asylum seeker who was due to be forcibly removed to France today under the “one in, one out” scheme h...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Burnham to back Shabana Mahmood’s immigration changes, allies say",
+        "url": "https://www.theguardian.com/politics/2026/may/20/burnham-to-back-shabana-mahmoods-immigration-changes-allies-say",
+        "description": "Exclusive: Greater Manchester mayor understood to support home secretary’s push to limit legal and illegal migrationAndy Burnham is backing Shabana Mahmood’s controversial changes to the immigratio...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Hundreds of children affected by UK’s halting of refugee family reunion, says Red Cross",
         "url": "https://www.theguardian.com/politics/2026/may/18/hundreds-of-children-affected-uk-suspension-refugee-family-reunion-red-cross",
         "description": "Charity estimates up to 1,360 children could remain separated from families for every month the suspension continuesHundreds of children every month face being separated from their families since t...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "UK and France extend ‘one in, one out’ small boats pilot scheme until October",
-        "url": "https://www.theguardian.com/uk-news/2026/may/16/uk-and-france-extend-one-in-one-out-small-boats-pilot-scheme-until-october",
-        "description": "Asylum seekers express dismay at continuation of scheme agreed last year that has failed to stop crossings in ChannelThe Home Office is extending a controversial scheme to stop asylum seekers cross...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "UK joins European deal to send rejected asylum seekers to third-country hubs",
-        "url": "https://www.theguardian.com/world/2026/may/15/uk-joins-european-deal-to-send-rejected-asylum-seekers-to-third-country-hubs",
-        "description": "All 46 Council of Europe members sign agreement ‘deplored’ by human rights organisations The UK and 45 other European countries have signed an agreement that explicitly endorses plans to send unwan...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
+        "title": "British Council staff in Italy to strike over proposed 80% workforce cut",
+        "url": "https://www.theguardian.com/politics/2026/may/20/british-council-staff-italy-strike-workforce-cut",
+        "description": "Soft power institution faces funding crisis linked to Covid-era government loan due to be repaid by SeptemberStaff at the British Council in Italy will go on strike over deep cuts that would slash ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Harvard College will limit the number of students who can receive A grades",
+        "url": "https://www.theguardian.com/education/2026/may/20/harvard-college-cap-a-grade-students",
+        "description": "Mandatory cap on top grades at one of America’s most prestigious colleges will go into effect in fall of 2027Harvard faculty has voted to impose a roughly 20% cap on A grades in an effort to curb d...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "‘Attainment at all costs’ approach could undermine Send changes, school leaders in England say",
         "url": "https://www.theguardian.com/education/2026/may/20/attainment-at-all-costs-approach-send-changes-schools-england",
         "description": "Union says emphasis on academic goals conflicts with proposed measures on special educational needs provisionChanges to special educational needs provision in England could be thwarted by “academic...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Children’s reading should prioritise pleasure over learning, says laureate",
-        "url": "https://www.theguardian.com/society/2026/may/19/childrens-reading-should-prioritise-pleasure-over-learning-says-laureate",
-        "description": "Frank Cottrell-Boyce tells MPs to focus on early-years reading, with more support for parents and nursery workersThe children’s laureate, Frank Cottrell-Boyce, has urged the government to prioritis...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Third of university students in Great Britain think AI job losses will cause social unrest, poll finds",
-        "url": "https://www.theguardian.com/technology/2026/may/19/third-university-students-think-ai-job-losses-cause-social-unrest-poll",
-        "description": "Tracker of attitudes towards artificial intelligence also finds almost half of the public would prefer to avoid itOne in three university students think AI will wipe out jobs so rapidly it will tri...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,21 +192,21 @@
     ],
     "foreign_policy": [
       {
-        "title": "Xi basks in spotlight as he hosts Putin days after Trump",
-        "url": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
-        "description": "Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.",
+        "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
+        "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
+        "description": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump exerts iron grip on Republican Party with Massie defeated",
-        "url": "https://www.bbc.com/news/articles/cdjpng88d2vo?at_medium=RSS&at_campaign=rss",
-        "description": "Victory over a Republican rebel in Kentucky shows the president's strength but his power comes with risks for the midterms.",
+        "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+        "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+        "description": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "More die of suspected Ebola as WHO warns that numbers will rise further",
+        "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
         "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
         "description": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.",
         "source": "BBC News",
