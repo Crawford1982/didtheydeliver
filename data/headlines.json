@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-20T20:13:11.463042+00:00",
+  "fetched_at": "2026-05-21T03:35:51.772524+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK struggles to reassure Ukraine after easing new sanctions on Russian oil",
-        "url": "https://www.theguardian.com/world/2026/may/20/uk-struggles-to-reassure-ukraine-after-easing-new-sanctions-on-russian-oil",
-        "description": "Diplomats mount salvage operation after ‘clumsy’ announcement upsets KyivThe UK was last night desperately trying to reassure Kyiv its new sanctions policy on Russia did not weaken restrictions, af...",
+        "title": "Voters across parties believe UK net migration is rising despite sharp drop",
+        "url": "https://www.theguardian.com/world/2026/may/21/voters-across-parties-believe-uk-net-migration-is-rising-despite-sharp-drop",
+        "description": "Study, published as latest migration figures are released, shows incorrect perceptions driving immigration debatePeople mistakenly believe net migration is rising in Britain despite figures droppin...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham to back Shabana Mahmood’s immigration changes, allies say",
-        "url": "https://www.theguardian.com/politics/2026/may/20/burnham-to-back-shabana-mahmoods-immigration-changes-allies-say",
-        "description": "Exclusive: Greater Manchester mayor understood to support home secretary’s push to limit legal and illegal migrationAndy Burnham is backing Shabana Mahmood’s controversial changes to the immigratio...",
+        "title": "Manchester shows biggest fall in inner-city deprivation in boost for Burnham",
+        "url": "https://www.theguardian.com/business/2026/may/21/manchester-centre-for-cities-deprivation-andy-burnham",
+        "description": "City made outsized contribution to falling levels of deprivation between 2010 and 2025, thinktank finds Manchester has recorded the biggest fall in inner-city deprivation in Britain, according to a...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer’s top advisers knew about ‘indefensible’ journalists probe, documents reveal",
-        "url": "https://www.theguardian.com/media/2026/may/20/keir-starmer-advisers-journalists-investigation-thinktank",
-        "description": "PM’s former chief of staff, Morgan McSweeney, among aides briefed on investigation into reporters writing about Labour TogetherKeir Starmer’s most senior advisers were briefed about an “indefensibl...",
+        "title": "Reeves to promise free summer bus rides for children and food tariff cuts in living costs package",
+        "url": "https://www.theguardian.com/business/2026/may/20/rachel-reeves-summer-bus-rides-food-tariffs-inflation-fuel-duty",
+        "description": "Chancellor launches ‘Great British summer savings scheme’ after Keir Starmer postpones fuel duty increasePlanned fuel duty rise to be scrapped, says Keir StarmerRachel Reeves is to promise free sum...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "Manchester shows biggest fall in inner-city deprivation in boost for Burnham",
+        "url": "https://www.theguardian.com/business/2026/may/21/manchester-centre-for-cities-deprivation-andy-burnham",
+        "description": "City made outsized contribution to falling levels of deprivation between 2010 and 2025, thinktank finds Manchester has recorded the biggest fall in inner-city deprivation in Britain, according to a...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Reeves to promise free summer bus rides for children and food tariff cuts in living costs package",
+        "url": "https://www.theguardian.com/business/2026/may/20/rachel-reeves-summer-bus-rides-food-tariffs-inflation-fuel-duty",
+        "description": "Chancellor launches ‘Great British summer savings scheme’ after Keir Starmer postpones fuel duty increasePlanned fuel duty rise to be scrapped, says Keir StarmerRachel Reeves is to promise free sum...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "The Treasury’s supermarket food price cap wheeze was bananas | Nils Pratley",
         "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/20/treasury-supermarket-food-price-cap",
         "description": "Retailers such as M&S need not worry – the UK is not in a state of emergency and competition is clearly workingCall for food price caps ‘preposterous’, says M&S boss“Completely preposterous,” said ...",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "UK inflation eases more than expected to 2.8%, led by lower electricity and gas bills – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/may/20/uk-inflation-eases-lower-electricity-gas-bills-iran-war-business-latest-news-updates",
-        "description": "Food inflation slows to 3%, led by meat and chocolate; prices of computer game downloads drop sharply; economists say benign inflation data reduces chances of June rate hikeStamp duty should be scr...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Germany urged to stop admiring Beijing and wake up to ‘China Shock 2.0’",
-        "url": "https://www.theguardian.com/business/2026/may/20/germany-urged-stop-admiring-beijing-china-deindustrialisation",
-        "description": "‘China has already eaten much of German industry’s lunch and is preparing to start on dinner,’ thinktank saysBusiness live – latest updatesGermany must stop admiring China’s success in the EU or it...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK agrees £3.7bn trade deal with six Gulf states",
-        "url": "https://www.bbc.com/news/articles/c4g85dryv24o?at_medium=RSS&at_campaign=rss",
-        "description": "The deal will remove an estimated £580m worth of tariffs from British exports, but rights groups are critical",
+        "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
+        "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
+        "description": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
         "source": "BBC News",
         "category": "economy"
       }
@@ -100,39 +100,39 @@
         "category": "immigration"
       },
       {
-        "title": "Burnham to back Shabana Mahmood’s immigration changes, allies say",
-        "url": "https://www.theguardian.com/politics/2026/may/20/burnham-to-back-shabana-mahmoods-immigration-changes-allies-say",
-        "description": "Exclusive: Greater Manchester mayor understood to support home secretary’s push to limit legal and illegal migrationAndy Burnham is backing Shabana Mahmood’s controversial changes to the immigratio...",
+        "title": "Voters across parties believe UK net migration is rising despite sharp drop",
+        "url": "https://www.theguardian.com/world/2026/may/21/voters-across-parties-believe-uk-net-migration-is-rising-despite-sharp-drop",
+        "description": "Study, published as latest migration figures are released, shows incorrect perceptions driving immigration debatePeople mistakenly believe net migration is rising in Britain despite figures droppin...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Hundreds of children affected by UK’s halting of refugee family reunion, says Red Cross",
-        "url": "https://www.theguardian.com/politics/2026/may/18/hundreds-of-children-affected-uk-suspension-refugee-family-reunion-red-cross",
-        "description": "Charity estimates up to 1,360 children could remain separated from families for every month the suspension continuesHundreds of children every month face being separated from their families since t...",
+        "title": "Burnham to back Shabana Mahmood’s immigration changes, allies say",
+        "url": "https://www.theguardian.com/politics/2026/may/20/burnham-to-back-shabana-mahmoods-immigration-changes-allies-say",
+        "description": "Exclusive: Greater Manchester mayor understood to support home secretary’s push to limit legal and illegal migrationAndy Burnham is backing Shabana Mahmood’s controversial changes to the immigratio...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
+        "title": "UN backs historic climate crisis ruling, despite US attempts to stop resolution",
+        "url": "https://www.theguardian.com/environment/2026/may/21/un-vote-support-icj-world-court-climate-change-opinion",
+        "description": "The US, Russia, Iran and Saudi Arabia – some of the highest oil-producing nations and major greenhouse gas emitters – opposed the measureThe UN has voted 141-8 to adopt a resolution backing a world...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Young Americans demand court halt Trump’s biggest rollbacks of pollution protections",
+        "url": "https://www.theguardian.com/us-news/2026/may/20/trump-administration-climate-pollution-lawsuit",
+        "description": "Suit says administration is impinging on rights to life and liberty by worsening planet-warming and toxic pollutionEva v Goliath: the 20-year-old climate activist taking on Trump and the fossil fue...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Eva v Goliath: the 20-year-old climate activist taking on Trump and the fossil fuel industry",
         "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/20/eva-lighthiser-trump-climate",
-        "description": "Young Americans are suing the president for violating rights with executive orders that fuel the climate crisisEva Lighthiser was at a dorm party on her Colorado college campus last month when she ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "UK ‘built for climate that no longer exists’ and needs urgent changes to survive global heating, report warns",
-        "url": "https://www.theguardian.com/environment/2026/may/20/uk-built-for-climate-that-no-longer-exists-and-needs-urgent-changes-to-survive-global-heating-report-warns",
-        "description": "Landmark report calls for widespread air conditioning and says UK temperatures forecast to exceed 40C by 2050Britain must think like a hot country – otherwise inequalities will only growBritish hom...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Britain must think like a hot country – otherwise inequalities will only grow",
-        "url": "https://www.theguardian.com/science/2026/may/20/britain-must-think-like-a-hot-country-otherwise-inequalities-will-only-grow",
-        "description": "The government must act to redress the unequal impact of climate change, or risk rising temperatures making disparities worseUK ‘built for climate that no longer exists’ and needs urgent changes to...",
+        "description": "Young Americans are suing the president for violating rights with executive orders that fuel the climate crisisYoung Americans demand court halt Trump’s biggest rollbacks of pollution protectionsEv...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+        "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+        "description": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
         "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
         "description": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor.",
@@ -202,13 +209,6 @@
         "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
         "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
         "description": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Ebola vaccine could take nine months as death toll rises further, WHO warns",
-        "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
-        "description": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
