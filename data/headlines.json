@@ -1,38 +1,45 @@
 {
-  "fetched_at": "2026-05-21T03:35:51.772524+00:00",
+  "fetched_at": "2026-05-21T09:38:32.147522+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Voters across parties believe UK net migration is rising despite sharp drop",
-        "url": "https://www.theguardian.com/world/2026/may/21/voters-across-parties-believe-uk-net-migration-is-rising-despite-sharp-drop",
-        "description": "Study, published as latest migration figures are released, shows incorrect perceptions driving immigration debatePeople mistakenly believe net migration is rising in Britain despite figures droppin...",
+        "title": "Net migration into UK almost halved in 2025, official figures show – politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates",
+        "description": "Office for National Statistics says figure of 171,000 in year to December 2025 was the lowest since 2021The Conservatives are saying non-EU immigration remains “far too high”. This is what Chris Ph...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Manchester shows biggest fall in inner-city deprivation in boost for Burnham",
-        "url": "https://www.theguardian.com/business/2026/may/21/manchester-centre-for-cities-deprivation-andy-burnham",
-        "description": "City made outsized contribution to falling levels of deprivation between 2010 and 2025, thinktank finds Manchester has recorded the biggest fall in inner-city deprivation in Britain, according to a...",
+        "title": "Greens select nurse and ‘committed local campaigner’ as Makerfield byelection candidate",
+        "url": "https://www.theguardian.com/politics/2026/may/21/greens-select-nurse-chris-kennedy-makerfield-byelection-candidate",
+        "description": "Chris Kennedy chosen amid reports Greens do not want to be blamed for splitting progressive vote and allowing Reform to winUK politics live – latest updatesThe Green party has chosen “a committed l...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reeves to promise free summer bus rides for children and food tariff cuts in living costs package",
-        "url": "https://www.theguardian.com/business/2026/may/20/rachel-reeves-summer-bus-rides-food-tariffs-inflation-fuel-duty",
-        "description": "Chancellor launches ‘Great British summer savings scheme’ after Keir Starmer postpones fuel duty increasePlanned fuel duty rise to be scrapped, says Keir StarmerRachel Reeves is to promise free sum...",
+        "title": "Wes Streeting calls for equal tax on income and capital gains in Labour leadership pitch",
+        "url": "https://www.theguardian.com/politics/2026/may/21/wes-streeting-tax-income-capital-gains-wealth-labour-leadership",
+        "description": "MP says current system is unfair and his idea would result in a ‘wealth tax that works’UK politics live – latest updatesThe former health secretary Wes Streeting has set out plans for a “wealth tax...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Fuel duty freeze extended until the end of the year",
-        "url": "https://www.bbc.com/news/articles/c3021md6jq6o?at_medium=RSS&at_campaign=rss",
-        "description": "Fuel duty was initially cut by 5p in March 2022, under the Conservative government.",
+        "title": "Chris Mason: Reeves' summer savings drive won't stretch to energy bills",
+        "url": "https://www.bbc.com/news/articles/c4g9r92n3eqo?at_medium=RSS&at_campaign=rss",
+        "description": "The chancellor is announcing measures aimed at easing the cost of living - but no help yet with energy bills.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "Schools are ‘pipeline’ to joblessness for many people, says ex-Labour adviser",
+        "url": "https://www.theguardian.com/business/2026/may/21/schools-unemployment-young-people-neets-peter-hyman",
+        "description": "Ban social media and reform education to tackle scandal of young people not in work or study, says Peter HymanSchools have become a “pipeline” to worklessness for a large cohort of young people in ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Manchester shows biggest fall in inner-city deprivation in boost for Burnham",
         "url": "https://www.theguardian.com/business/2026/may/21/manchester-centre-for-cities-deprivation-andy-burnham",
         "description": "City made outsized contribution to falling levels of deprivation between 2010 and 2025, thinktank finds Manchester has recorded the biggest fall in inner-city deprivation in Britain, according to a...",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "The Treasury’s supermarket food price cap wheeze was bananas | Nils Pratley",
-        "url": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/may/20/treasury-supermarket-food-price-cap",
-        "description": "Retailers such as M&S need not worry – the UK is not in a state of emergency and competition is clearly workingCall for food price caps ‘preposterous’, says M&S boss“Completely preposterous,” said ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
-        "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
-        "description": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX",
+        "title": "EasyJet boss says summer flights won't  be hit by jet fuel shortages",
+        "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
+        "description": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,9 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "Asylum seeker has deportation ticket cancelled after attempting suicide",
-        "url": "https://www.theguardian.com/uk-news/2026/may/20/asylum-seeker-deportation-ticket-cancelled-attempting-take-his-own-life",
-        "description": "Eritrean man was due to be forcibly removed to France under ‘one in, one out’ schemeAn Eritrean asylum seeker who was due to be forcibly removed to France today under the “one in, one out” scheme h...",
+        "title": "Net migration to UK falls by nearly 50% after Labour’s vow to cut numbers",
+        "url": "https://www.theguardian.com/uk-news/2026/may/21/net-migration-uk-falls-labour-vow-cut-numbers",
+        "description": "Decline to 171,000 last year will encourage ministers in what is seen as a battleground issue against ReformUK politics live – latest updatesNet migration to the UK fell by nearly 50% to 171,000 la...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "England must harvest rainfall and take action on water usage, Lords warn",
+        "url": "https://www.theguardian.com/environment/2026/may/21/england-harvest-rainfall-water-usage-shortages-house-of-lords-report",
+        "description": "Without urgent intervention England faces water shortages of 5bn litres a day by 2055, peers tell governmentRainwater harvesting, the use of grey water in homes and an urgent campaign to reduce wat...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "UN backs historic climate crisis ruling, despite US attempts to stop resolution",
         "url": "https://www.theguardian.com/environment/2026/may/21/un-vote-support-icj-world-court-climate-change-opinion",
         "description": "The US, Russia, Iran and Saudi Arabia – some of the highest oil-producing nations and major greenhouse gas emitters – opposed the measureThe UN has voted 141-8 to adopt a resolution backing a world...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Eva v Goliath: the 20-year-old climate activist taking on Trump and the fossil fuel industry",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/20/eva-lighthiser-trump-climate",
-        "description": "Young Americans are suing the president for violating rights with executive orders that fuel the climate crisisYoung Americans demand court halt Trump’s biggest rollbacks of pollution protectionsEv...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Six ways to keep your home and yourself cool in hot weather",
         "url": "https://www.bbc.com/news/articles/cz6gxe61p70o?at_medium=RSS&at_campaign=rss",
         "description": "Six simple things you can do to help keep your house cool when temperatures rise.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Schools are ‘pipeline’ to joblessness for many people, says ex-Labour adviser",
+        "url": "https://www.theguardian.com/business/2026/may/21/schools-unemployment-young-people-neets-peter-hyman",
+        "description": "Ban social media and reform education to tackle scandal of young people not in work or study, says Peter HymanSchools have become a “pipeline” to worklessness for a large cohort of young people in ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "British Council staff in Italy to strike over proposed 80% workforce cut",
         "url": "https://www.theguardian.com/politics/2026/may/20/british-council-staff-italy-strike-workforce-cut",
@@ -158,13 +165,6 @@
         "description": "Mandatory cap on top grades at one of America’s most prestigious colleges will go into effect in fall of 2027Harvard faculty has voted to impose a roughly 20% cap on A grades in an effort to curb d...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "‘Attainment at all costs’ approach could undermine Send changes, school leaders in England say",
-        "url": "https://www.theguardian.com/education/2026/may/20/attainment-at-all-costs-approach-send-changes-schools-england",
-        "description": "Union says emphasis on academic goals conflicts with proposed measures on special educational needs provisionChanges to special educational needs provision in England could be thwarted by “academic...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
@@ -176,16 +176,16 @@
         "category": "housing"
       },
       {
-        "title": "Peter Aldington obituary",
-        "url": "https://www.theguardian.com/artanddesign/2026/may/20/peter-aldington-obituary",
-        "description": "Architect of modernist houses who combined an attention to materials with a sensitivity to space indoors and out The architect and gardener Peter Aldington, who has died aged 93, had a following an...",
+        "title": "‘I knew everyone here’: the tower block with 164 boarded-up homes – and a few residents who just won’t leave",
+        "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/21/lund-point-tower-block-east-london",
+        "description": "Lund Point in east London was once ‘a beautiful community’, according to Tee Fabikun, who has lived there since 1997. Now just four flats are occupied. Why are Fabikun and her friends hanging on? A...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Scrap stamp duty and council tax to fix London housing crisis, thinktank says",
-        "url": "https://www.theguardian.com/business/2026/may/20/scrap-stamp-duty-and-council-tax-to-fix-london-housing-crisis-thinktank-says",
-        "description": "Centre for London report finds levy on property wealth would free up homes, fund social housing and help renters save for depositsStamp duty should be scrapped and replaced with a new property weal...",
+        "title": "Peter Aldington obituary",
+        "url": "https://www.theguardian.com/artanddesign/2026/may/20/peter-aldington-obituary",
+        "description": "Architect of modernist houses who combined an attention to materials with a sensitivity to space indoors and out The architect and gardener Peter Aldington, who has died aged 93, had a following an...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -194,7 +194,7 @@
       {
         "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
         "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
-        "description": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft",
+        "description": "Cuba's current president says the charges against Castro - including conspiracy to kill US nationals and destruction of aircraft - are a \"political manoeuvre\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
-        "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
-        "description": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
+        "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
+        "url": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
+        "description": "The outbreak, caused by a rare Ebola species, is thought to have caused 139 deaths so far.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
