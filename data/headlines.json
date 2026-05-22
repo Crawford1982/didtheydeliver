@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-21T19:51:38.989564+00:00",
+  "fetched_at": "2026-05-22T03:34:26.223838+00:00",
   "headlines": {
     "government": [
       {
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Cheaper theme park tickets and children's meals as VAT to be cut for some attractions this summer",
-        "url": "https://www.bbc.com/news/articles/cd7pzr88de1o?at_medium=RSS&at_campaign=rss",
-        "description": "Chancellor Rachel Reeves made a series of announcements aimed at relieving cost-of-living pressures.",
+        "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
+        "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
+        "description": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,6 +70,13 @@
         "category": "nhs"
       },
       {
+        "title": "Melanoma skin cancer cases in UK hit record level, analysis finds",
+        "url": "https://www.theguardian.com/society/2026/may/22/melanoma-skin-cancer-cases-uk-reach-record",
+        "description": "Cancer Research UK figures show number diagnosed with most serious form of skin cancer has risen above 20,000 for first timeThe number of cases from the most serious form of skin cancer have reache...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "The causes and dire effects of the NHS nurse shortage | Letters",
         "url": "https://www.theguardian.com/society/2026/may/20/the-causes-and-dire-effects-of-the-nhs-nurse-shortage",
         "description": "Zoe Anderson says the health service’s rigid working conditions forced her to leave. Plus Jill Whitehead on how a lack of nursing care contributed to her son’s deathThe latest figures from the Roya...",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Why patients are turning to Dr Chatbot | Letters",
-        "url": "https://www.theguardian.com/society/2026/may/20/why-patients-are-turning-to-dr-chatbot",
-        "description": "Richard Eltringham and Barbara Riddell point to the decline in general practice as the reason why people are turning to AI for health advice. Plus a letter from Dr Katie BakerYour report (One in se...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Toilets and changing rooms must be used on basis of biological sex, guidance confirms",
-        "url": "https://www.bbc.com/news/articles/c0e2rj3zj02o?at_medium=RSS&at_campaign=rss",
-        "description": "The guidance was published on Thursday following the landmark Supreme Court ruling last year.",
+        "title": "Riskiest skin cancer cases hit UK record high",
+        "url": "https://www.bbc.com/news/articles/c4g0ryrewdxo?at_medium=RSS&at_campaign=rss",
+        "description": "The number of melanoma skin cancer cases has risen above 20,000 a year for the first time in the UK.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,7 +116,7 @@
     ],
     "climate": [
       {
-        "title": "US will see below-average 2026 hurricane season, Noaa predicts",
+        "title": "Atlantic hurricane season forecast to be milder than normal thanks to El Niño",
         "url": "https://www.theguardian.com/us-news/2026/may/21/hurricane-season-2026-noaa",
         "description": "Forecast came amid warning that US was unprepared for storms with staffing cuts under Trump administrationSign up for the Breaking News US newsletter emailThe US will see a below-normal hurricane s...",
         "source": "The Guardian",
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Meta settles major social media addiction lawsuit with school district",
+        "url": "https://www.theguardian.com/technology/2026/may/21/meta-social-media-addiction-kentucky-schools",
+        "description": "Kentucky is one of about 1,200 school districts across the US that have each sued Meta, TikTok, Snap and YouTubeMeta agreed to settle a major lawsuit on Thursday with a school district in Kentucky ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "‘It’s put the joy levels up’: the flood-prone London school with a climate-adapted playground",
         "url": "https://www.theguardian.com/environment/2026/may/21/flood-prone-london-school-climate-adapted-playground",
         "description": "When pupils could no longer play outside, St John’s school in Barnet decided to act, enlisting Trees for Cities to help rethink its outside spaceThe play area at St John’s Church of England primary...",
@@ -156,13 +163,6 @@
         "title": "Schools are ‘pipeline’ to joblessness for many people, says ex-Labour adviser",
         "url": "https://www.theguardian.com/business/2026/may/21/schools-unemployment-young-people-neets-peter-hyman",
         "description": "Ban social media and reform education to tackle scandal of young people not in work or study, says Peter HymanSchools have become a “pipeline” to worklessness for a large cohort of young people in ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "British Council staff in Italy to strike over proposed 80% workforce cut",
-        "url": "https://www.theguardian.com/politics/2026/may/20/british-council-staff-italy-strike-workforce-cut",
-        "description": "Soft power institution faces funding crisis linked to Covid-era government loan due to be repaid by SeptemberStaff at the British Council in Italy will go on strike over deep cuts that would slash ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Iran steps up claim to control Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
-        "description": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
+        "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
+        "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
+        "description": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
-        "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
-        "description": "A video showing a far-right Israeli minister taunting activists who were kneeling with their hands tied behind their backs has been widely condemned.",
+        "title": "Three ways Cuba crisis could play out  after US indictment of Raúl Castro",
+        "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
+        "description": "The Trump administration has been putting tremendous economic pressure on the island's Communist government.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russia and China condemn US over indictment of former Cuban leader",
-        "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
-        "description": "It comes after the US charged Raúl Castro with murder, the latest move putting pressure on the regime.",
+        "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
+        "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
+        "description": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
