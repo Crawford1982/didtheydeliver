@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-22T14:36:52.214326+00:00",
+  "fetched_at": "2026-05-22T19:42:51.967869+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham says politics ‘needs new script’ and vows to change Labour if elected as Makerfield MP – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/may/22/andy-burnham-makerfield-byelection-green-labour-starmer-latest-news-updates",
-        "description": "Andy Burnham talks up his local credentials and says: ‘This is not business as usual, this is not more of the same’On transport, Burnham says “I like my buses” (they were taken back under public co...",
+        "title": "Primary schools to lose out as Labour scraps 2012 Olympic legacy sports grant",
+        "url": "https://www.theguardian.com/education/2026/may/22/primary-schools-lose-out-as-labour-slashes-sport-funding",
+        "description": "Replacement scheme worth about 40% less than current funding greeted with scepticism by headteachersFunding for primary school sport in England is to be cut by Labour, including the abolition of a ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham starts byelection campaign with thinly veiled pitch for No 10",
-        "url": "https://www.theguardian.com/politics/2026/may/22/andy-burnham-starts-byelection-campaign-labour-mayor-makerfield",
-        "description": "‘This is a change byelection,’ says Labour mayor as he launches bid for Makerfield seat and lays out policy viewsUK politics live – latest updatesAndy Burnham has formally launched his campaign for...",
+        "title": "Community cafe demands apology from Farage for ‘intimidating’ uninvited visit",
+        "url": "https://www.theguardian.com/politics/2026/may/22/charity-demands-apology-from-farage-for-intimidating-uninvited-visit",
+        "description": "Reform UK Makerfield team reportedly arrived as cafe run by people with special needs was holding celebration eventThe founder of a community group has asked Nigel Farage to apologise after the Ref...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Palantir hits back at Sadiq Khan after £50m contract with Met police blocked",
-        "url": "https://www.theguardian.com/technology/2026/may/22/palantir-hits-back-sadiq-khan-contract-met-police-blocked",
-        "description": "London mayor accused of ‘putting politics above public safety’ for rejecting deal to use AI in intelligence analysisUK politics live – latest updatesPalantir has accused Sadiq Khan of “putting poli...",
+        "title": "UK pitched single market for goods with EU in pursuit of deeper trade ties",
+        "url": "https://www.theguardian.com/politics/2026/may/22/uk-pitched-single-market-for-goods-with-eu-as-it-pursues-trade-reintegration",
+        "description": "Exclusive: Top British official presented idea in Brussels but sources say it was rebuffedThe UK government pitched the creation of a single market for goods with the EU as the cornerstone of an am...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -35,7 +35,7 @@
       {
         "title": "UK borrows more than forecast in April as inflation adds to benefits bill",
         "url": "https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill",
-        "description": "The £24.3bn figure comes amid rising cost of pensions as bond market jitters take monthly debt interest to £10.3bnBusiness live – latest updatesThe UK borrowed more than expected in April as high i...",
+        "description": "The £24.3bn figure comes amid rising cost of pensions as bond market jitters take monthly debt interest to £10.3bnThe UK borrowed more than expected in April as high inflation drove up the cost of ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Health blame game doesn’t hold water | Brief letters",
+        "url": "https://www.theguardian.com/science/2026/may/22/health-blame-game-doesnt-hold-water",
+        "description": "Sink or swim? | Deep vision | Sacrificial candidate | Diverting days outSir Christopher Ball telling people their future longevity is in their own hands and to stop blaming others (Report, 20 May) ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Melanoma skin cancer cases in UK hit record level, analysis finds",
         "url": "https://www.theguardian.com/society/2026/may/22/melanoma-skin-cancer-cases-uk-reach-record",
         "description": "Cancer Research UK figures show number diagnosed with most serious form of skin cancer has risen above 20,000 for first timeThe number of cases from the most serious form of skin cancer have reache...",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "The causes and dire effects of the NHS nurse shortage | Letters",
-        "url": "https://www.theguardian.com/society/2026/may/20/the-causes-and-dire-effects-of-the-nhs-nurse-shortage",
-        "description": "Zoe Anderson says the health service’s rigid working conditions forced her to leave. Plus Jill Whitehead on how a lack of nursing care contributed to her son’s deathThe latest figures from the Roya...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
-        "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
-        "description": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
+        "title": "Ebola risk raised to 'very high' in DR Congo",
+        "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
+        "description": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -146,28 +146,35 @@
     ],
     "education": [
       {
+        "title": "Primary schools to lose out as Labour scraps 2012 Olympic legacy sports grant",
+        "url": "https://www.theguardian.com/education/2026/may/22/primary-schools-lose-out-as-labour-slashes-sport-funding",
+        "description": "Replacement scheme worth about 40% less than current funding greeted with scepticism by headteachersFunding for primary school sport in England is to be cut by Labour, including the abolition of a ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Soft power sell-off: anger as British Council announces sale of historic Madrid building",
+        "url": "https://www.theguardian.com/politics/2026/may/22/soft-power-sell-off-anger-british-council-sale-historic-madrid-building",
+        "description": "Backlash grows among European staff against radical cuts to pay off Covid-era debt, with some accusing council of ‘colonial attitude’The historic Palacete building at 31 Paseo del General Martínez ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Meta settles major social media addiction lawsuit with school district",
         "url": "https://www.theguardian.com/technology/2026/may/21/meta-social-media-addiction-kentucky-schools",
         "description": "Kentucky is one of about 1,200 school districts across the US that have each sued Meta, TikTok, Snap and YouTubeMeta agreed to settle a major lawsuit on Thursday with a school district in Kentucky ...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "‘It’s put the joy levels up’: the flood-prone London school with a climate-adapted playground",
-        "url": "https://www.theguardian.com/environment/2026/may/21/flood-prone-london-school-climate-adapted-playground",
-        "description": "When pupils could no longer play outside, St John’s school in Barnet decided to act, enlisting Trees for Cities to help rethink its outside spaceThe play area at St John’s Church of England primary...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Schools are ‘pipeline’ to joblessness for many people, says ex-Labour adviser",
-        "url": "https://www.theguardian.com/business/2026/may/21/schools-unemployment-young-people-neets-peter-hyman",
-        "description": "Ban social media and reform education to tackle scandal of young people not in work or study, says Peter HymanSchools have become a “pipeline” to worklessness for a large cohort of young people in ...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Horden, my home, is crying out for change | Letters",
+        "url": "https://www.theguardian.com/society/2026/may/22/horden-my-home-is-crying-out-for-change",
+        "description": "Robert Lodge calls for action to tackle the ‘housing spiral’ in the County Durham village where he grew up, but is now leaving at 18As an 18-year-old who has grown up in Horden and lived on a stree...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "‘I knew everyone here’: the tower block with 164 boarded-up homes – and a few residents who just won’t leave",
         "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/21/lund-point-tower-block-east-london",
@@ -181,16 +188,16 @@
         "description": "Exclusive: 3,500 social homes could switch to private sector after companies run by Heylo Housing group go into administrationMore than £52m in public money earmarked for social housing is at risk ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Peter Aldington obituary",
-        "url": "https://www.theguardian.com/artanddesign/2026/may/20/peter-aldington-obituary",
-        "description": "Architect of modernist houses who combined an attention to materials with a sensitivity to space indoors and out The architect and gardener Peter Aldington, who has died aged 93, had a following an...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+        "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Rubio tries to reassure Nato allies over US troop deployments",
         "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "UK scientists developing Ebola vaccine that could be ready for trials in months",
-        "url": "https://www.bbc.com/news/articles/cy82gkr7xzlo?at_medium=RSS&at_campaign=rss",
-        "description": "The rare species of Ebola involved - known as Bundibugyo - kills around a third of those infected and has no proven vaccine yet.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
-        "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC speaks to Havana residents after the US charges the country's former leader, Raúl Castro, with murder.",
+        "title": "Ebola risk raised to 'very high' in DR Congo",
+        "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
+        "description": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
