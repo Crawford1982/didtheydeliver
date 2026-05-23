@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-23T13:22:38.724070+00:00",
+  "fetched_at": "2026-05-23T19:08:06.929208+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "GLA considering investigation into Zack Polanski over houseboat council tax",
+        "url": "https://www.theguardian.com/politics/2026/may/23/zack-polanski-greens-houseboat-council-tax-gla-investigation",
+        "description": "Official assessing formal complaint into Green party leader’s potential ‘breach of conduct’ as assembly memberLondon assembly officials are weighing up whether to launch an investigation into Zack ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK needs ‘national consensus’ over rejoining EU, David Miliband says",
         "url": "https://www.theguardian.com/politics/2026/may/23/uk-eu-european-union-reset-david-miliband-single-market-goods",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Who are Andy Burnham’s key aides and allies?",
-        "url": "https://www.theguardian.com/politics/2026/may/23/who-are-andy-burnhams-key-aides-and-allies",
-        "description": "Manchester mayor continues to hone his political story, but will need deep organisation to win and wield powerBurnham starts byelection campaign with thinly veiled pitch for No 10Andy Burnham may h...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK net migration needs to fall further, says Andy Burnham",
-        "url": "https://www.bbc.com/news/articles/cjdp9zjdj0mo?at_medium=RSS&at_campaign=rss",
-        "description": "Labour's candidate for Makerfield also said government immigration reforms must \"get the balance right\".",
+        "title": "'Shameful' more spent on benefits than jobs for young people, says Milburn",
+        "url": "https://www.bbc.com/news/articles/crrpx4p1z71o?at_medium=RSS&at_campaign=rss",
+        "description": "Reforms are needed of the welfare system to tackle the high numbers of young people not in work or education, says Alan Milburn.",
         "source": "BBC News",
         "category": "government"
       }
@@ -169,16 +169,16 @@
     ],
     "housing": [
       {
-        "title": "Horden, my home, is crying out for change | Letters",
-        "url": "https://www.theguardian.com/society/2026/may/22/horden-my-home-is-crying-out-for-change",
-        "description": "Robert Lodge calls for action to tackle the ‘housing spiral’ in the County Durham village where he grew up, but is now leaving at 18As an 18-year-old who has grown up in Horden and lived on a stree...",
+        "title": "Is Cornwall’s newest high street an inspiring model, or a threat to nearby Newquay?",
+        "url": "https://www.theguardian.com/society/2026/may/23/cornwall-nansledan-newquay-high-street-threat",
+        "description": "Some locals fear Nansledan, touted as a blueprint for community-focused retail, is draining life from the town next doorA buzzard soars above wildflower meadows glinting with buttercups, as a giant...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Is Cornwall’s newest high street an inspiring model, or a threat to nearby Newquay?",
-        "url": "https://www.theguardian.com/society/2026/may/23/cornwall-nansledan-newquay-high-street-threat",
-        "description": "Some locals fear Nansledan, touted as a blueprint for community-focused retail, is draining life from the town next doorA buzzard soars above wildflower meadows glinting with buttercups, as a giant...",
+        "title": "Horden, my home, is crying out for change | Letters",
+        "url": "https://www.theguardian.com/society/2026/may/22/horden-my-home-is-crying-out-for-change",
+        "description": "Robert Lodge calls for action to tackle the ‘housing spiral’ in the County Durham village where he grew up, but is now leaving at 18As an 18-year-old who has grown up in Horden and lived on a stree...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
+        "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
+        "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+        "description": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "At least 82 killed in Chinese coal mine explosion",
         "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
         "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-        "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "SpaceX launches massive Starship V3 rocket on test flight",
-        "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-        "description": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
+        "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+        "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+        "description": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
