@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-22T19:42:51.967869+00:00",
+  "fetched_at": "2026-05-23T02:52:03.172915+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "UK pitched single market for goods with EU in pursuit of deeper trade ties",
+        "url": "https://www.theguardian.com/politics/2026/may/22/uk-pitched-single-market-for-goods-with-eu-as-it-pursues-trade-reintegration",
+        "description": "Exclusive: Top British official presented idea in Brussels but sources say it was rebuffedThe UK government pitched the creation of a single market for goods with the EU as the cornerstone of an am...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Primary schools to lose out as Labour scraps 2012 Olympic legacy sports grant",
         "url": "https://www.theguardian.com/education/2026/may/22/primary-schools-lose-out-as-labour-slashes-sport-funding",
@@ -13,13 +20,6 @@
         "title": "Community cafe demands apology from Farage for ‘intimidating’ uninvited visit",
         "url": "https://www.theguardian.com/politics/2026/may/22/charity-demands-apology-from-farage-for-intimidating-uninvited-visit",
         "description": "Reform UK Makerfield team reportedly arrived as cafe run by people with special needs was holding celebration eventThe founder of a community group has asked Nigel Farage to apologise after the Ref...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK pitched single market for goods with EU in pursuit of deeper trade ties",
-        "url": "https://www.theguardian.com/politics/2026/may/22/uk-pitched-single-market-for-goods-with-eu-as-it-pursues-trade-reintegration",
-        "description": "Exclusive: Top British official presented idea in Brussels but sources say it was rebuffedThe UK government pitched the creation of a single market for goods with the EU as the cornerstone of an am...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Nearly 30 illegal waste 'super sites' revealed in new government watchlist",
-        "url": "https://www.bbc.com/news/articles/c9v30r0944go?at_medium=RSS&at_campaign=rss",
-        "description": "The list, published by the Environment Agency on Friday, includes 28 so-called \"super sites\" that contain more than 20,000 tonnes of waste.",
+        "title": "The space race to create gym equipment for future astronauts",
+        "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists are attempting to build exercise equipment to be used on future space flights.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Ebola risk raised to 'very high' in DR Congo",
-        "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
-        "description": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level.",
+        "title": "SpaceX launches massive Starship V3 rocket on test flight",
+        "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
+        "description": "The first attempted launch on Thursday was postponed due to a malfunctioning hydraulic pin in the launch tower.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
