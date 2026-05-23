@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-23T02:52:03.172915+00:00",
+  "fetched_at": "2026-05-23T08:18:00.680040+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Reeves makes case to remain as chancellor with reports Burnham may favour Miliband",
+        "url": "https://www.theguardian.com/politics/2026/may/23/rachel-reeves-makes-case-chancellor-reports-andy-burnham-favour-ed-miliband",
+        "description": "Chancellor’s supporters urge MPs to back her if Keir Starmer is replaced, saying she is only candidate who can safeguard UK’s financesRachel Reeves has launched a rearguard action to save her job a...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK pitched single market for goods with EU in pursuit of deeper trade ties",
         "url": "https://www.theguardian.com/politics/2026/may/22/uk-pitched-single-market-for-goods-with-eu-as-it-pursues-trade-reintegration",
@@ -13,13 +20,6 @@
         "title": "Primary schools to lose out as Labour scraps 2012 Olympic legacy sports grant",
         "url": "https://www.theguardian.com/education/2026/may/22/primary-schools-lose-out-as-labour-slashes-sport-funding",
         "description": "Replacement scheme worth about 40% less than current funding greeted with scepticism by headteachersFunding for primary school sport in England is to be cut by Labour, including the abolition of a ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Community cafe demands apology from Farage for ‘intimidating’ uninvited visit",
-        "url": "https://www.theguardian.com/politics/2026/may/22/charity-demands-apology-from-farage-for-intimidating-uninvited-visit",
-        "description": "Reform UK Makerfield team reportedly arrived as cafe run by people with special needs was holding celebration eventThe founder of a community group has asked Nigel Farage to apologise after the Ref...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-        "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine.",
+        "title": "At least 90 dead in Chinese coal mine explosion, state media reports",
+        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+        "description": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Rubio tries to reassure Nato allies over US troop deployments",
-        "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-        "description": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
+        "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+        "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
         "title": "SpaceX launches massive Starship V3 rocket on test flight",
         "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-        "description": "The first attempted launch on Thursday was postponed due to a malfunctioning hydraulic pin in the launch tower.",
+        "description": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
