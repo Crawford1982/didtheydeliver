@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-23T19:08:06.929208+00:00",
+  "fetched_at": "2026-05-24T03:31:00.594994+00:00",
   "headlines": {
     "government": [
       {
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "UK records hottest day of year as forecasters warn of more extreme heat",
+        "url": "https://www.theguardian.com/uk-news/2026/may/23/uk-records-hottest-day-of-the-year-so-far-with-warnings-of-more-extreme-heat-this-weekend",
+        "description": "Temperature reaches 30.5C in Kent as amber health alerts issued before bank holiday temperatures riseThe UK has recorded its hottest day of the year so far, with temperatures reaching 30.5C in Kent...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "‘We will not survive’: jailing of Daria Egereva highlights plight of Russia’s Indigenous people",
         "url": "https://www.theguardian.com/world/2026/may/22/jailing-daria-egereva-plight-russia-indigenous-people",
         "description": "Authorities are cracking down on rights activists fighting for Indigenous people threatened by authoritarianism, extractivism and climate breakdownThe operation began at 9am Moscow time, but took p...",
@@ -126,13 +133,6 @@
         "title": "Atlantic hurricane season forecast to be milder than normal thanks to El Niño",
         "url": "https://www.theguardian.com/us-news/2026/may/21/hurricane-season-2026-noaa",
         "description": "Forecast came amid warning that US was unprepared for storms with staffing cuts under Trump administrationSign up for the Breaking News US newsletter emailThe US will see a below-normal hurricane s...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Trump’s EPA to roll back refrigerant rule for grocery stores in push it claims will lower prices",
-        "url": "https://www.theguardian.com/us-news/2026/may/21/trump-epa-refrigerant-rule-grocery-costs",
-        "description": "EPA is loosening Biden-era rule that requires US businesses to reduce greenhouse gases used in cooling equipmentThe Trump administration is set to loosen a federal rule that requires grocery stores...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
+        "title": "Suspect killed after opening fire on Secret Service near White House",
+        "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+        "description": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
         "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
         "description": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "At least 82 killed in Chinese coal mine explosion",
-        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-        "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-        "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-        "description": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says.",
+        "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+        "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+        "description": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
