@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-24T08:27:47.431625+00:00",
+  "fetched_at": "2026-05-24T13:23:54.991019+00:00",
   "headlines": {
     "government": [
       {
-        "title": "GLA considering investigation into Zack Polanski over houseboat council tax",
-        "url": "https://www.theguardian.com/politics/2026/may/23/zack-polanski-greens-houseboat-council-tax-gla-investigation",
-        "description": "Official assessing formal complaint into Green party leader’s potential ‘breach of conduct’ as assembly memberLondon assembly officials are weighing up whether to launch an investigation into Zack ...",
+        "title": "Andy Burnham seeks advice from Sue Gray on forming future Labour government",
+        "url": "https://www.theguardian.com/politics/2026/may/24/andy-burnham-advice-sue-gray-future-labour-government",
+        "description": "Discussions highlight how seriously senior Labour figures are treating Burnham’s path back to WestminsterAndy Burnham has sought advice from Sue Gray, Keir Starmer’s former chief of staff, on how t...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK needs ‘national consensus’ over rejoining EU, David Miliband says",
-        "url": "https://www.theguardian.com/politics/2026/may/23/uk-eu-european-union-reset-david-miliband-single-market-goods",
-        "description": "Ex-foreign secretary urges reset at ‘higher dosage’ after officials revealed to have pitched single market for goodsBritain needs a “national consensus” about rejoining the European Union, David Mi...",
+        "title": "UK supply chain unprepared for major shocks such as war, report warns",
+        "url": "https://www.theguardian.com/politics/2026/may/24/uk-supply-chain-unprepared-for-major-shocks-war-report-warns",
+        "description": "Research by National Preparedness Commission calls for ‘worst-case scenario’ planning by European statesBritain’s vital supply chains are unprepared for the prospect of a major shock such as war wi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reeves’s tax cut on children’s meals a political ‘soundbite’, say restaurateurs",
-        "url": "https://www.theguardian.com/politics/2026/may/23/rachel-reeves-tax-cut-childrens-meals-political-soundbite",
-        "description": "Chancellor’s measure to help families save money during summer holidays ‘won’t make any difference’Cutting tax on children’s meals is a political “soundbite” that will make little difference to fam...",
+        "title": "Irish gangland figure fails in Dublin byelection bid for seat in parliament",
+        "url": "https://www.theguardian.com/world/2026/may/24/irish-gangland-figure-hutch-fails-dublin-byelection-bid-for-seat-in-parliament",
+        "description": "Gerry ‘the monk’ Hutch comes fourth in contest won by Daniel Ennis of Social DemocratsThe Irish gangland figure Gerry “the monk” Hutch has failed in his bid for a parliamentary seat in a Dublin bye...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,13 @@
     ],
     "economy": [
       {
+        "title": "With oil markets nearing the danger zone, a US-Iran deal can’t come soon enough | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/may/24/oil-markets-danger-zone-us-iran-deal",
+        "description": "Global prices are approaching a tipping point that could trigger inflation, shortages and, over time, recessionIf a US-Iran deal is about to be reached, three months on from the launch of Donald Tr...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Even if the Iran war ended today, US fuel prices aren’t likely to normalize this year",
         "url": "https://www.theguardian.com/business/2026/may/23/iran-war-us-gas-prices-oil-fuel",
         "description": "Prewar US gas prices averaged about $3 a gallon nationally – kiss that number goodbye for 2026Sorry, US drivers, but don’t expect pump prices to return to prewar levels any time soon, even if the U...",
@@ -43,13 +50,6 @@
         "title": "UK borrows more than forecast in April as inflation adds to benefits bill",
         "url": "https://www.theguardian.com/business/2026/may/22/uk-borrowed-bigger-april-inflation-benefits-bill",
         "description": "The £24.3bn figure comes amid rising cost of pensions as bond market jitters take monthly debt interest to £10.3bnThe UK borrowed more than expected in April as high inflation drove up the cost of ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Starmer says he will campaign for Burnham in Makerfield byelection – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates",
-        "description": "Prime minister tells reporters he would campaign personally in the contestThe Home Office has also published asylum figures this morning. These show that the number of asylum seekers being housed t...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "UK heatwave expected as temperatures near record highs for May",
+        "url": "https://www.theguardian.com/uk-news/2026/may/24/uk-heatwave-expected-as-temperatures-near-record-highs-for-may",
+        "description": "Forecasters say temperatures could hit 34C on Monday, with amber health alerts in place across much of EnglandA heatwave is expected to be declared in parts of the UK on Sunday, with temperatures n...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "UK records hottest day of year as forecasters warn of more extreme heat",
         "url": "https://www.theguardian.com/uk-news/2026/may/23/uk-records-hottest-day-of-the-year-so-far-with-warnings-of-more-extreme-heat-this-weekend",
         "description": "Temperature reaches 30.5C in Kent as amber health alerts issued before bank holiday temperatures riseThe UK has recorded its hottest day of the year so far, with temperatures reaching 30.5C in Kent...",
@@ -126,13 +133,6 @@
         "title": "‘We will not survive’: jailing of Daria Egereva highlights plight of Russia’s Indigenous people",
         "url": "https://www.theguardian.com/world/2026/may/22/jailing-daria-egereva-plight-russia-indigenous-people",
         "description": "Authorities are cracking down on rights activists fighting for Indigenous people threatened by authoritarianism, extractivism and climate breakdownThe operation began at 9am Moscow time, but took p...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Atlantic hurricane season forecast to be milder than normal thanks to El Niño",
-        "url": "https://www.theguardian.com/us-news/2026/may/21/hurricane-season-2026-noaa",
-        "description": "Forecast came amid warning that US was unprepared for storms with staffing cuts under Trump administrationSign up for the Breaking News US newsletter emailThe US will see a below-normal hurricane s...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -148,7 +148,7 @@
       {
         "title": "Pioneering study aims to find out how repeated blows to head in women’s rugby affects brain",
         "url": "https://www.theguardian.com/education/2026/may/24/pioneering-study-aims-to-find-out-how-repeated-blows-to-head-in-womens-rugby-affects-brain",
-        "description": "Risk of CTE in men’s sports has been widely studied, but female brains are softer and more vulnerableCleo Pallister-Turley, a back for Cardiff university’s women’s rugby team, winces as she recalls...",
+        "description": "Risk of CTE in men’s sports has been widely studied, but female brains are softer and more vulnerableCleo Pallister-Turley, a forward for Cardiff university’s women’s rugby team, winces as she reca...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Renting has its downsides, but I’ve decided to stop waiting and start living – plants, garden furniture and all | Rhiannon Lucy Cosslett",
+        "url": "https://www.theguardian.com/commentisfree/2026/may/24/renting-start-living-garden-renters-rights-act",
+        "description": "Yes, I could worry about all the money I’ve ‘thrown away’ but, like my fellow renter the Princess of Wales, I’m digging inIt was cheering to read that William and Kate’s new lease for Forest Lodge ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Is Cornwall’s newest high street an inspiring model, or a threat to nearby Newquay?",
         "url": "https://www.theguardian.com/society/2026/may/23/cornwall-nansledan-newquay-high-street-threat",
         "description": "Some locals fear Nansledan, touted as a blueprint for community-focused retail, is draining life from the town next doorA buzzard soars above wildflower meadows glinting with buttercups, as a giant...",
@@ -179,13 +186,6 @@
         "title": "Horden, my home, is crying out for change | Letters",
         "url": "https://www.theguardian.com/society/2026/may/22/horden-my-home-is-crying-out-for-change",
         "description": "Robert Lodge calls for action to tackle the ‘housing spiral’ in the County Durham village where he grew up, but is now leaving at 18As an 18-year-old who has grown up in Horden and lived on a stree...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "‘I knew everyone here’: the tower block with 164 boarded-up homes – and a few residents who just won’t leave",
-        "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/21/lund-point-tower-block-east-london",
-        "description": "Lund Point in east London was once ‘a beautiful community’, according to Tee Fabikun, who has lived there since 1997. Now just four flats are occupied. Why are Fabikun and her friends hanging on? A...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-        "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
-        "description": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
+        "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+        "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+        "description": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "At least 82 killed in Chinese coal mine explosion",
-        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-        "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+        "title": "BBC at the site of China's worst mining disaster in more than a decade",
+        "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+        "description": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
