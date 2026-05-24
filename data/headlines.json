@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-24T03:31:00.594994+00:00",
+  "fetched_at": "2026-05-24T08:27:47.431625+00:00",
   "headlines": {
     "government": [
       {
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Stop blaming young people for being unemployed, says Amazon's UK boss",
-        "url": "https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss",
-        "description": "John Boumphrey says the education system \"isn't necessarily producing young people who are ready for work\".",
+        "title": "'Six eggs used to be £1' - why everyday essentials cost so much more now",
+        "url": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss",
+        "description": "Six supermarket brand eggs cost £1 in 2022. How much are they now, why have they gone up, and is anyone profiteering?",
         "source": "BBC News",
         "category": "economy"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Pioneering study aims to find out how repeated blows to head in women’s rugby affects brain",
+        "url": "https://www.theguardian.com/education/2026/may/24/pioneering-study-aims-to-find-out-how-repeated-blows-to-head-in-womens-rugby-affects-brain",
+        "description": "Risk of CTE in men’s sports has been widely studied, but female brains are softer and more vulnerableCleo Pallister-Turley, a back for Cardiff university’s women’s rugby team, winces as she recalls...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Primary schools to lose out as Labour scraps 2012 Olympic legacy sports grant",
         "url": "https://www.theguardian.com/education/2026/may/22/primary-schools-lose-out-as-labour-slashes-sport-funding",
         "description": "Replacement scheme worth about 40% less than current funding greeted with scepticism by headteachersFunding for primary school sport in England is to be cut by Labour, including the abolition of a ...",
@@ -156,13 +163,6 @@
         "title": "Soft power sell-off: anger as British Council announces sale of historic Madrid building",
         "url": "https://www.theguardian.com/politics/2026/may/22/soft-power-sell-off-anger-british-council-sale-historic-madrid-building",
         "description": "Backlash grows among European staff against radical cuts to pay off Covid-era debt, with some accusing council of ‘colonial attitude’The historic Palacete building at 31 Paseo del General Martínez ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Meta settles major social media addiction lawsuit with school district",
-        "url": "https://www.theguardian.com/technology/2026/may/21/meta-social-media-addiction-kentucky-schools",
-        "description": "Kentucky is one of about 1,200 school districts across the US that have each sued Meta, TikTok, Snap and YouTubeMeta agreed to settle a major lawsuit on Thursday with a school district in Kentucky ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-        "description": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+        "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+        "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+        "description": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-        "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
-        "description": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
+        "title": "At least 82 killed in Chinese coal mine explosion",
+        "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+        "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
