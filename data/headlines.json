@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-05-25T10:03:41.227474+00:00",
+  "fetched_at": "2026-05-25T14:51:30.667651+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Peter Murrell pleads guilty to embezzling £400,000 from SNP",
-        "url": "https://www.theguardian.com/uk-news/2026/may/25/peter-murrell-pleads-guilty-embezzlement-snp-scottish-national-party",
-        "description": "Ex-husband of Nicola Sturgeon admits reduced charges in court after deal with prosecutorsPeter Murrell, the former chief executive of the Scottish National party, has pleaded guilty to charges of e...",
+        "title": "Elon Musk retweet signals rightwing split that could help Andy Burnham in Makerfield",
+        "url": "https://www.theguardian.com/politics/2026/may/25/elon-musk-retweet-andy-burnham-makerfield-byelection-reform",
+        "description": "Restore Britain, set up by the former Reform MP Rupert Lowe, appears to be taking some support from Nigel FarageAndy Burnham is unlikely to be Elon Musk’s first pick to be prime minister of the UK....",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "NHS spends record £241m outsourcing scan analysis to private firms",
-        "url": "https://www.theguardian.com/society/2026/may/25/nhs-spends-record-241m-outsourcing-scan-analysis-to-private-firms",
-        "description": "Radiologists say ‘ballooning’ costs reflect staffing failures, forcing a reliance on lower-quality private scan reportsThe NHS is paying private firms record sums to analyse diagnostic scans becaus...",
+        "title": "Labour has never had a female leader because ‘it’s a bit sexist’, says Jess Phillips",
+        "url": "https://www.theguardian.com/politics/2026/may/25/labour-never-had-female-leader-sexist-jess-phillips",
+        "description": "However, former minister tells Hay festival ‘the idea that a woman leads and it makes it better for women is not one I’ve recognised in this country’The Labour MP Jess Phillips has described her pa...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Ministers urged to act as households in Great Britain face energy bill ‘anxiety’",
-        "url": "https://www.theguardian.com/money/2026/may/25/ministers-urged-act-energy-bill-anxiety-price-cap-great-britain",
-        "description": "Under government’s price cap typical gas and electricity bills are forecast to rise by £209 from this summerMinisters face growing calls to cut utility bills as millions of households in Great Brit...",
+        "title": "UK’s higher-earning immigrants may be driven out by tougher rules, report suggests",
+        "url": "https://www.theguardian.com/uk-news/2026/may/25/uk-higher-earning-immigrants-driven-out-tougher-rules",
+        "description": "Figures raise questions over ministers’ plans to raise qualifying period for settled status from five years to 10Higher-earning immigrants are less likely to remain in the UK long-term and could be...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer 'appalled' by case of boys spared jail after raping teenage girls",
-        "url": "https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister said it was \"right\" that the sentences were being urgently reviewed.",
+        "title": "Education secretary to ask competition watchdog to review hidden childcare costs",
+        "url": "https://www.bbc.com/news/articles/c4g7d6ngjldo?at_medium=RSS&at_campaign=rss",
+        "description": "Bridget Phillipson will ask the competition watchdog to examine costs that families are still facing in government-funded childcare.",
         "source": "BBC News",
         "category": "government"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "UK’s higher-earning immigrants may be driven out by tougher rules, report suggests",
+        "url": "https://www.theguardian.com/uk-news/2026/may/25/uk-higher-earning-immigrants-driven-out-tougher-rules",
+        "description": "Figures raise questions over ministers’ plans to raise qualifying period for settled status from five years to 10Higher-earning immigrants are less likely to remain in the UK long-term and could be...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "‘I don’t have a life’: man sent to France in ‘one in, one out’ refugee scheme tells of return to UK",
         "url": "https://www.theguardian.com/uk-news/2026/may/23/i-dont-have-a-life-man-sent-to-france-in-one-in-one-out-refugee-scheme-tells-of-return-to-uk",
         "description": "Exclusive: ‘Desperate’ man, in hiding after returning in a lorry, says he knows of 18 others from scheme who live in Britain covertlyAn asylum seeker sent from the UK back to France under the “one ...",
@@ -105,34 +112,27 @@
         "description": "Burnham and Streeting’s latest stances confound caricatures of left and right as party faces electoral bindThe Labour party seems to have inhabited three parallel worlds over the past fortnight.The...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Starmer says he will campaign for Burnham in Makerfield byelection – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/may/21/keir-starmer-labour-leadership-rachel-reeves-cost-of-living-echr-single-sex-spaces-latest-news-updates",
-        "description": "Prime minister tells reporters he would campaign personally in the contestThe Home Office has also published asylum figures this morning. These show that the number of asylum seekers being housed t...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Hottest May day for nearly 80 years as parts of UK hit heatwave threshold",
-        "url": "https://www.theguardian.com/uk-news/2026/may/24/uk-heatwave-expected-as-temperatures-near-record-highs-for-may",
-        "description": "Highest temperatures of 2026 in England, Wales and Northern Ireland as Kew Gardens in London reaches 32.3C England, Wales and Northern Ireland recorded their highest temperatures of 2026 on Sunday,...",
+        "title": "The BHP files: World’s biggest miner BHP backtracks on climate action with key projects put on ice, leaked documents reveal",
+        "url": "https://www.theguardian.com/world/2026/may/25/bhp-files-leak-mining-company-climate-action",
+        "description": "Exclusive: Cache of internal documents leaked to the Guardian and the ABC’s Four Corners show multinational has war-gamed ways to massively delay decarbonisationRevealed: the internal BHP memo that...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "UK records hottest day of year as forecasters warn of more extreme heat",
-        "url": "https://www.theguardian.com/uk-news/2026/may/23/uk-records-hottest-day-of-the-year-so-far-with-warnings-of-more-extreme-heat-this-weekend",
-        "description": "Temperature reaches 30.5C in Kent as amber health alerts issued before bank holiday temperatures riseThe UK has recorded its hottest day of the year so far, with temperatures reaching 30.5C in Kent...",
+        "title": "BHP defies its own climate strategy to spend hundreds of millions on polluting diesel trucks in Pilbara",
+        "url": "https://www.theguardian.com/world/2026/may/25/bhp-diesel-trucks-pilbara-australia-mining-climate-pollution",
+        "description": "Exclusive: Mining giant says technology is not yet advanced enough to run a fully electrified fleet but experts say it is hooked on federal fuel tax creditsRevealed: the internal BHP memo that slam...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "‘We will not survive’: jailing of Daria Egereva highlights plight of Russia’s Indigenous people",
-        "url": "https://www.theguardian.com/world/2026/may/22/jailing-daria-egereva-plight-russia-indigenous-people",
-        "description": "Authorities are cracking down on rights activists fighting for Indigenous people threatened by authoritarianism, extractivism and climate breakdownThe operation began at 9am Moscow time, but took p...",
+        "title": "BHP quietly scrapped plan to build Pilbara plant that would have drastically cut emissions",
+        "url": "https://www.theguardian.com/world/2026/may/25/bhp-mining-pilbara-iron-ore-plant-to-drastically-cut-emissions-scrapped",
+        "description": "Exclusive: Jimblebar processing facility would have produced higher quality iron ore sought by steelmakers around the world – themselves under pressure to curb pollutionWorld’s biggest miner BHP ba...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Criminal review – homelessness show delivers a rage-making punch in the gut",
+        "url": "https://www.theguardian.com/artanddesign/2026/may/25/criminal-review-homelessness-show-delivers-a-rage-making-punch-in-the-gut",
+        "description": "Museum of Homelessness, LondonThis mostly al-fresco exhibition expertly unpicks how homeless and nomadic people have been persecuted over the centuriesA trim caravan sits in an idyllic garden in th...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Renting has its downsides, but I’ve decided to stop waiting and start living – plants, garden furniture and all | Rhiannon Lucy Cosslett",
         "url": "https://www.theguardian.com/commentisfree/2026/may/24/renting-start-living-garden-renters-rights-act",
         "description": "Yes, I could worry about all the money I’ve ‘thrown away’ but, like my fellow renter the Princess of Wales, I’m digging inIt was cheering to read that William and Kate’s new lease for Forest Lodge ...",
@@ -181,20 +188,13 @@
         "description": "Some locals fear Nansledan, touted as a blueprint for community-focused retail, is draining life from the town next doorA buzzard soars above wildflower meadows glinting with buttercups, as a giant...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Horden, my home, is crying out for change | Letters",
-        "url": "https://www.theguardian.com/society/2026/may/22/horden-my-home-is-crying-out-for-change",
-        "description": "Robert Lodge calls for action to tackle the ‘housing spiral’ in the County Durham village where he grew up, but is now leaving at 18As an 18-year-old who has grown up in Horden and lived on a stree...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
         "title": "Deal with US not imminent, Iran says",
         "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-        "description": "The Iranian foreign minister's comments come after the US secretary of state said an agreement could be announced on Monday.",
+        "description": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
