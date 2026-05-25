@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-05-24T19:15:28.706026+00:00",
+  "fetched_at": "2026-05-25T03:41:57.885086+00:00",
   "headlines": {
     "government": [
       {
         "title": "Labour to expand youth work experience and training schemes",
         "url": "https://www.theguardian.com/society/2026/may/24/labour-to-expand-youth-work-experience-and-training-schemes",
-        "description": "Announcement comes after former minister Alan Milburn says Britain has neglected a generation of young peopleMinisters are expanding youth work experience and training schemes, after Alan Milburn w...",
+        "description": "Announcement comes after former minister Alan Milburn says Britain has neglected a generation of young peopleMinisters are expanding youth work-experience and training schemes, after Alan Milburn w...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "'Six eggs used to be £1' - why everyday essentials cost so much more now",
-        "url": "https://www.bbc.com/news/articles/cd6pw4zg5p9o?at_medium=RSS&at_campaign=rss",
-        "description": "Six supermarket brand eggs cost £1 in 2022. How much are they now, why have they gone up, and is anyone profiteering?",
+        "title": "Oil prices slide on hopes of US-Iran peace deal",
+        "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+        "description": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -118,7 +118,7 @@
       {
         "title": "Hottest May day for nearly 80 years as parts of UK hit heatwave threshold",
         "url": "https://www.theguardian.com/uk-news/2026/may/24/uk-heatwave-expected-as-temperatures-near-record-highs-for-may",
-        "description": "Highest temperatures of 2026 in England, Wales and Northern Ireland as Kew Gardens in London reaches 32.3CEngland, Wales and Northern Ireland recorded their highest temperatures of 2026 on Sunday, ...",
+        "description": "Highest temperatures of 2026 in England, Wales and Northern Ireland as Kew Gardens in London reaches 32.3C England, Wales and Northern Ireland recorded their highest temperatures of 2026 on Sunday,...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,9 +146,16 @@
     ],
     "education": [
       {
+        "title": "UK universities warn of cuts for impoverished students if dire funding issues continue",
+        "url": "https://www.theguardian.com/education/2026/may/25/uk-universities-cuts-impoverished-students-funding",
+        "description": "Nearly a third of vice-chancellors would cut hardship support if necessary over next three years, according to pollVice-chancellors have said they may need to cut hardship support for impoverished ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Labour to expand youth work experience and training schemes",
         "url": "https://www.theguardian.com/society/2026/may/24/labour-to-expand-youth-work-experience-and-training-schemes",
-        "description": "Announcement comes after former minister Alan Milburn says Britain has neglected a generation of young peopleMinisters are expanding youth work experience and training schemes, after Alan Milburn w...",
+        "description": "Announcement comes after former minister Alan Milburn says Britain has neglected a generation of young peopleMinisters are expanding youth work-experience and training schemes, after Alan Milburn w...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -156,13 +163,6 @@
         "title": "Bridget Phillipson orders review of hidden childcare charges hitting parents",
         "url": "https://www.theguardian.com/education/2026/may/24/bridget-phillipson-orders-review-hidden-childcare-charges",
         "description": "Education secretary asks UK watchdog to look into nursery practices, including non-refundable deposits and add-onsBridget Phillipson, the education secretary, is ordering a competition review of hi...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Pioneering study aims to find out how repeated blows to head in women’s rugby affects brain",
-        "url": "https://www.theguardian.com/education/2026/may/24/pioneering-study-aims-to-find-out-how-repeated-blows-to-head-in-womens-rugby-affects-brain",
-        "description": "Risk of CTE in men’s sports has been widely studied, but female brains are softer and more vulnerableCleo Pallister-Turley, a forward for Cardiff university’s women’s rugby team, winces as she reca...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -194,14 +194,14 @@
       {
         "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
         "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
-        "description": "The US president said both sides \"must take their time\" to reach a deal, after saying on Saturday that an agreement had been \"largely negotiated\".",
+        "description": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
         "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
         "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-        "description": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+        "description": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
