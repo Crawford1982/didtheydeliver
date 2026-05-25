@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-05-25T14:51:30.667651+00:00",
+  "fetched_at": "2026-05-25T19:28:23.660239+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Elon Musk retweet signals rightwing split that could help Andy Burnham in Makerfield",
-        "url": "https://www.theguardian.com/politics/2026/may/25/elon-musk-retweet-andy-burnham-makerfield-byelection-reform",
-        "description": "Restore Britain, set up by the former Reform MP Rupert Lowe, appears to be taking some support from Nigel FarageAndy Burnham is unlikely to be Elon Musk’s first pick to be prime minister of the UK....",
+        "title": "‘Social media should be treated like tobacco’: Streeting calls for under-16s ban on certain platforms",
+        "url": "https://www.theguardian.com/uk-news/2026/may/25/social-media-should-be-treated-like-tobacco-streeting-calls-for-under-16s-ban-on-certain-platforms",
+        "description": "Former health secretary’s intervention comes as government closes consultation on age limits for social media platformsSocial media companies should be treated like the tobacco industry, Wes Street...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour has never had a female leader because ‘it’s a bit sexist’, says Jess Phillips",
-        "url": "https://www.theguardian.com/politics/2026/may/25/labour-never-had-female-leader-sexist-jess-phillips",
-        "description": "However, former minister tells Hay festival ‘the idea that a woman leads and it makes it better for women is not one I’ve recognised in this country’The Labour MP Jess Phillips has described her pa...",
+        "title": "Rachel Reeves tells ministers to ‘buy British’ in four key industries",
+        "url": "https://www.theguardian.com/politics/2026/may/25/rachel-reeves-tells-ministers-to-buy-british-in-four-key-industries",
+        "description": "Exclusive: Chancellor pushes for procurement of ships, steel, energy and AI to prioritise Britishness as well as costRachel Reeves has instructed cabinet colleagues to award government contracts in...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK’s higher-earning immigrants may be driven out by tougher rules, report suggests",
-        "url": "https://www.theguardian.com/uk-news/2026/may/25/uk-higher-earning-immigrants-driven-out-tougher-rules",
-        "description": "Figures raise questions over ministers’ plans to raise qualifying period for settled status from five years to 10Higher-earning immigrants are less likely to remain in the UK long-term and could be...",
+        "title": "Peter Murrell pleads guilty to embezzling £400,000 from SNP",
+        "url": "https://www.theguardian.com/uk-news/2026/may/25/peter-murrell-pleads-guilty-embezzlement-snp-scottish-national-party",
+        "description": "Former husband of Nicola Sturgeon faces long prison sentence after admitting stealing from party to fund lavish lifestyleLuxury watches, iPads and a Jaguar: what Peter Murrell bought with embezzled...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Education secretary to ask competition watchdog to review hidden childcare costs",
-        "url": "https://www.bbc.com/news/articles/c4g7d6ngjldo?at_medium=RSS&at_campaign=rss",
-        "description": "Bridget Phillipson will ask the competition watchdog to examine costs that families are still facing in government-funded childcare.",
+        "title": "Former SNP chief executive Peter Murrell in custody after admitting £400,000 embezzlement",
+        "url": "https://www.bbc.com/news/articles/c4g4q7yl3kno?at_medium=RSS&at_campaign=rss",
+        "description": "The estranged husband of former Scotland first minister Nicola Sturgeon is remanded in custody after pleading guilty.",
         "source": "BBC News",
         "category": "government"
       }
@@ -100,21 +100,28 @@
         "category": "immigration"
       },
       {
+        "title": "Reform UK is riding the wave of public insecurity | Letters",
+        "url": "https://www.theguardian.com/politics/2026/may/25/reform-uk-is-riding-the-wave-of-public-insecurity",
+        "description": "Nick Moss, Derrick Joad and John Wilkinson respond to an article by Sacha Hilhorst on why voters are turning to the partySacha Hilhorst is right to highlight the fact that many Reform UK voters are...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "‘I don’t have a life’: man sent to France in ‘one in, one out’ refugee scheme tells of return to UK",
         "url": "https://www.theguardian.com/uk-news/2026/may/23/i-dont-have-a-life-man-sent-to-france-in-one-in-one-out-refugee-scheme-tells-of-return-to-uk",
         "description": "Exclusive: ‘Desperate’ man, in hiding after returning in a lorry, says he knows of 18 others from scheme who live in Britain covertlyAn asylum seeker sent from the UK back to France under the “one ...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Prospect of Labour leadership race brings out different sides of rivals",
-        "url": "https://www.theguardian.com/politics/2026/may/21/labour-leadership-contest-rivals-andy-burnham-wes-streeting-keir-starmer",
-        "description": "Burnham and Streeting’s latest stances confound caricatures of left and right as party faces electoral bindThe Labour party seems to have inhabited three parallel worlds over the past fortnight.The...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "UK needs to urgently install air conditioning in schools and care homes, climate campaigners say",
+        "url": "https://www.theguardian.com/environment/2026/may/25/uk-urgently-install-air-conditioning-in-schools-care-homes-climate-campaigners-say",
+        "description": "Government should fit solar panels to power air con units where vulnerable people live, say green advocatesAs the country baked in record May temperatures, climate campaigners have said the UK gove...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "The BHP files: World’s biggest miner BHP backtracks on climate action with key projects put on ice, leaked documents reveal",
         "url": "https://www.theguardian.com/world/2026/may/25/bhp-files-leak-mining-company-climate-action",
@@ -126,13 +133,6 @@
         "title": "BHP defies its own climate strategy to spend hundreds of millions on polluting diesel trucks in Pilbara",
         "url": "https://www.theguardian.com/world/2026/may/25/bhp-diesel-trucks-pilbara-australia-mining-climate-pollution",
         "description": "Exclusive: Mining giant says technology is not yet advanced enough to run a fully electrified fleet but experts say it is hooked on federal fuel tax creditsRevealed: the internal BHP memo that slam...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "BHP quietly scrapped plan to build Pilbara plant that would have drastically cut emissions",
-        "url": "https://www.theguardian.com/world/2026/may/25/bhp-mining-pilbara-iron-ore-plant-to-drastically-cut-emissions-scrapped",
-        "description": "Exclusive: Jimblebar processing facility would have produced higher quality iron ore sought by steelmakers around the world – themselves under pressure to curb pollutionWorld’s biggest miner BHP ba...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
-        "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
-        "description": "Nearly five years on from Afghanistan's school ban, young women say they have waved goodbye to their dreams.",
+        "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+        "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+        "description": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
