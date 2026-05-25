@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-05-25T03:41:57.885086+00:00",
+  "fetched_at": "2026-05-25T10:03:41.227474+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Labour to expand youth work experience and training schemes",
-        "url": "https://www.theguardian.com/society/2026/may/24/labour-to-expand-youth-work-experience-and-training-schemes",
-        "description": "Announcement comes after former minister Alan Milburn says Britain has neglected a generation of young peopleMinisters are expanding youth work-experience and training schemes, after Alan Milburn w...",
+        "title": "Peter Murrell pleads guilty to embezzling £400,000 from SNP",
+        "url": "https://www.theguardian.com/uk-news/2026/may/25/peter-murrell-pleads-guilty-embezzlement-snp-scottish-national-party",
+        "description": "Ex-husband of Nicola Sturgeon admits reduced charges in court after deal with prosecutorsPeter Murrell, the former chief executive of the Scottish National party, has pleaded guilty to charges of e...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Bridget Phillipson orders review of hidden childcare charges hitting parents",
-        "url": "https://www.theguardian.com/education/2026/may/24/bridget-phillipson-orders-review-hidden-childcare-charges",
-        "description": "Education secretary asks UK watchdog to look into nursery practices, including non-refundable deposits and add-onsBridget Phillipson, the education secretary, is ordering a competition review of hi...",
+        "title": "NHS spends record £241m outsourcing scan analysis to private firms",
+        "url": "https://www.theguardian.com/society/2026/may/25/nhs-spends-record-241m-outsourcing-scan-analysis-to-private-firms",
+        "description": "Radiologists say ‘ballooning’ costs reflect staffing failures, forcing a reliance on lower-quality private scan reportsThe NHS is paying private firms record sums to analyse diagnostic scans becaus...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Farage under mounting pressure to prove Russian hack claim",
-        "url": "https://www.theguardian.com/politics/2026/may/24/farage-mounting-pressure-prove-russian-hack-claim",
-        "description": "Reform UK leader claims ‘counter-espionage experts’ suggest state-sponsored hackers are behind disclosure of £5m giftNigel Farage is under mounting pressure to provide evidence for his claim that a...",
+        "title": "Ministers urged to act as households in Great Britain face energy bill ‘anxiety’",
+        "url": "https://www.theguardian.com/money/2026/may/25/ministers-urged-act-energy-bill-anxiety-price-cap-great-britain",
+        "description": "Under government’s price cap typical gas and electricity bills are forecast to rise by £209 from this summerMinisters face growing calls to cut utility bills as millions of households in Great Brit...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Girl raped by boys spared jail tells BBC judge's decision was like 'rock in my face'",
-        "url": "https://www.bbc.com/news/articles/cjrp98285yvo?at_medium=RSS&at_campaign=rss",
-        "description": "Responding to the interview, Sir Keir Starmer said it was “an appalling case” and that it was right that the sentences are reviewed.",
+        "title": "Starmer 'appalled' by case of boys spared jail after raping teenage girls",
+        "url": "https://www.bbc.com/news/articles/c332ljdkd81o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister said it was \"right\" that the sentences were being urgently reviewed.",
         "source": "BBC News",
         "category": "government"
       }
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "NHS spends record £241m outsourcing scan analysis to private firms",
+        "url": "https://www.theguardian.com/society/2026/may/25/nhs-spends-record-241m-outsourcing-scan-analysis-to-private-firms",
+        "description": "Radiologists say ‘ballooning’ costs reflect staffing failures, forcing a reliance on lower-quality private scan reportsThe NHS is paying private firms record sums to analyse diagnostic scans becaus...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Health blame game doesn’t hold water | Brief letters",
         "url": "https://www.theguardian.com/science/2026/may/22/health-blame-game-doesnt-hold-water",
         "description": "Sink or swim? | Deep vision | Sacrificial candidate | Diverting days outSir Christopher Ball telling people their future longevity is in their own hands and to stop blaming others (Report, 20 May) ...",
@@ -73,13 +80,6 @@
         "title": "Melanoma skin cancer cases in UK hit record level, analysis finds",
         "url": "https://www.theguardian.com/society/2026/may/22/melanoma-skin-cancer-cases-uk-reach-record",
         "description": "Cancer Research UK figures show number diagnosed with most serious form of skin cancer has risen above 20,000 for first timeThe number of cases from the most serious form of skin cancer have reache...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "NHS trust sacks staff who illegally accessed records of Nottingham attack victims",
-        "url": "https://www.theguardian.com/society/2026/may/21/nhs-trust-sacks-members-staff-nottingham-attacks-victims",
-        "description": "Nottingham university hospitals trust says 11 members of staff dismissed and 14 others given written warningsAn NHS trust has sacked 11 staff members who illegally accessed the medical records of t...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault",
+        "url": "https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault",
+        "description": "Paris police looking into more than 100 allegations of mistreatment by ‘monitors’ after parents’ groups said they had fought for years to be taken seriouslyFrance is facing a child abuse scandal as...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "UK universities warn of cuts for impoverished students if dire funding issues continue",
         "url": "https://www.theguardian.com/education/2026/may/25/uk-universities-cuts-impoverished-students-funding",
         "description": "Nearly a third of vice-chancellors would cut hardship support if necessary over next three years, according to pollVice-chancellors have said they may need to cut hardship support for impoverished ...",
@@ -156,13 +163,6 @@
         "title": "Labour to expand youth work experience and training schemes",
         "url": "https://www.theguardian.com/society/2026/may/24/labour-to-expand-youth-work-experience-and-training-schemes",
         "description": "Announcement comes after former minister Alan Milburn says Britain has neglected a generation of young peopleMinisters are expanding youth work-experience and training schemes, after Alan Milburn w...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Bridget Phillipson orders review of hidden childcare charges hitting parents",
-        "url": "https://www.theguardian.com/education/2026/may/24/bridget-phillipson-orders-review-hidden-childcare-charges",
-        "description": "Education secretary asks UK watchdog to look into nursery practices, including non-refundable deposits and add-onsBridget Phillipson, the education secretary, is ordering a competition review of hi...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump tells US negotiators 'not to rush' into deal with Iran",
-        "url": "https://www.bbc.com/news/articles/clyp0040x7po?at_medium=RSS&at_campaign=rss",
-        "description": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
+        "title": "Deal with US not imminent, Iran says",
+        "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+        "description": "The Iranian foreign minister's comments come after the US secretary of state said an agreement could be announced on Monday.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-        "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-        "description": "A hypersonic missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+        "title": "Oil prices slide on hopes of US-Iran peace deal",
+        "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+        "description": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Turkish riot police storm opposition offices after leaders ousted",
-        "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
-        "description": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
+        "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
+        "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
+        "description": "Nearly five years on from Afghanistan's school ban, young women say they have waved goodbye to their dreams.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
