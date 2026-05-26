@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-05-26T15:23:31.547144+00:00",
+  "fetched_at": "2026-05-26T20:07:42.919813+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Labour says Reform UK ‘in chaos’ as Zia Yusuf publicly tells Jenrick he’s got party’s deportation policy wrong – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/may/26/wes-streeting-keir-starmer-social-media-ban-labour-uk-politics-live",
-        "description": "‘Robert’s answer is not Reform policy’, Yusuf said about an answer that Jenrick gave to journalists days earlierKeir Starmer has said that SNP leaders need to explain why they did not realise that ...",
+        "title": "Reform UK civil service plan ‘would sack more planning officers than exist’",
+        "url": "https://www.theguardian.com/politics/2026/may/26/reform-civil-service-plan-would-sack-more-planning-officers-than-exist",
+        "description": "Analysis of party’s proposed cuts also suggests it would get rid of two-thirds of psychologists who support prison staffA Reform UK plan to cut the size of the civil service would involve sacking m...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Greens to run scaled-back campaign in Makerfield byelection in potential boost for Burnham",
-        "url": "https://www.theguardian.com/politics/2026/may/26/green-party-scaled-back-campaign-makerfield-byelection-boost-andy-burnham",
-        "description": "Exclusive: Party expected to focus on Greater Manchester mayoralty election if Burnham returned to parliamentUK politics live – latest updatesThe Greens have decided to devote only limited resource...",
+        "title": "Ministers urged to press ahead with UK ban on zero-hours contracts",
+        "url": "https://www.theguardian.com/uk-news/2026/may/26/ministers-urged-ban-zero-hours-contracts",
+        "description": "Campaigners reject claims that tougher rules will deter hiring – and lock young people out of jobsMinisters should press ahead with a ban on zero-hours contracts, campaigners say, despite claims by...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Carol Vorderman demands apology from Reform candidate over ‘disgusting comments’",
-        "url": "https://www.theguardian.com/politics/2026/may/26/carol-vorderman-demands-apology-reform-candidate-robert-kenyon",
-        "description": "Broadcaster describes Robert Kenyon, who is standing in Makerfield byelection, as a misogynist and a ‘cowardly man’UK politics live – latest updatesCarol Vorderman has demanded an apology from the ...",
+        "title": "Reform UK’s Makerfield candidate appeared to doubt seriousness of Covid on X",
+        "url": "https://www.theguardian.com/politics/2026/may/26/reform-makerfield-byelection-candidate-covid-x",
+        "description": "Exclusive: Robert Kenyon has been linked to vaccine scepticism and advised a person with the virus to ‘stop having boosters’The Reform UK candidate in this month’s Makerfield byelection appeared to...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Sentences of boys spared custody over rape referred to Court of Appeal",
-        "url": "https://www.bbc.com/news/articles/c5y779yeq0eo?at_medium=RSS&at_campaign=rss",
-        "description": "The sentences of boys spared custody over the rape of two girls in Hampshire will be referred to the Court of Appeal, the prime minister has said.",
+        "title": "Starmer vows to act on social media after meeting bereaved parents",
+        "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
+        "description": "Some parents believe whether the government will take strong enough action remains to be seen.",
         "source": "BBC News",
         "category": "government"
       }
@@ -35,7 +35,14 @@
       {
         "title": "Next boss warns over ‘dramatic fall’ in UK entry-level jobs",
         "url": "https://www.theguardian.com/business/2026/may/26/next-boss-entry-level-jobs-lord-wolfson-youth-unemployment",
-        "description": "Peer’s comments come as Milburn report is likely to find government has failed to tackle youth unemploymentBusiness live – latest updatesThe boss of Next has sounded the alarm about a “dramatic fal...",
+        "description": "Peer’s comments come as Milburn report is likely to find government has failed to tackle youth unemploymentThe boss of Next has sounded the alarm about a “dramatic fall” in the number of entry-leve...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "The Guardian view on Britain’s economy: to profit politically a recovery must be felt in people’s pockets | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/may/26/the-guardian-view-on-britains-economy-to-profit-politically-a-recovery-must-be-felt-in-peoples-pockets",
+        "description": "The chancellor can point to growth and lower inflation, but weak job data, flat living standards and uncertain productivity are no reason to cheerIn October 1991, the then chancellor Norman Lamont ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -43,13 +50,6 @@
         "title": "BP chair removed over ‘unacceptable’ governance oversight and conduct issues; UK petrol prices hit new Iran war high – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/may/26/oil-price-bonds-rally-markets-us-iran-peace-deal-hopes-retail-inflation-growth-live-updates",
         "description": "Rolling coverage of the latest economic and financial newsFull story: BP removes chair Albert Manifold over ‘serious’ governance and conduct concernsMiddle East crisis live: US attacks Iran missile...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil price touches $100 a barrel as energy market may be past ‘point of no return’",
-        "url": "https://www.theguardian.com/business/2026/may/26/oil-price-energy-market-us-iran-peace-talks",
-        "description": "Crude rises after US strikes on Iran dampen hopes of peace deal, with experts saying talks appear stuck in ‘endless loop’Business live – latest updatesOil rose back above $100 a barrel on Tuesday, ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,7 +93,7 @@
     ],
     "immigration": [
       {
-        "title": "Labour says Reform UK ‘in chaos’ as Zia Yusuf publicly tells Jenrick he’s got party’s deportation policy wrong – UK politics live",
+        "title": "Labour says Reform UK ‘in chaos’ as Zia Yusuf publicly tells Jenrick he’s got party’s deportation policy wrong – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/26/wes-streeting-keir-starmer-social-media-ban-labour-uk-politics-live",
         "description": "‘Robert’s answer is not Reform policy’, Yusuf said about an answer that Jenrick gave to journalists days earlierKeir Starmer has said that SNP leaders need to explain why they did not realise that ...",
         "source": "The Guardian",
@@ -116,9 +116,9 @@
     ],
     "climate": [
       {
-        "title": "Seven deaths in France linked to record-high temperatures",
+        "title": "Seven heat-related deaths in France as May records set in several countries",
         "url": "https://www.theguardian.com/world/2026/may/26/deaths-france-linked-record-high-temperatures",
-        "description": "Five of the deaths were by drowning while two people died competing in sporting eventsSeven people have died in France in an extreme early-summer heat event that is affecting a swathe of western Eu...",
+        "description": "Extreme early summer event across western Europe also brings highest temperatures for month in UK and IrelandSeven people have died in France in an extreme early summer heat event that is affecting...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Britain's protected birds of prey still being shot, trapped and poisoned, says RSPB",
-        "url": "https://www.bbc.com/news/articles/cjep159x1njo?at_medium=RSS&at_campaign=rss",
-        "description": "The charity says more than half of attacks happened on or near land managed for game shooting.",
+        "title": "Why temperature records are being not only broken but smashed",
+        "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
+        "description": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Manchester University to offer work placements to all undergraduates",
+        "url": "https://www.theguardian.com/business/2026/may/26/manchester-university-to-offer-work-placements-to-all-undergraduates",
+        "description": "Russell Group university promises students, from chemical engineering to classics, ‘meaningful real-world experience’A leading UK university is promising work placements to all undergraduates regar...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘We can stitch together our past’: the AI-generated time-travellers vlogging from history",
         "url": "https://www.theguardian.com/technology/2026/may/26/we-can-stitch-together-our-past-the-ai-generated-time-travellers-vlogging-from-history",
@@ -156,13 +163,6 @@
         "title": "‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault",
         "url": "https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault",
         "description": "Paris police looking into more than 100 allegations of mistreatment by ‘monitors’ after parents’ groups said they had fought for years to be taken seriouslyFrance is facing a child abuse scandal as...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "UK universities warn of cuts for impoverished students if dire funding issues continue",
-        "url": "https://www.theguardian.com/education/2026/may/25/uk-universities-cuts-impoverished-students-funding",
-        "description": "Nearly a third of vice-chancellors would cut hardship support if necessary over next three years, according to pollVice-chancellors have said they may need to cut hardship support for impoverished ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Four killed as school minibus collides with train in Belgium",
-        "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
-        "description": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
+        "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+        "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+        "description": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
-        "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-        "description": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah.",
+        "title": "Four killed as school minibus collides with train in Belgium",
+        "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
+        "description": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
