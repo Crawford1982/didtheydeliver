@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-25T19:28:23.660239+00:00",
+  "fetched_at": "2026-05-26T03:27:23.990614+00:00",
   "headlines": {
     "government": [
       {
-        "title": "‘Social media should be treated like tobacco’: Streeting calls for under-16s ban on certain platforms",
+        "title": "Andy Burnham’s (third) bid for the Labour leadership – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/may/26/andy-burnhams-third-bid-for-the-labour-leadership-podcast",
+        "description": "Josh Halliday on why Manchester mayor Andy Burnham is tipped to be the future Labour leader … if he wins the Makerfield byelectionThe mayor of Greater Manchester, Andy Burnham, is running in the Ma...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Nurseries in England charging extra fees to cover funding gap, campaigners say",
+        "url": "https://www.theguardian.com/money/2026/may/25/nursery-extra-fees-charges-england-funding-free-childcare-hours",
+        "description": "Head of Early Years Alliance says additional charges paid by parents represent ‘cross-subsidy’Parents of nursery children in England are being charged extra fees to cover for government underfundin...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "‘Like tobacco’: Wes Streeting calls for partial social media ban for under-16s",
         "url": "https://www.theguardian.com/uk-news/2026/may/25/social-media-should-be-treated-like-tobacco-streeting-calls-for-under-16s-ban-on-certain-platforms",
-        "description": "Former health secretary’s intervention comes as government closes consultation on age limits for social media platformsSocial media companies should be treated like the tobacco industry, Wes Street...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Rachel Reeves tells ministers to ‘buy British’ in four key industries",
-        "url": "https://www.theguardian.com/politics/2026/may/25/rachel-reeves-tells-ministers-to-buy-british-in-four-key-industries",
-        "description": "Exclusive: Chancellor pushes for procurement of ships, steel, energy and AI to prioritise Britishness as well as costRachel Reeves has instructed cabinet colleagues to award government contracts in...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Peter Murrell pleads guilty to embezzling £400,000 from SNP",
-        "url": "https://www.theguardian.com/uk-news/2026/may/25/peter-murrell-pleads-guilty-embezzlement-snp-scottish-national-party",
-        "description": "Former husband of Nicola Sturgeon faces long prison sentence after admitting stealing from party to fund lavish lifestyleLuxury watches, iPads and a Jaguar: what Peter Murrell bought with embezzled...",
+        "description": "Exclusive: Former health secretary’s intervention comes as government closes consultation on age limits for platformsSocial media companies should be treated like the tobacco industry, Wes Streetin...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Oil prices slide on hopes of US-Iran peace deal",
-        "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-        "description": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+        "title": "Next boss warns of 'dramatic' fall in entry-level jobs",
+        "url": "https://www.bbc.com/news/articles/c2024r6lzyro?at_medium=RSS&at_campaign=rss",
+        "description": "Lord Wolfson tells the BBC Next now typically receives double the number of applicants for one role than it did two years ago.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Ian McEwan says pessimism ‘a bigger problem than climate change’",
+        "url": "https://www.theguardian.com/books/2026/may/25/ian-mcewan-says-pessimism-a-bigger-problem-than-climate-change",
+        "description": "Speaking at Hay festival as UK breaks May heat record, author says optimism is a ‘moral duty’Pessimism is probably “a bigger problem than climate change”, said the novelist Ian McEwan on Monday aft...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "UK needs to urgently install air conditioning in schools and care homes, climate campaigners say",
         "url": "https://www.theguardian.com/environment/2026/may/25/uk-urgently-install-air-conditioning-in-schools-care-homes-climate-campaigners-say",
         "description": "Government should fit solar panels to power air con units where vulnerable people live, say green advocatesAs the country baked in record May temperatures, climate campaigners have said the UK gove...",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "BHP defies its own climate strategy to spend hundreds of millions on polluting diesel trucks in Pilbara",
-        "url": "https://www.theguardian.com/world/2026/may/25/bhp-diesel-trucks-pilbara-australia-mining-climate-pollution",
-        "description": "Exclusive: Mining giant says technology is not yet advanced enough to run a fully electrified fleet but experts say it is hooked on federal fuel tax creditsRevealed: the internal BHP memo that slam...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "The space race to create gym equipment for future astronauts",
-        "url": "https://www.bbc.com/news/articles/cg4pe6dl03ro?at_medium=RSS&at_campaign=rss",
-        "description": "Scientists are attempting to build exercise equipment to be used on future space flights.",
+        "title": "Britain's protected birds of prey still being shot, trapped and poisoned, says RSPB",
+        "url": "https://www.bbc.com/news/articles/cjep159x1njo?at_medium=RSS&at_campaign=rss",
+        "description": "The charity says more than half of attacks happened on or near land managed for game shooting.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Nurseries in England charging extra fees to cover funding gap, campaigners say",
+        "url": "https://www.theguardian.com/money/2026/may/25/nursery-extra-fees-charges-england-funding-free-childcare-hours",
+        "description": "Head of Early Years Alliance says additional charges paid by parents represent ‘cross-subsidy’Parents of nursery children in England are being charged extra fees to cover for government underfundin...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault",
         "url": "https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault",
@@ -156,13 +163,6 @@
         "title": "UK universities warn of cuts for impoverished students if dire funding issues continue",
         "url": "https://www.theguardian.com/education/2026/may/25/uk-universities-cuts-impoverished-students-funding",
         "description": "Nearly a third of vice-chancellors would cut hardship support if necessary over next three years, according to pollVice-chancellors have said they may need to cut hardship support for impoverished ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Labour to expand youth work experience and training schemes",
-        "url": "https://www.theguardian.com/society/2026/may/24/labour-to-expand-youth-work-experience-and-training-schemes",
-        "description": "Announcement comes after former minister Alan Milburn says Britain has neglected a generation of young peopleMinisters are expanding youth work-experience and training schemes, after Alan Milburn w...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "US military says it has launched new strikes on southern Iran",
+        "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+        "description": "The strikes on Iranian missile launch sites and boats were taken in \"self-defence\", US Central Command says.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Deal with US not imminent, Iran says",
         "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
         "description": "The US secretary of state earlier said that an agreement could possibly come on Monday.",
@@ -202,13 +209,6 @@
         "title": "Oil prices slide on hopes of US-Iran peace deal",
         "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
         "description": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-        "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
-        "description": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
