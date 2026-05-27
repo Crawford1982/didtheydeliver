@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-27T03:41:08.875094+00:00",
+  "fetched_at": "2026-05-27T09:42:36.314789+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Tony Blair tells Starmer and rivals: abandon net zero and move closer to Trump",
-        "url": "https://www.theguardian.com/politics/2026/may/26/tony-blair-labour-abandon-net-zero-support-donald-trump",
-        "description": "In highly unusual intervention, ex-PM says his party’s ‘almost infinite capacity for self-delusion’ makes it likely to lose next electionAnalysis: Tony Blair’s essay on Labour failings gets full ma...",
+        "title": "Labour must put policy first, politics second, Tony Blair says",
+        "url": "https://www.theguardian.com/politics/2026/may/27/labour-policy-first-politics-second-tony-blair",
+        "description": "Former PM urges party to take a step back and ‘analyse the world’ amid speculation over Keir Starmer’s leadershipTony Blair has continued his attack on the Labour government, saying it should be ab...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform UK civil service plan ‘would sack more planning officers than exist’",
-        "url": "https://www.theguardian.com/politics/2026/may/26/reform-civil-service-plan-would-sack-more-planning-officers-than-exist",
-        "description": "Analysis of party’s proposed cuts also suggests it would get rid of two-thirds of psychologists who support prison staffA Reform UK plan to cut the size of the civil service would involve sacking m...",
+        "title": "Blair says Labour needs debate before selecting new leader as he criticises Burnham speech – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/may/27/tony-blair-keir-starmer-wes-streeting-andy-burnham-mahmood-labour-leadership-latest-news-updates",
+        "description": "Ex-PM uses 5,700 word essay to accuse Starmer, Burnham and Streeting of putting Labour’s future at riskTony Blair tells Starmer and rivals: abandon net zero and move closer to TrumpIn his Today int...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Ministers urged to press ahead with UK ban on zero-hours contracts",
-        "url": "https://www.theguardian.com/uk-news/2026/may/26/ministers-urged-ban-zero-hours-contracts",
-        "description": "Campaigners reject claims that tougher rules will deter hiring and lock young people out of labour marketMinisters should press ahead with a ban on zero-hours contracts, campaigners say, despite cl...",
+        "title": "Children seeing extreme violence while held needlessly in jail, says England and Wales watchdog",
+        "url": "https://www.theguardian.com/society/2026/may/27/children-violence-remand-jail-england-wales-watchdog",
+        "description": "Prisons inspectorate finds almost 100 children each year are remanded to custody only to be bailed or moved Children are witnessing extreme violence including stabbings while being unnecessarily he...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Instagram betting ads featuring Kane and Haaland banned",
-        "url": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
-        "description": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
+        "title": "Energy bills to rise for millions as impact of Iran war hits",
+        "url": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss",
+        "description": "A household using a typical amount of energy will pay £221 a year more, under the regulator's new price cap.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "UK nurses and midwives who should have been banned have worked for last 12 years",
+        "url": "https://www.theguardian.com/society/2026/may/27/uk-nurses-midwives-not-banned-worked-12-years-nursing-and-midwifery-council",
+        "description": "Exclusive: Nursing and Midwifery Council admits it did not carry out checks on  professionals who broke the lawNurses and midwives who should have been banned from treating patients have practised ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "NHS spends record £241m outsourcing scan analysis to private firms",
         "url": "https://www.theguardian.com/society/2026/may/25/nhs-spends-record-241m-outsourcing-scan-analysis-to-private-firms",
@@ -73,13 +80,6 @@
         "title": "Health blame game doesn’t hold water | Brief letters",
         "url": "https://www.theguardian.com/science/2026/may/22/health-blame-game-doesnt-hold-water",
         "description": "Sink or swim? | Deep vision | Sacrificial candidate | Diverting days outSir Christopher Ball telling people their future longevity is in their own hands and to stop blaming others (Report, 20 May) ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Melanoma skin cancer cases in UK hit record level, analysis finds",
-        "url": "https://www.theguardian.com/society/2026/may/22/melanoma-skin-cancer-cases-uk-reach-record",
-        "description": "Cancer Research UK figures show number diagnosed with most serious form of skin cancer has risen above 20,000 for first timeThe number of cases from the most serious form of skin cancer have reache...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Wednesday briefing: ​Can the UK adapt in time to a new normal of extreme heat?",
+        "url": "https://www.theguardian.com/world/2026/may/27/wednesday-briefing-can-the-uk-adapt-in-time-to-a-new-normal-of-extreme-heat",
+        "description": "In today’s newsletter: As heatwaves intensify, ​B​ritain must confront the limits of a society built for cool​er weather, forcing policymakers, communities and households to rethink how ​w​e live, ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Climate crisis is accelerating antibiotic resistance across world, study says",
         "url": "https://www.theguardian.com/society/2026/may/26/climate-crisis-accelerating-antibiotic-resistance-across-world-salmonella-study",
         "description": "Experts say climate change linked to 10% rise in salmonella antibiotic resistance genes between 1940 and 2023The climate crisis is accelerating a global increase in antibiotic resistance that poses...",
@@ -126,13 +133,6 @@
         "title": "Seven heat-related deaths in France as May records set in several countries",
         "url": "https://www.theguardian.com/world/2026/may/26/deaths-france-linked-record-high-temperatures",
         "description": "Extreme early summer event across western Europe also brings highest temperatures for month in UK and IrelandSeven people have died in France in an extreme early summer heat event affecting a swath...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Revealed: huge climate cost of harmful emissions from US immigration flights",
-        "url": "https://www.theguardian.com/us-news/2026/may/26/us-immigration-flights-emissions",
-        "description": "Trump campaign accelerating climate crisis as officials move migrants to detention jails and deport them from USUS immigration enforcement flights are producing hundreds of thousands of metric tonn...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+        "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+        "description": "At least three people were killed in the attack, which came despite a ceasefire with Hamas being in place.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Dozens killed in Lebanon as Israel intensifies strikes",
         "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
         "description": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
-        "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
-        "description": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-        "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
-        "description": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
+        "title": "Nasa unveils next steps to build permanent Moon base",
+        "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
+        "description": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
