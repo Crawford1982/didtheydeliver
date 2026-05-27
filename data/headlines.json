@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-05-27T15:38:34.540163+00:00",
+  "fetched_at": "2026-05-27T20:13:51.596568+00:00",
   "headlines": {
     "government": [
       {
-        "title": "‘Utter disgrace’ that government still trying to withhold Mandelson vetting information, says Davey – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/may/27/tony-blair-keir-starmer-wes-streeting-andy-burnham-mahmood-labour-leadership-latest-news-updates",
-        "description": "Lib Dem leader reacts to Guardian’s scoop about why UK Security Vetting thought Mandelson should not get vetting approval to become US ambassadorZack Polanski, the Green party leader, posted this o...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Blair’s advice for Labour fails to engage with inequality, senior party figures say",
-        "url": "https://www.theguardian.com/politics/2026/may/27/tony-blair-labour-criticism-fails-inequality-andy-burnham",
-        "description": "Andy Burnham and Torsten Bell say the former Labour PM’s essay does not address today’s challengesUK politics live – latest updatesTony Blair’s criticism of the Labour party fails to engage with in...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "Resident doctors in England to stage four-day strike in June",
         "url": "https://www.theguardian.com/society/2026/may/27/resident-doctors-in-england-to-stage-four-day-strike-in-june",
-        "description": "BMA blames new health secretary for decision to stage 16th strike in long-running jobs and pay disputeUK politics live – latest updatesResident doctors in England will next month stage the 16th str...",
+        "description": "BMA blames new health secretary for decision to stage 16th strike in long-running jobs and pay disputeResident doctors in England will next month stage the 16th strike in their long-running jobs an...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham accuses Blair of ignoring inequality as he hits back at ex-PM",
+        "title": "Revealed: Mandelson vetting warned of ties to senior figures in China, Russia and Israel",
+        "url": "https://www.theguardian.com/politics/2026/may/27/mandelson-vetting-warned-ties-senior-figures-china-russia-israel",
+        "description": "Exclusive: Vetting officials also flagged £1m loan when recommending he should be denied security clearanceKey questions: did ‘mitigations’ cover links to China and Russia?Peter Mandelson’s associa...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Revealed: Mandelson vetting warned of ties to China, Russia and Israel – The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/may/27/revealed-mandelson-vetting-warned-of-ties-to-china-russia-and-israel-the-latest",
+        "description": "Peter Mandelson’s links with senior figures in China, Russia and Israel were among the concerns raised by the UK’s vetting agency when it concluded he should be denied clearance, multiple sources h...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham and Streeting accuse Blair of ignoring inequality as they hit back at ex-PM",
         "url": "https://www.bbc.com/news/articles/ckgp4llnn12o?at_medium=RSS&at_campaign=rss",
-        "description": "The Labour mayor and by-election candidate rejects the former PM's call to embrace the \"radical centre\".",
+        "description": "Labour mayor Burnham and former minister Streeting were responding to the former PM's 5,600-word essay.",
         "source": "BBC News",
         "category": "government"
       }
@@ -65,7 +65,14 @@
       {
         "title": "Resident doctors in England to stage four-day strike in June",
         "url": "https://www.theguardian.com/society/2026/may/27/resident-doctors-in-england-to-stage-four-day-strike-in-june",
-        "description": "BMA blames new health secretary for decision to stage 16th strike in long-running jobs and pay disputeUK politics live – latest updatesResident doctors in England will next month stage the 16th str...",
+        "description": "BMA blames new health secretary for decision to stage 16th strike in long-running jobs and pay disputeResident doctors in England will next month stage the 16th strike in their long-running jobs an...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "The Guardian view on Tony Blair’s advice for Labour: policymaking like it’s 1999 will not lead to a revival | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/may/27/the-guardian-view-on-tony-blairs-advice-for-labour-policymaking-like-its-1999-will-not-lead-to-a-revival",
+        "description": "A scathing essay by the former prime minister rehashes assumptions that underpinned his own rise to power. But the challenges are quite different nowA paradox lies at the heart of Sir Tony Blair’s ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "NHS spends record £241m outsourcing scan analysis to private firms",
-        "url": "https://www.theguardian.com/society/2026/may/25/nhs-spends-record-241m-outsourcing-scan-analysis-to-private-firms",
-        "description": "Radiologists say ‘ballooning’ costs reflect staffing failures, forcing a reliance on lower-quality private scan reportsThe NHS is paying private firms record sums to analyse diagnostic scans becaus...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Resident doctors in England to strike for 16th time over pay",
-        "url": "https://www.bbc.com/news/articles/c8xw2vvlxeko?at_medium=RSS&at_campaign=rss",
-        "description": "British Medical Association resident doctor members in England announce new strike for four days from 15 June.",
+        "title": "'It's not a nice world to bring children into': Births fall to the lowest level in 50 years",
+        "url": "https://www.bbc.com/news/articles/cvgzdq23xpgo?at_medium=RSS&at_campaign=rss",
+        "description": "Live births in England and Wales are at their lowest since 1977, while the age of first-time mothers has also risen.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Student loans inquiry responses show ‘massive scale of frustration and upset’",
+        "url": "https://www.theguardian.com/money/2026/may/27/tax-on-ambition-graduates-tell-all-to-student-loans-inquiry",
+        "description": "More than 52,000 people respond to Commons committee’s call for evidence amid criticism of loan termsThousands of graduates have told an official inquiry their horror stories and bad experiences re...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Manchester University to offer work placements to all undergraduates",
         "url": "https://www.theguardian.com/business/2026/may/26/manchester-university-to-offer-work-placements-to-all-undergraduates",
         "description": "Russell Group university promises students, from chemical engineering to classics, ‘meaningful real-world experience’A leading UK university is promising work placements to all undergraduates regar...",
@@ -156,13 +163,6 @@
         "title": "‘We can stitch together our past’: the AI-generated time-travellers vlogging from history",
         "url": "https://www.theguardian.com/technology/2026/may/26/we-can-stitch-together-our-past-the-ai-generated-time-travellers-vlogging-from-history",
         "description": "The content creators behind channels like Chloe VS History are using AI tools to ‘bring history to life in a really visceral way’“I have just arrived in Tudor London, 1536,” a young woman in a gree...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘Massive’ child abuse scandal in France as school staff investigated for violence and sexual assault",
-        "url": "https://www.theguardian.com/world/2026/may/25/massive-child-abuse-scandal-in-france-as-school-staff-investigated-for-violence-and-sexual-assault",
-        "description": "Paris police looking into more than 100 allegations of mistreatment by ‘monitors’ after parents’ groups said they had fought for years to be taken seriouslyFrance is facing a child abuse scandal as...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Israel strikes Tyre after ordering evacuation of south Lebanon city",
+        "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+        "description": "Israel's military says it struck Hezbollah targets after telling residents it would \"act forcefully\" against the group.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
         "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
         "description": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-        "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-        "description": "Hamas says Mohammed Odeh was killed alongside his wife and two children in a strike on a residential building.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Five people found alive after week trapped in flooded Laos cave",
-        "url": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
-        "description": "The search is continuing for a further two villagers who are still missing, rescuers say.",
+        "title": "Trump says US 'not satisfied' with Iran deal yet",
+        "url": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
