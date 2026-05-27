@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-26T20:07:42.919813+00:00",
+  "fetched_at": "2026-05-27T03:41:08.875094+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Tony Blair tells Starmer and rivals: abandon net zero and move closer to Trump",
+        "url": "https://www.theguardian.com/politics/2026/may/26/tony-blair-labour-abandon-net-zero-support-donald-trump",
+        "description": "In highly unusual intervention, ex-PM says his party’s ‘almost infinite capacity for self-delusion’ makes it likely to lose next electionAnalysis: Tony Blair’s essay on Labour failings gets full ma...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Reform UK civil service plan ‘would sack more planning officers than exist’",
         "url": "https://www.theguardian.com/politics/2026/may/26/reform-civil-service-plan-would-sack-more-planning-officers-than-exist",
@@ -12,21 +19,14 @@
       {
         "title": "Ministers urged to press ahead with UK ban on zero-hours contracts",
         "url": "https://www.theguardian.com/uk-news/2026/may/26/ministers-urged-ban-zero-hours-contracts",
-        "description": "Campaigners reject claims that tougher rules will deter hiring – and lock young people out of jobsMinisters should press ahead with a ban on zero-hours contracts, campaigners say, despite claims by...",
+        "description": "Campaigners reject claims that tougher rules will deter hiring and lock young people out of labour marketMinisters should press ahead with a ban on zero-hours contracts, campaigners say, despite cl...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform UK’s Makerfield candidate appeared to doubt seriousness of Covid on X",
-        "url": "https://www.theguardian.com/politics/2026/may/26/reform-makerfield-byelection-candidate-covid-x",
-        "description": "Exclusive: Robert Kenyon has been linked to vaccine scepticism and advised a person with the virus to ‘stop having boosters’The Reform UK candidate in this month’s Makerfield byelection appeared to...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer vows to act on social media after meeting bereaved parents",
-        "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
-        "description": "Some parents believe whether the government will take strong enough action remains to be seen.",
+        "title": "Labour has 'no coherent plan' for country, says Blair",
+        "url": "https://www.bbc.com/news/articles/cx211r9nm3lo?at_medium=RSS&at_campaign=rss",
+        "description": "The ex-Labour PM says Sir Keir Starmer's government is in the \"wrong position\" ahead of the next election.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "'Bullying' and 'overbearing' behaviour behind abrupt BP chairman removal",
-        "url": "https://www.bbc.com/news/articles/cjrppppwvwlo?at_medium=RSS&at_campaign=rss",
-        "description": "BP declined to comment on whether bullying behaviour was part of the reason for his immediate dismissal.",
+        "title": "Instagram betting ads featuring Kane and Haaland banned",
+        "url": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
+        "description": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Australia confirms first diphtheria death amid worst outbreak in decades",
-        "url": "https://www.bbc.com/news/articles/c759q6y26w3o?at_medium=RSS&at_campaign=rss",
-        "description": "Most cases are in the Northern Territory with some also in Western Australia, South Australia and Queensland.",
+        "title": "'We knew somebody would die': Teenage patients 'ignored' before fatal NHS trust failures",
+        "url": "https://www.bbc.com/news/articles/c995yr1520ko?at_medium=RSS&at_campaign=rss",
+        "description": "Mental health patients say nobody listened to their concerns about a north-east England trust.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,9 +116,16 @@
     ],
     "climate": [
       {
+        "title": "Climate crisis is accelerating antibiotic resistance across world, study says",
+        "url": "https://www.theguardian.com/society/2026/may/26/climate-crisis-accelerating-antibiotic-resistance-across-world-salmonella-study",
+        "description": "Experts say climate change linked to 10% rise in salmonella antibiotic resistance genes between 1940 and 2023The climate crisis is accelerating a global increase in antibiotic resistance that poses...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Seven heat-related deaths in France as May records set in several countries",
         "url": "https://www.theguardian.com/world/2026/may/26/deaths-france-linked-record-high-temperatures",
-        "description": "Extreme early summer event across western Europe also brings highest temperatures for month in UK and IrelandSeven people have died in France in an extreme early summer heat event that is affecting...",
+        "description": "Extreme early summer event across western Europe also brings highest temperatures for month in UK and IrelandSeven people have died in France in an extreme early summer heat event affecting a swath...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Ian McEwan says pessimism ‘a bigger problem than climate change’",
-        "url": "https://www.theguardian.com/books/2026/may/25/ian-mcewan-says-pessimism-a-bigger-problem-than-climate-change",
-        "description": "Speaking at Hay festival as UK breaks May heat record, author says optimism is a ‘moral duty’Pessimism is probably “a bigger problem than climate change”, said the novelist Ian McEwan on Monday aft...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Why temperature records are being not only broken but smashed",
-        "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
-        "description": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.",
+        "title": "Nasa unveils next steps to build permanent Moon base",
+        "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
+        "description": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+        "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+        "description": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
         "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
         "description": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks.",
@@ -202,13 +209,6 @@
         "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
         "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
         "description": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Four killed as school minibus collides with train in Belgium",
-        "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
-        "description": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
