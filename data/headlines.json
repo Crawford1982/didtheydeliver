@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-28T03:30:31.876609+00:00",
+  "fetched_at": "2026-05-28T10:02:21.009029+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Report ‘phone hack’ to police or I will do it for you, Labour chair tells Farage",
-        "url": "https://www.theguardian.com/politics/2026/may/27/nigel-farage-phone-hacking-claims",
-        "description": "Anna Turley gives Reform leader 24 hours to report Russian hacking claim in ‘public and national interest’The Labour chair has given Nigel Farage 24 hours to report to security services the claim t...",
+        "title": "Minimum wage rise has made it difficult for employers to hire young people, says Alan Milburn – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/may/28/alan-milburn-neets-review-labour-youth-unemployment-uk-politics-live-latest-news",
+        "description": "Government-commissioned report on young people not in employment, education or training to be published by review chair Milburn todayYoung people in the UK: how has the search for work been for you...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Resident doctors in England to stage four-day strike in June",
-        "url": "https://www.theguardian.com/society/2026/may/27/resident-doctors-in-england-to-stage-four-day-strike-in-june",
-        "description": "BMA blames new health secretary for decision to stage 16th strike in long-running jobs and pay disputeResident doctors in England will next month stage the 16th strike in their long-running jobs an...",
+        "title": "Brexit rules on food exports to be scrapped, government confirms",
+        "url": "https://www.theguardian.com/politics/2026/may/28/brexit-red-tape-food-exports-scrapped-uk-eu-reset-deal",
+        "description": "Agreement affecting meat, plants and packaging promises to end paperwork ‘hell’ and border delays from 2027Business live – latest updatesBrexit rules affecting UK food exports to the EU, including ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Revealed: Mandelson vetting warned of ties to senior figures in China, Russia and Israel",
-        "url": "https://www.theguardian.com/politics/2026/may/27/mandelson-vetting-warned-ties-senior-figures-china-russia-israel",
-        "description": "Exclusive: Vetting officials also flagged £1m loan when recommending he should be denied security clearanceKey questions: did ‘mitigations’ cover links to China and Russia?Peter Mandelson’s associa...",
+        "title": "Mitigating Mandelson risks would have been impossible, says former MI6 chief",
+        "url": "https://www.theguardian.com/politics/2026/may/28/mitigating-risks-mandelson-connections-china-russia-israel-former-mi6-chief",
+        "description": "Vetting of former UK ambassador to Washington warned of ties to senior figures in China, Russia and IsraelA former head of MI6 has said it would have been “totally impossible” for the Foreign Offic...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "Modelling shows 90% of young Australians will be better off under Labor’s tax reforms",
+        "url": "https://www.theguardian.com/australia-news/2026/may/28/most-young-australians-better-off-under-labor-reforms-cgt-capital-gains-tax-negative-gearing-treasury-modelling",
+        "description": "The $1,000 tax deduction, $250 ‘working Australians tax offset’, and CGT and negative gearing changes will most benefit young people, Treasury secretary saysGet our breaking news email, free app or...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Number of young people in UK not in education, employment or training hits one million, figures reveal, as fears of a ‘lost generation’ rise – business live",
+        "url": "https://www.theguardian.com/business/live/2026/may/28/uk-young-people-out-of-work-unemployment-first-time-buyers-financial-crisis-inflation-food-prices-business-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial news, as number of UK ‘Neets’ hits 12-year highNumber of Neets in UK could hit 1.25m by early 2030s, Milburn review will sayElsewhere this morn...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Tony Blair is strong on diagnosis, deluded on prescription: Britain’s ills can’t be fixed by him | Larry Elliott",
         "url": "https://www.theguardian.com/commentisfree/2026/may/27/tony-blair-strong-diagnosis-deluded-prescription-britain-artificial-intelligence",
         "description": "The former PM’s essay rightly calls for a coherent economic plan, but then sets too much store by AI – and a worldview stuck in the pastTony Blair is right. Labour has made some big and avoidable m...",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "The Guardian view on Britain’s economy: to profit politically a recovery must be felt in people’s pockets | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/26/the-guardian-view-on-britains-economy-to-profit-politically-a-recovery-must-be-felt-in-peoples-pockets",
-        "description": "The chancellor can point to growth and lower inflation, but weak job data, flat living standards and uncertain productivity are no reason to cheerIn October 1991, the then chancellor Norman Lamont ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "BP chair removed over ‘unacceptable’ governance oversight and conduct issues; UK petrol prices hit new Iran war high – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/may/26/oil-price-bonds-rally-markets-us-iran-peace-deal-hopes-retail-inflation-growth-live-updates",
-        "description": "Rolling coverage of the latest economic and financial newsFull story: BP removes chair Albert Manifold over ‘serious’ governance and conduct concernsMiddle East crisis live: US attacks Iran missile...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "One in six young people will not be in work or training in five years without action, report warns",
-        "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
-        "description": "A major review examining the causes of rising youth unemployment says getting on the career ladder is now \"out of reach\" for many.",
+        "title": "Ousted BP chairman hits back at 'lies' about his behaviour",
+        "url": "https://www.bbc.com/news/articles/cy92rzn5v7vo?at_medium=RSS&at_campaign=rss",
+        "description": "Albert  Manifold said no-one should be \"allowed to hide behind anonymity\" when commenting on his time at BP.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
-        "title": "Extreme heat in Europe ‘a brutal reminder’ of climate crisis, UN chief says",
-        "url": "https://www.theguardian.com/environment/2026/may/27/extreme-heat-in-europe-a-brutal-reminder-of-climate-crisis-un-chief-says",
-        "description": "Simon Stiell said burning fossil fuels was driving intense heatwaves as UK and France broke temperature records on consecutive daysThe UN climate chief has said an extreme early heat event sweeping...",
+        "title": "Kaja Kallas warns against walking into Russian ‘trap’ as EU ministers meet for talks – Europe live",
+        "url": "https://www.theguardian.com/world/live/2026/may/28/europe-russia-ukraine-talks-heatwave-kaja-kallas-putin-latest-news-updates",
+        "description": "EU chief diplomat says ‘not much happening’ in talks as she cautions against focus on personalities rather than strategyUkraine’s Volodymyr Zelenskyy confirmed plans for a “major defence package” w...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Wednesday briefing: ​Can the UK adapt in time to a new normal of extreme heat?",
-        "url": "https://www.theguardian.com/world/2026/may/27/wednesday-briefing-can-the-uk-adapt-in-time-to-a-new-normal-of-extreme-heat",
-        "description": "In today’s newsletter: As heatwaves intensify, ​B​ritain must confront the limits of a society built for cool​er weather, forcing policymakers, communities and households to rethink how ​w​e live, ...",
+        "title": "Britain ‘sleepwalking into a food crisis’ without urgent action, experts say",
+        "url": "https://www.theguardian.com/environment/2026/may/28/britain-sleepwalking-into-a-food-crisis-without-urgent-action-experts-say",
+        "description": "Industry figures warn of national security risk and call for ministers to address impact of extreme weather, inflation and Iran warBritain is “sleepwalking into a food crisis” caused by extreme wea...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Climate crisis is accelerating antibiotic resistance across world, study says",
-        "url": "https://www.theguardian.com/society/2026/may/26/climate-crisis-accelerating-antibiotic-resistance-across-world-salmonella-study",
-        "description": "Experts say climate change linked to 10% rise in salmonella antibiotic resistance genes between 1940 and 2023The climate crisis is accelerating a global increase in antibiotic resistance that poses...",
+        "title": "World almost certain to endure record hot year by 2030, UN warns",
+        "url": "https://www.theguardian.com/environment/2026/may/28/climate-impacts-spiralling-more-record-global-heat-warns-un",
+        "description": "Global temperature record could be broken as soon as 2027, with El Niño expected later this yearA record-breaking hot year is almost certain by 2030 as the climate crisis intensifies, the UN’s Worl...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "‘Standing up for our children’: parents divided over London teachers’ strikes",
+        "url": "https://www.theguardian.com/education/2026/may/28/standing-up-for-our-children-parents-divided-over-london-teachers-strikes",
+        "description": "Waltham Forest in the east of the capital has seen a wave of industrial action in schools, with more to come The gates to South Grove primary school in Walthamstow were closed to pupils last week.T...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Student loans inquiry responses show ‘massive scale of frustration and upset’",
         "url": "https://www.theguardian.com/money/2026/may/27/tax-on-ambition-graduates-tell-all-to-student-loans-inquiry",
         "description": "More than 52,000 people respond to Commons committee’s call for evidence amid criticism of loan termsThousands of graduates have told an official inquiry their horror stories and bad experiences re...",
@@ -156,13 +163,6 @@
         "title": "Manchester University to offer work placements to all undergraduates",
         "url": "https://www.theguardian.com/business/2026/may/26/manchester-university-to-offer-work-placements-to-all-undergraduates",
         "description": "Russell Group university promises students, from chemical engineering to classics, ‘meaningful real-world experience’A leading UK university is promising work placements to all undergraduates regar...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘We can stitch together our past’: the AI-generated time-travellers vlogging from history",
-        "url": "https://www.theguardian.com/technology/2026/may/26/we-can-stitch-together-our-past-the-ai-generated-time-travellers-vlogging-from-history",
-        "description": "The content creators behind channels like Chloe VS History are using AI tools to ‘bring history to life in a really visceral way’“I have just arrived in Tudor London, 1536,” a young woman in a gree...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "US strikes Iran targets for second time in three days",
+        "title": "Iran says it targeted American base after fresh US strikes",
         "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
         "description": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Israel issues evacuation order for swathes of southern Lebanon",
-        "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-        "description": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
+        "title": "Sixteen pupils killed in Kenya school fire",
+        "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+        "description": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
-        "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
-        "description": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
+        "title": "Heavy Israeli strikes hit southern Lebanon after large-scale evacuation orders",
+        "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+        "description": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
