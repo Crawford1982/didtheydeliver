@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-27T20:13:51.596568+00:00",
+  "fetched_at": "2026-05-28T03:30:31.876609+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Report ‘phone hack’ to police or I will do it for you, Labour chair tells Farage",
+        "url": "https://www.theguardian.com/politics/2026/may/27/nigel-farage-phone-hacking-claims",
+        "description": "Anna Turley gives Reform leader 24 hours to report Russian hacking claim in ‘public and national interest’The Labour chair has given Nigel Farage 24 hours to report to security services the claim t...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Resident doctors in England to stage four-day strike in June",
         "url": "https://www.theguardian.com/society/2026/may/27/resident-doctors-in-england-to-stage-four-day-strike-in-june",
@@ -13,13 +20,6 @@
         "title": "Revealed: Mandelson vetting warned of ties to senior figures in China, Russia and Israel",
         "url": "https://www.theguardian.com/politics/2026/may/27/mandelson-vetting-warned-ties-senior-figures-china-russia-israel",
         "description": "Exclusive: Vetting officials also flagged £1m loan when recommending he should be denied security clearanceKey questions: did ‘mitigations’ cover links to China and Russia?Peter Mandelson’s associa...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Revealed: Mandelson vetting warned of ties to China, Russia and Israel – The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/may/27/revealed-mandelson-vetting-warned-of-ties-to-china-russia-and-israel-the-latest",
-        "description": "Peter Mandelson’s links with senior figures in China, Russia and Israel were among the concerns raised by the UK’s vetting agency when it concluded he should be denied clearance, multiple sources h...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Energy bills to rise for millions as impact of Iran war hits",
-        "url": "https://www.bbc.com/news/articles/ce8pw464986o?at_medium=RSS&at_campaign=rss",
-        "description": "A household using a typical amount of energy will pay £221 a year more, under the regulator's new price cap.",
+        "title": "One in six young people will not be in work or training in five years without action, report warns",
+        "url": "https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss",
+        "description": "A major review examining the causes of rising youth unemployment says getting on the career ladder is now \"out of reach\" for many.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Why temperature records are being not only broken but smashed",
-        "url": "https://www.bbc.com/news/articles/c62rrj66p3eo?at_medium=RSS&at_campaign=rss",
-        "description": "The combined effects of a heat dome and climate change have brought extreme warmth to western Europe.",
+        "title": "UK's rudest chalk figure gets a glow-up to stop it fading in the rain",
+        "url": "https://www.bbc.com/news/articles/cpvppe84lnvo?at_medium=RSS&at_campaign=rss",
+        "description": "National Trust staff and volunteers will apply 17 tonnes of fresh chalk to the outline of the famous figure.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Israel strikes Tyre after ordering evacuation of south Lebanon city",
+        "title": "US strikes Iran targets for second time in three days",
+        "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+        "description": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Israel issues evacuation order for swathes of southern Lebanon",
         "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-        "description": "Israel's military says it struck Hezbollah targets after telling residents it would \"act forcefully\" against the group.",
+        "description": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
-        "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
-        "description": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Trump says US 'not satisfied' with Iran deal yet",
-        "url": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
+        "title": "Jill Biden says she thought husband was 'having a stroke' during 2024 debate",
+        "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+        "description": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
