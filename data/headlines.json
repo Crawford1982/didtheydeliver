@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-29T03:30:57.478960+00:00",
+  "fetched_at": "2026-05-29T09:52:30.521143+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Minister insists Labour not committed to living wage for over-18s before election, despite manifesto pledge – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/may/29/labour-welfare-youth-unemployment-living-wage-milburn-starmer-burnham-blair-latest-news-updates",
+        "description": "Torsten Bell says manifesto ‘did not set out the timeline’ for changes to living wage after scale of youth unemployment crisis revealed in Milburn reportIn their London Playbook briefing for Politi...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Why are our homes and cities all so hot? – podcast",
         "url": "https://www.theguardian.com/environment/audio/2026/may/29/why-are-our-homes-and-cities-all-so-hot-podcast",
@@ -13,13 +20,6 @@
         "title": "Sturgeon says she was ‘deceived, misled and betrayed’ by ex-husband Murrell",
         "url": "https://www.theguardian.com/politics/2026/may/28/sturgeon-says-she-was-deceived-misled-and-betrayed-by-ex-husband-murrell",
         "description": "Murrell has been remanded in custody after pleading guilty to embezzling more than £400,00 from SNPNicola Sturgeon said she was “deceived, betrayed and lied to” by her estranged husband, Peter Murr...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour poised for fresh welfare changes after scale of youth jobs crisis revealed",
-        "url": "https://www.theguardian.com/business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets",
-        "description": "Alan Milburn’s landmark report says unemployment among young costs UK £125bn a year and warns of ‘lost generation’ ‘A record of failure’: what’s in first part of Milburn report?Tell us: we would li...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Sunbed group in hot seat over false claims that tanned skin protects against sunburn",
+        "url": "https://www.theguardian.com/society/2026/may/29/sunbeds-false-claims-tanning-protects-against-sunburn-health",
+        "description": "Health organisations refute assertion by Sunbed Association that tanning is protective and warn it could increase risk of skin cancerThe body that represents the UK’s sunbed salons is wrongly insis...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Most UK men should not be offered prostate cancer screening, experts say",
         "url": "https://www.theguardian.com/society/2026/may/28/prostate-cancer-screening-committee-government",
         "description": "Government will consider committee’s guidance that says mass screening ‘likely to cause more harm than good’Most men in the UK will not be offered prostate cancer screening if the government accept...",
@@ -73,13 +80,6 @@
         "title": "Resident doctors in England to stage four-day strike in June",
         "url": "https://www.theguardian.com/society/2026/may/27/resident-doctors-in-england-to-stage-four-day-strike-in-june",
         "description": "BMA blames new health secretary for decision to stage 16th strike in long-running jobs and pay disputeResident doctors in England will next month stage the 16th strike in their long-running jobs an...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "The Guardian view on Tony Blair’s advice for Labour: policymaking like it’s 1999 will not lead to a revival | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/27/the-guardian-view-on-tony-blairs-advice-for-labour-policymaking-like-its-1999-will-not-lead-to-a-revival",
-        "description": "A scathing essay by the former prime minister rehashes assumptions that underpinned his own rise to power. But the challenges are quite different nowA paradox lies at the heart of Sir Tony Blair’s ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "UK's rudest chalk figure gets a glow-up to stop it fading in the rain",
-        "url": "https://www.bbc.com/news/articles/cpvppe84lnvo?at_medium=RSS&at_campaign=rss",
-        "description": "National Trust staff and volunteers will apply 17 tonnes of fresh chalk to the outline of the famous figure.",
+        "title": "Moment Blue Origin rocket explodes during test in Florida",
+        "url": "https://www.bbc.com/news/videos/cvgz0pdg32mo?at_medium=RSS&at_campaign=rss",
+        "description": "A Blue Origin New Glenn rocket exploded on a launch pad at Cape Canaveral in Florida on Thursday night.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Air conditioning: the wealthy and well can afford it, but disabled people who need it most can't | Frances Ryan",
+        "url": "https://www.theguardian.com/commentisfree/2026/may/29/people-disabilities-heatwaves-uncomfortable-safe-climate-crisis",
+        "description": "It is a short-term fix, but AC is an essential tool for many for whom the heat can be harmful, and even life-threateningI used to love a heatwave. I was the sort of British person who acted like I ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Enfield council withdraws from government’s new towns programme",
         "url": "https://www.theguardian.com/politics/2026/may/28/enfield-council-withdraws-from-governments-new-towns-programme",
         "description": "London authority’s new Tory-led administration delivers significant blow to Labour’s flagship housebuilding schemeEnfield council in north London has withdrawn from the government’s new towns progr...",
@@ -181,16 +188,16 @@
         "description": "Museum of Homelessness, LondonThis mostly alfresco exhibition expertly unpicks how homeless and nomadic people have been persecuted over the centuriesA trim caravan sits in an idyllic garden in the...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Renting has its downsides, but I’ve decided to stop waiting and start living – plants, garden furniture and all | Rhiannon Lucy Cosslett",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/24/renting-start-living-garden-renters-rights-act",
-        "description": "Yes, I could worry about all the money I’ve ‘thrown away’ but, like my fellow renter the Princess of Wales, I’m digging inIt was cheering to read that William and Kate’s new lease for Forest Lodge ...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
+        "url": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
+        "description": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
         "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Are US and Iran close to peace or sliding back to war?",
-        "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
-        "description": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
-        "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
-        "description": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
+        "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
+        "url": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
+        "description": "The expansion in control by Israel would contradict the terms of the ceasefire  Israel and Hamas agreed to in October 2025.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
