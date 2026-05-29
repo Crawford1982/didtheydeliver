@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-28T20:21:09.291911+00:00",
+  "fetched_at": "2026-05-29T03:30:57.478960+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Why are our homes and cities all so hot? – podcast",
+        "url": "https://www.theguardian.com/environment/audio/2026/may/29/why-are-our-homes-and-cities-all-so-hot-podcast",
+        "description": "In the week when the hottest May days were recorded, environment editor Fiona Harvey examines a new Climate Change Committee report on how the UK can better withstand extreme heatTemperatures acros...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Sturgeon says she was ‘deceived, misled and betrayed’ by ex-husband Murrell",
+        "url": "https://www.theguardian.com/politics/2026/may/28/sturgeon-says-she-was-deceived-misled-and-betrayed-by-ex-husband-murrell",
+        "description": "Murrell has been remanded in custody after pleading guilty to embezzling more than £400,00 from SNPNicola Sturgeon said she was “deceived, betrayed and lied to” by her estranged husband, Peter Murr...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Labour poised for fresh welfare changes after scale of youth jobs crisis revealed",
         "url": "https://www.theguardian.com/business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets",
         "description": "Alan Milburn’s landmark report says unemployment among young costs UK £125bn a year and warns of ‘lost generation’ ‘A record of failure’: what’s in first part of Milburn report?Tell us: we would li...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Enfield council withdraws from government’s new towns programme",
-        "url": "https://www.theguardian.com/politics/2026/may/28/enfield-council-withdraws-from-governments-new-towns-programme",
-        "description": "London authority’s new Tory-led administration delivers significant blow to Labour’s flagship housebuilding schemeEnfield council in north London has withdrawn from the government’s new towns progr...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Keir Starmer defends policy choices in rebuttal of Blair’s criticism",
-        "url": "https://www.theguardian.com/politics/2026/may/28/keir-starmer-defends-policies-tony-blair-criticism-labour",
-        "description": "PM says predecessor misunderstands government’s successes and ‘very different’ situation compared with 1997Keir Starmer has dismissed Tony’s Blair’s argument that his government is on the wrong tra...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Global heating is making hajj ever more dangerous, report finds",
+        "url": "https://www.theguardian.com/environment/2026/may/29/global-heating-hajj-muslim-pilgrimage-saudi-arabia-dangerous",
+        "description": "Rising heat in Saudi Arabia threatens millions of Muslim pilgrims – but cutting fossil fuels would keep it saferGlobal heating has “fundamentally altered” the climate of Mecca and is exposing milli...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Should I get air conditioning in the UK – and can it be green?",
         "url": "https://www.theguardian.com/environment/2026/may/28/air-conditioning-uk-homes-heatwave",
         "description": "As summers become hotter, air conditioner sales are booming. If you’re looking to invest, here’s what to considerWhen a heatwave struck the UK this week, Jon Connorton, a software developer, began ...",
@@ -126,13 +133,6 @@
         "title": "Russia on the back foot with dynamics of war shifting in Ukraine’s favour, EU says – as it happened",
         "url": "https://www.theguardian.com/world/live/2026/may/28/europe-russia-ukraine-talks-heatwave-kaja-kallas-putin-latest-news-updates",
         "description": "This blog is now closed Meanwhile, Hungary’s Magyar hits a bit more upbeat tone in his latest post on Facebook, saying that while there are still some issues that need to be resolved, the two sides...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Blair’s fossil fuel ideas ‘bizarre’ in face of energy and climate crises, experts say",
-        "url": "https://www.theguardian.com/environment/2026/may/28/tony-blair-fossil-fuel-advice-bizarre-energy-climate-crises-experts-say",
-        "description": "Energy specialists say abandoning net zero and increasing oil and gas drilling would cause more instability for BritonsUK politics live – latest updatesAbandoning net zero and drilling for more oil...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
-        "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
-        "description": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
+        "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+        "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+        "description": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Iran says it targeted American base after fresh US strikes",
-        "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-        "description": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
+        "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+        "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
+        "description": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
