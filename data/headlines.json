@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-05-29T15:26:31.584209+00:00",
+  "fetched_at": "2026-05-29T20:23:33.371498+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Labour faces union backlash after minister suggests living wage will not be extended to over-18s before election – UK politics live",
+        "title": "UK government divided over minimum wage increase in face of youth jobs crisis",
+        "url": "https://www.theguardian.com/society/2026/may/29/cabinet-divided-youth-minimum-wage-uk-employment-crisis",
+        "description": "Exclusive: Some fear raising rate for people aged 18-20 will exacerbate unemployment while others point to lack of evidenceRising rates of youth unemployment have created a split at the top of gove...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Labour faces union backlash after minister says living wage extension to over-18s not certain before election – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/may/29/labour-welfare-youth-unemployment-living-wage-milburn-starmer-burnham-blair-latest-news-updates",
-        "description": "Torsten Bell says Labour manifesto ‘did not set out the timeline’ for changes to living wage after scale of youth unemployment crisis revealed in Milburn reportMinisters are proposing new laws to c...",
+        "description": "This blog is now closedMinisters are proposing new laws to crack down on damage to undersea cables amid “hostile activity by Russia”, the Press Association reports. PA says:Tougher penalties for sh...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Conservationists alarmed by drastic cuts to key UK fund for global nature protection",
-        "url": "https://www.theguardian.com/environment/2026/may/29/cuts-uk-fund-global-nature-protection-alarm-conservationists",
-        "description": "Conservation groups warn slashing Darwin Initiative will put species and habitats in jeopardy, and set back efforts to halt decline in natureOne of the UK’s longest-standing funds for global nature...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour reports alleged Farage hack to security officials after Reform leader fails to do so",
+        "title": "Labour reports Farage’s alleged hack to security officials after he fails to do so",
         "url": "https://www.theguardian.com/politics/2026/may/29/labour-inquiry-nigel-farage-russia-phone-hack-donation-reform-uk",
-        "description": "Request follows claims actors linked to Moscow accessed Reform UK leader’s data and leaked information over £5m donationUK politics live – latest updatesLabour has reported the alleged hacking of N...",
+        "description": "Reform UK leader has claimed ‘hostile actors’ linked to Moscow accessed his data and leaked information on £5m giftLabour has reported the alleged hacking of Nigel Farage’s phone to police and gove...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer defends policy decisions as he hits back at Blair",
-        "url": "https://www.bbc.com/news/articles/cvgzjg778jyo?at_medium=RSS&at_campaign=rss",
-        "description": "Former Labour PM Sir Tony Blair has accused the government of having \"no coherent plan\" for the country.",
+        "title": "Badenoch tells Blair not to waste his time calling for Labour to change",
+        "url": "https://www.bbc.com/news/articles/cglpj6eenl1o?at_medium=RSS&at_campaign=rss",
+        "description": "The Tory leader sends an open letter to former Labour PM Sir Tony Blair following his critique of the government.",
         "source": "BBC News",
         "category": "government"
       }
@@ -35,7 +35,7 @@
       {
         "title": "Bank of England’s Bailey says no rush to raise interest rates amid Iran war uncertainty",
         "url": "https://www.theguardian.com/business/2026/may/29/bank-of-england-bailey-says-no-rush-to-raise-interest-rates-amid-iran-war-uncertainty",
-        "description": "Inflation can be tolerated above 2% target for now ‘given context of softness in real economy’, governor saysBusiness live – latest updatesThe Bank of England is in no rush to raise interest rates ...",
+        "description": "Inflation can be tolerated above 2% target for now ‘given context of softness in real economy’, governor saysThe Bank of England is in no rush to raise interest rates while the outcome of the Iran ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Not all teachers will soldier on regardless | Letter",
+        "url": "https://www.theguardian.com/education/2026/may/29/not-all-teachers-will-soldier-on-regardless",
+        "description": "The perception of teachers and nurses as boundlessly, selflessly resilient is a classic example of survivorship bias, says Dr Jenny AndrewGaby Hinsliff’s article about the Green MP Carla Denyer ref...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Sunbed group in hot seat over false claims that tanned skin protects against sunburn",
         "url": "https://www.theguardian.com/society/2026/may/29/sunbeds-false-claims-tanning-protects-against-sunburn-health",
         "description": "Health organisations refute assertion by Sunbed Association that tanning is protective and warn it could increase risk of skin cancerThe body that represents the UK’s sunbed salons is wrongly insis...",
@@ -73,13 +80,6 @@
         "title": "Most UK men should not be offered prostate cancer screening, experts say",
         "url": "https://www.theguardian.com/society/2026/may/28/prostate-cancer-screening-committee-government",
         "description": "Government will consider committee’s guidance that says mass screening ‘likely to cause more harm than good’Most men in the UK will not be offered prostate cancer screening if the government accept...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Resident doctors in England to stage four-day strike in June",
-        "url": "https://www.theguardian.com/society/2026/may/27/resident-doctors-in-england-to-stage-four-day-strike-in-june",
-        "description": "BMA blames new health secretary for decision to stage 16th strike in long-running jobs and pay disputeResident doctors in England will next month stage the 16th strike in their long-running jobs an...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -95,7 +95,7 @@
       {
         "title": "Lone children held at UK-run detention centres in France 284 times last year",
         "url": "https://www.theguardian.com/uk-news/2026/may/29/lone-children-uk-detention-centres-france-foi-data-2025",
-        "description": "Refugee charities say the numbers revealed in Freedom of Information data are ‘shocking’Lone children were held at UK-run detention centres in France on nearly 300 occasions last year, according to...",
+        "description": "Refugee charities say the numbers revealed in freedom of information data are ‘shocking’Lone children were held at UK-run detention centres in France on nearly 300 occasions last year, according to...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Canadian 'poison seller' pleads guilty to aiding suicides by selling toxic chemical online",
+        "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
         "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
-        "description": "Families say he should also be charged in Britain after he sold lethal substances to people across the world, including the UK.",
+        "description": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Nato condemns Russian 'recklessness' after drone hits Romanian residential block",
+        "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
         "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-        "description": "Romania will hold an emergency meeting following the incident, in which two people were injured.",
+        "description": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
