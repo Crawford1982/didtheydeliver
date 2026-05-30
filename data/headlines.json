@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-30T08:26:30.531058+00:00",
+  "fetched_at": "2026-05-30T13:26:51.538789+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Victims of sexual offences denied justice for sake of child perpetrators, says Jess Phillips",
+        "url": "https://www.theguardian.com/society/2026/may/30/sexual-abuse-victims-children-jess-phillips-sentencing-guidelines",
+        "description": "Former safeguarding minister calls for sentencing guidelines review and fears crime now seen as ‘content for an eyeball economy’The former safeguarding minister Jess Phillips has said victims of se...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Rise in youth unemployment driving more to homelessness, UK charities say",
+        "url": "https://www.theguardian.com/society/2026/may/30/young-people-neets-jobs-housing-crisis-homelessness",
+        "description": "Centrepoint warns young people facing ‘huge scarcity of work opportunities’ after Alan Milburn’s report on crisisThe growing number of young people not in work or education is driving more into uns...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK government divided over minimum wage increase in face of youth jobs crisis",
         "url": "https://www.theguardian.com/society/2026/may/29/cabinet-divided-youth-minimum-wage-uk-employment-crisis",
         "description": "Exclusive: Some fear raising rate for people aged 18-20 will exacerbate unemployment while others point to lack of evidenceRising rates of youth unemployment have created a split at the top of gove...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour faces union backlash after minister says living wage extension to over-18s not certain before election – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/may/29/labour-welfare-youth-unemployment-living-wage-milburn-starmer-burnham-blair-latest-news-updates",
-        "description": "This blog is now closedMinisters are proposing new laws to crack down on damage to undersea cables amid “hostile activity by Russia”, the Press Association reports. PA says:Tougher penalties for sh...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour reports Farage’s alleged hack to security officials after he fails to do so",
-        "url": "https://www.theguardian.com/politics/2026/may/29/labour-inquiry-nigel-farage-russia-phone-hack-donation-reform-uk",
-        "description": "Reform UK leader has claimed ‘hostile actors’ linked to Moscow accessed his data and leaked information on £5m giftLabour has reported the alleged hacking of Nigel Farage’s phone to police and gove...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,23 +33,23 @@
     ],
     "economy": [
       {
+        "title": "‘I want my life back’: drugs shortages lay bare economic impact of diamond crash in Botswana",
+        "url": "https://www.theguardian.com/world/2026/may/30/drugs-shortages-economic-impact-diamond-crash-botswana",
+        "description": "Healthcare should be free but lack of essential supplies has led to patients being told to buy their own medicinesIn late 2023, Boitumelo Mosege fell sick. Her neck swelled up, her whole body itche...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Inflation won Trump the presidency, but could cost him the midterms",
+        "url": "https://www.theguardian.com/business/2026/may/30/inflation-trump-presidency-midterm-election",
+        "description": "Trump’s pursuit of policies that drive up prices, including tariffs and war, might be punished in November’s electionsFor such an uncannily successful politician, Donald Trump exhibits a perplexing...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Bank of England’s Bailey says no rush to raise interest rates amid Iran war uncertainty",
         "url": "https://www.theguardian.com/business/2026/may/29/bank-of-england-bailey-says-no-rush-to-raise-interest-rates-amid-iran-war-uncertainty",
         "description": "Inflation can be tolerated above 2% target for now ‘given context of softness in real economy’, governor saysThe Bank of England is in no rush to raise interest rates while the outcome of the Iran ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Labour poised for fresh welfare changes after scale of youth jobs crisis revealed",
-        "url": "https://www.theguardian.com/business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets",
-        "description": "Alan Milburn’s landmark report says unemployment among young costs UK £125bn a year and warns of ‘lost generation’ ‘A record of failure’: what’s in first part of Milburn report?Tell us: we would li...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "‘Lost generation’: why can’t young people get jobs? – The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/may/28/youth-unemployment-jobs-crisis-report-the-latest",
-        "description": "A landmark report has warned that the UK risks a ‘lost generation’ of young people, as new figures show that more than 1 million 16- to 24-year-olds in the UK were not in education, employment or t...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "Trial of multi-cancer blood test among 142,000 NHS patients fails to meet main aim",
+        "url": "https://www.theguardian.com/science/2026/may/30/trial-of-multi-cancer-blood-test-among-142000-nhs-patients-fails-to-meet-main-aim",
+        "description": "Results presented at oncology conference in Chicago show Galleri test failed to reduce late-stage cancer diagnosesA blood test for more than 50 types of cancer that was billed as the holy grail of ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Not all teachers will soldier on regardless | Letter",
         "url": "https://www.theguardian.com/education/2026/may/29/not-all-teachers-will-soldier-on-regardless",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Most UK men should not be offered prostate cancer screening, experts say",
-        "url": "https://www.theguardian.com/society/2026/may/28/prostate-cancer-screening-committee-government",
-        "description": "Government will consider committee’s guidance that says mass screening ‘likely to cause more harm than good’Most men in the UK will not be offered prostate cancer screening if the government accept...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Trump in excellent health after annual checkup, doctor says",
-        "url": "https://www.bbc.com/news/articles/cx21v0ezv14o?at_medium=RSS&at_campaign=rss",
-        "description": "The White House releases the results of the US president's latest medical examination, which states he is \"fully fit\" to carry out his duties.",
+        "title": "Millions of breast cancer patients could safely avoid chemotherapy, study suggests",
+        "url": "https://www.bbc.com/news/articles/c2325j0xk1vo?at_medium=RSS&at_campaign=rss",
+        "description": "A new DNA test could help screen whether patients require the treatment or not, according to a new international trial.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
+        "title": "US garbage incinerators are failing to eliminate ‘forever chemical’ air pollution, experts warn",
+        "url": "https://www.theguardian.com/us-news/2026/may/30/garbage-incinerators-pfas-forever-chemicals",
+        "description": "The virtually indestructible Pfas waste puts largely low-income neighborhoods at risk, public health advocates sayThe nation’s garbage incinerators are largely failing to eliminate Pfas “forever ch...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "‘That’s why we work in finance – so one day we can afford air-con’: Britain’s unequal heatwave",
+        "url": "https://www.theguardian.com/uk-news/2026/may/30/britain-heatwave-unequal-air-con-london",
+        "description": "While some found this week’s heat a breeze, many in poorer areas face health risks in furnace-like homesTravelling from his air-conditioned flat to the air-conditioned Elizabeth line to his air-con...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Global heating is making hajj ever more dangerous, report finds",
         "url": "https://www.theguardian.com/environment/2026/may/29/global-heating-hajj-muslim-pilgrimage-saudi-arabia-dangerous",
         "description": "Rising heat in Saudi Arabia threatens millions of Muslim pilgrims – but cutting fossil fuels would keep it saferGlobal heating has “fundamentally altered” the climate of Mecca and is exposing milli...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Should I get air conditioning in the UK – and can it be green?",
-        "url": "https://www.theguardian.com/environment/2026/may/28/air-conditioning-uk-homes-heatwave",
-        "description": "As summers become hotter, air conditioner sales are booming. If you’re looking to invest, here’s what to considerWhen a heatwave struck the UK this week, Jon Connorton, a software developer, began ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Russia on the back foot with dynamics of war shifting in Ukraine’s favour, EU says – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/may/28/europe-russia-ukraine-talks-heatwave-kaja-kallas-putin-latest-news-updates",
-        "description": "This blog is now closed Meanwhile, Hungary’s Magyar hits a bit more upbeat tone in his latest post on Facebook, saying that while there are still some issues that need to be resolved, the two sides...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Rise in youth unemployment driving more to homelessness, UK charities say",
+        "url": "https://www.theguardian.com/society/2026/may/30/young-people-neets-jobs-housing-crisis-homelessness",
+        "description": "Centrepoint warns young people facing ‘huge scarcity of work opportunities’ after Alan Milburn’s report on crisisThe growing number of young people not in work or education is driving more into uns...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Nearly 100 homes evacuated in Scottish village after reports of ground movement",
         "url": "https://www.theguardian.com/uk-news/2026/may/29/almost-100-homes-evacuated-in-scottish-village-after-reports-of-ground-movement",
         "description": "Investigation launched in former mining village of Coalsnaughton after residents forced to leave propertiesNearly 100 homes have been evacuated following reports of ground movement in a former mini...",
@@ -179,13 +186,6 @@
         "title": "Air conditioning: the wealthy and well can afford it, but disabled people who need it most can't | Frances Ryan",
         "url": "https://www.theguardian.com/commentisfree/2026/may/29/people-disabilities-heatwaves-uncomfortable-safe-climate-crisis",
         "description": "It is a short-term fix, but AC is an essential tool for many for whom the heat can be harmful, and even life-threateningI used to love a heatwave. I was the sort of British person who acted like I ...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Enfield council withdraws from government’s new towns programme",
-        "url": "https://www.theguardian.com/politics/2026/may/28/enfield-council-withdraws-from-governments-new-towns-programme",
-        "description": "London authority’s new Tory-led administration delivers significant blow to Labour’s flagship housebuilding schemeEnfield council in north London has withdrawn from the government’s new towns progr...",
         "source": "The Guardian",
         "category": "housing"
       }
