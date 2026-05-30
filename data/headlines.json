@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-30T13:26:51.538789+00:00",
+  "fetched_at": "2026-05-30T19:13:21.086661+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Green leaders warn party it must listen to Reform voters’ concerns to tackle inequality",
+        "url": "https://www.theguardian.com/politics/2026/may/30/green-leaders-warn-party-it-must-listen-to-reform-voters-concerns-to-tackle-inequality",
+        "description": "Zack Polanski and Caroline Lucas say party must seek to understand why disenfranchised electorate were attracted to Nigel Farage’s partyThe current and former leaders of the Green party have warned...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Sajid Javid says backing Liz Truss to lead Tories was his ‘biggest political mistake’",
+        "url": "https://www.theguardian.com/politics/2026/may/30/sajid-javid-says-backing-liz-truss-to-lead-tories-was-his-biggest-political-mistake",
+        "description": "Former chancellor also tells Hay festival ‘good riddance’ to Tory MPs defecting to ReformSajid Javid said that supporting Liz Truss in the Conservative leadership contest that ultimately made her p...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Victims of sexual offences denied justice for sake of child perpetrators, says Jess Phillips",
         "url": "https://www.theguardian.com/society/2026/may/30/sexual-abuse-victims-children-jess-phillips-sentencing-guidelines",
         "description": "Former safeguarding minister calls for sentencing guidelines review and fears crime now seen as ‘content for an eyeball economy’The former safeguarding minister Jess Phillips has said victims of se...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Rise in youth unemployment driving more to homelessness, UK charities say",
-        "url": "https://www.theguardian.com/society/2026/may/30/young-people-neets-jobs-housing-crisis-homelessness",
-        "description": "Centrepoint warns young people facing ‘huge scarcity of work opportunities’ after Alan Milburn’s report on crisisThe growing number of young people not in work or education is driving more into uns...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK government divided over minimum wage increase in face of youth jobs crisis",
-        "url": "https://www.theguardian.com/society/2026/may/29/cabinet-divided-youth-minimum-wage-uk-employment-crisis",
-        "description": "Exclusive: Some fear raising rate for people aged 18-20 will exacerbate unemployment while others point to lack of evidenceRising rates of youth unemployment have created a split at the top of gove...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "US, UK and Australia to develop underwater drone technology",
+        "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+        "description": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
         "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
         "description": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth",
-        "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
-        "description": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
-        "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
-        "description": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain.",
+        "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+        "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
+        "description": "Local authorities say the cancellation of other West concerts had played a role in the decision.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
