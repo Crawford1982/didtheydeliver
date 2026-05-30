@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-29T20:23:33.371498+00:00",
+  "fetched_at": "2026-05-30T02:56:41.694441+00:00",
   "headlines": {
     "government": [
       {
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Prostate cancer screening only for 'a few thousand' high risk men",
-        "url": "https://www.bbc.com/news/articles/cn0pvxe5jgzo?at_medium=RSS&at_campaign=rss",
-        "description": "Only men with a dangerous genetic variant and a family history of cancer should be offered screening, say UK advisors.",
+        "title": "Abolishing patient watchdog leaves NHS 'marking own homework', councils warn",
+        "url": "https://www.bbc.com/news/articles/cn8pn2jplg9o?at_medium=RSS&at_campaign=rss",
+        "description": "The plans are part of a government bill to modernise the NHS in England, which is currently going through parliament.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Nearly 100 homes evacuated in Scottish village after reports of ground movement",
+        "url": "https://www.theguardian.com/uk-news/2026/may/29/almost-100-homes-evacuated-in-scottish-village-after-reports-of-ground-movement",
+        "description": "Investigation launched in former mining village of Coalsnaughton after residents forced to leave propertiesNearly 100 homes have been evacuated following reports of ground movement in a former mini...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Air conditioning: the wealthy and well can afford it, but disabled people who need it most can't | Frances Ryan",
         "url": "https://www.theguardian.com/commentisfree/2026/may/29/people-disabilities-heatwaves-uncomfortable-safe-climate-crisis",
         "description": "It is a short-term fix, but AC is an essential tool for many for whom the heat can be harmful, and even life-threateningI used to love a heatwave. I was the sort of British person who acted like I ...",
@@ -179,13 +186,6 @@
         "title": "Enfield council withdraws from government’s new towns programme",
         "url": "https://www.theguardian.com/politics/2026/may/28/enfield-council-withdraws-from-governments-new-towns-programme",
         "description": "London authority’s new Tory-led administration delivers significant blow to Labour’s flagship housebuilding schemeEnfield council in north London has withdrawn from the government’s new towns progr...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Criminal review – homelessness show delivers a rage-making punch in the gut",
-        "url": "https://www.theguardian.com/artanddesign/2026/may/25/criminal-review-homelessness-show-delivers-a-rage-making-punch-in-the-gut",
-        "description": "Museum of Homelessness, LondonThis mostly alfresco exhibition expertly unpicks how homeless and nomadic people have been persecuted over the centuriesA trim caravan sits in an idyllic garden in the...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-        "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
-        "description": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for.",
+        "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
+        "url": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
