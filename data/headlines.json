@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-05-31T13:42:44.291882+00:00",
+  "fetched_at": "2026-05-31T19:15:15.762269+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Wes Streeting calls for national insurance cut and North Sea drilling",
-        "url": "https://www.theguardian.com/politics/2026/may/31/wes-streeting-ni-tax-cuts-businesses-incentivise-hiring",
-        "description": "Labour leadership hopeful says NI reduction for firms could ‘incentivise’ hiring, particularly of younger people Wes Streeting has called for national insurance cuts for businesses, and for the gov...",
+        "title": "Embarrassing WhatsApps, but no vetting report: what will be in the new release of Mandelson files?",
+        "url": "https://www.theguardian.com/politics/2026/may/31/peter-mandelson-files-whatsapps-no-vetting-report-explainer",
+        "description": "Cabinet Office is expected to publish more than 1,000 pages related to former US ambassador’s appointment to roleMandelson files show no mitigation of security concerns over US appointmentOn Monday...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Mandelson files show no mitigation of security concerns over US appointment",
+        "url": "https://www.theguardian.com/politics/2026/may/31/mandelson-files-no-mitigation-of-security-concerns-us-ambassador",
+        "description": "Exclusive: Papers to be published on Monday cast doubt on assurances provided by senior Whitehall officialsEmbarrassing WhatsApps, but no vetting report: what will be in the new release of Mandelso...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "Nicola Sturgeon: I feel as if I’m serving a sentence for a crime I did not commit",
         "url": "https://www.theguardian.com/politics/2026/may/31/nicola-sturgeon-feel-serving-sentence-crime-did-not-commit",
-        "description": "Former Scottish first minister says she will not apologise for actions of her ex- husband found guilty of embezzlementNicola Sturgeon has said feels like she is “serving a sentence for a crime I di...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Green leaders warn party it must listen to Reform voters’ concerns to confront inequality",
-        "url": "https://www.theguardian.com/politics/2026/may/30/green-leaders-warn-party-it-must-listen-to-reform-voters-concerns-to-tackle-inequality",
-        "description": "Zack Polanski and Caroline Lucas say party must seek to understand why disenfranchised electorate were attracted to Nigel Farage’s partyThe current and former leaders of the Green party have warned...",
+        "description": "Former Scottish first minister says she will not apologise for actions of her ex-husband found guilty of embezzlementNicola Sturgeon has said she feels as if she is serving a sentence for a crime s...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Indian man awarded almost £30,000 after UK employer failed to provide work",
+        "url": "https://www.theguardian.com/law/2026/may/31/indian-citizen-post-brexit-visa-scheme-employment-tribunal-uk",
+        "description": "Tribunal orders company to pay Shabin Shaji for care work he was not given after coming to UK, in landmark caseAn Indian citizen who came to the UK to work as a care worker through the post-Brexit ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "The right is desperate for a solution to falling birthrates. Who’s going to tell them that the answer is immigration? | John Harris",
         "url": "https://www.theguardian.com/commentisfree/2026/may/31/right-solution-falling-birthrates-immigration-reform-maga",
         "description": "Reform and Maga are correct that ageing populations are storing up huge social problems, but our prosperity still rests on the hard work of migrantsA growing mountain of reports highlights one of t...",
@@ -103,13 +110,6 @@
         "title": "Lone children held at UK-run detention centres in France 284 times last year",
         "url": "https://www.theguardian.com/uk-news/2026/may/29/lone-children-uk-detention-centres-france-foi-data-2025",
         "description": "Refugee charities say the numbers revealed in freedom of information data are ‘shocking’Lone children were held at UK-run detention centres in France on nearly 300 occasions last year, according to...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "UK government acted unlawfully by forcing torture survivors to share rooms, court rules",
-        "url": "https://www.theguardian.com/uk-news/2026/may/29/housing-asylum-seekers-former-army-barracks-ruled-unlawful-victims-of-torture-uk",
-        "description": "Judgment is blow to Shabana Mahmood’s plans to send more asylum seekers to army barracksShabana Mahmood’s plan to house more asylum seekers in former army barracks is facing a major hurdle after th...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "State-owned land is Luke Quinn’s final refuge from council patrols — but soon even that meagre safety could disappear",
+        "url": "https://www.theguardian.com/society/2026/jun/01/state-owned-land-is-luke-quinns-final-refuge-from-council-patrols-but-soon-even-that-meagre-safety-could-disappear",
+        "description": "Expansion of Gold Coast homeless patrols to lock vulnerable in ‘monstrous catch-22’, advocates fearGet our breaking news email, free app or daily news podcastLuke Quinn dreams of the day he can get...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Falling through the cracks: ex-prisoners who died within two weeks of release",
         "url": "https://www.theguardian.com/society/2026/may/31/ex-prisoners-died-within-two-weeks-release-england-wales",
         "description": "Growing number of people in England and Wales are being released into homelessness with little supportDeaths within two weeks of prison release hit record high in England and WalesIn the weeks runn...",
@@ -181,16 +188,16 @@
         "description": "Exclusive: Experts say homelessness is primary driver of crisis that led to 77 ‘avoidable’ deaths in 2025Falling through the cracks: ex-prisoners who died within two weeks of releaseThe number of p...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Supplier of housing for homeless linked to faith group tax avoidance scheme",
-        "url": "https://www.theguardian.com/business/2026/may/31/homeless-accommodation-family-tax-avoidance-midos-management",
-        "description": "Midos Management denies ties to property group accused of making millions from bogus prayer roomsA property investor who sells temporary accommodation to local councils is part of a family accused ...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+        "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+        "description": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
         "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
@@ -202,13 +209,6 @@
         "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
         "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
         "description": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-        "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
-        "description": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
