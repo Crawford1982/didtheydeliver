@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-31T08:43:18.024843+00:00",
+  "fetched_at": "2026-05-31T13:42:44.291882+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Wes Streeting calls for national insurance cut and North Sea drilling",
+        "url": "https://www.theguardian.com/politics/2026/may/31/wes-streeting-ni-tax-cuts-businesses-incentivise-hiring",
+        "description": "Labour leadership hopeful says NI reduction for firms could ‘incentivise’ hiring, particularly of younger people Wes Streeting has called for national insurance cuts for businesses, and for the gov...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Nicola Sturgeon: I feel as if I’m serving a sentence for a crime I did not commit",
         "url": "https://www.theguardian.com/politics/2026/may/31/nicola-sturgeon-feel-serving-sentence-crime-did-not-commit",
@@ -17,13 +24,6 @@
         "category": "government"
       },
       {
-        "title": "Sajid Javid says backing Liz Truss to lead Tories was his ‘biggest political mistake’",
-        "url": "https://www.theguardian.com/politics/2026/may/30/sajid-javid-says-backing-liz-truss-to-lead-tories-was-his-biggest-political-mistake",
-        "description": "Former chancellor also tells Hay festival ‘good riddance’ to Tory MPs defecting to ReformSajid Javid said that supporting Liz Truss in the Conservative leadership contest that ultimately made her p...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit",
         "url": "https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss",
         "description": "Scotland's former first minister is challenged by Laura Kuenssberg over the SNP embezzlement scandal, and at times struggles to hold back tears.",
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Disaster of Brexit is a warning against simple solutions to hard problems | Richard Partington",
+        "url": "https://www.theguardian.com/politics/2026/may/31/disaster-brexit-warning-simple-solutions-hard-problems",
+        "description": "Alan Milburn says youth unemployment has no quick fixes – an idea with an important lesson for those thinking about how to rejoin the EUMainstream politicians are rarely direct. It is part of the r...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "‘I want my life back’: drugs shortages lay bare economic impact of diamond crash in Botswana",
         "url": "https://www.theguardian.com/world/2026/may/30/drugs-shortages-economic-impact-diamond-crash-botswana",
@@ -43,13 +50,6 @@
         "title": "Inflation won Trump the presidency, but could cost him the midterms",
         "url": "https://www.theguardian.com/business/2026/may/30/inflation-trump-presidency-midterm-election",
         "description": "Trump’s pursuit of policies that drive up prices, including tariffs and war, might be punished in November’s electionsFor such an uncannily successful politician, Donald Trump exhibits a perplexing...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Bank of England’s Bailey says no rush to raise interest rates amid Iran war uncertainty",
-        "url": "https://www.theguardian.com/business/2026/may/29/bank-of-england-bailey-says-no-rush-to-raise-interest-rates-amid-iran-war-uncertainty",
-        "description": "Inflation can be tolerated above 2% target for now ‘given context of softness in real economy’, governor saysThe Bank of England is in no rush to raise interest rates while the outcome of the Iran ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "The right is desperate for a solution to falling birthrates. Who’s going to tell them that the answer is immigration? | John Harris",
+        "url": "https://www.theguardian.com/commentisfree/2026/may/31/right-solution-falling-birthrates-immigration-reform-maga",
+        "description": "Reform and Maga are correct that ageing populations are storing up huge social problems, but our prosperity still rests on the hard work of migrantsA growing mountain of reports highlights one of t...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Lone children held at UK-run detention centres in France 284 times last year",
         "url": "https://www.theguardian.com/uk-news/2026/may/29/lone-children-uk-detention-centres-france-foi-data-2025",
         "description": "Refugee charities say the numbers revealed in freedom of information data are ‘shocking’Lone children were held at UK-run detention centres in France on nearly 300 occasions last year, according to...",
@@ -103,13 +110,6 @@
         "title": "UK government acted unlawfully by forcing torture survivors to share rooms, court rules",
         "url": "https://www.theguardian.com/uk-news/2026/may/29/housing-asylum-seekers-former-army-barracks-ruled-unlawful-victims-of-torture-uk",
         "description": "Judgment is blow to Shabana Mahmood’s plans to send more asylum seekers to army barracksShabana Mahmood’s plan to house more asylum seekers in former army barracks is facing a major hurdle after th...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Much of what Blair said in essay criticising Labour was wrong, says Starmer – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/may/28/alan-milburn-neets-review-labour-youth-unemployment-uk-politics-live-latest-news",
-        "description": "This blog is now closed, you can read more on this story herePat McFadden, the work and pensions secretary, is introducing Alan Milburn.He says Milburn’s report is “really important and powerful”.I...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -169,32 +169,32 @@
     ],
     "housing": [
       {
-        "title": "Rise in youth unemployment driving more to homelessness, UK charities say",
-        "url": "https://www.theguardian.com/society/2026/may/30/young-people-neets-jobs-housing-crisis-homelessness",
-        "description": "Centrepoint warns young people facing ‘huge scarcity of work opportunities’ after Alan Milburn’s report on crisisThe growing number of young people not in work or education is driving more into uns...",
+        "title": "Falling through the cracks: ex-prisoners who died within two weeks of release",
+        "url": "https://www.theguardian.com/society/2026/may/31/ex-prisoners-died-within-two-weeks-release-england-wales",
+        "description": "Growing number of people in England and Wales are being released into homelessness with little supportDeaths within two weeks of prison release hit record high in England and WalesIn the weeks runn...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Nearly 100 homes evacuated in Scottish village after reports of ground movement",
-        "url": "https://www.theguardian.com/uk-news/2026/may/29/almost-100-homes-evacuated-in-scottish-village-after-reports-of-ground-movement",
-        "description": "Investigation launched in former mining village of Coalsnaughton after residents forced to leave propertiesNearly 100 homes have been evacuated following reports of ground movement in a former mini...",
+        "title": "Deaths within two weeks of prison release hit record high in England and Wales",
+        "url": "https://www.theguardian.com/society/2026/may/31/deaths-within-two-weeks-of-prison-release-hit-record-high-in-england-and-wales",
+        "description": "Exclusive: Experts say homelessness is primary driver of crisis that led to 77 ‘avoidable’ deaths in 2025Falling through the cracks: ex-prisoners who died within two weeks of releaseThe number of p...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Air conditioning: the wealthy and well can afford it, but disabled people who need it most can't | Frances Ryan",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/29/people-disabilities-heatwaves-uncomfortable-safe-climate-crisis",
-        "description": "It is a short-term fix, but AC is an essential tool for many for whom the heat can be harmful, and even life-threateningI used to love a heatwave. I was the sort of British person who acted like I ...",
+        "title": "Supplier of housing for homeless linked to faith group tax avoidance scheme",
+        "url": "https://www.theguardian.com/business/2026/may/31/homeless-accommodation-family-tax-avoidance-midos-management",
+        "description": "Midos Management denies ties to property group accused of making millions from bogus prayer roomsA property investor who sells temporary accommodation to local councils is part of a family accused ...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Hundreds arrested in France after wild Champions League celebrations",
-        "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal.",
+        "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+        "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+        "description": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
