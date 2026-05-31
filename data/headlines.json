@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-31T03:42:49.858620+00:00",
+  "fetched_at": "2026-05-31T08:43:18.024843+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Nicola Sturgeon: I feel as if I’m serving a sentence for a crime I did not commit",
+        "url": "https://www.theguardian.com/politics/2026/may/31/nicola-sturgeon-feel-serving-sentence-crime-did-not-commit",
+        "description": "Former Scottish first minister says she will not apologise for actions of her ex- husband found guilty of embezzlementNicola Sturgeon has said feels like she is “serving a sentence for a crime I di...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Green leaders warn party it must listen to Reform voters’ concerns to confront inequality",
         "url": "https://www.theguardian.com/politics/2026/may/30/green-leaders-warn-party-it-must-listen-to-reform-voters-concerns-to-tackle-inequality",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Victims of sexual offences denied justice for sake of child perpetrators, says Jess Phillips",
-        "url": "https://www.theguardian.com/society/2026/may/30/sexual-abuse-victims-children-jess-phillips-sentencing-guidelines",
-        "description": "Former safeguarding minister calls for sentencing guidelines review and fears crime now seen as ‘content for an eyeball economy’The former safeguarding minister Jess Phillips has said victims of se...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Ex-M&S chief to help government tackle youth unemployment",
-        "url": "https://www.bbc.com/news/articles/cg5p9y25qj1o?at_medium=RSS&at_campaign=rss",
-        "description": "Marc Bolland will advise on getting young people into work after a review warned of a \"lost generation\".",
+        "title": "Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit",
+        "url": "https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss",
+        "description": "Scotland's former first minister is challenged by Laura Kuenssberg over the SNP embezzlement scandal, and at times struggles to hold back tears.",
         "source": "BBC News",
         "category": "government"
       }
@@ -199,9 +199,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US, UK and Australia to develop underwater drone technology",
-        "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
-        "description": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+        "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+        "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+        "description": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
