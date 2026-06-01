@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-06-01T11:31:03.445866+00:00",
+  "fetched_at": "2026-06-01T17:36:32.108543+00:00",
   "headlines": {
     "government": [
       {
-        "title": "No 10 braced for ‘excruciating’ revelations as messages between Mandelson and ministers to be released – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/01/peter-mandelson-documents-published-keir-starmer-labour-latest-news-updates",
-        "description": "Sources predict ‘toe-curling’ revelations as more than 1,000 pages of documents relating to his appointment as US ambassador to be publishedMandelson files show no mitigation of security concernsAt...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Two US political commentators banned from entering UK",
+        "title": "Free speech activists condemn UK entry ban for Hasan Piker and Cenk Uygur",
         "url": "https://www.theguardian.com/media/2026/jun/01/us-political-commentators-say-banned-entering-uk-cenk-uygur-hasan-piker",
-        "description": "Home Office says presence of Cenk Uygur and Hasan Piker in UK ‘may not be conducive to the public good’Two prominent US political commentators who were due to speak at events in the UK this week ha...",
+        "description": "Two leftwing US commentators, who have both been accused of propagating antisemitism, barred from visiting for eventThe UK is failing to protect freedom of speech, prominent activists have said, af...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "New bill targets domestic abusers and overhauls right to buy in England",
-        "url": "https://www.theguardian.com/society/2026/may/31/bill-social-tenants-domestic-abuse-housing-right-to-buy",
-        "description": "Social housing landlords to be able to evict perpetrators, while right-to-buy tenancy requirements to riseSocial housing landlords will be able to evict domestic abuse perpetrators under a new bill...",
+        "title": "Mandelson described Starmer’s No 10 operation as ‘beleaguered and bereft’ in published files – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/01/peter-mandelson-documents-published-keir-starmer-labour-latest-news-updates",
+        "description": "Peter Mandelson’s unfiltered remarks to cabinet officials are made public in hundreds of pages of documents relating to his appointment as US ambassador Mandelson files show no mitigation of securi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Ministers braced for private texts and WhatsApps in Mandelson file release",
-        "url": "https://www.bbc.com/news/articles/c9wezlrle75o?at_medium=RSS&at_campaign=rss",
-        "description": "The documents will offer a fascinating internal insight into how government works, including the way information flows and disagreements.",
+        "title": "Mandelson criticised Starmer’s lack of ‘verve’ and tendency to buckle under pressure",
+        "url": "https://www.theguardian.com/politics/2026/jun/01/mandelson-criticised-starmer-lack-of-verve-buckle-under-pressure-files-released",
+        "description": "Criticisms revealed in major release of files relating to Mandelson’s appointment as ambassador to USUK politics live – latest updatesPeter Mandelson exchanged WhatsApp messages with a senior cabin...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Key messages between Mandelson and ministers so far",
+        "url": "https://www.bbc.com/news/articles/c4g819dml28o?at_medium=RSS&at_campaign=rss",
+        "description": "The 1,000 pages include criticisms of Labour MPs, No 10 and the prime minister.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Oil and gas prices rise as US and Iran trade strikes; UK house prices fall – business live",
+        "title": "Ex-Federal Reserve chair Jerome Powell sounds alarm over political interference",
+        "url": "https://www.theguardian.com/business/2026/jun/01/federal-reserve-jerome-powell-kennedy-award",
+        "description": "Powell says central bank has been facing ‘stress test’ under Trump, as supreme court weighs decision on Fed governor that president tried to fireSign up for the Breaking News US newsletter emailJer...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Oil price rises to $97 a barrel as ‘Iran stops exchanging messages with US’ – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/01/uk-house-prices-fall-middle-east-interest-rates-manufacturing-softbank-ai-boom-chipmakers-live-updates",
-        "description": "British house prices fell 0.6% in May, leaving them 1.7% higher than a year earlier, Nationwide reportsEurozone factories were hit by the biggest jump in input costs in four years last month.The Ir...",
+        "description": "British house prices fell 0.6% in May, leaving them 1.7% higher than a year earlier, Nationwide reportsUK house prices fall for first time this year amid rising ratesEurozone factories were hit by ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "‘I want my life back’: drugs shortages lay bare economic impact of diamond crash in Botswana",
-        "url": "https://www.theguardian.com/world/2026/may/30/drugs-shortages-economic-impact-diamond-crash-botswana",
-        "description": "Healthcare should be free but lack of essential supplies has led to patients being told to buy their own medicinesIn late 2023, Boitumelo Mosege fell sick. Her neck swelled up, her whole body itche...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Put a £5 deposit on vapes to stop fires, say waste companies",
-        "url": "https://www.bbc.com/news/articles/c4g4vqex028o?at_medium=RSS&at_campaign=rss",
-        "description": "The industry body for waste companies says a refundable deposit would help boost vape recycling, but others disagree.",
+        "title": "Wise under investigation over money laundering control concerns",
+        "url": "https://www.bbc.com/news/articles/cy42x8ye02vo?at_medium=RSS&at_campaign=rss",
+        "description": "Wise says it is working with the Brussels prosecutor's office but that \"no specific findings have been shared with us to date\".",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "'Don't be too kind': Maternity staff used offensive terms to refer to patients",
-        "url": "https://www.bbc.com/news/articles/c152y8j4gljo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC Panorama has seen documents and spoken to former midwives from Nottingham University Hospitals NHS Trust.",
+        "title": "Three Ebola vaccines in development amid growing outbreak fears",
+        "url": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
+        "description": "IAVI, Moderna and the University of Oxford are all working on new vaccines.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -100,16 +100,16 @@
         "category": "immigration"
       },
       {
-        "title": "Home Office sends letters to children as young as five saying they must leave UK",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/01/home-office-letters-children-care-workers-leave-uk",
-        "description": "Children of those on care worker visas, who came legally before rule change, told to leave even if parents can stayChildren as young as five who are living legally in the UK are being told by the H...",
+        "title": "Windrush compensation scheme needs significant overhaul, MPs told",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/01/windrush-compensation-scheme-needs-significant-overhaul-mps-told",
+        "description": "Victims should be given legal support to help slash number of claimants denied payouts, says Windrush commissioner The Windrush compensation scheme has failed to repair a grave injustice and needs ...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Charities decry UK plan to use AI to assess age of young asylum seekers",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/01/charities-decry-uk-plan-to-use-ai-to-assess-age-of-young-asylum-seekers",
-        "description": "Coalition of more than 100 organisations says move could lead to more children ending up in adult detention facilitiesA coalition of more than a hundred refugee children’s organisations has said co...",
+        "title": "Home Office sends letters to children as young as five saying they must leave UK",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/01/home-office-letters-children-care-workers-leave-uk",
+        "description": "Children of those on care worker visas, who came legally before rule change, told to leave even if parents can stayChildren as young as five who are living legally in the UK are being told by the H...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Reeves examines using private sector funds to speed building of new towns",
+        "url": "https://www.theguardian.com/society/2026/jun/01/rachel-reeves-private-sector-deals-new-towns-ppp",
+        "description": "Chancellor in talks with banks and investment funds about public-private partnerships to build infrastructureBusiness live – latest updatesRachel Reeves is examining how to attract funds from priva...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "New bill targets domestic abusers and overhauls right to buy in England",
         "url": "https://www.theguardian.com/society/2026/may/31/bill-social-tenants-domestic-abuse-housing-right-to-buy",
         "description": "Social housing landlords to be able to evict perpetrators, while right-to-buy tenancy requirements to riseSocial housing landlords will be able to evict domestic abuse perpetrators under a new bill...",
@@ -181,18 +188,11 @@
         "description": "Underfunding, systemic failure and awful Tory policies bequeathed us a public and private sector housing crisis. As a priority, we will now fix that Growing up, I remember how important our home wa...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "California reports one of largest drops in homelessness in past year, Hud reports",
-        "url": "https://www.theguardian.com/us-news/2026/may/31/california-homelessness-hud-data",
-        "description": "New data suggests success in Gavin Newsom’s crackdown, as Illinois, Hawaii and Florida also report notable decreasesCalifornia reported one of the largest decreases in homelessness over the past ye...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+        "title": "US says it struck Iranian radar sites as Iran targets American forces in Kuwait",
         "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
         "description": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
         "source": "BBC News",
@@ -208,7 +208,7 @@
       {
         "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
         "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
-        "description": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.",
+        "description": "Thousands flee the Hezbollah stronghold of Dahieh after Benjamin Netanyahu says it will be targeted in response to attacks on Israeli civilians.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
