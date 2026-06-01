@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-05-31T19:15:15.762269+00:00",
+  "fetched_at": "2026-06-01T03:57:38.972223+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "New bill targets domestic abusers and overhauls right to buy in England",
+        "url": "https://www.theguardian.com/society/2026/may/31/bill-social-tenants-domestic-abuse-housing-right-to-buy",
+        "description": "Social housing landlords to be able to evict perpetrators, while right-to-buy tenancy requirements to riseSocial housing landlords will be able to evict domestic abuse perpetrators under a new bill...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Embarrassing WhatsApps, but no vetting report: what will be in the new release of Mandelson files?",
         "url": "https://www.theguardian.com/politics/2026/may/31/peter-mandelson-files-whatsapps-no-vetting-report-explainer",
@@ -13,13 +20,6 @@
         "title": "Mandelson files show no mitigation of security concerns over US appointment",
         "url": "https://www.theguardian.com/politics/2026/may/31/mandelson-files-no-mitigation-of-security-concerns-us-ambassador",
         "description": "Exclusive: Papers to be published on Monday cast doubt on assurances provided by senior Whitehall officialsEmbarrassing WhatsApps, but no vetting report: what will be in the new release of Mandelso...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Nicola Sturgeon: I feel as if I’m serving a sentence for a crime I did not commit",
-        "url": "https://www.theguardian.com/politics/2026/may/31/nicola-sturgeon-feel-serving-sentence-crime-did-not-commit",
-        "description": "Former Scottish first minister says she will not apologise for actions of her ex-husband found guilty of embezzlementNicola Sturgeon has said she feels as if she is serving a sentence for a crime s...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Ferrari wanted to take on Chinese EVs with the Luce - then the backlash started",
-        "url": "https://www.bbc.com/news/articles/c1l2y7j7454o?at_medium=RSS&at_campaign=rss",
-        "description": "The brand's first EV has been heavily criticised, with some saying it has abandoned Ferrari's roots.",
+        "title": "Put a £5 deposit on vapes to stop littering, say waste companies",
+        "url": "https://www.bbc.com/news/articles/c4g4vqex028o?at_medium=RSS&at_campaign=rss",
+        "description": "The industry body for waste companies says a refundable deposit would help boost vape recycling, but others disagree.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Shared NHS patient records could cut 20,000 A&E visits a year, ministers claim",
+        "url": "https://www.theguardian.com/society/2026/jun/01/single-patient-records-sharing-health-data-nhs-england",
+        "description": "Modernisation bill would require GPs and hospitals in England to share data, reducing errors and duplicationSharing access to patients’ health data across NHS providers in England could result in 2...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Trial of multi-cancer blood test among 142,000 NHS patients fails to meet main aim",
         "url": "https://www.theguardian.com/science/2026/may/30/trial-of-multi-cancer-blood-test-among-142000-nhs-patients-fails-to-meet-main-aim",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Sunbed group in hot seat over false claims that tanned skin protects against sunburn",
-        "url": "https://www.theguardian.com/society/2026/may/29/sunbeds-false-claims-tanning-protects-against-sunburn-health",
-        "description": "Health organisations refute assertion by Sunbed Association that tanning is protective and warn it could increase risk of skin cancerThe body that represents the UK’s sunbed salons is wrongly insis...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Millions of breast cancer patients could safely avoid chemotherapy, study suggests",
-        "url": "https://www.bbc.com/news/articles/c2325j0xk1vo?at_medium=RSS&at_campaign=rss",
-        "description": "A new DNA test could help screen whether patients require the treatment or not, according to a new international trial.",
+        "title": "Daily pill doubles survival time for pancreatic cancer patients",
+        "url": "https://www.bbc.com/news/articles/cy82l435171o?at_medium=RSS&at_campaign=rss",
+        "description": "The drug, daraxonrasib, has been hailed as a breakthrough in managing the deadliest of all the major cancers.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -169,23 +169,23 @@
     ],
     "housing": [
       {
+        "title": "New bill targets domestic abusers and overhauls right to buy in England",
+        "url": "https://www.theguardian.com/society/2026/may/31/bill-social-tenants-domestic-abuse-housing-right-to-buy",
+        "description": "Social housing landlords to be able to evict perpetrators, while right-to-buy tenancy requirements to riseSocial housing landlords will be able to evict domestic abuse perpetrators under a new bill...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "California reports one of largest drops in homelessness in past year, Hud reports",
+        "url": "https://www.theguardian.com/us-news/2026/may/31/california-homelessness-hud-data",
+        "description": "New data suggests success in Gavin Newsom’s crackdown, as Illinois, Hawaii and Florida also report notable decreasesCalifornia reported one of the largest decreases in homelessness over the past ye...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "State-owned land is Luke Quinn’s final refuge from council patrols — but soon even that meagre safety could disappear",
         "url": "https://www.theguardian.com/society/2026/jun/01/state-owned-land-is-luke-quinns-final-refuge-from-council-patrols-but-soon-even-that-meagre-safety-could-disappear",
-        "description": "Expansion of Gold Coast homeless patrols to lock vulnerable in ‘monstrous catch-22’, advocates fearGet our breaking news email, free app or daily news podcastLuke Quinn dreams of the day he can get...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Falling through the cracks: ex-prisoners who died within two weeks of release",
-        "url": "https://www.theguardian.com/society/2026/may/31/ex-prisoners-died-within-two-weeks-release-england-wales",
-        "description": "Growing number of people in England and Wales are being released into homelessness with little supportDeaths within two weeks of prison release hit record high in England and WalesIn the weeks runn...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Deaths within two weeks of prison release hit record high in England and Wales",
-        "url": "https://www.theguardian.com/society/2026/may/31/deaths-within-two-weeks-of-prison-release-hit-record-high-in-england-and-wales",
-        "description": "Exclusive: Experts say homelessness is primary driver of crisis that led to 77 ‘avoidable’ deaths in 2025Falling through the cracks: ex-prisoners who died within two weeks of releaseThe number of p...",
+        "description": "Advocates fear the expansion of Gold Coast homeless patrols will lock vulnerable in a ‘monstrous catch-22’Follow our Australia news live blog for latest updatesGet our breaking news email, free app...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -194,21 +194,21 @@
       {
         "title": "Israel seizes castle in Lebanon as it expands ground offensive",
         "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-        "description": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah.",
+        "description": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-        "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-        "description": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.",
+        "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+        "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+        "description": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-        "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
-        "description": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
+        "title": "Trump seeking edits to US-Iran deal, US media report",
+        "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
+        "description": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
