@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-06-01T03:57:38.972223+00:00",
+  "fetched_at": "2026-06-01T11:31:03.445866+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "No 10 braced for ‘excruciating’ revelations as messages between Mandelson and ministers to be released – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/01/peter-mandelson-documents-published-keir-starmer-labour-latest-news-updates",
+        "description": "Sources predict ‘toe-curling’ revelations as more than 1,000 pages of documents relating to his appointment as US ambassador to be publishedMandelson files show no mitigation of security concernsAt...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Two US political commentators banned from entering UK",
+        "url": "https://www.theguardian.com/media/2026/jun/01/us-political-commentators-say-banned-entering-uk-cenk-uygur-hasan-piker",
+        "description": "Home Office says presence of Cenk Uygur and Hasan Piker in UK ‘may not be conducive to the public good’Two prominent US political commentators who were due to speak at events in the UK this week ha...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "New bill targets domestic abusers and overhauls right to buy in England",
         "url": "https://www.theguardian.com/society/2026/may/31/bill-social-tenants-domestic-abuse-housing-right-to-buy",
@@ -10,28 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Embarrassing WhatsApps, but no vetting report: what will be in the new release of Mandelson files?",
-        "url": "https://www.theguardian.com/politics/2026/may/31/peter-mandelson-files-whatsapps-no-vetting-report-explainer",
-        "description": "Cabinet Office is expected to publish more than 1,000 pages related to former US ambassador’s appointment to roleMandelson files show no mitigation of security concerns over US appointmentOn Monday...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Mandelson files show no mitigation of security concerns over US appointment",
-        "url": "https://www.theguardian.com/politics/2026/may/31/mandelson-files-no-mitigation-of-security-concerns-us-ambassador",
-        "description": "Exclusive: Papers to be published on Monday cast doubt on assurances provided by senior Whitehall officialsEmbarrassing WhatsApps, but no vetting report: what will be in the new release of Mandelso...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit",
-        "url": "https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss",
-        "description": "Scotland's former first minister is challenged by Laura Kuenssberg over the SNP embezzlement scandal, and at times struggles to hold back tears.",
+        "title": "Ministers braced for private texts and WhatsApps in Mandelson file release",
+        "url": "https://www.bbc.com/news/articles/c9wezlrle75o?at_medium=RSS&at_campaign=rss",
+        "description": "The documents will offer a fascinating internal insight into how government works, including the way information flows and disagreements.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Oil and gas prices rise as US and Iran trade strikes; UK house prices fall – business live",
+        "url": "https://www.theguardian.com/business/live/2026/jun/01/uk-house-prices-fall-middle-east-interest-rates-manufacturing-softbank-ai-boom-chipmakers-live-updates",
+        "description": "British house prices fell 0.6% in May, leaving them 1.7% higher than a year earlier, Nationwide reportsEurozone factories were hit by the biggest jump in input costs in four years last month.The Ir...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Disaster of Brexit is a warning against simple solutions to hard problems | Richard Partington",
         "url": "https://www.theguardian.com/politics/2026/may/31/disaster-brexit-warning-simple-solutions-hard-problems",
@@ -47,14 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "Inflation won Trump the presidency, but could cost him the midterms",
-        "url": "https://www.theguardian.com/business/2026/may/30/inflation-trump-presidency-midterm-election",
-        "description": "Trump’s pursuit of policies that drive up prices, including tariffs and war, might be punished in November’s electionsFor such an uncannily successful politician, Donald Trump exhibits a perplexing...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Put a £5 deposit on vapes to stop littering, say waste companies",
+        "title": "Put a £5 deposit on vapes to stop fires, say waste companies",
         "url": "https://www.bbc.com/news/articles/c4g4vqex028o?at_medium=RSS&at_campaign=rss",
         "description": "The industry body for waste companies says a refundable deposit would help boost vape recycling, but others disagree.",
         "source": "BBC News",
@@ -84,37 +84,44 @@
         "category": "nhs"
       },
       {
-        "title": "Daily pill doubles survival time for pancreatic cancer patients",
-        "url": "https://www.bbc.com/news/articles/cy82l435171o?at_medium=RSS&at_campaign=rss",
-        "description": "The drug, daraxonrasib, has been hailed as a breakthrough in managing the deadliest of all the major cancers.",
+        "title": "'Don't be too kind': Maternity staff used offensive terms to refer to patients",
+        "url": "https://www.bbc.com/news/articles/c152y8j4gljo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Panorama has seen documents and spoken to former midwives from Nottingham University Hospitals NHS Trust.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
-        "title": "Indian man awarded almost £30,000 after UK employer failed to provide work",
-        "url": "https://www.theguardian.com/law/2026/may/31/indian-citizen-post-brexit-visa-scheme-employment-tribunal-uk",
-        "description": "Tribunal orders company to pay Shabin Shaji for care work he was not given after coming to UK, in landmark caseAn Indian citizen who came to the UK to work as a care worker through the post-Brexit ...",
+        "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
+        "description": "Rwanda had sued UK government over alleged breach of agreement, after scheme scrapped by Labour on first day in officeThe UK will not have to pay the Rwandan government millions of pounds over a fa...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "The right is desperate for a solution to falling birthrates. Who’s going to tell them that the answer is immigration? | John Harris",
-        "url": "https://www.theguardian.com/commentisfree/2026/may/31/right-solution-falling-birthrates-immigration-reform-maga",
-        "description": "Reform and Maga are correct that ageing populations are storing up huge social problems, but our prosperity still rests on the hard work of migrantsA growing mountain of reports highlights one of t...",
+        "title": "Home Office sends letters to children as young as five saying they must leave UK",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/01/home-office-letters-children-care-workers-leave-uk",
+        "description": "Children of those on care worker visas, who came legally before rule change, told to leave even if parents can stayChildren as young as five who are living legally in the UK are being told by the H...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Lone children held at UK-run detention centres in France 284 times last year",
-        "url": "https://www.theguardian.com/uk-news/2026/may/29/lone-children-uk-detention-centres-france-foi-data-2025",
-        "description": "Refugee charities say the numbers revealed in freedom of information data are ‘shocking’Lone children were held at UK-run detention centres in France on nearly 300 occasions last year, according to...",
+        "title": "Charities decry UK plan to use AI to assess age of young asylum seekers",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/01/charities-decry-uk-plan-to-use-ai-to-assess-age-of-young-asylum-seekers",
+        "description": "Coalition of more than 100 organisations says move could lead to more children ending up in adult detention facilitiesA coalition of more than a hundred refugee children’s organisations has said co...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
+        "url": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
+        "description": "‘Megafires’ in California, Canada, South Korea and Europe in 2025, but changes to farming slowed spread in parts of Africa“Devastating” wildfires ripped across the wealthier parts of the world in 2...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "US garbage incinerators are failing to eliminate ‘forever chemical’ air pollution, experts warn",
         "url": "https://www.theguardian.com/us-news/2026/may/30/garbage-incinerators-pfas-forever-chemicals",
@@ -126,13 +133,6 @@
         "title": "‘That’s why we work in finance – so one day we can afford air-con’: Britain’s unequal heatwave",
         "url": "https://www.theguardian.com/uk-news/2026/may/30/britain-heatwave-unequal-air-con-london",
         "description": "While some found this week’s heat a breeze, many in poorer areas face health risks in furnace-like homesTravelling from his air-conditioned flat to the air-conditioned Elizabeth line to his air-con...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Global heating is making hajj ever more dangerous, report finds",
-        "url": "https://www.theguardian.com/environment/2026/may/29/global-heating-hajj-muslim-pilgrimage-saudi-arabia-dangerous",
-        "description": "Rising heat in Saudi Arabia threatens millions of Muslim pilgrims – but cutting fossil fuels would keep it saferGlobal heating has “fundamentally altered” the climate of Mecca and is exposing milli...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -176,39 +176,39 @@
         "category": "housing"
       },
       {
-        "title": "California reports one of largest drops in homelessness in past year, Hud reports",
-        "url": "https://www.theguardian.com/us-news/2026/may/31/california-homelessness-hud-data",
-        "description": "New data suggests success in Gavin Newsom’s crackdown, as Illinois, Hawaii and Florida also report notable decreasesCalifornia reported one of the largest decreases in homelessness over the past ye...",
+        "title": "A place where everyone has somewhere of their own, to thrive and feel safe – this will be my politics of home | Keir Starmer",
+        "url": "https://www.theguardian.com/commentisfree/2026/jun/01/politics-of-home-keir-starmer-public-private-sector-housing-crisis",
+        "description": "Underfunding, systemic failure and awful Tory policies bequeathed us a public and private sector housing crisis. As a priority, we will now fix that Growing up, I remember how important our home wa...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "State-owned land is Luke Quinn’s final refuge from council patrols — but soon even that meagre safety could disappear",
-        "url": "https://www.theguardian.com/society/2026/jun/01/state-owned-land-is-luke-quinns-final-refuge-from-council-patrols-but-soon-even-that-meagre-safety-could-disappear",
-        "description": "Advocates fear the expansion of Gold Coast homeless patrols will lock vulnerable in a ‘monstrous catch-22’Follow our Australia news live blog for latest updatesGet our breaking news email, free app...",
+        "title": "California reports one of largest drops in homelessness in past year, Hud reports",
+        "url": "https://www.theguardian.com/us-news/2026/may/31/california-homelessness-hud-data",
+        "description": "New data suggests success in Gavin Newsom’s crackdown, as Illinois, Hawaii and Florida also report notable decreasesCalifornia reported one of the largest decreases in homelessness over the past ye...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Israel seizes castle in Lebanon as it expands ground offensive",
-        "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-        "description": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation.",
+        "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
+        "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
+        "description": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
-        "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
-        "description": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+        "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
+        "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+        "description": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump seeking edits to US-Iran deal, US media report",
-        "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
-        "description": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media.",
+        "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
+        "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
+        "description": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
