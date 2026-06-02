@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-06-02T16:21:55.822627+00:00",
+  "fetched_at": "2026-06-02T20:47:21.934169+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Police officer received death threats over Nowak murder case as Mahmood condemns ‘dangerous’ commentary – UK politics live",
+        "title": "Family say British couple jailed in Iran have lost appeal against convictions",
+        "url": "https://www.theguardian.com/world/2026/jun/02/family-say-british-couple-jailed-in-iran-have-lost-appeal-against-convictions",
+        "description": "Craig and Lindsay Foreman, both aged 53, given 10-year sentences in February after being convicted of espionageA British couple jailed on spying charges in Iran have lost an appeal against their co...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "What’s missing from ‘embarrassing’ Mandelson files? – The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/jun/02/whats-missing-from-embarrassing-mandelson-files-the-latest",
+        "description": "The second tranche of documents related to the appointment of Peter Mandelson as US ambassador have been released. The documents, running to more than 1,000 pages, were supposed to reveal what mini...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Starmer says he ‘felt sick’ watching video of Henry Nowak’s arrest – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/02/peter-mandelson-keir-starmer-labour-leadership-snp-peter-murrell-latest-news-updates",
-        "description": "Home secretary says officer wrongly linked to case had to relocate after footage emerged of victim being handcuffed while dyingBBC Scotland has more details of the Peter Murrell hearing this mornin...",
+        "description": "The prime minister said: ‘I have seen the body cam footage, it’s harrowing, and I have to say, as a father of a 17-year-old boy, I felt sick watching it.’BBC Scotland has more details of the Peter ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Streeting says raising concerns over Gaza in government like ‘hitting up against a brick wall’",
-        "url": "https://www.theguardian.com/politics/2026/jun/02/wes-streeting-gaza-concerns-government-hitting-brick-wall",
-        "description": "Ex-health secretary was described as ‘hysterical’ on issue by Peter Mandelson in messages disclosed this weekUK politics live – latest updatesWes Streeting has said he felt he was “hitting up again...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "No 10 confirms Starmer’s WhatsApp messages automatically delete",
-        "url": "https://www.theguardian.com/politics/2026/jun/02/no-10-starmer-whatsapp-messages-automatically-delete-mandelson",
-        "description": "Spokesperson says function is in line with official guidance as scrutiny of papers relating to Peter Mandelson continuesUK politics live – latest updatesKeir Starmer’s WhatsApp messages automatical...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "'Beleaguered and bereft' - Mandelson messages reveal criticism of No 10",
-        "url": "https://www.bbc.com/news/articles/cwy2431r8xdo?at_medium=RSS&at_campaign=rss",
-        "description": "Newly published documents show Lord Mandelson and ministers' concerns about the prime minister and Labour MPs.",
+        "title": "Henry Nowak arrest footage raises 'serious questions for police', PM says",
+        "url": "https://www.bbc.com/news/articles/cq8pn9ng5zlo?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Keir Starmer says the question of \"how accusations of racism informed decision making\" must be addressed.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "What Blair gets wrong about the economy – it is fired by people, not business | Letters",
+        "url": "https://www.theguardian.com/business/2026/jun/02/what-blair-gets-wrong-about-the-economy-it-is-fired-by-people-not-business",
+        "description": "Readers respond to Jonathan Freedland’s article about Tony Blair’s vision for the futureJonathan Freedland says Tony Blair “would say you can only address [poverty and inequality] once the economy ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Alphabet’s shares drop after announcing $80bn share sale, as AI threatens to drive up youth unemployment – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Orbán’s oligarchs on edge as Hungary poised to launch wealth tax",
-        "url": "https://www.theguardian.com/world/2026/jun/02/orban-oligarchs-on-edge-hungary-wealth-tax-peter-magyar",
-        "description": "New PM Péter Magyar calls policy a sign of ‘social justice’ after years of political loyalty being rewarded with economic opportunityIn a dimly lit television studio, one of Hungary’s richest men i...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
-        "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
-        "description": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
+        "title": "King told me Post Office scandal was 'dreadful', says oldest victim",
+        "url": "https://www.bbc.com/news/articles/czr2dlerv0zo?at_medium=RSS&at_campaign=rss",
+        "description": "Betty Brown says she is accepting the honour on behalf of all the victims of the scandal.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -118,7 +118,7 @@
       {
         "title": "Six US states sue Trump administration over deal to kill windfarm project",
         "url": "https://www.theguardian.com/us-news/2026/jun/02/lawsuit-trump-administration-windfarm-leases",
-        "description": "State attorneys general argue $1bn deal to terminate major offshore wind lease off the coast of New York is unlawfulSix states sued the Trump administration on Tuesday over its decision to cancel o...",
+        "description": "State attorneys general argue $1bn deal to terminate major offshore wind lease off the coast of New York is unlawfulSix states sued the Trump administration on Tuesday over its decision to cancel a...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Ex-prisoners abandoned at their most vulnerable | Letters",
+        "url": "https://www.theguardian.com/society/2026/jun/02/ex-prisoners-abandoned-at-their-most-vulnerable",
+        "description": "James Stoddart and Richard Eltringham respond to an investigation which found that deaths within two weeks of leaving prison have hit a record highYour investigation showing that deaths within two ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Reeves examines using private sector funds to speed building of new towns",
         "url": "https://www.theguardian.com/society/2026/jun/01/rachel-reeves-private-sector-deals-new-towns-ppp",
         "description": "Chancellor in talks with banks and investment funds about public-private partnerships to build infrastructureBusiness live – latest updatesRachel Reeves is examining how to attract funds from priva...",
@@ -181,27 +188,20 @@
         "description": "Social housing landlords to be able to evict perpetrators, while right-to-buy tenancy requirements to riseSocial housing landlords will be able to evict domestic abuse perpetrators under a new bill...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "A place where everyone has somewhere of their own, to thrive and feel safe – this will be my politics of home | Keir Starmer",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/01/politics-of-home-keir-starmer-public-private-sector-housing-crisis",
-        "description": "Underfunding, systemic failure and awful Tory policies bequeathed us a public and private sector housing crisis. As a priority, we will now fix that Growing up, I remember how important our home wa...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people",
-        "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
-        "description": "An eight-year-old boy killed in a strike on an apartment block are among the dead, officials say.",
+        "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+        "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
+        "description": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-        "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
-        "description": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
+        "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
+        "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
+        "description": "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
