@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-02T10:21:41.684385+00:00",
+  "fetched_at": "2026-06-02T16:21:55.822627+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Murrell used false accounting and fake invoices to hide SNP embezzlement, court hears – UK politics live",
+        "title": "Police officer received death threats over Nowak murder case as Mahmood condemns ‘dangerous’ commentary – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/02/peter-mandelson-keir-starmer-labour-leadership-snp-peter-murrell-latest-news-updates",
-        "description": "Items bought by former chief executive included more than £23,000 from a luxury stationery brand and a £3,000 robotic lawnmowerBBC Scotland has more details of the Peter Murrell hearing this mornin...",
+        "description": "Home secretary says officer wrongly linked to case had to relocate after footage emerged of victim being handcuffed while dyingBBC Scotland has more details of the Peter Murrell hearing this mornin...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour ‘not looking to raise taxes to fund benefits’ as Mandelson messages suggest",
-        "url": "https://www.theguardian.com/politics/2026/jun/02/labour-not-looking-to-raise-taxes-to-fund-benefits-minister-says-after-whatsapp-messages-revealed",
-        "description": "Nick Thomas-Symonds defends ‘embarrassing’ Whatsapp messages between Pat McFadden and MandelsonUK politics live – latest updatesLabour MPs are not looking to raise taxes to fund more benefits, the ...",
+        "title": "Streeting says raising concerns over Gaza in government like ‘hitting up against a brick wall’",
+        "url": "https://www.theguardian.com/politics/2026/jun/02/wes-streeting-gaza-concerns-government-hitting-brick-wall",
+        "description": "Ex-health secretary was described as ‘hysterical’ on issue by Peter Mandelson in messages disclosed this weekUK politics live – latest updatesWes Streeting has said he felt he was “hitting up again...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK government has failed Palestinian people, says senior Labour MP",
-        "url": "https://www.theguardian.com/politics/2026/jun/02/uk-government-failed-palestinian-people-emily-thornberry",
-        "description": "Emily Thornberry criticises Israel’s ‘staggering’ sense of impunity and rebukes Donald Trump for abandoning GazaThe UK government has let the Palestinian people down and failed to make it economica...",
+        "title": "No 10 confirms Starmer’s WhatsApp messages automatically delete",
+        "url": "https://www.theguardian.com/politics/2026/jun/02/no-10-starmer-whatsapp-messages-automatically-delete-mandelson",
+        "description": "Spokesperson says function is in line with official guidance as scrutiny of papers relating to Peter Mandelson continuesUK politics live – latest updatesKeir Starmer’s WhatsApp messages automatical...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,16 @@
     ],
     "economy": [
       {
-        "title": "AI to drive up UK youth unemployment, as Alphabet raises $80bn for spending splurge – business live",
+        "title": "Alphabet’s shares drop after announcing $80bn share sale, as AI threatens to drive up youth unemployment – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/02/alphabet-80bn-share-sales-ai-spending-berkshire-hathaway-stock-markets-oil-interest-rates-inflation-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial newsAnthropic confidentially files for initial public offering on US stock marketIn a landmark moment, gold has overtaken US government bonds a...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Will the AI economy create a permanent underclass?",
+        "url": "https://www.theguardian.com/business/2026/jun/02/will-the-ai-economy-create-a-permanent-underclass",
+        "description": "From India and Africa to Europe, countries not yet in the AI supply chain risk mass job losses, losing the tax revenue needed to deal with the tech’s falloutBusiness live – AI to drive up UK youth ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Despite what the UK right will tell you, appeasing bond markets has actually led to instability | Andy Beckett",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/02/uk-right-bond-markets-instability-austerity-populism",
-        "description": "Austerity has benefitted bond traders but impoverished British society and led to the rise of populism. Is it right that we carry on adhering to their interests?Should politics always be dominated ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "AI giant Anthropic plans to sell shares in US as valuation nears $1tn",
-        "url": "https://www.bbc.com/news/articles/c0k203kzp10o?at_medium=RSS&at_campaign=rss",
-        "description": "The AI company behind Claude is set to offer the public the chance to buy and sell shares in the firm later this year.",
+        "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
+        "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
+        "description": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,18 +84,18 @@
         "category": "nhs"
       },
       {
-        "title": "Three Ebola vaccines in development amid growing outbreak fears",
-        "url": "https://www.bbc.com/news/articles/cn8pw93929wo?at_medium=RSS&at_campaign=rss",
-        "description": "IAVI, Moderna and the University of Oxford are all working on new vaccines.",
+        "title": "More black men to benefit from prostate cancer screening trial",
+        "url": "https://www.bbc.com/news/articles/c4g91jrl349o?at_medium=RSS&at_campaign=rss",
+        "description": "Experts are trying to find the best way to screen for prostate cancer, since blood tests alone are not accurate enough for most men.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
-        "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
-        "description": "Rwanda had sued UK government over alleged breach of agreement, after scheme scrapped by Labour on first day in officeThe UK will not have to pay the Rwandan government millions of pounds over a fa...",
+        "title": "My father, the German refugee who fought the Nazis as a ‘secret listener’",
+        "url": "https://www.theguardian.com/world/2026/jun/02/my-father-german-refugee-who-fought-nazis-as-secret-listener",
+        "description": "As the far right fulminates about who ‘belongs’ in Britain, let’s remember Fritz Lustig, who arrived here in 1939, just months before war broke out. Initially jailed as an ‘enemy alien’, he played ...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -107,14 +107,28 @@
         "category": "immigration"
       },
       {
-        "title": "Home Office sends letters to children as young as five saying they must leave UK",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/01/home-office-letters-children-care-workers-leave-uk",
-        "description": "Children of those on care worker visas, who came legally before rule change, told to leave even if parents can stayChildren as young as five who are living legally in the UK are being told by the H...",
+        "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
+        "description": "Rwanda had sued UK government over alleged breach of agreement, after scheme scrapped by Labour on first day in officeThe UK will not have to pay the Rwandan government millions of pounds over a fa...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Six US states sue Trump administration over deal to kill windfarm project",
+        "url": "https://www.theguardian.com/us-news/2026/jun/02/lawsuit-trump-administration-windfarm-leases",
+        "description": "State attorneys general argue $1bn deal to terminate major offshore wind lease off the coast of New York is unlawfulSix states sued the Trump administration on Tuesday over its decision to cancel o...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "New ways to remove CO2 from atmosphere must grow much faster, report says",
+        "url": "https://www.theguardian.com/environment/2026/jun/02/new-ways-remove-co2-from-atmosphere-carbon-dioxide-removal",
+        "description": "Novel forms of CO2 removal must expand at ‘highly ambitious rates’ if world is to limit global heating to 1.5C, says studyHumanity must suck carbon out of the atmosphere with new technologies even ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Prepare for imminent return of El Niño, UN warns",
         "url": "https://www.theguardian.com/environment/2026/jun/02/prepare-for-imminent-return-of-el-nino-un-warns",
@@ -123,46 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "Wildfires devastating richer areas but fewer hectares burned globally – study",
-        "url": "https://www.theguardian.com/world/2026/jun/01/wildfires-devastating-richer-areas-but-fewer-hectares-burned-globally-study",
-        "description": "‘Megafires’ in California, Canada, South Korea and Europe in 2025, but changes to farming slowed spread in parts of Africa“Devastating” wildfires ripped across the wealthier parts of the world in 2...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "US garbage incinerators are failing to eliminate ‘forever chemical’ air pollution, experts warn",
-        "url": "https://www.theguardian.com/us-news/2026/may/30/garbage-incinerators-pfas-forever-chemicals",
-        "description": "The virtually indestructible Pfas waste puts largely low-income neighborhoods at risk, public health advocates sayThe nation’s garbage incinerators are largely failing to eliminate Pfas “forever ch...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'Killer fungus' could be good news for habitats decimated by invasive moss",
-        "url": "https://www.bbc.com/news/articles/c4g48jy4j1yo?at_medium=RSS&at_campaign=rss",
-        "description": "A newly discovered species raises hope that some native British habitats could be restored.",
+        "title": "Next El Niño could be strongest in decades",
+        "url": "https://www.bbc.com/news/videos/c8e8zzw30zyo?at_medium=RSS&at_campaign=rss",
+        "description": "A new phase of the natural El Niño weather pattern could begin in a matter of weeks, the UN has warned, boosting temperatures on a planet already under strain from climate change.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Debt-ridden graduates seen as ‘cash cows’ to fund older people’s lifestyles, MPs told",
+        "url": "https://www.theguardian.com/money/2026/jun/02/debt-ridden-graduates-seen-as-cash-cows-to-fund-older-peoples-lifestyles-mps-told",
+        "description": "Student groups tell inquiry about ballooning debt and ‘sneaky changes’ to loan terms while likening system to finance scandalsGraduates saddled with ballooning student loan debts feel they are bein...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "UK students and graduates: share your views on going to university",
+        "url": "https://www.theguardian.com/education/2026/jun/02/uk-students-and-graduates-share-your-views-on-going-to-university",
+        "description": "We would like to hear from graduates and current students aged 18 or over about their views on studying for a degreeAccording to the latest British Social Attitudes (BSA) survey, the proportion of ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Third of people no longer believe degree is worth the time or money, UK poll shows",
         "url": "https://www.theguardian.com/education/2026/jun/02/shrinking-graduate-premium-sours-views-on-university-poll-shows",
         "description": "Younger graduates, with experience of the fee system, are more disillusioned than those who did not pay fees, according to the surveyThere was a time when going to university seemed a no-brainer. B...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "University of Manchester to investigate sexual harassment of female medical students",
-        "url": "https://www.theguardian.com/education/2026/jun/01/university-of-manchester-investigate-sexual-harassment-female-medical-students-anonymous-phone-calls",
-        "description": "About 20 students report anonymous late-night phone calls from men who ‘intimidated, demeaned and belittled’ themThe University of Manchester has launched an investigation after about 20 female med...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Labour poised for fresh welfare changes after scale of youth jobs crisis revealed",
-        "url": "https://www.theguardian.com/business/2026/may/28/uk-risks-125bn-hit-youth-unemployment-landmark-report-alan-milburn-neets",
-        "description": "Alan Milburn’s landmark report says unemployment among young costs UK £125bn a year and warns of ‘lost generation’ ‘A record of failure’: what’s in first part of Milburn report?Tell us: we would li...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Massive Russian attack on cities across Ukraine kills at least 18 people",
+        "title": "Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people",
         "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
-        "description": "An eight-year-old boy and a woman pulled from the rubble of an apartment block are among those killed, officials say.",
+        "description": "An eight-year-old boy killed in a strike on an apartment block are among the dead, officials say.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
-        "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-        "description": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
+        "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
+        "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
+        "description": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Two people shot dead amid Kenya protests against US Ebola quarantine centre plan",
-        "url": "https://www.bbc.com/news/articles/cvgz7zny3pzo?at_medium=RSS&at_campaign=rss",
-        "description": "The US plan has sparked public anger and led to demonstrations near the site of the proposed treatment facility.",
+        "title": "British couple lose Iran jail sentence appeal, family says",
+        "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
+        "description": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
