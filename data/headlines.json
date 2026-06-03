@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-03T16:46:26.717653+00:00",
+  "fetched_at": "2026-06-03T20:53:59.087906+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Hampshire chief constable says his force ‘sorry for handcuffing and arresting’ Henry Nowak – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/03/henry-nowak-southampton-riot-labour-keir-starmer-police-uk-politics-latest-news",
-        "description": "Alexis Boon says student’s death was a tragedy and video was a ‘very difficult watch’Zia Yusuf, the Reform UK home affairs spokesperson, told Sky News this morning that he thought the treatment of ...",
+        "title": "MPs raise doubts over missing Mandelson vetting documents",
+        "url": "https://www.theguardian.com/politics/2026/jun/03/mps-raise-doubts-over-missing-mandelson-vetting-documents",
+        "description": "File detailing security mitigations is among those withheld at the request of the Metropolitan policeMinisters have faced renewed cross-party pressure in parliament over documents missing from a 1,...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK government to pay £1.3bn to help fund Universal Studios theme park in Bedfordshire",
-        "url": "https://www.theguardian.com/business/2026/jun/03/uk-government-help-fund-universal-studios-theme-park-bedfordshire",
-        "description": "Chancellor hails deal saying it will create tens of thousands of jobs in the construction, hospitality, creative and technology sectorsBusiness live – latest updateBritish taxpayers will provide £1...",
+        "title": "Labour MP sues Elon Musk’s xAI company over fake sexualised images",
+        "url": "https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images",
+        "description": "Jess Asato was portrayed wearing a bikini in Grok-generated images after she criticised creation of such non-consensual picturesA Labour MP has taken legal action against Elon Musk’s xAI company af...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "MPs who backed assisted dying bill don’t expect it to return via act that bypasses Lords",
-        "url": "https://www.theguardian.com/society/2026/jun/03/mps-assisted-dying-bill-return-parliament-acts",
-        "description": "Prominent backers including Louise Haigh say they would not support using Parliament Acts to pass billProminent backers of assisted dying, including the former cabinet ministers Louise Haigh, Ian M...",
+        "title": "Starmer says Farage ‘dodging questions’ about £5m gift from crypto billionaire",
+        "url": "https://www.theguardian.com/politics/2026/jun/03/keir-starmer-nigel-farage-dodging-questions-5m-gift-crypto-billionaire",
+        "description": "Prime minister says ‘£5m question still remains’, as pressure grows on Reform UK leader over Christopher Harborne giftKeir Starmer has pressed Nigel Farage to stop “dodging questions” about the £5m...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "The Guardian view on migrant workers’ rights: a tribunal win has shone a light on a broken system | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/jun/03/the-guardian-view-on-migrant-workers-rights-a-tribunal-win-has-shone-a-light-on-a-broken-system",
+        "description": "The shocking case of a man left on the breadline after being recruited to work in the UK’s care sector should prompt ministers to actThe risk of mistreatment for overseas workers recruited for jobs...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "My father, the German refugee who fought the Nazis as a ‘secret listener’",
         "url": "https://www.theguardian.com/world/2026/jun/02/my-father-german-refugee-who-fought-nazis-as-secret-listener",
         "description": "As the far right fulminates about who ‘belongs’ in Britain, let’s remember Fritz Lustig, who arrived here in 1939, just months before war broke out. Initially jailed as an ‘enemy alien’, he played ...",
@@ -103,13 +110,6 @@
         "title": "Windrush compensation scheme needs significant overhaul, MPs told",
         "url": "https://www.theguardian.com/uk-news/2026/jun/01/windrush-compensation-scheme-needs-significant-overhaul-mps-told",
         "description": "Victims should be given legal support to help slash number of claimants denied payouts, says Windrush commissioner The Windrush compensation scheme has failed to repair a grave injustice and needs ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "UK will not have to pay Rwanda £100m over failed asylum scheme, court rules",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/01/uk-will-not-pay-rwanda-over-failed-asylum-scheme",
-        "description": "Rwanda had sued UK government over alleged breach of agreement, after scheme scrapped by Labour on first day in officeThe UK will not have to pay the Rwandan government millions of pounds over a fa...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+        "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+        "description": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
         "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
         "description": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-        "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
-        "description": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Foreign nationals among at least 21 killed in Delhi fire",
-        "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-        "description": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives.",
+        "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+        "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+        "description": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
