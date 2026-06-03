@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-06-02T20:47:21.934169+00:00",
+  "fetched_at": "2026-06-03T03:59:32.173962+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Family say British couple jailed in Iran have lost appeal against convictions",
+        "title": "Nicola Sturgeon’s ex and his £400,000 shopping spree",
+        "url": "https://www.theguardian.com/uk-news/audio/2026/jun/03/nicola-sturgeons-ex-and-his-400000-shopping-spree",
+        "description": "Fast cars, luxury watches – and, of course, that motorhome: the list of what former SNP chief executive Peter Murrell bought with embezzled funds is dizzying. Severin Carrell reports.As chief execu...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "GPs in England too ‘overloaded’ to help older people at risk of falling, say MPs",
+        "url": "https://www.theguardian.com/society/2026/jun/03/gps-in-england-too-overloaded-to-help-older-people-at-risk-of-falling-say-mps",
+        "description": "NHS bosses giving evidence to public accounts committee admit current position is unacceptableGPs in England are so “overloaded” that they cannot help older people who are at risk of falling in wha...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "British couple jailed in Iran have lost appeal against convictions, family say",
         "url": "https://www.theguardian.com/world/2026/jun/02/family-say-british-couple-jailed-in-iran-have-lost-appeal-against-convictions",
-        "description": "Craig and Lindsay Foreman, both aged 53, given 10-year sentences in February after being convicted of espionageA British couple jailed on spying charges in Iran have lost an appeal against their co...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "What’s missing from ‘embarrassing’ Mandelson files? – The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/jun/02/whats-missing-from-embarrassing-mandelson-files-the-latest",
-        "description": "The second tranche of documents related to the appointment of Peter Mandelson as US ambassador have been released. The documents, running to more than 1,000 pages, were supposed to reveal what mini...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer says he ‘felt sick’ watching video of Henry Nowak’s arrest – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/02/peter-mandelson-keir-starmer-labour-leadership-snp-peter-murrell-latest-news-updates",
-        "description": "The prime minister said: ‘I have seen the body cam footage, it’s harrowing, and I have to say, as a father of a 17-year-old boy, I felt sick watching it.’BBC Scotland has more details of the Peter ...",
+        "description": "Craig and Lindsay Foreman given 10-year sentences in February for alleged espionage, which they denyA British couple jailed on spying charges in Iran have lost an appeal against their convictions, ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "Henry Nowak arrest footage raises 'serious questions for police', PM says",
         "url": "https://www.bbc.com/news/articles/cq8pn9ng5zlo?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Keir Starmer says the question of \"how accusations of racism informed decision making\" must be addressed.",
+        "description": "Sir Keir Starmer says the question of \"how accusations of racism informed decision making\" must be addressed, as protesters clash with police in Southampton.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "King told me Post Office scandal was 'dreadful', says oldest victim",
-        "url": "https://www.bbc.com/news/articles/czr2dlerv0zo?at_medium=RSS&at_campaign=rss",
-        "description": "Betty Brown says she is accepting the honour on behalf of all the victims of the scandal.",
+        "title": "Three quarters of workers not on track for 'moderate' pension income, report suggests",
+        "url": "https://www.bbc.com/news/articles/c3928m30v89o?at_medium=RSS&at_campaign=rss",
+        "description": "A newly-published report suggests a moderate lifestyle in retirement costs £32,700 for one person and £45,400 for two.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "GPs in England too ‘overloaded’ to help older people at risk of falling, say MPs",
+        "url": "https://www.theguardian.com/society/2026/jun/03/gps-in-england-too-overloaded-to-help-older-people-at-risk-of-falling-say-mps",
+        "description": "NHS bosses giving evidence to public accounts committee admit current position is unacceptableGPs in England are so “overloaded” that they cannot help older people who are at risk of falling in wha...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "British politics is fractured and chaotic – but at last it’s brimming with ideas for the future | Polly Toynbee",
         "url": "https://www.theguardian.com/commentisfree/2026/jun/02/british-politics-ideas-for-the-future-labour-policy-tony-blair",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Shared NHS patient records could cut 20,000 A&E visits a year, ministers claim",
-        "url": "https://www.theguardian.com/society/2026/jun/01/single-patient-records-sharing-health-data-nhs-england",
-        "description": "Modernisation bill would require GPs and hospitals in England to share data, reducing errors and duplicationSharing access to patients’ health data across NHS providers in England could result in 2...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "More black men to benefit from prostate cancer screening trial",
-        "url": "https://www.bbc.com/news/articles/c4g91jrl349o?at_medium=RSS&at_campaign=rss",
-        "description": "Experts are trying to find the best way to screen for prostate cancer, since blood tests alone are not accurate enough for most men.",
+        "title": "Could lifting weights actually help you live longer?",
+        "url": "https://www.bbc.com/news/articles/c0r2lekenlpo?at_medium=RSS&at_campaign=rss",
+        "description": "Regular weight training can significantly reduce the risk of early death, research suggests.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Dismay as Trump officials to dismantle key ocean monitoring system",
+        "url": "https://www.theguardian.com/environment/2026/jun/02/trump-administration-ocean-observatories-initiative",
+        "description": "Ocean Observatories Initiative, $368m network that has provided crucial climate data, latest victim of Trump cutsThe Trump administration plans to dismantle a $368m deep-sea observation system that...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Six US states sue Trump administration over deal to kill windfarm project",
         "url": "https://www.theguardian.com/us-news/2026/jun/02/lawsuit-trump-administration-windfarm-leases",
         "description": "State attorneys general argue $1bn deal to terminate major offshore wind lease off the coast of New York is unlawfulSix states sued the Trump administration on Tuesday over its decision to cancel a...",
@@ -126,13 +133,6 @@
         "title": "New ways to remove CO2 from atmosphere must grow much faster, report says",
         "url": "https://www.theguardian.com/environment/2026/jun/02/new-ways-remove-co2-from-atmosphere-carbon-dioxide-removal",
         "description": "Novel forms of CO2 removal must expand at ‘highly ambitious rates’ if world is to limit global heating to 1.5C, says studyHumanity must suck carbon out of the atmosphere with new technologies even ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Prepare for imminent return of El Niño, UN warns",
-        "url": "https://www.theguardian.com/environment/2026/jun/02/prepare-for-imminent-return-of-el-nino-un-warns",
-        "description": "UN agency predicts phenomenon that supercharges weather extremes has 80% chance of forming before SeptemberThe world must prepare for the imminent return of El Niño and the supercharged weather ext...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
-        "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
-        "description": "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.",
+        "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
+        "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+        "description": "US launches fresh strikes on Iran and an oil tanker as Tehran says it attacked US bases in the Gulf.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "British couple lose Iran jail sentence appeal, family says",
-        "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
-        "description": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey.",
+        "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+        "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+        "description": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
