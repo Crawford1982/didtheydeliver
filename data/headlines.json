@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-06-04T20:04:42.939112+00:00",
+  "fetched_at": "2026-06-05T03:39:02.898492+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "‘I wouldn’t flinch’: Burnham on social care, markets, Brexit – and the prospect of a general election",
+        "url": "https://www.theguardian.com/politics/2026/jun/04/i-wouldnt-flinch-burnham-on-social-care-markets-brexit-and-the-prospect-of-a-general-election",
+        "description": "Exclusive: Greater Manchester mayor sets out his priorities before Makerfield byelection – and what might happen after the voteAndy Burnham has signalled he would begin transforming England’s broke...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Reform’s Andrea Jenkyns storms out of meeting after discussion of Henry Nowak murder",
         "url": "https://www.theguardian.com/politics/2026/jun/04/reform-andrea-jenkyns-storms-out-of-meeting-henry-nowak",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Why is Andy Burnham talking about fixing England’s social care system?",
-        "url": "https://www.theguardian.com/society/2026/jun/04/why-is-andy-burnham-talking-about-fixing-englands-social-care-system",
-        "description": "Prospective MP and potential Labour leader has said tackling the issue is a priority. But why is the system in crisis and what can be done about it?‘I wouldn’t flinch’: Burnham on social care, mark...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Henry Nowak deserves legacy that goes beyond tragedy, says PM",
-        "url": "https://www.bbc.com/news/articles/c8jvj9l8x4eo?at_medium=RSS&at_campaign=rss",
-        "description": "Prime Minister Sir Keir Starmer mets the family of Henry Nowak at 10 Downing Street.",
+        "title": "Burnham says he would seek to enter any Labour leadership contest",
+        "url": "https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&at_campaign=rss",
+        "description": "The Greater Manchester mayor would need to win the by-election in Makerfield to be a possible candidate.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Musk's SpaceX share sale: Four things you need to know",
-        "url": "https://www.bbc.com/news/articles/czx299wpp56o?at_medium=RSS&at_campaign=rss",
-        "description": "From next week individual investors can take a stake in Musk's rockets-to-AI company.",
+        "title": "AI needs a 'brake pedal', warns Anthropic co-founder",
+        "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+        "description": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,6 +70,13 @@
         "category": "nhs"
       },
       {
+        "title": "Girl, 5, traumatised after GP assistant wrongly prescribed vaginal pessary, report finds",
+        "url": "https://www.theguardian.com/society/2026/jun/05/girl-traumatised-vaginal-pessary-gp-associate-report",
+        "description": "Mother, who thought daughter was being examined by GP, says girl began to bleed and scream in pain after device was insertedA five-year-old was left traumatised, bleeding and in severe pain after a...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "The Guardian view on NHS records: patients are not raw material for big tech | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/jun/04/the-guardian-view-on-nhs-records-patients-are-not-raw-material-for-big-tech",
         "description": "Ministers should end Palantir’s contract before medical confidentiality is sacrificed to Silicon Valley’s appetite for public dataAlarm bells ought to have rung when it emerged last month that Pala...",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Why is Andy Burnham talking about fixing England’s social care system?",
-        "url": "https://www.theguardian.com/society/2026/jun/04/why-is-andy-burnham-talking-about-fixing-englands-social-care-system",
-        "description": "Prospective MP and potential Labour leader has said tackling the issue is a priority. But why is the system in crisis and what can be done about it?‘I wouldn’t flinch’: Burnham on social care, mark...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "'I left a children's home – and was embraced by love'",
-        "url": "https://www.bbc.com/news/articles/c3d2grdep8mo?at_medium=RSS&at_campaign=rss",
-        "description": "How a new scheme for young people leaving care is tackling what was once a cliff-edge for this vulnerable group.",
+        "title": "One in four births in England is now emergency caesarean, BBC analysis shows",
+        "url": "https://www.bbc.com/news/articles/cqxpxjrqd1po?at_medium=RSS&at_campaign=rss",
+        "description": "The shift marks a significant rise over the last five years, but experts say there is no single, clear explanation for the increase.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Trump uses wartime powers to dole out $700m to ‘clean, beautiful’ coal",
+        "url": "https://www.theguardian.com/us-news/2026/jun/04/trump-coal-defense-production-act",
+        "description": "US president announces plans for two new coal plants, in Alaska and West Virginia, using Defense Production ActDonald Trump is using wartime presidential authority to hand $700m to coal-fired power...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "California and New York weaken climate rules as red states ramp up green energy",
         "url": "https://www.theguardian.com/environment/2026/jun/04/climate-crisis-blue-states-california-new-york",
         "description": "Republican-led states growing renewable capabilities at faster rate as Texas emerges as clean-energy leaderDemocratic-led states are eroding their climate policies, as red states are scaling up the...",
@@ -125,21 +132,14 @@
       {
         "title": "‘That’s a bad combination’: why Australia may be in for a slushy snow season",
         "url": "https://www.theguardian.com/australia-news/2026/jun/05/australia-ski-season-snow-climate-change-el-nino-impact",
-        "description": "Snow arrives in time for the start of ski season, but climate change and El Niño mean it may not stick around for long, experts sayGet our breaking news email, free app or daily news podcastThere w...",
+        "description": "Snow arrives in time for the start of ski season, but climate change and El Niño mean it may not stick around for long, experts sayFollow our Australia news live blog for latest updatesGet our brea...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "‘An equal and habitable world is possible’: academics set out sweeping vision for planetary survival",
-        "url": "https://www.theguardian.com/environment/2026/jun/04/world-inequality-lab-equality-academics-planetary-survival",
-        "description": "Global report provides an alternative to climate breakdown, political extremism and economic tensions• ‘Happiness is not just about GDP’: ambitious plan or utopia?Humanity can raise living standard...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Failing sea defences 'disaster' for nature reserve",
-        "url": "https://www.bbc.com/news/articles/c0q2kk4ek8qo?at_medium=RSS&at_campaign=rss",
-        "description": "An internationally important nature reserve in Hampshire is under threat from failing flood defences.",
+        "title": "Mangrove forests are healing after decades of human destruction",
+        "url": "https://www.bbc.com/news/articles/cn4pk07npvvo?at_medium=RSS&at_campaign=rss",
+        "description": "Swampy mangrove forests are staging a surprise comeback - which is good news for coastal communities and the climate.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+        "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
         "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
         "description": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
@@ -202,13 +209,6 @@
         "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
         "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
         "description": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
-        "url": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss",
-        "description": "British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
