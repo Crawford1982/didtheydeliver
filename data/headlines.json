@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-05T09:46:54.609902+00:00",
+  "fetched_at": "2026-06-05T14:48:22.018666+00:00",
   "headlines": {
     "government": [
       {
-        "title": "No 10 says Starmer ‘will not walk away’ if Burnham officially enters Labour leadership contest - UK politics live",
+        "title": "Downing Street rejects US claim of ‘two-tiered policing’ over Henry Nowak death - UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/05/keir-starmer-andy-burnham-labour-leadership-rivals-makerfield-byelection-latest-news-updates",
-        "description": "Downing Street responded after Andy Burnham publicly admitted that he would consider launching a bid to become Labour leader‘I wouldn’t flinch’: Burnham on social care, markets, Brexit – and the pr...",
+        "description": "PM’s spokesperson also dismissed remarks from Kemi Badenoch, who suggested the identity politics could lead to civil warA former chair of an influential parliamentary committee said it was “shockin...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Peer ‘shocked’ that watchdog has not established Andrew’s property income",
-        "url": "https://www.theguardian.com/politics/2026/jun/05/margaret-hodge-shocked-andrew-property-income-watchdog",
-        "description": "Margaret Hodge concerned over use of taxpayers’ money after revelations about former prince’s sublettingUK politics live – latest updatesA former chair of an influential parliamentary committee sai...",
+        "title": "UK-EU ‘reset’ summit may still happen next month despite delay speculation",
+        "url": "https://www.theguardian.com/world/2026/jun/05/uk-eu-reset-summit-july-delay-speculation",
+        "description": "EU’s Maroš Šefčovič says summit will ‘probably’ be in July but sources say it could be put back as talks deadlockedUK politics live – latest updatesThe EU has said Keir Starmer’s upcoming summit “r...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "New claimants seek to sue Elon Musk’s xAI after Labour MP’s test case",
-        "url": "https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit",
-        "description": "Jess Asato’s lawyer says others want to take action over demeaning sexualised material created by Grok AI toolNew claimants have come forward to take legal action against Elon Musk’s company xAI af...",
+        "title": "‘Oyster card for the north’ could save commuters £276 a year, thinktank says",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/05/oyster-card-north-of-england-transport",
+        "description": "Proponents say scheme could generate up to £2.7bn in five years by making travel around north of England easier A proposed travel card for northern England modelled on London’s Oyster system could ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,16 @@
     ],
     "economy": [
       {
-        "title": "No jet fuel shortage in Europe, transport chief says; eurozone on brink of technical recession – business live",
+        "title": "US job creation smashes forecasts in May; ‘no jet fuel shortage in Europe’ – business live",
         "url": "https://www.theguardian.com/business/live/2026/jun/05/jet-fuel-europe-transport-chief-us-jobs-report-uk-house-prices-stock-markets-oil-live-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsUK shoppers return to high street as warm weather brings respite from shadow of warAfter rising in recent months, global food commodity pri...",
+        "description": "Rolling coverage of the latest economic and financial newsUK house prices fall for third successive month amid Iran war uncertaintyUK shoppers return to high street as warm weather brings respite f...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "US added 172,000 jobs in May as labor market shows signs of resilience",
+        "url": "https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment",
+        "description": "Government figures show unemployment rate at 4.3% amid rising inflation and economic uncertainty from Iran warUS employers added 172,000 jobs in May while the country’s unemployment rate held stead...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -43,13 +50,6 @@
         "title": "Horrific, unregulated, and very profitable. The companies making cash from England’s children in care | George Monbiot",
         "url": "https://www.theguardian.com/commentisfree/2026/jun/05/child-care-councils-private-equity-companies",
         "description": "Councils are sending vulnerable kids to homes run by money-grabbing cowboys and private-equity vulturesBring your suitcase, your bin liner, your dumpy bag. They’re handing out money faster than you...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK shoppers return to high street as warm weather brings respite from shadow of war",
-        "url": "https://www.theguardian.com/business/2026/jun/05/uk-shoppers-high-street-retail-iran-war",
-        "description": "British Retail Consortium figures show footfall rose in May, with consumer confidence improving after spending squeezeGreater numbers of consumers went shopping last month as spring sunshine brough...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Scientists warn Trump plan to axe US ocean monitoring system will leave world ‘flying blind’",
+        "url": "https://www.theguardian.com/environment/2026/jun/05/trump-plan-ocean-monitoring-system-concern-scientists",
+        "description": "Experts say dismantling the ocean observation system will ‘severely degrade’ the accuracy of weather predictionsThe Trump administration’s plan to dismantle an ocean observation system vital to und...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Trump uses wartime powers to dole out $700m to ‘clean, beautiful’ coal",
         "url": "https://www.theguardian.com/us-news/2026/jun/04/trump-coal-defense-production-act",
         "description": "US president announces plans for two new coal plants, in Alaska and West Virginia, using Defense Production ActDonald Trump is using wartime presidential authority to hand $700m to coal-fired power...",
@@ -126,13 +133,6 @@
         "title": "California and New York weaken climate rules as red states ramp up green energy",
         "url": "https://www.theguardian.com/environment/2026/jun/04/climate-crisis-blue-states-california-new-york",
         "description": "Republican-led states growing renewable capabilities at faster rate as Texas emerges as clean-energy leaderDemocratic-led states are eroding their climate policies, as red states are scaling up the...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘That’s a bad combination’: why Australia may be in for a slushy snow season",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/05/australia-ski-season-snow-climate-change-el-nino-impact",
-        "description": "Snow arrives in time for the start of ski season, but climate change and El Niño mean it may not stick around for long, experts sayFollow our Australia news live blog for latest updatesGet our brea...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
+        "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Zelensky proposes face-to-face talks in open letter to Putin",
         "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
         "description": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-        "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-        "description": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US actor James Handy stabbed to death, with girlfriend's son arrested",
-        "url": "https://www.bbc.com/news/articles/czd2dj24jgdo?at_medium=RSS&at_campaign=rss",
-        "description": "Handy, 81, is known for his roles in films including Jumanji and Top Gun: Maverick.",
+        "title": "Fury in France after child murder suspect's criminal record released",
+        "url": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
+        "description": "A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
