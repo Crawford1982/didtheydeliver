@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-05T19:52:56.044906+00:00",
+  "fetched_at": "2026-06-06T03:22:40.188029+00:00",
   "headlines": {
     "government": [
       {
         "title": "Starmer suggests US ‘trying to interfere in our democracy’ over Nowak claims",
         "url": "https://www.theguardian.com/politics/2026/jun/05/keir-starmer-questions-henry-nowak-case-two-tier-policing-claim",
-        "description": "No 10 responds after US vice-president blames UK teenager’s death on mass migration​Keir Starmer has suggested the US is trying to interfere in British democracy after JD Vance, the US vice-preside...",
+        "description": "Prime minister’s office responds after JD Vance blames British teenager’s death on mass migrationHow Britain was rocked by Henry Nowak’s murder – and why the US intervened​Keir Starmer has suggeste...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -24,25 +24,25 @@
         "category": "government"
       },
       {
-        "title": "Downing Street hits out at 'people seeking to stir division' after Vance's Nowak post",
+        "title": "Downing Street hits out after Vance post about Henry Nowak",
         "url": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss",
-        "description": "The US vice president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X.",
+        "description": "The US vice-president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "US job creation smashes forecasts in May, fuelling rate hike bets; ‘no jet fuel shortage in Europe’ – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/jun/05/jet-fuel-europe-transport-chief-us-jobs-report-uk-house-prices-stock-markets-oil-live-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsUK house prices fall for third successive month amid Iran war uncertaintyUK shoppers return to high street as warm weather brings respite f...",
+        "title": "US added 172,000 jobs in May as labor market shows signs of resilience",
+        "url": "https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment",
+        "description": "Government figures show unemployment rate at 4.3% amid rising inflation and economic uncertainty from Iran warUS employers added 172,000 jobs in May while the country’s unemployment rate held stead...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "US added 172,000 jobs in May as labor market shows signs of resilience",
-        "url": "https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment",
-        "description": "Government figures show unemployment rate at 4.3% amid rising inflation and economic uncertainty from Iran warUS employers added 172,000 jobs in May while the country’s unemployment rate held stead...",
+        "title": "US job creation smashes forecasts in May, fuelling rate hike bets; ‘no jet fuel shortage in Europe’ – as it happened",
+        "url": "https://www.theguardian.com/business/live/2026/jun/05/jet-fuel-europe-transport-chief-us-jobs-report-uk-house-prices-stock-markets-oil-live-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsUK house prices fall for third successive month amid Iran war uncertaintyUK shoppers return to high street as warm weather brings respite f...",
         "source": "The Guardian",
         "category": "economy"
       },
