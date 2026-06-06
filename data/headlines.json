@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-06T13:39:54.919635+00:00",
+  "fetched_at": "2026-06-06T19:21:02.917598+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Starmer to host Zelenskyy and EU leaders for Ukraine talks",
+        "url": "https://www.theguardian.com/world/2026/jun/06/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
+        "description": "Ukrainian leader will attend UK meeting along with French president and German chancellorKeir Starmer will host Volodymyr Zelenskyy, Emmanuel Macron and Friedrich Merz for talks in Downing Street o...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Ministers may try to curb spread of misinformation during social unrest",
+        "url": "https://www.theguardian.com/politics/2026/jun/06/ministers-may-curb-misinformation-musk-x-liz-kendall",
+        "description": "Technology secretary Liz Kendall says she is ‘very concerned’ about role of social media but will not be ‘bullied off’ XThe government is considering fresh action to halt the spread of misinformati...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Starmer suggests US ‘trying to interfere in our democracy’ over Nowak claims",
         "url": "https://www.theguardian.com/politics/2026/jun/05/keir-starmer-questions-henry-nowak-case-two-tier-policing-claim",
         "description": "Prime minister’s office responds after JD Vance blames British teenager’s death on mass migrationHow Britain was rocked by Henry Nowak’s murder – and why the US intervened​Keir Starmer has suggeste...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Thames Water should be nationalised, says Andy Burnham",
-        "url": "https://www.theguardian.com/politics/2026/jun/05/thames-water-should-be-nationalised-andy-burnham",
-        "description": "Exclusive: Labour’s Makerfield byelection candidate advocates public ownership of water companies as he prepares for potential leadership bidThames Water should be nationalised, Andy Burnham has sa...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour deputy says Farage is a threat to democracy and calls for misinformation clampdown",
-        "url": "https://www.theguardian.com/politics/2026/jun/05/labour-deputy-says-farage-is-a-threat-to-democracy-and-calls-for-misinformation-clampdown",
-        "description": "Lucy Powell calls for tougher laws to tackle misinformation and says Reform UK has benefited from bots and troll farms  Reform UK is destabilising British democracy by spreading divisive material t...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -201,14 +201,14 @@
       {
         "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
         "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-        "description": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
+        "description": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Armenia braces for election as Russia piles pressure on pro-West government",
-        "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-        "description": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
+        "title": "Lebanese general among three soldiers killed in Israeli attack on car",
+        "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+        "description": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
