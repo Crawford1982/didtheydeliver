@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-06T03:22:40.188029+00:00",
+  "fetched_at": "2026-06-06T08:32:09.954651+00:00",
   "headlines": {
     "government": [
       {
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Australian snow season begins amid El Niño fears",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/06/australian-snow-season-begins-thredbo-perisher-falls-creek-hotham-el-nino-fears",
+        "description": "Webcams showed snow blanketing the ground in some areas. In others, it was patchy or nonexistentGet our breaking news email, free app or daily news podcastAustralia’s snow season has officially beg...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Scientists warn Trump plan to axe US ocean monitoring system will leave world ‘flying blind’",
         "url": "https://www.theguardian.com/environment/2026/jun/05/trump-plan-ocean-monitoring-system-concern-scientists",
         "description": "Experts say dismantling the ocean observation system will ‘severely degrade’ the accuracy of weather predictionsThe Trump administration’s plan to dismantle an ocean observation system vital to und...",
@@ -126,13 +133,6 @@
         "title": "Trump uses wartime powers to dole out $700m to ‘clean, beautiful’ coal",
         "url": "https://www.theguardian.com/us-news/2026/jun/04/trump-coal-defense-production-act",
         "description": "US president announces plans for two new coal plants, in Alaska and West Virginia, using Defense Production ActDonald Trump is using wartime presidential authority to hand $700m to coal-fired power...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "California and New York weaken climate rules as red states ramp up green energy",
-        "url": "https://www.theguardian.com/environment/2026/jun/04/climate-crisis-blue-states-california-new-york",
-        "description": "Republican-led states growing renewable capabilities at faster rate as Texas emerges as clean-energy leaderDemocratic-led states are eroding their climate policies, as red states are scaling up the...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+        "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+        "description": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
         "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
         "description": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Ukraine strikes cargo ships and admits Romania drone blast",
-        "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
-        "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
-        "description": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
+        "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
+        "url": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
+        "description": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
