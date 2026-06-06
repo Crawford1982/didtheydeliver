@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-06T08:32:09.954651+00:00",
+  "fetched_at": "2026-06-06T13:39:54.919635+00:00",
   "headlines": {
     "government": [
       {
@@ -33,23 +33,23 @@
     ],
     "economy": [
       {
+        "title": "‘Immediate national priority’: ministers accused of complacency over UK food supply",
+        "url": "https://www.theguardian.com/business/2026/jun/06/ministers-uk-food-supply-immediate-national-priority-trade-body-urges",
+        "description": "Cold storage and logistics body warns food supplies at risk from fuel shortages, cyber attacks and extreme weatherMinisters have been accused of being complacent about the risks to vital supplies o...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "On China, Trump picked the right battle but the wrong strategy",
+        "url": "https://www.theguardian.com/business/2026/jun/06/us-china-trump-trade-war",
+        "description": "A long trade war looms. Trump’s scattershot protectionism, chaotic tariffs and belligerence against our natural allies guarantees that US trade policy will remain a hot messWe are in for a long tra...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "US added 172,000 jobs in May as labor market shows signs of resilience",
         "url": "https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment",
         "description": "Government figures show unemployment rate at 4.3% amid rising inflation and economic uncertainty from Iran warUS employers added 172,000 jobs in May while the country’s unemployment rate held stead...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US job creation smashes forecasts in May, fuelling rate hike bets; ‘no jet fuel shortage in Europe’ – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/jun/05/jet-fuel-europe-transport-chief-us-jobs-report-uk-house-prices-stock-markets-oil-live-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsUK house prices fall for third successive month amid Iran war uncertaintyUK shoppers return to high street as warm weather brings respite f...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Horrific, unregulated, and very profitable. The companies making cash from England’s children in care | George Monbiot",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/05/child-care-councils-private-equity-companies",
-        "description": "Councils are sending vulnerable kids to homes run by money-grabbing cowboys and private-equity vulturesBring your suitcase, your bin liner, your dumpy bag. They’re handing out money faster than you...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘Immediate national priority’: ministers accused of complacency over UK food supply",
+        "url": "https://www.theguardian.com/business/2026/jun/06/ministers-uk-food-supply-immediate-national-priority-trade-body-urges",
+        "description": "Cold storage and logistics body warns food supplies at risk from fuel shortages, cyber attacks and extreme weatherMinisters have been accused of being complacent about the risks to vital supplies o...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Australian snow season begins amid El Niño fears",
         "url": "https://www.theguardian.com/australia-news/2026/jun/06/australian-snow-season-begins-thredbo-perisher-falls-creek-hotham-el-nino-fears",
         "description": "Webcams showed snow blanketing the ground in some areas. In others, it was patchy or nonexistentGet our breaking news email, free app or daily news podcastAustralia’s snow season has officially beg...",
@@ -126,13 +133,6 @@
         "title": "Scientists warn Trump plan to axe US ocean monitoring system will leave world ‘flying blind’",
         "url": "https://www.theguardian.com/environment/2026/jun/05/trump-plan-ocean-monitoring-system-concern-scientists",
         "description": "Experts say dismantling the ocean observation system will ‘severely degrade’ the accuracy of weather predictionsThe Trump administration’s plan to dismantle an ocean observation system vital to und...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Trump uses wartime powers to dole out $700m to ‘clean, beautiful’ coal",
-        "url": "https://www.theguardian.com/us-news/2026/jun/04/trump-coal-defense-production-act",
-        "description": "US president announces plans for two new coal plants, in Alaska and West Virginia, using Defense Production ActDonald Trump is using wartime presidential authority to hand $700m to coal-fired power...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+        "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+        "description": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
         "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
         "description": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-        "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-        "description": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
-        "url": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
-        "description": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce.",
+        "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+        "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+        "description": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
