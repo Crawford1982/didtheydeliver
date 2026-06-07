@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-06-07T08:54:05.704320+00:00",
+  "fetched_at": "2026-06-07T13:49:46.727772+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Lammy told JD Vance his remarks about Henry Nowak were ‘wrong’ – UK politics live",
+        "title": "Lammy told JD Vance his remarks about Henry Nowak were ‘wrong’ – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/07/henry-nowak-trial-vickrum-digwa-police-reform-latest-news-updates",
-        "description": "The justice secretary said he spoke to the US vice president after he blamed mass immigration for Nowak’s murderThe attorney general’s office is considering the jail sentence given to Vickrum Digwa...",
+        "description": "The justice secretary said he spoke to the US vice president after he blamed mass immigration for Nowak’s murderReform UK’s home affairs spokesperson Zia Yusuf said that UK police are “institutiona...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Social housing lists ‘would take 119 years to clear at current building rate’",
-        "url": "https://www.theguardian.com/society/2026/jun/07/social-housing-119-years-waitlist-current-building-rate",
-        "description": "Research shows generations of children in England will grow up homeless unless government addresses council housing debt, charity saysIt would take more than a century to clear the social housing w...",
+        "title": "BA boss warns costly aviation taxes and rail tickets are stunting UK growth",
+        "url": "https://www.theguardian.com/business/2026/jun/07/ba-ceo-sean-doyle-aviation-taxes-rail-costs-stunting-uk-growth",
+        "description": "UK lagging behind rivals on tourism growth because of travel costs and lack of joined-up planning, says CEO Sean DoyleThe cost of travel to and around the UK is keeping millions of tourists away an...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer to host Zelenskyy and EU leaders for Ukraine talks",
-        "url": "https://www.theguardian.com/world/2026/jun/06/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
-        "description": "Ukrainian leader will attend UK meeting along with French president and German chancellorKeir Starmer will host Volodymyr Zelenskyy, Emmanuel Macron and Friedrich Merz for talks in Downing Street o...",
+        "title": "David Lammy: I told JD Vance he was wrong about Henry Nowak murder",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/07/david-lammy-jd-vance-wrong-henry-nowak-murder",
+        "description": "Deputy PM says he spoke to US vice-president about post that blamed ‘mass invasion of migrants’ for teenager’s deathUK politics live – latest updatesDavid Lammy has said he told the US vice-preside...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer tells supporters he will fight any leadership contest",
-        "url": "https://www.bbc.com/news/articles/c3vyxzl625po?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister's position has hardened since Andy Burnham said he would seek to enter any potential Labour contest.",
+        "title": "Lammy says he told JD Vance his Nowak comments were 'wrong'",
+        "url": "https://www.bbc.com/news/articles/cjwg387040wo?at_medium=RSS&at_campaign=rss",
+        "description": "Vance had blamed Henry Nowak's death on the \"mass invasion of migrants\" - but Lammy says it \"has got nothing to do with mass migration\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Rachel Reeves may be unpopular, but she is quietly rebalancing UK plc | Heather Stewart",
+        "url": "https://www.theguardian.com/politics/2026/jun/07/rachel-reeves-unpopular-quietly-rebalancing-uk-plc",
+        "description": "Policy U-turns could define her stint at No 11 despite many sure-footed advances on devolved spending to help kickstart growthAn air of unreality settled on a Westminster conference room last week,...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "‘Immediate national priority’: ministers accused of complacency over UK food supply",
         "url": "https://www.theguardian.com/business/2026/jun/06/ministers-uk-food-supply-immediate-national-priority-trade-body-urges",
@@ -43,13 +50,6 @@
         "title": "On China, Trump picked the right battle but the wrong strategy",
         "url": "https://www.theguardian.com/business/2026/jun/06/us-china-trump-trade-war",
         "description": "A long trade war looms. Trump’s scattershot protectionism, chaotic tariffs and belligerence against our natural allies guarantees that US trade policy will remain a hot messWe are in for a long tra...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US added 172,000 jobs in May as labor market shows signs of resilience",
-        "url": "https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment",
-        "description": "Government figures show unemployment rate at 4.3% amid rising inflation and economic uncertainty from Iran warUS employers added 172,000 jobs in May while the country’s unemployment rate held stead...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "The London school that has screen-free days for pupils, teachers – and parents",
+        "url": "https://www.theguardian.com/education/2026/jun/07/london-school-screen-free-mondays-for-pupils-teachers-and-parents",
+        "description": "Holy Family Catholic primary school says enthusiastic response from parents has been biggest surpriseSchools banning pupils from having smartphones are commonplace. But what about a school where pu...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Labour will make AI ‘work for the workers’, says Liz Kendall",
         "url": "https://www.theguardian.com/technology/2026/jun/05/labour-will-make-ai-work-for-workers-liz-kendall",
         "description": "Technology secretary promises to support people whose jobs are swept away by automationLiz Kendall has insisted Labour will make artificial intelligence “work for workers”, and not abandon people w...",
@@ -156,13 +163,6 @@
         "title": "Number of teachers in England’s state schools drops for second year in row",
         "url": "https://www.theguardian.com/education/2026/jun/04/teachers-englands-state-schools-drops-second-year-in-row",
         "description": "Despite Labour’s promises to increase recruitment, school census shows a fall of nearly 2,000 teachers since last yearThe number of teachers working in England’s state schools has shrunk for the se...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "UK university’s axing of black studies MA has ‘dangerous parallel’ with US, says academic",
-        "url": "https://www.theguardian.com/education/2026/jun/04/birmingham-city-university-axe-black-studies-ma-kimberle-crenshaw",
-        "description": "Civil rights scholar Kimberlé Crenshaw warns Birmingham City University’s decision part of extremist campaign that has ‘travelled across Atlantic’A leading US civil rights scholar has urged Birming...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
-        "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
-        "description": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+        "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
+        "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Iran says staff blocked from entering US after players given World Cup visas",
-        "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
-        "description": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+        "title": "Armenia votes as Russia piles pressure on pro-West government",
+        "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+        "description": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
