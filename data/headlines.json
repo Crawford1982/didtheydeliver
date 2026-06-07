@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-06-07T03:49:53.072227+00:00",
+  "fetched_at": "2026-06-07T08:54:05.704320+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Lammy told JD Vance his remarks about Henry Nowak were ‘wrong’ – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/07/henry-nowak-trial-vickrum-digwa-police-reform-latest-news-updates",
+        "description": "The justice secretary said he spoke to the US vice president after he blamed mass immigration for Nowak’s murderThe attorney general’s office is considering the jail sentence given to Vickrum Digwa...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Social housing lists ‘would take 119 years to clear at current building rate’",
+        "url": "https://www.theguardian.com/society/2026/jun/07/social-housing-119-years-waitlist-current-building-rate",
+        "description": "Research shows generations of children in England will grow up homeless unless government addresses council housing debt, charity saysIt would take more than a century to clear the social housing w...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Starmer to host Zelenskyy and EU leaders for Ukraine talks",
         "url": "https://www.theguardian.com/world/2026/jun/06/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Ministers may try to curb spread of misinformation during social unrest",
-        "url": "https://www.theguardian.com/politics/2026/jun/06/ministers-may-curb-misinformation-musk-x-liz-kendall",
-        "description": "Technology secretary Liz Kendall says she is ‘very concerned’ about role of social media but will not be ‘bullied off’ XThe government is considering fresh action to halt the spread of misinformati...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer suggests US ‘trying to interfere in our democracy’ over Nowak claims",
-        "url": "https://www.theguardian.com/politics/2026/jun/05/keir-starmer-questions-henry-nowak-case-two-tier-policing-claim",
-        "description": "Prime minister’s office responds after JD Vance blames British teenager’s death on mass migrationHow Britain was rocked by Henry Nowak’s murder – and why the US intervened​Keir Starmer has suggeste...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Downing Street hits out after Vance post about Henry Nowak",
-        "url": "https://www.bbc.com/news/articles/crlplwn1jkro?at_medium=RSS&at_campaign=rss",
-        "description": "The US vice-president wrote the \"only response is righteous anger\" when referring to Henry Nowak's death on X.",
+        "title": "Starmer tells supporters he will fight any leadership contest",
+        "url": "https://www.bbc.com/news/articles/c3vyxzl625po?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister's position has hardened since Andy Burnham said he would seek to enter any potential Labour contest.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "We need to stop AI developing without humans, says Anthropic co-founder",
-        "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
-        "description": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input.",
+        "title": "I was applying for hundreds of jobs - this tip helped me get one",
+        "url": "https://www.bbc.com/news/articles/cd7pqwr5lqxo?at_medium=RSS&at_campaign=rss",
+        "description": "Four people who weren't hearing back from job applications shared what they did differently to secure their first role.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Social housing lists ‘would take 119 years to clear at current building rate’",
+        "url": "https://www.theguardian.com/society/2026/jun/07/social-housing-119-years-waitlist-current-building-rate",
+        "description": "Research shows generations of children in England will grow up homeless unless government addresses council housing debt, charity saysIt would take more than a century to clear the social housing w...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Ex-prisoners abandoned at their most vulnerable | Letters",
         "url": "https://www.theguardian.com/society/2026/jun/02/ex-prisoners-abandoned-at-their-most-vulnerable",
         "description": "James Stoddart and Richard Eltringham respond to an investigation which found that deaths within two weeks of leaving prison have hit a record highYour investigation showing that deaths within two ...",
@@ -181,34 +188,27 @@
         "description": "Chancellor in talks with banks and investment funds about public-private partnerships to build infrastructureBusiness live – latest updatesRachel Reeves is examining how to attract funds from priva...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "New bill targets domestic abusers and overhauls right to buy in England",
-        "url": "https://www.theguardian.com/society/2026/may/31/bill-social-tenants-domestic-abuse-housing-right-to-buy",
-        "description": "Social housing landlords to be able to evict perpetrators, while right-to-buy tenancy requirements to riseSocial housing landlords will be able to evict domestic abuse perpetrators under a new bill...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-        "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-        "description": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-        "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-        "description": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
         "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
         "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
         "description": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+        "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Iran says staff blocked from entering US after players given World Cup visas",
+        "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+        "description": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
