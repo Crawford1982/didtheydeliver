@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-08T15:49:39.973142+00:00",
+  "fetched_at": "2026-06-08T20:12:55.095279+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Child phone nudity law could largely end online child sexual abuse if widely adopted, Jess Phillips claims - UK politics live",
+        "title": "Zelenskyy hopes Reform UK councils will allow Ukraine flags to be flown again",
+        "url": "https://www.theguardian.com/world/2026/jun/08/volodymyr-zelenskyy-reform-uk-councils-ukraine-flags",
+        "description": "Exclusive: Ukrainian president says ‘small mistake can break a big friendship’ in wide-ranging interview with GuardianVolodymyr Zelenskyy has said the decision by some Reform UK councils to take do...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Rushed social media ban for under-16s in UK could ‘unravel’, charity warns",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/08/social-media-ban-under-16s-uk-safety-standards-molly-rose-foundation",
+        "description": "Molly Rose Foundation says government should instead set strict safety standards for appsA rushed under-16s social media ban in the UK could unravel and families will be left to count the cost, a l...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Child phone nudity law could largely end online child sexual abuse if widely adopted, Jess Phillips claims - as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/08/keir-starmer-technology-ai-online-harms-labour-andy-burnham-makerfield-kemi-badenoch-uk-politics-latest-news-updates",
         "description": "Former safeguarding minister says if ban came into force properly it could ‘basically eliminate’ problem The government has highlighted work done by the internet safety firm SafeToNet as showing th...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Is Keir Starmer in his ‘legacy’ era? – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/jun/08/is-keir-starmer-in-his-legacy-era-podcast",
-        "description": "Keir Starmer says he will fight on as prime minister, but behind the scenes he is said to be thinking about his legacy. He’s talking this week about tech companies and the shape of a social media b...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Unions attack ‘year-long delay’ for Tata Steel furnace’s grid connection in south Wales",
-        "url": "https://www.theguardian.com/business/2026/jun/08/unions-attack-delay-tata-steel-furnaces-grid-connection-south-wales",
-        "description": "Government urged to help speed up vital industrial project amid growing alarm over National Grid delaysBusiness live – latest updatesTrade unions have called for the government to intervene to spee...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,21 +54,14 @@
         "category": "economy"
       },
       {
-        "title": "Starmer tells Apple and Google to ban nude images on children's phones",
-        "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
-        "description": "Firms will be expected to activate built-in features to stop children accessing sexually explicit images.",
+        "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+        "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+        "description": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
-      {
-        "title": "Record number of people waiting for NHS diagnostic tests in England",
-        "url": "https://www.theguardian.com/society/2026/jun/07/record-number-of-people-waiting-for-nhs-diagnostic-tests-in-england",
-        "description": "One in five of the 1.92m patients on list wait longer than six weeks for tests such as CT and MRI scans, analysis showsA record number of people are waiting for a diagnostic test on the NHS, trigge...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
       {
         "title": "Challenges of treating and living with a brain injury | Letters",
         "url": "https://www.theguardian.com/science/2026/jun/08/challenges-of-treating-and-living-with-a-brain-injury",
@@ -84,14 +77,28 @@
         "category": "nhs"
       },
       {
-        "title": "New drug to stop 'Ozempic butt' muscle loss side effect of obesity jabs",
-        "url": "https://www.bbc.com/news/articles/c62r285l46eo?at_medium=RSS&at_campaign=rss",
-        "description": "A third of the weight loss from obesity jabs can come from muscle, say experts.",
+        "title": "More than 1,300 deaths a month in England due to long A&E waits, figures suggest",
+        "url": "https://www.theguardian.com/society/2026/jun/08/more-than-1300-deaths-a-month-in-england-due-to-long-ae-waits-figures-suggest",
+        "description": "Senior medical staff call for solutions to tackle root causes of excess deaths amid tenfold increase in a decadeMore than 1,300 patients a month in England are dying needlessly due to long A&E wait...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "How Eriksen's heart device kicked into action",
+        "url": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss",
+        "description": "Denmark's team doctor said an ICD implanted into the footballer's chest responded as it should after he collapsed on Sunday.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Child phone nudity law could largely end online child sexual abuse if widely adopted, Jess Phillips claims - as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/08/keir-starmer-technology-ai-online-harms-labour-andy-burnham-makerfield-kemi-badenoch-uk-politics-latest-news-updates",
+        "description": "Former safeguarding minister says if ban came into force properly it could ‘basically eliminate’ problem The government has highlighted work done by the internet safety firm SafeToNet as showing th...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Britain must do more to safeguard migrant workers’ rights | Letter",
         "url": "https://www.theguardian.com/law/2026/jun/08/britain-must-do-more-to-safeguard-migrant-workers-rights",
@@ -105,16 +112,16 @@
         "description": "Charities say people are being forced to choose between streets and accommodation hundreds of miles from support networksVulnerable families illegally ‘dumped’ hundreds of miles away by London coun...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Vulnerable families illegally ‘dumped’ hundreds of miles away by London councils",
-        "url": "https://www.theguardian.com/society/2026/jun/07/vulnerable-families-illegally-dumped-hundreds-miles-away-london-councils",
-        "description": "Exclusive: Practice that includes women fleeing abuse is ‘ripping at social fabric’ of towns in poorest parts of England‘I was crying and shaking’: vulnerable people face ‘inhumane’ ultimatums from...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "‘Severe’ stress on oceans as rate of sea level rise doubles in 10 years, UN warns",
+        "url": "https://www.theguardian.com/environment/2026/jun/08/un-world-ocean-assessment-severe-stress-sea-level-rise-doubles-pollution-fishing-climate",
+        "description": "Global effort needed to limit effects of pollution, industrial fishing and climate crisis, World Ocean Assessment saysThe world’s oceans are under “severe and accelerating” pressure from human acti...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Majority of US’s new AI datacenters to be built on drought-hit land",
         "url": "https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water",
@@ -126,13 +133,6 @@
         "title": "‘Immediate national priority’: ministers accused of complacency over UK food supply",
         "url": "https://www.theguardian.com/business/2026/jun/06/ministers-uk-food-supply-immediate-national-priority-trade-body-urges",
         "description": "Cold storage and logistics body warns food supplies at risk from fuel shortages, cyber attacks and extreme weatherMinisters have been accused of being complacent about the risks to vital supplies o...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Australian snow season begins amid El Niño fears",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/06/australian-snow-season-begins-thredbo-perisher-falls-creek-hotham-el-nino-fears",
-        "description": "Webcams showed snow blanketing the ground in some areas. In others, it was patchy or nonexistentGet our breaking news email, free app or daily news podcastAustralia’s snow season has officially beg...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,9 +169,9 @@
     ],
     "housing": [
       {
-        "title": "Vulnerable families illegally ‘dumped’ hundreds of miles away by London councils",
-        "url": "https://www.theguardian.com/society/2026/jun/07/vulnerable-families-illegally-dumped-hundreds-miles-away-london-councils",
-        "description": "Exclusive: Practice that includes women fleeing abuse is ‘ripping at social fabric’ of towns in poorest parts of England‘I was crying and shaking’: vulnerable people face ‘inhumane’ ultimatums from...",
+        "title": "Hattie Llewelyn-Davies obituary",
+        "url": "https://www.theguardian.com/society/2026/jun/08/hattie-llewelyn-davies-obituary",
+        "description": "My mother, Hattie Llewelyn-Davies, who has died aged 71, was known to many as a passionate non-executive director in the fields of homelessness, healthcare and social housing, and was widely respec...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -183,32 +183,32 @@
         "category": "housing"
       },
       {
-        "title": "Social housing lists ‘would take 119 years to clear at current building rate’",
-        "url": "https://www.theguardian.com/society/2026/jun/07/social-housing-119-years-waitlist-current-building-rate",
-        "description": "Research shows generations of children in England will grow up homeless unless government addresses council housing debt, charity saysIt would take more than a century to clear the social housing w...",
+        "title": "Vulnerable families illegally ‘dumped’ hundreds of miles away by London councils",
+        "url": "https://www.theguardian.com/society/2026/jun/07/vulnerable-families-illegally-dumped-hundreds-miles-away-london-councils",
+        "description": "Exclusive: Practice that includes women fleeing abuse is ‘ripping at social fabric’ of towns in poorest parts of England‘I was crying and shaking’: vulnerable people face ‘inhumane’ ultimatums from...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Iran releases footage of missiles launched at Israel",
-        "url": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss",
-        "description": "Iran said its attacks were \"the beginning of a full week of continuous strikes.\"",
+        "title": "Iran and Israel say they have halted strikes after first exchange of fire since truce",
+        "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+        "description": "Iran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "At least 32 dead after major earthquake strikes southern Philippines",
+        "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
+        "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
+        "description": "Iran's decision to risk jeopardising peace talks may reflect how its leaders view their current position, writes BBC Persian editor Amir Azimi.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "At least 35 dead after major earthquake strikes southern Philippines",
         "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
         "description": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Armenia's pro-West government wins election despite Russian pressure",
-        "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
-        "description": "Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
