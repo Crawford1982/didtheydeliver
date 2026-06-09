@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-06-09T14:48:12.075459+00:00",
+  "fetched_at": "2026-06-09T20:05:35.129611+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Badenoch criticises Macpherson report and calls for more stop and search",
-        "url": "https://www.theguardian.com/politics/2026/jun/09/kemi-badenoch-macpherson-report-stop-and-search-police",
-        "description": "Tory leader takes aim at police guidance and says more black boys searched means more black lives savedUK politics live – latest updatesKemi Badenoch has argued that Britain took a wrong turn after...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Police call for calm amid fears planned protests in response to Belfast knife attack could lead to disorder – UK politics live",
+        "title": "Anti-immigration protesters in Belfast set bus on fire amid unrest over knife attack – live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
-        "description": "PSNI give update on attack after the Northern Ireland secretary praised members of the public for interveningFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’B...",
+        "description": "Crowds start to gather at sites in Belfast after Sudanese man charged for attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Nigel Farage to headline Liz Truss’s UK CPAC conference after apparent snub",
-        "url": "https://www.theguardian.com/politics/2026/jun/09/nigel-farage-liz-truss-uk-cpac-conference",
-        "description": "Reform had previously suggested Farage would be ‘steering clear’ of event, modelled on US conservative gatheringUK politics live – latest updatesNigel Farage will be headlining at an American conse...",
+        "title": "Crackdown on tech platforms will go ahead despite US intervention, says No 10",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/09/crackdown-on-tech-platforms-will-go-ahead-despite-us-intervention-says-no-10",
+        "description": "US embassy came out against UK’s proposed under-16 social media ban, which would affect American firmsWhite House displeasure over the prospect of an under-16 social media ban will not deter the UK...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer tells Apple and Google to ban nude images on children's phones",
-        "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
-        "description": "Firms will be expected to activate built-in features to stop children accessing sexually explicit images.",
+        "title": "UK and allies impose sanctions on firms enabling West Bank settler violence",
+        "url": "https://www.theguardian.com/politics/2026/jun/09/uk-imposes-sanctions-firms-enabling-settler-violence-west-bank",
+        "description": "Labour backbenchers disappointed as new trade guidance over illegal settlements stops short of outright banThe UK in alliance with a group of other western powers including Australia, France and No...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Scrap legal equality duty for public services, says Badenoch",
+        "url": "https://www.bbc.com/news/articles/cy5vyqykpx5o?at_medium=RSS&at_campaign=rss",
+        "description": "The Conservative leader says the rules have led to public bodies becoming \"institutionally incompetent\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Chip stocks bouncing back on Wall Street and South Korea; UK investigating Paramount-Warner Bros merger – business live",
+        "title": "Chip stocks bouncing back on Wall Street and South Korea; UK investigating Paramount-Warner Bros merger – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/09/chip-stocks-bounce-back-kospi-openai-wall-street-float-stock-markets-oil-live-news-updates",
         "description": "Rolling coverage of the latest economic and financial news, as the AI trade bounces backOpenAI confidentially files for initial public offering on US stock marketThe pound is strengthening against ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Trump claims US fuel prices ‘not very high’ as costs surge amid Iran war",
+        "url": "https://www.theguardian.com/business/2026/jun/09/trump-gas-prices-not-very-high",
+        "description": "National average gas price stands at about $4.16 per gallon as Americans grapple with price hikes sparked by the warDonald Trump has claimed US fuel prices are “not very high, relatively speaking” ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Oil price falls back and Wall Street rallies after Iran announces ‘end of military operations’ against Israel – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates",
-        "description": "Rolling coverage of the latest economic and financial news, as South Korea’s KOSPI index slumps by 8%UK companies opting to hire temporary workers over permanent staff, recruitment firms saySpaceX ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
-        "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-        "description": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
+        "title": "Version of AI tool 'too powerful for public' released to public",
+        "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+        "description": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,9 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "Police call for calm amid fears planned protests in response to Belfast knife attack could lead to disorder – UK politics live",
+        "title": "Anti-immigration protesters in Belfast set bus on fire amid unrest over knife attack – live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
-        "description": "PSNI give update on attack after the Northern Ireland secretary praised members of the public for interveningFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’B...",
+        "description": "Crowds start to gather at sites in Belfast after Sudanese man charged for attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Rare footage captured of Great White shark in Mediterranean Sea",
-        "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
-        "description": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily.",
+        "title": "Nasa names next astronauts for Artemis Moon programme",
+        "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
+        "description": "Nasa names its next Artemis crew, though they will not be walking on the Moon or even going anywhere near it.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Anti-immigration protesters in Belfast set bus on fire amid unrest over knife attack – live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
+        "description": "Crowds start to gather at sites in Belfast after Sudanese man charged for attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Young people need money because our system is rigged. Here’s a way to give it to them | Polly Toynbee",
         "url": "https://www.theguardian.com/commentisfree/2026/jun/09/young-people-money-citizens-advance-generations-older-people",
         "description": "One plan would see young workers offered early access to a slice of future pensions. It’s not perfect, but we need bold ideasWhile we wait with nail-biting anxiety for the voters of Makerfield to d...",
@@ -181,34 +188,27 @@
         "description": "Measures being considered to crack down on practice that has grown as a result of Britain’s housing crisisLondon councils could be banned from “dumping” homeless families hundreds of miles across E...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Hattie Llewelyn-Davies obituary",
-        "url": "https://www.theguardian.com/society/2026/jun/08/hattie-llewelyn-davies-obituary",
-        "description": "My mother, Hattie Llewelyn-Davies, who has died aged 71, was known to many as a passionate non-executive director in the fields of homelessness, healthcare and social housing, and was widely respec...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
-        "description": "An uncrewed vessel picked up two crew members of an Apache helicopter that went down on Monday, US officials tells CBS News.",
+        "title": "Trump says Iran shot down US helicopter and vows to respond",
+        "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+        "description": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
-        "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
-        "description": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south.",
+        "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+        "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+        "description": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
-        "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
-        "description": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (£3,700) per person.",
+        "title": "Nasa names next astronauts for Artemis Moon programme",
+        "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
+        "description": "Nasa names its next Artemis crew, though they will not be walking on the Moon or even going anywhere near it.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
