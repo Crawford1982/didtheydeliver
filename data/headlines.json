@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-09T09:40:54.453911+00:00",
+  "fetched_at": "2026-06-09T14:48:12.075459+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Labour accuses Badenoch of wanting to ‘turn clock back’ with plan to scrap public sector equality duty – UK politics live",
+        "title": "Badenoch criticises Macpherson report and calls for more stop and search",
+        "url": "https://www.theguardian.com/politics/2026/jun/09/kemi-badenoch-macpherson-report-stop-and-search-police",
+        "description": "Tory leader takes aim at police guidance and says more black boys searched means more black lives savedUK politics live – latest updatesKemi Badenoch has argued that Britain took a wrong turn after...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Police call for calm amid fears planned protests in response to Belfast knife attack could lead to disorder – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
-        "description": "Technology secretary says legal requirement that protects women, older people and others from workplace discrimination is ‘really important’Major trade unions and the TUC have rebuffed Nigel Farage...",
+        "description": "PSNI give update on attack after the Northern Ireland secretary praised members of the public for interveningFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’B...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Unions rebuff Farage and say Reform ‘cosplaying’ as workers’ champions",
-        "url": "https://www.theguardian.com/politics/2026/jun/09/unions-rebuff-nigel-farage-reform-cosplaying-workers-rights",
-        "description": "TUC, GMB and Unison leaders reject invitation to affiliate to Reform amid rising support for party among their membersUK politics live – latest updatesMajor trade unions and the TUC have rebuffed N...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "White House urges UK not to ban social media for under-16s",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/09/white-house-urges-uk-not-ban-social-media-under-16s",
-        "description": "Trump administration says restrictions could impose ‘disproportionate’ burden on US tech companiesUK politics live – latest updatesThe White House has urged the UK not to impose a social media ban ...",
+        "title": "Nigel Farage to headline Liz Truss’s UK CPAC conference after apparent snub",
+        "url": "https://www.theguardian.com/politics/2026/jun/09/nigel-farage-liz-truss-uk-cpac-conference",
+        "description": "Reform had previously suggested Farage would be ‘steering clear’ of event, modelled on US conservative gatheringUK politics live – latest updatesNigel Farage will be headlining at an American conse...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,16 @@
     ],
     "economy": [
       {
-        "title": "Chip stocks bounce back as OpenAI files for Wall Street float – business live",
+        "title": "Chip stocks bouncing back on Wall Street and South Korea; UK investigating Paramount-Warner Bros merger – business live",
         "url": "https://www.theguardian.com/business/live/2026/jun/09/chip-stocks-bounce-back-kospi-openai-wall-street-float-stock-markets-oil-live-news-updates",
         "description": "Rolling coverage of the latest economic and financial news, as the AI trade bounces backOpenAI confidentially files for initial public offering on US stock marketThe pound is strengthening against ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "The spectre of gen Z socialism is haunting the world … according to the Economist | Normon Solomon",
+        "url": "https://www.theguardian.com/commentisfree/2026/jun/09/gen-z-socialism-the-economist",
+        "description": "The magazine writes: ‘Resisting Gen-Z socialism is therefore an urgent task.’ That urgency must outweigh any urgency of feeding hungry peopleA spectre is haunting Europe and America – the spectre o...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -43,13 +50,6 @@
         "title": "Oil price falls back and Wall Street rallies after Iran announces ‘end of military operations’ against Israel – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates",
         "description": "Rolling coverage of the latest economic and financial news, as South Korea’s KOSPI index slumps by 8%UK companies opting to hire temporary workers over permanent staff, recruitment firms saySpaceX ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Stock markets fall as concerns persist over tech firms at heart of AI boom",
-        "url": "https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel",
-        "description": "Drops follow sharp sell-off of US tech stock last week while oil prices seesaw after Iran and Israel exchange strikesStock markets have fallen amid concern about the prospects for tech stocks, whil...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Police call for calm amid fears planned protests in response to Belfast knife attack could lead to disorder – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
+        "description": "PSNI give update on attack after the Northern Ireland secretary praised members of the public for interveningFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’B...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Child phone nudity law could largely end online child sexual abuse if widely adopted, Jess Phillips claims - as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/08/keir-starmer-technology-ai-online-harms-labour-andy-burnham-makerfield-kemi-badenoch-uk-politics-latest-news-updates",
         "description": "Former safeguarding minister says if ban came into force properly it could ‘basically eliminate’ problem The government has highlighted work done by the internet safety firm SafeToNet as showing th...",
@@ -105,34 +112,27 @@
         "description": "A major overhaul is required if protections against unscrupulous employers are not to become illusory, says Emma WilkinsonYour article (Indian man awarded almost £30,000 after UK employer failed to...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "‘I was crying and shaking’: vulnerable people face ‘inhumane’ ultimatums from London councils",
-        "url": "https://www.theguardian.com/society/2026/jun/07/homeless-face-inhumane-ultimatums-by-london-councils",
-        "description": "Charities say people are being forced to choose between streets and accommodation hundreds of miles from support networksVulnerable families illegally ‘dumped’ hundreds of miles away by London coun...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
+        "title": "‘Woefully unprepared’: extreme heat will double US hospitalizations by 2040, study finds",
+        "url": "https://www.theguardian.com/environment/2026/jun/09/extreme-heat-double-hospitalizations-2040-study",
+        "description": "Sharp rise in hospital visits will in turn drive up annual healthcare costs for heat-related conditions to over $1bnPeople in the US are poised to endure another summer of unusually ferocious heat ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "‘Electrify daily life’, urges Cop31 host",
+        "url": "https://www.theguardian.com/environment/2026/jun/09/third-of-world-energy-electricity-by-2035-says-turkey-cop31-host",
+        "description": "Third of world’s energy needs should come from electricity by 2035, says Murat Kurum, as priorities set out for this year’s UN climate summitThe world should aim to meet a third of its energy needs...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "World’s largest banks pledged $906bn to fossil fuel companies in ‘unfathomable’ increase in 2025, report finds",
         "url": "https://www.theguardian.com/environment/2026/jun/09/world-banks-pledge-billions-fossil-fuel-industry-2025",
         "description": "JPMorgan Chase leads 65 banks making decisions incompatible with restraining rising temperatures, researchers sayThe world’s largest banks committed $906bn in financing to the fossil fuel industry ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Christian leaders alarmed by climate crisis raise questions over GB News owner’s £28m church donations",
-        "url": "https://www.theguardian.com/environment/2026/jun/09/christian-leaders-alarmed-by-climate-crisis-raise-questions-over-gb-news-owners-28m-church-donations",
-        "description": "Exclusive: Sir Paul Marshall’s climate views and those broadcast on GB News said to be ‘in direct opposition’ to those of  Church of EnglandThe co-owner of GB News, a British TV channel accused of ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘Severe’ stress on oceans as rate of sea level rise doubles in 10 years, UN warns",
-        "url": "https://www.theguardian.com/environment/2026/jun/08/un-world-ocean-assessment-severe-stress-sea-level-rise-doubles-pollution-fishing-climate",
-        "description": "Global effort needed to limit effects of pollution, industrial fishing and climate crisis, World Ocean Assessment saysThe world’s oceans are under “severe and accelerating” pressure from human acti...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
+        "title": "How do you give Britain’s hidden army of young carers a break? | Is Mum OK? Documentary",
+        "url": "https://www.theguardian.com/global/ng-interactive/2026/jun/09/how-do-you-give-britains-hidden-army-a-break-is-mum-ok-documentary",
+        "description": "There are more than one million young carers in the UK – with an average age of 12 – which is the equivalent of two kids in every school class. Do they feel supported? In Walthamstow, east London, ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "How do you give Britain's hidden army a break? | Is Mum OK? Documentary",
+        "url": "https://www.theguardian.com/society/video/2026/jun/09/how-do-you-give-britains-hidden-army-a-break-is-mum-ok-documentary",
+        "description": "There are more than one million young carers in the UK – with an average age of 12 – which is the equivalent of two kids in every school class. Do they feel supported? In Walthamstow, east London, ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Healthy cooperation: how northern universities are linking with NHS trusts to drive innovation",
         "url": "https://www.theguardian.com/business/2026/jun/09/northern-universities-nhs-trusts-huddersfield-manchester",
         "description": "Backed by a mix of private and public finance, Huddersfield and Manchester are among many in the academic sector helping to create jobs and growthHuddersfield might appear an unlikely setting for a...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "The London school that has screen-free days for pupils, teachers – and parents",
-        "url": "https://www.theguardian.com/education/2026/jun/07/london-school-screen-free-mondays-for-pupils-teachers-and-parents",
-        "description": "Holy Family Catholic primary school says enthusiastic response from parents has been biggest surpriseSchools banning pupils from having smartphones are commonplace. But what about a school where pu...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Labour will make AI ‘work for the workers’, says Liz Kendall",
-        "url": "https://www.theguardian.com/technology/2026/jun/05/labour-will-make-ai-work-for-workers-liz-kendall",
-        "description": "Technology secretary promises to support people whose jobs are swept away by automationLiz Kendall has insisted Labour will make artificial intelligence “work for workers”, and not abandon people w...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump tells BBC Netanyahu did not defy him",
-        "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
-        "description": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
+        "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+        "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+        "description": "An uncrewed vessel picked up two crew members of an Apache helicopter that went down on Monday, US officials tells CBS News.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
-        "description": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
+        "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
+        "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
+        "description": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
-        "description": "The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden.",
+        "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
+        "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
+        "description": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (£3,700) per person.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
