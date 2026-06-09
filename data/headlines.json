@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-08T20:12:55.095279+00:00",
+  "fetched_at": "2026-06-09T02:58:37.665176+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Pilot ‘hyperlocal’ job support scheme in England shows promising signs of effectiveness",
+        "url": "https://www.theguardian.com/society/2026/jun/09/pilot-hyperlocal-job-support-scheme-jobsplus-england",
+        "description": "Government-funded JobsPlus trial in 10 neighbourhoods could be scalable nationwide, evaluation showsWe would like to hear from young people in the UK about their job-hunting experiencesA government...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Badenoch to vow to scrap public sector equality duty in effort to fend off Reform",
+        "url": "https://www.theguardian.com/politics/2026/jun/08/kemi-badenoch-vow-scrap-public-sectory-equality-duty-reform-threat",
+        "description": "In speech on Tuesday, Tory leader will claim obligation to consider equality being used to advance ‘divisive agendas’Kemi Badenoch will vow to scrap the duty on public bodies to consider how they c...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Zelenskyy hopes Reform UK councils will allow Ukraine flags to be flown again",
         "url": "https://www.theguardian.com/world/2026/jun/08/volodymyr-zelenskyy-reform-uk-councils-ukraine-flags",
         "description": "Exclusive: Ukrainian president says ‘small mistake can break a big friendship’ in wide-ranging interview with GuardianVolodymyr Zelenskyy has said the decision by some Reform UK councils to take do...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Rushed social media ban for under-16s in UK could ‘unravel’, charity warns",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/08/social-media-ban-under-16s-uk-safety-standards-molly-rose-foundation",
-        "description": "Molly Rose Foundation says government should instead set strict safety standards for appsA rushed under-16s social media ban in the UK could unravel and families will be left to count the cost, a l...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Child phone nudity law could largely end online child sexual abuse if widely adopted, Jess Phillips claims - as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/08/keir-starmer-technology-ai-online-harms-labour-andy-burnham-makerfield-kemi-badenoch-uk-politics-latest-news-updates",
-        "description": "Former safeguarding minister says if ban came into force properly it could ‘basically eliminate’ problem The government has highlighted work done by the internet safety firm SafeToNet as showing th...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -42,7 +42,7 @@
       {
         "title": "Stock markets fall as concerns persist over tech firms at heart of AI boom",
         "url": "https://www.theguardian.com/business/2026/jun/08/stock-markets-fall-tech-firms-ai-boom-oil-prices-iran-israel",
-        "description": "Drops follow sharp sell-off of US tech stock last week while oil prices seesaw after Iran and Israel exchange strikesBusiness live – latest updatesStock markets have fallen amid concern about the p...",
+        "description": "Drops follow sharp sell-off of US tech stock last week while oil prices seesaw after Iran and Israel exchange strikesStock markets have fallen amid concern about the prospects for tech stocks, whil...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
-        "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
-        "description": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned.",
+        "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+        "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+        "description": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "How Eriksen's heart device kicked into action",
-        "url": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss",
-        "description": "Denmark's team doctor said an ICD implanted into the footballer's chest responded as it should after he collapsed on Sunday.",
+        "title": "'Lives still at risk' from unregulated baby sleep industry after BBC investigation",
+        "url": "https://www.bbc.com/news/articles/crrprxy2257o?at_medium=RSS&at_campaign=rss",
+        "description": "'Families deserve clarity about the qualifications and training of those caring for their children'",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Iran and Israel say they have halted strikes after first exchange of fire since truce",
+        "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
         "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
-        "description": "Iran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran.",
+        "description": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
-        "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
-        "description": "Iran's decision to risk jeopardising peace talks may reflect how its leaders view their current position, writes BBC Persian editor Amir Azimi.",
+        "title": "Watch: Trump tells BBC Netanyahu did not defy him",
+        "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
+        "description": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "At least 35 dead after major earthquake strikes southern Philippines",
-        "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
-        "description": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan.",
+        "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+        "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
+        "description": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
