@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-09T02:58:37.665176+00:00",
+  "fetched_at": "2026-06-09T09:40:54.453911+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Pilot ‘hyperlocal’ job support scheme in England shows promising signs of effectiveness",
-        "url": "https://www.theguardian.com/society/2026/jun/09/pilot-hyperlocal-job-support-scheme-jobsplus-england",
-        "description": "Government-funded JobsPlus trial in 10 neighbourhoods could be scalable nationwide, evaluation showsWe would like to hear from young people in the UK about their job-hunting experiencesA government...",
+        "title": "Labour accuses Badenoch of wanting to ‘turn clock back’ with plan to scrap public sector equality duty – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
+        "description": "Technology secretary says legal requirement that protects women, older people and others from workplace discrimination is ‘really important’Major trade unions and the TUC have rebuffed Nigel Farage...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Badenoch to vow to scrap public sector equality duty in effort to fend off Reform",
-        "url": "https://www.theguardian.com/politics/2026/jun/08/kemi-badenoch-vow-scrap-public-sectory-equality-duty-reform-threat",
-        "description": "In speech on Tuesday, Tory leader will claim obligation to consider equality being used to advance ‘divisive agendas’Kemi Badenoch will vow to scrap the duty on public bodies to consider how they c...",
+        "title": "Unions rebuff Farage and say Reform ‘cosplaying’ as workers’ champions",
+        "url": "https://www.theguardian.com/politics/2026/jun/09/unions-rebuff-nigel-farage-reform-cosplaying-workers-rights",
+        "description": "TUC, GMB and Unison leaders reject invitation to affiliate to Reform amid rising support for party among their membersUK politics live – latest updatesMajor trade unions and the TUC have rebuffed N...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Zelenskyy hopes Reform UK councils will allow Ukraine flags to be flown again",
-        "url": "https://www.theguardian.com/world/2026/jun/08/volodymyr-zelenskyy-reform-uk-councils-ukraine-flags",
-        "description": "Exclusive: Ukrainian president says ‘small mistake can break a big friendship’ in wide-ranging interview with GuardianVolodymyr Zelenskyy has said the decision by some Reform UK councils to take do...",
+        "title": "White House urges UK not to ban social media for under-16s",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/09/white-house-urges-uk-not-ban-social-media-under-16s",
+        "description": "Trump administration says restrictions could impose ‘disproportionate’ burden on US tech companiesUK politics live – latest updatesThe White House has urged the UK not to impose a social media ban ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Chip stocks bounce back as OpenAI files for Wall Street float – business live",
+        "url": "https://www.theguardian.com/business/live/2026/jun/09/chip-stocks-bounce-back-kospi-openai-wall-street-float-stock-markets-oil-live-news-updates",
+        "description": "Rolling coverage of the latest economic and financial news, as the AI trade bounces backOpenAI confidentially files for initial public offering on US stock marketThe pound is strengthening against ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Oil price falls back and Wall Street rallies after Iran announces ‘end of military operations’ against Israel – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/08/stock-markets-fall-oil-jumps-middle-east-conflict-ai-boom-falters-live-news-updates",
@@ -47,21 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "UK companies opting to hire temporary workers over permanent staff, recruitment firms say",
-        "url": "https://www.theguardian.com/money/2026/jun/08/uk-companies-opting-to-hire-temporary-workers-over-permanent-staff-recruitment-firms-say",
-        "description": "Report blames Middle East conflict and rising business costs for fragile jobs market and steep fall in recruitmentUK companies are increasingly hiring temporary workers instead of permanent staff b...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+        "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
         "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-        "description": "The company behind ChatGPT filed its plans one week after Anthropic did the same.",
+        "description": "The company behind ChatGPT files its plans one week after Anthropic did the same.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Doctors and NHS could be sued for mistakes made by AI tools, report warns",
+        "url": "https://www.theguardian.com/society/2026/jun/09/doctors-nhs-could-be-sued-mistakes-ai-tools-medical-protection-society-report",
+        "description": "Medical Protection Society calls for law to be overhauled to help medics avoid liability for errors made by technologyDoctors and the NHS could be sued for medical negligence over mistakes made by ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Healthy cooperation: how northern universities are linking with NHS trusts to drive innovation",
+        "url": "https://www.theguardian.com/business/2026/jun/09/northern-universities-nhs-trusts-huddersfield-manchester",
+        "description": "Backed by a mix of private and public finance, Huddersfield and Manchester are among many in the academic sector helping to create jobs and growthHuddersfield might appear an unlikely setting for a...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Challenges of treating and living with a brain injury | Letters",
         "url": "https://www.theguardian.com/science/2026/jun/08/challenges-of-treating-and-living-with-a-brain-injury",
@@ -70,23 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Parents of Nottingham attack victim say medics must breach confidentiality if patient is risk to others",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/08/parents-nottingham-attacks-victim-medics-breach-confidentiality-patient-risk",
-        "description": "Valdo Calocane was protected at expense of public safety in years before June 2023 stabbings, families of victims sayThe parents of a victim of the Nottingham attacks have said medical staff have a...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "More than 1,300 deaths a month in England due to long A&E waits, figures suggest",
-        "url": "https://www.theguardian.com/society/2026/jun/08/more-than-1300-deaths-a-month-in-england-due-to-long-ae-waits-figures-suggest",
-        "description": "Senior medical staff call for solutions to tackle root causes of excess deaths amid tenfold increase in a decadeMore than 1,300 patients a month in England are dying needlessly due to long A&E wait...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "'Lives still at risk' from unregulated baby sleep industry after BBC investigation",
-        "url": "https://www.bbc.com/news/articles/crrprxy2257o?at_medium=RSS&at_campaign=rss",
-        "description": "'Families deserve clarity about the qualifications and training of those caring for their children'",
+        "title": "How Eriksen's heart device kicked into action",
+        "url": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss",
+        "description": "Denmark's team doctor said an ICD implanted into the footballer's chest responded as it should after he collapsed on Sunday.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
+        "title": "World’s largest banks pledged $906bn to fossil fuel companies in ‘unfathomable’ increase in 2025, report finds",
+        "url": "https://www.theguardian.com/environment/2026/jun/09/world-banks-pledge-billions-fossil-fuel-industry-2025",
+        "description": "JPMorgan Chase leads 65 banks making decisions incompatible with restraining rising temperatures, researchers sayThe world’s largest banks committed $906bn in financing to the fossil fuel industry ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Christian leaders alarmed by climate crisis raise questions over GB News owner’s £28m church donations",
+        "url": "https://www.theguardian.com/environment/2026/jun/09/christian-leaders-alarmed-by-climate-crisis-raise-questions-over-gb-news-owners-28m-church-donations",
+        "description": "Exclusive: Sir Paul Marshall’s climate views and those broadcast on GB News said to be ‘in direct opposition’ to those of  Church of EnglandThe co-owner of GB News, a British TV channel accused of ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "‘Severe’ stress on oceans as rate of sea level rise doubles in 10 years, UN warns",
         "url": "https://www.theguardian.com/environment/2026/jun/08/un-world-ocean-assessment-severe-stress-sea-level-rise-doubles-pollution-fishing-climate",
         "description": "Global effort needed to limit effects of pollution, industrial fishing and climate crisis, World Ocean Assessment saysThe world’s oceans are under “severe and accelerating” pressure from human acti...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Majority of US’s new AI datacenters to be built on drought-hit land",
-        "url": "https://www.theguardian.com/us-news/2026/jun/08/datacenter-ai-drought-water",
-        "description": "Guardian analysis finds facilities to be built in some of the driest areas as outcry grows over water needed to power AIA record-shattering drought has racked much of the US. But the artificial int...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘Immediate national priority’: ministers accused of complacency over UK food supply",
-        "url": "https://www.theguardian.com/business/2026/jun/06/ministers-uk-food-supply-immediate-national-priority-trade-body-urges",
-        "description": "Cold storage and logistics body warns food supplies at risk from fuel shortages, cyber attacks and extreme weatherMinisters have been accused of being complacent about the risks to vital supplies o...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Healthy cooperation: how northern universities are linking with NHS trusts to drive innovation",
+        "url": "https://www.theguardian.com/business/2026/jun/09/northern-universities-nhs-trusts-huddersfield-manchester",
+        "description": "Backed by a mix of private and public finance, Huddersfield and Manchester are among many in the academic sector helping to create jobs and growthHuddersfield might appear an unlikely setting for a...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "The London school that has screen-free days for pupils, teachers – and parents",
         "url": "https://www.theguardian.com/education/2026/jun/07/london-school-screen-free-mondays-for-pupils-teachers-and-parents",
         "description": "Holy Family Catholic primary school says enthusiastic response from parents has been biggest surpriseSchools banning pupils from having smartphones are commonplace. But what about a school where pu...",
@@ -158,48 +165,34 @@
         "description": "Technology secretary promises to support people whose jobs are swept away by automationLiz Kendall has insisted Labour will make artificial intelligence “work for workers”, and not abandon people w...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Number of teachers in England’s state schools drops for second year in row",
-        "url": "https://www.theguardian.com/education/2026/jun/04/teachers-englands-state-schools-drops-second-year-in-row",
-        "description": "Despite Labour’s promises to increase recruitment, school census shows a fall of nearly 2,000 teachers since last yearThe number of teachers working in England’s state schools has shrunk for the se...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Young people need money because our system is rigged. Here’s a way to give it to them | Polly Toynbee",
+        "url": "https://www.theguardian.com/commentisfree/2026/jun/09/young-people-money-citizens-advance-generations-older-people",
+        "description": "One plan would see young workers offered early access to a slice of future pensions. It’s not perfect, but we need bold ideasWhile we wait with nail-biting anxiety for the voters of Makerfield to d...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Ministers could ban London councils ‘dumping’ homeless families miles away",
+        "url": "https://www.theguardian.com/society/2026/jun/09/ministers-could-ban-london-councils-dumping-homeless-families-miles-away",
+        "description": "Measures being considered to crack down on practice that has grown as a result of Britain’s housing crisisLondon councils could be banned from “dumping” homeless families hundreds of miles across E...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Hattie Llewelyn-Davies obituary",
         "url": "https://www.theguardian.com/society/2026/jun/08/hattie-llewelyn-davies-obituary",
         "description": "My mother, Hattie Llewelyn-Davies, who has died aged 71, was known to many as a passionate non-executive director in the fields of homelessness, healthcare and social housing, and was widely respec...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "‘I was crying and shaking’: vulnerable people face ‘inhumane’ ultimatums from London councils",
-        "url": "https://www.theguardian.com/society/2026/jun/07/homeless-face-inhumane-ultimatums-by-london-councils",
-        "description": "Charities say people are being forced to choose between streets and accommodation hundreds of miles from support networksVulnerable families illegally ‘dumped’ hundreds of miles away by London coun...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Vulnerable families illegally ‘dumped’ hundreds of miles away by London councils",
-        "url": "https://www.theguardian.com/society/2026/jun/07/vulnerable-families-illegally-dumped-hundreds-miles-away-london-councils",
-        "description": "Exclusive: Practice that includes women fleeing abuse is ‘ripping at social fabric’ of towns in poorest parts of England‘I was crying and shaking’: vulnerable people face ‘inhumane’ ultimatums from...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-        "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
-        "description": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Watch: Trump tells BBC Netanyahu did not defy him",
+        "title": "Trump tells BBC Netanyahu did not defy him",
         "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
         "description": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader.",
         "source": "BBC News",
@@ -209,6 +202,13 @@
         "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
         "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
         "description": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+        "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
+        "description": "The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
