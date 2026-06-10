@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-06-10T09:57:38.474500+00:00",
+  "fetched_at": "2026-06-10T15:32:03.563354+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Keir Starmer says those behind ‘unacceptable’ Belfast disorder ‘will feel full force of the law’ – UK politics live",
+        "title": "Musk rejects claim he has incited disorder in Belfast – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
-        "description": "PM says he ‘will not tolerate’ rioting and says people were targeted ‘because of their background’ after widespread unrest following knife attack videoHadi Alodid refused legal representation and m...",
+        "description": "X owner retweets post by Reform’s Matt Goodwin saying it is ‘not social media that’s inflaming tensions’Man charged with attempted murder after Belfast knife attackTell us: how have you been affect...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Reform ‘not aware’ of more large gifts but cannot check all members, says Tice",
+        "url": "https://www.theguardian.com/politics/2026/jun/10/reform-deputy-richard-tice-not-aware-more-financial-gifts-unable-check-all-members",
+        "description": "Party’s deputy faces questions at first press conference since Nigel Farage’s £5m from crypto billionaire revealedUK politics live – latest updatesReform UK is “not aware” of any other large gifts ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,21 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Anti-immigration protesters in Belfast set bins and vehicles on fire amid unrest over knife attack – live",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
-        "description": "Crowds gather at sites across Belfast after Sudanese man charged with attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after the...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Scrap legal equality duty for public services, says Badenoch",
-        "url": "https://www.bbc.com/news/articles/cy5vyqykpx5o?at_medium=RSS&at_campaign=rss",
-        "description": "The Conservative leader says the rules have led to public bodies becoming \"institutionally incompetent\".",
+        "title": "Starmer dithering over defence spending, says Badenoch",
+        "url": "https://www.bbc.com/news/articles/ckg4rknndjeo?at_medium=RSS&at_campaign=rss",
+        "description": "The clash at PMQs comes amid a cabinet battle over how a military investment plan will be funded.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "US inflation jumped to 4.2% in May, the third consecutive increase since start of Iran war",
+        "url": "https://www.theguardian.com/business/2026/jun/10/inflation-report-rate",
+        "description": "Before the conflict began, inflation was at 2.4%, but the closure of the strait of Hormuz has affected energy pricesUS inflation jumped to an annual rate of 4.2% in May, the third consecutive month...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "We economists have done the maths: ‘growth’ is a doomed strategy – there is a better way | Olivier De Schutter and others",
         "url": "https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "Trump claims US fuel prices ‘not very high’ as costs surge amid Iran war",
-        "url": "https://www.theguardian.com/business/2026/jun/09/trump-gas-prices-not-very-high",
-        "description": "National average gas price stands at about $4.16 per gallon as Americans grapple with price hikes sparked by the warDonald Trump has claimed US fuel prices are “not very high, relatively speaking” ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Bill debt soars but many don't know help is available",
         "url": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss",
         "description": "The majority of billpayers are unaware of special tariffs for water and broadband, the spending watchdog says.",
@@ -63,23 +63,23 @@
     ],
     "nhs": [
       {
+        "title": "Liz Martin obituary",
+        "url": "https://www.theguardian.com/society/2026/jun/10/liz-martin-obituary",
+        "description": "My sister Liz Martin, who has died aged 73, was a nurse at the Northern General hospital in Sheffield for 46 years, rising to be a ward sister there before her retirement.She trained at the Norther...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "UK’s stem cell transplant system may be putting lives at risk, report by MPs finds",
+        "url": "https://www.theguardian.com/science/2026/jun/10/uk-stem-cell-transplant-system-not-fit-for-purpose-mp-group",
+        "description": "System not fit for purpose due to poor infrastructure and planning, with minority groups particularly at risk, MPs sayThe UK’s stem cell transplant system is potentially putting the lives of blood ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Doctors and NHS could be sued for mistakes made by AI tools, report warns",
         "url": "https://www.theguardian.com/society/2026/jun/09/doctors-nhs-could-be-sued-mistakes-ai-tools-medical-protection-society-report",
         "description": "Medical Protection Society calls for law to be overhauled to help medics avoid liability for errors made by technologyDoctors and the NHS could be sued for medical negligence over mistakes made by ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Healthy cooperation: how northern universities are linking with NHS trusts to drive innovation",
-        "url": "https://www.theguardian.com/business/2026/jun/09/northern-universities-nhs-trusts-huddersfield-manchester",
-        "description": "Backed by a mix of private and public finance, Huddersfield and Manchester are among many in the academic sector helping to create jobs and growthHuddersfield might appear an unlikely setting for a...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Challenges of treating and living with a brain injury | Letters",
-        "url": "https://www.theguardian.com/science/2026/jun/08/challenges-of-treating-and-living-with-a-brain-injury",
-        "description": "Readers respond to an article on how early intensive rehabilitation after a stroke or head injury is crucial for recoveryRather like Ian Sample himself trying to read Orlando Swayne’s book, I was n...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,28 +93,35 @@
     ],
     "immigration": [
       {
-        "title": "Belfast knife attack victim lost his left eye, court told, as suspect named as Hadi Alodid – UK politics live",
+        "title": "Two men jailed for putting lives at risk during small boat journeys to UK",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/10/two-men-jailed-for-putting-lives-at-risk-during-small-boat-journeys-to-uk",
+        "description": "Mohammad Tajik and Alnour Ali, who steered boats on Channel crossings, are first to be sentenced under new lawTwo men have been jailed under the new offence of endangering others during a journey a...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Musk rejects claim he has incited disorder in Belfast – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
-        "description": "Suspect refused legal representation and made no reply to charges and victimViolence erupts in Belfast after protests over knife attackTell us: how have you been affected by the situation in Belfas...",
+        "description": "X owner retweets post by Reform’s Matt Goodwin saying it is ‘not social media that’s inflaming tensions’Man charged with attempted murder after Belfast knife attackTell us: how have you been affect...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Anti-immigration protesters in Belfast set bins and vehicles on fire amid unrest over knife attack – live",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
-        "description": "Crowds gather at sites across Belfast after Sudanese man charged with attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after the...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Child phone nudity law could largely end online child sexual abuse if widely adopted, Jess Phillips claims - as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/08/keir-starmer-technology-ai-online-harms-labour-andy-burnham-makerfield-kemi-badenoch-uk-politics-latest-news-updates",
-        "description": "Former safeguarding minister says if ban came into force properly it could ‘basically eliminate’ problem The government has highlighted work done by the internet safety firm SafeToNet as showing th...",
+        "title": "Cars burn in Belfast, bricks fly in Southampton – and the ubiquitous cry of ‘civil war’ goes up again | John Harris",
+        "url": "https://www.theguardian.com/commentisfree/2026/jun/10/belfast-southampton-civil-war-anti-immigrant-online",
+        "description": "For most, what we see in real life is mundane. But those who wish to fan the flames of anti-immigrant feeling share a different image onlineIt was the summer of 2024 when it all decisively started,...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Trump targeting immigrants from countries hit most by climate shocks",
+        "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
+        "description": "A Guardian analysis reveals how most of 39 countries facing US entry restrictions are most vulnerable environmentally‘Every day it’s more barriers’: how the US is shutting out climate refugeesDonal...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Super-rich’s assets cause outsized amount of climate harm, study says",
         "url": "https://www.theguardian.com/environment/2026/jun/10/super-rich-assets-outsized-amount-climate-harm-study",
@@ -126,13 +133,6 @@
         "title": "‘Woefully unprepared’: extreme heat will double US hospitalizations by 2040, study finds",
         "url": "https://www.theguardian.com/environment/2026/jun/09/extreme-heat-double-hospitalizations-2040-study",
         "description": "Sharp rise in hospital visits will in turn drive up annual healthcare costs for heat-related conditions to over $1bnPeople in the US are poised to endure another summer of unusually ferocious heat ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘Electrify daily life’, urges Cop31 host",
-        "url": "https://www.theguardian.com/environment/2026/jun/09/third-of-world-energy-electricity-by-2035-says-turkey-cop31-host",
-        "description": "Third of world’s energy needs should come from electricity by 2035, says Murat Kurum, as priorities set out for this year’s UN climate summitThe world should aim to meet a third of its energy needs...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Trump and Iran trade new threats after strikes exchanged",
+        "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
+        "description": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
         "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
         "description": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US strikes Iran in response to downing of military helicopter",
-        "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-        "description": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
-        "url": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss",
-        "description": "West claims the encounter on a music video set was part of a \"provocative theatrical performance\".",
+        "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
+        "url": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
+        "description": "Omar Artan vows to officiate at the 2030 tournament instead, following his ban from entering the US.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
