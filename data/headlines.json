@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-06-09T20:05:35.129611+00:00",
+  "fetched_at": "2026-06-10T03:37:01.870469+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Anti-immigration protesters in Belfast set bus on fire amid unrest over knife attack – live",
+        "title": "Anti-immigration protesters in Belfast set bins and vehicles on fire amid unrest over knife attack – live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
-        "description": "Crowds start to gather at sites in Belfast after Sudanese man charged for attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after...",
+        "description": "Crowds gather at sites across Belfast after Sudanese man charged with attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after the...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Lammy’s cuts to jury trials could have ‘far-reaching’ effect on race relations, say MPs",
+        "url": "https://www.theguardian.com/law/2026/jun/10/lammy-jury-trials-race-relations",
+        "description": "Justice secretary’s plans likely to increase black people’s suspicion of court system, committee suggestsDavid Lammy’s planned changes to the criminal courts in England and Wales could have a “far-...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -13,13 +20,6 @@
         "title": "Crackdown on tech platforms will go ahead despite US intervention, says No 10",
         "url": "https://www.theguardian.com/uk-news/2026/jun/09/crackdown-on-tech-platforms-will-go-ahead-despite-us-intervention-says-no-10",
         "description": "US embassy came out against UK’s proposed under-16 social media ban, which would affect American firmsWhite House displeasure over the prospect of an under-16 social media ban will not deter the UK...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK and allies impose sanctions on firms enabling West Bank settler violence",
-        "url": "https://www.theguardian.com/politics/2026/jun/09/uk-imposes-sanctions-firms-enabling-settler-violence-west-bank",
-        "description": "Labour backbenchers disappointed as new trade guidance over illegal settlements stops short of outright banThe UK in alliance with a group of other western powers including Australia, France and No...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Version of AI tool 'too powerful for public' released to public",
-        "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
-        "description": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders.",
+        "title": "World's largest chipmaker does not rule out price rises as costs increase",
+        "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+        "description": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,18 +84,18 @@
         "category": "nhs"
       },
       {
-        "title": "How Eriksen's heart device kicked into action",
-        "url": "https://www.bbc.com/news/articles/cewq1g7z4qzo?at_medium=RSS&at_campaign=rss",
-        "description": "Denmark's team doctor said an ICD implanted into the footballer's chest responded as it should after he collapsed on Sunday.",
+        "title": "Advanced radiotherapy for prostate cancer to cut sessions from 20 to five",
+        "url": "https://www.bbc.com/news/articles/crm02mmgr3ro?at_medium=RSS&at_campaign=rss",
+        "description": "Some men in England with the disease will now be offered an advanced form of treatment on the NHS.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
-        "title": "Anti-immigration protesters in Belfast set bus on fire amid unrest over knife attack – live",
+        "title": "Anti-immigration protesters in Belfast set bins and vehicles on fire amid unrest over knife attack – live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
-        "description": "Crowds start to gather at sites in Belfast after Sudanese man charged for attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after...",
+        "description": "Crowds gather at sites across Belfast after Sudanese man charged with attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after the...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -169,9 +169,9 @@
     ],
     "housing": [
       {
-        "title": "Anti-immigration protesters in Belfast set bus on fire amid unrest over knife attack – live",
+        "title": "Anti-immigration protesters in Belfast set bins and vehicles on fire amid unrest over knife attack – live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
-        "description": "Crowds start to gather at sites in Belfast after Sudanese man charged for attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after...",
+        "description": "Crowds gather at sites across Belfast after Sudanese man charged with attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after the...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump says Iran shot down US helicopter and vows to respond",
+        "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+        "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "US-Iran strikes intensify after American patrol helicopter downed in Hormuz",
         "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-        "description": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone.",
+        "description": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-        "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-        "description": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Nasa names next astronauts for Artemis Moon programme",
-        "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
-        "description": "Nasa names its next Artemis crew, though they will not be walking on the Moon or even going anywhere near it.",
+        "title": "World's largest chipmaker does not rule out price rises as costs increase",
+        "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+        "description": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
