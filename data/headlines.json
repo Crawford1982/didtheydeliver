@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-10T03:37:01.870469+00:00",
+  "fetched_at": "2026-06-10T09:57:38.474500+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Keir Starmer says those behind ‘unacceptable’ Belfast disorder ‘will feel full force of the law’ – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
+        "description": "PM says he ‘will not tolerate’ rioting and says people were targeted ‘because of their background’ after widespread unrest following knife attack videoHadi Alodid refused legal representation and m...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Most Makerfield voters say offensive posts would put them off candidate, poll finds",
+        "url": "https://www.theguardian.com/politics/2026/jun/10/makerfield-byelection-voters-poll-social-media-posts-water-wealth-tax",
+        "description": "Survey in run-up to byelection also finds support for water renationalisation, wealth tax and cap on political donationsA majority of voters in Makerfield say they would be less likely to vote for ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Anti-immigration protesters in Belfast set bins and vehicles on fire amid unrest over knife attack – live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
         "description": "Crowds gather at sites across Belfast after Sudanese man charged with attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after the...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Lammy’s cuts to jury trials could have ‘far-reaching’ effect on race relations, say MPs",
-        "url": "https://www.theguardian.com/law/2026/jun/10/lammy-jury-trials-race-relations",
-        "description": "Justice secretary’s plans likely to increase black people’s suspicion of court system, committee suggestsDavid Lammy’s planned changes to the criminal courts in England and Wales could have a “far-...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Crackdown on tech platforms will go ahead despite US intervention, says No 10",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/09/crackdown-on-tech-platforms-will-go-ahead-despite-us-intervention-says-no-10",
-        "description": "US embassy came out against UK’s proposed under-16 social media ban, which would affect American firmsWhite House displeasure over the prospect of an under-16 social media ban will not deter the UK...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "We economists have done the maths: ‘growth’ is a doomed strategy – there is a better way | Olivier De Schutter and others",
+        "url": "https://www.theguardian.com/commentisfree/2026/jun/10/economists-maths-growth-doomed-strategy-un-agencies-political-leaders",
+        "description": "Our roadmap has been shaped by experts across the world, from UN agencies to grassroots movements. We call on political leaders at all levels to use itWe live in an age of manufactured scarcity. In...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Chip stocks bouncing back on Wall Street and South Korea; UK investigating Paramount-Warner Bros merger – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/09/chip-stocks-bounce-back-kospi-openai-wall-street-float-stock-markets-oil-live-news-updates",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "The spectre of gen Z socialism is haunting the world … according to the Economist | Normon Solomon",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/09/gen-z-socialism-the-economist",
-        "description": "The magazine writes: ‘Resisting Gen-Z socialism is therefore an urgent task.’ That urgency must outweigh any urgency of feeding hungry peopleA spectre is haunting Europe and America – the spectre o...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "World's largest chipmaker does not rule out price rises as costs increase",
-        "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
-        "description": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+        "title": "Bill debt soars but many don't know help is available",
+        "url": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss",
+        "description": "The majority of billpayers are unaware of special tariffs for water and broadband, the spending watchdog says.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Belfast knife attack victim lost his left eye, court told, as suspect named as Hadi Alodid – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
+        "description": "Suspect refused legal representation and made no reply to charges and victimViolence erupts in Belfast after protests over knife attackTell us: how have you been affected by the situation in Belfas...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Anti-immigration protesters in Belfast set bins and vehicles on fire amid unrest over knife attack – live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
         "description": "Crowds gather at sites across Belfast after Sudanese man charged with attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after the...",
@@ -105,16 +112,16 @@
         "description": "Former safeguarding minister says if ban came into force properly it could ‘basically eliminate’ problem The government has highlighted work done by the internet safety firm SafeToNet as showing th...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Britain must do more to safeguard migrant workers’ rights | Letter",
-        "url": "https://www.theguardian.com/law/2026/jun/08/britain-must-do-more-to-safeguard-migrant-workers-rights",
-        "description": "A major overhaul is required if protections against unscrupulous employers are not to become illusory, says Emma WilkinsonYour article (Indian man awarded almost £30,000 after UK employer failed to...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Super-rich’s assets cause outsized amount of climate harm, study says",
+        "url": "https://www.theguardian.com/environment/2026/jun/10/super-rich-assets-outsized-amount-climate-harm-study",
+        "description": "Greenpeace calculates that wealthiest contribute nearly $1tn of damage a year with ownership-based emissionsUltra-wealthy people zooming across the world on their private jets, lounging on yachts a...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "‘Woefully unprepared’: extreme heat will double US hospitalizations by 2040, study finds",
         "url": "https://www.theguardian.com/environment/2026/jun/09/extreme-heat-double-hospitalizations-2040-study",
@@ -126,13 +133,6 @@
         "title": "‘Electrify daily life’, urges Cop31 host",
         "url": "https://www.theguardian.com/environment/2026/jun/09/third-of-world-energy-electricity-by-2035-says-turkey-cop31-host",
         "description": "Third of world’s energy needs should come from electricity by 2035, says Murat Kurum, as priorities set out for this year’s UN climate summitThe world should aim to meet a third of its energy needs...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "World’s largest banks pledged $906bn to fossil fuel companies in ‘unfathomable’ increase in 2025, report finds",
-        "url": "https://www.theguardian.com/environment/2026/jun/09/world-banks-pledge-billions-fossil-fuel-industry-2025",
-        "description": "JPMorgan Chase leads 65 banks making decisions incompatible with restraining rising temperatures, researchers sayThe world’s largest banks committed $906bn in financing to the fossil fuel industry ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "It was Britain’s most expensive house. Why is its only resident a homeless man who lives on the porch?",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/jun/10/homeless-man-porch-rutland-gate",
+        "description": "2-8A Rutland Gate had jewel-encrusted bathroom suites and gold wastepaper bins in its 45 rooms, but has lain empty for years. With many people desperate for secure housing, what does the abandonmen...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Anti-immigration protesters in Belfast set bins and vehicles on fire amid unrest over knife attack – live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/09/labour-badenoch-equality-duty-nowak-starmer-burnham-healey-lammy-latest-news-updates",
         "description": "Crowds gather at sites across Belfast after Sudanese man charged with attempted murderFull report: Man seriously injured in Belfast stabbing Starmer describes as ‘sickening’Badenoch said, after the...",
@@ -179,13 +186,6 @@
         "title": "Young people need money because our system is rigged. Here’s a way to give it to them | Polly Toynbee",
         "url": "https://www.theguardian.com/commentisfree/2026/jun/09/young-people-money-citizens-advance-generations-older-people",
         "description": "One plan would see young workers offered early access to a slice of future pensions. It’s not perfect, but we need bold ideasWhile we wait with nail-biting anxiety for the voters of Makerfield to d...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Ministers could ban London councils ‘dumping’ homeless families miles away",
-        "url": "https://www.theguardian.com/society/2026/jun/09/ministers-could-ban-london-councils-dumping-homeless-families-miles-away",
-        "description": "Measures being considered to crack down on practice that has grown as a result of Britain’s housing crisisLondon councils could be banned from “dumping” homeless families hundreds of miles across E...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US-Iran strikes intensify after American patrol helicopter downed in Hormuz",
+        "title": "US strikes Iran in response to downing of military helicopter",
         "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
         "description": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "World's largest chipmaker does not rule out price rises as costs increase",
-        "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
-        "description": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics.",
+        "title": "Model who alleges Kanye West choked her tells BBC she felt 'suffocated and scared'",
+        "url": "https://www.bbc.com/news/articles/c0q2jgkwk0no?at_medium=RSS&at_campaign=rss",
+        "description": "West claims the encounter on a music video set was part of a \"provocative theatrical performance\".",
         "source": "BBC News",
         "category": "foreign_policy"
       }
