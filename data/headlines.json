@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-10T15:32:03.563354+00:00",
+  "fetched_at": "2026-06-10T20:28:20.563778+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Musk rejects claim he has incited disorder in Belfast – UK politics live",
+        "title": "Water cannon deployed in second night of disorder after knife attack in Belfast – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
-        "description": "X owner retweets post by Reform’s Matt Goodwin saying it is ‘not social media that’s inflaming tensions’Man charged with attempted murder after Belfast knife attackTell us: how have you been affect...",
+        "description": "Disturbances reported in Northern Ireland despite condemnation from politicians and community leadersMan charged with attempted murder after Belfast knife attackTell us: how have you been affected ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform ‘not aware’ of more large gifts but cannot check all members, says Tice",
-        "url": "https://www.theguardian.com/politics/2026/jun/10/reform-deputy-richard-tice-not-aware-more-financial-gifts-unable-check-all-members",
-        "description": "Party’s deputy faces questions at first press conference since Nigel Farage’s £5m from crypto billionaire revealedUK politics live – latest updatesReform UK is “not aware” of any other large gifts ...",
+        "title": "Elon Musk’s X not facing action from UK government over posts inciting violence in Belfast",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/10/elon-musk-x-not-face-action-uk-government-posts-inciting-violence-belfast",
+        "description": "Any official reprimand will come from regulator Ofcom, but not for at least two monthsUK politics live – latest updatesElon Musk’s X will face no action to remove a mass of posts inciting violence ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Most Makerfield voters say offensive posts would put them off candidate, poll finds",
-        "url": "https://www.theguardian.com/politics/2026/jun/10/makerfield-byelection-voters-poll-social-media-posts-water-wealth-tax",
-        "description": "Survey in run-up to byelection also finds support for water renationalisation, wealth tax and cap on political donationsA majority of voters in Makerfield say they would be less likely to vote for ...",
+        "title": "Keir Starmer aides ‘war-gaming’ leadership contest with Andy Burnham",
+        "url": "https://www.theguardian.com/politics/2026/jun/10/keir-starmer-aides-war-gaming-over-leadership-contest-with-andy-burnham",
+        "description": "Prime minister is ‘hellbent’ on fighting any contest, even if his future may be out of his hands, sources sayUK politics live – latest updatesKeir Starmer’s closest aides are “war-gaming” how to wi...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,9 @@
     ],
     "economy": [
       {
-        "title": "US inflation jumped to 4.2% in May, the third consecutive increase since start of Iran war",
+        "title": "Trump says ‘I love the inflation’ as rate rises to 4.2% amid Iran war pressure",
         "url": "https://www.theguardian.com/business/2026/jun/10/inflation-report-rate",
-        "description": "Before the conflict began, inflation was at 2.4%, but the closure of the strait of Hormuz has affected energy pricesUS inflation jumped to an annual rate of 4.2% in May, the third consecutive month...",
+        "description": "Before the conflict began, inflation was at 2.4%, but the closure of the strait of Hormuz has affected energy pricesDonald Trump said “I love the inflation” after new data showed that inflation jum...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Bill debt soars but many don't know help is available",
-        "url": "https://www.bbc.com/news/articles/cdjkevgv9rzo?at_medium=RSS&at_campaign=rss",
-        "description": "The majority of billpayers are unaware of special tariffs for water and broadband, the spending watchdog says.",
+        "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+        "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
+        "description": "Consumers are increasingly feeling the strain of the US Israel war in Iran.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "A&E patients with non-urgent ailments may be told to come back later under NHS plans",
+        "url": "https://www.theguardian.com/society/2026/jun/10/patients-accident-emergency-non-urgent-ailments-nhs-plans-overcrowding",
+        "description": "NHS bosses urge all hospitals in England to use ‘digital triage’ process to combat overcrowding in emergency servicesPatients who turn up at A&E with non-urgent ailments could be told to come back ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Liz Martin obituary",
         "url": "https://www.theguardian.com/society/2026/jun/10/liz-martin-obituary",
@@ -73,13 +80,6 @@
         "title": "UK’s stem cell transplant system may be putting lives at risk, report by MPs finds",
         "url": "https://www.theguardian.com/science/2026/jun/10/uk-stem-cell-transplant-system-not-fit-for-purpose-mp-group",
         "description": "System not fit for purpose due to poor infrastructure and planning, with minority groups particularly at risk, MPs sayThe UK’s stem cell transplant system is potentially putting the lives of blood ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Doctors and NHS could be sued for mistakes made by AI tools, report warns",
-        "url": "https://www.theguardian.com/society/2026/jun/09/doctors-nhs-could-be-sued-mistakes-ai-tools-medical-protection-society-report",
-        "description": "Medical Protection Society calls for law to be overhauled to help medics avoid liability for errors made by technologyDoctors and the NHS could be sued for medical negligence over mistakes made by ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -100,39 +100,39 @@
         "category": "immigration"
       },
       {
-        "title": "Musk rejects claim he has incited disorder in Belfast – UK politics live",
+        "title": "Water cannon deployed in second night of disorder after knife attack in Belfast – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
-        "description": "X owner retweets post by Reform’s Matt Goodwin saying it is ‘not social media that’s inflaming tensions’Man charged with attempted murder after Belfast knife attackTell us: how have you been affect...",
+        "description": "Disturbances reported in Northern Ireland despite condemnation from politicians and community leadersMan charged with attempted murder after Belfast knife attackTell us: how have you been affected ...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Cars burn in Belfast, bricks fly in Southampton – and the ubiquitous cry of ‘civil war’ goes up again | John Harris",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/10/belfast-southampton-civil-war-anti-immigrant-online",
-        "description": "For most, what we see in real life is mundane. But those who wish to fan the flames of anti-immigrant feeling share a different image onlineIt was the summer of 2024 when it all decisively started,...",
+        "title": "Elon Musk’s X not facing action from UK government over posts inciting violence in Belfast",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/10/elon-musk-x-not-face-action-uk-government-posts-inciting-violence-belfast",
+        "description": "Any official reprimand will come from regulator Ofcom, but not for at least two monthsUK politics live – latest updatesElon Musk’s X will face no action to remove a mass of posts inciting violence ...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
+        "title": "Record winter temperatures in Antarctic raise fears over speed of climate breakdown",
+        "url": "https://www.theguardian.com/environment/2026/jun/10/record-winter-temperatures-in-antarctic-raise-fears-over-speed-of-climate-breakdown",
+        "description": "Temperatures above 15C ‘very strange’ say scientists, as snow melts and rain falls on glaciers in usually frozen regionTemperatures in the Antarctic climbed above 15C this month, shattering the pre...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Four days of extreme rain in Indonesia killed 7% of world’s rarest great apes, study finds",
+        "url": "https://www.theguardian.com/world/2026/jun/10/rainfall-landslides-climate-crisis-tapanuli-orangutan-indonesia-extreme-weather",
+        "description": "Critically endangered Tapanuli orangutan population falls after heavy rain and landslides, fuelled by climate crisis, in North SumatraExtreme rainfall and landslides fuelled by the climate crisis k...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Trump targeting immigrants from countries hit most by climate shocks",
         "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
         "description": "A Guardian analysis reveals how most of 39 countries facing US entry restrictions are most vulnerable environmentally‘Every day it’s more barriers’: how the US is shutting out climate refugeesDonal...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Super-rich’s assets cause outsized amount of climate harm, study says",
-        "url": "https://www.theguardian.com/environment/2026/jun/10/super-rich-assets-outsized-amount-climate-harm-study",
-        "description": "Greenpeace calculates that wealthiest contribute nearly $1tn of damage a year with ownership-based emissionsUltra-wealthy people zooming across the world on their private jets, lounging on yachts a...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘Woefully unprepared’: extreme heat will double US hospitalizations by 2040, study finds",
-        "url": "https://www.theguardian.com/environment/2026/jun/09/extreme-heat-double-hospitalizations-2040-study",
-        "description": "Sharp rise in hospital visits will in turn drive up annual healthcare costs for heat-related conditions to over $1bnPeople in the US are poised to endure another summer of unusually ferocious heat ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "UK minister defends changes to student loans as criticism mounts",
+        "url": "https://www.theguardian.com/money/2026/jun/10/uk-minister-defends-changes-to-student-loans-as-pressure-grows-for-reforms",
+        "description": "Lucy Rigby tells MPs heavily subsidised system gives the government the right to alter terms of existing agreementsMinisters have rejected accusations that recent changes to student loans are unfai...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "How do you give Britain’s hidden army of young carers a break? | Is Mum OK? Documentary",
         "url": "https://www.theguardian.com/global/ng-interactive/2026/jun/09/how-do-you-give-britains-hidden-army-a-break-is-mum-ok-documentary",
         "description": "There are more than one million young carers in the UK – with an average age of 12 – which is the equivalent of two kids in every school class. Do they feel supported? In Walthamstow, east London, ...",
@@ -156,13 +163,6 @@
         "title": "How do you give Britain's hidden army a break? | Is Mum OK? Documentary",
         "url": "https://www.theguardian.com/society/video/2026/jun/09/how-do-you-give-britains-hidden-army-a-break-is-mum-ok-documentary",
         "description": "There are more than one million young carers in the UK – with an average age of 12 – which is the equivalent of two kids in every school class. Do they feel supported? In Walthamstow, east London, ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Healthy cooperation: how northern universities are linking with NHS trusts to drive innovation",
-        "url": "https://www.theguardian.com/business/2026/jun/09/northern-universities-nhs-trusts-huddersfield-manchester",
-        "description": "Backed by a mix of private and public finance, Huddersfield and Manchester are among many in the academic sector helping to create jobs and growthHuddersfield might appear an unlikely setting for a...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump and Iran trade new threats after strikes exchanged",
+        "title": "Trump says US will hit Iran 'hard' again today",
         "url": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
         "description": "The US president warns Iran \"will have to pay the price\" for taking too long to agree a deal, after Tehran vows retaliation to any attacks.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
-        "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.",
+        "title": "Three Indian sailors missing after US says it hit tanker in Gulf of Oman",
+        "url": "https://www.bbc.com/news/articles/c0rygjw1kqxo?at_medium=RSS&at_campaign=rss",
+        "description": "India's government said three Indian sailors were missing and 21 crew had been rescued after the hit on the Settebello off the coast of Oman.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "World Cup referee denied US entry arrives home to hero's welcome in Somalia",
-        "url": "https://www.bbc.com/sport/football/articles/c2dylj8kj82o?at_medium=RSS&at_campaign=rss",
-        "description": "Omar Artan vows to officiate at the 2030 tournament instead, following his ban from entering the US.",
+        "title": "Bill Gates says Epstein wanted personal relationship, but he 'never reciprocated'",
+        "url": "https://www.bbc.com/news/articles/c0jy8v0ge66o?at_medium=RSS&at_campaign=rss",
+        "description": "The Microsoft co-founder spent hours talking to lawmakers behind closed doors, where he also said Epstein used his marital infidelities to pressure him.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
