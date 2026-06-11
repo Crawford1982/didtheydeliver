@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-11T03:53:10.200979+00:00",
+  "fetched_at": "2026-06-11T10:21:36.431376+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Stephen Ogilvie’s family appeal for calm on second night of disorder – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
-        "description": "This blog is now closed. Read our main report here: Police use water cannon against rioters in Northern IrelandHadi Alodid refused legal representation and made no reply to charges which were put p...",
+        "title": "Northern Ireland secretary condemns Belfast riots as ‘racist thuggery’ after 12 police officers injured – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates",
+        "description": "‘If you are targeting people on the basis of the colour of their skin how else can you describe them?’ said Hilary BennFull report: Police use water cannon against rioters in Northern IrelandTell u...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Elon Musk’s X not facing action from UK government over posts inciting violence in Belfast",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/10/elon-musk-x-not-face-action-uk-government-posts-inciting-violence-belfast",
-        "description": "Any official reprimand will come from regulator Ofcom, but not for at least two monthsUK politics live – latest updatesElon Musk’s X will face no action to remove a mass of posts inciting violence ...",
+        "title": "Ministers want 60% of pupils in England ‘actively’ travelling to school by 2035",
+        "url": "https://www.theguardian.com/politics/2026/jun/11/ministers-pupils-england-active-travel-school-cycing-walking-heidi-alexander",
+        "description": "Exclusive: Transport secretary, Heidi Alexander, says cycling and walking plan focuses on ‘everyday travel needs’UK politics live – latest updatesMinisters are to launch a major push to get more ch...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Keir Starmer aides ‘war-gaming’ leadership contest with Andy Burnham",
-        "url": "https://www.theguardian.com/politics/2026/jun/10/keir-starmer-aides-war-gaming-over-leadership-contest-with-andy-burnham",
-        "description": "Prime minister is ‘hellbent’ on fighting any contest, even if his future may be out of his hands, sources sayUK politics live – latest updatesKeir Starmer’s closest aides are “war-gaming” how to wi...",
+        "title": "China’s Jingye seeks compensation from UK over British Steel takeover",
+        "url": "https://www.theguardian.com/business/2026/jun/11/china-jingye-compensation-uk-british-steel-takeover",
+        "description": "Sources say firm is asking for more than £1bn in row that could put pressure on two countries’ relationshipBusiness live – latest updatesThe Chinese owner of British Steel has started a formal proc...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "China’s Jingye Steel asks UK for compensation over British Steel takeover – business live",
+        "url": "https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsThe financial markets are surprisingly calm this morning, as conflict erupts again in the Middle East.European stock markets are mostly hig...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Trump says ‘I love the inflation’ as rate rises to 4.2% amid Iran war pressure",
         "url": "https://www.theguardian.com/business/2026/jun/10/inflation-report-rate",
@@ -47,21 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Chip stocks bouncing back on Wall Street and South Korea; UK investigating Paramount-Warner Bros merger – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/jun/09/chip-stocks-bounce-back-kospi-openai-wall-street-float-stock-markets-oil-live-news-updates",
-        "description": "Rolling coverage of the latest economic and financial news, as the AI trade bounces backOpenAI confidentially files for initial public offering on US stock marketThe pound is strengthening against ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Mike Ashley's Frasers offers £1.73bn to buy all of Hugo Boss",
-        "url": "https://www.bbc.com/news/articles/c07y92gplmyo?at_medium=RSS&at_campaign=rss",
-        "description": "The retail group already owns just over a quarter of the German fashion brand but wants to buy the rest of it.",
+        "title": "Ryanair investigated over charging parents to sit with children",
+        "url": "https://www.bbc.com/news/articles/czj87rvx349o?at_medium=RSS&at_campaign=rss",
+        "description": "The UK's competition regulator is investigating the airline over charges it imposes on parents to sit next to their child.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Two children die from measles as England data shows 100 new infections",
+        "url": "https://www.theguardian.com/society/2026/jun/11/two-children-die-from-measles-as-england-data-shows-100-new-infections",
+        "description": "London, the east of England and the West Midlands have highest number of cases, as UKHSA urges families to get children vaccinatedTwo children in England have died from measles, health officials sa...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "A&E patients with non-urgent ailments may be told to come back later under NHS plans",
         "url": "https://www.theguardian.com/society/2026/jun/10/patients-accident-emergency-non-urgent-ailments-nhs-plans-overcrowding",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "UK’s stem cell transplant system may be putting lives at risk, report by MPs finds",
-        "url": "https://www.theguardian.com/science/2026/jun/10/uk-stem-cell-transplant-system-not-fit-for-purpose-mp-group",
-        "description": "System not fit for purpose due to poor infrastructure and planning, with minority groups particularly at risk, MPs sayThe UK’s stem cell transplant system is potentially putting the lives of blood ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Advanced radiotherapy for prostate cancer to cut sessions from 20 to five",
-        "url": "https://www.bbc.com/news/articles/crm02mmgr3ro?at_medium=RSS&at_campaign=rss",
-        "description": "Some men in England with the disease will now be offered an advanced form of treatment on the NHS.",
+        "title": "Nearly 3,000 patients a day face corridor care in NHS",
+        "url": "https://www.bbc.com/news/articles/cp3657re2epo?at_medium=RSS&at_campaign=rss",
+        "description": "New data reveals sheer scale of patients in England being treated in unsafe and undignified make-shift areas.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -100,21 +100,28 @@
         "category": "immigration"
       },
       {
-        "title": "Stephen Ogilvie’s family appeal for calm on second night of disorder – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/10/belfast-riots-knife-attack-northern-ireland-sdlp-keir-starmer-kemi-badenoch-pmqs-uk-politics-latest-news-updates",
-        "description": "This blog is now closed. Read our main report here: Police use water cannon against rioters in Northern IrelandHadi Alodid refused legal representation and made no reply to charges which were put p...",
+        "title": "Northern Ireland secretary condemns Belfast riots as ‘racist thuggery’ after 12 police officers injured – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates",
+        "description": "‘If you are targeting people on the basis of the colour of their skin how else can you describe them?’ said Hilary BennFull report: Police use water cannon against rioters in Northern IrelandTell u...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Elon Musk’s X not facing action from UK government over posts inciting violence in Belfast",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/10/elon-musk-x-not-face-action-uk-government-posts-inciting-violence-belfast",
-        "description": "Any official reprimand will come from regulator Ofcom, but not for at least two monthsUK politics live – latest updatesElon Musk’s X will face no action to remove a mass of posts inciting violence ...",
+        "title": "Home Office contractor investigates claims of staff racism and hate speech",
+        "url": "https://www.theguardian.com/business/2026/jun/11/mitie-home-office-immigration-contractor-investigating-claims-staff-racism",
+        "description": "Whistleblowers from Mitie allege some employees have made offensive remarks or liked abusive social media postsOne of the government’s key contractors has launched an investigation into allegations...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Millions of homes in London, Essex and Kent at risk of sinking as climate crisis worsens",
+        "url": "https://www.theguardian.com/environment/2026/jun/11/millions-homes-london-essex-and-kent-sinking-climate-crisis-subsidence",
+        "description": "Analysis pinpoints areas most vulnerable to hotter, drier weather causing ground to shrink and drag foundations downMillions of homes are at risk from climate-related subsidence, according toan ana...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Record winter temperatures in Antarctic raise fears over speed of climate breakdown",
         "url": "https://www.theguardian.com/environment/2026/jun/10/record-winter-temperatures-in-antarctic-raise-fears-over-speed-of-climate-breakdown",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Trump targeting immigrants from countries hit most by climate shocks",
-        "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis",
-        "description": "A Guardian analysis reveals how most of 39 countries facing US entry restrictions are most vulnerable environmentally‘Every day it’s more barriers’: how the US is shutting out climate refugeesDonal...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Nasa names next astronauts for Artemis Moon programme",
         "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
         "description": "Nasa names its next Artemis crew, though they will not be walking on the Moon or even going anywhere near it.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Children hit by parents more likely to bully others, research finds",
+        "url": "https://www.theguardian.com/education/2026/jun/11/children-hit-by-parents-more-likely-to-bully-others-research-finds",
+        "description": "The UCL study also found physically punished children were more likely to struggle in schoolChildren smacked by their parents struggle to get good exam results and are more likely to bully others, ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "UK minister defends changes to student loans as criticism mounts",
         "url": "https://www.theguardian.com/money/2026/jun/10/uk-minister-defends-changes-to-student-loans-as-pressure-grows-for-reforms",
@@ -156,13 +163,6 @@
         "title": "How do you give Britain’s hidden army of young carers a break? | Is Mum OK? Documentary",
         "url": "https://www.theguardian.com/global/ng-interactive/2026/jun/09/how-do-you-give-britains-hidden-army-a-break-is-mum-ok-documentary",
         "description": "There are more than one million young carers in the UK – with an average age of 12 – which is the equivalent of two kids in every school class. Do they feel supported? In Walthamstow, east London, ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "How do you give Britain's hidden army a break? | Is Mum OK? Documentary",
-        "url": "https://www.theguardian.com/society/video/2026/jun/09/how-do-you-give-britains-hidden-army-a-break-is-mum-ok-documentary",
-        "description": "There are more than one million young carers in the UK – with an average age of 12 – which is the equivalent of two kids in every school class. Do they feel supported? In Walthamstow, east London, ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Tehran targets US Gulf bases after American forces launch new strikes on Iran",
+        "title": "US and Iran exchange strikes across Middle East for second day in a row",
         "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
-        "description": "US Central Command says its latest round of strikes were in response to \"unwarranted and continued aggression\" from Iran.",
+        "description": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump says he 'loves the inflation' as US prices rise at fastest rate in three years",
+        "title": "Three Indian sailors killed in US strike on oil tanker",
+        "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
+        "description": "The US military had attacked the Palau-flagged tanker on Wednesday after accusing it of not complying with directions.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Trump says 'I love the inflation' as US prices rise at fastest rate in three years",
         "url": "https://www.bbc.com/news/articles/c0myzxjkw99o?at_medium=RSS&at_campaign=rss",
-        "description": "Consumers are increasingly feeling the strain of the US-Israel war in Iran.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "The furious dispute over what caused Air India flight 171 to crash",
-        "url": "https://www.bbc.com/news/articles/cwyk9exxp2qo?at_medium=RSS&at_campaign=rss",
-        "description": "The final conclusions of the investigation have yet to be published, although more could become apparent in the coming days.",
+        "description": "The US president later said he had meant that he actually loved that inflation was not higher.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
