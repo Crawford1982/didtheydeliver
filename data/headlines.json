@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-06-12T03:52:14.818291+00:00",
+  "fetched_at": "2026-06-12T10:11:04.251123+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Record number of young people fear long-term unemployment",
-        "url": "https://www.theguardian.com/society/2026/jun/12/young-people-fear-long-term-unemployment-work",
-        "description": "Report says confidence among 16- to 21-year-olds has fallen sharply as they doubt hard work will be rewardedYoung people in England are increasingly “losing faith in their futures” according to a r...",
+        "title": "Starmer’s leadership under further pressure after defence ministers quit – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/12/keir-starmer-defence-investment-plan-spending-dan-jarvis-al-cairns-john-healey-latest-news-updates",
+        "description": "Both John Healey and Al Carns resigned from their ministerial positions on Thursday over the government’s defence investment planAs armed forces minister, Al Carns was not involved in work on the d...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Dan Jarvis named new defence secretary as Al Carns quits government – UK politics as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates",
-        "description": "Government confirms Jarvis’s move from role as security minister to replace John HealeyRyan Henderson, assistant chief constable for the Police Service of Northern Ireland, is about to hold a press...",
+        "title": "UK’s defence plan is underfunded and outdated, says Al Carns after resignation",
+        "url": "https://www.theguardian.com/politics/2026/jun/12/uk-defence-plan-underfunded-outdated-al-carns-resignation",
+        "description": "Former armed forces minister, who quit hours after John Healey, heavily hints he would run for Labour leadershipUK politics live – latest updatesAl Carns has delivered a withering assessment of the...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Healey’s shock resignation over defence plan pushes Starmer to brink",
-        "url": "https://www.theguardian.com/politics/2026/jun/11/john-healey-resigns-defence-secretary-military-spending",
-        "description": "Former defence secretary accuses PM of putting UK’s security at risk at a time of growing international threatsKeir Starmer’s premiership has been pushed to the brink of collapse after the shock re...",
+        "title": "UK economy shrank by 0.1% in April as Iran war held back growth",
+        "url": "https://www.theguardian.com/business/2026/jun/12/uk-economy-gdp-shrank-april-iran-war-held-back-growth",
+        "description": "GDP hit by higher energy prices caused by Middle East conflict, after 0.3% rise in MarchThe UK economy contracted by 0.1% in April as the Iran war began to take its toll on growth, official figures...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Armed forces minister quits after Healey exit as defence funding row deepens",
-        "url": "https://www.bbc.com/news/articles/c4gyp8n7g3go?at_medium=RSS&at_campaign=rss",
-        "description": "Al Carns says the military isn't \"sufficiently funded\", as Dan Jarvis becomes the new defence secretary.",
+        "title": "Chris Mason: Dissent fizzes again at the top of the Labour Party",
+        "url": "https://www.bbc.com/news/articles/cx26njd8v4mo?at_medium=RSS&at_campaign=rss",
+        "description": "The resignations of the defence secretary and armed forces minister pile the pressure further on the PM's leadership.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Elon Musk on track to become world’s first trillionaire today as SpaceX lists on US stock market – business live",
+        "url": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
+        "description": "Rolling coverage of SpaceX’s record-breaking initial public offering, after Elon Musk’s company is valued at $1.77tn in share offeringSpaceX to list on US stock market at $1.77tn valuation in large...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK economy shrank by 0.1% in April as Iran war held back growth",
+        "url": "https://www.theguardian.com/business/2026/jun/12/uk-economy-gdp-shrank-april-iran-war-held-back-growth",
+        "description": "GDP hit by higher energy prices caused by Middle East conflict, after 0.3% rise in MarchThe UK economy contracted by 0.1% in April as the Iran war began to take its toll on growth, official figures...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Middle East war is hurting eurozone economy, warns ECB, after announcing first interest rate rise since 2023 – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/11/ryanair-investigation-seating-children-eurozone-interest-rates-middle-east-oil-uk-housing-live-news-updates",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Global growth is slowing to lowest level since pandemic, says World Bank",
-        "url": "https://www.theguardian.com/business/2026/jun/11/global-growth-slow-lowest-level-pandemic-world-bank",
-        "description": "Forecast for this year downgraded to 2.5% and inflation expected to jump as a result of war in the Middle East  Global economic growth will slow to 2.5% this year as a result of the war in the Midd...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "ECB raises eurozone interest rates as Iran war stokes inflation",
-        "url": "https://www.theguardian.com/business/2026/jun/11/ecb-eurozone-interest-rates-iran-war-inflation",
-        "description": "European Central Bank increases main deposit rate to 2.25%, with two further rises expected by next springBusiness live – latest updatesThe European Central Bank has raised interest rates for the f...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Why the economics make this the craziest World Cup ever",
-        "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
-        "description": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
+        "title": "Elon Musk's SpaceX raises $75bn ahead of world's biggest stock market launch",
+        "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
+        "description": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "Lupus patients in England in remission after pioneering NHS trial of GM therapy",
-        "url": "https://www.theguardian.com/science/2026/jun/12/lupus-patients-in-remission-england-nhs-trial-genentically-modified-t-cell-therapy",
-        "description": "Doctors say therapy that genetically modifies person’s T-cells could offer cure for chronic autoimmune diseaseFive lupus patients in England are in remission after being treated with a revolutionar...",
+        "title": "Joseph Ana obituary",
+        "url": "https://www.theguardian.com/society/2026/jun/12/joseph-ana-obituary",
+        "description": "My friend Joseph Ana, who has died aged 73, spent the best part of two decades in the UK working for the NHS as a urologist and then as a GP. But his heart was always in his native Nigeria, to wher...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Patients are dying in A&E corridors - but I've seen how things could be different | Sophie",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/11/accident-emergency-long-waits-nurse",
-        "description": "When I started nursing at 21 we were able to deliver timely, good care. That has become nearly impossibleSophie (not her real name) is a member of the Royal College of Nursing and a senior A&E nurs...",
+        "title": "Emergency hospital admissions fell after introduction of London’s T-charge and Ulez, study suggests",
+        "url": "https://www.theguardian.com/environment/2026/jun/12/emergency-hospital-admissions-reduced-london-t-charge-ulez-air-quality",
+        "description": "Imperial College scientists analysed health records before and after introduction of air pollution reduction zonesLow emission and clean air zones attract controversy whenever they are proposed, bu...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,23 +93,16 @@
     ],
     "immigration": [
       {
-        "title": "Care worker fears being parted from unborn child and family after Home Office ‘go home’ letters",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/11/woman-fears-separated-unborn-baby-home-office-sends-go-home-letters-husband-daughter",
-        "description": "Pregnant woman in Scotland ‘stressed’ and unsure what will happen as result of UK government’s visa clampdownA heavily pregnant mother legally living and working in the UK fears the Home Office cou...",
+        "title": "Up to 90% of Ireland’s asylum seekers may have entered from Northern Ireland, data shows",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/12/ireland-asylum-seekers-northern-land-border",
+        "description": "Figures suggest common travel area being used in both directions, but particularly UK to IrelandUp to 90% of asylum seekers in Ireland may have entered the country via the Northern Ireland land bor...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
         "title": "On the ground in the Belfast riots - podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/jun/12/on-the-ground-in-the-belfast-riots-podcast",
-        "description": "The Guardian reporter Hannah Al-Othman on the anti-immigrant rioting in Northern Ireland and the residents afraid for their livesStella and Sumayah are housemates. Both care workers and students fr...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Dan Jarvis named new defence secretary as Al Carns quits government – UK politics as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates",
-        "description": "Government confirms Jarvis’s move from role as security minister to replace John HealeyRyan Henderson, assistant chief constable for the Police Service of Northern Ireland, is about to hold a press...",
+        "url": "https://www.theguardian.com/australia-news/audio/2026/jun/12/belfast-riots-on-the-ground-full-story-podcast",
+        "description": "Guardian reporter Hannah Al-Othman on the anti-immigrant rioting in Northern Ireland and the residents afraid for their livesStella and Sumayah are housemates. Both care workers and students from U...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -192,23 +185,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "El Niño under way and threatens weather extremes, scientists say",
-        "url": "https://www.bbc.com/news/articles/c75ylx7g00xo?at_medium=RSS&at_campaign=rss",
-        "description": "An El Niño event has officially started, say US scientists, raising fears of extreme weather and higher temperatures.",
+        "title": "Tehran says 'nothing' finalised after Trump claims deal to end Iran war near",
+        "url": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
+        "description": "Iran says reports of a deal are \"speculative\" after the US president says a \"great settlement\" to end the conflict has been reached.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Deadly Sudan drone strike targets funeral procession",
-        "url": "https://www.bbc.com/news/articles/c70yeee2jvqo?at_medium=RSS&at_campaign=rss",
-        "description": "Rights groups accuse the RSF paramilitary group of killing civilians in el-Obeid, a city on the civil war's front line.",
+        "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
+        "url": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
-        "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-        "description": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
+        "title": "Thai Princess Bajrakitiyabha dies after more than three years in coma",
+        "url": "https://www.bbc.com/news/articles/cvgzzndx780o?at_medium=RSS&at_campaign=rss",
+        "description": "Princess Bajrakitiyabha, the king's eldest daughter, collapsed in December 2022 while exercising her dogs.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
