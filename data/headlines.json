@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-06-11T20:20:08.956496+00:00",
+  "fetched_at": "2026-06-12T03:52:14.818291+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Armed forces minister Al Carns quits over defence spending plan – UK politics live",
+        "title": "Record number of young people fear long-term unemployment",
+        "url": "https://www.theguardian.com/society/2026/jun/12/young-people-fear-long-term-unemployment-work",
+        "description": "Report says confidence among 16- to 21-year-olds has fallen sharply as they doubt hard work will be rewardedYoung people in England are increasingly “losing faith in their futures” according to a r...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Dan Jarvis named new defence secretary as Al Carns quits government – UK politics as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates",
-        "description": "Carns follows John Healey in resigning, leaving Keir Starmer’s government on the brinkRyan Henderson, assistant chief constable for the Police Service of Northern Ireland, is about to hold a press ...",
+        "description": "Government confirms Jarvis’s move from role as security minister to replace John HealeyRyan Henderson, assistant chief constable for the Police Service of Northern Ireland, is about to hold a press...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "Healey’s shock resignation over defence plan pushes Starmer to brink",
         "url": "https://www.theguardian.com/politics/2026/jun/11/john-healey-resigns-defence-secretary-military-spending",
-        "description": "Former defence secretary accuses PM of putting UK’s security at risk at a time of growing international threatsUK politics live – latest updatesKeir Starmer’s premiership has been pushed to the bri...",
+        "description": "Former defence secretary accuses PM of putting UK’s security at risk at a time of growing international threatsKeir Starmer’s premiership has been pushed to the brink of collapse after the shock re...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham’s momentum builds in Makerfield as byelection nears",
-        "url": "https://www.theguardian.com/politics/2026/jun/11/andy-burnham-makerfield-byelection-labour",
-        "description": "Hundreds of Labour activists and MPs have ‘made the pilgrimage’ to the seat, where they are pounding the streetsFor a few short weeks, the centre of political gravity in Britain has shifted from th...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Healey quits as defence secretary in row over military spending",
-        "url": "https://www.bbc.com/news/articles/c9w2lkd29l8o?at_medium=RSS&at_campaign=rss",
-        "description": "He says a defence funding plan \"falls well short\", as Sir Keir Starmer insists he will keep the UK safe.",
+        "title": "Armed forces minister quits after Healey exit as defence funding row deepens",
+        "url": "https://www.bbc.com/news/articles/c4gyp8n7g3go?at_medium=RSS&at_campaign=rss",
+        "description": "Al Carns says the military isn't \"sufficiently funded\", as Dan Jarvis becomes the new defence secretary.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Elon Musk's SpaceX valued at nearly $1.8tn ahead of record share sale",
-        "url": "https://www.bbc.com/news/articles/cwy034q89j4o?at_medium=RSS&at_campaign=rss",
-        "description": "The public sale is also expected to make Elon Musk the world's first trillionaire.",
+        "title": "Why the economics make this the craziest World Cup ever",
+        "url": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+        "description": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,6 +70,13 @@
         "category": "nhs"
       },
       {
+        "title": "Lupus patients in England in remission after pioneering NHS trial of GM therapy",
+        "url": "https://www.theguardian.com/science/2026/jun/12/lupus-patients-in-remission-england-nhs-trial-genentically-modified-t-cell-therapy",
+        "description": "Doctors say therapy that genetically modifies person’s T-cells could offer cure for chronic autoimmune diseaseFive lupus patients in England are in remission after being treated with a revolutionar...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Patients are dying in A&E corridors - but I've seen how things could be different | Sophie",
         "url": "https://www.theguardian.com/commentisfree/2026/jun/11/accident-emergency-long-waits-nurse",
         "description": "When I started nursing at 21 we were able to deliver timely, good care. That has become nearly impossibleSophie (not her real name) is a member of the Royal College of Nursing and a senior A&E nurs...",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Two children die from measles as England data shows 100 new infections",
-        "url": "https://www.theguardian.com/society/2026/jun/11/two-children-die-from-measles-as-england-data-shows-100-new-infections",
-        "description": "London, the east of England and the West Midlands have highest number of cases, as UKHSA urges families to get children vaccinatedTwo children in England have died from measles, health officials sa...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Weight-loss drug Wegovy to be available in pill form in UK for first time",
-        "url": "https://www.bbc.com/news/articles/c9d2pl10lqzo?at_medium=RSS&at_campaign=rss",
-        "description": "Manufacturer Novo Nordisk says a daily tablet of the drug could be more convenient for some people than weekly injections.",
+        "title": "'I've never been this good' – revolutionary immune reset puts lupus in remission",
+        "url": "https://www.bbc.com/news/articles/c4gy2d9y5z3o?at_medium=RSS&at_campaign=rss",
+        "description": "Patients on the trial have not needed medication to manage their condition.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -100,14 +100,14 @@
         "category": "immigration"
       },
       {
-        "title": "‘My kids are crying’: list of targeted addresses stokes fears across Belfast",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/11/belfast-northern-ireland-list-addresses-social-media-riots-violence",
-        "description": "People in city’s minority ethnic communities speak of alarm as violence casts light on racism in Northern IrelandAs widespread violence broke out in Belfast, a list of addresses began circulating o...",
+        "title": "On the ground in the Belfast riots - podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/jun/12/on-the-ground-in-the-belfast-riots-podcast",
+        "description": "The Guardian reporter Hannah Al-Othman on the anti-immigrant rioting in Northern Ireland and the residents afraid for their livesStella and Sumayah are housemates. Both care workers and students fr...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Dan Jarvis named new defence secretary as Al Carns quits government – UK politics live",
+        "title": "Dan Jarvis named new defence secretary as Al Carns quits government – UK politics as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/11/belfast-riots-hilary-benn-anti-immigrant-injured-police-latest-news-updates",
         "description": "Government confirms Jarvis’s move from role as security minister to replace John HealeyRyan Henderson, assistant chief constable for the Police Service of Northern Ireland, is about to hold a press...",
         "source": "The Guardian",
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
+        "title": "Natural history GCSE to teach teenagers to plant wildflower-friendly gardens",
+        "url": "https://www.theguardian.com/education/2026/jun/11/natural-history-gcse-to-teach-teenagers-to-plant-wildflower-friendly-gardens",
+        "description": "Long-awaited course to examine human effects on natural world and explore everyday ways to aid biodiversitySchool pupils will learn how to plant a wildflower-friendly garden, according to long-awai...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "‘Super El Niño’ is officially here, scientists say. What can we expect?",
+        "url": "https://www.theguardian.com/environment/2026/apr/13/el-nino-explainer",
+        "description": "Experts say climate pattern could supercharge extreme weather events and push temperatures to record highsEL Niño has officially arrived, US officials at the National Oceanic and Atmospheric Admini...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Subterranean fungi networks more than 100 quadrillion km in length, study finds",
         "url": "https://www.theguardian.com/science/2026/jun/11/arbuscular-mycorrhizal-fungi-plant-life-climate-global-mapping-study",
         "description": "First ever global mapping of arbuscular mycorrhizal fungi shows scale of hyphal systems that sustain plant lifeOur planet’s soils contain enough of the subterranean fungi that sustain plant life an...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "El Niño forms in Pacific as experts say it will likely turbocharge extreme weather",
-        "url": "https://www.theguardian.com/us-news/2026/jun/11/el-nino-forms-historic-strength",
-        "description": "Meteorologists predict it will be the strongest of century, while UN secretary-general calls it ‘urgent climate warning’El Niño, the climate phenomenon that supercharges weather around the world, h...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Millions of homes in London, Essex and Kent at risk of sinking as climate crisis worsens",
-        "url": "https://www.theguardian.com/environment/2026/jun/11/millions-homes-london-essex-and-kent-sinking-climate-crisis-subsidence",
-        "description": "Analysis pinpoints areas most vulnerable to hotter, drier weather causing ground to shrink and drag foundations downMillions of homes are at risk from climate-related subsidence, according to an an...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
+        "title": "UK school leavers and new students to be offered meningitis B vaccine",
+        "url": "https://www.theguardian.com/society/2026/jun/12/uk-school-leavers-and-new-students-to-be-offered-meningitis-b-vaccine",
+        "description": "One-off programme to begin in July after recent MenB outbreaks in Kent, Dorset and Berkshire killed three peopleTeenagers in their final school year and young people starting university will be off...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Natural history GCSE to teach teenagers to plant wildflower-friendly gardens",
+        "url": "https://www.theguardian.com/education/2026/jun/11/natural-history-gcse-to-teach-teenagers-to-plant-wildflower-friendly-gardens",
+        "description": "Long-awaited course to examine human effects on natural world and explore everyday ways to aid biodiversitySchool pupils will learn how to plant a wildflower-friendly garden, according to long-awai...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "More than one in five pupils in England have special educational needs, figures show",
         "url": "https://www.theguardian.com/education/2026/jun/11/pupils-england-special-educational-needs",
         "description": "Data shows sharp rise in number of children getting extra support and highlights pressure on schools, families and councilsMore than one in five pupils in England now have special educational needs...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Children hit by parents more likely to bully others, research finds",
-        "url": "https://www.theguardian.com/education/2026/jun/11/children-hit-by-parents-more-likely-to-bully-others-research-finds",
-        "description": "The UCL study also found physically punished children were more likely to struggle in schoolChildren smacked by their parents struggle to get good exam results and are more likely to bully others, ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "UK minister defends changes to student loans as criticism mounts",
-        "url": "https://www.theguardian.com/money/2026/jun/10/uk-minister-defends-changes-to-student-loans-as-pressure-grows-for-reforms",
-        "description": "Lucy Rigby tells MPs heavily subsidised system gives the government the right to alter terms of existing agreementsMinisters have rejected accusations that recent changes to student loans are unfai...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "World Cup kicks off in Mexico with Shakira, local performers and vibrant fans",
+        "title": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
         "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-        "description": "A star-studded opening ceremony featured artists from the World Cup's official soundtrack.",
+        "description": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
