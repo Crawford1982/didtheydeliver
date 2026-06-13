@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-06-13T13:57:29.625713+00:00",
+  "fetched_at": "2026-06-13T19:23:39.645012+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "MPs call for end to real estate event over fear it pushes sale of Israeli settlements",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/13/uk-london-real-estate-west-bank-israel-settlements",
+        "description": "More than 100 UK lawmakers urge government to cancel London event, warning it is linked to land ‘stolen from Palestinians’More than 100 UK lawmakers have called for the cancellation of an Israeli r...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Revealed: DWP still allowing unpaid carers to run up debts despite being told about overpayments",
+        "url": "https://www.theguardian.com/society/2026/jun/13/revealed-dwp-still-allowing-unpaid-carers-to-run-up-debts-despite-being-told-about-overpayments",
+        "description": "Chris Farrell was given benefit for six months despite his repeated requests for payments to stopA former unpaid carer has urged welfare officials to “get their act together” after they continued t...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Head of Commons media committee denies writing article accusing BBC of bias",
         "url": "https://www.theguardian.com/media/2026/jun/13/head-commons-media-committee-caroline-dineage-denies-writing-article-bbc-bias",
@@ -10,28 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Public control of water and energy at heart of Burnham agenda, sources say",
-        "url": "https://www.theguardian.com/politics/2026/jun/13/andy-burnham-public-control-essentials-water-energy",
-        "description": "Exclusive: Greater Manchester mayor ‘serious’ about taking over ‘essentials of life’ if he becomes PM, a move critics say could cost taxpayer billions A decade-long project to bring water and energ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Merope Mills awarded CBE in king’s honours list for Martha’s rule campaign",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/12/merope-mills-cbe-kings-birthday-honours-list-marthas-rule",
-        "description": "Journalist and healthcare campaigner was driving force behind patient safety initiative after death of 13-year-old daughterThe healthcare campaigner and journalist Merope Mills has been made a CBE ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "I have a duty to stay on, says PM as he justifies defence spending decisions",
-        "url": "https://www.bbc.com/news/articles/c621wr1zg97o?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Keir Starmer argues he has made \"hard-edged\" decisions, one day after his defence secretary quit in a row over money.",
+        "title": "Are the Downing Street dominoes about to fall?",
+        "url": "https://www.bbc.com/news/articles/c6213rkyp3lo?at_medium=RSS&at_campaign=rss",
+        "description": "John Healey's resignation as defence secretary is a disaster for the prime minister, writes Laura Kuenssberg.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "The case for Labour to introduce a wealth tax has never been stronger | Phillip Inman",
+        "url": "https://www.theguardian.com/politics/2026/jun/13/labour-introduce-wealth-tax-case-never-been-stronger",
+        "description": "A 2% levy on fortunes above £100m – with no exemptions – could begin to reverse decades of rising inequalityAndy Burnham and Wes Streeting have sought to blunt the Green leader Zack Polanski’s popu...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Elon Musk becomes world’s first trillionaire as SpaceX ends trading day with valuation of $2.1tn – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
@@ -43,13 +50,6 @@
         "title": "US consumer sentiment improves in June due to easing gas prices",
         "url": "https://www.theguardian.com/business/2026/jun/12/consumer-sentiment-june-data-gas-prices",
         "description": "Consumer sentiment still remains at historically low levels amid Iran war and rising inflation, new survey showsEasing gas prices are making Americans feel better about their personal finances and ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil prices plummet as Trump claims he is close to US-Iran deal",
-        "url": "https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz",
-        "description": "Brent crude falls as optimism rises that strait of Hormuz could reopen over the weekendGlobal oil prices fell on Friday to lows not seen since the first week of the Iran crisis after Donald Trump c...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-        "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-        "description": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
+        "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+        "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
+        "description": "Before the US president's comments, Iran expressed caution about the exact timing.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
