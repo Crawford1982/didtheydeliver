@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-06-13T03:36:44.816440+00:00",
+  "fetched_at": "2026-06-13T08:56:30.814416+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Public control of water and energy at heart of Burnham agenda, sources say",
+        "url": "https://www.theguardian.com/politics/2026/jun/13/andy-burnham-public-control-essentials-water-energy",
+        "description": "Exclusive: Greater Manchester mayor ‘serious’ about taking over ‘essentials of life’ if he becomes PM, a move critics say could cost taxpayer billions A decade-long project to bring water and energ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Merope Mills awarded CBE in king’s honours list for Martha’s rule campaign",
         "url": "https://www.theguardian.com/uk-news/2026/jun/12/merope-mills-cbe-kings-birthday-honours-list-marthas-rule",
@@ -13,13 +20,6 @@
         "title": "Ant Middleton backs Reform UK’s Robert Kenyon in Makerfield byelection",
         "url": "https://www.theguardian.com/politics/2026/jun/12/ant-middleton-backs-reform-uks-robert-kenyon-in-makerfield-byelection",
         "description": "Endorsement by former soldier, despite party’s apparent efforts to distance itself from him, is likely bid to attract Restore Britain votersReform UK’s candidate in the Makerfield byelection has be...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Asylum seekers removed from Essex hotel targeted by far right as Home Office ends contract",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/12/asylum-seekers-essex-hotel-epping-far-right-home-office-ends-contract",
-        "description": "Bell hotel in Epping was scene of violent protests after asylum seeker living there sexually assaulted girl and womanAsylum seekers have been removed from the Epping hotel that became a flashpoint ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -93,9 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "Up to 90% of Ireland’s asylum seekers may have entered from Northern Ireland, data shows",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/12/ireland-asylum-seekers-northern-land-border",
-        "description": "Figures suggest common travel area being used in both directions, but particularly UK to IrelandUp to 90% of asylum seekers in Ireland may have entered the country via the Northern Ireland land bor...",
+        "title": "Riots and racism: why is the UK burning?",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/13/belfast-southampton-riots-racism-why-is-the-uk-burning",
+        "description": "Claims of two-tier policing and uncontrolled immigration may not be borne out by the facts, but that has not stopped them being played up for political endsAs the people of Glengormley, on the nort...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
+        "title": "Tropical heron spotted in UK for first time as more exotic birds arrive to thrill birdwatchers",
+        "url": "https://www.theguardian.com/environment/2026/jun/13/tropical-heron-spotted-first-time-uk-aoe",
+        "description": "Appearance of a western reef heron in north Wales is unlikely to be the last, as heating temperatures mean species can survive Britain’s winter, say expertsIt is a tropical bird typically encounter...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Trees may store less planet-heating carbon than hoped, study suggests",
+        "url": "https://www.theguardian.com/environment/2026/jun/13/trees-store-less-carbon-than-thought-study",
+        "description": "Photosynthesis does not always result in wood growth, a key factor in carbon dioxide sequestrationTrees may not be able to store as much planet-heating carbon as hoped, a study suggests, with resea...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Australia can switch from fossil fuel exports to renewables, says next Cop president",
         "url": "https://www.theguardian.com/environment/2026/jun/13/australia-fossil-fuel-exports-renewables-cop-chris-bowen",
         "description": "Climate minister Chris Bowen says country must prepare for changing world and can play bigger role in reducing emissionsAustralia will find exporting fossil fuels increasingly difficult but can swi...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Antarctica’s west coast missing an area of sea ice the size of France as temperatures peak 20C above average",
-        "url": "https://www.theguardian.com/world/2026/jun/13/antarcticas-west-coast-missing-an-area-of-sea-ice-the-size-of-france-as-temperatures-peak-20c-above-average",
-        "description": "Exclusive A vast area of the Bellingshausen Sea should be covered by sea ice by now, with one expert calling the loss of ice ‘depressing’Antarctica’s west coast is missing an area of winter sea ice...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Natural history GCSE to teach teenagers to plant wildflower-friendly gardens",
-        "url": "https://www.theguardian.com/education/2026/jun/11/natural-history-gcse-to-teach-teenagers-to-plant-wildflower-friendly-gardens",
-        "description": "Long-awaited course to examine human effects on natural world and explore everyday ways to aid biodiversitySchool pupils will learn how to plant a wildflower-friendly garden, according to long-awai...",
         "source": "The Guardian",
         "category": "climate"
       },
