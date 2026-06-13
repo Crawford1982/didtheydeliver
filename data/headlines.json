@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-06-12T20:08:56.310685+00:00",
+  "fetched_at": "2026-06-13T03:36:44.816440+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Merope Mills awarded CBE in king’s honours list for Martha’s rule campaign",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/12/merope-mills-cbe-kings-birthday-honours-list-marthas-rule",
+        "description": "Journalist and healthcare campaigner was driving force behind patient safety initiative after death of 13-year-old daughterThe healthcare campaigner and journalist Merope Mills has been made a CBE ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Ant Middleton backs Reform UK’s Robert Kenyon in Makerfield byelection",
         "url": "https://www.theguardian.com/politics/2026/jun/12/ant-middleton-backs-reform-uks-robert-kenyon-in-makerfield-byelection",
@@ -17,13 +24,6 @@
         "category": "government"
       },
       {
-        "title": "Starmer admits he must ‘turn things around’ as US adds to pressure over defence spending",
-        "url": "https://www.theguardian.com/politics/2026/jun/12/keir-starmer-john-healey-defence-secretary-exit",
-        "description": "Prime minister promises to fight any leadership challenge as he faces escalating row over military spending Keir Starmer has admitted that he has to “turn things around” after the resignation of th...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "I have a duty to stay on, says PM as he justifies defence spending decisions",
         "url": "https://www.bbc.com/news/articles/c621wr1zg97o?at_medium=RSS&at_campaign=rss",
         "description": "Sir Keir Starmer argues he has made \"hard-edged\" decisions, one day after his defence secretary quit in a row over money.",
@@ -33,7 +33,7 @@
     ],
     "economy": [
       {
-        "title": "Elon Musk becomes world’s first trillionaire as SpaceX valuation passes $2tn in first stock market trading – business live",
+        "title": "Elon Musk becomes world’s first trillionaire as SpaceX ends trading day with valuation of $2.1tn – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
         "description": "One economist says Musk’s world-first level of extreme wealth highlights massive economic disparities and could have profound effects on societySpaceX’s shares will be supported by a number of “for...",
         "source": "The Guardian",
@@ -49,19 +49,26 @@
       {
         "title": "Oil prices plummet as Trump claims he is close to US-Iran deal",
         "url": "https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz",
-        "description": "Brent crude falls as optimism rises that strait of Hormuz could reopen over the weekendBusiness live – latest updatesGlobal oil prices fell on Friday to lows not seen since the first week of the Ir...",
+        "description": "Brent crude falls as optimism rises that strait of Hormuz could reopen over the weekendGlobal oil prices fell on Friday to lows not seen since the first week of the Iran crisis after Donald Trump c...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "'I was employee number one': SpaceX co-founder reacts to firm's market debut",
-        "url": "https://www.bbc.com/news/videos/cvgjx68nyvmo?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC's Michelle Fleury spoke to Tom Mueller, who was one of the company's founders alongside Elon Musk in 2002.",
+        "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+        "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+        "description": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Merope Mills awarded CBE in king’s honours list for Martha’s rule campaign",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/12/merope-mills-cbe-kings-birthday-honours-list-marthas-rule",
+        "description": "Journalist and healthcare campaigner was driving force behind patient safety initiative after death of 13-year-old daughterThe healthcare campaigner and journalist Merope Mills has been made a CBE ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Joseph Ana obituary",
         "url": "https://www.theguardian.com/society/2026/jun/12/joseph-ana-obituary",
@@ -73,13 +80,6 @@
         "title": "Emergency hospital admissions fell after introduction of London’s T-charge and Ulez, study suggests",
         "url": "https://www.theguardian.com/environment/2026/jun/12/emergency-hospital-admissions-reduced-london-t-charge-ulez-air-quality",
         "description": "Imperial College scientists analysed health records before and after introduction of air pollution reduction zonesLow emission and clean air zones attract controversy whenever they are proposed, bu...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Lupus patients in England in remission after pioneering NHS trial of GM therapy",
-        "url": "https://www.theguardian.com/science/2026/jun/12/lupus-patients-in-remission-england-nhs-trial-genentically-modified-t-cell-therapy",
-        "description": "Doctors say therapy that genetically modifies person’s T-cells could offer cure for chronic autoimmune diseaseFive lupus patients in England are in remission after being treated with a revolutionar...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Australia can switch from fossil fuel exports to renewables, says next Cop president",
+        "url": "https://www.theguardian.com/environment/2026/jun/13/australia-fossil-fuel-exports-renewables-cop-chris-bowen",
+        "description": "Climate minister Chris Bowen says country must prepare for changing world and can play bigger role in reducing emissionsAustralia will find exporting fossil fuels increasingly difficult but can swi...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Antarctica’s west coast missing an area of sea ice the size of France as temperatures peak 20C above average",
         "url": "https://www.theguardian.com/world/2026/jun/13/antarcticas-west-coast-missing-an-area-of-sea-ice-the-size-of-france-as-temperatures-peak-20c-above-average",
         "description": "Exclusive A vast area of the Bellingshausen Sea should be covered by sea ice by now, with one expert calling the loss of ice ‘depressing’Antarctica’s west coast is missing an area of winter sea ice...",
@@ -126,13 +133,6 @@
         "title": "Natural history GCSE to teach teenagers to plant wildflower-friendly gardens",
         "url": "https://www.theguardian.com/education/2026/jun/11/natural-history-gcse-to-teach-teenagers-to-plant-wildflower-friendly-gardens",
         "description": "Long-awaited course to examine human effects on natural world and explore everyday ways to aid biodiversitySchool pupils will learn how to plant a wildflower-friendly garden, according to long-awai...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘Super El Niño’ is officially here, scientists say. What can we expect?",
-        "url": "https://www.theguardian.com/environment/2026/apr/13/el-nino-explainer",
-        "description": "Experts say climate pattern could supercharge extreme weather events and push temperatures to record highsEL Niño has officially arrived, US officials at the National Oceanic and Atmospheric Admini...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Iran says deal to end fighting with US has 'never been closer'",
+        "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
         "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-        "description": "Both Iran and Pakistan say a deal has never been closer - echoing US President Donald Trump's statement on Thursday.",
+        "description": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+        "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+        "description": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "French town buries murdered child as questions mount over police failings",
         "url": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
         "description": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Discovery of €1.2m jewellery prompts fresh probe into former Spanish PM",
-        "url": "https://www.bbc.com/news/articles/cjeg9p1xqdwo?at_medium=RSS&at_campaign=rss",
-        "description": "José Luis Rodriguez Zapatero is suspected of being unable to show proof he paid import duties on the jewellery.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
