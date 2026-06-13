@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-06-13T08:56:30.814416+00:00",
+  "fetched_at": "2026-06-13T13:57:29.625713+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Head of Commons media committee denies writing article accusing BBC of bias",
+        "url": "https://www.theguardian.com/media/2026/jun/13/head-commons-media-committee-caroline-dineage-denies-writing-article-bbc-bias",
+        "description": "Excoriating article under Caroline Dinenage’s name remains on ConservativeHome website It was a crisis that toppled a BBC director general and his head of news. After contentious accusations of bia...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Public control of water and energy at heart of Burnham agenda, sources say",
         "url": "https://www.theguardian.com/politics/2026/jun/13/andy-burnham-public-control-essentials-water-energy",
@@ -13,13 +20,6 @@
         "title": "Merope Mills awarded CBE in king’s honours list for Martha’s rule campaign",
         "url": "https://www.theguardian.com/uk-news/2026/jun/12/merope-mills-cbe-kings-birthday-honours-list-marthas-rule",
         "description": "Journalist and healthcare campaigner was driving force behind patient safety initiative after death of 13-year-old daughterThe healthcare campaigner and journalist Merope Mills has been made a CBE ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Ant Middleton backs Reform UK’s Robert Kenyon in Makerfield byelection",
-        "url": "https://www.theguardian.com/politics/2026/jun/12/ant-middleton-backs-reform-uks-robert-kenyon-in-makerfield-byelection",
-        "description": "Endorsement by former soldier, despite party’s apparent efforts to distance itself from him, is likely bid to attract Restore Britain votersReform UK’s candidate in the Makerfield byelection has be...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time",
+        "url": "https://www.theguardian.com/society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time",
+        "description": "Other projects include developing tools to help visually impaired people navigate video games  Parents are constantly being told to limit their children’s screen time. But when it comes to decipher...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "UK school leavers and new students to be offered meningitis B vaccine",
         "url": "https://www.theguardian.com/society/2026/jun/12/uk-school-leavers-and-new-students-to-be-offered-meningitis-b-vaccine",
         "description": "One-off programme to begin in July after recent MenB outbreaks in Kent, Dorset and Berkshire killed three peopleTeenagers in their final school year and young people starting university will be off...",
@@ -156,13 +163,6 @@
         "title": "Natural history GCSE to teach teenagers to plant wildflower-friendly gardens",
         "url": "https://www.theguardian.com/education/2026/jun/11/natural-history-gcse-to-teach-teenagers-to-plant-wildflower-friendly-gardens",
         "description": "Long-awaited course to examine human effects on natural world and explore everyday ways to aid biodiversitySchool pupils will learn how to plant a wildflower-friendly garden, according to long-awai...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "More than one in five pupils in England have special educational needs, figures show",
-        "url": "https://www.theguardian.com/education/2026/jun/11/pupils-england-special-educational-needs",
-        "description": "Data shows sharp rise in number of children getting extra support and highlights pressure on schools, families and councilsMore than one in five pupils in England now have special educational needs...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+        "title": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
         "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-        "description": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+        "description": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-        "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-        "description": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+        "title": "Switzerland to vote on plan to cap population at 10 million",
+        "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
+        "description": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "French town buries murdered child as questions mount over police failings",
-        "url": "https://www.bbc.com/news/articles/cy9rq21dqego?at_medium=RSS&at_campaign=rss",
-        "description": "The prime suspect in the killing of Lyhanna, 11, was reported to police nine months prior but never questioned.",
+        "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
+        "url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
+        "description": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
