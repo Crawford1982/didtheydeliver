@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-14T03:58:08.059685+00:00",
+  "fetched_at": "2026-06-14T09:31:49.874514+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK and Japan set to agree investment deal worth £18bn",
-        "url": "https://www.theguardian.com/politics/2026/jun/13/uk-and-japan-set-to-agree-investment-deal-worth-18bn",
-        "description": "Keir Starmer says commercial and government agreements will create tens of thousands of jobsThe UK and Japan are set to agree £18bn worth of investment, creating tens of thousands of jobs.Prime min...",
+        "title": "Cabinet ministers asked to look for cuts to fund UK defence spending increase",
+        "url": "https://www.theguardian.com/politics/2026/jun/14/cabinet-ministers-asked-to-look-for-cuts-to-fund-uk-defence-spending-increase",
+        "description": "Lisa Nandy says discussions are taking place about how to ‘keep this country safe’ after John Healey’s resignationUK politics live – latest updatesCabinet ministers have been asked to look for more...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK government announces £132.5m after-school clubs package",
-        "url": "https://www.theguardian.com/education/2026/jun/13/uk-government-announces-1325m-after-school-clubs-package",
-        "description": "Funding for extracurricular activities comes as ministers prepare to introduce social media restrictions for under-16sThe government has announced a £132.5m funding package for after-school clubs a...",
+        "title": "UK forces board sanctioned Russian oil tanker in English Channel for the first time, says Keir Starmer - UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates",
+        "description": "Prime minister says British armed forces intercepted a Russian shadow fleet vessel in the early hours of Sunday morningBritish armed forces intercept Russian shadow fleet oil tanker in ChannelConse...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "MPs call for end to real estate event over fear it pushes sale of Israeli settlements",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/13/uk-london-real-estate-west-bank-israel-settlements",
-        "description": "More than 100 UK lawmakers urge government to cancel London event, warning it is linked to land ‘stolen from Palestinians’More than 100 UK lawmakers have called for the cancellation of an Israeli r...",
+        "title": "Make platforms that promote violent content pay towards riot costs, Streeting says",
+        "url": "https://www.theguardian.com/politics/2026/jun/14/make-platforms-that-promote-violent-content-pay-towards-riot-costs-streeting-says",
+        "description": "Exclusive: Former minister calls for urgent action against companies such as X that allow incitement to violenceWes Streeting has called for Keir Starmer to take urgent action against X and other o...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "How Brexit has made Britain poorer – in charts",
+        "url": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
+        "description": "Forecasters were wrong about an immediate recession but right that we would be worse off outside the EUAs the 10th anniversary of the Brexit vote approaches, the verdict on Britain’s economic perfo...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "The case for Labour to introduce a wealth tax has never been stronger | Phillip Inman",
         "url": "https://www.theguardian.com/politics/2026/jun/13/labour-introduce-wealth-tax-case-never-been-stronger",
@@ -47,21 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "US consumer sentiment improves in June due to easing gas prices",
-        "url": "https://www.theguardian.com/business/2026/jun/12/consumer-sentiment-june-data-gas-prices",
-        "description": "Consumer sentiment still remains at historically low levels amid Iran war and rising inflation, new survey showsEasing gas prices are making Americans feel better about their personal finances and ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-        "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-        "description": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
+        "title": "Why the US economy keeps defying the odds",
+        "url": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
+        "description": "Why has the American economy continued to outperform so many of its peers, despite facing the same global shocks?",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "NHS staff battling wave of food supplement disinformation",
+        "url": "https://www.theguardian.com/society/2026/jun/14/nhs-staff-food-supplement-disinformation-cancer-charity-social-media",
+        "description": "Exclusive: Cancer charity says dispelling falsehoods gleaned from social media is now routine task for cliniciansSocial media misinformation about the use of dietary supplements such as turmeric, S...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Resident doctors in England call off strike action after new government offer",
         "url": "https://www.theguardian.com/society/2026/jun/13/resident-doctors-in-england-call-off-strike-action-after-new-government-offer",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "Joseph Ana obituary",
-        "url": "https://www.theguardian.com/society/2026/jun/12/joseph-ana-obituary",
-        "description": "My friend Joseph Ana, who has died aged 73, spent the best part of two decades in the UK working for the NHS as a urologist and then as a GP. But his heart was always in his native Nigeria, to wher...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Resident doctors cancel strike after new offer from government",
         "url": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
         "description": "The walkout had been due to start at 07:00 BST on Monday and last until Friday.",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "How Brexit has made Britain poorer – in charts",
+        "url": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
+        "description": "Forecasters were wrong about an immediate recession but right that we would be worse off outside the EUAs the 10th anniversary of the Brexit vote approaches, the verdict on Britain’s economic perfo...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Riots and racism: why is the UK burning?",
         "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/13/belfast-southampton-riots-racism-why-is-the-uk-burning",
@@ -103,13 +110,6 @@
         "title": "Belfast riots trigger renewed scrutiny over loyalist paramilitary influence",
         "url": "https://www.theguardian.com/uk-news/2026/jun/12/belfast-riots-scrutiny-loyalist-paramilitary-influence-northern-ireland",
         "description": "The violent disturbances occurred in a nationalist area yet played out against a backdrop of union jacksAs the racially motivated violence unfolded in Northern Ireland this week, a striking dissona...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Asylum seekers removed from Essex hotel targeted by far right as Home Office ends contract",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/12/asylum-seekers-essex-hotel-epping-far-right-home-office-ends-contract",
-        "description": "Bell hotel in Epping was scene of violent protests after asylum seeker living there sexually assaulted girl and womanAsylum seekers have been removed from the Epping hotel that became a flashpoint ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -194,21 +194,21 @@
       {
         "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
         "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+        "description": "The US president's comments come as Iran says an exact date has not been decided.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Switzerland to vote on plan to cap population at 10 million",
+        "title": "Switzerland votes on plan to cap population at 10 million",
         "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
         "description": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Nigerian author accuses hospital of stalling review into her son's death",
-        "url": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
-        "description": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
+        "title": "Russian families use AI to 'resurrect' loved ones killed in Ukraine",
+        "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
+        "description": "The highly controversial trend lies at the intersection of Russia's war on Ukraine, new AI technologies and grief.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
