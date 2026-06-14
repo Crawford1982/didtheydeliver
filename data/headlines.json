@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-06-13T19:23:39.645012+00:00",
+  "fetched_at": "2026-06-14T03:58:08.059685+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "UK and Japan set to agree investment deal worth £18bn",
+        "url": "https://www.theguardian.com/politics/2026/jun/13/uk-and-japan-set-to-agree-investment-deal-worth-18bn",
+        "description": "Keir Starmer says commercial and government agreements will create tens of thousands of jobsThe UK and Japan are set to agree £18bn worth of investment, creating tens of thousands of jobs.Prime min...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK government announces £132.5m after-school clubs package",
+        "url": "https://www.theguardian.com/education/2026/jun/13/uk-government-announces-1325m-after-school-clubs-package",
+        "description": "Funding for extracurricular activities comes as ministers prepare to introduce social media restrictions for under-16sThe government has announced a £132.5m funding package for after-school clubs a...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "MPs call for end to real estate event over fear it pushes sale of Israeli settlements",
         "url": "https://www.theguardian.com/uk-news/2026/jun/13/uk-london-real-estate-west-bank-israel-settlements",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Revealed: DWP still allowing unpaid carers to run up debts despite being told about overpayments",
-        "url": "https://www.theguardian.com/society/2026/jun/13/revealed-dwp-still-allowing-unpaid-carers-to-run-up-debts-despite-being-told-about-overpayments",
-        "description": "Chris Farrell was given benefit for six months despite his repeated requests for payments to stopA former unpaid carer has urged welfare officials to “get their act together” after they continued t...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Head of Commons media committee denies writing article accusing BBC of bias",
-        "url": "https://www.theguardian.com/media/2026/jun/13/head-commons-media-committee-caroline-dineage-denies-writing-article-bbc-bias",
-        "description": "Excoriating article under Caroline Dinenage’s name remains on ConservativeHome website It was a crisis that toppled a BBC director general and his head of news. After contentious accusations of bia...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Are the Downing Street dominoes about to fall?",
-        "url": "https://www.bbc.com/news/articles/c6213rkyp3lo?at_medium=RSS&at_campaign=rss",
-        "description": "John Healey's resignation as defence secretary is a disaster for the prime minister, writes Laura Kuenssberg.",
+        "title": "Resident doctors cancel strike after new offer from government",
+        "url": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
+        "description": "The walkout had been due to start at 07:00 BST on Monday and last until Friday.",
         "source": "BBC News",
         "category": "government"
       }
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Resident doctors in England call off strike action after new government offer",
+        "url": "https://www.theguardian.com/society/2026/jun/13/resident-doctors-in-england-call-off-strike-action-after-new-government-offer",
+        "description": "Last-minute offer to be put to members is understood to include an average 6.6% pay upliftResident doctors in England have called off strike action after the government made a new offer which will ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Merope Mills awarded CBE in king’s honours list for Martha’s rule campaign",
         "url": "https://www.theguardian.com/uk-news/2026/jun/12/merope-mills-cbe-kings-birthday-honours-list-marthas-rule",
         "description": "Journalist and healthcare campaigner was driving force behind patient safety initiative after death of 13-year-old daughterThe healthcare campaigner and journalist Merope Mills has been made a CBE ...",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Emergency hospital admissions fell after introduction of London’s T-charge and Ulez, study suggests",
-        "url": "https://www.theguardian.com/environment/2026/jun/12/emergency-hospital-admissions-reduced-london-t-charge-ulez-air-quality",
-        "description": "Imperial College scientists analysed health records before and after introduction of air pollution reduction zonesLow emission and clean air zones attract controversy whenever they are proposed, bu...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "'I've never been this good' – revolutionary immune reset puts lupus in remission",
-        "url": "https://www.bbc.com/news/articles/c4gy2d9y5z3o?at_medium=RSS&at_campaign=rss",
-        "description": "Patients on the trial have not needed medication to manage their condition.",
+        "title": "Resident doctors cancel strike after new offer from government",
+        "url": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
+        "description": "The walkout had been due to start at 07:00 BST on Monday and last until Friday.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "UK government announces £132.5m after-school clubs package",
+        "url": "https://www.theguardian.com/education/2026/jun/13/uk-government-announces-1325m-after-school-clubs-package",
+        "description": "Funding for extracurricular activities comes as ministers prepare to introduce social media restrictions for under-16sThe government has announced a £132.5m funding package for after-school clubs a...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time",
         "url": "https://www.theguardian.com/society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time",
         "description": "Other projects include developing tools to help visually impaired people navigate video games  Parents are constantly being told to limit their children’s screen time. But when it comes to decipher...",
@@ -156,13 +163,6 @@
         "title": "UK school leavers and new students to be offered meningitis B vaccine",
         "url": "https://www.theguardian.com/society/2026/jun/12/uk-school-leavers-and-new-students-to-be-offered-meningitis-b-vaccine",
         "description": "One-off programme to begin in July after recent MenB outbreaks in Kent, Dorset and Berkshire killed three peopleTeenagers in their final school year and young people starting university will be off...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Natural history GCSE to teach teenagers to plant wildflower-friendly gardens",
-        "url": "https://www.theguardian.com/education/2026/jun/11/natural-history-gcse-to-teach-teenagers-to-plant-wildflower-friendly-gardens",
-        "description": "Long-awaited course to examine human effects on natural world and explore everyday ways to aid biodiversitySchool pupils will learn how to plant a wildflower-friendly garden, according to long-awai...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "US-Iran deal scheduled to be signed on Sunday, says Trump",
+        "title": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
         "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-        "description": "Before the US president's comments, Iran expressed caution about the exact timing.",
+        "description": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Married at First Sight Australia stars not told partners had drug and violence convictions",
-        "url": "https://www.bbc.com/news/articles/clypy0ndvjlo?at_medium=RSS&at_campaign=rss",
-        "description": "Stars of the hit TV show say they did not know their on-screen husbands had previous convictions.",
+        "title": "Nigerian author accuses hospital of stalling review into her son's death",
+        "url": "https://www.bbc.com/news/articles/cgk6jzkr0xvo?at_medium=RSS&at_campaign=rss",
+        "description": "Chimamanda Ngozi Adichie's 21-month old son died in a Lagos hospital, which she says is trying to stop an inquest into the circumstances of his death.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
