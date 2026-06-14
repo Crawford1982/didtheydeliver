@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-06-14T09:31:49.874514+00:00",
+  "fetched_at": "2026-06-14T14:00:11.904774+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Cabinet ministers asked to look for cuts to fund UK defence spending increase",
-        "url": "https://www.theguardian.com/politics/2026/jun/14/cabinet-ministers-asked-to-look-for-cuts-to-fund-uk-defence-spending-increase",
-        "description": "Lisa Nandy says discussions are taking place about how to ‘keep this country safe’ after John Healey’s resignationUK politics live – latest updatesCabinet ministers have been asked to look for more...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK forces board sanctioned Russian oil tanker in English Channel for the first time, says Keir Starmer - UK politics live",
+        "title": "Zelenskyy thanks UK for intercepting Russian shadow fleet oil tanker after armed forces board vessel - as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/14/russian-shadow-fleet-oil-tanker-channel-army-marines-keir-starmer-dan-jarvis-makerfield-labour-uk-politics-latest-news-updates",
-        "description": "Prime minister says British armed forces intercepted a Russian shadow fleet vessel in the early hours of Sunday morningBritish armed forces intercept Russian shadow fleet oil tanker in ChannelConse...",
+        "description": "Keir Starmer said British armed forces intercepted a Russian shadow fleet vessel in the early hours of Sunday morningBritish armed forces intercept Russian shadow fleet oil tanker in ChannelUkraini...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Make platforms that promote violent content pay towards riot costs, Streeting says",
-        "url": "https://www.theguardian.com/politics/2026/jun/14/make-platforms-that-promote-violent-content-pay-towards-riot-costs-streeting-says",
-        "description": "Exclusive: Former minister calls for urgent action against companies such as X that allow incitement to violenceWes Streeting has called for Keir Starmer to take urgent action against X and other o...",
+        "title": "Wes Streeting plans to increase high-skilled immigration if he becomes PM",
+        "url": "https://www.theguardian.com/politics/2026/jun/14/wes-streeting-high-skilled-immigration-labour-leadership-tax-revenue-north-sea-oil-gas",
+        "description": "Leadership hopeful also wants tax revenues from new North Sea oil and gasfields used to cut energy billsWes Streeting’s pitch to be the next Labour leader will include a plan to increase high-skill...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Resident doctors cancel strike after new offer from government",
-        "url": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
-        "description": "The walkout had been due to start at 07:00 BST on Monday and last until Friday.",
+        "title": "Farage vows to ban foreign nationals from social housing as byelection looms",
+        "url": "https://www.theguardian.com/politics/2026/jun/14/nigel-farage-vows-ban-social-housing-foreign-nationals-makerfield-byelection",
+        "description": "Reform leader claims ‘anti-whiteness is institutionalised’ in UK as polls suggest Labour have lead in MakerfieldUK politics live – latest updatesNigel Farage has said he would ban foreign nationals...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Defence spending discussions ongoing, says Nandy",
+        "url": "https://www.bbc.com/news/articles/c4gyx962pepo?at_medium=RSS&at_campaign=rss",
+        "description": "Negotiations continue over defence spending, the minister says, days after John Healey resigned over funding.",
         "source": "BBC News",
         "category": "government"
       }
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
+        "title": "Wes Streeting plans to increase high-skilled immigration if he becomes PM",
+        "url": "https://www.theguardian.com/politics/2026/jun/14/wes-streeting-high-skilled-immigration-labour-leadership-tax-revenue-north-sea-oil-gas",
+        "description": "Leadership hopeful also wants tax revenues from new North Sea oil and gasfields used to cut energy billsWes Streeting’s pitch to be the next Labour leader will include a plan to increase high-skill...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Farage vows to ban foreign nationals from social housing as byelection looms",
+        "url": "https://www.theguardian.com/politics/2026/jun/14/nigel-farage-vows-ban-social-housing-foreign-nationals-makerfield-byelection",
+        "description": "Reform leader claims ‘anti-whiteness is institutionalised’ in UK as polls suggest Labour have lead in MakerfieldUK politics live – latest updatesNigel Farage has said he would ban foreign nationals...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "How Brexit has made Britain poorer – in charts",
         "url": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
         "description": "Forecasters were wrong about an immediate recession but right that we would be worse off outside the EUAs the 10th anniversary of the Brexit vote approaches, the verdict on Britain’s economic perfo...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Riots and racism: why is the UK burning?",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/13/belfast-southampton-riots-racism-why-is-the-uk-burning",
-        "description": "Claims of two-tier policing and uncontrolled immigration may not be borne out by the facts, but that has not stopped them being played up for political endsAs the people of Glengormley, on the nort...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Belfast riots trigger renewed scrutiny over loyalist paramilitary influence",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/12/belfast-riots-scrutiny-loyalist-paramilitary-influence-northern-ireland",
-        "description": "The violent disturbances occurred in a nationalist area yet played out against a backdrop of union jacksAs the racially motivated violence unfolded in Northern Ireland this week, a striking dissona...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -199,9 +199,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Switzerland votes on plan to cap population at 10 million",
-        "url": "https://www.bbc.com/news/articles/cx23kz7e76po?at_medium=RSS&at_campaign=rss",
-        "description": "The right-wing Swiss People's Party calls the plan a \"sustainability initiative\",  but opponents say it is a recipe for chaos.",
+        "title": "Swiss voters reject 10 million population cap, early projections say",
+        "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+        "description": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
