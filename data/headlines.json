@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-06-15T12:10:33.821958+00:00",
+  "fetched_at": "2026-06-15T20:54:08.728834+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Defence secretary quizzed by MPs over timing of Russian oil tanker seizure",
+        "url": "https://www.theguardian.com/politics/2026/jun/15/defence-secretary-dan-jarvis-healey-quitting-tanker-seizure",
+        "description": "Dan Jarvis says vessel tracked for several days as opposition suggest decision linked to his predecessor’s resignationDan Jarvis has told MPs that the Russian oil tanker seized on Sunday had been m...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK ministers lobby Trump to avert backlash against social media ban",
+        "url": "https://www.theguardian.com/media/2026/jun/15/uk-ministers-lobby-trump-backlash-social-media-ban",
+        "description": "No 10 is worried about retaliation from White House over restrictions to under-16s’ internet useMinisters have embarked on a concerted lobbying operation to prevent a backlash from the Trump admini...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Ban on Palestine Action was lawful, court of appeal rules",
         "url": "https://www.theguardian.com/uk-news/2026/jun/15/ban-on-palestine-action-was-lawful-court-of-appeal-rules",
@@ -10,51 +24,37 @@
         "category": "government"
       },
       {
-        "title": "Starmer says he hopes social media ban for under-16s will come into force next spring – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates",
-        "description": "Prime minister announces ban, saying social media is making children unhappy and unsafeSocial media to be banned in UK for under-16s, Starmer announcesUK parents: how do you feel about the under-16...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "‘A giant of the Labour movement’: Roy Hattersley, former Labour deputy leader, dies aged 93",
-        "url": "https://www.theguardian.com/politics/2026/jun/14/roy-hattersley-the-former-labour-deputy-leader-dies-aged-93",
-        "description": "Party grandee was MP for Birmingham Sparkbrook from 1964 until his retirement from the Commons in 1997Roy Hattersley, the former Labour deputy leader and author, has died at the age of 93.Keir Star...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Roy Hattersley, former Labour deputy leader, dies aged 93",
-        "url": "https://www.bbc.com/news/articles/cvgq1egykr9o?at_medium=RSS&at_campaign=rss",
-        "description": "Paying tribute, Sir Keir Starmer said Lord Hattersley \"was a giant of the Labour movement\".",
+        "title": "Two men found guilty over Starmer-linked arson attacks",
+        "url": "https://www.bbc.com/news/articles/c9v2yd8vk04o?at_medium=RSS&at_campaign=rss",
+        "description": "Property and a car linked to the prime minister were targeted in arson attacks last year.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "European stock markets hit record high and oil price falls to three-month low after US-Iran peace deal – business live",
+        "title": "Wall Street and European markets hit record highs and oil price falls to three-month low after US-Iran peace deal – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/15/oil-price-low-stock-markets-rally-us-iran-peace-deal-ftse-wall-street-live-news-updates",
         "description": "Rolling coverage of the latest economic and financial newsOil prices tumble amid hopes strait of Hormuz will soon reopenEuropean stock markets have hit a record high at the start of trading, as rel...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "From Bloomsbury to Whitehall: new play reimagines life of John Maynard Keynes",
-        "url": "https://www.theguardian.com/business/2026/jun/15/bloombsbury-whitehall-play-john-maynard-keynes-standard-of-living-james-graham",
-        "description": "The Standard of Living by James Graham traces economist’s influence on British politics and cultureAfter exploring the rise of Rupert Murdoch and the emergence of Gareth Southgate’s England team, J...",
+        "title": "EU trade deficit with China reaches record €1bn a day, data shows",
+        "url": "https://www.theguardian.com/business/2026/jun/15/eu-trade-deficit-with-china-record-1bn-a-day",
+        "description": "Import and export figures come as European leaders prepare to meet this week to address growing imbalanceThe EU’s trade deficit with China has reached a record €1bn (£0.8bn) a day, according to off...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Macron frames Évian G7 agenda in hope Trump will stay for whole summit",
-        "url": "https://www.theguardian.com/world/2026/jun/15/macron-evian-g7-agenda-summit-trump",
-        "description": "US president left last meeting early, but world leaders aim to end Ukraine war and push for resolution in Gaza and IranEmmanuel Macron, the host of the G7 summit in Évian-les-Bains, has framed an a...",
+        "title": "Oil and gas unlikely to return to prewar prices for months even if Hormuz reopens",
+        "url": "https://www.theguardian.com/business/2026/jun/15/return-pre-crisis-oil-gas-supplies-months-away-iran-strait-of-hormuz",
+        "description": "Markets welcome US-Iran peace deal but prices may stay high as buyers race to refill depleted emergency crude stockpilesOil prices hit three-month low and markets rallyAfter more than 100 days of t...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "The US and Iran have agreed a deal. How soon could the economy go back to normal?",
+        "title": "How could the US-Iran deal affect oil prices and the cost of food?",
         "url": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
         "description": "Experts warn the impact of the war will continue to affect the global economy for months to come.",
         "source": "BBC News",
@@ -63,23 +63,23 @@
     ],
     "nhs": [
       {
+        "title": "Cheltenham hospital admits failing man who died after using contaminated shower",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/15/cheltenham-hospital-fine-chris-elliot-died-contaminated-shower",
+        "description": "Chris Elliot was exposed to ‘lethal dose’ of bacteria while receiving chemotherapy from Gloucestershire NHS trustAn NHS trust has admitted to failing to provide safe care to a man who died after us...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Memories that snap, crackle and pop | Brief letters",
+        "url": "https://www.theguardian.com/music/2026/jun/15/memories-that-snap-crackle-and-pop",
+        "description": "Analogue music | Football songs | Money matters | Medical mysteries | Vintage comedy The communications lecturer ARE Taylor believes old media formats are “presented as the remedy for our digital a...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Why diagnostic test waiting lists are so long | Letter",
         "url": "https://www.theguardian.com/society/2026/jun/14/why-diagnostic-test-waiting-lists-are-so-long",
         "description": "Without investment in more radiographers, NHS waiting lists will continue to rise inexorably, says CEO of the Society and College of Radiographers, Richard EvansIn your article (Record number of pe...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "NHS staff battling wave of food supplement disinformation",
-        "url": "https://www.theguardian.com/society/2026/jun/14/nhs-staff-food-supplement-disinformation-cancer-charity-social-media",
-        "description": "Exclusive: Cancer charity says dispelling falsehoods gleaned from social media is now routine task for cliniciansSocial media misinformation about the use of dietary supplements such as turmeric, S...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Resident doctors in England call off strike action after new government offer",
-        "url": "https://www.theguardian.com/society/2026/jun/13/resident-doctors-in-england-call-off-strike-action-after-new-government-offer",
-        "description": "Last-minute offer to be put to members is understood to include an average 6.6% pay upliftResident doctors in England have called off strike action after the government made a new offer which will ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -100,16 +100,16 @@
         "category": "immigration"
       },
       {
-        "title": "Starmer says he hopes social media ban for under-16s will come into force next spring – UK politics live",
+        "title": "Technology secretary says she wants regulator to design plans for online age verification by October – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates",
-        "description": "Prime minister announces ban, saying social media is making children unhappy and unsafeSocial media to be banned in UK for under-16s, Starmer announcesUK parents: how do you feel about the under-16...",
+        "description": "Liz Kendall also wants Ofcom to report to parliament every year on how effectively social media firms are keeping under-16s off their platformsStarmer acknowledges some teenagers will get round the...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Wes Streeting plans to increase high-skilled immigration if he becomes PM",
-        "url": "https://www.theguardian.com/politics/2026/jun/14/wes-streeting-high-skilled-immigration-labour-leadership-tax-revenue-north-sea-oil-gas",
-        "description": "Leadership hopeful also wants tax revenues from new North Sea oil and gasfields used to cut energy billsWes Streeting’s pitch to be the next Labour leader will include a plan to increase high-skill...",
+        "title": "Reform UK’s Honest Bob makes a stand for the little people like him | John Crace",
+        "url": "https://www.theguardian.com/politics/2026/jun/15/reform-uk-robert-jenrick-little-people-like-him",
+        "description": "It fell to Robert Jenrick to announce his party’s plans to lift white British people from the bottom of the pileNow is not a good time to be a white Brit born in this country. Nigel Farage is clear...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,7 +146,14 @@
     ],
     "education": [
       {
-        "title": "Attacks on education, pupils and staff around the world up by 40%, says study",
+        "title": "University of Cambridge accused of tolerating misogyny and bullying in tribunal",
+        "url": "https://www.theguardian.com/education/2026/jun/15/university-of-cambridge-accused-of-tolerating-misogyny-and-bullying-in-tribunal",
+        "description": "Professor alleges Institute of Astronomy has a ‘bad history of misogyny’ and staff were mistreatedThe University of Cambridge’s prestigious Institute of Astronomy has been accused of tolerating mis...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Violent attacks on schools, pupils and staff around the world up by 40%, says study",
         "url": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
         "description": "Cases reported in 83 countries, with at least 10,600 students and staff killed, injured, abducted or arrested, GCPEA saysAttacks on education globally have surged by 40% with more than 8,556 record...",
         "source": "The Guardian",
@@ -158,57 +165,50 @@
         "description": "Funding for extracurricular activities comes as ministers prepare to introduce social media restrictions for under-16sThe government has announced a £132.5m funding package for after-school clubs a...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time",
-        "url": "https://www.theguardian.com/society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time",
-        "description": "Other projects include developing tools to help visually impaired people navigate video games  Parents are constantly being told to limit their children’s screen time. But when it comes to decipher...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "An absurd illustration of Britain’s housing problem | Letters",
+        "url": "https://www.theguardian.com/society/2026/jun/15/an-absurd-illustration-of-britains-housing-problem",
+        "description": "Readers respond to an article about what was once the UK’s most expensive house, which has lain empty for yearsGrand properties lying empty when we’re in the midst of a housing crisis is ludicrous....",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "The politics of intergenerational wealth inequality | Letters",
+        "url": "https://www.theguardian.com/inequality/2026/jun/15/the-politics-of-intergenerational-wealth-inequality",
+        "description": "Dr Rajiv Prabhakar assesses the best age at which grants should be provided to young people, while Jeremy Galtress argues against redistributionPolly Toynbee discusses capital grants for the young ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "The cruel policy that left councils unable to house families in London | Letter",
         "url": "https://www.theguardian.com/society/2026/jun/11/the-cruel-policy-that-left-councils-unable-to-house-families-in-london",
         "description": "Stephen Pound says local authorities had to sell off housing stock but were not allowed to spend the proceeds on replacing the lost homesYour report (Ministers could ban London councils ‘dumping’ h...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "London council seizes social housing flat rented by Sierra Leone first lady",
-        "url": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
-        "description": "Fatima Jabbe-Bio kept tenancy in Southwark despite living for much of year at presidential lodge in FreetownA social housing flat rented by Sierra Leone’s first lady has been seized by a London cou...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "AI wealth boom sending San Francisco home prices surging: ‘It’s ridiculous’",
-        "url": "https://www.theguardian.com/us-news/2026/jun/11/ai-wealth-boom-san-francisco-home-prices",
-        "description": "Employees at artificial intelligence companies are coming into gargantuan sums of money amid boom in IPOsHome prices in the San Francisco Bay Area’s already expensive market are skyrocketing as emp...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Oil prices fall and shares jump after US-Iran deal announced",
-        "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-        "description": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
+        "title": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+        "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+        "description": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
         "title": "Norwegian crown princess's son found guilty of two counts of rape",
         "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
-        "description": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been found guilty of two counts of rape and given four years in jail.",
+        "description": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been sentenced to four years in jail.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
-        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
-        "description": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
+        "title": "Brazil woman dies after rope-jumping instructors fail to attach cord",
+        "url": "https://www.bbc.com/news/articles/c5yz4xelnveo?at_medium=RSS&at_campaign=rss",
+        "description": "Three men have been arrested after instructors failed to attach a rope to her before helping her jump from a bridge.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
