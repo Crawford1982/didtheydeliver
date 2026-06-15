@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-14T19:24:55.209553+00:00",
+  "fetched_at": "2026-06-15T04:10:45.185887+00:00",
   "headlines": {
     "government": [
       {
@@ -17,21 +17,28 @@
         "category": "government"
       },
       {
-        "title": "Ministers could give billions raised by business rates to England’s regions",
-        "url": "https://www.theguardian.com/politics/2026/jun/14/ministers-could-give-billions-raised-by-business-rates-to-englands-regions",
-        "description": "Exclusive: devolving tax is part of plans to give local areas more power in areas including justice, health and educationMinisters are considering handing over billions of pounds raised by business...",
+        "title": "‘A giant of the labour movement’: Roy Hattersley, former Labour deputy leader, dies aged 93",
+        "url": "https://www.theguardian.com/politics/2026/jun/14/roy-hattersley-the-former-labour-deputy-leader-dies-aged-93",
+        "description": "Labour grandee was MP for Birmingham Sparkbrook from 1964 until his retirement from the Commons in 1997Roy Hattersley, the former Labour deputy leader and author, has died at the age of 93.Keir Sta...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Defence spending discussions ongoing, says minister",
-        "url": "https://www.bbc.com/news/articles/c4gyx962pepo?at_medium=RSS&at_campaign=rss",
-        "description": "Negotiations continue over defence spending, Lisa Nandy says, days after John Healey resigned over funding.",
+        "title": "Starmer set to ban under-16s from major social media platforms",
+        "url": "https://www.bbc.com/news/articles/cly7njlw95qo?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister promises \"bold action\" ahead of Monday's announcement on restrictions for children.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Macron frames Évian G7 agenda in hope Trump will stay for whole summit",
+        "url": "https://www.theguardian.com/world/2026/jun/15/macron-evian-g7-agenda-summit-trump",
+        "description": "US president left last meeting early, but world leaders aim to end Ukraine war and push for resolution in Gaza and IranEmmanuel Macron, the host of the G7 summit in Évian-les-Bains, has framed an a...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "How Brexit has made Britain poorer – in charts",
         "url": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Elon Musk becomes world’s first trillionaire as SpaceX ends trading day with valuation of $2.1tn – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
-        "description": "One economist says Musk’s world-first level of extreme wealth highlights massive economic disparities and could have profound effects on societySpaceX’s shares will be supported by a number of “for...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK electric car sales target set to be weakened",
-        "url": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss",
-        "description": "The new target hasn't yet been decided, with different numbers under consideration, the BBC understands.",
+        "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+        "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+        "description": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Resident doctors cancel strike after new offer from government",
-        "url": "https://www.bbc.com/news/articles/cj9g1wgxng2o?at_medium=RSS&at_campaign=rss",
-        "description": "The walkout had been due to start at 07:00 BST on Monday and last until Friday.",
+        "title": "Why you might not be buying the right pain relief for period cramps",
+        "url": "https://www.bbc.com/news/articles/c932pex1vpwo?at_medium=RSS&at_campaign=rss",
+        "description": "Many women are buying less effective pain medication for period cramps, supermarket data suggests.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Israeli military says Hezbollah targets struck in Beirut",
-        "url": "https://www.bbc.com/news/articles/czj83zlx1vjo?at_medium=RSS&at_campaign=rss",
-        "description": "Israel says it targeted the Iran-backed armed group Hezbollah, as Tehran warns this could derail a US-Iran deal to end the fighting.",
+        "title": "Trump heralds Iran deal but questions - and risks - remain",
+        "url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+        "description": "The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Swiss voters reject 10 million population cap",
-        "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
-        "description": "Nearly 55% of participants voted against the proposal to cap population by cutting migration, results show.",
+        "title": "US-Iran deal eases uncertainty over the war - but there is much still to play out",
+        "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
+        "description": "Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Teen shot and buses torched in Manhattan after historic NBA win for Knicks",
-        "url": "https://www.bbc.com/news/articles/c8623n5pq2vo?at_medium=RSS&at_campaign=rss",
-        "description": "At least 63 people were arrested in the disorder after the Knicks beat the Spurs to clinch the title.",
+        "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+        "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+        "description": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
