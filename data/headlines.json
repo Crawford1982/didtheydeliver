@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-06-15T04:10:45.185887+00:00",
+  "fetched_at": "2026-06-15T12:10:33.821958+00:00",
   "headlines": {
     "government": [
       {
-        "title": "New defence secretary to ‘reprioritise’ UK plan for military spending, say sources",
-        "url": "https://www.theguardian.com/politics/2026/jun/14/defence-secretary-dan-jarvis-uk-plan-military-spending-dip",
-        "description": "Starmer ‘can’t sack him or let him resign’, says ally of Dan Jarvis after predecessor’s resignation The new defence secretary is to revisit a controversial plan for funding the armed forces and may...",
+        "title": "Ban on Palestine Action was lawful, court of appeal rules",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/15/ban-on-palestine-action-was-lawful-court-of-appeal-rules",
+        "description": "Judges overturn decision of high court that government proscription of group under Terrorism Act was wrongThe home secretary’s decision to ban Palestine Action was lawful, the court of appeal has r...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer to announce ‘Australia plus’ ban on social media for under-16s",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/14/starmer-to-announce-australia-plus-ban-on-social-media-for-under-16s",
-        "description": "Sources say hardline measures will also prevent young users from being able to talk to strangers on gaming appsWhy is the UK launching an ‘Australia plus’ social media ban and how will it work?Keir...",
+        "title": "Starmer says he hopes social media ban for under-16s will come into force next spring – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates",
+        "description": "Prime minister announces ban, saying social media is making children unhappy and unsafeSocial media to be banned in UK for under-16s, Starmer announcesUK parents: how do you feel about the under-16...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "‘A giant of the labour movement’: Roy Hattersley, former Labour deputy leader, dies aged 93",
+        "title": "‘A giant of the Labour movement’: Roy Hattersley, former Labour deputy leader, dies aged 93",
         "url": "https://www.theguardian.com/politics/2026/jun/14/roy-hattersley-the-former-labour-deputy-leader-dies-aged-93",
-        "description": "Labour grandee was MP for Birmingham Sparkbrook from 1964 until his retirement from the Commons in 1997Roy Hattersley, the former Labour deputy leader and author, has died at the age of 93.Keir Sta...",
+        "description": "Party grandee was MP for Birmingham Sparkbrook from 1964 until his retirement from the Commons in 1997Roy Hattersley, the former Labour deputy leader and author, has died at the age of 93.Keir Star...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer set to ban under-16s from major social media platforms",
-        "url": "https://www.bbc.com/news/articles/cly7njlw95qo?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister promises \"bold action\" ahead of Monday's announcement on restrictions for children.",
+        "title": "Roy Hattersley, former Labour deputy leader, dies aged 93",
+        "url": "https://www.bbc.com/news/articles/cvgq1egykr9o?at_medium=RSS&at_campaign=rss",
+        "description": "Paying tribute, Sir Keir Starmer said Lord Hattersley \"was a giant of the Labour movement\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "European stock markets hit record high and oil price falls to three-month low after US-Iran peace deal – business live",
+        "url": "https://www.theguardian.com/business/live/2026/jun/15/oil-price-low-stock-markets-rally-us-iran-peace-deal-ftse-wall-street-live-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsOil prices tumble amid hopes strait of Hormuz will soon reopenEuropean stock markets have hit a record high at the start of trading, as rel...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "From Bloomsbury to Whitehall: new play reimagines life of John Maynard Keynes",
+        "url": "https://www.theguardian.com/business/2026/jun/15/bloombsbury-whitehall-play-john-maynard-keynes-standard-of-living-james-graham",
+        "description": "The Standard of Living by James Graham traces economist’s influence on British politics and cultureAfter exploring the rise of Rupert Murdoch and the emergence of Gareth Southgate’s England team, J...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Macron frames Évian G7 agenda in hope Trump will stay for whole summit",
         "url": "https://www.theguardian.com/world/2026/jun/15/macron-evian-g7-agenda-summit-trump",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "How Brexit has made Britain poorer – in charts",
-        "url": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
-        "description": "Forecasters were wrong about an immediate recession but right that we would be worse off outside the EUAs the 10th anniversary of the Brexit vote approaches, the verdict on Britain’s economic perfo...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "The case for Labour to introduce a wealth tax has never been stronger | Phillip Inman",
-        "url": "https://www.theguardian.com/politics/2026/jun/13/labour-introduce-wealth-tax-case-never-been-stronger",
-        "description": "A 2% levy on fortunes above £100m – with no exemptions – could begin to reverse decades of rising inequalityAndy Burnham and Wes Streeting have sought to blunt the Green leader Zack Polanski’s popu...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil prices slide after Pakistan announces deal between US and Iran",
-        "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-        "description": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
+        "title": "The US and Iran have agreed a deal. How soon could the economy go back to normal?",
+        "url": "https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss",
+        "description": "Experts warn the impact of the war will continue to affect the global economy for months to come.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
+        "title": "Jenrick rebuked for not providing evidence to asylum detention inquiry",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/15/robert-jenrick-rebuked-manston-detention-centre-asylum-inquiry",
+        "description": "Former immigration minister criticised by inquiry chair for failing to give statement about ‘wretched’ Manston siteThe former Conservative immigration minister Robert Jenrick has been rebuked by th...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Starmer says he hopes social media ban for under-16s will come into force next spring – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates",
+        "description": "Prime minister announces ban, saying social media is making children unhappy and unsafeSocial media to be banned in UK for under-16s, Starmer announcesUK parents: how do you feel about the under-16...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Wes Streeting plans to increase high-skilled immigration if he becomes PM",
         "url": "https://www.theguardian.com/politics/2026/jun/14/wes-streeting-high-skilled-immigration-labour-leadership-tax-revenue-north-sea-oil-gas",
         "description": "Leadership hopeful also wants tax revenues from new North Sea oil and gasfields used to cut energy billsWes Streeting’s pitch to be the next Labour leader will include a plan to increase high-skill...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Farage vows to ban foreign nationals from social housing as byelection looms",
-        "url": "https://www.theguardian.com/politics/2026/jun/14/nigel-farage-vows-ban-social-housing-foreign-nationals-makerfield-byelection",
-        "description": "Reform leader claims ‘anti-whiteness is institutionalised’ in UK as polls suggest Labour have lead in MakerfieldNigel Farage has said he would ban foreign nationals from social housing and then dep...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "How Brexit has made Britain poorer – in charts",
-        "url": "https://www.theguardian.com/politics/2026/jun/14/how-uk-economy-changed-since-brexit-vote-charts",
-        "description": "Forecasters were wrong about an immediate recession but right that we would be worse off outside the EUAs the 10th anniversary of the Brexit vote approaches, the verdict on Britain’s economic perfo...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Attacks on education, pupils and staff around the world up by 40%, says study",
+        "url": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
+        "description": "Cases reported in 83 countries, with at least 10,600 students and staff killed, injured, abducted or arrested, GCPEA saysAttacks on education globally have surged by 40% with more than 8,556 record...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "UK government announces £132.5m after-school clubs package",
         "url": "https://www.theguardian.com/education/2026/jun/13/uk-government-announces-1325m-after-school-clubs-package",
         "description": "Funding for extracurricular activities comes as ministers prepare to introduce social media restrictions for under-16sThe government has announced a £132.5m funding package for after-school clubs a...",
@@ -156,13 +163,6 @@
         "title": "Pioneering UK Nerve Lab harnesses AI to map effect of children’s screen time",
         "url": "https://www.theguardian.com/society/2026/jun/13/nerve-lab-uk-ai-brain-scanning-tech-childrens-screen-time",
         "description": "Other projects include developing tools to help visually impaired people navigate video games  Parents are constantly being told to limit their children’s screen time. But when it comes to decipher...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "UK school leavers and new students to be offered meningitis B vaccine",
-        "url": "https://www.theguardian.com/society/2026/jun/12/uk-school-leavers-and-new-students-to-be-offered-meningitis-b-vaccine",
-        "description": "One-off programme to begin in July after recent MenB outbreaks in Kent, Dorset and Berkshire killed three peopleTeenagers in their final school year and young people starting university will be off...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump heralds Iran deal but questions - and risks - remain",
-        "url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
-        "description": "The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US-Iran deal eases uncertainty over the war - but there is much still to play out",
-        "url": "https://www.bbc.com/news/articles/cd952n4qz2qo?at_medium=RSS&at_campaign=rss",
-        "description": "Pakistan says the deal includes Lebanon, but recent ceasefires there have failed to take hold.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Oil prices slide after Pakistan announces deal between US and Iran",
+        "title": "Oil prices fall and shares jump after US-Iran deal announced",
         "url": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
         "description": "Under the agreement, the key Strait of Hormuz waterway will be reopened, US President Donald Trump said.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Norwegian crown princess's son found guilty of two counts of rape",
+        "url": "https://www.bbc.com/news/articles/cly9d10l5p4o?at_medium=RSS&at_campaign=rss",
+        "description": "Marius Borg Høiby, the 29-year-old son of Norway's Crown Princess Mette Marit, has been found guilty of two counts of rape and given four years in jail.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
+        "url": "https://www.bbc.com/news/articles/c4gy037gjz3o?at_medium=RSS&at_campaign=rss",
+        "description": "A Ukrainian drone attack in the Russian city of Tula, south of Moscow, killed three people.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
