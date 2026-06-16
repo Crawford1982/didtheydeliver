@@ -1,14 +1,7 @@
 {
-  "fetched_at": "2026-06-16T16:49:23.548604+00:00",
+  "fetched_at": "2026-06-16T20:48:51.559372+00:00",
   "headlines": {
     "government": [
-      {
-        "title": "UK defence spending plan ‘well short of what’s required’ and harder choices needed, says John Healey - UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/16/andy-burnham-makerfield-labour-reform-keir-starmer-uk-politics-latest-news-updates",
-        "description": "Ex-defence secretary John Healey and ex-defence minister Al Carns have given resignation statements to MPsSpeaking to reporters at the G7, Keir Starmer also defended the defence investment plan (DI...",
-        "source": "The Guardian",
-        "category": "government"
-      },
       {
         "title": "Farage’s plan for equal pay legislation may cost female workers money, say unions",
         "url": "https://www.theguardian.com/politics/2026/jun/16/farages-plan-for-equal-pay-legislation-may-cost-female-workers-money-say-unions",
@@ -17,9 +10,16 @@
         "category": "government"
       },
       {
-        "title": "Refugee groups condemn Tory plan to remove judges from asylum appeals",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/16/conservatives-plan-remove-judges-asylum-appeals",
-        "description": "Conservatives accused of attack on ‘crucial safeguards’ and of fostering ‘climate of hostility’ towards judiciaryUK politics live – latest updatesRefugee groups and lawyers have described Conservat...",
+        "title": "UK defence spending plan ‘well short of what’s required’ and harder choices needed, says John Healey - as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/16/andy-burnham-makerfield-labour-reform-keir-starmer-uk-politics-latest-news-updates",
+        "description": "Ex-defence secretary John Healey and ex-defence minister Al Carns have given resignation statements to MPsSpeaking to reporters at the G7, Keir Starmer also defended the defence investment plan (DI...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "EU and UK announce summit to discuss ‘reset’ in post-Brexit relations",
+        "url": "https://www.theguardian.com/world/2026/jun/16/eu-uk-announce-summit-reset-post-brexit-relations",
+        "description": "Meeting was delayed over details of youth mobility scheme allowing under-30s freedom to work and study in each other’s territoryThe EU and the UK have announced they will hold their next summit to ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "US small business owners: how are you operating in the current economic climate?",
+        "url": "https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout",
+        "description": "We would like to hear from small business owners in the US about how they’re adapting to challenges such as inflationAn index of US small business optimism reportedly fell in May to the lowest leve...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Brent crude falls to three-month low below $80 as Iranian oil tankers ‘resume shipping’ – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "RBA interest rates: Reserve Bank holds official cash rate at 4.35%",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/16/rba-interest-rate-announcement-decision-cash-rates-economy-unemployment-inflation",
-        "description": "Reserve Bank of Australia decision on Tuesday comes after three consecutive cash rate hikes this yearFollow our Australia news live blog for latest updatesGet our breaking news email, free app or d...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
         "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
         "description": "Elon Musk's rocket firm has overtaken the retail and media empire in value after a surge in its share price.",
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "Lack of learning-disability nurses in UK is an ‘absolute crisis’, says union",
+        "url": "https://www.theguardian.com/society/2026/jun/16/uk-learning-disability-nurses-nhs",
+        "description": "Exclusive: Royal College of Nursing says 1.5m vulnerable people not getting the right care, as specialism is ‘consistently undermined’The specialist learning-disability nurse workforce is in “absol...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Champion swimmer with rare brain cancer urges UK to do more to help people with condition",
         "url": "https://www.theguardian.com/society/2026/jun/16/champion-swimmer-archie-goodburn-rare-brain-cancer-uk-more-help",
@@ -73,13 +80,6 @@
         "title": "Cheltenham hospital admits failing man who died after using contaminated shower",
         "url": "https://www.theguardian.com/uk-news/2026/jun/15/cheltenham-hospital-fine-chris-elliot-died-contaminated-shower",
         "description": "Chris Elliot was exposed to ‘lethal dose’ of bacteria while receiving chemotherapy from Gloucestershire NHS trustAn NHS trust has admitted to failing to provide safe care to a man who died after us...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Memories that snap, crackle and pop | Brief letters",
-        "url": "https://www.theguardian.com/music/2026/jun/15/memories-that-snap-crackle-and-pop",
-        "description": "Analogue music | Football songs | Money matters | Medical mysteries | Vintage comedy The communications lecturer ARE Taylor believes old media formats are “presented as the remedy for our digital a...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -100,16 +100,16 @@
         "category": "immigration"
       },
       {
-        "title": "Technology secretary says she wants regulator to design plans for online age verification by October – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates",
-        "description": "Liz Kendall also wants Ofcom to report to parliament every year on how effectively social media firms are keeping under-16s off their platformsStarmer acknowledges some teenagers will get round the...",
+        "title": "Indifference to suffering amid Belfast riots | Letter",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/16/indifference-to-suffering-amid-belfast-riots",
+        "description": "When I told an old friend about the horrific story of a Romanian family with two children being forced out of their home by last week’s violence, he showed a worrying lack of concernLast Tuesday ev...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Reform UK’s Honest Bob makes a stand for the little people like him | John Crace",
-        "url": "https://www.theguardian.com/politics/2026/jun/15/reform-uk-robert-jenrick-little-people-like-him",
-        "description": "It fell to Robert Jenrick to announce his party’s plans to lift white British people from the bottom of the pileNow is not a good time to be a white Brit born in this country. Nigel Farage is clear...",
+        "title": "Technology secretary says she wants regulator to design plans for online age verification by October – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates",
+        "description": "Liz Kendall also wants Ofcom to report to parliament every year on how effectively social media firms are keeping under-16s off their platformsStarmer acknowledges some teenagers will get round the...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -169,13 +169,6 @@
     ],
     "housing": [
       {
-        "title": "An absurd illustration of Britain’s housing problem | Letters",
-        "url": "https://www.theguardian.com/society/2026/jun/15/an-absurd-illustration-of-britains-housing-problem",
-        "description": "Readers respond to an article about what was once the UK’s most expensive house, which has lain empty for yearsGrand properties lying empty when we’re in the midst of a housing crisis is ludicrous....",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
         "title": "‘The developers got greedy’: the women who took on the leasehold scandal – and won",
         "url": "https://www.theguardian.com/lifeandstyle/2026/jun/16/developers-greedy-leasehold-scandal-campaign-women",
         "description": "Katie Kendrick, Cath Williams and Jo Darbyshire were subject to tens of thousands of pounds of hidden costs as their new-build freeholds soared in value, making their homes unsellable. Their campai...",
@@ -188,16 +181,16 @@
         "description": "The UK has its own progressive policies such as the second home and ‘mansion’ taxes. So why isn’t the PM shouting it from the rooftops?In April, to mark the day on which Americans are expected to f...",
         "source": "The Guardian",
         "category": "housing"
+      },
+      {
+        "title": "An absurd illustration of Britain’s housing problem | Letters",
+        "url": "https://www.theguardian.com/society/2026/jun/15/an-absurd-illustration-of-britains-housing-problem",
+        "description": "Readers respond to an article about what was once the UK’s most expensive house, which has lain empty for yearsGrand properties lying empty when we’re in the midst of a housing crisis is ludicrous....",
+        "source": "The Guardian",
+        "category": "housing"
       }
     ],
     "foreign_policy": [
-      {
-        "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
-        "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
       {
         "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
         "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
@@ -209,6 +202,13 @@
         "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
         "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
         "description": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+        "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
