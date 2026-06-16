@@ -1,39 +1,39 @@
 {
-  "fetched_at": "2026-06-16T11:08:20.264190+00:00",
+  "fetched_at": "2026-06-16T16:49:23.548604+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Thames Water nationalisation moves closer as government ‘objects to rescue deal’",
-        "url": "https://www.theguardian.com/business/2026/jun/16/thames-water-nationalisation-rescue-deal-ofwat",
-        "description": "Environment secretary reportedly raises concerns that customers would face ‘undue burden’ from £10bn planThames Water should be nationalised, says BurnhamBusiness live – latest updatesThe UK enviro...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Streeting warns against ‘expensive’ pledges in Labour leadership contest and defends bond markets – UK politics live",
+        "title": "UK defence spending plan ‘well short of what’s required’ and harder choices needed, says John Healey - UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/16/andy-burnham-makerfield-labour-reform-keir-starmer-uk-politics-latest-news-updates",
-        "description": "Leadership hopeful voices thinly-veiled criticism of Andy Burnham during speech on ‘progressive capitalism’Keir Starmer has welcomed the conviction of two men convicted of conspiring to carry out a...",
+        "description": "Ex-defence secretary John Healey and ex-defence minister Al Carns have given resignation statements to MPsSpeaking to reporters at the G7, Keir Starmer also defended the defence investment plan (DI...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK ministers lobby Trump to avert backlash against social media ban",
-        "url": "https://www.theguardian.com/media/2026/jun/15/uk-ministers-lobby-trump-backlash-social-media-ban",
-        "description": "No 10 is worried about retaliation from White House over restrictions on under-16s’ internet useMinisters have embarked on a concerted lobbying operation to prevent a backlash from the Trump admini...",
+        "title": "Farage’s plan for equal pay legislation may cost female workers money, say unions",
+        "url": "https://www.theguardian.com/politics/2026/jun/16/farages-plan-for-equal-pay-legislation-may-cost-female-workers-money-say-unions",
+        "description": "General secretary of TUC calls Reform proposal ‘a smokescreen for slashing women’s rights’UK politics live – latest updatesA law proposed by Nigel Farage to “strengthen women’s rights” could cost f...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
-        "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
-        "description": "The environment secretary says the deal does not do enough for consumers or the environment.",
+        "title": "Refugee groups condemn Tory plan to remove judges from asylum appeals",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/16/conservatives-plan-remove-judges-asylum-appeals",
+        "description": "Conservatives accused of attack on ‘crucial safeguards’ and of fostering ‘climate of hostility’ towards judiciaryUK politics live – latest updatesRefugee groups and lawyers have described Conservat...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK forces face operational cuts without more cash, defence chief warns",
+        "url": "https://www.bbc.com/news/articles/c20ydx06ym2o?at_medium=RSS&at_campaign=rss",
+        "description": "It comes as ex-defence secretary John Healey says the UK's enemies \"do not follow timetables set by the Treasury\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Oil price hits lowest since early March despite doubts over how quickly strait of Hormuz will reopen – business live",
+        "title": "Brent crude falls to three-month low below $80 as Iranian oil tankers ‘resume shipping’ – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/16/japan-hikes-interest-rates-inflation-iran-war-thames-water-rescue-nationalisation-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial newsOver at the G7 summit in Évian-les-Bains, European allies don’t appear to share Donald Trump’s optimism that the strait of Hormuz will reop...",
         "source": "The Guardian",
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Thames Water moves step closer to nationalisation after government objects to rescue deal",
-        "url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss",
-        "description": "The environment secretary says the deal does not do enough for consumers or the environment.",
+        "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
+        "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
+        "description": "Elon Musk's rocket firm has overtaken the retail and media empire in value after a surge in its share price.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Refugee groups condemn Tory plan to remove judges from asylum appeals",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/16/conservatives-plan-remove-judges-asylum-appeals",
+        "description": "Conservatives accused of attack on ‘crucial safeguards’ and of fostering ‘climate of hostility’ towards judiciaryUK politics live – latest updatesRefugee groups and lawyers have described Conservat...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Technology secretary says she wants regulator to design plans for online age verification by October – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates",
         "description": "Liz Kendall also wants Ofcom to report to parliament every year on how effectively social media firms are keeping under-16s off their platformsStarmer acknowledges some teenagers will get round the...",
@@ -105,34 +112,27 @@
         "description": "It fell to Robert Jenrick to announce his party’s plans to lift white British people from the bottom of the pileNow is not a good time to be a white Brit born in this country. Nigel Farage is clear...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Jenrick rebuked for not providing evidence to asylum detention inquiry",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/15/robert-jenrick-rebuked-manston-detention-centre-asylum-inquiry",
-        "description": "Former immigration minister criticised by inquiry chair for failing to give statement about ‘wretched’ Manston siteThe former Conservative immigration minister Robert Jenrick has been rebuked by th...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
+        "title": "US lawmakers fight Trump cuts to $386m ocean monitoring program: ‘supreme stupidity’",
+        "url": "https://www.theguardian.com/us-news/2026/jun/16/ocean-monitoring-cuts-trump",
+        "description": "Lisa Murkowski, a Republican senator, joins Democrats in bid to stop dismantling of Ocean Observatories InitiativeUS politics live – latest updatesA group of Democratic senators and one Republican,...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "‘At first, the idea does sound crazy’: meet the scientists trying to refreeze the Arctic",
+        "url": "https://www.theguardian.com/environment/2026/jun/16/arctic-sea-ice-rethickening-climate-geoengineering",
+        "description": "Sea ice is melting fast, worsening the climate crisis, but a bold attempt to rethicken it is showing early signs of success ‘This would have been a wild dream a year ago,” says Andrea Ceccolini, st...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "BoM forecasts strong El Niño and warns climate change could amplify effects on Australia",
         "url": "https://www.theguardian.com/environment/2026/jun/16/australia-el-nino-bom-bureau-of-meteorology-dry-hot-weather",
         "description": "El Niño events linked with extreme weather around the world – and can increase risk of bushfires in Australia and coral bleaching on Great Barrier ReefFollow our Australia news live blog for latest...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Half of world’s children exposed to at least three climate hazards, Unicef says",
-        "url": "https://www.theguardian.com/environment/2026/jun/16/half-of-worlds-children-exposed-to-at-least-three-climate-hazards-unicef-says",
-        "description": "Almost every child, including those from high-income countries, is now exposed to at least one hazardHalf of the world’s children are exposed to at least three overlapping climate hazards threateni...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Tropical heron spotted in UK for first time as more exotic birds arrive to thrill birdwatchers",
-        "url": "https://www.theguardian.com/environment/2026/jun/13/tropical-heron-spotted-first-time-uk-aoe",
-        "description": "Appearance of a western reef heron in north Wales is unlikely to be the last, as heating temperatures mean species can survive Britain’s winter, say expertsIt is a tropical bird typically encounter...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Some college, no degree: the Americans who find it impossible to graduate",
+        "url": "https://www.theguardian.com/education/ng-interactive/2026/jun/16/college-student-drop-out-stories",
+        "description": "They all begin college with hope, and leave without the credential they believed would shape the rest of their lives due to financial instability, family, illnessStory and photographs by Rachel Buj...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "University of Cambridge accused of tolerating misogyny and bullying in tribunal",
         "url": "https://www.theguardian.com/education/2026/jun/15/university-of-cambridge-accused-of-tolerating-misogyny-and-bullying-in-tribunal",
         "description": "Professor alleges Institute of Astronomy has a ‘bad history of misogyny’ and staff were mistreatedThe University of Cambridge’s prestigious Institute of Astronomy has been accused of tolerating mis...",
@@ -156,13 +163,6 @@
         "title": "Violent attacks on schools, pupils and staff around the world up by 40%, says study",
         "url": "https://www.theguardian.com/global-development/2026/jun/15/global-attacks-killing-abductions-education-pupils-staff-up-40pc-gcpea-study",
         "description": "Cases reported in 83 countries, with at least 10,600 students and staff killed, injured, abducted or arrested, GCPEA saysAttacks on education globally have surged by 40% with more than 8,556 record...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "UK government announces £132.5m after-school clubs package",
-        "url": "https://www.theguardian.com/education/2026/jun/13/uk-government-announces-1325m-after-school-clubs-package",
-        "description": "Funding for extracurricular activities comes as ministers prepare to introduce social media restrictions for under-16sThe government has announced a £132.5m funding package for after-school clubs a...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Iran deal presents political nightmare for Netanyahu",
-        "url": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
-        "description": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
+        "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
+        "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Eight dead after US Air Force B-52 bomber crashes in California",
-        "url": "https://www.bbc.com/news/articles/cqx10yql319o?at_medium=RSS&at_campaign=rss",
-        "description": "The incident occurred on Monday morning while the aircraft had been on a routine test mission.",
+        "title": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+        "url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
+        "description": "For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Japan raises interest rate to highest for 31 years",
-        "url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss",
-        "description": "The Bank of Japan has been raising rates from near-zero since 2024.",
+        "title": "Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions",
+        "url": "https://www.bbc.com/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
+        "description": "Many Lebanese remain doubtful that the agreement could finally mean the end of the fighting between Israel and Hezbollah.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
