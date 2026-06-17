@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-17T15:26:00.454377+00:00",
+  "fetched_at": "2026-06-17T20:10:37.578236+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Labour MP pushes Burnham to launch leadership bid ‘really quickly’ after Makerfield byelection result – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/17/keir-starmer-labour-leadership-contest-andy-burnham-makerfield-byelection-wes-streeting-latest-news-updates",
-        "description": "Rachael Maskell said she hoped Andy Burnham could become prime minister before the Labour party conference in SeptemberAndy Burnham may have trouble getting through to Keir Starmer if he tries ring...",
+        "title": "Burnham team tell ministers to delay resignations to avoid chaos",
+        "url": "https://www.theguardian.com/politics/2026/jun/17/exclusive-burnham-team-convince-ministers-delay-resignations-avoid-chaos",
+        "description": "Exclusive: Allies of Labour’s Makerfield candidate concerned rapid collapse of Starmer government would increase instability Andy Burnham’s campaign has been forced to talk ministers out of resigni...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Legislation proposed to stop ‘lawfare’ targeting journalists and whistleblowers",
-        "url": "https://www.theguardian.com/media/2026/jun/17/slapps-legislation-stop-lawfare-journalists-whistleblowers",
-        "description": "Private members’ bills to crack down on use of Slapps are likely to attract cross-party supportA coordinated push to protect whistleblowers, journalists and victims of sexual assault from being sue...",
+        "title": "UK officials expect Russia to retaliate for seizure of shadow fleet oil tanker",
+        "url": "https://www.theguardian.com/politics/2026/jun/17/uk-expect-russia-retaliate-seizure-shadow-fleet-oil-tanker-smyrtos",
+        "description": "No formal warning issued to captains or ship owners, but industry body says they are exercising greater vigilanceBritish officials believe Russia will try to retaliate for the Royal Marines’ seizur...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Top teaching union backs Burnham as Labour’s best chance of beating Reform",
-        "url": "https://www.theguardian.com/politics/2026/jun/17/top-teaching-union-backs-burnham-as-labours-best-chance-of-beating-reform",
-        "description": "Exclusive: NASUWT leader Matt Wrack also calls for more robust change from the government on education policyUK politics live – latest updatesThe leader of one of the country’s biggest teaching uni...",
+        "title": "French police authorised to use water cannon on asylum seekers in £660m deal with UK",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/17/french-police-in-660m-deal-with-uk-authorised-to-use-water-cannon-on-asylum-seekers",
+        "description": "Refugee charity says decision to let riot police use water cannon, which are banned in Great Britain, is ‘sickening’French riot police deployed in northern France under a £660m deal with the UK are...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,7 +33,7 @@
     ],
     "economy": [
       {
-        "title": "UK inflation unexpectedly stays at 2.8% with higher transport costs offset by slower food price rises – business live",
+        "title": "UK inflation unexpectedly stays at 2.8% with higher transport costs offset by slower food price rises – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/17/uk-inflation-unexpectedly-unchanged-higher-transport-costs-offset-slower-food-price-rises-oil-federal-reserve-iran-war-live-updates",
         "description": "Food prices rose at the slowest rate since December 2024 with declines in inflation for meat, cheese, vegetables and cheeseUK house price inflation has picked up while rents are rising at a slower ...",
         "source": "The Guardian",
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Inflation unexpectedly steady as food price rises slow",
-        "url": "https://www.bbc.com/news/articles/cyv0qpn9zvjo?at_medium=RSS&at_campaign=rss",
-        "description": "Higher petrol prices were offset by slower price rises for meat, dairy and vegetables, according to the ONS.",
+        "title": "Driving test wait time target will not be met until autumn next year",
+        "url": "https://www.bbc.com/news/articles/cd7wv0xqvryo?at_medium=RSS&at_campaign=rss",
+        "description": "The Transport Secretary had been aiming to reduce the backlog to seven weeks by this autumn.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "French police authorised to use water cannon on asylum seekers in £660m deal with UK",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/17/french-police-in-660m-deal-with-uk-authorised-to-use-water-cannon-on-asylum-seekers",
+        "description": "Refugee charity says decision to let riot police use water cannon, which are banned in Great Britain, is ‘sickening’French riot police deployed in northern France under a £660m deal with the UK are...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Indifference to suffering amid Belfast riots | Letter",
         "url": "https://www.theguardian.com/uk-news/2026/jun/16/indifference-to-suffering-amid-belfast-riots",
         "description": "When I told an old friend about the horrific story of a Romanian family with two children being forced out of their home by last week’s violence, he showed a worrying lack of concernLast Tuesday ev...",
@@ -103,13 +110,6 @@
         "title": "Refugee groups condemn Tory plan to remove judges from asylum appeals",
         "url": "https://www.theguardian.com/uk-news/2026/jun/16/conservatives-plan-remove-judges-asylum-appeals",
         "description": "Conservatives accused of attack on ‘crucial safeguards’ and of fostering ‘climate of hostility’ towards judiciaryRefugee groups and lawyers have described Conservative proposals to strip judges of ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Technology secretary says she wants regulator to design plans for online age verification by October – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/15/keir-starmer-social-media-ban-under-16s-tik-tok-instagram-snapchat-twitter-x-meta-uk-politics-latest-news-updates",
-        "description": "Liz Kendall also wants Ofcom to report to parliament every year on how effectively social media firms are keeping under-16s off their platformsStarmer acknowledges some teenagers will get round the...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,7 +146,7 @@
     ],
     "education": [
       {
-        "title": "Top teaching union backs Burnham as Labour’s best chance of beating Reform",
+        "title": "Top teaching union says Burnham is Labour’s best chance of beating Reform",
         "url": "https://www.theguardian.com/politics/2026/jun/17/top-teaching-union-backs-burnham-as-labours-best-chance-of-beating-reform",
         "description": "Exclusive: NASUWT leader Matt Wrack also calls for more robust change from the government on education policyUK politics live – latest updatesThe leader of one of the country’s biggest teaching uni...",
         "source": "The Guardian",
@@ -169,32 +169,32 @@
     ],
     "housing": [
       {
+        "title": "World Cup ticket prices reflect a divided society | Letter",
+        "url": "https://www.theguardian.com/football/2026/jun/17/world-cup-ticket-prices-reflect-a-divided-society",
+        "description": "The eye-watering ticket prices, like the cost of housing, reflect the divide between rich people and others, writes Richard Eltringham World Cup tickets now tell the same story as housing: priced s...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Giles Peaker obituary",
+        "url": "https://www.theguardian.com/law/2026/jun/17/giles-peaker-obituary",
+        "description": "My friend Giles Peaker, who has died suddenly aged 60, was a housing lawyer whose work had a lasting and positive impact on the lives of many people.Qualifying in 2008, after a first career as a le...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "‘The developers got greedy’: the women who took on the leasehold scandal – and won",
         "url": "https://www.theguardian.com/lifeandstyle/2026/jun/16/developers-greedy-leasehold-scandal-campaign-women",
         "description": "Katie Kendrick, Cath Williams and Jo Darbyshire were subject to tens of thousands of pounds of hidden costs as their new-build freeholds soared in value, making their homes unsellable. Their campai...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Mamdani’s pied-à-terre tax isn’t far off Labour’s housing policy. Not that you’ll ever hear Starmer say it | Anna Minton",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/16/zohran-mamdani-pied-a-terre-tax-new-york-keir-starmer",
-        "description": "The UK has its own progressive policies such as the second home and ‘mansion’ taxes. So why isn’t the PM shouting it from the rooftops?In April, to mark the day on which Americans are expected to f...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "An absurd illustration of Britain’s housing problem | Letters",
-        "url": "https://www.theguardian.com/society/2026/jun/15/an-absurd-illustration-of-britains-housing-problem",
-        "description": "Readers respond to an article about what was once the UK’s most expensive house, which has lain empty for yearsGrand properties lying empty when we’re in the midst of a housing crisis is ludicrous....",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Israel launches fresh strikes on Lebanon despite Trump criticism",
-        "url": "https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss",
-        "description": "Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed \"to be more responsible with respect to Lebanon\".",
+        "title": "Iran sends tankers loaded with oil past US military blockade",
+        "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+        "description": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "'They came with machetes' - deadline looms for migrants to leave South Africa",
-        "url": "https://www.bbc.com/news/articles/cg740l2jpr0o?at_medium=RSS&at_campaign=rss",
-        "description": "Protesters have set 30 June as the date for all undocumented migrants to leave the country.",
+        "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
+        "url": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
+        "description": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
