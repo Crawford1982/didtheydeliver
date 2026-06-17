@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-06-16T20:48:51.559372+00:00",
+  "fetched_at": "2026-06-17T04:01:41.251881+00:00",
   "headlines": {
     "government": [
       {
+        "title": "Will a ban keep the UK’s kids off social media? – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/jun/17/will-a-ban-keep-the-uks-kids-off-social-media-podcast",
+        "description": "Governments around the world want to keep under-16s off YouTube, TikTok and Instagram. Australia has introduced a ban and now the UK is doing the same. Stephen Byrne and Chris Stokel-Walker reportK...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Farage’s plan for equal pay legislation may cost female workers money, say unions",
         "url": "https://www.theguardian.com/politics/2026/jun/16/farages-plan-for-equal-pay-legislation-may-cost-female-workers-money-say-unions",
-        "description": "General secretary of TUC calls Reform proposal ‘a smokescreen for slashing women’s rights’UK politics live – latest updatesA law proposed by Nigel Farage to “strengthen women’s rights” could cost f...",
+        "description": "General secretary of TUC calls Reform proposal ‘a smokescreen for slashing women’s rights’A law proposed by Nigel Farage to “strengthen women’s rights” could cost female workers money by removing e...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -13,13 +20,6 @@
         "title": "UK defence spending plan ‘well short of what’s required’ and harder choices needed, says John Healey - as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/16/andy-burnham-makerfield-labour-reform-keir-starmer-uk-politics-latest-news-updates",
         "description": "Ex-defence secretary John Healey and ex-defence minister Al Carns have given resignation statements to MPsSpeaking to reporters at the G7, Keir Starmer also defended the defence investment plan (DI...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "EU and UK announce summit to discuss ‘reset’ in post-Brexit relations",
-        "url": "https://www.theguardian.com/world/2026/jun/16/eu-uk-announce-summit-reset-post-brexit-relations",
-        "description": "Meeting was delayed over details of youth mobility scheme allowing under-30s freedom to work and study in each other’s territoryThe EU and the UK have announced they will hold their next summit to ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Is it bad that Elon Musk has a trillion dollars? Yes, and here’s why",
+        "url": "https://www.theguardian.com/commentisfree/2026/jun/17/is-it-bad-that-elon-musk-has-a-trillion-dollars-yes-and-heres-why",
+        "description": "Just as the ‘poverty line’ determines what’s required for basic living, we need a ‘wealth line’ to show when extreme wealth becomes harmfulIt was bound to happen eventually: Elon Musk has become th...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "US small business owners: how are you operating in the current economic climate?",
         "url": "https://www.theguardian.com/business/2026/jun/16/us-small-business-owners-economy-callout",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Bank of Japan raises interest rates to 31-year high … of 1%",
-        "url": "https://www.theguardian.com/business/2026/jun/16/bank-of-japan-raises-interest-rates-iran-war-inflation-us-fed-bank-of-england",
-        "description": "Country acts amid Iran war inflation pressures, but US Fed and Bank of England expected to hold ratesBusiness live – latest updatesThe Bank of Japan (BoJ) has raised interest rates to a 31-year hig...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Musk's SpaceX overtakes Amazon to become world's fifth most valuable firm",
-        "url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss",
-        "description": "Elon Musk's rocket firm has overtaken the retail and media empire in value after a surge in its share price.",
+        "title": "Cadbury chocolate-owner Mondelez defends staying in Russia",
+        "url": "https://www.bbc.com/news/articles/cy06d00jpn0o?at_medium=RSS&at_campaign=rss",
+        "description": "Mondelez boss Dirk Van de Put says it was the \"right decision\" to remain after the war with Ukraine.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -95,7 +95,7 @@
       {
         "title": "Refugee groups condemn Tory plan to remove judges from asylum appeals",
         "url": "https://www.theguardian.com/uk-news/2026/jun/16/conservatives-plan-remove-judges-asylum-appeals",
-        "description": "Conservatives accused of attack on ‘crucial safeguards’ and of fostering ‘climate of hostility’ towards judiciaryUK politics live – latest updatesRefugee groups and lawyers have described Conservat...",
+        "description": "Conservatives accused of attack on ‘crucial safeguards’ and of fostering ‘climate of hostility’ towards judiciaryRefugee groups and lawyers have described Conservative proposals to strip judges of ...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -208,7 +208,7 @@
       {
         "title": "UK investigating reports Russian warship fired warning shots near yacht in English Channel",
         "url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC News understands the yacht had drifted towards the Admiral Grigorovich, a Russian frigate which has been operating in the Channel.",
+        "description": "The retired couple tell BBC Newsnight they tried to show the warship they had changed course in the English Channel before the shots were fired.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
