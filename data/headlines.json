@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-06-17T20:10:37.578236+00:00",
+  "fetched_at": "2026-06-18T03:52:30.761595+00:00",
   "headlines": {
     "government": [
       {
+        "title": "How quickly could Andy Burnham become the UK’s prime minister?",
+        "url": "https://www.theguardian.com/politics/2026/jun/17/how-quickly-could-andy-burnham-become-the-uks-prime-minister",
+        "description": "If he wins Makerfield byelection, Greater Manchester mayor faces a number of scenarios in his bid to replace Keir StarmerThose who don’t pay much attention to politics could be forgiven for not bei...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Burnham team tell ministers to delay resignations to avoid chaos",
         "url": "https://www.theguardian.com/politics/2026/jun/17/exclusive-burnham-team-convince-ministers-delay-resignations-avoid-chaos",
-        "description": "Exclusive: Allies of Labour’s Makerfield candidate concerned rapid collapse of Starmer government would increase instability Andy Burnham’s campaign has been forced to talk ministers out of resigni...",
+        "description": "Exclusive: Allies of Labour’s Makerfield candidate concerned rapid collapse of Starmer government would increase instabilityHow quickly could Andy Burnham become the UK’s prime minister?Andy Burnha...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "French police authorised to use water cannon on asylum seekers in £660m deal with UK",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/17/french-police-in-660m-deal-with-uk-authorised-to-use-water-cannon-on-asylum-seekers",
-        "description": "Refugee charity says decision to let riot police use water cannon, which are banned in Great Britain, is ‘sickening’French riot police deployed in northern France under a £660m deal with the UK are...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "PM warns Burnham against immediate leadership challenge if he wins by-election",
-        "url": "https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&at_campaign=rss",
-        "description": "Keir Starmer says Labour should focus on a subsequent Manchester mayoral race if Andy Burnham wins in Makerfield.",
+        "title": "Streeting suggests he would be prepared to trigger leadership contest as early as next week",
+        "url": "https://www.bbc.com/news/articles/c4gyeg2207yo?at_medium=RSS&at_campaign=rss",
+        "description": "But the former health secretary told BBC Newsnight he would prefer for the prime minister “to take a decision on his own terms”.",
         "source": "BBC News",
         "category": "government"
       }
@@ -49,14 +49,14 @@
       {
         "title": "UK inflation stays at 2.8% as slowing food prices offset rising transport costs",
         "url": "https://www.theguardian.com/business/2026/jun/17/uk-inflation-steady-despite-iran-conflict-fuel-prices",
-        "description": "May’s figure confounds forecasts of an increase to 3% as Bank of England prepares to set interest ratesAnalysis: benign data signals a softer hit than fearedBusiness live – latest updatesUK inflati...",
+        "description": "May’s figure confounds forecasts of an increase to 3% as Bank of England prepares to set interest ratesAnalysis: benign data signals a softer hit than fearedUK inflation unexpectedly remained at 2....",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Driving test wait time target will not be met until autumn next year",
-        "url": "https://www.bbc.com/news/articles/cd7wv0xqvryo?at_medium=RSS&at_campaign=rss",
-        "description": "The Transport Secretary had been aiming to reduce the backlog to seven weeks by this autumn.",
+        "title": "Interest rates expected to be held by Bank of England",
+        "url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss",
+        "description": "The Bank last cut interest rates in December but upheaval in the Middle East has stalled any further reductions.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Apocalypse when? ‘Earth’s Black Box’ to be installed in remote Tasmanian airfield",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/18/earth-black-box-climate-apocalypse-tasmania-australia",
+        "description": "Rouser Lab says the steel structure will record ‘every step’ humanity takes towards climate catastropheFollow our Australia news live blog for latest updatesGet our breaking news email, free app or...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Rising temperatures may increase flood risk through river ‘whiplash’, study finds",
         "url": "https://www.theguardian.com/environment/2026/jun/17/rising-temperatures-may-increase-flood-risk-through-river-whiplash-study-finds",
         "description": "Sudden shifts from wet to dry weather, or vice versa, may foil typical drought- and flood-prevention measuresRising temperatures may trigger a dangerous increase in “hydroclimatic whiplash” in rive...",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Channelling Trump and deriding journalists: five key moments from Pauline Hanson’s Press Club speech",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/17/channelling-trump-deriding-journalists-five-key-takeaways-from-pauline-hansons-press-club-speech-ntwnfb",
-        "description": "One Nation leader uses platform to rail against multiculturalism, the media and the climate change ‘hoax’ Follow our Australia news live blog for latest updatesGet our breaking news email, free app...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "What is El Niño and why could it mean record temperatures?",
-        "url": "https://www.bbc.com/news/articles/cj97npgk92po?at_medium=RSS&at_campaign=rss",
-        "description": "Global temperatures are expected to rise in the coming months as El Niño begins.",
+        "title": "Simpler, older version of Stonehenge found three miles from famous site",
+        "url": "https://www.bbc.com/news/articles/clyxw8550y8o?at_medium=RSS&at_campaign=rss",
+        "description": "The structure consisted of two posts that lined up with the solstices 5,000 years ago.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Harvard and Bard face fresh questions from lawmakers over ties to Epstein",
+        "url": "https://www.theguardian.com/us-news/2026/jun/17/harvard-bard-college-jeffrey-epstein",
+        "description": "Democrat Jamie Raskin seeks ‘comprehensive accounting’ and requests interview with outgoing Bard presidentHarvard University and Bard College are facing new questions about the institutions’ relati...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Top teaching union says Burnham is Labour’s best chance of beating Reform",
         "url": "https://www.theguardian.com/politics/2026/jun/17/top-teaching-union-backs-burnham-as-labours-best-chance-of-beating-reform",
@@ -156,13 +163,6 @@
         "title": "Students could be required to pass GCSE English to access university loans",
         "url": "https://www.theguardian.com/education/2026/jun/17/students-pass-gcse-english-university-loans-proposals",
         "description": "Exclusive: Ministers consider national threshold in England that could in effect bar thousands from studyingUniversity students would face minimum grade requirements to qualify for student loans in...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Grade requirement for student loans would cut a financial lifeline for English universities",
-        "url": "https://www.theguardian.com/education/2026/jun/17/grade-requirement-for-student-loans-would-cut-a-financial-lifeline-for-english-universities",
-        "description": "Institutions could lose out on at least £200m a year if 30,000 or so potential students without even one GCSE are excluded each yearIf universities thought a Labour government would quickly revive ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "What's in the US-Iran agreement?",
+        "url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+        "description": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Iran sends tankers loaded with oil past US military blockade",
         "url": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
         "description": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-        "url": "https://www.bbc.com/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
-        "description": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Search for six-year-old Ebola patient after armed men storm DR Congo hospital",
-        "url": "https://www.bbc.com/news/articles/cvgep4l397eo?at_medium=RSS&at_campaign=rss",
-        "description": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+        "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
+        "url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
+        "description": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
