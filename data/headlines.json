@@ -1,39 +1,39 @@
 {
-  "fetched_at": "2026-06-19T15:13:01.377421+00:00",
+  "fetched_at": "2026-06-19T19:48:09.402031+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham calls for ‘new path for Britain’ as Starmer vows to fight any leadership challenge – UK politics live",
+        "title": "Burnham calls for ‘new path for Britain’ as Starmer vows to fight any leadership challenge – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates",
-        "description": "Burnham hails ‘turning point’ for the country after resounding byelection victory over Reform UKPodcast: will  Burnham become prime minister?What would ‘change’ look like if  Burnham becomes PM?Dav...",
+        "description": "This blog is now closed, you can read more on this story here:Cabinet loyalists tell PM he has weekend to set out timetable for exit‘Now is the change moment’: Burnham staff have no doubtsPodcast: ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham: our next Prime Minister? – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/jun/19/andy-burnham-our-next-prime-minister-podcast",
-        "description": "Andy Burnham will return to Westminster as an MP, and potential challenger to Keir Starmer, after decisively beating Reform UK to win the Makerfield byelection. Kiran Stacey and Jessica Elgot chat ...",
+        "title": "Cabinet loyalists tell Starmer he has the weekend to set out timetable for exit",
+        "url": "https://www.theguardian.com/politics/2026/jun/19/keir-starmer-pressure-andy-burnham-wes-streeting-allies-not-fight-leadership-challenge",
+        "description": "Ministers say PM faces being forced out by party if he does not act, with one calling his departure inevitableHow quickly could Burnham become PM?Cabinet ministers loyal to Keir Starmer have told h...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Facts and figures: the Makerfield byelection result in numbers",
-        "url": "https://www.theguardian.com/politics/2026/jun/19/facts-and-figures-makerfield-byelection-result-numbers",
-        "description": "From the proportion of votes secured by Restore Britain, to the percentage point difference in Reform UK’s fortunes, here are the takeawaysUK politics live – latest updatesIt was, the consensus opi...",
+        "title": "‘I’m not a Labour fan but I like Burnham’: relief in Makerfield among left, right and centre",
+        "url": "https://www.theguardian.com/politics/2026/jun/19/relief-mackerfield-left-right-centre-vote",
+        "description": "‘Borrowed’ supporters from across the political spectrum voted to trounce ReformHow quickly could Burnham become PM?The morning after Andy Burnham secured a landslide byelection victory in Makerfie...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Henry Zeffman: What does Keir Starmer do next after Andy Burnham's Makerfield win?",
-        "url": "https://www.bbc.com/news/articles/c3ryp0nejdro?at_medium=RSS&at_campaign=rss",
-        "description": "Discussion about the prime minister's future ramps up after Makerfield by-election.",
+        "title": "PM under pressure from Labour MPs and ministers to set timetable for exit",
+        "url": "https://www.bbc.com/news/articles/cqx1ev0wn87o?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC has been told that the transport secretary is among those advising Starmer to set out a timetable.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "City investors fear Labour leadership battle could push up UK bond yields, as UK borrowing jumps in May – business live",
+        "title": "City investors fear Labour leadership battle could push up UK bond yields, as UK borrowing jumps in May – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates",
         "description": "UK budget deficit is running higher than forecast; borrowing costs rise after Makerfield byelection as US-Iran talks are called offShares in UK water companies are dropping in early trading, as And...",
         "source": "The Guardian",
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Emergency medicine is in crisis – why is this allowed to continue? | Letters",
+        "url": "https://www.theguardian.com/society/2026/jun/19/emergency-medicine-is-in-crisis-why-is-this-allowed-to-continue",
+        "description": "Dr Carole Gavin says if the government fails to act it will bear the responsibility for yet more avoidable deaths, while Sarah Brown describes her mother’s experienceThe experience of working in A&...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Digested week: Struggling bees and the G7’s hot mics may speak volumes",
         "url": "https://www.theguardian.com/uk-news/2026/jun/19/digested-week-g7-summit-hot-mic-moments",
         "description": "Are we in the opening scenes of a disaster movie? There’s something going on with insectsIt’s the start of the G7, guaranteeing us a week of either serious commentary or hot mic moments that may, i...",
@@ -72,14 +79,7 @@
       {
         "title": "Elizabeth Greenhall obituary",
         "url": "https://www.theguardian.com/society/2026/jun/19/elizabeth-greenhall-obituary",
-        "description": "My friend Liz Greenhall, who has died aged 83, was a consultant in public health who was responsible for family planning services in Oxfordshire. Her work broke new ground in the provision of healt...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "ICO watchdog opens inquiry into cameras in mental health patients’ bedrooms",
-        "url": "https://www.theguardian.com/society/2026/jun/19/ico-watchdog-inquiry-cameras-mental-health-patients-bedrooms",
-        "description": "Exclusive: Oxevision system used by 40% of NHS mental health trusts being scrutinised by information commissioner over privacy concernsThe information commissioner has launched an investigation int...",
+        "description": "My friend Liz Greenhall, who has died aged 83, was a public health consultant who was responsible for family planning services in Oxfordshire. Her work broke new ground in the provision of healthca...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -169,16 +169,16 @@
     ],
     "housing": [
       {
-        "title": "Not so empty nesters: record-high number of US adults under 35 live at home, new data says",
-        "url": "https://www.theguardian.com/society/2026/jun/18/us-adults-under-35-living-at-home",
-        "description": "Data shows that the increase in at-home living stems from high housing costs rather than labor market conditionsA record number of the US’s young adults were living with their parents last year, ac...",
+        "title": "Obama Center opening stirs pride and unease for Chicago’s South Side amid displacement fears",
+        "url": "https://www.theguardian.com/us-news/2026/jun/19/obama-presidential-center-chicago-gentrification",
+        "description": "South Siders voice concerns about gentrification, housing and affordability as they celebrate opening of the Obama Presidential Center Pastor Jeffery Campbell has deep ties to Chicago’s Woodlawn ne...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Obama Center opening stirs pride and unease for Chicago’s South Side amid displacement fears",
-        "url": "https://www.theguardian.com/us-news/2026/jun/19/obama-presidential-center-chicago-gentrification",
-        "description": "South Siders voice concerns about gentrification, housing and affordability as they celebrate opening of the Obama Presidential Center Pastor Jeffery Campbell has deep ties to Chicago’s Woodlawn ne...",
+        "title": "Not so empty nesters: record-high number of US adults under 35 live at home, new data says",
+        "url": "https://www.theguardian.com/society/2026/jun/18/us-adults-under-35-living-at-home",
+        "description": "Data shows that the increase in at-home living stems from high housing costs rather than labor market conditionsA record number of the US’s young adults were living with their parents last year, ac...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+        "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+        "description": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
         "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
         "description": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
-        "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
-        "description": "Some see a double standard: Japanese men who clean in public while their wives do all the housework.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
-        "url": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
-        "description": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
+        "title": "US to end funding of South Africa's HIV programmes over claims of Afrikaner persecution",
+        "url": "https://www.bbc.com/news/articles/cdr457lxr71o?at_medium=RSS&at_campaign=rss",
+        "description": "The US says South Africa is not doing enough to protect the white-minority Afrikaner community.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
