@@ -1,67 +1,74 @@
 {
-  "fetched_at": "2026-06-19T04:12:03.003732+00:00",
+  "fetched_at": "2026-06-19T10:24:21.915660+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Tired of Iran, Trump refocuses on Ukraine – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/jun/19/tired-of-iran-trump-refocuses-on-ukraine-podcast",
-        "description": "Donald Trump has signed a 14-point agreement with Iran, trying to bring an end to a war he helped start. Satisfied his work is done in the Middle East, Trump now wants to move onto peace in Ukraine...",
+        "title": "Scottish Conservatives win Aberdeen South in shock loss for the SNP",
+        "url": "https://www.theguardian.com/politics/2026/jun/19/snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win",
+        "description": "Tories’ Douglas Lumsden says city has spoken ‘loud and clear’ in support of the North Sea oil and gas industry UK politics – live updatesThe Scottish National party has lost the formerly safe seat ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Makerfield byelection: Andy Burnham says Labour has ‘final chance to change’ after huge win over Reform UK – UK politics live",
+        "title": "Starmer says he ‘will stand’ in any Labour leadership contest after Burnham’s decisive byelection win – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates",
-        "description": "Burnham hails a ‘turning point’ for the country after a resounding victory over Reform UK and Restore that may force prime minister Keir Starmer to step asideFull report: Andy Burnham wins huge maj...",
+        "description": "Burnham earlier hailed a ‘turning point’ for the country after a resounding victory over Reform UK and RestoreFull report: Andy Burnham wins huge majority in Makerfield byelection, paving way for S...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham brings in top economists before possible leadership run",
-        "url": "https://www.theguardian.com/politics/2026/jun/18/andy-burnham-top-economists-possible-leadership-run",
-        "description": "Labour mayor giving advisory roles to ex-Bank of England economist and others seen as attempt to reassure marketsMakerfield byelection – latest updatesThree economic heavyweights have been brought ...",
+        "title": "Starmer says he will stand in any Labour leadership contest against Burnham",
+        "url": "https://www.theguardian.com/politics/2026/jun/19/starmer-says-will-stand-in-labour-leadership-contest-burnham",
+        "description": "Prime minister suggests he will not ‘walk away’ despite Burnham’s comfortable victory in Makerfield byelectionUK politics – live updatesHow quickly could Burnham become PM?Keir Starmer has said he ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Scottish Conservatives win first Westminster by-election in more than 50 years",
-        "url": "https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&at_campaign=rss",
-        "description": "The Tories take Aberdeen South, while the SNP wins in Arbroath and Broughty Ferry.",
+        "title": "Chris Mason: Burnham's emphatic win leaves Starmer and Labour MPs with big decision",
+        "url": "https://www.bbc.com/news/articles/cqx1eq5e71zo?at_medium=RSS&at_campaign=rss",
+        "description": "The PM will see the stonking scale of Andy Burnham's victory - will it shift his outlook, his defiance, so frequently recently expressed?",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Bank of England governor warns UK public to expect higher costs this year",
-        "url": "https://www.theguardian.com/business/2026/jun/18/interest-rates-bank-of-england-hold-keep-iran",
-        "description": "Andrew Bailey says ‘inflationary pressure in pipeline’ despite US and Iran signing initial peace deal as interest rates kept on holdThe governor of the Bank of England has warned consumers to expec...",
+        "title": "UK public finances under pressure after surge in borrowing; water company shares fall after Burnham win – business live",
+        "url": "https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates",
+        "description": "UK budget deficit is running higher than forecast; borrowing costs rise after Makerfield by-election as US-Iran talks are called offShares in UK water companies are dropping in early trading, as An...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Not so empty nesters: record-high number of US adults under 35 live at home, new data says",
-        "url": "https://www.theguardian.com/society/2026/jun/18/us-adults-under-35-living-at-home",
-        "description": "Data shows that the increase in at-home living stems from high housing costs rather than labor market conditionsA record number of the US’s young adults were living with their parents last year, ac...",
+        "title": "KPMG leaked confidential Optus information and surveilled whistleblower’s laptop, inquiry hears",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/19/kpmg-scandal-optus-leak-as-whistleblower-claims-ntwnfb",
+        "description": "International firm owns up to breach of ethics after staff leaked confidential Optus information while bidding for telco contractFollow our Australia news live blog for latest updatesGet our breaki...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Bank of England leaves interest rates on hold and lowers inflation forecast amid Middle East ‘uncertainty’ – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/jun/18/bank-of-england-interest-rates-uk-unemployment-wages-oil-price-stock-markets-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial news, including the latest UK jobs report and the Bank of England’s interest rate decisionTesco’s UK sales growth has more than halved as it sa...",
+        "title": "UK borrows more than expected as impact of Iran war takes toll",
+        "url": "https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll",
+        "description": "May figure of £23.3bn underlines challenge facing Andy Burnham if he ends up as Labour leaderBusiness live – latest updatesUK politics – live updatesThe UK borrowed a higher-than-expected £23.3bn i...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Brexit cost 6% of UK economy, Bank of England company data suggests",
-        "url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss",
-        "description": "Analysis showed how much the UK could have grown if it had not exited the EU.",
+        "title": "Plans to end gazumping with binding agreements in house sales shake-up",
+        "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss",
+        "description": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "ICO watchdog opens inquiry into cameras in mental health patients’ bedrooms",
+        "url": "https://www.theguardian.com/society/2026/jun/19/ico-watchdog-inquiry-cameras-mental-health-patients-bedrooms",
+        "description": "Exclusive: Oxevision system used by 40% of NHS mental health trusts being scrutinised by information commissioner over privacy concernsThe information commissioner has launched an investigation int...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "NHS patients face worst drug shortages on record, say pharmacists and GPs",
         "url": "https://www.theguardian.com/business/2026/jun/18/nhs-patients-face-worst-drug-shortages-on-record-say-pharmacists-and-gps",
@@ -73,13 +80,6 @@
         "title": "Lack of learning-disability nurses in UK is an ‘absolute crisis’, says union",
         "url": "https://www.theguardian.com/society/2026/jun/16/uk-learning-disability-nurses-nhs",
         "description": "Exclusive: Royal College of Nursing says 1.5m vulnerable people not getting the right care, as specialism is ‘consistently undermined’The specialist learning-disability nurse workforce is in “absol...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Champion swimmer with rare brain cancer urges UK to do more to help people with condition",
-        "url": "https://www.theguardian.com/society/2026/jun/16/champion-swimmer-archie-goodburn-rare-brain-cancer-uk-more-help",
-        "description": "Breakthrough treatment enabled Archie Goodburn, 24, to keep competing but he says one new drug in 20 years is not enoughArchie Goodburn, a 24-year-old champion swimmer who has a rare, inoperable fo...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -176,32 +176,32 @@
         "category": "housing"
       },
       {
-        "title": "Zack Polanski cleared by ethics inquiry over council tax payment complaint",
-        "url": "https://www.theguardian.com/politics/2026/jun/18/zack-polanski-cleared-ethics-inquiry-council-tax-houseboat",
-        "description": "Labour and Tories claimed Green party leader breached London assembly ethics code over non-payment of taxZack Polanski has been cleared by an ethics inquiry looking into complaints that he did not ...",
+        "title": "Obama Center opening stirs pride and unease for Chicago’s South Side amid displacement fears",
+        "url": "https://www.theguardian.com/us-news/2026/jun/19/obama-presidential-center-chicago-gentrification",
+        "description": "South Siders voice concerns about gentrification, housing and affordability as they celebrate opening of the Obama Presidential Center Pastor Jeffery Campbell has deep ties to Chicago’s Woodlawn ne...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "World Cup ticket prices reflect a divided society | Letter",
-        "url": "https://www.theguardian.com/football/2026/jun/17/world-cup-ticket-prices-reflect-a-divided-society",
-        "description": "The eye-watering ticket prices, like the cost of housing, reflect the divide between rich people and others, writes Richard Eltringham World Cup tickets now tell the same story as housing: priced s...",
+        "title": "Zack Polanski cleared by ethics inquiry over council tax payment complaint",
+        "url": "https://www.theguardian.com/politics/2026/jun/18/zack-polanski-cleared-ethics-inquiry-council-tax-houseboat",
+        "description": "Labour and Tories claimed Green party leader breached London assembly ethics code over non-payment of taxZack Polanski has been cleared by an ethics inquiry looking into complaints that he did not ...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
-        "url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
-        "description": "Iran's supreme leader says he disagrees with the deal and Donald Trump signed it \"out of desperation\".",
+        "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
+        "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
+        "description": "Lebanon meanwhile says 18 people were killed in clashes in the south and the IDF reports four soldiers killed, despite a truce meant to be in place in the country.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-        "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-        "description": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
+        "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
+        "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
+        "description": "It comes a day after the US and Iran signed a deal to end their conflict, including fighting in Lebanon.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
