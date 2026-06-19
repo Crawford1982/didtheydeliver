@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-06-19T10:24:21.915660+00:00",
+  "fetched_at": "2026-06-19T15:13:01.377421+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Scottish Conservatives win Aberdeen South in shock loss for the SNP",
-        "url": "https://www.theguardian.com/politics/2026/jun/19/snp-concedes-aberdeen-south-with-scottish-conservatives-set-to-win",
-        "description": "Tories’ Douglas Lumsden says city has spoken ‘loud and clear’ in support of the North Sea oil and gas industry UK politics – live updatesThe Scottish National party has lost the formerly safe seat ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer says he ‘will stand’ in any Labour leadership contest after Burnham’s decisive byelection win – UK politics live",
+        "title": "Burnham calls for ‘new path for Britain’ as Starmer vows to fight any leadership challenge – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates",
-        "description": "Burnham earlier hailed a ‘turning point’ for the country after a resounding victory over Reform UK and RestoreFull report: Andy Burnham wins huge majority in Makerfield byelection, paving way for S...",
+        "description": "Burnham hails ‘turning point’ for the country after resounding byelection victory over Reform UKPodcast: will  Burnham become prime minister?What would ‘change’ look like if  Burnham becomes PM?Dav...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer says he will stand in any Labour leadership contest against Burnham",
-        "url": "https://www.theguardian.com/politics/2026/jun/19/starmer-says-will-stand-in-labour-leadership-contest-burnham",
-        "description": "Prime minister suggests he will not ‘walk away’ despite Burnham’s comfortable victory in Makerfield byelectionUK politics – live updatesHow quickly could Burnham become PM?Keir Starmer has said he ...",
+        "title": "Andy Burnham: our next Prime Minister? – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/jun/19/andy-burnham-our-next-prime-minister-podcast",
+        "description": "Andy Burnham will return to Westminster as an MP, and potential challenger to Keir Starmer, after decisively beating Reform UK to win the Makerfield byelection. Kiran Stacey and Jessica Elgot chat ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Chris Mason: Burnham's emphatic win leaves Starmer and Labour MPs with big decision",
-        "url": "https://www.bbc.com/news/articles/cqx1eq5e71zo?at_medium=RSS&at_campaign=rss",
-        "description": "The PM will see the stonking scale of Andy Burnham's victory - will it shift his outlook, his defiance, so frequently recently expressed?",
+        "title": "Facts and figures: the Makerfield byelection result in numbers",
+        "url": "https://www.theguardian.com/politics/2026/jun/19/facts-and-figures-makerfield-byelection-result-numbers",
+        "description": "From the proportion of votes secured by Restore Britain, to the percentage point difference in Reform UK’s fortunes, here are the takeawaysUK politics live – latest updatesIt was, the consensus opi...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Henry Zeffman: What does Keir Starmer do next after Andy Burnham's Makerfield win?",
+        "url": "https://www.bbc.com/news/articles/c3ryp0nejdro?at_medium=RSS&at_campaign=rss",
+        "description": "Discussion about the prime minister's future ramps up after Makerfield by-election.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK public finances under pressure after surge in borrowing; water company shares fall after Burnham win – business live",
+        "title": "City investors fear Labour leadership battle could push up UK bond yields, as UK borrowing jumps in May – business live",
         "url": "https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates",
-        "description": "UK budget deficit is running higher than forecast; borrowing costs rise after Makerfield by-election as US-Iran talks are called offShares in UK water companies are dropping in early trading, as An...",
+        "description": "UK budget deficit is running higher than forecast; borrowing costs rise after Makerfield byelection as US-Iran talks are called offShares in UK water companies are dropping in early trading, as And...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "What could US-Iran peace deal mean for UK household costs?",
+        "url": "https://www.theguardian.com/money/2026/jun/19/what-could-us-iran-peace-deal-mean-for-uk-household-costs",
+        "description": "The impact on petrol and food prices, energy bills and mortgages if the truce holds and strait of Hormuz reopensAround the world, markets reacted with relief this week to news that Donald Trump had...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -43,13 +50,6 @@
         "title": "KPMG leaked confidential Optus information and surveilled whistleblower’s laptop, inquiry hears",
         "url": "https://www.theguardian.com/australia-news/2026/jun/19/kpmg-scandal-optus-leak-as-whistleblower-claims-ntwnfb",
         "description": "International firm owns up to breach of ethics after staff leaked confidential Optus information while bidding for telco contractFollow our Australia news live blog for latest updatesGet our breaki...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK borrows more than expected as impact of Iran war takes toll",
-        "url": "https://www.theguardian.com/business/2026/jun/19/uk-borrows-more-than-expected-as-impact-of-iran-war-takes-toll",
-        "description": "May figure of £23.3bn underlines challenge facing Andy Burnham if he ends up as Labour leaderBusiness live – latest updatesUK politics – live updatesThe UK borrowed a higher-than-expected £23.3bn i...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -63,6 +63,20 @@
     ],
     "nhs": [
       {
+        "title": "Digested week: Struggling bees and the G7’s hot mics may speak volumes",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/19/digested-week-g7-summit-hot-mic-moments",
+        "description": "Are we in the opening scenes of a disaster movie? There’s something going on with insectsIt’s the start of the G7, guaranteeing us a week of either serious commentary or hot mic moments that may, i...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Elizabeth Greenhall obituary",
+        "url": "https://www.theguardian.com/society/2026/jun/19/elizabeth-greenhall-obituary",
+        "description": "My friend Liz Greenhall, who has died aged 83, was a consultant in public health who was responsible for family planning services in Oxfordshire. Her work broke new ground in the provision of healt...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "ICO watchdog opens inquiry into cameras in mental health patients’ bedrooms",
         "url": "https://www.theguardian.com/society/2026/jun/19/ico-watchdog-inquiry-cameras-mental-health-patients-bedrooms",
         "description": "Exclusive: Oxevision system used by 40% of NHS mental health trusts being scrutinised by information commissioner over privacy concernsThe information commissioner has launched an investigation int...",
@@ -70,23 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "NHS patients face worst drug shortages on record, say pharmacists and GPs",
-        "url": "https://www.theguardian.com/business/2026/jun/18/nhs-patients-face-worst-drug-shortages-on-record-say-pharmacists-and-gps",
-        "description": "Supply problems pose risk to health, with common painkillers, epilepsy medication and HRT affectedBritons are facing some of the “most severe” shortages of NHS medicines on record including common ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Lack of learning-disability nurses in UK is an ‘absolute crisis’, says union",
-        "url": "https://www.theguardian.com/society/2026/jun/16/uk-learning-disability-nurses-nhs",
-        "description": "Exclusive: Royal College of Nursing says 1.5m vulnerable people not getting the right care, as specialism is ‘consistently undermined’The specialist learning-disability nurse workforce is in “absol...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Young women now have 'close to zero' risk of cervical cancer death after HPV jab",
-        "url": "https://www.bbc.com/news/articles/c621z28z138o?at_medium=RSS&at_campaign=rss",
-        "description": "A new study finds that hundreds of lives have been saved since school-age girls were offered the HPV jab in 2008.",
+        "title": "Five tips to keep your kids cool this weekend",
+        "url": "https://www.bbc.com/news/articles/c862j9vy746o?at_medium=RSS&at_campaign=rss",
+        "description": "Temperatures are set to rise over the next few days, and children can be especially vulnerable - so read on for tips to protect them.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Two World Cup matches were played in ‘severe heat’, analysis finds",
+        "url": "https://www.theguardian.com/football/2026/jun/19/world-cup-matches-severe-heat-level-analysis",
+        "description": "Games in Miami and Monterrey were at heat level a players’ union had warned in the past should trigger delaysTwo of the first round of matches at the World Cup were played at a level of severe heat...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "‘Mega-consumers’ of food and energy cost environment $5.7tn a year, study finds",
         "url": "https://www.theguardian.com/environment/2026/jun/18/mega-consumers-food-energy-damage-cost-environment",
         "description": "Top 10% generate climate and biodiversity damage bill that exceeds economies of most countries, say researchersThe environmental damage bill racked up by the highest-consuming 10% of the world’s po...",
@@ -126,13 +133,6 @@
         "title": "Apocalypse when? ‘Earth’s Black Box’ to be installed in remote Tasmanian airfield",
         "url": "https://www.theguardian.com/australia-news/2026/jun/18/earth-black-box-climate-apocalypse-tasmania-australia",
         "description": "Rouser Lab says the steel structure will record ‘every step’ humanity takes towards climate catastropheFollow our Australia news live blog for latest updatesGet our breaking news email, free app or...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Rising temperatures may increase flood risk through river ‘whiplash’, study finds",
-        "url": "https://www.theguardian.com/environment/2026/jun/17/rising-temperatures-may-increase-flood-risk-through-river-whiplash-study-finds",
-        "description": "Sudden shifts from wet to dry weather, or vice versa, may foil typical drought- and flood-prevention measuresRising temperatures may trigger a dangerous increase in “hydroclimatic whiplash” in rive...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
-        "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
-        "description": "Lebanon meanwhile says 18 people were killed in clashes in the south and the IDF reports four soldiers killed, despite a truce meant to be in place in the country.",
+        "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+        "url": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+        "description": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Lebanon says Israeli strikes kill 18 as Israel says four soldiers killed by Hezbollah",
-        "url": "https://www.bbc.com/news/articles/c23ymz1n9rmo?at_medium=RSS&at_campaign=rss",
-        "description": "It comes a day after the US and Iran signed a deal to end their conflict, including fighting in Lebanon.",
+        "title": "Do it at home too, women tell Japanese fans who cleaned World Cup stadium",
+        "url": "https://www.bbc.com/news/articles/crel9xlp8r1o?at_medium=RSS&at_campaign=rss",
+        "description": "Some see a double standard: Japanese men who clean in public while their wives do all the housework.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "What Iran and US get from deal and why both could struggle to keep it",
-        "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-        "description": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+        "title": "Six-year-old Ebola patient taken from DR Congo hospital found and 'doing well'",
+        "url": "https://www.bbc.com/news/articles/c0qyg29wpk2o?at_medium=RSS&at_campaign=rss",
+        "description": "Health facilities have come under attack during the current outbreak as a result of misinformation and fear.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
