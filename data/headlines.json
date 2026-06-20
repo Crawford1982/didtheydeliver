@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-06-20T03:34:35.262349+00:00",
+  "fetched_at": "2026-06-20T08:54:02.009512+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Pressure grows on Starmer to step aside for Burnham – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/20/keir-starmer-andy-burnham-labour-leadership-makerfield-byelection-uk-politics-latest-news",
+        "description": "Ministers say PM faces being forced out by party if he does not act, with one calling his departure inevitableCabinet loyalists tell Starmer he has the weekend to set out timetable for exit‘Within ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Burnham calls for ‘new path for Britain’ as Starmer vows to fight any leadership challenge – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates",
@@ -13,13 +20,6 @@
         "title": "Cabinet loyalists tell Starmer he has the weekend to set out timetable for exit",
         "url": "https://www.theguardian.com/politics/2026/jun/19/keir-starmer-pressure-andy-burnham-wes-streeting-allies-not-fight-leadership-challenge",
         "description": "Ministers say PM faces being forced out by party if he does not act, with one calling his departure inevitableHow quickly could Burnham become PM?Cabinet ministers loyal to Keir Starmer have told h...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "‘I’m not a Labour fan but I like Burnham’: relief in Makerfield among left, right and centre",
-        "url": "https://www.theguardian.com/politics/2026/jun/19/relief-mackerfield-left-right-centre-vote",
-        "description": "‘Borrowed’ supporters from across the political spectrum voted to trounce ReformHow quickly could Burnham become PM?The morning after Andy Burnham secured a landslide byelection victory in Makerfie...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Five tips to keep your kids cool this weekend",
-        "url": "https://www.bbc.com/news/articles/c862j9vy746o?at_medium=RSS&at_campaign=rss",
-        "description": "Temperatures are set to rise over the next few days, and children can be especially vulnerable - so read on for tips to protect them.",
+        "title": "Minimum age of 11 set for UK puberty blocker trial",
+        "url": "https://www.bbc.com/news/articles/c892p2qdjjxo?at_medium=RSS&at_campaign=rss",
+        "description": "Gender-questioning children will have to be at least 11 years old to take part in a clinical trial of puberty-blocking drugs.",
         "source": "BBC News",
         "category": "nhs"
       }
