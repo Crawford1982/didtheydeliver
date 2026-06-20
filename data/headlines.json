@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-20T14:00:44.382113+00:00",
+  "fetched_at": "2026-06-20T19:24:29.233629+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Corbyn criticises ‘strange’ lack of policy in leadership debate and says Burnham must offer real change – UK politics live",
+        "title": "Revealed: Brexit voting areas have seen faster growth in foreign workers since EU referendum",
+        "url": "https://www.theguardian.com/politics/2026/jun/20/leave-voting-areas-foreign-workers-decade-since-brexit-referendum",
+        "description": "Guardian investigation also finds same areas experienced relative decline over same periodLeave-voting areas have seen faster relative growth in foreign workers since the Brexit referendum, a Guard...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Corbyn criticises ‘strange’ lack of policy in leadership debate and says Burnham must offer real change – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/20/keir-starmer-andy-burnham-labour-leadership-makerfield-byelection-uk-politics-latest-news",
-        "description": "Former Labour leader says Burnham too accepting of austerity and ‘doesn’t appear to be doing anything differently internationally’Cabinet loyalists tell Starmer he has the weekend to set out timeta...",
+        "description": "This blog is now closed, you can read more on this story hereA losing streak? Makerfield shows mounting dangers for Nigel FarageFrom Restore and tactical voting to questions over that £5m gift, the...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham calls for ‘new path for Britain’ as Starmer vows to fight any leadership challenge – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/18/makerfield-byelection-keir-starmer-andy-burnham-robert-kenyon-labour-leadership-reform-aberdeen-arbroath-uk-politics-latest-news-updates",
-        "description": "This blog is now closed, you can read more on this story here:Cabinet loyalists tell PM he has weekend to set out timetable for exit‘Now is the change moment’: Burnham staff have no doubtsPodcast: ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Cabinet loyalists tell Starmer he has the weekend to set out timetable for exit",
-        "url": "https://www.theguardian.com/politics/2026/jun/19/keir-starmer-pressure-andy-burnham-wes-streeting-allies-not-fight-leadership-challenge",
-        "description": "Ministers say PM faces being forced out by party if he does not act, with one calling his departure inevitableHow quickly could Burnham become PM?Cabinet ministers loyal to Keir Starmer have told h...",
+        "title": "Burnham allies confident of No 10 ‘coronation’ after surge in backers",
+        "url": "https://www.theguardian.com/politics/2026/jun/20/burnham-allies-confident-no-10-coronation-after-surge-backers-labour-leadership",
+        "description": "Some Labour MPs still want former mayor to face ‘scrutiny’ of ideas through contested leadership raceAllies of Andy Burnham are increasingly confident of a coronation-style transfer of power after ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-        "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-        "description": "Deaths are reported in southern Lebanon, with the IDF saying it hit \"Hezbollah terrorist targets\" after the group fired over 50 projectiles at Israeli forces.",
+        "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+        "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
+        "description": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Zelensky stripped of highest Polish honour over WW2 name of army unit",
-        "url": "https://www.bbc.com/news/articles/cr7xzg3dmj8o?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine has denounced the move, calling it a \"strategic mistake\" and \"disrespectful\".",
+        "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+        "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+        "description": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Tourist dies in Dominican Republic luxury resort fire",
-        "url": "https://www.bbc.com/news/articles/c932k8010j1o?at_medium=RSS&at_campaign=rss",
-        "description": "Nearly 1,700 people were evacuated from the huge blaze at Viva Wyndham Dominicus Beach in Bayahibe, a popular resort town on the Caribbean coast.",
+        "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
+        "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
         "source": "BBC News",
         "category": "foreign_policy"
       }
