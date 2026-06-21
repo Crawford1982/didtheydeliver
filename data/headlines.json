@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-20T19:24:29.233629+00:00",
+  "fetched_at": "2026-06-21T04:06:13.842883+00:00",
   "headlines": {
     "government": [
       {
@@ -33,6 +33,13 @@
     ],
     "economy": [
       {
+        "title": "Petrol prices in Australia are now lower than before the Iran war began. Is the oil crisis over and what happens next?",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/21/oil-price-petrol-prices-australia-fuel-crisis-us-iran-war-lower",
+        "description": "Fuel suppliers outside the Middle East have proved to be much more flexible than analysts expected – and China surprised everyoneFollow our Australia news live blog for latest updatesGet our breaki...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "City investors fear Labour leadership battle could push up UK bond yields, as UK borrowing jumps in May – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/19/uk-borrowing-surges-over-forecasts-in-may-spending-pound-bonds-borrowing-latest-news-updates",
         "description": "UK budget deficit is running higher than forecast; borrowing costs rise after Makerfield byelection as US-Iran talks are called offShares in UK water companies are dropping in early trading, as And...",
@@ -43,13 +50,6 @@
         "title": "What could US-Iran peace deal mean for UK household costs?",
         "url": "https://www.theguardian.com/money/2026/jun/19/what-could-us-iran-peace-deal-mean-for-uk-household-costs",
         "description": "The impact on petrol and food prices, energy bills and mortgages if the truce holds and strait of Hormuz reopensAround the world, markets reacted with relief this week to news that Donald Trump had...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "KPMG leaked confidential Optus information and surveilled whistleblower’s laptop, inquiry hears",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/19/kpmg-scandal-optus-leak-as-whistleblower-claims-ntwnfb",
-        "description": "International firm owns up to breach of ethics after staff leaked confidential Optus information while bidding for telco contractFollow our Australia news live blog for latest updatesGet our breaki...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Minimum age of 11 set for UK puberty blocker trial",
-        "url": "https://www.bbc.com/news/articles/c892p2qdjjxo?at_medium=RSS&at_campaign=rss",
-        "description": "Gender-questioning children will have to be at least 11 years old to take part in a clinical trial of puberty-blocking drugs.",
+        "title": "Jeremy Clarkson in remission from prostate cancer",
+        "url": "https://www.bbc.com/news/articles/czj8kgg4rrro?at_medium=RSS&at_campaign=rss",
+        "description": "The presenter shared his \"aggressive\" cancer diagnosis on an episode of Clarkson's Farm earlier this week.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
+        "title": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
         "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-        "description": "Iran said Israel's continued attacks in Lebanon are a breach of Tehran's agreement with the US to end the war.",
+        "description": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "BBC sees destroyed villages in Israeli-occupied southern Lebanon",
+        "url": "https://www.bbc.com/news/videos/c8r2pyv3e2po?at_medium=RSS&at_campaign=rss",
+        "description": "Travelling with a humanitarian convoy, BBC's Hugo Bachega has been given rare access to a part of Lebanon under Israeli occupation.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
         "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
         "description": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died from her injuries after the Israeli strike.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
-        "url": "https://www.bbc.com/news/articles/cgqj77909jpo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
         "source": "BBC News",
         "category": "foreign_policy"
       }
