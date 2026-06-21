@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-06-21T14:08:19.484689+00:00",
+  "fetched_at": "2026-06-21T19:28:00.728730+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer expected to announce departure on Monday as growing numbers of MPs back Burnham for PM – UK politics live",
+        "title": "Starmer expected to announce exit plan to clear way for Burnham to become PM",
+        "url": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-expected-exit-plan-clear-way-andy-burnham-become-pm",
+        "description": "Ministers say Starmer will set out his intentions on Monday morning with an autumn departure the most likely optionKeir Starmer is expected to announce a timetable for his departure on Monday morni...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Starmer expected to announce departure on Monday as growing numbers of MPs back Burnham for PM – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/21/keir-starmer-expected-resign-resignation-monday--andy-burnham-makerfield-labour-uk-politics-latest-news-updates",
-        "description": "Business secretary says PM spending the weekend ‘making time to reflect on the political realities’ he facesKeir Starmer expected to announce departure as prime minister on MondaySome commentators ...",
+        "description": "PM said to be reflecting on ‘political realities’, as president Trump joins in criticism of his leadership saying he has ‘failed badly’ Keir Starmer expected to announce departure as prime minister...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Keir Starmer expected to announce departure as prime minister on Monday",
-        "url": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-expected-to-announce-departure-as-prime-minister-on-monday",
-        "description": "Business secretary says Starmer is reflecting on ‘political realities’ amid overwhelming pressure from MPsUK politics – live updatesKeir Starmer is expected to announce on Monday that he will step ...",
+        "title": "Burnham ally to unveil ambitious plan to reverse decades of privatisation",
+        "url": "https://www.theguardian.com/politics/2026/jun/21/burnham-ally-to-unveil-ambitious-plan-to-reverse-decades-of-privatisation",
+        "description": "Exclusive: Productive State policy paper envisages state regaining control of basics to make life affordable, in fleshing out of ManchesterismAndy Burnham’s government should reverse 40 years of pr...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "From defiance to acceptance: five quotes that chart Starmer’s downfall",
-        "url": "https://www.theguardian.com/politics/2026/jun/21/defiance-to-acceptance-five-quotes-keir-starmer-downfall-burnham",
-        "description": "In just 48 hours, the PM has felt the weight of political gravity and shifted from initial adamance he would fight onUK politics live – latest updatesRapid change has hardly been unusual in British...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer weighing 'political realities', ally says, as PM considers future",
+        "title": "Starmer considers political future as pressure to quit mounts",
         "url": "https://www.bbc.com/news/articles/cn8k1my75gno?at_medium=RSS&at_campaign=rss",
-        "description": "Cabinet minister Peter Kyle says the PM is \"mindful of the interests of the country\" amid calls for him to quit.",
+        "description": "It comes as US President Donald Trump says on social media that the PM will resign, in a further blow to the Labour leader.",
         "source": "BBC News",
         "category": "government"
       }
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Lives are being ruined by undiagnosed hypermobility and lack of treatment | Letter",
+        "url": "https://www.theguardian.com/society/2026/jun/21/undiagnosed-hypermobility-ehlers-danlos-syndrome-britain",
+        "description": "Ignorance around hypermobile Ehlers-Danlos syndrome is a public health catastrophe, say readers in response to an article on how sufferers have to wait 21 years for a diagnosisYour coverage of hype...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Emergency medicine is in crisis – why is this allowed to continue? | Letters",
         "url": "https://www.theguardian.com/society/2026/jun/19/emergency-medicine-is-in-crisis-why-is-this-allowed-to-continue",
         "description": "Dr Carole Gavin says if the government fails to act it will bear the responsibility for yet more avoidable deaths, while Sarah Brown describes her mother’s experienceThe experience of working in A&...",
@@ -73,13 +80,6 @@
         "title": "Digested week: Struggling bees and the G7’s hot mics may speak volumes",
         "url": "https://www.theguardian.com/uk-news/2026/jun/19/digested-week-g7-summit-hot-mic-moments",
         "description": "Are we in the opening scenes of a disaster movie? There’s something going on with insectsIt’s the start of the G7, guaranteeing us a week of either serious commentary or hot mic moments that may, i...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Elizabeth Greenhall obituary",
-        "url": "https://www.theguardian.com/society/2026/jun/19/elizabeth-greenhall-obituary",
-        "description": "My friend Liz Greenhall, who has died aged 83, was a public health consultant who was responsible for family planning services in Oxfordshire. Her work broke new ground in the provision of healthca...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "More than 2m Indian students resit medical entrance exam after alleged leak",
+        "url": "https://www.theguardian.com/world/2026/jun/21/more-than-2m-indian-students-resit-medical-entrance-exam-after-alleged-leak",
+        "description": "Applicants forced to retake one of the world’s toughest admission tests after claims questions sold on TelegramMore than 2 million aspiring Indian doctors have sat one of the world’s toughest entra...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "I can’t afford a tutor to help my daughter get into grammar school. Will she still fulfil her potential? | Annalisa Barbieri",
         "url": "https://www.theguardian.com/lifeandstyle/2026/jun/21/cant-afford-tutor-daughter-grammar-school-fulfil-potential",
         "description": "You may be projecting your own school experience on to your daughter, but her needs are different and she has you to support herI have two children aged eight and four. My eight-year-old is very br...",
@@ -156,13 +163,6 @@
         "title": "City & Guilds scraps mass redundancies and offshoring UK jobs to Greece",
         "url": "https://www.theguardian.com/education/2026/jun/18/city-and-guilds-scraps-mass-redundancies-offshoring-uk-jobs-to-greece",
         "description": "PeopleCert had been planning to cut about 400 jobs in £22m savings drive at training body it bought last yearThe vocational training body City & Guilds has guaranteed that plans for mass compulsory...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "VAT on private school fees not caused exodus to state sector, says Bridget Phillipson",
-        "url": "https://www.theguardian.com/education/2026/jun/18/vat-private-school-fees-not-caused-pupil-exodus-bridget-phillipson",
-        "description": "Education secretary cites admissions data for England, saying Labour is ‘rebalancing the system to focus on 94% of kids in state schools’Adding VAT to private school fees has failed to trigger an e...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
-        "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
-        "description": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
+        "title": "US and Iran begin talks on initial peace deal in Switzerland",
+        "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+        "description": "The face-to-face meeting follows ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Colombia's escalating, brutal internal conflict is defining its presidential election",
-        "url": "https://www.bbc.com/news/articles/cvgqv8q1ndpo?at_medium=RSS&at_campaign=rss",
-        "description": "A left-wing senator who backs talks with armed gangs faces an outsider endorsed by Trump.",
+        "title": "Ethiopia PM's party wins landslide as fears grow of new conflict",
+        "url": "https://www.bbc.com/news/articles/cz750q5e3w3o?at_medium=RSS&at_campaign=rss",
+        "description": "Abiy Ahmed's party retains its huge majority despite unrest in several parts of Ethiopia and tensions with its neighbours.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
