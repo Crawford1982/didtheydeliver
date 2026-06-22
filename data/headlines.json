@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-06-21T19:28:00.728730+00:00",
+  "fetched_at": "2026-06-22T04:06:56.647936+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "UK taxpayers want higher levies on big tech companies, survey shows",
+        "url": "https://www.theguardian.com/politics/2026/jun/22/uk-tax-higher-levies-big-tech-digital-services",
+        "description": "Two-thirds of respondents support increasing the 2% digital services tax for multinationalsTaxpayers want the UK to increase levies on giant global technology companies such as Facebook owner Meta,...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Starmer expected to announce exit plan to clear way for Burnham to become PM",
         "url": "https://www.theguardian.com/politics/2026/jun/21/keir-starmer-expected-exit-plan-clear-way-andy-burnham-become-pm",
@@ -13,13 +20,6 @@
         "title": "Starmer expected to announce departure on Monday as growing numbers of MPs back Burnham for PM – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/21/keir-starmer-expected-resign-resignation-monday--andy-burnham-makerfield-labour-uk-politics-latest-news-updates",
         "description": "PM said to be reflecting on ‘political realities’, as president Trump joins in criticism of his leadership saying he has ‘failed badly’ Keir Starmer expected to announce departure as prime minister...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham ally to unveil ambitious plan to reverse decades of privatisation",
-        "url": "https://www.theguardian.com/politics/2026/jun/21/burnham-ally-to-unveil-ambitious-plan-to-reverse-decades-of-privatisation",
-        "description": "Exclusive: Productive State policy paper envisages state regaining control of basics to make life affordable, in fleshing out of ManchesterismAndy Burnham’s government should reverse 40 years of pr...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -40,6 +40,13 @@
         "category": "economy"
       },
       {
+        "title": "Clearance rates hit six-year low as more than half of Australian homes up for auction fail to sell",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/22/auction-clearance-rates-six-year-low-australian-homes",
+        "description": "Preliminary data show 47.7% of homes sold at auction in the week ending 21 June, the lowest rate has been since April 2020Follow our Australia news live blog for latest updatesGet our breaking news...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Trump hails Iran deal but conflict continues to cast long shadow over global economy",
         "url": "https://www.theguardian.com/business/2026/jun/21/trump-iran-deal-long-shadow-global-economy",
         "description": "As the price of crude oil falls governments are counting the costs of the war in the Middle East Hailing his Iran deal this week amid the excess of Versailles, Donald Trump urged sceptics to take W...",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Condemned to plutocracy? The relentless rise of US inequality",
-        "url": "https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy",
-        "description": "Elon Musk is a beneficiary of America’s lopsided prosperity – does the country have any appetite for redistribution?As Barack Obama’s presidency was coming to a close, Jason Furman, then chairman o...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Plans to end gazumping with binding agreements in house sales shake-up",
-        "url": "https://www.bbc.com/news/articles/c6216g52p8wo?at_medium=RSS&at_campaign=rss",
-        "description": "Sales agreements will be legally binding sooner and making sellers provide more home information up front are part of the planned changes.",
+        "title": "Fake romance to missed deliveries: How to protect yourself from three common scams",
+        "url": "https://www.bbc.com/news/articles/cx2xq1vngvdo?at_medium=RSS&at_campaign=rss",
+        "description": "Romance and investment fraud is at record levels but what can you do to prevent being caught out.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "US and Iran begin talks on initial peace deal in Switzerland",
+        "title": "First round of US-Iran talks end with 'encouraging progress', mediators say",
         "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-        "description": "The face-to-face meeting follows ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.",
+        "description": "The US-Iran talks began on Sunday in Switzerland, after last week's agreement, which includes a commitment to reach a final deal within 60 days.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
