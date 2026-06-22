@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-06-22T16:54:08.815057+00:00",
+  "fetched_at": "2026-06-22T20:46:22.980491+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Andy Burnham sworn in as an MP after Keir Starmer resigns as prime minister - UK politics live",
+        "title": "Andy Burnham sworn in as an MP after Keir Starmer resigns as prime minister - as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates",
         "description": "The prime minister said a new leader will be in place before parliament returns in SeptemberFull report: Keir Starmer to step down as prime minister two years after historic election victoryWes Str...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer resigns as UK prime minister - The Latest",
-        "url": "https://www.theguardian.com/politics/audio/2026/jun/22/starmer-resigns-uk-prime-minister-the-latest",
-        "description": "Keir Starmer has announced he is standing down as prime minister after days of intense pressure from Labour MPs, including cabinet ministers, following Andy Burnham’s byelection victory in Makerfie...",
+        "title": "Burnham prepares for power as an emotional Starmer bows out",
+        "url": "https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation",
+        "description": "New Makerfield MP could get keys to No 10 unopposed after British prime minister’s resignation paves way for successorKeir Starmer has finally bowed to intense pressure to stand down as British pri...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Jeffrey Donaldson found guilty of child sexual offences including rape",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/22/jeffrey-donaldson-found-guilty-of-child-sexual-offences-including",
-        "description": "Former DUP leader convicted of 18 offences against two victims after high-profile trial that gripped Northern Ireland‘A sinful nature’: how Jeffrey Donaldson was unmasked as a sexual predatorJeffre...",
+        "title": "Andy Burnham supporters divided over who should be his chancellor",
+        "url": "https://www.theguardian.com/politics/2026/jun/22/andy-burnham-supporters-divided-chancellor-ed-miliband-wes-streeting",
+        "description": "Briefing war breaks out between advocates for Wes Streeting and those close to Ed MilibandAndy Burnham’s supporters are divided over who should be his chancellor, with a briefing war breaking out b...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer quits as Labour leader and paves way for contest for new prime minister",
-        "url": "https://www.bbc.com/news/articles/cdxd00lg599o?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Keir delivered a statement to announce his planned departure from Downing Street.",
+        "title": "Analysis: Everything points to Burnham becoming PM within weeks",
+        "url": "https://www.bbc.com/news/articles/c20y1zvg50lo?at_medium=RSS&at_campaign=rss",
+        "description": "If no leadership contest presents itself, Andy Burnham may not have to wait until September to enter Number 10.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Keir Starmer’s economic legacy – in charts",
+        "url": "https://www.theguardian.com/politics/2026/jun/22/keir-starmer-economy-labour-growth-unemployment",
+        "description": "PM said Labour had turned economy around – but his record on growth and unemployment appears mixedKeir Starmer used his leaving speech to lay out a long list of Labour’s achievements in office – bu...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Alan Greenspan obituary",
         "url": "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary",
@@ -43,13 +50,6 @@
         "title": "Markets steady as prime minister Keir Starmer resigns; ex-Fed chair Alan Greenspan dies at 100 – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live",
         "description": "Sterling and gilts avoided major swings amid Starmer’s resignationMarkets seem to be appeased by news of a (relatively) standard leadership contest, which will shake out any policy positions from p...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "The ungovernable country? Why Britain keeps losing prime ministers",
-        "url": "https://www.theguardian.com/politics/2026/may/17/the-ungovernable-country-why-britain-keeps-losing-prime-ministers",
-        "description": "May, Johnson, Truss, Sunak, and now Starmer: each one was brought low for a reason. But what if the deeper problem is the office itself?They were times in which prime ministers seemed to be on thei...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Jeremy Clarkson in remission from prostate cancer",
-        "url": "https://www.bbc.com/news/articles/czj8kgg4rrro?at_medium=RSS&at_campaign=rss",
-        "description": "The presenter shared his \"aggressive\" cancer diagnosis on an episode of Clarkson's Farm earlier this week.",
+        "title": "Puberty blocker trial will help reduce harm, says Cass report author",
+        "url": "https://www.bbc.com/news/articles/cvg5njnn8k8o?at_medium=RSS&at_campaign=rss",
+        "description": "Dr Hilary Cass says she is \"absolutely convinced that more children will be harmed if we don't do the trial than if we do.\"",
         "source": "BBC News",
         "category": "nhs"
       }
