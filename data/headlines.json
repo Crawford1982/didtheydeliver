@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-06-23T09:36:19.226870+00:00",
+  "fetched_at": "2026-06-23T14:45:48.788690+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Nigel Farage says £5m gift from crypto billionaire is ‘not any of your business’",
+        "title": "No 10 says there will be ‘no new major policy or spending commitments’ before new PM appointed – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates",
+        "description": "Spokesperson did not suggest this would cover the defence investment plan and added Burnham will be allowed civil service ‘access talks’ Peter Walker is a senior Guardian political correspondent.Th...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham adviser calls for billions of pounds in borrowing for infrastructure",
+        "url": "https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure",
+        "description": "Exclusive: Jim O’Neill, a former chief economist at Goldman Sachs, says government should spend more on big projectsUK politics live – latest updatesThe man tapped by Andy Burnham to be his chief e...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Nigel Farage: I can spend £5m gift on Ferraris or betting on horses if I want",
         "url": "https://www.theguardian.com/politics/2026/jun/23/nigel-farage-5m-gift-crypto-billionaire-not-any-of-your-business",
         "description": "Reform leader says it is ‘purely private matter’ and it is not hypocritical to criticise Keir Starmer for receiving glassesUK politics live – latest updatesNigel Farage has said his £5m gift from a...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Minister calls for ‘swift transition’ of power to Burnham without challenge over Labour leadership – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates",
-        "description": "Former Starmer loyalist Nick Thomas-Symonds suggests battle would not be in ‘best interests of the country’, as Al Carns and Darren Jones decline to rule out bidsPeter Murrell, the former SNP chief...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "MPs urge Darren Jones to run against Andy Burnham for Labour leadership",
-        "url": "https://www.theguardian.com/politics/2026/jun/23/darren-jones-andy-burnham-labour-leadership",
-        "description": "Chief secretary to the prime minister is backed by MPs who point to his ‘economic and national security experience’UK politics live – latest updatesDarren Jones, the chief secretary to the prime mi...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Chris Mason: Questions multiply for the man tipped to replace Starmer",
-        "url": "https://www.bbc.co.uk/news/articles/cn8k4kyrdn5o?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham will have to set out his stall to show how he will deliver on his promises, the BBC's political editor writes.",
+        "title": "PM to push ahead with controversial defence plan despite resignation",
+        "url": "https://www.bbc.co.uk/news/articles/c892dvvwpjjo?at_medium=RSS&at_campaign=rss",
+        "description": "The government says it is still planning to publish the spending proposals before a Nato Summit on 7 July.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Burnham adviser calls for billions of pounds in borrowing for infrastructure",
+        "url": "https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure",
+        "description": "Exclusive: Jim O’Neill, a former chief economist at Goldman Sachs, says government should spend more on big projectsUK politics live – latest updatesThe man tapped by Andy Burnham to be his chief e...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "RIP Alan Greenspan: you were charming, powerful, and wrong | Robert Reich",
         "url": "https://www.theguardian.com/commentisfree/2026/jun/23/alan-greenspan-federal-reserve",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Alan Greenspan obituary",
-        "url": "https://www.theguardian.com/business/2026/jun/22/alan-greenspan-obituary",
-        "description": "American economist and long-serving head of the Federal Reserve widely praised  for the US boom whose reputation was re-evaluated in the wake of the 2008 crashFor his work chairing the US Federal R...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Ticket reseller StubHub UK customers to get refunds over illegal hidden fees",
-        "url": "https://www.bbc.co.uk/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
-        "description": "The Competition and Markets Authority said StubHub must refund 50,000 customers and pay a fine.",
+        "title": "Who could be the UK's next chancellor?",
+        "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Puberty blocker trial will help reduce harm, says Cass report author",
-        "url": "https://www.bbc.co.uk/news/articles/cvg5njnn8k8o?at_medium=RSS&at_campaign=rss",
-        "description": "Dr Hilary Cass says she is \"absolutely convinced that more children will be harmed if we don't do the trial than if we do.\"",
+        "title": "First drug to delay onset of type 1 diabetes made available on NHS",
+        "url": "https://www.bbc.co.uk/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss",
+        "description": "The immunotherpay can give children and adults three extra years before they need to use insulin.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,35 +116,42 @@
     ],
     "climate": [
       {
-        "title": "Europe heatwave live: UK temperatures forecast to reach 38C after overnight storms; French PM to hold crisis meeting after heat deaths",
+        "title": "Hundreds of schools in England and Wales to close in heatwave",
+        "url": "https://www.theguardian.com/education/2026/jun/23/schools-england-wales-close-heatwave",
+        "description": "Unions say it is dangerous for schools to stay open in high temperatures Hundreds of schools across the south of England and Wales are expected to close or vary their hours this week, in an effort ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Europe heatwave live: Forty people drown in France; Met Office warns UK temperatures could reach 39C",
         "url": "https://www.theguardian.com/world/live/2026/jun/23/europe-heatwave-live-news-updates-uk-red-temperature-warnings-40-degrees-france-heat-deaths-crisis-meeting",
-        "description": "Temperatures could smash June record in England and Wales set in 1976; red alerts in France after 19 heat deathsTwo children found dead in car in France as heatwave hits EuropeItaly’s health minist...",
+        "description": "French PM to hold emergency meeting after heat deaths; ‘London is cooking,’ says UN secretary generalTell us: how is the heatwave in the UK and across Europe affecting you?Forty drown across France...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Extreme heat: is the UK becoming a 40C country? – podcast",
-        "url": "https://www.theguardian.com/science/audio/2026/jun/23/extreme-heat-is-uk-becoming-40c-country-podcast",
-        "description": "Met Office forecasters have issued a rare red weather warning for England, with temperatures potentially reaching 40C (104F) in some places. Europe is also dealing with a debilitating heatwave, wit...",
+        "title": "Two children found dead in car in France as heatwave hits Europe",
+        "url": "https://www.theguardian.com/environment/2026/jun/22/europe-record-heatwave-temperatures-forecast-reach-44c",
+        "description": "Number of countries issue alerts with sustained and rising temperatures expected to present danger to healthTwo children aged four and two have been found dead in their family’s car in south-easter...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Met Office issues rare red weather warning for Wednesday and Thursday",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/22/uk-met-office-issues-rare-red-weather-warning-for-wednesday-and-thursday",
-        "description": "UK Health Security Agency also issues red heat alert for six English regions, indicating risk to life even for the healthyMet Office forecasters have issued a rare red weather warning for Wednesday...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Seabed damaged by fishing showing signs of recovery",
-        "url": "https://www.bbc.co.uk/news/articles/c20y9zlzwyzo?at_medium=RSS&at_campaign=rss",
-        "description": "Campaigners say improvements to the area trashed by illegal dredging show that marine protection works.",
+        "title": "From cool-down spots to chalk on windows - how Europeans are coping with the heat",
+        "url": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss",
+        "description": "People across the continent are taking measures to cope with the searing temperatures gripping Europe.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Hundreds of schools in England and Wales to close in heatwave",
+        "url": "https://www.theguardian.com/education/2026/jun/23/schools-england-wales-close-heatwave",
+        "description": "Unions say it is dangerous for schools to stay open in high temperatures Hundreds of schools across the south of England and Wales are expected to close or vary their hours this week, in an effort ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Piglet, it’s a purple, psychedelic shapeshifter! The wild new creature prowling Winnie-the-Pooh’s wood",
         "url": "https://www.theguardian.com/stage/2026/jun/23/piglet-purple-psychedelic-shapeshifter-winnie-the-poohs-wood-ashdown-forest",
@@ -156,13 +163,6 @@
         "title": "More than 2m Indian students resit medical entrance exam after alleged leak",
         "url": "https://www.theguardian.com/world/2026/jun/21/more-than-2m-indian-students-resit-medical-entrance-exam-after-alleged-leak",
         "description": "Applicants forced to retake one of the world’s toughest admission tests after claims questions sold on TelegramMore than 2 million aspiring Indian doctors have sat one of the world’s toughest entra...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "I can’t afford a tutor to help my daughter get into grammar school. Will she still fulfil her potential? | Annalisa Barbieri",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/jun/21/cant-afford-tutor-daughter-grammar-school-fulfil-potential",
-        "description": "You may be projecting your own school experience on to your daughter, but her needs are different and she has you to support herI have two children aged eight and four. My eight-year-old is very br...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
+        "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
+        "description": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
         "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
         "description": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-        "url": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
-        "description": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Ransom note claims Nancy Guthrie died after abduction",
-        "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
-        "description": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
+        "title": "UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children",
+        "url": "https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss",
+        "description": "Israel rejects the new report by the three-member expert panel, calling it a \"libellous sham\".",
         "source": "BBC News",
         "category": "foreign_policy"
       }
