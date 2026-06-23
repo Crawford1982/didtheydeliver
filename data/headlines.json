@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-06-23T03:28:18.745467+00:00",
+  "fetched_at": "2026-06-23T09:36:19.226870+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Andy Burnham prepares for power as emotional Keir Starmer bows out",
-        "url": "https://www.theguardian.com/politics/2026/jun/22/burnham-prepares-power-emotional-starmer-uk-prime-minister-resignation",
-        "description": "New Makerfield MP could get keys to No 10 unopposed after British prime minister’s resignation paves way for successorWho is Andy Burnham, the ‘man of the people’ likely to be next UK prime ministe...",
+        "title": "Nigel Farage says £5m gift from crypto billionaire is ‘not any of your business’",
+        "url": "https://www.theguardian.com/politics/2026/jun/23/nigel-farage-5m-gift-crypto-billionaire-not-any-of-your-business",
+        "description": "Reform leader says it is ‘purely private matter’ and it is not hypocritical to criticise Keir Starmer for receiving glassesUK politics live – latest updatesNigel Farage has said his £5m gift from a...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham sworn in as an MP after Keir Starmer resigns as prime minister - as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/22/keir-starmer-resignation-timeable-andy-burnham-labour-leadership-prime-minister-latest-news-updates",
-        "description": "The prime minister said a new leader will be in place before parliament returns in SeptemberFull report: Keir Starmer to step down as prime minister two years after historic election victoryWes Str...",
+        "title": "Minister calls for ‘swift transition’ of power to Burnham without challenge over Labour leadership – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/23/burnham-leadership-contest-starmer-jones-streeting-eu-brexit-badenoch-latest-news-updates",
+        "description": "Former Starmer loyalist Nick Thomas-Symonds suggests battle would not be in ‘best interests of the country’, as Al Carns and Darren Jones decline to rule out bidsPeter Murrell, the former SNP chief...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham supporters divided over who should be his chancellor",
-        "url": "https://www.theguardian.com/politics/2026/jun/22/andy-burnham-supporters-divided-chancellor-ed-miliband-wes-streeting",
-        "description": "Briefing war breaks out between advocates for Wes Streeting and those close to Ed MilibandAndy Burnham’s supporters are divided over who should be his chancellor, with a briefing war breaking out b...",
+        "title": "MPs urge Darren Jones to run against Andy Burnham for Labour leadership",
+        "url": "https://www.theguardian.com/politics/2026/jun/23/darren-jones-andy-burnham-labour-leadership",
+        "description": "Chief secretary to the prime minister is backed by MPs who point to his ‘economic and national security experience’UK politics live – latest updatesDarren Jones, the chief secretary to the prime mi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour MPs mull leadership challenge to prevent Burnham 'coronation'",
-        "url": "https://www.bbc.com/news/articles/cx2kqd9ver1o?at_medium=RSS&at_campaign=rss",
-        "description": "Two senior party figures are considering bids in order to ensure the next leader's policy ideas are tested in a race.",
+        "title": "Chris Mason: Questions multiply for the man tipped to replace Starmer",
+        "url": "https://www.bbc.co.uk/news/articles/cn8k4kyrdn5o?at_medium=RSS&at_campaign=rss",
+        "description": "Andy Burnham will have to set out his stall to show how he will deliver on his promises, the BBC's political editor writes.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "RIP Alan Greenspan: you were charming, powerful, and wrong | Robert Reich",
+        "url": "https://www.theguardian.com/commentisfree/2026/jun/23/alan-greenspan-federal-reserve",
+        "description": "The former Federal Reserve chair was a smart guy – but he had a huge blind spot. Here’s what I wish I’d said to himAlan Greenspan has died at the age of 100.My students don’t recognize his name, bu...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Keir Starmer’s economic legacy – in charts",
         "url": "https://www.theguardian.com/politics/2026/jun/22/keir-starmer-economy-labour-growth-unemployment",
@@ -47,21 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "Markets steady as prime minister Keir Starmer resigns; ex-Fed chair Alan Greenspan dies at 100 – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/jun/22/oil-prices-fall-stock-markets-rise-us-iran-peace-talks-trump-burnham-starmer-pound-ftse-hormuz-business-live",
-        "description": "Sterling and gilts avoided major swings amid Starmer’s resignationMarkets seem to be appeased by news of a (relatively) standard leadership contest, which will shake out any policy positions from p...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Tesla crash that killed a woman under US federal investigation",
-        "url": "https://www.bbc.com/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
-        "description": "A Tesla driver on Friday said he was using ‘self-driving’ technology after his vehicle sped into a Texas home.",
+        "title": "Ticket reseller StubHub UK customers to get refunds over illegal hidden fees",
+        "url": "https://www.bbc.co.uk/news/articles/cd6enx152jlo?at_medium=RSS&at_campaign=rss",
+        "description": "The Competition and Markets Authority said StubHub must refund 50,000 customers and pay a fine.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Drug that delays onset of type 1 diabetes approved in England and Wales",
+        "url": "https://www.theguardian.com/society/2026/jun/23/drug-that-delays-onset-of-type-1-diabetes-approved-in-england-and-wales",
+        "description": "Availability of teplizumab on the NHS – which postpones early stages of disease for up to three years – described as an ‘incredible moment’The world’s first drug to delay the onset of type 1 diabet...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "From the NHS to new homes, Starmer’s successes and setbacks – in charts",
+        "url": "https://www.theguardian.com/politics/2026/jun/23/from-the-nhs-to-new-homes-starmers-successes-and-setbacks-in-charts",
+        "description": "The PM said in May that ‘stories beat spreadsheets’, but what does the data tell us about his time in office?Keir Starmer is to step down as prime minister after just two years in office.Despite pr...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "‘Truly horrific’: the stories of five people affected by the NHS maternity scandal",
         "url": "https://www.theguardian.com/society/2026/jun/22/nhs-maternity-scandal-nottingham-report-five-stories",
@@ -70,22 +84,8 @@
         "category": "nhs"
       },
       {
-        "title": "Report on Nottingham NHS maternity scandal to reveal ‘horrendous’ failings",
-        "url": "https://www.theguardian.com/society/2026/jun/22/nottingham-nhs-maternity-scandal-ockenden-report",
-        "description": "Insider indicates Ockenden inquiry has uncovered appalling behaviour including racism toward mothersThe report of the inquiry into the biggest maternity scandal in NHS history will outline “horrend...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "I disagree with Andy Burnham’s politics. But as former health secretaries, we both know the NHS needs to be fixed | Jeremy Hunt",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/22/andy-burnham-nhs-jeremy-hunt-politics",
-        "description": "As prime minister, he would have a unique chance to turn the world’s most bureaucratic health service into its most innovative oneIf Andy Burnham moves from Manchester to No 10, he will be the firs...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Puberty blocker trial will help reduce harm, says Cass report author",
-        "url": "https://www.bbc.com/news/articles/cvg5njnn8k8o?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cvg5njnn8k8o?at_medium=RSS&at_campaign=rss",
         "description": "Dr Hilary Cass says she is \"absolutely convinced that more children will be harmed if we don't do the trial than if we do.\"",
         "source": "BBC News",
         "category": "nhs"
@@ -93,28 +93,42 @@
     ],
     "immigration": [
       {
+        "title": "From the NHS to new homes, Starmer’s successes and setbacks – in charts",
+        "url": "https://www.theguardian.com/politics/2026/jun/23/from-the-nhs-to-new-homes-starmers-successes-and-setbacks-in-charts",
+        "description": "The PM said in May that ‘stories beat spreadsheets’, but what does the data tell us about his time in office?Keir Starmer is to step down as prime minister after just two years in office.Despite pr...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "From bendy bananas to £350m for the NHS – how many Brexit promises actually came true?",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/23/from-bendy-bananas-to-350m-for-the-nhs-how-many-brexit-promises-actually-came-true",
+        "description": "Leaving the EU was supposed to solve Britain’s border issues, slash bureaucracy, revitalise the health service, even supercharge vacuum cleaners. How much control did we really take back?UK marks 1...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "UK and France rewrite ‘one in one out’ treaty to stop removed migrants returning",
         "url": "https://www.theguardian.com/uk-news/2026/jun/22/uk-and-france-rewrite-one-in-one-out-treaty-to-stop-removed-migrants-returning",
         "description": "People smugglers have been using lorries to bring people deported to France under the deal back to the UKThe UK and France have been forced to rewrite the “one in, one out” deal because of concerns...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Late Windrush victim’s compensation to fund prize for British Caribbean playwrights",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/22/late-windrush-victims-compensation-to-fund-prize-for-british-caribbean-playwrights",
-        "description": "The Windrush Prize will award £10,000 to the writer of the winning play, which will receive a run at the Arcola theatre next yearThe first prize dedicated to discovering and developing British Cari...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Oxfordshire council seeks injunction over flags tied to lamp-posts across county",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/18/oxfordshire-council-seeks-injunction-over-flags-tied-to-lamp-posts-across-county",
-        "description": "Council says it has so far spent £15,000 removing flags put up under campaign linked to anti-immigration protestsOxfordshire county council is seeking an injunction against the Raise the Colours ca...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Europe heatwave live: UK temperatures forecast to reach 38C after overnight storms; French PM to hold crisis meeting after heat deaths",
+        "url": "https://www.theguardian.com/world/live/2026/jun/23/europe-heatwave-live-news-updates-uk-red-temperature-warnings-40-degrees-france-heat-deaths-crisis-meeting",
+        "description": "Temperatures could smash June record in England and Wales set in 1976; red alerts in France after 19 heat deathsTwo children found dead in car in France as heatwave hits EuropeItaly’s health minist...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Extreme heat: is the UK becoming a 40C country? – podcast",
+        "url": "https://www.theguardian.com/science/audio/2026/jun/23/extreme-heat-is-uk-becoming-40c-country-podcast",
+        "description": "Met Office forecasters have issued a rare red weather warning for England, with temperatures potentially reaching 40C (104F) in some places. Europe is also dealing with a debilitating heatwave, wit...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Met Office issues rare red weather warning for Wednesday and Thursday",
         "url": "https://www.theguardian.com/uk-news/2026/jun/22/uk-met-office-issues-rare-red-weather-warning-for-wednesday-and-thursday",
@@ -123,28 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Two children found dead in car in France as heatwave hits Europe",
-        "url": "https://www.theguardian.com/environment/2026/jun/22/europe-record-heatwave-temperatures-forecast-reach-44c",
-        "description": "Number of countries issue alerts with sustained and rising temperatures expected to present danger to healthTwo children aged four and two have been found dead in their family’s car in south-easter...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "From mobile jungles to shadow art: how Dutch people try to beat the heat",
-        "url": "https://www.theguardian.com/world/2026/jun/22/from-mobile-jungles-to-shadow-art-how-dutch-people-try-to-beat-the-heat",
-        "description": "A national heatwave plan has been activated to help people stay cool during the Netherlands’ increasingly hot summersHouseholds in Amsterdam are being urged to hang their curtains outside their win...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Seabed damaged by fishing showing signs of recovery",
-        "url": "https://www.bbc.com/news/articles/c20y9zlzwyzo?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/c20y9zlzwyzo?at_medium=RSS&at_campaign=rss",
         "description": "Campaigners say improvements to the area trashed by illegal dredging show that marine protection works.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Piglet, it’s a purple, psychedelic shapeshifter! The wild new creature prowling Winnie-the-Pooh’s wood",
+        "url": "https://www.theguardian.com/stage/2026/jun/23/piglet-purple-psychedelic-shapeshifter-winnie-the-poohs-wood-ashdown-forest",
+        "description": "Is it an alien? A dinosaur? Is it going to kill us all? Our writer hits Ashdown Forest for the Big One Hundred celebrations – and finds its magic enchanting new generationsThe rolling idyll of heat...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "More than 2m Indian students resit medical entrance exam after alleged leak",
         "url": "https://www.theguardian.com/world/2026/jun/21/more-than-2m-indian-students-resit-medical-entrance-exam-after-alleged-leak",
@@ -158,13 +165,6 @@
         "description": "You may be projecting your own school experience on to your daughter, but her needs are different and she has you to support herI have two children aged eight and four. My eight-year-old is very br...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "City & Guilds scraps mass redundancies and offshoring UK jobs to Greece",
-        "url": "https://www.theguardian.com/education/2026/jun/18/city-and-guilds-scraps-mass-redundancies-offshoring-uk-jobs-to-greece",
-        "description": "PeopleCert had been planning to cut about 400 jobs in £22m savings drive at training body it bought last yearThe vocational training body City & Guilds has guaranteed that plans for mass compulsory...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
@@ -176,38 +176,38 @@
         "category": "housing"
       },
       {
-        "title": "Obama Center opening stirs pride and unease for Chicago’s South Side amid displacement fears",
-        "url": "https://www.theguardian.com/us-news/2026/jun/19/obama-presidential-center-chicago-gentrification",
-        "description": "South Siders voice concerns about gentrification, housing and affordability as they celebrate opening of the Obama Presidential Center Pastor Jeffery Campbell has deep ties to Chicago’s Woodlawn ne...",
+        "title": "From the NHS to new homes, Starmer’s successes and setbacks – in charts",
+        "url": "https://www.theguardian.com/politics/2026/jun/23/from-the-nhs-to-new-homes-starmers-successes-and-setbacks-in-charts",
+        "description": "The PM said in May that ‘stories beat spreadsheets’, but what does the data tell us about his time in office?Keir Starmer is to step down as prime minister after just two years in office.Despite pr...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Not so empty nesters: record-high number of US adults under 35 live at home, new data says",
-        "url": "https://www.theguardian.com/society/2026/jun/18/us-adults-under-35-living-at-home",
-        "description": "Data shows that the increase in at-home living stems from high housing costs rather than labor market conditionsA record number of the US’s young adults were living with their parents last year, ac...",
+        "title": "Obama Center opening stirs pride and unease for Chicago’s South Side amid displacement fears",
+        "url": "https://www.theguardian.com/us-news/2026/jun/19/obama-presidential-center-chicago-gentrification",
+        "description": "South Siders voice concerns about gentrification, housing and affordability as they celebrate opening of the Obama Presidential Center Pastor Jeffery Campbell has deep ties to Chicago’s Woodlawn ne...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "US eases oil sanctions as Iran denies Vance claim on nuclear inspectors",
-        "url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
+        "title": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+        "url": "https://www.bbc.co.uk/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
         "description": "Iran's foreign ministry says it made \"no new commitments\" on nuclear inspections after talks in Switzerland.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
         "title": "At least 13 killed and dozens injured after Qatar gas explosion",
-        "url": "https://www.bbc.com/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cwy05llpjpno?at_medium=RSS&at_campaign=rss",
         "description": "The city's main liquified natural gas (LNG) processing site suffered a \"technical accident\" in the Ras Laffan industrial zone.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
         "title": "Ransom note claims Nancy Guthrie died after abduction",
-        "url": "https://www.bbc.com/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
         "description": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
         "source": "BBC News",
         "category": "foreign_policy"
