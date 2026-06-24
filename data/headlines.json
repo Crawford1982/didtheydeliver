@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-23T20:02:36.802722+00:00",
+  "fetched_at": "2026-06-24T03:30:16.083439+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK defence secretary promises delayed investment plan before Nato summit",
-        "url": "https://www.theguardian.com/politics/2026/jun/23/dan-jarvis-promises-delayed-uk-defence-investment-plan-before-nato-summit",
-        "description": "Dan Jarvis, who took the role earlier this month, is said to have secured around one billion pounds more for the plan than his predecessorDan Jarvis, the new defence secretary, promised to publish ...",
+        "title": "Britain, Brexit, Burnham: how was it for EU? – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/jun/24/britain-brexit-burnham-how-was-it-for-eu-podcast",
+        "description": "A decade after Brexit, the UK simply can’t shake the legacy of the referendum. But with shifting public opinion and the rise of Andy Burnham, could Britain be plotting a path back to the EU?It’s be...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Hard-right figures take aim at Ed Miliband and UK net zero policies at ‘anti-woke Davos’",
-        "url": "https://www.theguardian.com/politics/2026/jun/23/populist-and-rightwing-figures-take-aim-at-ed-miliband-and-uk-net-zero-policies-at-anti-woke-davos",
-        "description": "Kemi Badenoch, who joined US anti-abortion activists and European far-right parties at ARC, described energy secretary as a ‘villain’Britain’s net zero policies and the energy secretary, Ed Miliban...",
+        "title": "Weakening UK net zero policy would damage economy, chief climate adviser says",
+        "url": "https://www.theguardian.com/environment/2026/jun/24/weakening-net-zero-policy-damage-economy-climate-change-committee",
+        "description": "Climate Change Committee chair Nigel Topping says U-turns damage investor confidence and disrupt businessesWeakening the UK’s net zero policy would disrupt business and damage the economy, the UK’s...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham and Starmer hold ‘frosty’ meeting to thrash out transition of power",
-        "url": "https://www.theguardian.com/politics/2026/jun/23/burnham-and-starmer-hold-frosty-meeting-to-thrash-out-transition-of-power",
-        "description": "With Burnham and his team potentially having only weeks before he becomes PM, Starmer has agreed to give him access to civil serviceKeir Starmer has met Andy Burnham for the first time since the Ma...",
+        "title": "Andy Burnham picks former Blair minister James Purnell as chief of staff",
+        "url": "https://www.theguardian.com/politics/2026/jun/23/andy-burnham-picks-former-blair-minister-james-purnell-as-his-chief-of-staff",
+        "description": "Decision is one of Makerfield MP’s most significant since his Westminster return as he builds his team for governmentAndy Burnham has chosen his Blairite former colleague James Purnell as his chief...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -42,7 +42,7 @@
       {
         "title": "Burnham adviser calls for billions of pounds in borrowing for infrastructure",
         "url": "https://www.theguardian.com/politics/2026/jun/23/burnham-adviser-government-borrowing-infrastructure",
-        "description": "Exclusive: Jim O’Neill, a former chief economist at Goldman Sachs, says government should spend more on big projectsUK politics live – latest updatesThe man tapped by Andy Burnham to be his chief e...",
+        "description": "Exclusive: Jim O’Neill, a former chief economist at Goldman Sachs, says government should spend more on big projectsThe man tapped by Andy Burnham to be his chief economic adviser has called for bi...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Who could be the UK's next chancellor?",
-        "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister's resignation has fired the starting gun on the race to be in charge of the UK's finances.",
+        "title": "The economic challenges facing the next prime minister",
+        "url": "https://www.bbc.co.uk/news/articles/crkvj0ngzexo?at_medium=RSS&at_campaign=rss",
+        "description": "Though the person in charge of the country will change, the fiscal issues remain the same.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "First drug to delay onset of type 1 diabetes made available on NHS",
-        "url": "https://www.bbc.co.uk/news/articles/ce8mzd94r76o?at_medium=RSS&at_campaign=rss",
-        "description": "The immunotherpay can give children and adults three extra years before they need to use insulin.",
+        "title": "Want to feel happier at work? Take a five-minute walk",
+        "url": "https://www.bbc.co.uk/news/articles/c78yzz936evo?at_medium=RSS&at_campaign=rss",
+        "description": "Sitting for prolonged periods is associated with health complications – but you can counteract the risks of a sedentary life.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Weakening UK net zero policy would damage economy, chief climate adviser says",
+        "url": "https://www.theguardian.com/environment/2026/jun/24/weakening-net-zero-policy-damage-economy-climate-change-committee",
+        "description": "Climate Change Committee chair Nigel Topping says U-turns damage investor confidence and disrupt businessesWeakening the UK’s net zero policy would disrupt business and damage the economy, the UK’s...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Hard-right figures take aim at Ed Miliband and UK net zero policies at ‘anti-woke Davos’",
         "url": "https://www.theguardian.com/politics/2026/jun/23/populist-and-rightwing-figures-take-aim-at-ed-miliband-and-uk-net-zero-policies-at-anti-woke-davos",
         "description": "Kemi Badenoch, who joined US anti-abortion activists and European far-right parties at ARC, described energy secretary as a ‘villain’Britain’s net zero policies and the energy secretary, Ed Miliban...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Forty people drown in France; Met Office warns UK temperatures could reach 39C – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/jun/23/europe-heatwave-live-news-updates-uk-red-temperature-warnings-40-degrees-france-heat-deaths-crisis-meeting",
-        "description": "France records hottest ever day as much of Europe endures extreme heat; ‘London is cooking,’ says UN secretary generalTell us: how is the heatwave in the UK and across Europe affecting you?Forty dr...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
-        "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-        "description": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
+        "title": "Hundreds of schools plan closures ahead of red heat alerts",
+        "url": "https://www.bbc.co.uk/news/articles/cwyl940y94xo?at_medium=RSS&at_campaign=rss",
+        "description": "The temperature topped 34.6 C in Wisley, England, on Tuesday while Scotland and Northern Ireland saw their hottest days of the year.",
         "source": "BBC News",
         "category": "climate"
       }
