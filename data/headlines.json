@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-06-25T19:58:42.084244+00:00",
+  "fetched_at": "2026-06-26T03:35:35.261873+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Mahmood in standoff with Starmer over sacking of her junior minister",
+        "title": "Mahmood in standoff with Starmer over No 10 not sacking junior minister",
         "url": "https://www.theguardian.com/politics/2026/jun/25/mahmood-in-standoff-with-starmer-over-sacking-of-her-junior-minister",
-        "description": "No 10 refused demand to immediately remove immigration minister over breach of ministerial codeShabana Mahmood is locked in an extraordinary standoff with Keir Starmer after Downing Street refused ...",
+        "description": "Mike Tapp wrote unauthorised article saying new settlement rules should not cover overseas care workers Shabana Mahmood is locked in an extraordinary standoff with Keir Starmer after Downing Street...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Burnham could be leader in weeks under Labour timetable",
-        "url": "https://www.bbc.co.uk/news/articles/cnv9e18r2qyo?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham could take over from Keir Starmer by 17 July, if he continues to be the only Labour MP in the race.",
+        "title": "Chris Mason: The anatomy of the prime minister's downfall",
+        "url": "https://www.bbc.co.uk/news/articles/ckg8kkdx7l9o?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Keir, like his predecessors Liz Truss and Boris Johnson, lost the capacity to viably govern, our political editor writes.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Ryanair says it will reluctantly not charge parents to sit next to children",
-        "url": "https://www.bbc.co.uk/news/articles/cdr4zy4e1n1o?at_medium=RSS&at_campaign=rss",
-        "description": "The airline had typically charged adults a fee of £8 each way to sit with their young children.",
+        "title": "Warning over power bank fire risk on flights as summer holidays begin",
+        "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
+        "description": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
+        "title": "Charities condemn ‘arrogant’ plans to house asylum seekers at former military sites",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/25/charities-condemn-arrogant-plans-to-house-asylum-seekers-at-former-military-sites",
+        "description": "Planning permission has been sought for three additional military sites Home Office plans to use three more former military sites to house thousands of asylum seekers have been condemned as “arroga...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Mahmood in standoff with Starmer over No 10 not sacking junior minister",
+        "url": "https://www.theguardian.com/politics/2026/jun/25/mahmood-in-standoff-with-starmer-over-sacking-of-her-junior-minister",
+        "description": "Mike Tapp wrote unauthorised article saying new settlement rules should not cover overseas care workers Shabana Mahmood is locked in an extraordinary standoff with Keir Starmer after Downing Street...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Reform UK plan to target EU nationals based in Britain ‘absolutely outrageous’",
         "url": "https://www.theguardian.com/uk-news/2026/jun/25/reform-uk-plan-target-eu-nationals-britain-brexit",
         "description": "Exclusive: Rights group says Nigel Farage’s party is reneging on promises made during the Brexit referendum campaignUK politics live – latest updatesEU nationals based permanently in the UK have ex...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Mahmood in standoff with Starmer over sacking of her junior minister",
-        "url": "https://www.theguardian.com/politics/2026/jun/25/mahmood-in-standoff-with-starmer-over-sacking-of-her-junior-minister",
-        "description": "No 10 refused demand to immediately remove immigration minister over breach of ministerial codeShabana Mahmood is locked in an extraordinary standoff with Keir Starmer after Downing Street refused ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Shabana Mahmood’s immigration and asylum bill to go before MPs next week",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/24/shabana-mahmood-immigration-and-asylum-bill-to-go-before-mps-next-week",
-        "description": "Refugee charities fear controversial changes, including on forced removals and age checks, are being rushed throughShabana Mahmood’s controversial plans to increase the forced removal of people ref...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -132,7 +132,7 @@
       {
         "title": "UK and Switzerland record hottest ever June day as health emergencies surge in Europe",
         "url": "https://www.theguardian.com/environment/2026/jun/25/highest-june-minimum-temperature-record-broken-cardiff-savage-heatwave-continues",
-        "description": "Temperatures linked to third child’s death in France, where three-quarters of country is under extreme heat alertEurope live – latest updatesThe UK and Switzerland both recorded the hottest-ever Ju...",
+        "description": "Temperatures linked to third child’s death in France, where three-quarters of country is under extreme heat alertThe UK and Switzerland both recorded the hottest-ever June temperatures on Thursday,...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -148,7 +148,7 @@
       {
         "title": "Unions urge teachers to strike as French school exams go ahead in up to 40C heat",
         "url": "https://www.theguardian.com/world/2026/jun/25/unions-urge-teachers-strike-french-school-exams-heat",
-        "description": "Claims health of staff and children at risk as France struggles to adapt heat-trap school buildingsEurope live – latest updatesTeachers in France are risking their own and students’ health in overh...",
+        "description": "Claims health of staff and children at risk as France struggles to adapt heat-trap school buildingsTeachers in France are risking their own and students’ health in overheated schools as a severe he...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
+        "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
+        "description": "At least 4,300 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
         "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
         "description": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
@@ -202,13 +209,6 @@
         "title": "People flee as building collapses on Caracas outskirts",
         "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
         "description": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "France warns even young people's health at risk as Europe's heatwave shifts east",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0pdq89zno?at_medium=RSS&at_campaign=rss",
-        "description": "Temperatures in Germany could hit 40C in some areas while French officials say deaths linked to the heat are being seen among young people.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
