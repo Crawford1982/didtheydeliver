@@ -1,39 +1,39 @@
 {
-  "fetched_at": "2026-06-26T14:22:01.317047+00:00",
+  "fetched_at": "2026-06-26T19:45:01.554050+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer ‘taking advice’ on whether immigration minister broke government protocol – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/26/military-bases-asylum-seekers-immigration-refugees-labour-andy-burnham-keir-starmer-uk-politics-latest-news-updates",
-        "description": "Mike Tapp accuses home secretary of intimidation after calls for him to be sacked over unauthorised newspaper article The prime minister’s official spokesperson has told journalists that Keir Starm...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK June heat record broken for third day in a row as ministers urged to act",
-        "url": "https://www.theguardian.com/environment/2026/jun/26/uk-government-urged-to-act-on-devastating-impact-of-heatwaves",
-        "description": "Plans to protect people fall ‘far short of what is needed’, government told, as MP warns of heatwave deathsUK politics live – latest updatesThe UK government is facing increasingly urgent calls for...",
+        "title": "Mahmood outlines safe immigration routes plan to win over Labour left",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/26/mahmood-outlines-safe-immigration-routes-plan-to-win-over-labour-left",
+        "description": "Home secretary speeds up major part of bill governing asylum and refugees as new prime minister set to take overShabana Mahmood will seek to shore up support for her controversial immigration bill ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "Home secretary restricts minister’s access to documents as she calls for his sacking",
         "url": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
-        "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about migrationUK politics live – latest updatesThe migration minister, Mike Tapp, is to be denied access to ...",
+        "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about migrationThe migration minister, Mike Tapp, is to be denied access to sensitive documents and meetings ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Mahmood restricts minister's access to documents as Home Office row escalates",
+        "title": "Andy Burnham says he will give 15% of his MP’s pay to local causes",
+        "url": "https://www.theguardian.com/politics/2026/jun/26/andy-burnham-donate-15-per-cent-mp-pay-makerfield",
+        "description": "New member for Makerfield and expected next prime minister joins other MPs who donate some or all of their payAndy Burnham has said he will be donating 15% of his MP’s salary to local causes in his...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Starmer rebuffs Home Secretary's request to sack immigration minister",
         "url": "https://www.bbc.co.uk/news/articles/cj9g7w0xnnjo?at_medium=RSS&at_campaign=rss",
-        "description": "Shabana Mahmood believes Mike Tapp should be sacked for writing an article but No 10 says the PM is taking advice.",
+        "description": "Home Secretary Shabana Mahmood's request for Mike Tapp's removal came after he wrote an unauthorised article.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Key TG Jones landlords back restructuring plan ahead of court ruling on retailer’s future – business live",
+        "title": "Key TG Jones landlords back restructuring plan; oil price hits four-month low – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial newsEuropean stock markets are dropping today, as a sell-off in technology shares on Wall Street yesterday rattles investors’ nerves.In London,...",
         "source": "The Guardian",
@@ -63,13 +63,6 @@
     ],
     "nhs": [
       {
-        "title": "‘Infection control becomes almost impossible’: four doctors on the NHS heatwave crisis",
-        "url": "https://www.theguardian.com/society/2026/jun/25/four-doctors-nhs-heatwave-crisis",
-        "description": "Frontline medics describe extreme heat conditions they feel are unsafe and lacking in dignity for patientsHospitals in England declare critical incidents as machines and IT fail in heatHospitals in...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Mark Tame obituary",
         "url": "https://www.theguardian.com/society/2026/jun/26/mark-tame-obituary",
         "description": "My friend Mark Tame, who has died of lung cancer aged 61, spent his life caring for others. He worked for various charities (including Mind) in Bristol and London that advocated for mental health p...",
@@ -84,6 +77,13 @@
         "category": "nhs"
       },
       {
+        "title": "‘Infection control becomes almost impossible’: four doctors on the NHS heatwave crisis",
+        "url": "https://www.theguardian.com/society/2026/jun/25/four-doctors-nhs-heatwave-crisis",
+        "description": "Frontline medics describe extreme heat conditions they feel are unsafe and lacking in dignity for patientsHospitals in England declare critical incidents as machines and IT fail in heatHospitals in...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Even young and fit urged to skip runs and too many beers in heatwave",
         "url": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&at_campaign=rss",
         "description": "Cardiac arrests have gone up during very hot weather, and it's not just among the elderly and frail, experts are warning.",
@@ -93,28 +93,42 @@
     ],
     "immigration": [
       {
-        "title": "Remove home secretary Mahmood and rip up her asylum plans, says Alf Dubs",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/26/remove-home-secretary-shabana-mahmood-and-rip-up-her-asylum-plans-says-alf-dubs",
-        "description": "Exclusive: Labour peer who fled Nazis as a child says Andy Burnham has chance to ‘correct mistakes’ on refugeesUK politics live – latest updatesShabana Mahmood should be moved out of the Home Offic...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Starmer ‘taking advice’ on whether immigration minister broke government protocol – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/26/military-bases-asylum-seekers-immigration-refugees-labour-andy-burnham-keir-starmer-uk-politics-latest-news-updates",
-        "description": "Mike Tapp accuses home secretary of intimidation after calls for him to be sacked over unauthorised newspaper article The prime minister’s official spokesperson has told journalists that Keir Starm...",
+        "title": "Mahmood outlines safe immigration routes plan to win over Labour left",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/26/mahmood-outlines-safe-immigration-routes-plan-to-win-over-labour-left",
+        "description": "Home secretary speeds up major part of bill governing asylum and refugees as new prime minister set to take overShabana Mahmood will seek to shore up support for her controversial immigration bill ...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
         "title": "Home secretary restricts minister’s access to documents as she calls for his sacking",
         "url": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
-        "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about migrationUK politics live – latest updatesThe migration minister, Mike Tapp, is to be denied access to ...",
+        "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about migrationThe migration minister, Mike Tapp, is to be denied access to sensitive documents and meetings ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Starmer ‘taking advice’ on whether immigration minister broke government protocol – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/jun/26/military-bases-asylum-seekers-immigration-refugees-labour-andy-burnham-keir-starmer-uk-politics-latest-news-updates",
+        "description": "This blog is now closed, you can read more on this story hereThe prime minister’s official spokesperson has told journalists that Keir Starmer is taking advice on whether Mike Tapp broke with gover...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Europeans voice concerns amid sweltering heatwave - video",
+        "url": "https://www.theguardian.com/world/video/2026/jun/26/europeans-voice-concerns-amid-sweltering-heatwave-video",
+        "description": "European residents and tourists voiced their concerns over soaring temperatures as the continent continues to grapple with 'the most severe and widespread' heatwave ever. In summer 2022, more than ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Fourth toddler dies in France as Europe’s brutal heatwave forecast to shift east",
+        "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress",
+        "description": "Scientists say hot spell is worst ever, with nearly half of region’s 850 largest cities facing unprecedented heat stress The number of deaths in France linked to the heatwave has climbed to four to...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "UK June heat record broken for third day in a row as ministers urged to act",
         "url": "https://www.theguardian.com/environment/2026/jun/26/uk-government-urged-to-act-on-devastating-impact-of-heatwaves",
@@ -123,28 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Too hot for work: why extreme heat is a threat to Europe’s productivity",
-        "url": "https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth",
-        "description": "High temperatures make some workplaces dangerous, with economists warning disruption will dent growthMonique Mosley is used to sweltering conditions at the food factory in Yorkshire where she works...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "European heatwave is worst ever and impossible without climate crisis, scientists say",
-        "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-impossible-without-climate-crisis-scientists",
-        "description": "Study also finds high humidity means people in hundreds of cities are enduring their worst ever heat stressThe heatwave scorching western Europe is the most severe and widespread ever and is only p...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "In pictures: Britain swelters in record-breaking June heat",
-        "url": "https://www.bbc.co.uk/news/articles/cy5vq3q2g19o?at_medium=RSS&at_campaign=rss",
-        "description": "A rare red weather warning is in place as extreme temperatures continue across much of the UK.",
+        "title": "Europe's deadly heatwave breaks German record and halts public events",
+        "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+        "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Teenage boys in UK ‘stuck’ reading primary-level books while girls’ tastes expand",
+        "url": "https://www.theguardian.com/books/2026/jun/26/teenage-boys-stuck-reading-primary-level-books-diary-wimpy-kid",
+        "description": "Jeff Kinney’s Diary of a Wimpy Kid series accounts for eight of the 10 most read books by 11- to 14-year-old boys, while girls the same age enjoy a wider range of authors and genresTeenage boys are...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Unions urge teachers to strike as French school exams go ahead in up to 40C heat",
         "url": "https://www.theguardian.com/world/2026/jun/25/unions-urge-teachers-strike-french-school-exams-heat",
@@ -158,16 +165,16 @@
         "description": "Pupils say LPS Hybrid’s combination of remote and in-person classes has transformed their school experienceTwo years ago, Ellie Ball could barely bring herself to attend school. Today, the 16-year-...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "One in four graduates will lose financially from going to university, IFS estimates",
-        "url": "https://www.theguardian.com/education/2026/jun/25/one-in-four-graduates-will-lose-financially-from-university-ifs-research",
-        "description": "Degrees still mostly boost lifetime pay, thinktank says, but those completing creative qualifications may end up worse offA quarter of UK graduates can expect to be financially worse off after goin...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "New York City will freeze rent for 1m apartments in big victory for Mamdani",
+        "url": "https://www.theguardian.com/us-news/2026/jun/26/new-york-city-rent-freeze-mamdani",
+        "description": "City’s mayor has consistently argued that rising housing costs have made it increasingly unaffordableA New York City housing board has voted to freeze rent for approximately 1m apartments.In a majo...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "US renters call for action to combat surge of ‘take it or leave it’ apartment fees",
         "url": "https://www.theguardian.com/us-news/2026/jun/25/renters-apartment-fees-call-for-action",
@@ -181,34 +188,27 @@
         "description": "Cornwall's housing crisis is forcing young people to live in vans. As second homes and short-term holiday lets drive up house prices, a growing number are turning to van life to stay in the place t...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "‘It can flip quickly from being idyllic’: the reality of life for young van dwellers priced out of Cornwall’s housing market",
-        "url": "https://www.theguardian.com/environment/2026/jun/25/reality-life-cornwall-young-van-dwellers-priced-out-of-the-housing-market",
-        "description": "With tourists buying up property and landlords opting for lucrative Airbnb rentals, young Cornish people are turning to old campervans to provide a roof over their headsSkye has a thick duvet in th...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-        "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
-        "description": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
+        "title": "Mother dies saving daughter in Venezuela earthquakes",
+        "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
+        "description": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Aerial footage reveals destruction in coastal Venezuela",
-        "url": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
-        "description": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday.",
+        "title": "DR Congo takes Rwanda to international court over decades of conflict",
+        "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
+        "description": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-        "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-        "description": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
+        "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+        "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+        "description": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
