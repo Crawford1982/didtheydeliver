@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-06-26T09:23:37.905067+00:00",
+  "fetched_at": "2026-06-26T14:22:01.317047+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Minister says he ‘won’t be intimidated’ by home secretary as public row escalates",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
-        "description": "Shabana Mahmood has demanded Mike Tapp be sacked over call for care worker exemption to migration rulesAn extraordinary public row between the home secretary, Shabana Mahmood, and one of her junior...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Immigration minister says he ‘won’t be intimidated’ to drop his views as public row with home secretary escalates – UK politics live",
+        "title": "Starmer ‘taking advice’ on whether immigration minister broke government protocol – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/26/military-bases-asylum-seekers-immigration-refugees-labour-andy-burnham-keir-starmer-uk-politics-latest-news-updates",
-        "description": "Mike Tapp wrote a piece for the Times calling for overseas care workers to be exempt from hardline immigration changesIn response to the ongoing controversy, immigration minister Mike Tapp, who was...",
+        "description": "Mike Tapp accuses home secretary of intimidation after calls for him to be sacked over unauthorised newspaper article The prime minister’s official spokesperson has told journalists that Keir Starm...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Brexit: An Oral History – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/jun/26/brexit-an-oral-history-podcast",
-        "description": "This week marked 10 years since the UK chose to leave the EU. In a series of interviews with key players from both sides, Kiran Stacey looks back on the Brexit vote that changed the country forever...",
+        "title": "UK June heat record broken for third day in a row as ministers urged to act",
+        "url": "https://www.theguardian.com/environment/2026/jun/26/uk-government-urged-to-act-on-devastating-impact-of-heatwaves",
+        "description": "Plans to protect people fall ‘far short of what is needed’, government told, as MP warns of heatwave deathsUK politics live – latest updatesThe UK government is facing increasingly urgent calls for...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Chris Mason: The anatomy of the prime minister's downfall",
-        "url": "https://www.bbc.co.uk/news/articles/ckg8kkdx7l9o?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Keir, like his predecessors Liz Truss and Boris Johnson, lost the capacity to viably govern, our political editor writes.",
+        "title": "Home secretary restricts minister’s access to documents as she calls for his sacking",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
+        "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about migrationUK politics live – latest updatesThe migration minister, Mike Tapp, is to be denied access to ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Mahmood restricts minister's access to documents as Home Office row escalates",
+        "url": "https://www.bbc.co.uk/news/articles/cj9g7w0xnnjo?at_medium=RSS&at_campaign=rss",
+        "description": "Shabana Mahmood believes Mike Tapp should be sacked for writing an article but No 10 says the PM is taking advice.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK food and drink exports fall as US tariffs and Brexit trade friction bites – business live",
+        "title": "Key TG Jones landlords back restructuring plan ahead of court ruling on retailer’s future – business live",
         "url": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsThe food industry also faces the threat of climate change, with forecasts of a “very strong” El Niño this year.Goldman Sachs have predicted...",
+        "description": "Rolling coverage of the latest economic and financial newsEuropean stock markets are dropping today, as a sell-off in technology shares on Wall Street yesterday rattles investors’ nerves.In London,...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "‘Make people dream’: how to build an economy for the common good",
+        "url": "https://www.theguardian.com/environment/2026/jun/26/make-people-dream-build-economy-common-good-mariana-mazzucato",
+        "description": "Economist Prof Mariana Mazzucato says governments must ‘get back their mojo’ and believe they can change the world Good governments have a vision. They know what they want to achieve, can articulat...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Burnham could become PM on 17 July based on Labour leadership contest timetable – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jun/25/andy-burnham-rachel-reeves-keir-starmer-uk-politics-latest-news-updates",
-        "description": "The former Manchester mayor could be installed as prime minister in weeks if no other MP puts themselves forwardIn her Q&A this morning Rachel Reeves, the chancellor, confirmed that she wants the g...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Power banks and vapes now biggest fire risk on planes",
-        "url": "https://www.bbc.co.uk/news/articles/cly716qd146o?at_medium=RSS&at_campaign=rss",
-        "description": "Lithium battery fires are the number one safety risk to aircraft, yet the number of devices found in hold bags has nearly doubled in a year.",
+        "title": "I'm back at home again after uni - here's how I'm making it work",
+        "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
+        "description": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,37 +84,44 @@
         "category": "nhs"
       },
       {
-        "title": "Obesity cases rising fastest in young adults",
-        "url": "https://www.bbc.co.uk/news/articles/c8j2m2zrrxko?at_medium=RSS&at_campaign=rss",
-        "description": "Experts say the cost of living, pandemic and boom in unhealthy food are behind the rise in cases.",
+        "title": "Even young and fit urged to skip runs and too many beers in heatwave",
+        "url": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&at_campaign=rss",
+        "description": "Cardiac arrests have gone up during very hot weather, and it's not just among the elderly and frail, experts are warning.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
-        "title": "Minister says he ‘won’t be intimidated’ by home secretary as public row escalates",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
-        "description": "Shabana Mahmood has demanded Mike Tapp be sacked over call for care worker exemption to migration rulesUK politics live – latest updatesAn extraordinary public row between the home secretary, Shaba...",
+        "title": "Remove home secretary Mahmood and rip up her asylum plans, says Alf Dubs",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/26/remove-home-secretary-shabana-mahmood-and-rip-up-her-asylum-plans-says-alf-dubs",
+        "description": "Exclusive: Labour peer who fled Nazis as a child says Andy Burnham has chance to ‘correct mistakes’ on refugeesUK politics live – latest updatesShabana Mahmood should be moved out of the Home Offic...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Immigration minister says he ‘won’t be intimidated’ to drop his views as public row with home secretary escalates – UK politics live",
+        "title": "Starmer ‘taking advice’ on whether immigration minister broke government protocol – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/26/military-bases-asylum-seekers-immigration-refugees-labour-andy-burnham-keir-starmer-uk-politics-latest-news-updates",
-        "description": "Mike Tapp wrote a piece for the Times calling for overseas care workers to be exempt from hardline immigration changesIn response to the ongoing controversy, immigration minister Mike Tapp, who was...",
+        "description": "Mike Tapp accuses home secretary of intimidation after calls for him to be sacked over unauthorised newspaper article The prime minister’s official spokesperson has told journalists that Keir Starm...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Charities condemn ‘arrogant’ plans to house asylum seekers at former military sites",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/25/charities-condemn-arrogant-plans-to-house-asylum-seekers-at-former-military-sites",
-        "description": "Planning permission has been sought for three additional military sites Home Office plans to use three more former military sites to house thousands of asylum seekers have been condemned as “arroga...",
+        "title": "Home secretary restricts minister’s access to documents as she calls for his sacking",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
+        "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about migrationUK politics live – latest updatesThe migration minister, Mike Tapp, is to be denied access to ...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "UK June heat record broken for third day in a row as ministers urged to act",
+        "url": "https://www.theguardian.com/environment/2026/jun/26/uk-government-urged-to-act-on-devastating-impact-of-heatwaves",
+        "description": "Plans to protect people fall ‘far short of what is needed’, government told, as MP warns of heatwave deathsUK politics live – latest updatesThe UK government is facing increasingly urgent calls for...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Too hot for work: why extreme heat is a threat to Europe’s productivity",
         "url": "https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth",
@@ -126,13 +133,6 @@
         "title": "European heatwave is worst ever and impossible without climate crisis, scientists say",
         "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-impossible-without-climate-crisis-scientists",
         "description": "Study also finds high humidity means people in hundreds of cities are enduring their worst ever heat stressThe heatwave scorching western Europe is the most severe and widespread ever and is only p...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Extreme heat grips Europe as UK hits new June record, France shuts down nuclear reactors and deaths rise across continent – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates",
-        "description": "Heatwave-related deaths climb in Spain, Italy and France as continent battles another day of extreme temperaturesFarryn StockOver in the UK, South East Water has announced a temporary hosepipe ban ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -183,7 +183,7 @@
         "category": "housing"
       },
       {
-        "title": "’It can flip quickly from being idyllic’: the reality of life for young van dwellers priced out of Cornwall’s housing market",
+        "title": "‘It can flip quickly from being idyllic’: the reality of life for young van dwellers priced out of Cornwall’s housing market",
         "url": "https://www.theguardian.com/environment/2026/jun/25/reality-life-cornwall-young-van-dwellers-priced-out-of-the-housing-market",
         "description": "With tourists buying up property and landlords opting for lucrative Airbnb rentals, young Cornish people are turning to old campervans to provide a roof over their headsSkye has a thick duvet in th...",
         "source": "The Guardian",
@@ -192,13 +192,6 @@
     ],
     "foreign_policy": [
       {
-        "title": "Rescuers search rubble for survivors as Venezuela earthquakes kill at least 235",
-        "url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss",
-        "description": "At least 4,300 people have been injured after two seven-plus magnitude shallow quakes hit seconds apart.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
         "title": "Earthquake is devastating blow to Venezuela at time of uncertainty",
         "url": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
         "description": "The twin quakes come less than six months after Venezuela's then-leader Nicolás Maduro was seized by US forces.",
@@ -206,9 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "People flee as building collapses on Caracas outskirts",
-        "url": "https://www.bbc.co.uk/news/videos/c78y1e3606vo?at_medium=RSS&at_campaign=rss",
-        "description": "The capital and its surrounding areas have seen some of the worst damage from the 7.2 and 7.5 quakes, which hit a minute apart.",
+        "title": "Aerial footage reveals destruction in coastal Venezuela",
+        "url": "https://www.bbc.co.uk/news/videos/c75y1kd16qdo?at_medium=RSS&at_campaign=rss",
+        "description": "Multi-storey buildings have collapsed in La Guaira following two major earthquakes on Wednesday.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+        "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+        "description": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
