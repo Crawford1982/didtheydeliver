@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-27T08:34:02.103928+00:00",
+  "fetched_at": "2026-06-27T13:39:54.295571+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "David Hencke, Guardian journalist who exposed cash-for-questions scandal, dies aged 79",
+        "url": "https://www.theguardian.com/media/2026/jun/27/david-hencke-guardian-journalist-dies",
+        "description": "Former Westminster correspondent earned a reputation for uncovering political wrongdoing in the 1990sThe acclaimed journalist David Hencke, whose career at the Guardian spanned more than three deca...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Nigel Farage’s anti-WHO campaign moves to US with allies added to board",
+        "url": "https://www.theguardian.com/politics/2026/jun/27/nigel-farage-action-on-world-health-campaign-who-us-board",
+        "description": "Relocation of Action on World Health raises questions over why Reform UK leader is involved in a US pressure groupNigel Farage’s campaign against the World Health Organization (WHO) is moving to th...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Home secretary sought to restrict minister’s access to papers as she calls for his sacking",
         "url": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
         "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about immigrationA rift between Keir Starmer and Shabana Mahmood has deepened after it emerged the home secre...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Mahmood outlines safe immigration routes plan to win over Labour left",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/26/mahmood-outlines-safe-immigration-routes-plan-to-win-over-labour-left",
-        "description": "Home secretary speeds up major part of bill governing asylum and refugees as new prime minister set to take overShabana Mahmood will seek to shore up support for her controversial immigration bill ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Andy Burnham says he will give 15% of his MP’s pay to local causes",
-        "url": "https://www.theguardian.com/politics/2026/jun/26/andy-burnham-donate-15-per-cent-mp-pay-makerfield",
-        "description": "New member for Makerfield and expected next prime minister joins other MPs who donate some or all of their payAndy Burnham has said he will be donating 15% of his MP’s salary to local causes in his...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -116,16 +116,16 @@
     ],
     "climate": [
       {
-        "title": "Germany braced for temperatures ‘well over 40C’ as Europe heatwave pushes east – live",
+        "title": "Europe heatwave live: drought fears in Italy, records broken in Slovakia and Denmark, major roads buckle in Germany",
         "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-        "description": "Forecasters say hottest conditions are now spreading into central and eastern Europe, including Poland and the BalkansThe UK is set to get some respite from this week’s record-breaking heat over th...",
+        "description": "Forecasters say hottest conditions spreading into central and eastern EuropeAfter decades of climate warnings, why is Europe so unprepared for rising heat?Seawater is seeping into Italy’s longest r...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
         "title": "Snow and ice on Swiss glaciers melting at alarming rate amid heatwave, expert says",
         "url": "https://www.theguardian.com/environment/2026/jun/27/snow-and-ice-on-swiss-glaciers-melting-at-alarming-rate-amid-heatwave-expert-says",
-        "description": "Accumulation on Switzerland’s glaciers from last winter expected to all be gone by Monday amid ‘enormous’ melt rates across AlpsSwiss glaciers are set to lose an enormous amount of ice due to the h...",
+        "description": "Accumulation on Switzerland’s glaciers from last winter expected to all be gone by Monday amid ‘enormous’ melt rates across AlpsEurope heatwave: latest updatesSwiss glaciers are set to lose an enor...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,32 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "Are we in for a summer of serial heatwaves?",
-        "url": "https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&at_campaign=rss",
-        "description": "Forecasters have suggested that summer is likely to be warmer than average with an increased chance of more heatwaves, as Simon King explains.",
+        "title": "Amber extreme heat warning extended before cooldown ends record-breaking heatwave",
+        "url": "https://www.bbc.co.uk/weather/articles/crkvl343jj3o?at_medium=RSS&at_campaign=rss",
+        "description": "The record-breaking heatwave is set to end with cooler and more unsettled weather by \nSunday.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Children embrace Cornish language as it enjoys ‘remarkable resurgence’",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/27/children-embrace-cornish-language-remarkable-resurgence",
+        "description": "Go Cornish Celebration engages younger generation as council finalises strategy to boost everyday use of Kernewek Seven-year-old Albie, a pupil at Trewirgie infants’ school in Redruth, did not hesi...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "‘I’m missing out’: the cash-strapped UK university students forced to live at home",
+        "url": "https://www.theguardian.com/education/2026/jun/27/uk-university-students-forced-to-live-at-home",
+        "description": "Experts say students from poorer backgrounds increasingly having to limit their options because of money worriesMost days, Mariam spends hours simply waiting.The 19-year-old University College Lond...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Dave Eggers: ‘Once you have a machine think and write for you, you’re cooked as a species’",
         "url": "https://www.theguardian.com/books/2026/jun/27/dave-eggers-once-you-have-a-machine-think-and-write-for-you-youre-cooked-as-a-species",
         "description": "As his new novel is published, the US author talks about nurturing the next generation of creatives, debating Sam Altman – and why he writes on a boat in San Francisco BayAt Dave Eggers’s suggestio...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Screen time can damage under-twos’ development, landmark study suggests",
-        "url": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
-        "description": "Exclusive: Researchers call for urgent investigation of risks to babies of tablets, smartphones and other digital devicesScreen time for babies and toddlers under the age of two has been linked wit...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘Basically you’re trapped’: UK postgraduates burdened with double loan debt",
-        "url": "https://www.theguardian.com/money/2026/jun/27/basically-youre-trapped-uk-postgraduates-burdened-with-double-loan-debt",
-        "description": "Calls for reform to student loan system as those studying for a master’s can be left with ‘a life tax’Whether to pursue a master’s degree was not really a choice for Francesca Peters. Fresh from an...",
         "source": "The Guardian",
         "category": "education"
       }
