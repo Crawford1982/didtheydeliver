@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-27T02:57:43.118660+00:00",
+  "fetched_at": "2026-06-27T08:34:02.103928+00:00",
   "headlines": {
     "government": [
       {
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Home Office to introduce new asylum routes to UK",
+        "title": "Mahmood announces new refugee sponsorship route into UK",
         "url": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
-        "description": "The home secretary said \"capped safe and legal\" routes would help to restore confidence in the asylum system.",
+        "description": "The home secretary says \"capped safe and legal\" routes would help to restore confidence in the asylum system.",
         "source": "BBC News",
         "category": "government"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Germany braced for temperatures ‘well over 40C’ as Europe heatwave pushes east – live",
+        "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
+        "description": "Forecasters say hottest conditions are now spreading into central and eastern Europe, including Poland and the BalkansThe UK is set to get some respite from this week’s record-breaking heat over th...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Snow and ice on Swiss glaciers melting at alarming rate amid heatwave, expert says",
         "url": "https://www.theguardian.com/environment/2026/jun/27/snow-and-ice-on-swiss-glaciers-melting-at-alarming-rate-amid-heatwave-expert-says",
         "description": "Accumulation on Switzerland’s glaciers from last winter expected to all be gone by Monday amid ‘enormous’ melt rates across AlpsSwiss glaciers are set to lose an enormous amount of ice due to the h...",
@@ -130,39 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "Fourth toddler dies in France as Europe’s brutal heatwave forecast to shift east",
-        "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-shift-east-child-deaths-france-cities-heat-stress",
-        "description": "Scientists say hot spell is worst ever, with nearly half of region’s 850 largest cities facing unprecedented heat stress The number of deaths in France linked to the heatwave has climbed to four to...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Weekend to bring cooldown after record-breaking heatwave",
-        "url": "https://www.bbc.co.uk/weather/articles/crkvl343jj3o?at_medium=RSS&at_campaign=rss",
-        "description": "The record-breaking heatwave is set to end with cooler and more unsettled weather by \nSunday.",
+        "title": "Are we in for a summer of serial heatwaves?",
+        "url": "https://www.bbc.co.uk/weather/articles/cgrk4w57e74o?at_medium=RSS&at_campaign=rss",
+        "description": "Forecasters have suggested that summer is likely to be warmer than average with an increased chance of more heatwaves, as Simon King explains.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
-        "title": "Teenage boys in UK ‘stuck’ reading primary-level books while girls’ tastes expand",
-        "url": "https://www.theguardian.com/books/2026/jun/26/teenage-boys-stuck-reading-primary-level-books-diary-wimpy-kid",
-        "description": "Jeff Kinney’s Diary of a Wimpy Kid series accounts for eight of the 10 most read books by 11- to 14-year-old boys, while girls the same age enjoy a wider range of authors and genresTeenage boys are...",
+        "title": "Dave Eggers: ‘Once you have a machine think and write for you, you’re cooked as a species’",
+        "url": "https://www.theguardian.com/books/2026/jun/27/dave-eggers-once-you-have-a-machine-think-and-write-for-you-youre-cooked-as-a-species",
+        "description": "As his new novel is published, the US author talks about nurturing the next generation of creatives, debating Sam Altman – and why he writes on a boat in San Francisco BayAt Dave Eggers’s suggestio...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Unions urge teachers to strike as French school exams go ahead in up to 40C heat",
-        "url": "https://www.theguardian.com/world/2026/jun/25/unions-urge-teachers-strike-french-school-exams-heat",
-        "description": "Claims health of staff and children at risk as France struggles to adapt heat-trap school buildingsTeachers in France are risking their own and students’ health in overheated schools as a severe he...",
+        "title": "Screen time can damage under-twos’ development, landmark study suggests",
+        "url": "https://www.theguardian.com/society/2026/jun/27/screen-time-damage-under-twos-development-study",
+        "description": "Exclusive: Researchers call for urgent investigation of risks to babies of tablets, smartphones and other digital devicesScreen time for babies and toddlers under the age of two has been linked wit...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "‘I was miserable at my old school’: UK social media ban puts spotlight on hybrid learning",
-        "url": "https://www.theguardian.com/education/2026/jun/25/school-uk-social-media-ban-hybrid-learning",
-        "description": "Pupils say LPS Hybrid’s combination of remote and in-person classes has transformed their school experienceTwo years ago, Ellie Ball could barely bring herself to attend school. Today, the 16-year-...",
+        "title": "‘Basically you’re trapped’: UK postgraduates burdened with double loan debt",
+        "url": "https://www.theguardian.com/money/2026/jun/27/basically-youre-trapped-uk-postgraduates-burdened-with-double-loan-debt",
+        "description": "Calls for reform to student loan system as those studying for a master’s can be left with ‘a life tax’Whether to pursue a master’s degree was not really a choice for Francesca Peters. Fresh from an...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "title": "US strikes Iran after attack on cargo ship",
         "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-        "description": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+        "description": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+        "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
         "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+        "description": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
