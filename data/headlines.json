@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-06-27T13:39:54.295571+00:00",
+  "fetched_at": "2026-06-27T19:18:36.268430+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "UK minister working up plans for state-owned housing developer",
+        "url": "https://www.theguardian.com/society/2026/jun/27/uk-minister-plans-for-state-owned-housing-developer-exclusive",
+        "description": "Exclusive: Steve Reed is looking at government run scheme that could borrow at lower rates than private developersThe housing secretary has been working up plans for a state-owned housing developer...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "David Hencke, Guardian journalist who exposed cash-for-questions scandal, dies aged 79",
         "url": "https://www.theguardian.com/media/2026/jun/27/david-hencke-guardian-journalist-dies",
@@ -17,21 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Home secretary sought to restrict minister’s access to papers as she calls for his sacking",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
-        "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about immigrationA rift between Keir Starmer and Shabana Mahmood has deepened after it emerged the home secre...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Mahmood announces new refugee sponsorship route into UK",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
-        "description": "The home secretary says \"capped safe and legal\" routes would help to restore confidence in the asylum system.",
+        "title": "Burnham will need a Moscow test as well as Makerfield test, says ex-military chief",
+        "url": "https://www.bbc.co.uk/news/articles/cdxdwr0xk55o?at_medium=RSS&at_campaign=rss",
+        "description": "Former Chief of the Defence Staff Admiral Sir Tony Radakin says defence must be a priority for the next prime minister.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "The AI bubble has further to run despite the looming crash",
+        "url": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
+        "description": "As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoningOpenAI staggers AI model release after White House requestEvery couple of de...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Key TG Jones landlords back restructuring plan; oil price hits four-month low – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
@@ -43,13 +50,6 @@
         "title": "‘Make people dream’: how to build an economy for the common good",
         "url": "https://www.theguardian.com/environment/2026/jun/26/make-people-dream-build-economy-common-good-mariana-mazzucato",
         "description": "Economist Prof Mariana Mazzucato says governments must ‘get back their mojo’ and believe they can change the world Good governments have a vision. They know what they want to achieve, can articulat...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Too hot for work: why extreme heat is a threat to Europe’s productivity",
-        "url": "https://www.theguardian.com/business/2026/jun/26/extreme-heat-europe-productivity-economic-growth",
-        "description": "High temperatures make some workplaces dangerous, with economists warning disruption will dent growthMonique Mosley is used to sweltering conditions at the food factory in Yorkshire where she works...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,16 +93,16 @@
     ],
     "immigration": [
       {
-        "title": "Mahmood outlines safe immigration routes plan to win over Labour left",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/26/mahmood-outlines-safe-immigration-routes-plan-to-win-over-labour-left",
-        "description": "Home secretary speeds up major part of bill governing asylum and refugees as new prime minister set to take overShabana Mahmood will seek to shore up support for her controversial immigration bill ...",
+        "title": "Home secretary sought to restrict minister’s access to papers as she calls for his sacking",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
+        "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about immigrationA rift between Keir Starmer and Shabana Mahmood has deepened after it emerged the home secre...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Home secretary sought to restrict minister’s access to papers as she calls for his sacking",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
-        "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about immigrationA rift between Keir Starmer and Shabana Mahmood has deepened after it emerged the home secre...",
+        "title": "Mahmood outlines safe immigration routes plan to win over Labour left",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/26/mahmood-outlines-safe-immigration-routes-plan-to-win-over-labour-left",
+        "description": "Home secretary speeds up major part of bill governing asylum and refugees as new prime minister set to take overShabana Mahmood will seek to shore up support for her controversial immigration bill ...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,9 +116,16 @@
     ],
     "climate": [
       {
-        "title": "Europe heatwave live: drought fears in Italy, records broken in Slovakia and Denmark, major roads buckle in Germany",
+        "title": "Europe heatwave: drought fears in Italy as records tumble around Europe – as it happened",
         "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-        "description": "Forecasters say hottest conditions spreading into central and eastern EuropeAfter decades of climate warnings, why is Europe so unprepared for rising heat?Seawater is seeping into Italy’s longest r...",
+        "description": "Temperature records broken in Germany, Denmark and Slovakia as Europe remains gripped by heatwaveAfter decades of climate warnings, why is Europe so unprepared for rising heat?Seawater is seeping i...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Germany and Italy swelter in heatwave as records tumble across Europe",
+        "url": "https://www.theguardian.com/world/2026/jun/27/germany-italy-heatwave-records-tumble-across-europe",
+        "description": "Denmark experiences highest temperature on record on Saturday as weather system spreads eastwardEurope heatwave – latest updatesGermany ⁠and Italy endured sweltering conditions on Saturday as a hea...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Europeans voice concerns amid sweltering heatwave - video",
-        "url": "https://www.theguardian.com/world/video/2026/jun/26/europeans-voice-concerns-amid-sweltering-heatwave-video",
-        "description": "European residents and tourists voiced their concerns over soaring temperatures as the continent continues to grapple with 'the most severe and widespread' heatwave ever. In summer 2022, more than ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Amber extreme heat warning extended before cooldown ends record-breaking heatwave",
-        "url": "https://www.bbc.co.uk/weather/articles/crkvl343jj3o?at_medium=RSS&at_campaign=rss",
-        "description": "The record-breaking heatwave is set to end with cooler and more unsettled weather by \nSunday.",
+        "title": "Europe's deadly heatwave breaks German record and halts public events",
+        "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
+        "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "UK minister working up plans for state-owned housing developer",
+        "url": "https://www.theguardian.com/society/2026/jun/27/uk-minister-plans-for-state-owned-housing-developer-exclusive",
+        "description": "Exclusive: Steve Reed is looking at government run scheme that could borrow at lower rates than private developersThe housing secretary has been working up plans for a state-owned housing developer...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "New York City will freeze rent for 1m apartments in big victory for Mamdani",
         "url": "https://www.theguardian.com/us-news/2026/jun/26/new-york-city-rent-freeze-mamdani",
         "description": "City’s mayor has consistently argued that rising housing costs have made it increasingly unaffordableA New York City housing board has voted to freeze rent for approximately 1m apartments.In a majo...",
@@ -181,23 +188,9 @@
         "description": "Tenants push for tougher rules against unfair add-on charges. Industry players argue against policies that they say could limit the ‘effective use of fees’‘Extremely overwhelmed’: apartment renters...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Has Cornwall’s housing crisis created a van life generation?",
-        "url": "https://www.theguardian.com/global/video/2026/jun/25/has-cornwalls-housing-crisis-created-a-van-life-generation",
-        "description": "Cornwall's housing crisis is forcing young people to live in vans. As second homes and short-term holiday lets drive up house prices, a growing number are turning to van life to stay in the place t...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
-      {
-        "title": "US strikes Iran after attack on cargo ship",
-        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-        "description": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
       {
         "title": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
         "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
@@ -206,9 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Mother dies saving daughter in Venezuela earthquakes",
-        "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
-        "description": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
+        "title": "In Caracas, this feels like the hardest moment in Venezuela's modern history",
+        "url": "https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&at_campaign=rss",
+        "description": "Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "US strikes Iran after attack on cargo ship",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "description": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
