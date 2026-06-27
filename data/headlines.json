@@ -1,18 +1,18 @@
 {
-  "fetched_at": "2026-06-26T19:45:01.554050+00:00",
+  "fetched_at": "2026-06-27T02:57:43.118660+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Mahmood outlines safe immigration routes plan to win over Labour left",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/26/mahmood-outlines-safe-immigration-routes-plan-to-win-over-labour-left",
-        "description": "Home secretary speeds up major part of bill governing asylum and refugees as new prime minister set to take overShabana Mahmood will seek to shore up support for her controversial immigration bill ...",
+        "title": "Home secretary sought to restrict minister’s access to papers as she calls for his sacking",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
+        "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about immigrationA rift between Keir Starmer and Shabana Mahmood has deepened after it emerged the home secre...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Home secretary restricts minister’s access to documents as she calls for his sacking",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
-        "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about migrationThe migration minister, Mike Tapp, is to be denied access to sensitive documents and meetings ...",
+        "title": "Mahmood outlines safe immigration routes plan to win over Labour left",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/26/mahmood-outlines-safe-immigration-routes-plan-to-win-over-labour-left",
+        "description": "Home secretary speeds up major part of bill governing asylum and refugees as new prime minister set to take overShabana Mahmood will seek to shore up support for her controversial immigration bill ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Starmer rebuffs Home Secretary's request to sack immigration minister",
-        "url": "https://www.bbc.co.uk/news/articles/cj9g7w0xnnjo?at_medium=RSS&at_campaign=rss",
-        "description": "Home Secretary Shabana Mahmood's request for Mike Tapp's removal came after he wrote an unauthorised article.",
+        "title": "Home Office to introduce new asylum routes to UK",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz952dm74o?at_medium=RSS&at_campaign=rss",
+        "description": "The home secretary said \"capped safe and legal\" routes would help to restore confidence in the asylum system.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "I'm back at home again after uni - here's how I'm making it work",
-        "url": "https://www.bbc.co.uk/news/articles/cg53q6dl0plo?at_medium=RSS&at_campaign=rss",
-        "description": "Rising costs are forcing more young adults to live with their parents, here's how not to come to blows.",
+        "title": "Trump threatens 100% tariff on European nations over tech tax",
+        "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -100,9 +100,9 @@
         "category": "immigration"
       },
       {
-        "title": "Home secretary restricts minister’s access to documents as she calls for his sacking",
+        "title": "Home secretary sought to restrict minister’s access to papers as she calls for his sacking",
         "url": "https://www.theguardian.com/uk-news/2026/jun/26/minister-mike-tapp-row-home-secretary-shabana-mahmood",
-        "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about migrationThe migration minister, Mike Tapp, is to be denied access to sensitive documents and meetings ...",
+        "description": "Row between Shabana Mahmood and Mike Tapp broke out after he wrote unauthorised article about immigrationA rift between Keir Starmer and Shabana Mahmood has deepened after it emerged the home secre...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -115,6 +115,13 @@
       }
     ],
     "climate": [
+      {
+        "title": "Snow and ice on Swiss glaciers melting at alarming rate amid heatwave, expert says",
+        "url": "https://www.theguardian.com/environment/2026/jun/27/snow-and-ice-on-swiss-glaciers-melting-at-alarming-rate-amid-heatwave-expert-says",
+        "description": "Accumulation on Switzerland’s glaciers from last winter expected to all be gone by Monday amid ‘enormous’ melt rates across AlpsSwiss glaciers are set to lose an enormous amount of ice due to the h...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Europeans voice concerns amid sweltering heatwave - video",
         "url": "https://www.theguardian.com/world/video/2026/jun/26/europeans-voice-concerns-amid-sweltering-heatwave-video",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "UK June heat record broken for third day in a row as ministers urged to act",
-        "url": "https://www.theguardian.com/environment/2026/jun/26/uk-government-urged-to-act-on-devastating-impact-of-heatwaves",
-        "description": "Plans to protect people fall ‘far short of what is needed’, government told, as MP warns of heatwave deathsUK politics live – latest updatesThe UK government is facing increasingly urgent calls for...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Europe's deadly heatwave breaks German record and halts public events",
-        "url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss",
-        "description": "Germany's highest ever temperature of 41.3C is recorded provisionally in Saarbrücken, over the border from France.",
+        "title": "Weekend to bring cooldown after record-breaking heatwave",
+        "url": "https://www.bbc.co.uk/weather/articles/crkvl343jj3o?at_medium=RSS&at_campaign=rss",
+        "description": "The record-breaking heatwave is set to end with cooler and more unsettled weather by \nSunday.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "US conducts strikes on Iran after attack on cargo ship",
+        "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+        "description": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Venezuela earthquakes kill 920 people as families desperate for news",
+        "url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds are still feared trapped under the rubble, as international rescue teams start to arrive.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Mother dies saving daughter in Venezuela earthquakes",
         "url": "https://www.bbc.co.uk/news/articles/c0jydyz8z6jo?at_medium=RSS&at_campaign=rss",
         "description": "Héctor Bello wrote on social media that \"you gave your own life for our daughter\" in the quakes which killed at least 920 people.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "DR Congo takes Rwanda to international court over decades of conflict",
-        "url": "https://www.bbc.co.uk/news/articles/c8724zn3491o?at_medium=RSS&at_campaign=rss",
-        "description": "Kinshasa accuses its neighbour of committing various violations since the 1994 Rwanda genocide.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-        "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
-        "description": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
