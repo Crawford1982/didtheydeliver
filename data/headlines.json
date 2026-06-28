@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-06-28T13:43:38.675955+00:00",
+  "fetched_at": "2026-06-28T19:17:46.189073+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Lucy Powell appears to endorse Ed Miliband as Andy Burnham’s chancellor",
+        "title": "‘Financial pandemic’: £1 in every £11 spent on UK public contractors goes to private equity",
+        "url": "https://www.theguardian.com/society/2026/jun/28/1-in-every-11-spent-uk-public-contractors-private-equity",
+        "description": "Almost £24.4bn of government money went to private equity-run firms in year to April 2025, Guardian analysis shows‘Treating children like cattle’: what happens when private equity takes over a UK c...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Lucy Powell agrees Ed Miliband would be ‘good’ as Andy Burnham’s chancellor",
         "url": "https://www.theguardian.com/politics/2026/jun/28/labour-lucy-powell-ed-miliband-chancellor",
-        "description": "Labour deputy leader says she thinks energy secretary would be good in Treasury but ‘tittle-tattle’ over cabinet posts is ‘unedifying’Ed Miliband would make a “good” chancellor to Andy Burnham, Lab...",
+        "description": "Labour deputy leader says she thinks energy secretary would suit Treasury but ‘tittle-tattle’ over posts ‘unedifying’Ed Miliband would make a “good” chancellor to Andy Burnham, Labour’s deputy lead...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Prince Harry and family’s UK visit ‘pulled from under their feet at 11th hour’",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/28/prince-harry-uk-family-visit-refused-police-protection",
-        "description": "Duke reportedly fears his children will not get to meet king after government declines request for police protectionThe Duke of Sussex fears his children will not meet King Charles in the coming da...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Greens examining how party decides policy as membership triples under Zack Polanski",
-        "url": "https://www.theguardian.com/politics/2026/jun/28/greens-examining-how-party-decides-policy-as-membership-triples-under-zack-polanski",
-        "description": "Exclusive: Concerns in-person vote system is giving bigger say to organised fringe activists who can attend conferenceSenior Greens are examining ways to revamp the party’s structures to make it mo...",
+        "title": "Burnham may have to boost defence spending to pass ‘Moscow test’, says ex-military chief",
+        "url": "https://www.theguardian.com/politics/2026/jun/28/andy-burnham-defence-spending-moscow-test-ex-military-chief-tony-radakin",
+        "description": "Adm Sir Tony Radakin says UK currenly ‘falls short’ of level required to keep Russian threats at bayThe former head of the armed forces has told Andy Burnham that plans for defence spending must me...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,13 +32,6 @@
       }
     ],
     "economy": [
-      {
-        "title": "The AI bubble has further to run despite the looming crash",
-        "url": "https://www.theguardian.com/business/2026/jun/27/ai-bubble-crash-tech-firms-stock-markets",
-        "description": "As tech firms make huge profits and investors fear losing out, both are doing their best to hold off the day of reckoningOpenAI staggers AI model release after White House requestEvery couple of de...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
       {
         "title": "‘Crypto v community’: 4,000 local US lenders join forces to fight ‘stablecoins’ law",
         "url": "https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law",
@@ -54,6 +47,13 @@
         "category": "economy"
       },
       {
+        "title": "When it comes to taxing the super rich, there’s no need to reinvent the wheel",
+        "url": "https://www.theguardian.com/us-news/2026/jun/28/wealth-tax-super-rich",
+        "description": "Any new tax on the rich won’t raise much money unless many of the exceptions and loopholes are dealt withIn this new era of rampaging oligarchs, nothing may seem as satisfying as slapping a tax on ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Trump threatens 100% tariff on European nations over tech tax",
         "url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss",
         "description": "The US president says \"Numerous European countries\" have been discussing bringing in such a levy.",
@@ -63,30 +63,30 @@
     ],
     "nhs": [
       {
-        "title": "Mark Tame obituary",
-        "url": "https://www.theguardian.com/society/2026/jun/26/mark-tame-obituary",
-        "description": "My friend Mark Tame, who has died of lung cancer aged 61, spent his life caring for others. He worked for various charities (including Mind) in Bristol and London that advocated for mental health p...",
+        "title": "How a Romford maternity ward was able to turn the tide after a ‘requires improvement’ rating",
+        "url": "https://www.theguardian.com/society/2026/jun/28/romford-maternity-ward-turn-tide-requires-improvement-rating",
+        "description": "Hiring more staff and providing interpreters are just some of the actions taken by Queen’s hospital to tackle core problems• Risk of serious birth injuries is rising for women in England, data sugg...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "The Guardian view on the Ockenden maternity review: lifting standards must be the number one priority | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/jun/25/the-guardian-view-on-the-ockenden-maternity-review-lifting-standards-must-be-the-number-one-priority",
-        "description": "Families are right to be angry about devastating care failures in Nottingham. Ministers must respond fastThe painful familiarity of key themes in Donna Ockenden’s review of maternity care failures ...",
+        "title": "Risk of serious birth injuries is rising for women in England, data suggests",
+        "url": "https://www.theguardian.com/society/2026/jun/28/risk-serious-childbirth-injuries-women-england-nhs",
+        "description": "About 31 in every 1,000 facing haemorrhage or severe tears, NHS figures show, in trend described as ‘national crisis’How a Romford maternity ward was able to turn the tide after a ‘requires improve...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "‘Infection control becomes almost impossible’: four doctors on the NHS heatwave crisis",
-        "url": "https://www.theguardian.com/society/2026/jun/25/four-doctors-nhs-heatwave-crisis",
-        "description": "Frontline medics describe extreme heat conditions they feel are unsafe and lacking in dignity for patientsHospitals in England declare critical incidents as machines and IT fail in heatHospitals in...",
+        "title": "Fall in NHS waiting lists is not a Labour win | Letter",
+        "url": "https://www.theguardian.com/society/2026/jun/28/fall-in-nhs-waiting-lists-is-not-a-labour-win",
+        "description": "Priscilla Alderson asks how long the NHS will survive under a Burnham-Streeting governmentA fall in NHS waiting lists is presented as a government success (From the NHS to new homes, Starmer’s succ...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Even young and fit urged to skip runs and too many beers in heatwave",
-        "url": "https://www.bbc.co.uk/news/articles/cgjxdpp4qzeo?at_medium=RSS&at_campaign=rss",
-        "description": "Cardiac arrests have gone up during very hot weather, and it's not just among the elderly and frail, experts are warning.",
+        "title": "Catherine completes Three Peaks Challenge to 'explore life beyond' cancer diagnosis",
+        "url": "https://www.bbc.co.uk/news/articles/cwydwgy7125o?at_medium=RSS&at_campaign=rss",
+        "description": "The Princess of Wales did the endurance event to raise awareness about \"holistic healthcare\" for cancer patients.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,9 +116,16 @@
     ],
     "climate": [
       {
-        "title": "Temperature records tumble across Europe as heatwave moves east",
+        "title": "Germany, Czechia, Poland and Hungary swelter through hottest days on record",
         "url": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
-        "description": "More than 191m people in Europe face temperatures over 35C, with extreme heat warnings from Germany to Hungary‘A sad inevitability’: after decades of climate warnings, why is Europe so unprepared f...",
+        "description": "Heat records of over 40C set as extreme weather spreads east, with more than 191m in Europe enduring 35C or aboveAfter decades of  warnings, why is Europe so unprepared?Germany, Czechia, Poland and...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Body of boy, 15, recovered from Manchester reservoir amid UK heatwave",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/28/body-boy-manchester-reservoir-uk-heatwave",
+        "description": "At least seven people have died in water-related incidents during record-breaking June temperaturesThe body of a 15-year-old boy has been recovered from a reservoir near Manchester, as police renew...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Europe heatwave: drought fears in Italy as records tumble around Europe – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-        "description": "Temperature records broken in Germany, Denmark and Slovakia as Europe remains gripped by heatwaveAfter decades of climate warnings, why is Europe so unprepared for rising heat?Seawater is seeping i...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Full Strawberry Moon set to light up night sky",
-        "url": "https://www.bbc.co.uk/weather/articles/c9q2e0gp03xo?at_medium=RSS&at_campaign=rss",
-        "description": "The first full Moon of summer will rise across UK skies this week",
+        "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+        "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+        "description": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,9 +169,16 @@
     ],
     "housing": [
       {
-        "title": "UK minister working up plans for state-owned housing developer",
-        "url": "https://www.theguardian.com/society/2026/jun/27/uk-minister-plans-for-state-owned-housing-developer-exclusive",
-        "description": "Exclusive: Steve Reed is looking at government run scheme that could borrow at lower rates than private developersThe housing secretary has been working up plans for a state-owned housing developer...",
+        "title": "Peter O’Callaghan obituary",
+        "url": "https://www.theguardian.com/society/2026/jun/28/peter-ocallaghan-obituary",
+        "description": "As a young man, my friend Peter O’Callaghan, who has died aged 82, had his heart set on being a priest, but after five years in a seminary decided it was not his calling and instead dedicated his l...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Developers want to build on top of my flat and there’s nothing I can do to stop it | Letter",
+        "url": "https://www.theguardian.com/money/2026/jun/28/developers-want-to-build-on-top-of-my-flat-and-theres-nothing-i-can-do-to-stop-it",
+        "description": "A reader highlights how little safety or security there is for leasehold flat owners if the freeholder wants to monetise roof spaceYour article on the National Leasehold Campaign highlighted the fi...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -179,13 +186,6 @@
         "title": "Will Andy Burnham ‘go big’ in expanding the role of the state?",
         "url": "https://www.theguardian.com/politics/2026/jun/28/andy-burnham-nationalisation-pm-chancellor-thames-water",
         "description": "In the first of a series on nationalisation, we look at the critical tests ahead for the PM-in-waiting, from choosing a chancellor to the future of Thames WaterAs he swept towards victory in the Ma...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Unit owners are wresting back control of their stratas: ‘If I don’t do it, the building will fall into the street’",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/28/unit-owners-stratas-australia",
-        "description": "Amid high costs and low confidence in the industry, some owner-occupiers are taking on Australia’s commercialised strata systemFollow our Australia news live blog for latest updatesGet our breaking...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-        "description": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+        "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
+        "url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss",
+        "description": "WHO chief Tedros Adhanom Ghebreyesus warned that Europe is not prepared for high temperatures.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
