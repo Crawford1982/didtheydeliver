@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-06-28T03:40:57.587799+00:00",
+  "fetched_at": "2026-06-28T08:49:30.088625+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Greens examining how party decides policy as membership triples under Zack Polanski",
+        "url": "https://www.theguardian.com/politics/2026/jun/28/greens-examining-how-party-decides-policy-as-membership-triples-under-zack-polanski",
+        "description": "Exclusive: Concerns in-person vote system is giving bigger say to organised fringe activists who can attend conferenceSenior Greens are examining ways to revamp the party’s structures to make it mo...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK minister working up plans for state-owned housing developer",
         "url": "https://www.theguardian.com/society/2026/jun/27/uk-minister-plans-for-state-owned-housing-developer-exclusive",
@@ -13,13 +20,6 @@
         "title": "David Hencke, Guardian journalist who exposed cash-for-questions scandal, dies aged 79",
         "url": "https://www.theguardian.com/media/2026/jun/27/david-hencke-guardian-journalist-dies",
         "description": "Former Westminster correspondent earned a reputation for uncovering political wrongdoing in the 1990sThe acclaimed journalist David Hencke, whose career at the Guardian spanned more than three deca...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Nigel Farage’s anti-WHO campaign moves to US with allies added to board",
-        "url": "https://www.theguardian.com/politics/2026/jun/27/nigel-farage-action-on-world-health-campaign-who-us-board",
-        "description": "Relocation of Action on World Health raises questions over why Reform UK leader is involved in a US pressure groupNigel Farage’s campaign against the World Health Organization (WHO) is moving to th...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -40,16 +40,16 @@
         "category": "economy"
       },
       {
-        "title": "Key TG Jones landlords back restructuring plan; oil price hits four-month low – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsEuropean stock markets are dropping today, as a sell-off in technology shares on Wall Street yesterday rattles investors’ nerves.In London,...",
+        "title": "Will Andy Burnham ‘go big’ in expanding the role of the state?",
+        "url": "https://www.theguardian.com/politics/2026/jun/28/andy-burnham-nationalisation-pm-chancellor-thames-water",
+        "description": "In the first of a series on nationalisation, we look at the critical tests ahead for the PM-in-waiting, from choosing a chancellor to the future of Thames WaterAs he swept towards victory in the Ma...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "‘Make people dream’: how to build an economy for the common good",
-        "url": "https://www.theguardian.com/environment/2026/jun/26/make-people-dream-build-economy-common-good-mariana-mazzucato",
-        "description": "Economist Prof Mariana Mazzucato says governments must ‘get back their mojo’ and believe they can change the world Good governments have a vision. They know what they want to achieve, can articulat...",
+        "title": "Labour has abandoned the missions that brought it to power. Here's how Burnham could revive them. | Mariana Mazzucato",
+        "url": "https://www.theguardian.com/commentisfree/2026/jun/28/labour-keir-starmer-government-five-missions-failed-andy-burnham-mariana-mazzucato",
+        "description": "With a new prime minister incoming, Labour faces a fundamental question about its economic visionAs Keir Starmer stands down as prime minister and attention turns toward Andy Burnham, the current m...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "David Sedaris on his Duolingo obsession: ‘“Today is the last day,” I told myself – but I was powerless to stop’",
+        "url": "https://www.theguardian.com/books/2026/jun/28/david-sedaris-duolingo-obsession-the-land-and-its-people-memoir",
+        "description": "I decided to combine my need to top the leader table with my daily step count – which is how I found myself walking 10 miles a day while reading out sentences in Japanese, German, Spanish and Frenc...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Children embrace Cornish language as it enjoys ‘remarkable resurgence’",
         "url": "https://www.theguardian.com/uk-news/2026/jun/27/children-embrace-cornish-language-remarkable-resurgence",
         "description": "Go Cornish Celebration engages younger generation as council finalises strategy to boost everyday use of Kernewek Seven-year-old Albie, a pupil at Trewirgie infants’ school in Redruth, did not hesi...",
@@ -156,13 +163,6 @@
         "title": "‘I’m missing out’: the cash-strapped UK university students forced to live at home",
         "url": "https://www.theguardian.com/education/2026/jun/27/uk-university-students-forced-to-live-at-home",
         "description": "Experts say students from poorer backgrounds increasingly having to limit their options because of money worriesMost days, Mariam spends hours simply waiting.The 19-year-old University College Lond...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Dave Eggers: ‘Once you have a machine think and write for you, you’re cooked as a species’",
-        "url": "https://www.theguardian.com/books/2026/jun/27/dave-eggers-once-you-have-a-machine-think-and-write-for-you-youre-cooked-as-a-species",
-        "description": "As his new novel is published, the US author talks about nurturing the next generation of creatives, debating Sam Altman – and why he writes on a boat in San Francisco BayAt Dave Eggers’s suggestio...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -176,25 +176,25 @@
         "category": "housing"
       },
       {
-        "title": "Unit owners are wresting back control of their stratas: ‘If I don’t do it, the building will fall into the street’",
-        "url": "https://www.theguardian.com/australia-news/2026/jun/28/unit-owners-stratas-australia",
-        "description": "Amid high costs and low confidence in the industry, some owner-occupiers are taking on Australia’s commercialised strata systemFollow our Australia news live blog for latest updatesGet our breaking...",
+        "title": "Will Andy Burnham ‘go big’ in expanding the role of the state?",
+        "url": "https://www.theguardian.com/politics/2026/jun/28/andy-burnham-nationalisation-pm-chancellor-thames-water",
+        "description": "In the first of a series on nationalisation, we look at the critical tests ahead for the PM-in-waiting, from choosing a chancellor to the future of Thames WaterAs he swept towards victory in the Ma...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "New York City will freeze rent for 1m apartments in big victory for Mamdani",
-        "url": "https://www.theguardian.com/us-news/2026/jun/26/new-york-city-rent-freeze-mamdani",
-        "description": "City’s mayor has consistently argued that rising housing costs have made it increasingly unaffordableA New York City housing board has voted to freeze rent for approximately 1m apartments.In a majo...",
+        "title": "Unit owners are wresting back control of their stratas: ‘If I don’t do it, the building will fall into the street’",
+        "url": "https://www.theguardian.com/australia-news/2026/jun/28/unit-owners-stratas-australia",
+        "description": "Amid high costs and low confidence in the industry, some owner-occupiers are taking on Australia’s commercialised strata systemFollow our Australia news live blog for latest updatesGet our breaking...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "'Every person saved is a miracle': Families call to trapped loved ones in region devastated by Venezuela quakes",
+        "title": "Families calling out to loved ones trapped in rubble by Venezuela quakes",
         "url": "https://www.bbc.co.uk/news/articles/cp8l451420zo?at_medium=RSS&at_campaign=rss",
-        "description": "Families keep vigil at buildings where they fear their loved ones are trapped, but face an impossible task to move heavy debris.",
+        "description": "In La Guaira, desperate families keep vigil at buildings where they fear their relatives are trapped, but face an impossible task to move heavy debris.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
