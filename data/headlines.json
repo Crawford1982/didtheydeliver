@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-06-30T09:32:44.816332+00:00",
+  "fetched_at": "2026-06-30T14:15:50.598160+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer to unveil long-delayed defence investment plan amid ‘too little, too late’ criticism – UK politics live",
+        "title": "Starmer warns Burnham not to borrow to fund defence as he reveals £15bn plan",
+        "url": "https://www.theguardian.com/politics/2026/jun/30/defence-investment-plan-keir-starmer-labour",
+        "description": "PM unveils long-awaited defence investment plan, which he says will mean hit to road, housing and energy schemesUK politics live – latest updatesKeir Starmer has warned his successor not to borrow ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Defence secretary updating MPs after Starmer unveils extra £15bn for armed forces – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jun/30/defence-investment-plan-keir-starmer-dan-jarvis-labour-andy-burnham-uk-politics-latest-news",
-        "description": "Defence investment plan, which was originally due in the autumn, criticised by Tories and Lib DemsLord Dannatt, a former head of the army, told GB News this morning that, while the defence investme...",
+        "description": "Starmer confirms rise but says defence spending cannot be ‘bottomless pit’ and MoD has to ‘spend better’Keir Starmer is speaking now.They are at Malloy Aeronautics, a firm that designs heavy-lift d...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Share your views on Andy Burnham’s plans for a new No 10 North",
-        "url": "https://www.theguardian.com/politics/2026/jun/30/share-your-views-andy-burnham-announcement-no-10-north",
-        "description": "Burnham announced that as UK prime minister he would set up a ‘No 10 North’ in Manchester to oversee a devolution of power and resources across the UKAndy Burnham’s tenure as mayor of Manchester ha...",
+        "title": "Burnham’s No 10 North ‘will be based on brownfield site on edge of Manchester’",
+        "url": "https://www.theguardian.com/politics/2026/jun/30/burnham-no-10-north-ancoats-manchester",
+        "description": "Prime minister-in-waiting is seeking an interim base in the city centre before Ancoats site is completed in 2028A civil service base that is under construction in Manchester has been earmarked for ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Nearly 25% of UK pubs and restaurants lose money, research shows",
-        "url": "https://www.theguardian.com/business/2026/jun/30/uk-pubs-restaurants-lose-money-research-shows-vat-cut-campaign",
-        "description": "Hospitality trade bodies’ data published as celebrity chefs and restaurateurs launch campaign for VAT cutNearly a quarter of UK pubs, bars and restaurants are losing money, according to new survey ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Refugees would be told to repay around £10,000 under new asylum bill",
-        "url": "https://www.bbc.co.uk/news/articles/cddlgqlm7q2o?at_medium=RSS&at_campaign=rss",
-        "description": "The Home Office will be given powers to recover costs from adults who have received asylum support under new laws.",
+        "title": "Starmer trims budgets to fund extra £15bn for defence",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss",
+        "description": "The plan outlines how billions will be spent on equipping the UK armed forces in the years ahead.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK living standards fall despite fastest growth in G7, highlighting Burnham’s economic challenge – business live",
+        "title": "UK disposable incomes squeezed by price rises and tax changes",
+        "url": "https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth",
+        "description": "ONS confirms 0.6% GDP growth in first quarter, with services, production and construction sectors expandingBusiness live – latest updatesUK households suffered a drop in disposable incomes in the f...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK government ‘minded to intervene’ in Paramount’s takeover of Warner Bros Discovery – business live",
         "url": "https://www.theguardian.com/business/live/2026/jun/30/uk-living-standards-fall-fastest-growth-in-g7-andy-burnham-pound-bonds-live-news-updates",
-        "description": "GDP quarterly national accounts show people grew worse off in January to March 2026, and saved less tooNewsflash: European media group Axel Springer has completed its takeover of the Telegraph in a...",
+        "description": "Lisa Nandy, Secretary of State for Culture, cites need for sufficient plurality of views in news mediaFull story: UK ‘minded to’ intervene in Paramount’s $110bn takeover of Warner Bros DiscoveryNew...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -43,13 +50,6 @@
         "title": "‘Commanding heights of the economy’: the postwar blueprint that inspires Burnham",
         "url": "https://www.theguardian.com/politics/2026/jun/30/andy-burnham-nationalisation-clement-attlee",
         "description": "In the second of a series on nationalisation, we look at the lessons from Clement Attlee’s administrationWill Andy Burnham ‘go big’ in expanding the role of the state?A prime minister with ambitiou...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "EU sets up three months of talks with China over €360bn trade deficit",
-        "url": "https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit",
-        "description": "Two sides agree to try to make bilateral relationship ‘more balanced’ after weeks of threatsThe EU and China have agreed to enter three months of talks to try to avoid a trade war over the bloc’s €...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -70,13 +70,6 @@
         "category": "nhs"
       },
       {
-        "title": "England to get powerful maternity commissioner after ‘shocking’ failings",
-        "url": "https://www.theguardian.com/politics/2026/jun/30/england-maternity-commissioner-shocking-failings-amos-review",
-        "description": "Health secretary announces move after Amos review finds childbirth and neonatal care in need of ‘urgent reform’Analysis: Transparency, standards and a new commissioner – but does maternity review g...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Transparency, standards and a new commissioner – but does the maternity review go far enough?",
         "url": "https://www.theguardian.com/society/2026/jun/30/transparency-standards-commissioner-amos-maternity-review",
         "description": "Amos review sets out recommendations for government, but falls short on systemic racism and traumatic birthsEngland to get powerful maternity commissioner after ‘shocking’ failingsThe findings of L...",
@@ -84,9 +77,16 @@
         "category": "nhs"
       },
       {
-        "title": "'We can't continue like this': Inquiry demands NHS maternity overhaul",
+        "title": "England to get powerful maternity commissioner after ‘shocking’ failings",
+        "url": "https://www.theguardian.com/politics/2026/jun/30/england-maternity-commissioner-shocking-failings-amos-review",
+        "description": "Health secretary announces move after Amos review finds childbirth and neonatal care in need of ‘urgent reform’Analysis: Transparency, standards and a new commissioner – but does maternity review g...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Government promises to act after 'shocking' failings in maternity care in England",
         "url": "https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&at_campaign=rss",
-        "description": "An independent inquiry into England's maternity services has found \"unacceptable racism and discrimination\" is affecting patient safety.",
+        "description": "An independent inquiry has found \"unacceptable racism and discrimination\" is affecting patient safety.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -100,46 +100,46 @@
         "category": "immigration"
       },
       {
-        "title": "Tuesday briefing: Inside Shabana Mahmood’s new UK asylum reforms",
-        "url": "https://www.theguardian.com/world/2026/jun/30/tuesday-briefing-inside-shabana-mahmoods-new-uk-asylum-reforms",
-        "description": "In today’s newsletter: As the home secretary details reforms to the asylum system, a look at the challenges Labour faces – and what better story could be told about immigrationGood morning. Last ni...",
+        "title": "Elon Musk promotes ‘anti-migrant’ Armie Hammer film with free download on X",
+        "url": "https://www.theguardian.com/film/2026/jun/30/elon-musk-anti-migrant-armie-hammer-film-free-download-citizen-vigilante",
+        "description": "Citizen Vigilante, which follows a businessman taking bloody revenge on immigrant criminals, was posted by the tech trillionaire in the wake of damning reviewsA German film starring Armie Hammer th...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "‘I hadn’t seen people smiling until I arrived in the UK’: one man’s harrowing journey from Yemen to safety",
-        "url": "https://www.theguardian.com/global-development/2026/jun/30/yemen-europe-killing-of-three-boys-unexploded-bomb-conscription",
-        "description": "After being arrested, beaten and targeted for conscription, Amal Sahel realised he needed to leave his country. But his journey to Europe was fraught with dangerWhen Amal Sahel* was 15, he and his ...",
+        "title": "Tuesday briefing: Inside Shabana Mahmood’s new UK asylum reforms",
+        "url": "https://www.theguardian.com/world/2026/jun/30/tuesday-briefing-inside-shabana-mahmoods-new-uk-asylum-reforms",
+        "description": "In today’s newsletter: As the home secretary details reforms to the asylum system, a look at the challenges Labour faces – and what better story could be told about immigrationGood morning. Last ni...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Reader Q&A: ask Ajit Niranjan anything about Europe’s hellish week of heat",
+        "title": "Reader Q&A live: we answer your questions about Europe’s hellish week of heat",
         "url": "https://www.theguardian.com/community/live/2026/jun/30/reader-qa-ask-ajit-niranjan-anything-about-europes-hellish-week-of-heat",
-        "description": "Our European environment correspondent has been reporting on the shocking heatwave that continues to scorch its way across Europe, covering everything from the lack of preparation to ways to deal w...",
+        "description": "Our European environment correspondent Ajit Niranjan answers your questions on the climate after reporting on the shocking heatwave that continues to scorch its way across Europe, covering everythi...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "How I survived the record Paris heatwave while seven months pregnant",
-        "url": "https://www.theguardian.com/environment/2026/jun/30/how-i-survived-record-paris-heatwave-while-seven-months-pregnant",
-        "description": "It feels as if we are being abandoned to our fate by those in power, with further extreme heat expected next weekIn the summer of 2019, I had a “fun” idea for a piece. Paris was due to experience i...",
+        "title": "Labour MPs tell Burnham to ignore ‘deluded’ calls for more North Sea drilling",
+        "url": "https://www.theguardian.com/environment/2026/jun/30/labour-mps-tell-burnham-ignore-deluded-calls-more-north-sea-drilling",
+        "description": "Critics debunk economic claims as research finds Rosebank development would produce estimated 250m tonnes of CO2UK politics live – latest updatesScores of Labour MPs have urged the prospective prim...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Dangerous temperatures forecast for parts of Europe as heatwave moves east",
-        "url": "https://www.theguardian.com/environment/2026/jun/29/dangerous-temperatures-forecast-central-eastern-europe-heatwave",
-        "description": "Red warnings issued in Hungary, Poland, Romania and the Balkans, with authorities urging people to stay indoorsParts of central, eastern and southern Europe sweltered on Monday as the “heat dome” b...",
+        "title": "Reform UK chair of Welsh environment committee may ‘undermine scrutiny’, says thinktank",
+        "url": "https://www.theguardian.com/environment/2026/jun/30/reform-mp-chair-of-welsh-environment-committee-may-undermine-scrutiny-says-thinktank",
+        "description": "Climate campaigners question choice of James Evans for role given past criticism of green energy projectsUK politics live – latest updatesThe appointment of a Reform UK member of the Senedd Cymru a...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "'Complete mess' as drinks could rise by 50p under new bottle return plan, experts say",
-        "url": "https://www.bbc.co.uk/news/articles/cp8ry5p08x7o?at_medium=RSS&at_campaign=rss",
-        "description": "Shoppers could face higher drink prices and reduced choice under a new recycling scheme, industry leaders say.",
+        "title": "Flooding hits Ghana's capital killing 13 people - with another storm forecast",
+        "url": "https://www.bbc.co.uk/news/articles/cn4r8zlv8edo?at_medium=RSS&at_campaign=rss",
+        "description": "People have been urged to relocate to high ground or stay indoors as more rain is expected to come.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "UK housebuilders face class action suit over alleged collusion to inflate prices",
+        "url": "https://www.theguardian.com/business/2026/jun/30/uk-housebuilders-face-class-action-suit-over-alleged-collusion-to-inflate-prices",
+        "description": "Law firms seek up to £4.5bn on behalf of 700,000 buyers of new-build homesBusiness live – latest updatesBritain’s biggest housebuilders, including Barratt Redrow and Taylor Wimpey, face a multibill...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "What is Andy Burnham’s economic and political blueprint for Britain?",
         "url": "https://www.theguardian.com/politics/2026/jun/29/what-is-andy-burnhams-economic-and-political-blueprint-for-britain",
         "description": "Plans include greater regional power, public ownership of utilities and the end of trickle-down economicsBurnham sets out vision to transform Britain and fix ‘broken’ systemAndy Burnham’s speech at...",
@@ -179,13 +186,6 @@
         "title": "Andy Burnham confirms he will set up ‘No 10 North’ in Manchester in major policy speech – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jun/29/andy-burnham-devolution-speech-keir-starmer-labour-latest-news-updates",
         "description": "Makerfield MP and hopeful prime minister says he will ‘bring about biggest rebalancing of power the country has ever seen’Andy Burnham vows to set up No 10 North as ‘nerve centre of rewired Britain...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Life on the porch of an empty mansion – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/jun/29/life-on-the-porch-of-an-empty-mansion-podcast",
-        "description": "Why are so many luxury homes in London lying empty? Sam Wollaston reportsIn the heart of Knightsbridge, London, 2-8A Rutland Gate sits empty. The 45-room mansion, which sold for £210m in 2020, has ...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-        "description": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+        "title": "Manhunt after bomb injures Ukrainian oligarch in Monaco",
+        "url": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+        "description": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
-        "url": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
-        "description": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
+        "title": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+        "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+        "description": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
