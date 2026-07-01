@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-07-01T14:32:20.209326+00:00",
+  "fetched_at": "2026-07-01T19:52:39.811528+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Badenoch urges Burnham to condemn defence investment plan as No 10 says funding is ‘credible’ – UK politics live",
+        "title": "Andy Burnham says ‘nothing off table’ in case of Rochdale grooming gang leader",
+        "url": "https://www.theguardian.com/politics/2026/jul/01/andy-burnham-says-nothing-off-table-in-case-of-rochdale-grooming-gang-leader",
+        "description": "Labour leader-in-waiting wants to close loophole preventing deportation of sex offenderAndy Burnham will explore “all possible options”, if he becomes prime minister, to close a legal loophole that...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Badenoch urges Burnham to condemn defence investment plan as No 10 says funding is ‘credible’ – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
         "description": "Minister and MPs have raised concerns that his ‘poisoned chalice’ plan will take cash from much-needed road projectsMinister and MP ‘furious’ over cuts to road projects to fund defence planDan Sabb...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK national lottery review to give public more say in how funds are spent",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/01/uk-national-lottery-review-public-say-funds-spent",
-        "description": "Culture secretary Lisa Nandy launches consultation on first changes to system in more than two decadesThe government is to review the future of the national lottery for the first time in more than ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Keir Starmer forced on back foot at PMQs over ‘weak’ defence plan",
+        "title": "Keir Starmer suggests Andy Burnham borrow billions for defence",
         "url": "https://www.theguardian.com/politics/2026/jul/01/keir-starmer-pmqs-defence-investment-plan-kemi-badenoch",
-        "description": "Prime minister says he will take no lectures from Tories after Kemi Badenoch says investment plan is insufficientUK politics live – latest updatesKeir Starmer was forced on the defensive in the Com...",
+        "description": "Prime minister has said his successor in No 10 should use fiscal headroom to fund a £4.7bn gap in defence spending UK politics live – latest updatesKeir Starmer has suggested Andy Burnham borrow bi...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,9 @@
     ],
     "economy": [
       {
-        "title": "UK disposable incomes squeezed by price rises and tax changes",
-        "url": "https://www.theguardian.com/business/2026/jun/30/uk-disposable-incomes-price-rises-tax-cgt-ons-gdp-growth",
-        "description": "ONS confirms 0.6% GDP growth in first quarter, with services, production and construction sectors expandingBusiness live – latest updatesUK households suffered a drop in disposable incomes in the f...",
+        "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
+        "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
+        "description": "Trump and US officials opted to keep USMCA alive on short leash of annual reviews rather than longer term renewalDonald Trump has refused to renew the North American trade pact he once championed a...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,18 +54,25 @@
         "category": "economy"
       },
       {
-        "title": "Trump made more than $1bn from crypto in first year back in office",
-        "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-        "description": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+        "title": "Bibles, Home Alone and perfume: Six surprising ways Trump made money in 2025",
+        "url": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
+        "description": "Official documents show the US president made billions of dollars as he returned to the White House.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "What does the Amos report reveal about maternity and neonatal care in England?",
-        "url": "https://www.theguardian.com/society/2026/jun/30/valerie-amos-report-maternity-neonatal-care-england",
-        "description": "Amos review confirms patients received unacceptable care that led to stillbirths, serious injuries and maternal deathsDamning report on maternity care in England is a ‘watershed moment’Valerie Amos...",
+        "title": "Author of England maternity care review ‘listened to wrong voices’, says adviser",
+        "url": "https://www.theguardian.com/politics/2026/jul/01/valerie-amos-review-maternity-care-england-report-normal-birth-bill-kirkup",
+        "description": "Dr Bill Kirkup says section of Valerie Amos’s report criticising ‘normal birth ideology’ was removed before publicationThe head of an inquiry into maternity care altered its final report to remove ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Should public services be run by private equity firms? | Letters",
+        "url": "https://www.theguardian.com/business/2026/jul/01/should-public-services-be-run-by-private-equity-firms",
+        "description": "Mal Williams thinks private equity should be excluded from essential services, while Ian Graham draws attention to dental practices. Plus letters from Rob Harrison, Tony Fletcher and Michael Moore,...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -73,13 +80,6 @@
         "title": "Women with irregular periods should be checked for PMOS, NHS says",
         "url": "https://www.theguardian.com/society/2026/jul/01/women-with-irregular-periods-should-be-checked-for-pmos-nhs-says",
         "description": "Polyendocrine metabolic ovarian syndrome is underdiagnosed and inconsistently managed, according to NiceUp to 4 million women with irregular periods should be investigated for polyendocrine metabol...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "UK poll highlights fears about access to emergency contraception",
-        "url": "https://www.theguardian.com/society/2026/jul/01/uk-poll-highlights-fears-about-access-to-emergency-contraception",
-        "description": "Doctors say survey shows need for morning-after pill to be available at corner shops, petrol stations and supermarketsAlmost half of the UK population believe it would be difficult to access emerge...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -100,21 +100,28 @@
         "category": "immigration"
       },
       {
-        "title": "Badenoch urges Burnham to condemn defence investment plan as No 10 says funding is ‘credible’ – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
-        "description": "Minister and MPs have raised concerns that his ‘poisoned chalice’ plan will take cash from much-needed road projectsMinister and MP ‘furious’ over cuts to road projects to fund defence planDan Sabb...",
+        "title": "The Guardian view on yet another immigration bill: law as performance is a failing model | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/01/the-guardian-view-on-yet-another-immigration-bill-law-as-performance-is-a-failing-model",
+        "description": "Legislation drafted around an agenda of proving ‘toughness’ is a method that was tested to destruction by the ToriesAn act of parliament changing the UK’s immigration and asylum system has been pas...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Rochdale grooming gang ringleader cannot be deported, victims told",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/30/rochdale-grooming-gang-ringleader-cannot-be-deported-victims-told",
-        "description": "Provisions in Immigration Act prevent Shabir Ahmed, due to be released, from being removed to PakistanThe ringleader of the Rochdale grooming gang is due to be released from prison this week and ca...",
+        "title": "Badenoch urges Burnham to condemn defence investment plan as No 10 says funding is ‘credible’ – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
+        "description": "Minister and MPs have raised concerns that his ‘poisoned chalice’ plan will take cash from much-needed road projectsMinister and MP ‘furious’ over cuts to road projects to fund defence planDan Sabb...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "England has just had its hottest June on record, Met Office data shows",
+        "url": "https://www.theguardian.com/environment/2026/jul/01/england-hottest-june-on-record-met-office-data",
+        "description": "Chief scientist says dangerous heatwaves, which are getting more likely, ‘bring home the implications of climate change’The month of June was the hottest in England on record, driven by a searing h...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "New Orleans residents on warning to abandon sinking city: ‘Nobody wants to leave home’",
         "url": "https://www.theguardian.com/us-news/2026/jul/01/new-orleans-relocation-reactions-climate",
@@ -130,14 +137,7 @@
         "category": "climate"
       },
       {
-        "title": "World Cup matches played in potentially dangerous heat as players’ union makes climate warning",
-        "url": "https://www.theguardian.com/us-news/2026/jun/30/world-cup-matches-extreme-heat",
-        "description": "Nine of the group stage games played in severe heat, analysis finds, as union points to lessons for the whole sportNine matches in the World Cup group stage were played amid potentially dangerous h...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "England's warmest June ever after record-breaking heatwave",
+        "title": "England's warmest June on record following historic heatwave",
         "url": "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&at_campaign=rss",
         "description": "England saw its warmest June since records began in 1865 and the second warmest for the whole of the UK according to data just released by the Met Office.",
         "source": "BBC News",
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
-        "title": "Academy school leaders in England face pay cap to curb ‘banker-style’ salaries",
-        "url": "https://www.theguardian.com/education/2026/jul/01/academy-school-leaders-in-england-face-pay-cap-to-curb-banker-style-salaries",
-        "description": "Nearly 100 academy chief executives earn more than £200,000 a year, and at least one more than £500,000The era of academy school leaders in England receiving “banker-style salaries” and hefty annua...",
+        "title": "Badenoch urges Burnham to condemn defence investment plan as No 10 says funding is ‘credible’ – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
+        "description": "Minister and MPs have raised concerns that his ‘poisoned chalice’ plan will take cash from much-needed road projectsMinister and MP ‘furious’ over cuts to road projects to fund defence planDan Sabb...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "School smartphone bans seen as ‘punitive’ by young people, study says",
-        "url": "https://www.theguardian.com/politics/2026/jun/30/school-smartphone-ban-seen-as-punitive-by-young-people-report",
-        "description": "Outright bans may have unintended negative consequences for young people, University College London report warnsSchool smartphone bans are “overly simplistic” and are not supported by young people ...",
+        "title": "Teachers in England get two-year 6.6% pay rise but schools to foot part of bill",
+        "url": "https://www.theguardian.com/education/2026/jul/01/teachers-pay-rise-schools-england",
+        "description": "Unions pleased with rise above forecast inflation but concerned nearly a third of it will come from school budgetsUK politics live – latest updatesTeachers in England will receive a 3.5% pay rise f...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Where have all the first jobs gone? – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/jun/30/where-have-all-the-starter-jobs-gone-podcast",
-        "description": "The number of young people in the UK not in work, education or training is spiralling. How much damage could it do to their long-term prospects – and the country? Sammy Gecsoyler reportsMore than a...",
+        "title": "Fury over Exeter University plan to scrap dozens of humanities posts",
+        "url": "https://www.theguardian.com/education/2026/jul/01/fury-exeter-university-plan-scrap-dozens-humanities-posts",
+        "description": "Rowan Williams and Mark Kermode join campaign against proposed cuts for arts and social sciencesLeading writers, broadcasters, academics and theologians have thrown their weight behind a campaign t...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Three die in Mexico City World Cup celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&at_campaign=rss",
-        "description": "More than one million people took to the streets of Mexico City on Tuesday to mark the country's win over Ecuador.",
+        "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
+        "url": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
+        "description": "The writer's lawyers say Trump wants to delay paying the damages awarded by a jury that found the president liable for sexually abusing and defaming her.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump made more than $1bn from crypto in first year back in office",
-        "url": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
-        "description": "The president's crypto income far outpaces his earnings from real estate and Trump-themed items such as watches.",
+        "title": "Ukrainian charged in Germany over Nord Stream blasts",
+        "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Fire at Antwerp apartment block kills at least six",
-        "url": "https://www.bbc.co.uk/news/articles/c621dx0vl7xo?at_medium=RSS&at_campaign=rss",
-        "description": "A man is seen clambering through a window to escape black smoke in the block where some 200 people live.",
+        "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
+        "url": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of worshippers attended a ceremony in the Swiss Alps as part of the breakaway Society of Saint Pius X.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
