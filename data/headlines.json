@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-07-01T03:42:37.006620+00:00",
+  "fetched_at": "2026-07-01T09:42:36.180342+00:00",
   "headlines": {
     "government": [
       {
-        "title": "The Burnham blueprint, as told by one of its architects – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/jul/01/the-burnham-blueprint-as-told-by-one-of-its-architects-podcast",
-        "description": "Andy Burnham has set out his economic plans for Britain. Neal Lawson, from the Burnham-aligned group Mainstream, explains the thinking behind itHelen Pidd has been one of Andy Burnham’s constituent...",
+        "title": "Starmer to take PMQs as he faces backlash over ‘poisoned chalice’ defence investment plan – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
+        "description": "Concerns that plan is not properly funded and will take cash from much-needed road projectsMinister and MP ‘furious’ over cuts to road projects to fund defence planAndy Burnham’s team is “properly ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Northern Rail Project risks repeating costly HS2 failures, MPs warn",
-        "url": "https://www.theguardian.com/business/2026/jul/01/northern-rail-project-risk-repeat-hs2-failures-mps-warn",
-        "description": "The £45bn scheme to link cities across north of England with new or upgraded lines has no convincing or properly costed plan, committee saysBuilding Northern Powerhouse Rail (NPR) risks repeating t...",
+        "title": "Minister and MP ‘furious’ over cuts to road projects to fund defence plan",
+        "url": "https://www.theguardian.com/politics/2026/jul/01/ministers-furious-cuts-road-projects-fund-defence-plan",
+        "description": "Robert Jenrick and Hamish Falconer, MPs for Newark and Lincoln, among those whose constituencies now face cutsUK politics live – latest updatesThe Labour minister Hamish Falconer and the Reform MP ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Most asylum seekers rejected under tightened laws will remain in UK",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/30/more-than-half-asylum-seekers-rejected-under-tightened-laws-will-remain-in-uk",
-        "description": "Critics call proposed limits on asylum claims a ‘quick fix that will create long-term chaos’More than half of the people whose asylum and visa claims will be rejected under tightened human rights l...",
+        "title": "Academy school leaders in England face pay cap to curb ‘banker-style’ salaries",
+        "url": "https://www.theguardian.com/education/2026/jul/01/academy-school-leaders-in-england-face-pay-cap-to-curb-banker-style-salaries",
+        "description": "Nearly 100 academy chief executives earn more than £200,000 a year, and at least one more than £500,000The era of academy school leaders in England receiving “banker-style salaries” and hefty annua...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer trims budgets to fund extra £15bn for defence",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0rw5dx1ko?at_medium=RSS&at_campaign=rss",
-        "description": "The plan outlines how billions will be spent on equipping the UK armed forces in the years ahead.",
+        "title": "Burnham's chancellor will have to find extra £4.7bn for defence, says minister",
+        "url": "https://www.bbc.co.uk/news/articles/cy9rgg9ddw2o?at_medium=RSS&at_campaign=rss",
+        "description": "Luke Pollard says the next chancellor \"whoever that may be\" will have to \"find the resources\" to fund defence plan.",
         "source": "BBC News",
         "category": "government"
       }
@@ -79,7 +79,7 @@
       {
         "title": "Women with irregular periods should be checked for PMOS, NHS says",
         "url": "https://www.theguardian.com/society/2026/jul/01/women-with-irregular-periods-should-be-checked-for-pmos-nhs-says",
-        "description": "Polyendocrine metabolic ovarian syndrome is underdiagnosed and inconsistenly managed, according to NiceUp to 4 million women with irregular periods should be investigated for polyendocrine metaboli...",
+        "description": "Polyendocrine metabolic ovarian syndrome is underdiagnosed and inconsistently managed, according to NiceUp to 4 million women with irregular periods should be investigated for polyendocrine metabol...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Academy school leaders in England face pay cap to curb ‘banker-style’ salaries",
+        "url": "https://www.theguardian.com/education/2026/jul/01/academy-school-leaders-in-england-face-pay-cap-to-curb-banker-style-salaries",
+        "description": "Nearly 100 academy chief executives earn more than £200,000 a year, and at least one more than £500,000The era of academy school leaders in England receiving “banker-style salaries” and hefty annua...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "School smartphone bans seen as ‘punitive’ by young people, study says",
         "url": "https://www.theguardian.com/politics/2026/jun/30/school-smartphone-ban-seen-as-punitive-by-young-people-report",
         "description": "Outright bans may have unintended negative consequences for young people, University College London report warnsSchool smartphone bans are “overly simplistic” and are not supported by young people ...",
@@ -156,13 +163,6 @@
         "title": "Where have all the first jobs gone? – podcast",
         "url": "https://www.theguardian.com/news/audio/2026/jun/30/where-have-all-the-starter-jobs-gone-podcast",
         "description": "The number of young people in the UK not in work, education or training is spiralling. How much damage could it do to their long-term prospects – and the country? Sammy Gecsoyler reportsMore than a...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "High-performing schools in England ‘should be encouraged to admit more white working-class pupils’",
-        "url": "https://www.theguardian.com/education/2026/jun/29/white-working-class-children-failed-by-england-school-system-inquiry-finds",
-        "description": "Report says once-in-a-generation changes needed to tackle why such children are lowest-performing large demographicHigh-performing primary and secondary schools in England should be encouraged to a...",
         "source": "The Guardian",
         "category": "education"
       }
