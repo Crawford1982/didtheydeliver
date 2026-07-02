@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-07-02T08:53:44.408840+00:00",
+  "fetched_at": "2026-07-02T13:57:19.155936+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer to issue formal apology to mothers and children harmed by historic forced adoption policies – UK politics live",
+        "title": "‘The shame is ours’: Keir Starmer issues formal state apology over forced adoptions",
+        "url": "https://www.theguardian.com/society/2026/jul/02/keir-starmer-issues-formal-state-apology-over-forced-adoption-scandal",
+        "description": "After decades of campaigning by those affected, PM says state ‘did not do enough to protect’ mothers and childrenKeir Starmer has formally apologised for the British state’s role in past forced ado...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Minister and maritime boss accused of misleading MPs over plan to stop coastguard officers’ pay",
+        "url": "https://www.theguardian.com/global-development/2026/jul/02/maritime-boss-minister-misled-mps-coastguard-officers-pay",
+        "description": "Keir Mather and Virginia McVea’s claims follow decision by Maritime and Coastguard Agency to reject worker status of coastguard rescue officersA government minister and a senior official have been ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "‘Stain on our history’: Starmer issues government apology over forced adoption scandal – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jul/02/keir-starmer-apology-forced-adoption-labour-andy-burnham-uk-politics-latest-news-updates",
-        "description": "Between 1949 and 1976, an estimated 185,000 babies were taken from unmarried mothers and placed for adoption in England and WalesOfficials are “looking at every route” to deport the Rochdale groomi...",
+        "description": "Between 1949 and 1976, an estimated 185,000 babies were taken from unmarried mothers and placed for adoption in England and WalesStarmer said what happened to the mothers, and their children, shoul...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Why is Nigel Farage being paid so much to promote a gold bullion company?",
-        "url": "https://www.theguardian.com/politics/2026/jul/02/explainer-nigel-farage-paid-promote-gold-bullion-company",
-        "description": "Reform UK leader was paid £270,000 for 12 hours’ work – but who is behind Direct Bullion and what does it do?Tell us: have you invested in gold through a specialist bullion company?Despite the dema...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "England’s mayors should be given sweeping new powers, says devolution expert",
-        "url": "https://www.theguardian.com/politics/2026/jul/02/england-mayors-sweeping-new-powers-devolution-expert",
-        "description": "Exclusive: Burnham-aligned thinktank calls for devolution of public services including social care, childcare and skillsMayors should be given power over a wide range of public services, including ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Victims of forced adoption to get formal apology after years of campaigning",
-        "url": "https://www.bbc.co.uk/news/articles/c20yq332018o?at_medium=RSS&at_campaign=rss",
-        "description": "The practice saw thousands of babies taken from their mothers between 1949 and 1976.",
+        "title": "Labour failed to prepare for power, admits PM's former top aide",
+        "url": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&at_campaign=rss",
+        "description": "In his first-ever interview, Morgan McSweeney tells the BBC the party did not deliver quickly enough in office.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK cost of living squeeze eases after record fall in diesel prices, and drop in mortgage rates – business live",
+        "title": "US economy added fewer jobs than expected in June as World Cup fails to boost hiring – business live",
         "url": "https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsJust in: Default rates on UK credit cards have risen, and the situation is expected to get worse.New data from the Bank of England has foun...",
+        "description": "US non-farm payrolls only increased by 57,000 in June, but unemployment rate fellJust in: Default rates on UK credit cards have risen, and the situation is expected to get worse.New data from the B...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "US employers added just 57,000 new jobs in June, lower than expected",
+        "url": "https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june",
+        "description": "The country’s unemployment rate dropped slightly to 4.2% as US job growth also slowed for the monthSign up for the Breaking News US newsletter emailUS job growth slowed in June as employers added 5...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "EU urged to exempt UK from car rules that could be worst Brexit impact yet",
-        "url": "https://www.theguardian.com/business/2026/jul/01/eu-rules-threaten-to-shut-out-uk-car-manufacturers-motor-industry",
-        "description": "Bloc’s ‘made in Europe’ regulations risk shutting out British manufacturers in ‘most spectacular own goal in history’The EU’s car industry has called for the UK to be fully included in new “made in...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "World Cup dreams shattered as StubHub tickets cancelled at last minute",
-        "url": "https://www.bbc.co.uk/news/articles/crkvlekgy07o?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds of fans who bought World Cup tickets on resale site StubHub say they have had them cancelled at the last minute.",
+        "title": "Government rules out extending pub hours for England v Mexico game",
+        "url": "https://www.bbc.co.uk/news/articles/c1kyr8747m9o?at_medium=RSS&at_campaign=rss",
+        "description": "The 1am kick-off time for England's World Cup match on Sunday falls outside changes to licensing laws.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "No 10 shares ‘public’s shock’ at reports of convicted people smuggler living in UK",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/02/convicted-people-smuggler-uk-should-deported-tories",
+        "description": "Downing Street urgently looking into BBC report that ‘godfather’ of Calais migrant camps is living in LeicestershireDowning Street has said it shares “the public’s shock” at a report that a convict...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "The Guardian view on yet another immigration bill: law as performance is a failing model | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/jul/01/the-guardian-view-on-yet-another-immigration-bill-law-as-performance-is-a-failing-model",
         "description": "Legislation drafted around an agenda of proving ‘toughness’ is a method that was tested to destruction by the ToriesAn act of parliament changing the UK’s immigration and asylum system has been pas...",
@@ -105,16 +112,16 @@
         "description": "Minister and MPs have raised concerns that his ‘poisoned chalice’ plan will take cash from much-needed road projectsMinister and MP ‘furious’ over cuts to road projects to fund defence planDan Sabb...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Most asylum seekers rejected under tightened laws will remain in UK",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/30/more-than-half-asylum-seekers-rejected-under-tightened-laws-will-remain-in-uk",
-        "description": "Critics call proposed limits on asylum claims a ‘quick fix that will create long-term chaos’More than half of the people whose asylum and visa claims will be rejected under tightened human rights l...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
+        "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
+        "description": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and NigeriaFloods in Côte d’Ivoire have killed 59 people since May, the communication mini...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Global boom in livestock farming since 2006 is piling pressure on nature, report finds",
         "url": "https://www.theguardian.com/environment/2026/jul/02/huge-rise-mammals-poultry-livestock-farming-worldwide-nature-report",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "New Orleans residents on warning to abandon sinking city: ‘Nobody wants to leave home’",
-        "url": "https://www.theguardian.com/us-news/2026/jul/01/new-orleans-relocation-reactions-climate",
-        "description": "After a recent study found New Orleans is at a ‘point of no return’ amid the climate crisis, some locals say they will ‘only leave if forced to’. But what would it take to stay?When a study in May ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "England's warmest June on record following historic heatwave",
         "url": "https://www.bbc.co.uk/weather/articles/cjdg98g8lg8o?at_medium=RSS&at_campaign=rss",
         "description": "England saw its warmest June since records began in 1865 and the second warmest for the whole of the UK according to data just released by the Met Office.",
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
+        "title": "Ministers call for better tracking of teenagers at risk of dropping out of work or training in England",
+        "url": "https://www.theguardian.com/money/2026/jul/02/ministers-better-tracking-teenagers-risk-dropping-out-of-work-training-england",
+        "description": "Councils and schools urged to do more as figures show there is no information on whereabouts of 32,100 ‘Neets’Business live – latest updatesThe government has urged councils and schools in England ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "‘A sanitized view of America’: inside Trump’s campaign to erase US history from national parks",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/02/us-national-parks-history-censorship",
+        "description": "Critics say the Trump administration is trying to rewrite and whitewash history by removing and altering scores of signs on public landsJerry Bransford, a former US National Park Service (NPS) rang...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Badenoch urges Burnham to condemn defence investment plan as No 10 says funding is ‘credible’ – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
         "description": "Minister and MPs have raised concerns that his ‘poisoned chalice’ plan will take cash from much-needed road projectsMinister and MP ‘furious’ over cuts to road projects to fund defence planDan Sabb...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Teachers in England get two-year 6.6% pay rise but schools to foot part of bill",
-        "url": "https://www.theguardian.com/education/2026/jul/01/teachers-pay-rise-schools-england",
-        "description": "Unions pleased with rise above forecast inflation but concerned nearly a third of it will come from school budgetsUK politics live – latest updatesTeachers in England will receive a 3.5% pay rise f...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Fury over Exeter University plan to scrap dozens of humanities posts",
-        "url": "https://www.theguardian.com/education/2026/jul/01/fury-exeter-university-plan-scrap-dozens-humanities-posts",
-        "description": "Rowan Williams and Mark Kermode join campaign against proposed cuts for arts and social sciencesLeading writers, broadcasters, academics and theologians have thrown their weight behind a campaign t...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
+        "title": "Venezuela quake survivor pulled out alive after eight days",
+        "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+        "description": "Hernán Gil, a security guard, was in a concrete hut in a multi-storey car park, when the building collapsed.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "'Most massive' Russian attack on Kyiv kills at least 20",
         "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-        "description": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+        "description": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
         "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
         "description": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
-        "description": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
