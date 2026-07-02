@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-01T19:52:39.811528+00:00",
+  "fetched_at": "2026-07-02T03:28:38.642745+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "US-UK drug deal could result in 229,000 excess deaths in England, analysis suggests",
+        "url": "https://www.theguardian.com/society/2026/jul/01/us-uk-drug-deal-could-result-in-229000-excess-deaths-in-england-analysis-suggests",
+        "description": "Analysis reveals extent of impact on NHS of placating Donald Trump over price of British medicine exportsThe NHS will have to divert £45bn from essential services to pay for new medicines under the...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Andy Burnham says ‘nothing off table’ in case of Rochdale grooming gang leader",
         "url": "https://www.theguardian.com/politics/2026/jul/01/andy-burnham-says-nothing-off-table-in-case-of-rochdale-grooming-gang-leader",
@@ -13,13 +20,6 @@
         "title": "Badenoch urges Burnham to condemn defence investment plan as No 10 says funding is ‘credible’ – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
         "description": "Minister and MPs have raised concerns that his ‘poisoned chalice’ plan will take cash from much-needed road projectsMinister and MP ‘furious’ over cuts to road projects to fund defence planDan Sabb...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Keir Starmer suggests Andy Burnham borrow billions for defence",
-        "url": "https://www.theguardian.com/politics/2026/jul/01/keir-starmer-pmqs-defence-investment-plan-kemi-badenoch",
-        "description": "Prime minister has said his successor in No 10 should use fiscal headroom to fund a £4.7bn gap in defence spending UK politics live – latest updatesKeir Starmer has suggested Andy Burnham borrow bi...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,7 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "Bibles, Home Alone and perfume: Six surprising ways Trump made money in 2025",
+        "title": "Bibles, Home Alone and perfume: Six takeaways from Trump's 2025 finances",
         "url": "https://www.bbc.co.uk/news/articles/cy9rg133lrjo?at_medium=RSS&at_campaign=rss",
         "description": "Official documents show the US president made billions of dollars as he returned to the White House.",
         "source": "BBC News",
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "US-UK drug deal could result in 229,000 excess deaths in England, analysis suggests",
+        "url": "https://www.theguardian.com/society/2026/jul/01/us-uk-drug-deal-could-result-in-229000-excess-deaths-in-england-analysis-suggests",
+        "description": "Analysis reveals extent of impact on NHS of placating Donald Trump over price of British medicine exportsThe NHS will have to divert £45bn from essential services to pay for new medicines under the...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Author of England maternity care review ‘listened to wrong voices’, says adviser",
         "url": "https://www.theguardian.com/politics/2026/jul/01/valerie-amos-review-maternity-care-england-report-normal-birth-bill-kirkup",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "Women with irregular periods should be checked for PMOS, NHS says",
-        "url": "https://www.theguardian.com/society/2026/jul/01/women-with-irregular-periods-should-be-checked-for-pmos-nhs-says",
-        "description": "Polyendocrine metabolic ovarian syndrome is underdiagnosed and inconsistently managed, according to NiceUp to 4 million women with irregular periods should be investigated for polyendocrine metabol...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Women with PMOS should have yearly NHS checks, says health watchdog",
         "url": "https://www.bbc.co.uk/news/articles/cd0m3g05kx2o?at_medium=RSS&at_campaign=rss",
         "description": "Despite affecting millions of women in the UK, PMOS is still under-diagnosed and inconsistently managed, say experts.",
@@ -92,13 +92,6 @@
       }
     ],
     "immigration": [
-      {
-        "title": "Most asylum seekers rejected under tightened laws will remain in UK",
-        "url": "https://www.theguardian.com/uk-news/2026/jun/30/more-than-half-asylum-seekers-rejected-under-tightened-laws-will-remain-in-uk",
-        "description": "Critics call proposed limits on asylum claims a ‘quick fix that will create long-term chaos’More than half of the people whose asylum and visa claims will be rejected under tightened human rights l...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
       {
         "title": "The Guardian view on yet another immigration bill: law as performance is a failing model | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/jul/01/the-guardian-view-on-yet-another-immigration-bill-law-as-performance-is-a-failing-model",
@@ -110,6 +103,13 @@
         "title": "Badenoch urges Burnham to condemn defence investment plan as No 10 says funding is ‘credible’ – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
         "description": "Minister and MPs have raised concerns that his ‘poisoned chalice’ plan will take cash from much-needed road projectsMinister and MP ‘furious’ over cuts to road projects to fund defence planDan Sabb...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Most asylum seekers rejected under tightened laws will remain in UK",
+        "url": "https://www.theguardian.com/uk-news/2026/jun/30/more-than-half-asylum-seekers-rejected-under-tightened-laws-will-remain-in-uk",
+        "description": "Critics call proposed limits on asylum claims a ‘quick fix that will create long-term chaos’More than half of the people whose asylum and visa claims will be rejected under tightened human rights l...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "'Time for him to pay' - Carroll calls on Trump to pay $5m after president's appeal fails",
-        "url": "https://www.bbc.co.uk/news/articles/cn4r8n3ek80o?at_medium=RSS&at_campaign=rss",
-        "description": "The writer's lawyers say Trump wants to delay paying the damages awarded by a jury that found the president liable for sexually abusing and defaming her.",
+        "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
+        "url": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
+        "description": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "From Truman's pension to Trump's billions - a White House windfall unmatched by any president",
+        "url": "https://www.bbc.co.uk/news/articles/c70yk07vq0po?at_medium=RSS&at_campaign=rss",
+        "description": "Historians say Trump's $2.2bn income last year is unprecedented and blurs the line on conflicts of interest.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Ukrainian charged in Germany over Nord Stream blasts",
         "url": "https://www.bbc.co.uk/news/articles/c33yjk0ldkdo?at_medium=RSS&at_campaign=rss",
         "description": "Ukraine denies involvement in the case which may have serious implications for its relationship with Germany.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Controversial bishops ordained as Pope warns of 'schism' in Catholic Church",
-        "url": "https://www.bbc.co.uk/news/articles/c74y7k8wyz8o?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands of worshippers attended a ceremony in the Swiss Alps as part of the breakaway Society of Saint Pius X.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
