@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-03T02:51:18.209810+00:00",
+  "fetched_at": "2026-07-03T09:15:44.297802+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Andy Burnham says Labour manifesto has room for ‘movement on tax’ – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/03/andy-burnham-says-labour-manifesto-has-room-for-movement-on-tax-uk-politics-live",
+        "description": "The Labour MP hinted that he’s open to flexibility for some taxes that could aid high street businessesThe UK’s culture and media department will stop using X because the site “now favours abuse an...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Burnham promises to ease cost of living pressures if he becomes prime minister",
         "url": "https://www.theguardian.com/politics/2026/jul/02/burnham-promises-to-ease-cost-of-living-pressures-if-he-becomes-prime-minister",
@@ -17,21 +24,28 @@
         "category": "government"
       },
       {
-        "title": "Burnham ‘coronation’ will anger some Labour members, party bosses warned",
-        "url": "https://www.theguardian.com/politics/2026/jul/02/labour-mps-nec-andy-burnham-leadership-contest-no-10",
-        "description": "NEC told it must take steps to address fears – including not hiring Everton stadium to announce new leader before nominations even openLabour chiefs have been warned they must placate disgruntled L...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour failed to prepare for power, admits PM's former top aide",
-        "url": "https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&at_campaign=rss",
-        "description": "In his first-ever interview, Morgan McSweeney tells the BBC the party did not deliver quickly enough in office.",
+        "title": "Burnham says there is some room for movement on tax",
+        "url": "https://www.bbc.co.uk/news/articles/c5yz9j7v0z6o?at_medium=RSS&at_campaign=rss",
+        "description": "But the likely next PM says he will stick to Labour's pledges to not raise VAT, income tax or national insurance.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Burnham’s funding gap: what state are UK finances in for the PM-in-waiting?",
+        "url": "https://www.theguardian.com/business/2026/jul/03/burnham-funding-gap-uk-finances-pm-in-waiting",
+        "description": "Given pressures on the public purse, the Makerfield MP may have to look at  autumn tax rises to fund his ‘new direction’An economy rattled by a global energy shock, jittery bond markets and rising ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK service sector shrinks amid Iran war disruption and heatwave – business live",
+        "url": "https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsToday’s UK Service PMI report (which polls purchasing managers from across the sector) found there was a “sustained reduction in backlogs o...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "US economy added fewer jobs than expected in June as World Cup fails to boost hiring – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jul/02/uk-cost-of-living-squeeze-diesel-record-fall-mortage-rates-stock-markets-us-jobs-report-live-news-updates",
@@ -40,21 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "US employers added just 57,000 new jobs in June, lower than expected",
-        "url": "https://www.theguardian.com/business/2026/jul/02/us-job-growth-slowed-june",
-        "description": "The country’s unemployment rate dropped slightly to 4.2% as US job growth also slowed for the monthSign up for the Breaking News US newsletter emailUS job growth slowed in June as employers added 5...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Trump refuses to renew US-Canada-Mexico trade pact he once championed",
-        "url": "https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty",
-        "description": "Trump and US officials opted to keep USMCA alive on short leash of annual reviews rather than longer term renewalDonald Trump has refused to renew the North American trade pact he once championed a...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "'We give up to £400': How much should you gift at a wedding?",
+        "title": "'Nobody wants a random dish': How much should you gift at a wedding?",
         "url": "https://www.bbc.co.uk/news/articles/c78yj9p0m91o?at_medium=RSS&at_campaign=rss",
         "description": "Wedding lists are being replaced by cash requests, but guests are divided over how much to give.",
         "source": "BBC News",
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "US heatwave threatens 250th anniversary events and World Cup",
+        "url": "https://www.theguardian.com/us-news/2026/jul/03/heatwave-world-cup-250th-anniversary",
+        "description": "Weekend’s high temperatures and humidity ‘virtually impossible’ without climate crisis, researchers sayThe scorching heat blanketing much of the US this week would have been “virtually impossible” ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Trump administration can remove history and climate info from US parks, court says",
         "url": "https://www.theguardian.com/us-news/2026/jul/02/trump-administration-wins-appeal-national-parks",
         "description": "In latest legal twist, appeals panel rules US does not have to reinstate signage on climate, immigration and slaveryThe Trump administration does not have to reinstate materials related to climate ...",
@@ -126,13 +133,6 @@
         "title": "Spain and France face more heat after scorching June caused 2,000 deaths",
         "url": "https://www.theguardian.com/environment/2026/jul/02/spain-france-new-heatwave-warning",
         "description": "Temperatures could reach 44C in south-east Spain as fights break out in Paris supermarkets over air-conditioning unitsSpain and France are bracing for another possible heatwave that could bring tem...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Côte d’Ivoire floods kill 59 as west Africa endures torrential rains",
-        "url": "https://www.theguardian.com/world/2026/jul/02/cote-d-ivoire-floods-dead-west-africa-rains",
-        "description": "Authorities say rainy season getting deadlier, with Ghana reporting 13 dead and floods hitting Benin, Togo and NigeriaFloods in Côte d’Ivoire have killed 59 people since May, the communication mini...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,28 +169,35 @@
     ],
     "housing": [
       {
+        "title": "A council housebuilding boom is central to Burnham’s vision. Can it be done?",
+        "url": "https://www.theguardian.com/politics/2026/jul/03/council-houses-building-burnham-vision",
+        "description": "With 1.5m families waiting for social housing and Labour’s building targets already falling short, the challenge is hugeFrom the front garden of the red-brick terrace where she has lived for nearly...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Far from waging war on the south, Burnham could improve the lives of Londoners. Here’s how | Polly Toynbee",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/03/andy-burnham-londoners-manchesterism-north-south",
+        "description": "The right wants to paint Manchesterism in terms of north v south – but poverty everywhere is solved by prioritising the public purse over private pocketsWhen the “king of the north” called London “...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "The challenges lying in wait for Burnham | Letters",
         "url": "https://www.theguardian.com/politics/2026/jun/30/the-challenges-lying-in-wait-for-burnham",
         "description": "Readers respond to Andy Burnham’s speech at the People’s History Museum in Manchester that laid out his vision for BritainWe are told that regional devolution is the key to the UK’s growth and pros...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "UK housebuilders face class action suit over alleged collusion to inflate prices",
-        "url": "https://www.theguardian.com/business/2026/jun/30/uk-housebuilders-face-class-action-suit-over-alleged-collusion-to-inflate-prices",
-        "description": "Law firms seek up to £4.5bn on behalf of 700,000 buyers of new-build homesBusiness live – latest updatesBritain’s biggest housebuilders, including Barratt Redrow and Taylor Wimpey, face a multibill...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "What is Andy Burnham’s economic and political blueprint for Britain?",
-        "url": "https://www.theguardian.com/politics/2026/jun/29/what-is-andy-burnhams-economic-and-political-blueprint-for-britain",
-        "description": "Plans include greater regional power, public ownership of utilities and the end of trickle-down economicsBurnham sets out vision to transform Britain and fix ‘broken’ systemAndy Burnham’s speech at...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+        "url": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Venezuela quake survivor pulled out alive after eight days",
         "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "'Most massive' Russian attack on Kyiv kills at least 27",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-        "description": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
-        "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-        "description": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+        "title": "Instagram running ads promoting child sexual abuse material in India, BBC finds",
+        "url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss",
+        "description": "The ads use terms including “rape” and “child video” and link to content on the messaging app Telegram.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
