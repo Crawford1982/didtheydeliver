@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-07-04T13:22:11.058530+00:00",
+  "fetched_at": "2026-07-04T19:10:00.277842+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Elon Musk posted twice as often on UK race and immigration as about SpaceX in IPO run-up",
+        "url": "https://www.theguardian.com/technology/2026/jul/04/elon-musk-uk-race-immigration-spacex-ipo",
+        "description": "Guardian analysis of X feed shows how keen world’s richest person was to air his views and ‘interfere’ in British politics  Elon Musk posted about race and immigration in the UK on his social media...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham will change No 10 ‘boys club’ briefing culture, says Lucy Powell",
+        "url": "https://www.theguardian.com/politics/2026/jul/04/burnham-will-change-no-10-boys-club-briefing-culture-says-lucy-powell",
+        "description": "Deputy Labour leader says No 10 must become more meritocratic as party’s female MPs press Burnham on gender balanceAndy Burnham will change a “boys club” culture of factional briefings at No 10 whi...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "OpenAI’s apparent failure to visit key site raises questions over UK investment",
         "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
         "description": "Exclusive: £20bn of ‘potential’ £30bn AI investment touted by UK ministers appears to have been hypotheticalIt was to be the biggest undertaking in Britain for OpenAI, the company behind ChatGPT. S...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour should win next election under Burnham after work already done, Starmer says",
-        "url": "https://www.theguardian.com/politics/2026/jul/04/labour-win-next-election-under-burnham-keir-starmer",
-        "description": "Prime minister holds no ‘personal animosity’ toward likely successor and stresses he has a platform to build onKeir Starmer has said Labour “should go on to win the next election” under his likely ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "British Medical Association could axe up to a third of its staff amid cash crisis",
-        "url": "https://www.theguardian.com/society/2026/jul/04/british-medical-association-union-could-axe-staff-cash-crisis",
-        "description": "Exclusive: Anger at union’s decision to put 200 of its 600 staff in England at risk of redundancyThe British Medical Association is threatening to axe up to a third of its entire workforce to help ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Elon Musk posted twice as often on UK race and immigration as about SpaceX in IPO run-up",
+        "url": "https://www.theguardian.com/technology/2026/jul/04/elon-musk-uk-race-immigration-spacex-ipo",
+        "description": "Guardian analysis of X feed shows how keen world’s richest person was to air his views and ‘interfere’ in British politics  Elon Musk posted about race and immigration in the UK on his social media...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "No 10 shares ‘public’s shock’ at reports of convicted people smuggler living in UK",
         "url": "https://www.theguardian.com/uk-news/2026/jul/02/convicted-people-smuggler-uk-should-deported-tories",
         "description": "Downing Street urgently looking into BBC report that ‘godfather’ of Calais migrant camps is living in LeicestershireDowning Street has said it shares “the public’s shock” at a report that a convict...",
@@ -103,13 +110,6 @@
         "title": "The Guardian view on yet another immigration bill: law as performance is a failing model | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/jul/01/the-guardian-view-on-yet-another-immigration-bill-law-as-performance-is-a-failing-model",
         "description": "Legislation drafted around an agenda of proving ‘toughness’ is a method that was tested to destruction by the ToriesAn act of parliament changing the UK’s immigration and asylum system has been pas...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Badenoch urges Burnham to condemn defence investment plan as No 10 says funding is ‘credible’ – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
-        "description": "Minister and MPs have raised concerns that his ‘poisoned chalice’ plan will take cash from much-needed road projectsMinister and MP ‘furious’ over cuts to road projects to fund defence planDan Sabb...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
-        "url": "https://www.bbc.co.uk/news/articles/cy498d400pro?at_medium=RSS&at_campaign=rss",
-        "description": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet.",
+        "title": "New heatwave likely to peak at 34C with week-long health alert issued",
+        "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
+        "description": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,13 +192,6 @@
     ],
     "foreign_policy": [
       {
-        "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
-        "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-        "description": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
         "title": "Brutal heat cancels Fourth of July events, from DC to Philadelphia",
         "url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss",
         "description": "More than 165 million people are enduring dangerous heat and humidity, with temperatures expected to stay at 38C (100F) for several days.",
@@ -206,9 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-        "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-        "description": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
+        "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+        "description": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Large crowds gather in Tehran on first day of Ayatollah Khamenei's funeral",
+        "url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss",
+        "description": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla until Monday, before travelling across Iran and Iraq.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
