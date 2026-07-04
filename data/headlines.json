@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-03T19:19:47.944216+00:00",
+  "fetched_at": "2026-07-04T02:47:30.489447+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Starmer warns Burnham he cannot spend less time on diplomacy",
+        "url": "https://www.theguardian.com/politics/2026/jul/03/starmer-warns-burnham-he-cannot-spend-less-time-on-diplomacy",
+        "description": "Prime minister also speaks of his ‘intensely personal decision’ to step down in first interview since resigningKeir Starmer has warned his likely successor, Andy Burnham, that it will not be possib...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK parents warned over posting images of children amid AI sexual abuse fears",
         "url": "https://www.theguardian.com/society/2026/jul/03/ai-sexual-abuse-fears-uk-parents-warned-posting-images-children-national-crime-agency",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "UK politics: Downing Street defends decision to let pubs stay open until 5am for England match – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/03/andy-burnham-says-labour-manifesto-has-room-for-movement-on-tax-uk-politics-live",
-        "description": "The government said it had to react to England’s progression in the World Cup, which was only confirmed on WednesdayDowning Street said it would continue to use X after the culture secretary, Lisa ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham rules out calling early election as PM",
-        "url": "https://www.bbc.co.uk/news/articles/c982r5z7v0no?at_medium=RSS&at_campaign=rss",
-        "description": "The newly elected MP for Makerfield is expected to become PM this month and says he will stick to the 2024 Labour manifesto.",
+        "title": "Starmer tells of 'intensely personal' decision to quit and warns Burnham in first interview since resigning",
+        "url": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss",
+        "description": "In an untypically candid interview, the outgoing PM tells the BBC it was \"really tough\" to accept his political career was over.",
         "source": "BBC News",
         "category": "government"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "German row over plan for workers to need sick note on first day of illness",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyxnj38m1o?at_medium=RSS&at_campaign=rss",
-        "description": "A doctors' group says it \"borders on madness\" that patients will have to obtain the note in person.",
+        "title": "How to walk 30 minutes a day - your tips",
+        "url": "https://www.bbc.co.uk/news/articles/c20y2lkgz13o?at_medium=RSS&at_campaign=rss",
+        "description": "From walking the dog before breakfast to getting off the bus a stop early, readers share their tips for building a daily walking habit.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Record-breaking temps in US as 4th July holiday begins",
-        "url": "https://www.bbc.co.uk/news/videos/cx2v1e9dpn9o?at_medium=RSS&at_campaign=rss",
-        "description": "Record-breaking heatwave hits US as Fourth of July holiday weekend gets underway.",
+        "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
+        "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
+        "description": "Temperature records have tumbled across the UK and Europe as scientists warn it is a sign of things to come.",
         "source": "BBC News",
         "category": "climate"
       }
