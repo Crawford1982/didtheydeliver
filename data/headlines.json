@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-07-04T08:34:37.744150+00:00",
+  "fetched_at": "2026-07-04T13:22:11.058530+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Overseas education project for women and girls axed by UK after two years",
-        "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
-        "description": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cutsA leading higher education programme, aimed at keeping 1 million girls in school ...",
+        "title": "OpenAI’s apparent failure to visit key site raises questions over UK investment",
+        "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
+        "description": "Exclusive: £20bn of ‘potential’ £30bn AI investment touted by UK ministers appears to have been hypotheticalIt was to be the biggest undertaking in Britain for OpenAI, the company behind ChatGPT. S...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Celtic nations begin to plan for breakup of UK in event of Reform election win",
-        "url": "https://www.theguardian.com/politics/2026/jul/04/uk-ireland-leaders-fear-union-future-nigel-farage-led-government",
-        "description": "Politicians brace for constitutional turmoil if Nigel Farage’s party end up in government – or even as a strong oppositionThe rise of Nigel Farage has prompted political leaders across Ireland, Nor...",
+        "title": "Labour should win next election under Burnham after work already done, Starmer says",
+        "url": "https://www.theguardian.com/politics/2026/jul/04/labour-win-next-election-under-burnham-keir-starmer",
+        "description": "Prime minister holds no ‘personal animosity’ toward likely successor and stresses he has a platform to build onKeir Starmer has said Labour “should go on to win the next election” under his likely ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer warns Burnham he cannot spend less time on diplomacy",
-        "url": "https://www.theguardian.com/politics/2026/jul/03/starmer-warns-burnham-he-cannot-spend-less-time-on-diplomacy",
-        "description": "Prime minister also speaks of his ‘intensely personal decision’ to step down in first interview since resigningKeir Starmer has warned his likely successor, Andy Burnham, that it will not be possib...",
+        "title": "British Medical Association could axe up to a third of its staff amid cash crisis",
+        "url": "https://www.theguardian.com/society/2026/jul/04/british-medical-association-union-could-axe-staff-cash-crisis",
+        "description": "Exclusive: Anger at union’s decision to put 200 of its 600 staff in England at risk of redundancyThe British Medical Association is threatening to axe up to a third of its entire workforce to help ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "British Medical Association could axe up to a third of its staff amid cash crisis",
+        "url": "https://www.theguardian.com/society/2026/jul/04/british-medical-association-union-could-axe-staff-cash-crisis",
+        "description": "Exclusive: Anger at union’s decision to put 200 of its 600 staff in England at risk of redundancyThe British Medical Association is threatening to axe up to a third of its entire workforce to help ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "People awaiting hospital treatment to get three weeks’ notice under NHS England plans",
         "url": "https://www.theguardian.com/society/2026/jul/03/people-awaiting-hospital-treatment-three-weeks-notice-nhs-england",
         "description": "Move inspired by customer service provided by online retailers such as John Lewis and AmazonPeople waiting for hospital treatment will get three weeks’ notice of their next appointment under NHS pl...",
@@ -73,13 +80,6 @@
         "title": "Plans must be put in place before heatwaves – not cobbled together during them | Letters",
         "url": "https://www.theguardian.com/environment/2026/jul/02/plans-must-be-put-in-place-before-heatwaves-not-cobbled-together-during-them",
         "description": "Health professionals across Europe are calling for an EU climate and health strategy, write Mark Wilson and Dr Paul De Raeve; plus a letter from Nadine HendersonYou report on hospitals declaring cr...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "229,000 excess deaths: the cost of US-UK trade deal? - The Latest",
-        "url": "https://www.theguardian.com/society/video/2026/jul/02/229000-excess-deaths-the-cost-of-us-uk-trade-deal-the-latest",
-        "description": "The NHS will divert billions of pounds from essential services to pay for new medicines, under the terms of the US-UK trade deal agreed in December, which could lead to more than 200,000 excess dea...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Labour MPs call on water firms to save Britain’s lost lidos",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/jul/04/labour-campaign-save-britains-lost-lidos-swimming",
+        "description": "Group, whose constituencies have derelict or at-risk pools, are campaigning to make outdoor swimming available for allCooling, blue expanses of water have been a lifesaver for many lucky enough to ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Sydney records hottest June since 1859 as expert warns new high a ‘signature’ of global warming",
         "url": "https://www.theguardian.com/australia-news/2026/jul/04/sydney-records-hottest-june-since-1859-as-expert-warns-new-high-a-signature-of-global-warming",
         "description": "Bureau of Meteorology says city’s mean temperature reached 16.1C, surpassing the previous record of 15.7C set in 1991Get our breaking news email, free app or daily news podcastSydney has officially...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Trump administration can remove history and climate info from US parks, court says",
-        "url": "https://www.theguardian.com/us-news/2026/jul/02/trump-administration-wins-appeal-national-parks",
-        "description": "In latest legal twist, appeals panel rules US does not have to reinstate signage on climate, immigration and slaveryThe Trump administration does not have to reinstate materials related to climate ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Scientist dubbed The Bogfather is restoring peatland to fight climate change",
         "url": "https://www.bbc.co.uk/news/articles/cy498d400pro?at_medium=RSS&at_campaign=rss",
         "description": "A childhood fascination with bogs led one Welsh scientist to try and help save the planet.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Third of disadvantaged white pupils in England leave primary school without being able to read properly",
+        "url": "https://www.theguardian.com/education/2026/jul/04/third-white-disadvantaged-pupils-england-below-secondary-reading-level",
+        "description": "Exclusive: Analysis finds lower reading fluency than children from other ethnic backgrounds and richer peersA third of disadvantaged white pupils in England leave their primary school unable to rea...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Overseas education project for women and girls axed by UK after two years",
         "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
@@ -156,13 +163,6 @@
         "title": "Brexit rule change means British teens in EU face soaring student fees for UK degrees",
         "url": "https://www.theguardian.com/money/2026/jul/04/british-teens-eu-student-fees-jump-uk-degrees-brexit-loans",
         "description": "‘Home fee’ qualification ends in 2028, leaving those hoping to study in UK not now eligible for British loansBritish teenagers living in the EU could be priced out of UK universities in two years’ ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Outrage over ‘cruel’ Florida move to ban undocumented students from college",
-        "url": "https://www.theguardian.com/us-news/2026/jul/02/florida-undocumented-college-students",
-        "description": "Critics condemn decision by education board aligned with hard-right Ron DeSantis to block access to college systemImmigration advocates in Florida have decried a “cruel and harmful” new rule by edu...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -194,7 +194,7 @@
       {
         "title": "Taylor Swift marries Travis Kelce in NYC ceremony officiated by Adam Sandler",
         "url": "https://www.bbc.co.uk/news/articles/c982ry2pen3o?at_medium=RSS&at_campaign=rss",
-        "description": "It was the bash of the century, with celebrities from singer Benson Boone and actor Hugh Grant to model Gigi Hadid and actor Ethan Hawke in attendence.",
+        "description": "The star-studded celebration saw several streets in Midtown Manhattan shut, as hordes of fans gathered outside the arena.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
