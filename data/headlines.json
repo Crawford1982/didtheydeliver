@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-04T19:10:00.277842+00:00",
+  "fetched_at": "2026-07-05T02:58:00.973656+00:00",
   "headlines": {
     "government": [
       {
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Starmer tells of 'intensely personal' decision to quit and warns Burnham in first interview since resigning",
-        "url": "https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&at_campaign=rss",
-        "description": "In an untypically candid interview, the outgoing PM tells the BBC it was \"really tough\" to accept his political career was over.",
+        "title": "Police leadership needs 'ethical reset', Lord Blunkett tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cy0429yx1k9o?at_medium=RSS&at_campaign=rss",
+        "description": "The former home secretary has co-authored a major report that has found the running of forces in England and Wales needs a \"fundamental overhaul\".",
         "source": "BBC News",
         "category": "government"
       }
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "NHS to use AI on its app to direct patients to appropriate services",
+        "url": "https://www.theguardian.com/society/2026/jul/04/nhs-ai-app-patients-appropriate-services-health",
+        "description": "Update in England expected to reach about 200,000 patients over the next year as part of £10bn package to overhaul NHS systemsThe NHS will begin using AI on its app to direct patients to the approp...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "British Medical Association could axe up to a third of its staff amid cash crisis",
         "url": "https://www.theguardian.com/society/2026/jul/04/british-medical-association-union-could-axe-staff-cash-crisis",
         "description": "Exclusive: Anger at union’s decision to put 200 of its 600 staff in England at risk of redundancyThe British Medical Association is threatening to axe up to a third of its entire workforce to help ...",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Plans must be put in place before heatwaves – not cobbled together during them | Letters",
-        "url": "https://www.theguardian.com/environment/2026/jul/02/plans-must-be-put-in-place-before-heatwaves-not-cobbled-together-during-them",
-        "description": "Health professionals across Europe are calling for an EU climate and health strategy, write Mark Wilson and Dr Paul De Raeve; plus a letter from Nadine HendersonYou report on hospitals declaring cr...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "How to walk 30 minutes a day - your tips",
-        "url": "https://www.bbc.co.uk/news/articles/c20y2lkgz13o?at_medium=RSS&at_campaign=rss",
-        "description": "From walking the dog before breakfast to getting off the bus a stop early, readers share their tips for building a daily walking habit.",
+        "title": "NHS app to use AI to determine which service best for patients",
+        "url": "https://www.bbc.co.uk/news/articles/c0my2kjjnp2o?at_medium=RSS&at_campaign=rss",
+        "description": "The update will be available to all users in England by April 2028, the health service says.",
         "source": "BBC News",
         "category": "nhs"
       }
