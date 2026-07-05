@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-05T13:28:20.366899+00:00",
+  "fetched_at": "2026-07-05T19:15:47.513292+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "What are the latest allegations about Nigel Farage’s funding?",
+        "url": "https://www.theguardian.com/politics/2026/jul/05/latest-allegations-nigel-farage-funding-reform",
+        "description": "Reform UK leader received financial support from a convicted fraudster for staffing, security and housingNigel Farage did not declare gifts from crypto entrepreneur convicted of fraudAs Nigel Farag...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Nigel Farage did not declare gifts from crypto entrepreneur convicted of fraud",
         "url": "https://www.theguardian.com/politics/2026/jul/05/nigel-farage-did-not-declare-gifts-from-crypto-entrepreneur-george-cottrell-says-reform-uk",
@@ -13,13 +20,6 @@
         "title": "Make Ed Miliband chancellor, ex-chief Treasury adviser tells Andy Burnham",
         "url": "https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham",
         "description": "Nicholas Stern joins growing number backing Miliband, saying he has vision and experience to revive economyA former chief economic adviser to the Treasury has called on Andy Burnham to appoint Ed M...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Elon Musk posted twice as often on UK race and immigration as about SpaceX in IPO run-up",
-        "url": "https://www.theguardian.com/technology/2026/jul/04/elon-musk-uk-race-immigration-spacex-ipo",
-        "description": "Guardian analysis of X feed shows how keen world’s richest person was to air his views and ‘interfere’ in British politics  Elon Musk posted about race and immigration in the UK on his social media...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "British Medical Association could axe up to a third of its staff amid cash crisis",
-        "url": "https://www.theguardian.com/society/2026/jul/04/british-medical-association-union-could-axe-staff-cash-crisis",
-        "description": "Exclusive: Anger at union’s decision to put 200 of its 600 staff in England at risk of redundancyThe British Medical Association is threatening to axe up to a third of its entire workforce to help ...",
+        "title": "Problems with Andy Burnham’s drive for devolution  | Letters",
+        "url": "https://www.theguardian.com/politics/2026/jul/05/problems-with-andy-burnhams-drive-for-devolution",
+        "description": "Daughne Taylor and John Marriott respond to the prospective new prime minister’s 10-year proposal to cede more power to regions and communitiesAndy Burnham’s flagship promise to devolve power to th...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "People awaiting hospital treatment to get three weeks’ notice under NHS England plans",
-        "url": "https://www.theguardian.com/society/2026/jul/03/people-awaiting-hospital-treatment-three-weeks-notice-nhs-england",
-        "description": "Move inspired by customer service provided by online retailers such as John Lewis and AmazonPeople waiting for hospital treatment will get three weeks’ notice of their next appointment under NHS pl...",
+        "title": "British Medical Association could axe up to a third of its staff amid cash crisis",
+        "url": "https://www.theguardian.com/society/2026/jul/04/british-medical-association-union-could-axe-staff-cash-crisis",
+        "description": "Exclusive: Anger at union’s decision to put 200 of its 600 staff in England at risk of redundancyThe British Medical Association is threatening to axe up to a third of its entire workforce to help ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "At least 25 people die in US as record heatwave scorches swaths of country",
+        "url": "https://www.theguardian.com/us-news/2026/jul/05/heatwave-deaths-weather",
+        "description": "More than 20 states reported temperatures above 100F as heat dome sits over eastern US during holiday weekendAt least about two dozen people have died amid the perilous climate crisis-driven heatwa...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Empty reservoirs, ladybirds and sunstroke: remembering the UK heatwave of 1976",
         "url": "https://www.theguardian.com/environment/2026/jul/05/readers-recall-heatwave-1976-uk-weather-climate",
         "description": "As Britain reached its hottest June temperature on record, readers recall the summer when temperatures hit 36CThe recent heatwave in the UK broke the previous June record of 35.6C, recorded during ...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Sydney records hottest June since 1859 as expert warns new high a ‘signature’ of global warming",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/04/sydney-records-hottest-june-since-1859-as-expert-warns-new-high-a-signature-of-global-warming",
-        "description": "Bureau of Meteorology says city’s mean temperature reached 16.1C, surpassing the previous record of 15.7C set in 1991Get our breaking news email, free app or daily news podcastSydney has officially...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Evacuations in Guam as super typhoon Bavi approaches",
         "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
         "description": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
+        "title": "Pioneer of ‘extreme male brain’ theory of autism now says phrase unhelpful",
+        "url": "https://www.theguardian.com/society/2026/jul/05/autism-extreme-male-brain-simon-baron-cohen",
+        "description": "Exclusive: Prof Simon Baron-Cohen says his language was misunderstood and it is a myth that autistic people lack empathyThe scientist who pioneered the “extreme male brain” theory of autism has sai...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Cutting language courses puts social mobility at risk, say UK experts",
+        "url": "https://www.theguardian.com/education/2026/jul/05/cutting-university-language-courses-puts-social-mobility-at-risk-say-experts",
+        "description": "Exclusive: University moves and falling exam entries fuel concerns about opportunities for working-class pupilsCutting language courses at universities and schools risks undermining social mobility...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Ofsted drops ‘clumsy’ and ‘offensive’ guidance linking autism and extremism",
         "url": "https://www.theguardian.com/education/2026/jul/05/ofsted-drops-autism-extremism-guidance",
         "description": "Training document used to teach inspectors updated after campaign by celebrities including Chris PackhamOfsted, the body responsible for safeguarding in education in England, has dropped guidance f...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Third of disadvantaged white pupils in England leave primary school without being able to read properly",
-        "url": "https://www.theguardian.com/education/2026/jul/04/third-white-disadvantaged-pupils-england-below-secondary-reading-level",
-        "description": "Exclusive: Analysis finds lower reading fluency than children from other ethnic backgrounds and richer peersA third of disadvantaged white pupils in England leave their primary school unable to rea...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Overseas education project for women and girls axed by UK after two years",
-        "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
-        "description": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cutsA leading higher education programme, aimed at keeping 1 million girls in school ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -194,7 +194,7 @@
       {
         "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
         "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-        "description": "Ali Khamenei's son Mojtaba is conspicuously absent from his father's funeral on Sunday, amid speculation about his condition.",
+        "description": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Evacuations in Guam as super typhoon Bavi approaches",
-        "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-        "description": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
+        "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+        "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+        "description": "Some of the famous guests have been posting on social media about the big day in New York.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
