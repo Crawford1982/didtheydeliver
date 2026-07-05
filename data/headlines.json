@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-05T08:50:37.059988+00:00",
+  "fetched_at": "2026-07-05T13:28:20.366899+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Nigel Farage did not declare gifts from crypto entrepreneur convicted of fraud",
+        "url": "https://www.theguardian.com/politics/2026/jul/05/nigel-farage-did-not-declare-gifts-from-crypto-entrepreneur-george-cottrell-says-reform-uk",
+        "description": "Reform UK’s Robert Jenrick says Farage accepted staff, security and accommodation from George Cottrell before becoming an MPNigel Farage did not declare gifts and benefits provided by a crypto entr...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Make Ed Miliband chancellor, ex-chief Treasury adviser tells Andy Burnham",
         "url": "https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham",
@@ -17,21 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Burnham will change No 10 ‘boys club’ briefing culture, says Lucy Powell",
-        "url": "https://www.theguardian.com/politics/2026/jul/04/burnham-will-change-no-10-boys-club-briefing-culture-says-lucy-powell",
-        "description": "Deputy Labour leader says No 10 must become more meritocratic as party’s female MPs press Burnham on gender balanceAndy Burnham will change a “boys club” culture of factional briefings at No 10 whi...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Police leadership needs 'ethical reset', Lord Blunkett tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cy0429yx1k9o?at_medium=RSS&at_campaign=rss",
-        "description": "The former home secretary has co-authored a major report that has found the running of forces in England and Wales needs a \"fundamental overhaul\".",
+        "title": "Reform denies rules broken by Farage after benefits from ally not declared",
+        "url": "https://www.bbc.co.uk/news/articles/cy0424end7vo?at_medium=RSS&at_campaign=rss",
+        "description": "The Sunday Times says the Reform UK leader failed to register the support supplied by a cryptocurrency entrepreneur who had been convicted of fraud.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "‘New direction, same old problems’: the economic challenges facing  Andy Burnham | Richard Partington",
+        "url": "https://www.theguardian.com/business/2026/jul/05/new-direction-same-old-problems-the-economic-challenges-facing-andy-burnham",
+        "description": "Blair met good fortune when he assumed office, others such as Wilson faced tougher times. The PM-presumptive will start firmly on the back footMake Miliband chancellor, ex-chief Treasury adviser te...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Make Ed Miliband chancellor, ex-chief Treasury adviser tells Andy Burnham",
         "url": "https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham",
@@ -43,13 +50,6 @@
         "title": "We can debate the ethics of AI but can’t seem to change course | Letters",
         "url": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
         "description": "Readers respond to the profile of Iason Gabriel, a philosopher and research scientist at Google DeepMindThe Guardian’s profile of Google DeepMind’s philosopher was encouraging because it showed how...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK service sector shrinks amid Iran war disruption and heatwave; FTSE 100 hits four-month closing high – business live",
-        "url": "https://www.theguardian.com/business/live/2026/jul/03/oil-price-fall-strait-of-hormuz-traffic-jumps-food-price-inflation-services-sector-live-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsToday’s UK Service PMI report (which polls purchasing managers from across the sector) found there was a “sustained reduction in backlogs o...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "‘A big chunk of positive energy’: Green Man celebrates 10 years of training refugees",
+        "url": "https://www.theguardian.com/world/2026/jul/05/green-man-welsh-festival-celebrates-10-years-of-training-refugees",
+        "description": "Welsh festival helps asylum seekers gain confidence and skills while settling in to a new life in the UKFor many young people growing up in Britain, their first music festival is a rite of passage;...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Elon Musk posted twice as often on UK race and immigration as about SpaceX in IPO run-up",
         "url": "https://www.theguardian.com/technology/2026/jul/04/elon-musk-uk-race-immigration-spacex-ipo",
         "description": "Guardian analysis of X feed shows how keen world’s richest person was to air his views and ‘interfere’ in British politics  Elon Musk posted about race and immigration in the UK on his social media...",
@@ -105,16 +112,16 @@
         "description": "Downing Street urgently looking into BBC report that ‘godfather’ of Calais migrant camps is living in LeicestershireDowning Street has said it shares “the public’s shock” at a report that a convict...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "The Guardian view on yet another immigration bill: law as performance is a failing model | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/01/the-guardian-view-on-yet-another-immigration-bill-law-as-performance-is-a-failing-model",
-        "description": "Legislation drafted around an agenda of proving ‘toughness’ is a method that was tested to destruction by the ToriesAn act of parliament changing the UK’s immigration and asylum system has been pas...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Empty reservoirs, ladybirds and sunstroke: remembering the UK heatwave of 1976",
+        "url": "https://www.theguardian.com/environment/2026/jul/05/readers-recall-heatwave-1976-uk-weather-climate",
+        "description": "As Britain reached its hottest June temperature on record, readers recall the summer when temperatures hit 36CThe recent heatwave in the UK broke the previous June record of 35.6C, recorded during ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Labour MPs call on water firms to save Britain’s lost lidos",
         "url": "https://www.theguardian.com/lifeandstyle/2026/jul/04/labour-campaign-save-britains-lost-lidos-swimming",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "US heatwave threatens 250th anniversary events and World Cup",
-        "url": "https://www.theguardian.com/us-news/2026/jul/03/heatwave-world-cup-250th-anniversary",
-        "description": "Weekend’s high temperatures and humidity ‘virtually impossible’ without climate crisis, researchers sayThe scorching heat blanketing much of the US this week would have been “virtually impossible” ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "New heatwave likely to peak at 34C with week-long health alert issued",
-        "url": "https://www.bbc.co.uk/weather/articles/c621j44jwe1o?at_medium=RSS&at_campaign=rss",
-        "description": "Another heatwave is on its way and set to last significantly longer as Stav Danaos explains.",
+        "title": "Evacuations in Guam as super typhoon Bavi approaches",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+        "description": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+        "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+        "description": "Ali Khamenei's son Mojtaba is conspicuously absent from his father's funeral on Sunday, amid speculation about his condition.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
         "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
         "description": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
-        "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
-        "description": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Chinese underground church figure Jin Mingri freed from prison",
-        "url": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-        "description": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
+        "title": "Evacuations in Guam as super typhoon Bavi approaches",
+        "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
+        "description": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
