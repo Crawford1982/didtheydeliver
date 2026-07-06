@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-07-06T10:17:37.175078+00:00",
+  "fetched_at": "2026-07-06T15:29:06.936653+00:00",
   "headlines": {
     "government": [
       {
+        "title": "Reform UK row: who funds Farage? – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/jul/06/reform-uk-row-who-funds-farage-podcast",
+        "description": "Nigel Farage claimed he was the victim of an ‘establishment hit job’ after it was revealed he accepted money from his friend, the convicted felon George Cottrell. The parliamentary standards commis...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Farage warned attack against ‘establishment’ over unregistered gifts could lead to harsher punishment – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jul/06/nigel-farage-reform-unregistered-gift-crypto-christopher-harborne-keir-starmer-labour-andy-burnham-uk-politics-live",
-        "description": "Reform UK leader claims he is victim of ‘hit job’ as parliamentary standards commissioner investigates £5m donation Nigel Farage now faces up to four investigations by Daniel Greenberg, the parliam...",
+        "description": "Reform UK leader claims he is victim of ‘hit job’ as parliamentary standards commissioner investigates £5m donation On the subject of Andy Burnham, the Financial Times is running a story today sayi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "EV charger rollout in UK slows amid political uncertainty and rise in installation costs",
-        "url": "https://www.theguardian.com/business/2026/jul/06/uk-rollout-ev-chargers-slows",
-        "description": "Growth in charge points falls markedly despite surge in number of rapid-charging unitsBusiness live – latest updatesThe UK’s rollout of electric vehicle chargers has slowed amid challenging cost pr...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Revealed: landmark Scottish AI project has no prospect of meeting renewables promise",
-        "url": "https://www.theguardian.com/technology/2026/jul/06/lanarkshire-scotland-ai-datacentre-project-renewable-energy",
-        "description": "Exclusive: Government and developers privately acknowledged Lanarkshire datacentre site had power provision ‘issue’‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI dat...",
+        "title": "Jamaican man who has lived in UK for 26 years facing deportation",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/06/jamaican-man-deportation-uk-immigration-bill",
+        "description": "Case of Mark Nelson, 46, is one of first since new measures were announced in last week’s immigration billA Jamaican man who has lived more than half his life in the UK is facing deportation to his...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,16 +33,16 @@
     ],
     "economy": [
       {
-        "title": "‘New direction, same old problems’: the economic challenges facing  Andy Burnham | Richard Partington",
-        "url": "https://www.theguardian.com/business/2026/jul/05/new-direction-same-old-problems-the-economic-challenges-facing-andy-burnham",
-        "description": "Blair met good fortune when he assumed office, others such as Wilson faced tougher times. The PM-presumptive will start firmly on the back footMake Miliband chancellor, ex-chief Treasury adviser te...",
+        "title": "The EU that the UK left no longer exists | Mujtaba Rahman",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/06/eu-uk-andy-burnham-britain-rejoin",
+        "description": "Andy Burnham’s rise has stoked talk of the terms for a future British return – but this is the wrong questionThe question of the UK’s relationship with the EU has resurfaced with Keir Starmer’s pre...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "The EU that the UK left no longer exists | Mujtaba Rahman",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/06/eu-uk-andy-burnham-britain-rejoin",
-        "description": "Andy Burnham’s rise has stoked talk of the terms for a future British return – but this is the wrong questionThe question of the UK’s relationship with the EU has resurfaced with Keir Starmer’s pre...",
+        "title": "‘New direction, same old problems’: the economic challenges facing  Andy Burnham | Richard Partington",
+        "url": "https://www.theguardian.com/business/2026/jul/05/new-direction-same-old-problems-the-economic-challenges-facing-andy-burnham",
+        "description": "Blair met good fortune when he assumed office, others such as Wilson faced tougher times. The PM-presumptive will start firmly on the back footMake Miliband chancellor, ex-chief Treasury adviser te...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "ITV sells media and entertainment arm to Sky for £1.6bn",
+        "title": "ITV hits such as I'm a Celebrity to stay free to watch after Sky takeover",
         "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
-        "description": "The two broadcasters say the deal will create a strong rival to global streaming giants.",
+        "description": "Sky boss Dana Strong's comments came as the channel announces it is buying ITV's media and entertainment divisions in a £1.6bn deal.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Jamaican man who has lived in UK for 26 years facing deportation",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/06/jamaican-man-deportation-uk-immigration-bill",
+        "description": "Case of Mark Nelson, 46, is one of first since new measures were announced in last week’s immigration billA Jamaican man who has lived more than half his life in the UK is facing deportation to his...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "‘A big chunk of positive energy’: Green Man celebrates 10 years of training refugees",
         "url": "https://www.theguardian.com/world/2026/jul/05/green-man-welsh-festival-celebrates-10-years-of-training-refugees",
         "description": "Welsh festival helps asylum seekers gain confidence and skills while settling in to a new life in the UKFor many young people growing up in Britain, their first music festival is a rite of passage;...",
@@ -105,41 +112,34 @@
         "description": "Guardian analysis of X feed shows how keen world’s richest person was to air his views and ‘interfere’ in British politics  Elon Musk posted about race and immigration in the UK on his social media...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "No 10 shares ‘public’s shock’ at reports of convicted people smuggler living in UK",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/02/convicted-people-smuggler-uk-should-deported-tories",
-        "description": "Downing Street urgently looking into BBC report that ‘godfather’ of Calais migrant camps is living in LeicestershireDowning Street has said it shares “the public’s shock” at a report that a convict...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
+        "title": "Extreme high temperatures double young people’s risk of mental health admissions, Australian research shows",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/07/extreme-high-temperatures-young-people-mental-health-hospital-admission",
+        "description": "Exclusive University of Sydney study finds heat-related hospital admissions to increase by 6% to 7.7% by the end of the centuryGet our breaking news email, free app or daily news podcastExtreme hig...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "GB News co-owner ‘cashing in on climate chaos’ after leap in fossil fuel investments, critics say",
+        "url": "https://www.theguardian.com/environment/2026/jul/06/gb-news-co-owner-cashing-in-on-climate-chaos-after-leap-in-fossil-fuel-investments-critics-say",
+        "description": "Exclusive: Campaigners argue news channel’s attacks on climate action ‘work in financial interests’ of Sir Paul MarshallThe hedge fund run by the co-owner of GB News almost tripled its investments ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Wildfires rage across southern Europe, forcing thousands to flee homes",
         "url": "https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave",
-        "description": "Tour de France spectator ban as country along with Spain, Portugal and Greece face ‘powder keg’ after heatwaveEurope live – latest updatesWildfires raging across southern Europe have forced thousan...",
+        "description": "Tour de France spectator ban as country along with Spain, Portugal and Greece faces ‘powder keg’ after heatwaveEurope live – latest updatesWildfires raging across southern Europe have forced thousa...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "At least 25 people die in US as record heatwave scorches swaths of country",
-        "url": "https://www.theguardian.com/us-news/2026/jul/05/heatwave-deaths-weather",
-        "description": "More than 20 states reported temperatures above 100F as heat dome sits over eastern US during holiday weekendAt least two dozen people have died amid the perilous climate crisis-driven heatwave tha...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Empty reservoirs, ladybirds and sunstroke: remembering the UK heatwave of 1976",
-        "url": "https://www.theguardian.com/environment/2026/jul/05/readers-recall-heatwave-1976-uk-weather-climate",
-        "description": "As Britain reached its hottest June temperature on record, readers recall the summer when temperatures hit 36CThe recent heatwave in the UK broke the previous June record of 35.6C, recorded during ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
-        "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-        "description": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
+        "title": "Farmers 'vindicated' after judge's ruling on pylon firm accessing land",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyy08zg2no?at_medium=RSS&at_campaign=rss",
+        "description": "Groups representing landowners claimed they were \"frightened\" by agents turning up on their farms.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Ukraine warns of interceptor missile shortage as 14 killed in Kyiv region",
+        "title": "Trump confirms he asked Fifa to review Balogun ban",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
+        "description": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Ukraine warns of interceptor missile shortage as 22 killed in Kyiv region",
         "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
         "description": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
-        "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
-        "description": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
-        "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
-        "description": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
+        "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+        "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
+        "description": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
