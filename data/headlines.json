@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-07-06T03:24:47.931417+00:00",
+  "fetched_at": "2026-07-06T10:17:37.175078+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Minister calls on Burnham to show path to 3.5% target on UK defence spending",
-        "url": "https://www.theguardian.com/politics/2026/jul/06/dan-jarvis-andy-burnham-uk-defence-spending",
-        "description": "Dan Jarvis, who wants to stay on as defence secretary, says he is confident PM-in-waiting values national securityThe new defence secretary, Dan Jarvis, has called on Andy Burnham to increase defen...",
+        "title": "Farage warned attack against ‘establishment’ over unregistered gifts could lead to harsher punishment – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/06/nigel-farage-reform-unregistered-gift-crypto-christopher-harborne-keir-starmer-labour-andy-burnham-uk-politics-live",
+        "description": "Reform UK leader claims he is victim of ‘hit job’ as parliamentary standards commissioner investigates £5m donation Nigel Farage now faces up to four investigations by Daniel Greenberg, the parliam...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Making public transport fully accessible ‘could boost UK economy by £176bn’",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/06/public-transport-fully-accessible-boost-uk-economy",
-        "description": "Report says current network of buses, trains and stations effectively locks 2.8m people out of workforceInvesting in the UK transport network to make it fully accessible to disabled passengers coul...",
+        "title": "EV charger rollout in UK slows amid political uncertainty and rise in installation costs",
+        "url": "https://www.theguardian.com/business/2026/jul/06/uk-rollout-ev-chargers-slows",
+        "description": "Growth in charge points falls markedly despite surge in number of rapid-charging unitsBusiness live – latest updatesThe UK’s rollout of electric vehicle chargers has slowed amid challenging cost pr...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Ministers to crack down on political donations as Farage faces calls for second inquiry",
-        "url": "https://www.theguardian.com/politics/2026/jul/06/political-donations-crackdown-nigel-farage-cottrell-gifts",
-        "description": "Measures to be announced to make funding more transparent amid new revelations about Reform UK leaderMinisters will launch a crackdown on large political donations on Monday, as Nigel Farage faces ...",
+        "title": "Revealed: landmark Scottish AI project has no prospect of meeting renewables promise",
+        "url": "https://www.theguardian.com/technology/2026/jul/06/lanarkshire-scotland-ai-datacentre-project-renewable-energy",
+        "description": "Exclusive: Government and developers privately acknowledged Lanarkshire datacentre site had power provision ‘issue’‘It’s smoke and mirrors’: hope turns to fear in Scottish village chosen for AI dat...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Overseas voters moving to UK could face £100,000 donations cap for year",
-        "url": "https://www.bbc.co.uk/news/articles/c0jyyw59gpjo?at_medium=RSS&at_campaign=rss",
-        "description": "The planned changes are part of the government's response to a review of political funding.",
+        "title": "Farage says he's 'done no wrongdoing' after benefits from ally not declared",
+        "url": "https://www.bbc.co.uk/news/articles/cql11kk90zgo?at_medium=RSS&at_campaign=rss",
+        "description": "The Liberal Democrats have asked the Reform UK leader to be \"straight with the British people\".",
         "source": "BBC News",
         "category": "government"
       }
@@ -40,6 +40,13 @@
         "category": "economy"
       },
       {
+        "title": "The EU that the UK left no longer exists | Mujtaba Rahman",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/06/eu-uk-andy-burnham-britain-rejoin",
+        "description": "Andy Burnham’s rise has stoked talk of the terms for a future British return – but this is the wrong questionThe question of the UK’s relationship with the EU has resurfaced with Keir Starmer’s pre...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Make Ed Miliband chancellor, ex-chief Treasury adviser tells Andy Burnham",
         "url": "https://www.theguardian.com/business/2026/jul/05/make-ed-miliband-chancellor-ex-chief-treasury-adviser-nicholas-stern-tells-andy-burnham",
         "description": "Nicholas Stern joins growing number backing Miliband, saying he has vision and experience to revive economyA former chief economic adviser to the Treasury has called on Andy Burnham to appoint Ed M...",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "We can debate the ethics of AI but can’t seem to change course | Letters",
-        "url": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
-        "description": "Readers respond to the profile of Iason Gabriel, a philosopher and research scientist at Google DeepMindThe Guardian’s profile of Google DeepMind’s philosopher was encouraging because it showed how...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "'Start work at 11' - but will other bosses be as flexible over England's 1am match?",
-        "url": "https://www.bbc.co.uk/news/articles/c8x27k180x8o?at_medium=RSS&at_campaign=rss",
-        "description": "Employers are being urged to use their \"common sense\" to allow staff to work flexibly where they can.",
+        "title": "ITV sells media and entertainment arm to Sky for £1.6bn",
+        "url": "https://www.bbc.co.uk/news/articles/cx2wwgeg041o?at_medium=RSS&at_campaign=rss",
+        "description": "The two broadcasters say the deal will create a strong rival to global streaming giants.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,9 +116,16 @@
     ],
     "climate": [
       {
+        "title": "Wildfires rage across southern Europe, forcing thousands to flee homes",
+        "url": "https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave",
+        "description": "Tour de France spectator ban as country along with Spain, Portugal and Greece face ‘powder keg’ after heatwaveEurope live – latest updatesWildfires raging across southern Europe have forced thousan...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "At least 25 people die in US as record heatwave scorches swaths of country",
         "url": "https://www.theguardian.com/us-news/2026/jul/05/heatwave-deaths-weather",
-        "description": "More than 20 states reported temperatures above 100F as heat dome sits over eastern US during holiday weekendAt least about two dozen people have died amid the perilous climate crisis-driven heatwa...",
+        "description": "More than 20 states reported temperatures above 100F as heat dome sits over eastern US during holiday weekendAt least two dozen people have died amid the perilous climate crisis-driven heatwave tha...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -126,13 +133,6 @@
         "title": "Empty reservoirs, ladybirds and sunstroke: remembering the UK heatwave of 1976",
         "url": "https://www.theguardian.com/environment/2026/jul/05/readers-recall-heatwave-1976-uk-weather-climate",
         "description": "As Britain reached its hottest June temperature on record, readers recall the summer when temperatures hit 36CThe recent heatwave in the UK broke the previous June record of 35.6C, recorded during ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Labour MPs call on water firms to save Britain’s lost lidos",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/jul/04/labour-campaign-save-britains-lost-lidos-swimming",
-        "description": "Group, whose constituencies have derelict or at-risk pools, are campaigning to make outdoor swimming available for allCooling, blue expanses of water have been a lifesaver for many lucky enough to ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Learning another language appears to slow brain ageing, scientists say",
+        "url": "https://www.theguardian.com/education/2026/jul/06/learning-another-language-appears-to-slow-brain-ageing-scientists-say",
+        "description": "Study finds those who speak two languages have brains that appear around six years younger than those who speak oneLearning another language could slow ageing in the brain by up to 13 years, accord...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Pioneer of ‘extreme male brain’ theory of autism now says phrase unhelpful",
         "url": "https://www.theguardian.com/society/2026/jul/05/autism-extreme-male-brain-simon-baron-cohen",
         "description": "Exclusive: Prof Simon Baron-Cohen says his language was misunderstood and it is a myth that autistic people lack empathyThe scientist who pioneered the “extreme male brain” theory of autism has sai...",
@@ -158,57 +165,50 @@
         "description": "Exclusive: University moves and falling exam entries fuel concerns about opportunities for working-class pupilsCutting language courses at universities and schools risks undermining social mobility...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Ofsted drops ‘clumsy’ and ‘offensive’ guidance linking autism and extremism",
-        "url": "https://www.theguardian.com/education/2026/jul/05/ofsted-drops-autism-extremism-guidance",
-        "description": "Training document used to teach inspectors updated after campaign by celebrities including Chris PackhamOfsted, the body responsible for safeguarding in education in England, has dropped guidance f...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Half of affordable new homes in rural England could be at risk if planning rules relaxed, analysis shows",
+        "url": "https://www.theguardian.com/society/2026/jul/06/half-affordable-new-homes-rural-england-risk-planning-rules-relaxed-analysis",
+        "description": "Exclusive: National Housing Federation says ending quotas for developers could cost 32,000 homes over 10 yearsHalf of all affordable housing supply in rural England could be under threat under plan...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "The new Isa rules melt my brain: but that’s not even the worst thing about these changes for first-time buyers | Jason Okundaye",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/06/new-isa-rules-reforms-first-time-buyers-government-young-people-property-ladder",
+        "description": "Quite aside from all the convolutions, it’s clear the government is ignorant of the reality for young people like me hoping to get on the property ladderI need to talk about money. Specifically my ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Cornwall van dwellers face homelessness amid council crackdown",
         "url": "https://www.theguardian.com/uk-news/2026/jul/04/cornwall-van-dwellers-face-homelessness-council-crackdown",
         "description": "Half of county’s planning infringement notices target caravans in fields, fuelling eviction fears for vulnerable peoplePeople living in caravans and horseboxes on farms in Cornwall because they can...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "A council housebuilding boom is central to Burnham’s vision. Can it be done?",
-        "url": "https://www.theguardian.com/politics/2026/jul/03/council-houses-building-burnham-vision",
-        "description": "In the third of a series on nationalisation, we look at the huge challenge as 1.5m families wait for social housing‘Commanding heights of the economy’: the postwar blueprint that inspires BurnhamWi...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Far from waging war on the south, Burnham could improve the lives of Londoners. Here’s how | Polly Toynbee",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/03/andy-burnham-londoners-manchesterism-north-south",
-        "description": "The right wants to paint Manchesterism in terms of north v south – but poverty everywhere is solved by prioritising the public purse over private pocketsWhen the “king of the north” called London “...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-        "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-        "description": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+        "title": "Ukraine warns of interceptor missile shortage as 14 killed in Kyiv region",
+        "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+        "description": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
-        "url": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
+        "title": "'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours",
+        "url": "https://www.bbc.co.uk/news/articles/c9922x87nj8o?at_medium=RSS&at_campaign=rss",
+        "description": "Fabiana was trapped in the rubble of a 10-storey residential building after two earthquakes rocked Venezuela in June.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
-        "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
-        "description": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
+        "title": "Australian PM apologises for 'inappropriate' comments about Kylie Minogue",
+        "url": "https://www.bbc.co.uk/news/articles/cr477en6w3go?at_medium=RSS&at_campaign=rss",
+        "description": "Albanese has apologised 'unequivocally' after his remarks prompted a backlash.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
