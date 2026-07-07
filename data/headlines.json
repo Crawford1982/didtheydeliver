@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-07T02:57:49.758262+00:00",
+  "fetched_at": "2026-07-07T09:38:12.591201+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Labour asks Electoral Commission to investigate claims Farage broke electoral law by not disclosing gifts – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/07/nigel-farage-reform-uk-donations-investigations-parliament-electoral-commission-defence-nato-keir-starmer-latest-news-updates",
+        "description": "Parliamentary authorities are already looking into a £5m donation to the Reform Uk leader from the crypto billionaire Christopher HarborneQ; Do you think it is helpful for Donald Trump to criticise...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK abuse scandal ‘ignored because victims were working-class boys from north’, minister says",
         "url": "https://www.theguardian.com/uk-news/2026/jul/07/uk-abuse-scandal-ignored-victims-working-class-boys-north-minister",
@@ -13,13 +20,6 @@
         "title": "Starmer to rally European allies at Nato summit amid concerns over US stance",
         "url": "https://www.theguardian.com/world/2026/jul/06/keir-starmer-european-nato-us-ankara-summit",
         "description": "Outgoing PM will stress British commitment to defence spending at meeting in Ankara to counter Trump rebukesKeir Starmer will seek to work with European allies to shore up support for Nato at its s...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Consultant doctors in England vote for NHS strikes over pay and working week",
-        "url": "https://www.theguardian.com/society/2026/jul/06/consultant-doctors-england-vote-nhs-strikes-pay-working-week",
-        "description": "Year-long mandate for action prompts fears of fresh disruption after resident doctors recently ended disputeConsultant doctors in England have voted for strikes over the next 12 months in pursuit o...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,14 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "Banks accused of failing most vulnerable customers",
+        "title": "Banks accused of pushing customers away from basic accounts",
         "url": "https://www.bbc.co.uk/news/articles/cgl33dyk7y9o?at_medium=RSS&at_campaign=rss",
-        "description": "Homeless people or those in financial hardship have been pushed to online applications and away from basic bank accounts.",
+        "description": "Some of the UK's biggest banks have been failing their most vulnerable customers, according to the financial regulator.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "People keep asking me why I’m choosing to have a caesarean – here are my reasons | Sharon Gaffka",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/07/chosen-caesarean-ockenden-amos-reports",
+        "description": "This isn’t an argument against vaginal birth, and caesareans aren’t without risk. But in the context of failing maternity services, it gives me the greatest sense of calmSharon Gaffka is a reality ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Rapid endometriosis tests to be made available on NHS in England and Wales",
+        "url": "https://www.theguardian.com/society/2026/jul/07/rapid-endometriosis-tests-to-be-made-available-on-nhs-in-england-and-wales",
+        "description": "Saliva and gut sensor-based tests hailed as ‘gamechanger’ for millions of women who can wait years for diagnosisTwo tests that can dramatically speed up diagnosis of endometriosis are to be made av...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Consultant doctors in England vote for NHS strikes over pay and working week",
         "url": "https://www.theguardian.com/society/2026/jul/06/consultant-doctors-england-vote-nhs-strikes-pay-working-week",
@@ -70,23 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "How US-UK drug deal will benefit patients | Letters",
-        "url": "https://www.theguardian.com/society/2026/jul/06/how-us-uk-drug-deal-will-benefit-patients",
-        "description": "Many new medicines have reached NHS patients as a result of the government’s reformed pricing arrangements, writes Richard Torbett. Plus a letter from Nick HoileThe suggestion that the US-UK pharma...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Taking a walk down memory lane | Letters",
-        "url": "https://www.theguardian.com/science/2026/jul/06/taking-a-walk-down-memory-lane",
-        "description": "Readers respond to letters about testing mental capacityRe memory tests (Letters, 1 July), my mother was taken to hospital some years ago after an infection overwhelmed her. She was confused and st...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Women face hidden fertility ceiling despite donor eggs",
-        "url": "https://www.bbc.co.uk/news/articles/ckg018w1r02o?at_medium=RSS&at_campaign=rss",
-        "description": "Age-related changes in the womb lining may be the cause and could be treatable in the future, say experts.",
+        "title": "Two tests GPs can soon offer to help spot endometriosis",
+        "url": "https://www.bbc.co.uk/news/articles/c4gyy8jdn3eo?at_medium=RSS&at_campaign=rss",
+        "description": "Experts hope they will be a game-changer and cut the nine-year or longer diagnosis waits patients can currently face.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "June heatwave in UK led to ‘mass sleep deprivation’, poll suggests",
+        "url": "https://www.theguardian.com/environment/2026/jul/07/june-heatwave-in-uk-led-to-mass-sleep-deprivation-poll-suggests",
+        "description": "Exclusive: Record temperatures fuelled by climate crisis left 86% of homes ‘too hot’ and many people feeling unwellWith parts of England once again in the grip of a heatwave, an opinion poll shows ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Wildfires rage across southern Europe, forcing thousands to flee homes",
         "url": "https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave",
         "description": "Tour de France spectator ban as country along with Spain, Portugal and Greece faces ‘powder keg’ after heatwaveEurope live – latest updatesWildfires raging across southern Europe have forced thousa...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "GB News co-owner ‘cashing in on climate chaos’ after leap in fossil fuel investments, critics say",
-        "url": "https://www.theguardian.com/environment/2026/jul/06/gb-news-co-owner-cashing-in-on-climate-chaos-after-leap-in-fossil-fuel-investments-critics-say",
-        "description": "Exclusive: Campaigners argue news channel’s attacks on climate action ‘work in financial interests’ of Sir Paul MarshallThe hedge fund run by the co-owner of GB News almost tripled its investments ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Will this heatwave feel as hot and sticky as the last one?",
         "url": "https://www.bbc.co.uk/news/videos/c2lyyqzvl28o?at_medium=RSS&at_campaign=rss",
         "description": "The UK's next heatwave is here, but will it feel as hot and sticky as the last one?",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Student loan promotion in England and Wales amounted to mis-selling, MPs say",
+        "url": "https://www.theguardian.com/money/2026/jul/07/promotion-student-loans-england-wales-mis-selling",
+        "description": "Treasury select committee also says ministers have moral obligation to reverse last year’s repayment threshold freezeSlideshows that compared student loan repayments with the cost of a mobile phone...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "More than 300,000 pupils estimated absent after England World Cup win",
         "url": "https://www.theguardian.com/education/2026/jul/06/thousands-of-children-absent-from-school-in-wake-of-overnight-england-world-cup-win",
@@ -158,27 +165,20 @@
         "description": "Study finds those who speak two languages have brains that appear around six years younger than those who speak oneLearning another language could slow ageing in the brain by up to 13 years, accord...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Pioneer of ‘extreme male brain’ theory of autism now says phrase unhelpful",
-        "url": "https://www.theguardian.com/society/2026/jul/05/autism-extreme-male-brain-simon-baron-cohen",
-        "description": "Exclusive: Prof Simon Baron-Cohen says his language was misunderstood and it is a myth that autistic people lack empathyThe scientist who pioneered the “extreme male brain” theory of autism has sai...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
       {
-        "title": "Half of affordable new homes in rural England could be at risk if planning rules relaxed, analysis shows",
-        "url": "https://www.theguardian.com/society/2026/jul/06/half-affordable-new-homes-rural-england-risk-planning-rules-relaxed-analysis",
-        "description": "Exclusive: National Housing Federation says ending quotas for developers could cost 32,000 homes over 10 yearsHalf of all affordable housing supply in rural England could be under threat under plan...",
+        "title": "The new Isa rules melt my brain: but that’s not even the worst thing about these changes for first-time buyers | Jason Okundaye",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/06/new-isa-rules-reforms-first-time-buyers-government-young-people-property-ladder",
+        "description": "Quite aside from all the convolutions, it’s clear the government is ignorant of the reality for young people like me hoping to get on the property ladderI need to talk about money. Specifically my ...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "The new Isa rules melt my brain: but that’s not even the worst thing about these changes for first-time buyers | Jason Okundaye",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/06/new-isa-rules-reforms-first-time-buyers-government-young-people-property-ladder",
-        "description": "Quite aside from all the convolutions, it’s clear the government is ignorant of the reality for young people like me hoping to get on the property ladderI need to talk about money. Specifically my ...",
+        "title": "Half of affordable new homes in rural England could be at risk if planning rules relaxed, analysis shows",
+        "url": "https://www.theguardian.com/society/2026/jul/06/half-affordable-new-homes-rural-england-risk-planning-rules-relaxed-analysis",
+        "description": "Exclusive: National Housing Federation says ending quotas for developers could cost 32,000 homes over 10 yearsHalf of all affordable housing supply in rural England could be under threat under plan...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump confirms he asked Fifa to review Balogun ban",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c1myykx0gmxo?at_medium=RSS&at_campaign=rss",
-        "description": "President Donald Trump confirms he asked Fifa to review United States striker Folarin Balogun's one-match suspension at the World Cup.",
+        "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
+        "description": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Jailers and officials at Russia's 'torture prisons' in Ukraine exposed by BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss",
-        "description": "Former prisoners accuse the men of abuse in detention centres and want to see them brought to trial.",
+        "title": "Marine Le Pen's moment of truth: Why Tuesday court verdict matters for France",
+        "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
+        "description": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
