@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-07-08T08:25:30.509224+00:00",
+  "fetched_at": "2026-07-08T14:01:55.708647+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Labour calls on Farage to ‘come clean’ over £5m gift and work with crime agency over money laundering concerns - UK politics live",
+        "title": "Reeves to approve Farage’s resignation, saying ‘if he wants to spend summer arguing with a bin, I won’t stop him’ – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jul/08/nigel-farage-reform-uk-clacton-5m-gift-crime-agency-labour-keir-starmer-pmqs-uk-politics-latest-news-updates",
-        "description": "Lib Dems tell Reform UK leader ‘the game is up’ as political rivals vow to boycott ‘stunt’ Clacton byelectionRevealed: Farage’s £5m gift reported to UK crime agency over money laundering concernsTh...",
+        "description": "Chancellor set to ignore Ed Davey’s request to block Reform leader’s resignation until standards inquiry concludesFor anyone involved in British politics, an invitation to be interviewed on Radio 4...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Disability benefits in England and Wales not fit for purpose, Timms review to find",
-        "url": "https://www.theguardian.com/society/2026/jul/08/disability-benefits-not-fit-for-purpose-timms-review",
-        "description": "Exclusive: Landmark review by disability minister will call for ‘dehumanising’ assessment system to be redrawnWhat is the Timms review into Pip and what is it likely to conclude?Disability benefits...",
+        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
+        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
+        "description": "July update projects GDP growth of 1% this year, making UK the third fastest-growing economy in the G7The International Monetary Fund (IMF) has upgraded its growth forecast for the UK, while leavin...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "What is the Timms review into Pip and what is it likely to conclude?",
-        "url": "https://www.theguardian.com/politics/2026/jul/08/what-is-the-timms-review-into-pip-and-what-is-it-likely-to-conclude",
-        "description": "Campaigners fear report into disability benefits will seek to make cuts despite assurances that would not be its aimDisability benefits in England and Wales not fit for purpose, Timms review to fin...",
+        "title": "Ruth Ellis, last woman hanged in UK, granted posthumous conditional pardon",
+        "url": "https://www.theguardian.com/law/2026/jul/08/ruth-ellis-last-woman-hanged-uk-posthumous-conditional-pardon",
+        "description": "Ellis, 28, was executed in 1955 after fatally shooting her abusive partner David BlakelyUK politics live – latest updatesRuth Ellis, the last woman to be hanged in the UK, has been granted a condit...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Farage's rivals rule out standing in Clacton by-election",
-        "url": "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o?at_medium=RSS&at_campaign=rss",
-        "description": "The Reform UK leader says he wants an \"establishment versus the people by-election\" but Labour calls it a \"circus\".",
+        "title": "Conditional pardon granted for Ruth Ellis, last woman executed in UK",
+        "url": "https://www.bbc.co.uk/news/articles/crel4rj801do?at_medium=RSS&at_campaign=rss",
+        "description": "Ruth Ellis was hanged at London's Holloway Prison in 1955 after being convicted of murdering her lover David Blakely.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
+        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
+        "description": "July update projects GDP growth of 1% this year, making UK the third fastest-growing economy in the G7The International Monetary Fund (IMF) has upgraded its growth forecast for the UK, while leavin...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Trump’s policy mayhem is making even the Maga faithful consider walking away",
+        "url": "https://www.theguardian.com/business/2026/jul/08/trump-maga-faithful-economy",
+        "description": "Even voters who identify as foot soldiers of his political army are increasingly willing to blame Trump for their economic troublesThe political consequences of Donald Trump’s policy mayhem are now...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Almost no progress made on UK regional household income divide in 30 years, report finds",
         "url": "https://www.theguardian.com/business/2026/jul/08/almost-no-progress-made-on-uk-regional-household-income-divide-in-30-years-report-finds",
@@ -40,21 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "Recession off the cards but Australia faces dreary outlook, economists say",
-        "url": "https://www.theguardian.com/business/2026/jul/08/economy-of-australia-avoids-recession-consumer-pessimism-lingers-economists",
-        "description": "De-escalation of war in the Middle East has lowered oil prices and eased fears of economic downturn but households are still feeling the pinchFollow our Australia news live blog for latest updatesG...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Act soon to change ‘unsustainable’ direction of UK debt, OBR warns",
-        "url": "https://www.theguardian.com/business/2026/jul/07/change-unsustainable-direction-uk-debt-obr-health-pensions",
-        "description": "Forecaster says curtailing rising costs such as health and pensions ‘are today’s challenge, not just tomorrow’s’Policymakers must act to prevent public debt rising unsustainably in coming decades a...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Virgin Media fined £28m for preventing customers from cancelling contracts",
+        "title": "Virgin Media fined after hanging up on customers trying to cancel contracts",
         "url": "https://www.bbc.co.uk/news/articles/c982vm2jzl1o?at_medium=RSS&at_campaign=rss",
         "description": "Millions of phone calls from customers were \"likely mishandled\" over nearly a three-year period, the regulator says.",
         "source": "BBC News",
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "More protein or less? The foods to get you through a heatwave",
-        "url": "https://www.bbc.co.uk/news/articles/clyw89g3443o?at_medium=RSS&at_campaign=rss",
-        "description": "When turning on the oven is a no-no and you're bored of salads, these foods (and drinks) will help to beat the heat.",
+        "title": "German doctor jailed for killing 15 of his patients",
+        "url": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
+        "description": "The German palliative care doctor was found guilty of murdering 12 women and three men between September 2021 and July 2024.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,35 +116,42 @@
     ],
     "climate": [
       {
-        "title": "M&S invests in fridges that can cope with weather as hot as 45C",
-        "url": "https://www.theguardian.com/business/2026/jul/07/marks-and-spencer-fridges-hot-weather-45c",
-        "description": "Retailer admits it struggled in June heatwave and also had to order more ice-cream to keep pace with demandMarks & Spencer is investing in refrigeration equipment that can cope with weather as hot ...",
+        "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
+        "description": "Experts warn that some marine species are at risk of ‘mass mortality events’ in ever-warming oceansUK waters are being hit with an “extreme” marine heatwave, the Met Office has said, as scientists ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "June heatwave in UK led to ‘mass sleep deprivation’, poll suggests",
-        "url": "https://www.theguardian.com/environment/2026/jul/07/june-heatwave-in-uk-led-to-mass-sleep-deprivation-poll-suggests",
-        "description": "Exclusive: Record temperatures fuelled by climate crisis left 86% of homes ‘too hot’ and many people feeling unwellWith parts of England once again in the grip of a heatwave, an opinion poll shows ...",
+        "title": "Unions in Europe press for new worker protections to counter heat stress",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/unions-europe-worker-protections-heat-stress-climate-crisis",
+        "description": "Climate crisis prompts calls for workplace temperature limits and rights to heat breaks and adjusted working hoursAs Europe’s sweltering summer continues, trades unions are mounting a push for new ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Wildfires rage across southern Europe, forcing thousands to flee homes",
-        "url": "https://www.theguardian.com/world/2026/jul/06/wildfires-southern-europe-evacuations-tour-de-france-portugal-spain-greece-heatwave",
-        "description": "Tour de France spectator ban as country along with Spain, Portugal and Greece faces ‘powder keg’ after heatwaveEurope live – latest updatesWildfires raging across southern Europe have forced thousa...",
+        "title": "European countries top ‘scorecard’ on climate progress while US slips to 27th",
+        "url": "https://www.theguardian.com/environment/2026/jul/08/climate-change-crisis-europe-us",
+        "description": "Estonia, Luxembourg and UK are the top three in biennial Yale University index in tackling pollution and other issuesMuch of the world has made encouraging strides in reducing toxic problems such a...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "A mountain of rubbish in Indonesia has been on fire for more than a week",
-        "url": "https://www.bbc.co.uk/news/articles/c1ly1vddj6qo?at_medium=RSS&at_campaign=rss",
-        "description": "Environmental activists say the blaze is a symptom of the country's growing waste crisis.",
+        "title": "Jackdaw owner says gas field will 'not materially influence' climate change",
+        "url": "https://www.bbc.co.uk/news/articles/cly85e2z2n4o?at_medium=RSS&at_campaign=rss",
+        "description": "The new assessment was required by the industry regulator, after it found several areas had not been adequately addressed in a previous submission.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Physical Education review – boisterous, cliche-busting lesson on teen masculinity",
+        "url": "https://www.theguardian.com/stage/2026/jul/08/physical-education-review-swansea-grand-theatre",
+        "description": "Swansea Grand theatreSchool locker room banter has a sinister edge in Jonathan Houlston’s shrewd debut, which pairs the toxic tropes of Adolescence with the group dynamics of Laura Wade’s PoshIn Jo...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "US appeals court strikes down key part of Florida law restricting campus race and gender discussions",
         "url": "https://www.theguardian.com/us-news/2026/jul/07/stop-woke-act-appeal-florida-desantis",
@@ -158,16 +165,16 @@
         "description": "Treasury select committee also says ministers have moral obligation to reverse last year’s repayment threshold freezeSlideshows that compared student loan repayments with the cost of a mobile phone...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "More than 300,000 pupils estimated absent after England World Cup win",
-        "url": "https://www.theguardian.com/education/2026/jul/06/thousands-of-children-absent-from-school-in-wake-of-overnight-england-world-cup-win",
-        "description": "Exclusive: Initial figures are yet to be confirmed by DfE, which said schools were ‘at the heart’ of the celebrationAbout 332,000 fewer children were in school on Monday morning than a week earlier...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Housebuilder Vistry warns of losses amid heavy discounting on unsold homes",
+        "url": "https://www.theguardian.com/business/2026/jul/08/housebuilder-vistry-warns-losses-heavy-discounting-unsold-homes",
+        "description": "Group blames expected £30m loss in first half of year on weakening market and lower consumer confidenceVistry Group, one of Britain’s biggest housebuilders, has said it will make a loss in the firs...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "UK housebuilders have far too much power. Now a £4.5bn lawsuit could change that for good | Peter Apps",
         "url": "https://www.theguardian.com/commentisfree/2026/jul/08/uk-housebuilders-too-much-power-45bn-lawsuit",
@@ -181,34 +188,27 @@
         "description": "Residents and council say creating affordable housing is more urgent than ‘high-frequency trading’ in nearby CityCampaigners in east London are opposing plans for a datacentre in Brick Lane that th...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "The new Isa rules melt my brain: but that’s not even the worst thing about these changes for first-time buyers | Jason Okundaye",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/06/new-isa-rules-reforms-first-time-buyers-government-young-people-property-ladder",
-        "description": "Quite aside from all the convolutions, it’s clear the government is ignorant of the reality for young people like me hoping to get on the property ladderI need to talk about money. Specifically my ...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
-        "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-        "description": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
+        "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+        "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+        "description": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-        "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
-        "description": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
+        "title": "US strikes target Iranian military boats",
+        "url": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+        "description": "The US has launched the strikes on Iran in response to attacks on three oil tankers in the Strait of Hormuz.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Nato allies announce £37bn for new missile project",
-        "url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss",
-        "description": "Prime Minister Sir Keir Starmer will convene around a dozen leaders to discuss the programme in Ankara.",
+        "title": "German doctor jailed for killing 15 of his patients",
+        "url": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
+        "description": "The German palliative care doctor was found guilty of murdering 12 women and three men between September 2021 and July 2024.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
