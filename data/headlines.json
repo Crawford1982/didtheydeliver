@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-07T19:53:00.076105+00:00",
+  "fetched_at": "2026-07-08T02:33:47.169226+00:00",
   "headlines": {
     "government": [
       {
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Farage resigns as MP and vows to fight by-election amid finances row",
-        "url": "https://www.bbc.co.uk/news/articles/c0ly51kzdz3o?at_medium=RSS&at_campaign=rss",
-        "description": "Labour, the Conservatives, the Lib Dems and Restore Britain rule out standing in the by-election, in an effective boycott.",
+        "title": "Farage's rivals rule out standing in Clacton by-election",
+        "url": "https://www.bbc.co.uk/news/articles/cjdg4y3g0z7o?at_medium=RSS&at_campaign=rss",
+        "description": "The Reform UK leader says he wants an \"establishment versus the people by-election\" but Labour calls it a \"circus\".",
         "source": "BBC News",
         "category": "government"
       }
@@ -35,14 +35,14 @@
       {
         "title": "Recession off the cards but Australia faces dreary outlook, economists say",
         "url": "https://www.theguardian.com/business/2026/jul/08/economy-of-australia-avoids-recession-consumer-pessimism-lingers-economists",
-        "description": "De-escalation of war in the Middle East has lowered oil prices and eased fears of economic downturn but households are still feeling the pinchGet our breaking news email, free app or daily news pod...",
+        "description": "De-escalation of war in the Middle East has lowered oil prices and eased fears of economic downturn but households are still feeling the pinchFollow our Australia news live blog for latest updatesG...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
         "title": "Act soon to change ‘unsustainable’ direction of UK debt, OBR warns",
         "url": "https://www.theguardian.com/business/2026/jul/07/change-unsustainable-direction-uk-debt-obr-health-pensions",
-        "description": "Forecaster says curtailing rising costs such as health and pensions ‘are today’s challenge, not just tomorrow’s’Business live – latest updatesPolicymakers must act to prevent public debt rising uns...",
+        "description": "Forecaster says curtailing rising costs such as health and pensions ‘are today’s challenge, not just tomorrow’s’Policymakers must act to prevent public debt rising unsustainably in coming decades a...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "One million more UK homeowners set  to face higher mortgages",
-        "url": "https://www.bbc.co.uk/news/articles/cze9kpxx6d8o?at_medium=RSS&at_campaign=rss",
-        "description": "Homeowners face paying £45 a month more on average when they move onto a new deal over the next two years.",
+        "title": "Hundreds of jobs at risk as John Lewis plans to cut some services",
+        "url": "https://www.bbc.co.uk/news/articles/c30y4vqq4p6o?at_medium=RSS&at_campaign=rss",
+        "description": "No final decision has been made but the job cuts will happen in the autumn if the redundancy plans are approved.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Thousands of women could be spared painful cancer exam by new NHS AI blood test",
+        "url": "https://www.theguardian.com/society/2026/jul/08/thousands-of-women-could-be-spared-painful-cancer-exam-by-new-nhs-ai-blood-test",
+        "description": "The test, which is being trialled by two NHS trusts, could replace the transvaginal ultrasound scan in some casesThousands of women could be spared having a painful intrusive exam for suspected can...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Burnham urged to ditch ‘dangerous’ UK-US NHS drug deal",
         "url": "https://www.theguardian.com/society/2026/jul/07/burnham-urged-to-ditch-dangerous-uk-us-nhs-drug-deal",
@@ -73,13 +80,6 @@
         "title": "People keep asking me why I’m choosing to have a caesarean – here are my reasons | Sharon Gaffka",
         "url": "https://www.theguardian.com/commentisfree/2026/jul/07/chosen-caesarean-ockenden-amos-reports",
         "description": "This isn’t an argument against vaginal birth, and caesareans aren’t without risk. But in the context of failing maternity services, it gives me the greatest sense of calmSharon Gaffka is a reality ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Rapid endometriosis tests to be made available on NHS in England and Wales",
-        "url": "https://www.theguardian.com/society/2026/jul/07/rapid-endometriosis-tests-to-be-made-available-on-nhs-in-england-and-wales",
-        "description": "Saliva and gut sensor-based tests hailed as ‘gamechanger’ for millions of women who can wait years for diagnosisTwo tests that can dramatically speed up diagnosis of endometriosis are to be made av...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "This 'ambitious' tree planting action plan is a first for NI",
-        "url": "https://www.bbc.co.uk/news/articles/cvg5xp455z8o?at_medium=RSS&at_campaign=rss",
-        "description": "Northern Ireland has a target of achieving 12% woodland cover by 2050.",
+        "title": "'The water just came so fast': Typhoon triggers floods and rare tornadoes in China",
+        "url": "https://www.bbc.co.uk/news/articles/c79ygnv9e93o?at_medium=RSS&at_campaign=rss",
+        "description": "Villagers whose families have been stranded told the BBC they are struggling to get food and help.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+        "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+        "description": "The US says the strikes are intended to impose \"heavy costs\", while Iran warns it will \"take decisive measures\" in response.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Marine Le Pen to run for French presidency and appeal conviction in top court",
         "url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss",
         "description": "The hard-right National Rally leader has ended months of speculation, after a court ruled she could run but would have to wear a tag for a year.",
@@ -202,13 +209,6 @@
         "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
         "url": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
         "description": "The US president's inflammatory words have punctuated the image of unity at this crucial gathering, Security Correspondent Frank Gardner writes.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Woman suspected of Monaco bomb attack found dead in Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/c5yz3770yg8o?at_medium=RSS&at_campaign=rss",
-        "description": "Police had been hunting Anastasiia Berezovska after a Ukrainian millionaire was injured in the blast.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
