@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-07-08T14:01:55.708647+00:00",
+  "fetched_at": "2026-07-08T19:22:56.703878+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reeves to approve Farage’s resignation, saying ‘if he wants to spend summer arguing with a bin, I won’t stop him’ – UK politics live",
+        "title": "Starmer says Trump wants to ‘stay in touch’ after he steps down",
+        "url": "https://www.theguardian.com/politics/2026/jul/08/starmer-says-trump-wants-to-stay-in-touch-after-he-steps-down-as-pm",
+        "description": "PM suggests maintaining links with US president will be part of his continued responsibility to UK-US relationshipEurope live – latest updatesDonald Trump has agreed to stay in touch with Keir Star...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Clacton byelection likely to take place on 6 August – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/08/nigel-farage-reform-uk-clacton-5m-gift-crime-agency-labour-keir-starmer-pmqs-uk-politics-latest-news-updates",
-        "description": "Chancellor set to ignore Ed Davey’s request to block Reform leader’s resignation until standards inquiry concludesFor anyone involved in British politics, an invitation to be interviewed on Radio 4...",
+        "description": "Count Binface to be one of few challengers to Nigel Farage as major parties boycott contestFor anyone involved in British politics, an invitation to be interviewed on Radio 4’s Today programme is t...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
-        "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
-        "description": "July update projects GDP growth of 1% this year, making UK the third fastest-growing economy in the G7The International Monetary Fund (IMF) has upgraded its growth forecast for the UK, while leavin...",
+        "title": "Reform to ask for 6 August Clacton byelection after Farage resignation",
+        "url": "https://www.theguardian.com/politics/2026/jul/08/clacton-byelection-date-nigel-farage-resignation-reform",
+        "description": "Constituents to vote in contest being boycotted by major parties over financial scandal surrounding Reform leaderReform UK will request that the Clacton byelection be held on 6 August, the party ha...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Ruth Ellis, last woman hanged in UK, granted posthumous conditional pardon",
-        "url": "https://www.theguardian.com/law/2026/jul/08/ruth-ellis-last-woman-hanged-uk-posthumous-conditional-pardon",
-        "description": "Ellis, 28, was executed in 1955 after fatally shooting her abusive partner David BlakelyUK politics live – latest updatesRuth Ellis, the last woman to be hanged in the UK, has been granted a condit...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Conditional pardon granted for Ruth Ellis, last woman executed in UK",
-        "url": "https://www.bbc.co.uk/news/articles/crel4rj801do?at_medium=RSS&at_campaign=rss",
-        "description": "Ruth Ellis was hanged at London's Holloway Prison in 1955 after being convicted of murdering her lover David Blakely.",
+        "title": "Farage denies stunt as Reform proposes August by-election date",
+        "url": "https://www.bbc.co.uk/news/articles/cdxd779gkv9o?at_medium=RSS&at_campaign=rss",
+        "description": "The Reform UK leader tells the BBC it is \"only fair\" that it is the electorate who judges him.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Treasury yet to do due diligence on finding extra money for UK’s Nato spend",
+        "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
+        "description": "How to hit the 3.5% of GDP defence spending promise would be a matter for ‘the next prime minister’, MPs told The Treasury has as yet carried out no analysis of the trade-offs necessary for the UK ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "IMF upgrades UK growth forecast as fears over impact of Iran war diminish",
         "url": "https://www.theguardian.com/business/2026/jul/08/imf-upgrades-uk-growth-forecast-as-fears-over-impact-of-iran-war-diminish",
@@ -43,13 +50,6 @@
         "title": "Trump’s policy mayhem is making even the Maga faithful consider walking away",
         "url": "https://www.theguardian.com/business/2026/jul/08/trump-maga-faithful-economy",
         "description": "Even voters who identify as foot soldiers of his political army are increasingly willing to blame Trump for their economic troublesThe political consequences of Donald Trump’s policy mayhem are now...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Almost no progress made on UK regional household income divide in 30 years, report finds",
-        "url": "https://www.theguardian.com/business/2026/jul/08/almost-no-progress-made-on-uk-regional-household-income-divide-in-30-years-report-finds",
-        "description": "Despite promises of successive governments, gap between richest and poorest areas consistent since 1997Britain’s deep regional income divide has barely changed in 30 years despite the promises of s...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "German doctor jailed for killing 15 of his patients",
+        "title": "German doctor jailed for murder of 15 patients and suspected of more",
         "url": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
-        "description": "The German palliative care doctor was found guilty of murdering 12 women and three men between September 2021 and July 2024.",
+        "description": "The German palliative care doctor has been sentenced to life imprisonment for killing 15 of his patients.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,32 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "Jackdaw owner says gas field will 'not materially influence' climate change",
-        "url": "https://www.bbc.co.uk/news/articles/cly85e2z2n4o?at_medium=RSS&at_campaign=rss",
-        "description": "The new assessment was required by the industry regulator, after it found several areas had not been adequately addressed in a previous submission.",
+        "title": "Amber heat health alerts in effect as UK set for one of longest-lasting heatwaves since 1976",
+        "url": "https://www.bbc.co.uk/weather/articles/cwy0jpez1nqo?at_medium=RSS&at_campaign=rss",
+        "description": "Temperatures are set to rise as high as 36C (97F) for parts of southern England this week.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Three arrested in fraud investigation at University of Greater Manchester",
+        "url": "https://www.theguardian.com/education/2026/jul/08/three-arrested-investigation-university-of-greater-manchester",
+        "description": "Police ‘exploring evidence’ of more than £1m in fraudulent activity involving 60 transactions and more than 1m emailsThree people have been arrested as part of an investigation into financial crime...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Britain’s markets attracting generation of highly educated entrepreneurs",
+        "url": "https://www.theguardian.com/business/2026/jul/08/britain-markets-new-generation-highly-educated-entrepreneurs",
+        "description": "Nearly a quarter of market traders now hold master’s degree, PhD or medical doctorate, research showsOne in five young market traders now holds a master’s degree, PhD or medical doctorate, accordin...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Physical Education review – boisterous, cliche-busting lesson on teen masculinity",
         "url": "https://www.theguardian.com/stage/2026/jul/08/physical-education-review-swansea-grand-theatre",
         "description": "Swansea Grand theatreSchool locker room banter has a sinister edge in Jonathan Houlston’s shrewd debut, which pairs the toxic tropes of Adolescence with the group dynamics of Laura Wade’s PoshIn Jo...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "US appeals court strikes down key part of Florida law restricting campus race and gender discussions",
-        "url": "https://www.theguardian.com/us-news/2026/jul/07/stop-woke-act-appeal-florida-desantis",
-        "description": "Ron DeSantis’s Stop Woke Act suffers another legal setback, with the state accused of ‘puppeteering’Sign up for the Breaking News US newsletter emailA federal appeals panel struck down a significan...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Student loan promotion in England and Wales amounted to mis-selling, MPs say",
-        "url": "https://www.theguardian.com/money/2026/jul/07/promotion-student-loans-england-wales-mis-selling",
-        "description": "Treasury select committee also says ministers have moral obligation to reverse last year’s repayment threshold freezeSlideshows that compared student loan repayments with the cost of a mobile phone...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+        "title": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
         "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-        "description": "Speaking ahead of a Nato summit, the president says US negotiators can keep talking with the Iranians \"if they want\".",
+        "description": "Speaking at a Nato summit, the president says the US will \"probably\" strike Iran again but added that \"anything that happens will be over quickly\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "German doctor jailed for killing 15 of his patients",
-        "url": "https://www.bbc.co.uk/news/articles/cq819jyp2g7o?at_medium=RSS&at_campaign=rss",
-        "description": "The German palliative care doctor was found guilty of murdering 12 women and three men between September 2021 and July 2024.",
+        "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
+        "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+        "description": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
