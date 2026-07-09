@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-07-09T02:52:32.498438+00:00",
+  "fetched_at": "2026-07-09T09:36:24.980259+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Burnham calls for ‘more open’ public debate about defence spending – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/09/andy-burnham-keir-starmer-labour-nigel-farage-binface-reform-latest-news-updates",
+        "description": "Next Labour leader, who is set to be elected unopposed, outlines foreign policy principles largely in line with StarmerBurnham promises he will not use party discipline to stifle debateThere is an ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Reform activists urged to switch focus from Manchester to Farage’s Clacton contest",
+        "url": "https://www.theguardian.com/politics/2026/jul/09/reform-activists-manchester-farage-clacton-byelection-contest",
+        "description": "Exclusive: Party hoped to mount serious challenge in mayoral race but attention has been diverted to EssexUK politics live – latest updatesReform UK activists have been urged to divert from the Gre...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Nigel Farage v Count Binface - podcast",
         "url": "https://www.theguardian.com/news/audio/2026/jul/09/nigel-farage-v-count-binface-podcast",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Pet prescriptions could be capped at £21 under proposed vet sector reforms",
-        "url": "https://www.theguardian.com/science/2026/jul/09/pet-prescriptions-cap-proposed-vet-sector-reforms-uk",
-        "description": "Ministers also considering licence requirement and regulator to try to cut bills and increase choice UK vets may have to have a licence and cap prescriptions for pet medicine at £21 under plans bei...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "All lobbying should be publicly declared in transparency laws shake-up, watchdog says",
-        "url": "https://www.theguardian.com/politics/2026/jul/09/all-lobbying-publicly-declared-transparency-laws-shake-up-watchdog",
-        "description": "Ethics and integrity commission chief says overhaul is crucial to help restore trust in standardsAll lobbying of government ministers, aides and senior officials should be publicly declared – from ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Met investigate donation to Jenrick's Tory leadership campaign",
-        "url": "https://www.bbc.co.uk/news/articles/cgev4jq4jngo?at_medium=RSS&at_campaign=rss",
-        "description": "The former Conservative, now Reform UK, MP says the allegations are \"entirely false\".",
+        "title": "Burnham on course for No 10 as Labour nominations open",
+        "url": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss",
+        "description": "The former mayor of Greater Manchester is unopposed in the race to replace Sir Keir Starmer.",
         "source": "BBC News",
         "category": "government"
       }
@@ -56,7 +56,7 @@
       {
         "title": "Why electric cars cost more to insure - and what's being done about it",
         "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
-        "description": "The insurance cost of electric vehicles is still putting many would-be buyers. So what can be done about it?",
+        "description": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,16 +93,16 @@
     ],
     "immigration": [
       {
-        "title": "Asylum seeker in UK as part of ‘one in, one out’ scheme says it is unfair on those deported",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/08/asylum-seeker-in-uk-says-one-in-one-out-scheme-unfair",
-        "description": "Man flown from France as part of legal entry programme decries effect on others ‘who may have a similar case’An asylum seeker brought to the UK by the Home Office has said it feels unjust that he w...",
+        "title": "Mahmood to close loophole blocking deportation of Rochdale grooming gang ringleader",
+        "url": "https://www.theguardian.com/politics/2026/jul/08/mahmood-to-close-loophole-blocking-deportation-of-rochdale-grooming-gang-ringleader",
+        "description": "Home secretary expected to amend Immigration Act but hurdles remain if Pakistan continues to refuse to take Shabir Ahmed backShabana Mahmood is planning to change the law so the government can move...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Mahmood to close loophole blocking deportation of Rochdale grooming gang ringleader",
-        "url": "https://www.theguardian.com/politics/2026/jul/08/mahmood-to-close-loophole-blocking-deportation-of-rochdale-grooming-gang-ringleader",
-        "description": "Home secretary expected to amend Immigration Act but hurdles remain if Pakistan continues to refuse to take Shabir Ahmed backShabana Mahmood is planning to change the law so the government can move...",
+        "title": "Asylum seeker in UK as part of ‘one in, one out’ scheme says it is unfair on those deported",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/08/asylum-seeker-in-uk-says-one-in-one-out-scheme-unfair",
+        "description": "Man flown from France as part of legal entry programme decries effect on others ‘who may have a similar case’An asylum seeker brought to the UK by the Home Office has said it feels unjust that he w...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -115,6 +115,13 @@
       }
     ],
     "climate": [
+      {
+        "title": "Western Europe records hottest-ever June as heatwaves intensify",
+        "url": "https://www.theguardian.com/environment/2026/jul/09/western-europe-records-hottest-ever-june-as-heatwaves-intensify",
+        "description": "Temperatures across ravaged region 3C above average as scientists warn of risks for people, ecosystems and infrastructureRecord wildfires in Europe show failure to adapt carries a mounting costWest...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
         "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "European countries top ‘scorecard’ on climate progress while US slips to 27th",
-        "url": "https://www.theguardian.com/environment/2026/jul/08/climate-change-crisis-europe-us",
-        "description": "Estonia, Luxembourg and UK are the top three in biennial Yale University index in tackling pollution and other issuesMuch of the world has made encouraging strides in reducing toxic problems such a...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "UK heatwave spreads further north and west as temperatures continue to climb",
-        "url": "https://www.bbc.co.uk/weather/articles/ce3e443e1yko?at_medium=RSS&at_campaign=rss",
-        "description": "This year's third heatwave is one of the longest lasting heatwaves since the infamous year of 1976.",
+        "title": "How beachgoers are turning snaps into science",
+        "url": "https://www.bbc.co.uk/news/articles/cn59n10qnqzo?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists hope to learn more about the impact of climate change on coasts through people's photos.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Ukraine to get licence to produce Patriot missiles, Trump says",
-        "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
-        "description": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
+        "title": "US and Iran trade strikes for second night in a row",
+        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+        "description": "Traffic through the Strait of Hormuz has dropped 'dramatically' since the lastest attacks began.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Starmer gifted gun and ammunition by Turkish president at Nato",
-        "url": "https://www.bbc.co.uk/news/articles/c0jy3pd2jzqo?at_medium=RSS&at_campaign=rss",
-        "description": "The weapon has not been brought back to the UK and has instead been left with British officials in Turkey.",
+        "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
+        "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
+        "description": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Justin Bieber joins Madonna, Shakira and BTS for Fifa World Cup final half-time show",
-        "url": "https://www.bbc.co.uk/news/articles/c1wyx7g9e1do?at_medium=RSS&at_campaign=rss",
-        "description": "The Super Bowl-style show marks the Canadian singer's latest big performance after his comeback shows at Coachella.",
+        "title": "Platner's disastrous candidacy exposes rifts that could dampen Democrats' Senate hopes",
+        "url": "https://www.bbc.co.uk/news/articles/c20ylnn8wqgo?at_medium=RSS&at_campaign=rss",
+        "description": "Along with creating tumult in a must-win race for Democrats, Graham Platner's exit is laying bare division between the party's left wing and moderates.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
