@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-07-09T19:43:40.358101+00:00",
+  "fetched_at": "2026-07-10T02:54:45.591925+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Keir Starmer may award resignation honours when he leaves No 10",
+        "url": "https://www.theguardian.com/politics/2026/jul/09/keir-starmer-prime-minister-resignation-honours-no-10-politics",
+        "description": "Outgoing PM has not ruled out drawing up honours list when he stands down, despite previously opposing itKeir Starmer has signalled he could hand out resignation honours when he leaves Downing Stre...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Police investigate £500,000 Reform donations from mother of fraudster who backed Farage",
+        "url": "https://www.theguardian.com/politics/2026/jul/09/police-investigate-500000-reform-donations-from-mother-of-fraudster-who-backed-farage",
+        "description": "George Cottrell’s mother, Fiona, at centre of criminal inquiry over potential evasion of restrictions on donationsPolice are investigating donations worth £500,000 made to Reform UK by the mother o...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Labour MPs to rebel on party funding reforms and demand total crypto ban",
         "url": "https://www.theguardian.com/politics/2026/jul/09/labour-mps-rebel-political-funding-reforms-demanding-tougher-measures",
         "description": "Exclusive: Call for ministers to tighten bill amid Nigel Farage funding controversiesLabour MPs are to rebel next week over the government’s reforms to political funding, pushing ministers to intro...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "MPs urge Labour to ditch £330m Palantir software contract with NHS",
-        "url": "https://www.theguardian.com/politics/2026/jul/09/mps-urge-labour-to-ditch-330m-palantir-software-contract-with-nhs",
-        "description": "Cross-party group backs call from science and technology committee to look at alternative options, citing ‘serious mistrust’A second parliamentary committee has urged Labour to scrap Palantir’s £33...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "George Cottrell referred to Nigel Farage as ‘daddy’, says ex-Reform candidate",
-        "url": "https://www.theguardian.com/politics/2026/jul/09/fraudster-cottrell-was-introduced-as-farage-chief-of-staff-says-ex-reform-candidate",
-        "description": "Exclusive: Questions grow over convicted fraudster’s role in Reform UK as party says he has never held official positionWhy is Farage quitting as an MP, only to stand again?George Cottrell was rout...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Why electric cars cost more to insure - and what's being done about it",
-        "url": "https://www.bbc.co.uk/news/articles/cgk6606j6zeo?at_medium=RSS&at_campaign=rss",
-        "description": "The insurance cost of electric vehicles is still putting off many would-be buyers. So what can be done about it?",
+        "title": "We saved £6,000 on holidays by swapping homes with strangers",
+        "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "A country that made huge progress on measles now reports 120,000 cases",
-        "url": "https://www.bbc.co.uk/news/articles/cj0gel72mlgo?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds of children are dying from measles in Bangladesh, where hospitals are overwhelmed.",
+        "title": "Vapes to have less enticing names to protect children, under UK plans",
+        "url": "https://www.bbc.co.uk/news/articles/c9v29d7vml7o?at_medium=RSS&at_campaign=rss",
+        "description": "People are being consulted about plans to stop vape companies using of enticing flavour descriptions that \"attract\" children into experimenting.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -125,7 +125,7 @@
       {
         "title": "Former top BHP economist urges tougher government policies to push miners to decarbonise",
         "url": "https://www.theguardian.com/business/2026/jul/10/former-bhp-economist-carbon-price-emissions",
-        "description": "Exclusive: ‘The preferred policy is, of course, a carbon price,’ Dr Huw McKay says, amid slowdown in BHP action on emissionsGet our breaking news email, free app or daily news podcastA former chief...",
+        "description": "Exclusive: ‘The preferred policy is, of course, a carbon price,’ Dr Huw McKay says, amid slowdown in BHP action on emissionsFollow our Australia news live blog for latest updatesGet our breaking ne...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Viral squeaky frog now at risk of extinction",
-        "url": "https://www.bbc.co.uk/news/articles/cq819y09g2lo?at_medium=RSS&at_campaign=rss",
-        "description": "A squeaky frog that became an internet sensation is added to a global list of species at risk of extinction.",
+        "title": "UK bakes in 35C highs as heatwave to continue next week",
+        "url": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss",
+        "description": "On Thursday, temperatures exceeded 34C for the eighth day this year, breaking the previous record of seven days in a calendar year.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Tehran launches more strikes after explosions reported in southern Iran",
+        "title": "US and Iran trade attacks as Khamenei is buried",
         "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
         "description": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
-        "url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss",
-        "description": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
+        "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
+        "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
+        "description": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Democrat Graham Platner suspends campaign for key US Senate race after assault allegation",
-        "url": "https://www.bbc.co.uk/news/articles/c9v229434p2o?at_medium=RSS&at_campaign=rss",
-        "description": "The decision came days after a woman accused him of sexual assault, an accusation he says is \"categorically false\".",
+        "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
+        "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
+        "description": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
