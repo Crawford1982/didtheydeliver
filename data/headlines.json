@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-07-10T02:54:45.591925+00:00",
+  "fetched_at": "2026-07-10T09:32:09.939789+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Keir Starmer may award resignation honours when he leaves No 10",
-        "url": "https://www.theguardian.com/politics/2026/jul/09/keir-starmer-prime-minister-resignation-honours-no-10-politics",
-        "description": "Outgoing PM has not ruled out drawing up honours list when he stands down, despite previously opposing itKeir Starmer has signalled he could hand out resignation honours when he leaves Downing Stre...",
+        "title": "Labour MPs urge Burnham to ditch Mahmood’s ‘hostile rhetoric’ on immigration – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/10/andy-burnham-labour-shabana-mahmood-reform-nigel-farage-uk-politics-live-news",
+        "description": "Burnham set to be next PM with strong support from all wings of the party as 322 Labour MPs back him The Labour party has welcomed the news that the Metropolitan police are investigating donations ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Police investigate £500,000 Reform donations from mother of fraudster who backed Farage",
-        "url": "https://www.theguardian.com/politics/2026/jul/09/police-investigate-500000-reform-donations-from-mother-of-fraudster-who-backed-farage",
-        "description": "George Cottrell’s mother, Fiona, at centre of criminal inquiry over potential evasion of restrictions on donationsPolice are investigating donations worth £500,000 made to Reform UK by the mother o...",
+        "title": "Ann Widdecombe, former Tory MP and Reform UK member, dies aged 78",
+        "url": "https://www.theguardian.com/politics/2026/jul/10/ann-widdecombe-former-tory-mp-and-reform-uk-member-dies-aged-78",
+        "description": "Prominent Eurosceptic and social conservative paid tribute to as ‘force of nature’ by Reform leader Nigel FarageThe former Conservative minister Ann Widdecombe has died aged 78, her management has ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour MPs to rebel on party funding reforms and demand total crypto ban",
-        "url": "https://www.theguardian.com/politics/2026/jul/09/labour-mps-rebel-political-funding-reforms-demanding-tougher-measures",
-        "description": "Exclusive: Call for ministers to tighten bill amid Nigel Farage funding controversiesLabour MPs are to rebel next week over the government’s reforms to political funding, pushing ministers to intro...",
+        "title": "Reeves to launch City ‘skills compact’ committing firms to retrain staff in AI",
+        "url": "https://www.theguardian.com/business/2026/jul/10/rachel-reeves-city-skills-compact-ai-training",
+        "description": "Exclusive: Plan to improve skills of thousands of financial sector workers to keep pace with tech revolutionChancellor Rachel Reeves is to announce a new City “skills compact” that will commit firm...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham set to be next PM as 322 Labour MPs back him in first nomination tally",
-        "url": "https://www.bbc.co.uk/news/articles/c77y0n7k801o?at_medium=RSS&at_campaign=rss",
-        "description": "The former mayor of Greater Manchester is unopposed in the race to replace Sir Keir Starmer.",
+        "title": "Police investigating Reform donations - reports",
+        "url": "https://www.bbc.co.uk/news/articles/c3eyq2np7qgo?at_medium=RSS&at_campaign=rss",
+        "description": "The investigation is looking into donations made to Reform UK by the mother of the convicted fraudster George Cottrell, according to the Times.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+        "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+        "description": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loansMost developing countries spent less on education than they did repaying debt last...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Oasis reunion helps draw record 25m ‘music tourists’ to UK concerts",
+        "url": "https://www.theguardian.com/business/2026/jul/10/oasis-reunion-uk-concerts-cold-play-lana-del-ray-beyonce-gigs-economy",
+        "description": "Gigs by Gallagher brothers, Coldplay, Lana Del Rey and Beyonce gives £11bn boost to the economyBig name artists including Oasis with their highly anticipated reunion tour, Coldplay and Beyoncé help...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Andy Burnham urged to scrap income tax and NI in radical fiscal overhaul",
         "url": "https://www.theguardian.com/business/2026/jul/09/andy-burnham-scrap-income-tax-national-insurance-fiscal-overhaul",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Invest in Britain or I’ll force you to, minister tells pension funds",
-        "url": "https://www.theguardian.com/business/2026/jul/09/invest-in-britain-force-you-peter-kyle-pension-funds",
-        "description": "Business secretary Peter Kyle says asset managers should feel a patriotic duty to make the UK a successThe business secretary, Peter Kyle, has told UK pension funds to “get off their high horses” a...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK Treasury yet to do due diligence on finding extra money for defence",
-        "url": "https://www.theguardian.com/business/2026/jul/08/treasury-due-diligence-money-uk-nato-spend",
-        "description": "How to hit the 3.5% of GDP spending promise made to Nato would be a matter for the next prime minister, MPs toldThe Treasury has as yet carried out no analysis of the trade-offs necessary for the U...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "We saved £6,000 on holidays by swapping homes with strangers",
-        "url": "https://www.bbc.co.uk/news/articles/ce8kkerxz74o?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC looks at the growing trend of people swapping homes to cut holiday costs.",
+        "title": "EasyJet agrees to surprise takeover bid as rival US firm swoops in",
+        "url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss",
+        "description": "The airline says a bid from US firm Apollo has trumped a previous potential takeover offer from Castlelake.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -100,16 +100,16 @@
         "category": "immigration"
       },
       {
-        "title": "Mahmood to close loophole blocking deportation of Rochdale grooming gang ringleader",
-        "url": "https://www.theguardian.com/politics/2026/jul/08/mahmood-to-close-loophole-blocking-deportation-of-rochdale-grooming-gang-ringleader",
-        "description": "Home secretary expected to amend Immigration Act but hurdles remain if Pakistan continues to refuse to take Shabir Ahmed backShabana Mahmood is planning to change the law so the government can move...",
+        "title": "Labour MPs urge Burnham to ditch Mahmood’s ‘hostile rhetoric’ on immigration – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/10/andy-burnham-labour-shabana-mahmood-reform-nigel-farage-uk-politics-live-news",
+        "description": "Burnham set to be next PM with strong support from all wings of the party as 322 Labour MPs back him Libby Brooks has written her First Edition briefing about the Reform UK funding scandal. It feat...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Asylum seeker in UK as part of ‘one in, one out’ scheme says it is unfair on those deported",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/08/asylum-seeker-in-uk-says-one-in-one-out-scheme-unfair",
-        "description": "Man flown from France as part of legal entry programme decries effect on others ‘who may have a similar case’An asylum seeker brought to the UK by the Home Office has said it feels unjust that he w...",
+        "title": "Mahmood to close loophole blocking deportation of Rochdale grooming gang ringleader",
+        "url": "https://www.theguardian.com/politics/2026/jul/08/mahmood-to-close-loophole-blocking-deportation-of-rochdale-grooming-gang-ringleader",
+        "description": "Home secretary expected to amend Immigration Act but hurdles remain if Pakistan continues to refuse to take Shabir Ahmed backShabana Mahmood is planning to change the law so the government can move...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,32 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "UK bakes in 35C highs as heatwave to continue next week",
-        "url": "https://www.bbc.co.uk/weather/articles/c0my38l4ex3o?at_medium=RSS&at_campaign=rss",
-        "description": "On Thursday, temperatures exceeded 34C for the eighth day this year, breaking the previous record of seven days in a calendar year.",
+        "title": "How cows are helping one of Britain's rarest butterflies",
+        "url": "https://www.bbc.co.uk/news/articles/c621jgepljvo?at_medium=RSS&at_campaign=rss",
+        "description": "The High Brown Fritillary needs bracken and a certain violet to thrive - but everything in moderation.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
+        "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
+        "description": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loansMost developing countries spent less on education than they did repaying debt last...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Reeves to launch City ‘skills compact’ committing firms to retrain staff in AI",
+        "url": "https://www.theguardian.com/business/2026/jul/10/rachel-reeves-city-skills-compact-ai-training",
+        "description": "Exclusive: Plan to improve skills of thousands of financial sector workers to keep pace with tech revolutionChancellor Rachel Reeves is to announce a new City “skills compact” that will commit firm...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Three arrested in fraud investigation at University of Greater Manchester",
         "url": "https://www.theguardian.com/education/2026/jul/08/three-arrested-investigation-university-of-greater-manchester",
         "description": "Police ‘exploring evidence’ of more than £1m in fraudulent activity involving 60 transactions and more than 1m emailsThree people have been arrested as part of an investigation into financial crime...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Britain’s markets attracting generation of highly educated entrepreneurs",
-        "url": "https://www.theguardian.com/business/2026/jul/08/britain-markets-new-generation-highly-educated-entrepreneurs",
-        "description": "Nearly a quarter of market traders now hold master’s degree, PhD or medical doctorate, research showsOne in five young market traders now holds a master’s degree, PhD or medical doctorate, accordin...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Physical Education review – boisterous, cliche-busting lesson on teen masculinity",
-        "url": "https://www.theguardian.com/stage/2026/jul/08/physical-education-review-swansea-grand-theatre",
-        "description": "Swansea Grand theatreSchool locker room banter has a sinister edge in Jonathan Houlston’s shrewd debut, which pairs the toxic tropes of Adolescence with the group dynamics of Laura Wade’s PoshIn Jo...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,16 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "US and Iran trade attacks as Khamenei is buried",
-        "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-        "description": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies",
-        "url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss",
-        "description": "The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.",
+        "title": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
+        "description": "Ali Khamenei was buried at the Imam Reza shrine, Iran's holiest Shia Muslim site, ending six days of public mourning ceremonies.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -209,6 +202,13 @@
         "title": "Ukrainian agent accused of murdering Monaco bomb suspect changes story",
         "url": "https://www.bbc.co.uk/news/articles/cpv3e8y39j7o?at_medium=RSS&at_campaign=rss",
         "description": "Two men with links to Ukraine's security services are accused of killing Anastasiia Berezovska and dumping her body in woods.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
+        "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
+        "description": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
