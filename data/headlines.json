@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-12T02:38:02.550762+00:00",
+  "fetched_at": "2026-07-12T08:14:09.548061+00:00",
   "headlines": {
     "government": [
       {
@@ -24,14 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Ann Widdecombe attacked nearly 24 hours before she was found dead, police believe",
-        "url": "https://www.bbc.co.uk/news/articles/cgjx912wxw3o?at_medium=RSS&at_campaign=rss",
-        "description": "A 26-year-old white British man arrested on suspicion of her murder has been released and is no longer part of the investigation.",
+        "title": "Man arrested on suspicion of murder of Ann Widdecombe",
+        "url": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss",
+        "description": "A 28-year-old white British national has been arrested in South Yorkshire, police say.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "‘Super’ El Niño could cause global food price shock lasting into 2028, analysts say",
+        "url": "https://www.theguardian.com/business/2026/jul/12/super-el-nino-severe-shock-global-food-prices-lasting-into-2028-economists-warn",
+        "description": "Weather cycle threatens harvests worldwide, adding to inflation already fuelled by the Iran warEconomists are warning that a “super” El Niño weather cycle this year could cause a severe shock to gl...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "World Cup quarter-final expected to generate £500m sales boost for UK economy",
         "url": "https://www.theguardian.com/business/2026/jul/11/world-cup-quarter-finals-expected-to-generate-half-billion-pound-sales-rise-for-uk-economy",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-        "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-        "description": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loansMost developing countries spent less on education than they did repaying debt last...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Will Trump Accounts deliver for American children?",
-        "url": "https://www.bbc.co.uk/news/articles/ckg55v9e2y9o?at_medium=RSS&at_campaign=rss",
-        "description": "The White House has hailed the project as giving new generations a stake in the American dream, but the scheme has its critics.",
+        "title": "How Aldi is taking on US supermarkets with its $4 almond butter",
+        "url": "https://www.bbc.co.uk/news/articles/cly0l5d5xn7o?at_medium=RSS&at_campaign=rss",
+        "description": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘Super’ El Niño could cause global food price shock lasting into 2028, analysts say",
+        "url": "https://www.theguardian.com/business/2026/jul/12/super-el-nino-severe-shock-global-food-prices-lasting-into-2028-economists-warn",
+        "description": "Weather cycle threatens harvests worldwide, adding to inflation already fuelled by the Iran warEconomists are warning that a “super” El Niño weather cycle this year could cause a severe shock to gl...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Datacentres drive up big tech’s carbon emissions to a third of those of France",
         "url": "https://www.theguardian.com/us-news/2026/jul/11/microsoft-amazon-google-datacentre-carbon-emissions-france",
         "description": "Microsoft, Amazon and Google say they still aim to achieve net zero output despite construction boomMicrosoft, Amazon and Google’s collective carbon emissions have increased by nearly a fifth in th...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "‘Children were calling for their mummies’: UK pupils struggle in 40C-plus classrooms",
-        "url": "https://www.theguardian.com/education/2026/jul/11/uk-pupils-struggle-extreme-heat-schools-classrooms",
-        "description": "Teachers call for schools to be urgently adapted for hot weather amid reports of nausea, fainting and heatstrokeThe extreme heat that has hit the UK twice in the past few weeks has left teachers st...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "China's second typhoon in a week makes landfall",
+        "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
         "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-        "description": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+        "description": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -194,14 +194,14 @@
       {
         "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
         "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-        "description": "The strikes follow an attack on a Cyrpus-flagged vessel travelling through the critical waterway.",
+        "description": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "China's second typhoon in a week makes landfall",
-        "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-        "description": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+        "title": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+        "description": "The influential politician has just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
