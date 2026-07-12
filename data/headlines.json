@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-07-12T08:14:09.548061+00:00",
+  "fetched_at": "2026-07-12T13:16:07.857103+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Labour MPs call for Andy Burnham to restore aid spending target set by Brown",
-        "url": "https://www.theguardian.com/global-development/2026/jul/11/labour-mps-andy-burnham-overseas-aid-development-spending-levels",
-        "description": "Thinktank urges prospective prime minister to reclaim UK’s role as an international leader on developmentInfluential backbenchers are calling on Andy Burnham to reclaim Labour’s leadership on inter...",
+        "title": "France and UK to increase staffing at border controls in effort to stave off travel chaos",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/12/france-uk-increase-staffing-border-controls-travel-chaos",
+        "description": "Disruption at Channel crossings expected to rise amid new fingerprinting and facial recognition checksFrance and the UK have agreed to increase staffing at border controls in response to warnings o...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "What are the rules on political donations and gifts in the UK?",
-        "url": "https://www.theguardian.com/politics/2026/jul/10/how-do-political-donations-work-and-why-are-there-growing-calls-for-a-cap",
-        "description": "Mega-donors are coming under scrutiny with growing calls for donations cap beyond those from overseas investorsThe question of who funds politicians and political parties – and why they want to giv...",
+        "title": "Tommy Robinson’s Musk-funded Russia trip spurs call to defend UK democracy",
+        "url": "https://www.theguardian.com/politics/2026/jul/12/tommy-robinson-musk-russia-trip-defend-uk-democracy-ed-davey",
+        "description": "Ed Davey voices concern about the Musk family foundation taking the far-right activist on a visit to MoscowThe UK must do more to defend its democracy after it emerged that Elon Musk’s family found...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Police say man arrested on suspicion of murder of Ann Widdecombe – UK politics as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/10/andy-burnham-labour-shabana-mahmood-reform-nigel-farage-uk-politics-live-news",
-        "description": "A 26-year-old man in custody and officers say incident is not being treated as terrorism Police arrest man on suspicion of Ann Widdecombe’s murderImmigration policy (see 9.24am) is just one area wh...",
+        "title": "Reeves tells Burnham to expect ‘shocks and challenges’ from outset in No 10",
+        "url": "https://www.theguardian.com/politics/2026/jul/12/rachel-reeves-andy-burnham-expectations-no-10",
+        "description": "Chancellor says PM-in-waiting needs ‘worked through plan’, in what could be one of her final interviews in No 11Rachel Reeves has urged Andy Burnham to arrive in Downing Street with a “worked throu...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Man arrested on suspicion of murder of Ann Widdecombe",
-        "url": "https://www.bbc.co.uk/news/articles/cz6v5z9zz8jo?at_medium=RSS&at_campaign=rss",
-        "description": "A 28-year-old white British national has been arrested in South Yorkshire, police say.",
+        "title": "Nothing to suggest Widdecombe killing was politically motivated, police say",
+        "url": "https://www.bbc.co.uk/news/articles/c8628q3eqdeo?at_medium=RSS&at_campaign=rss",
+        "description": "Police say they are not looking for anyone else after a 28-year-old man was arrested in Rotherham, South Yorkshire.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart",
+        "url": "https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence",
+        "description": "If Keir Starmer won’t act then his successor should – by restricting the power of a small group of mega-donors Just as Nigel Farage kicks off a summer of “arguing with a bin”, as the chancellor, Ra...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "‘Super’ El Niño could cause global food price shock lasting into 2028, analysts say",
         "url": "https://www.theguardian.com/business/2026/jul/12/super-el-nino-severe-shock-global-food-prices-lasting-into-2028-economists-warn",
@@ -43,13 +50,6 @@
         "title": "World Cup quarter-final expected to generate £500m sales boost for UK economy",
         "url": "https://www.theguardian.com/business/2026/jul/11/world-cup-quarter-finals-expected-to-generate-half-billion-pound-sales-rise-for-uk-economy",
         "description": "As England prepare to take on Norway on Saturday, sales of pints, takeaways and new TVs continue to surgeFrom a cosy Norwegian pub to outdoor fan zones packed with hopeful England football fans, Sa...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Labour MPs call for Andy Burnham to restore aid spending target set by Brown",
-        "url": "https://www.theguardian.com/global-development/2026/jul/11/labour-mps-andy-burnham-overseas-aid-development-spending-levels",
-        "description": "Thinktank urges prospective prime minister to reclaim UK’s role as an international leader on developmentInfluential backbenchers are calling on Andy Burnham to reclaim Labour’s leadership on inter...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "‘We plant belonging’: how nature charities and asylum seekers work together in UK countryside",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/12/we-plant-belonging-how-nature-charities-and-asylum-seekers-work-together-in-uk-countryside",
+        "description": "Environmental and refugee groups have joined forces to benefit lives and wildlife in Wales and elsewhereShielding his eyes from the blinding midday sun, Abdullah, a Sudanese asylum seeker, gazes ou...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Police say man arrested on suspicion of murder of Ann Widdecombe – UK politics as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/10/andy-burnham-labour-shabana-mahmood-reform-nigel-farage-uk-politics-live-news",
         "description": "A 26-year-old man in custody and officers say incident is not being treated as terrorism Police arrest man on suspicion of Ann Widdecombe’s murderImmigration policy (see 9.24am) is just one area wh...",
@@ -103,13 +110,6 @@
         "title": "The bulging in-tray of challenges Andy Burnham faces upon entering No 10",
         "url": "https://www.theguardian.com/politics/2026/jul/10/in-tray-of-challenges-andy-burnham-faces-as-prime-minister",
         "description": "From welfare and defence spending to cost of living and geopolitics, we look at the key issues left over from StarmerAndy Burnham is expected to become prime minister in less than two weeks and has...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Mahmood’s cutting of protections for UK-France ‘one in, one out’ asylum deal ruled unlawful",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/10/home-office-policy-protections-trafficking-victims-ruled-unlawful",
-        "description": "Asylum seekers win ruling against home secretary’s reduction of safeguards for potential victims of traffickingThe home secretary’s decision to reduce protections for potential trafficking victims ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
+        "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
         "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-        "description": "The influential politician has just returned from Kyiv, where he met Ukraine's President Volodymyr Zelensky on Friday.",
+        "description": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "T. rex could become most expensive fossil ever - but it's a ​problem for scientists",
-        "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
-        "description": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
+        "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
+        "description": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media",
         "source": "BBC News",
         "category": "foreign_policy"
       }
