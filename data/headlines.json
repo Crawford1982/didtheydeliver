@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-07-13T02:39:43.553316+00:00",
+  "fetched_at": "2026-07-13T09:23:21.990657+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Minister suggests Shabana Mahmood will use visa threats to deport Rochdale grooming gang leader to Pakistan – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/13/shabana-mahmood-migration-rochdale-grooming-gang-pakistan-visas-immigration-andy-burnham-labour",
+        "description": "Cather Atkinson hinted that the Home Office may threaten to stop issuing visas to Pakistan unless it agrees to accept Shabir AhmedWe have comments open at the moment but we won’t be allowing commen...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "More than 16,000 refugees unable to reunite with families in UK, says Refugee Council",
+        "url": "https://www.theguardian.com/world/2026/jul/13/more-than-16000-refugees-unable-reunite-families-uk",
+        "description": "Suspension of family reunion route has left many stuck in conflict zones or using people smugglers to reach safetyMore than 16,000 refugees have been unable to reunite with families in the UK, leav...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Home Office to spend £250m on protecting Jewish communities in England and Wales",
         "url": "https://www.theguardian.com/uk-news/2026/jul/13/home-office-to-spend-250m-on-protecting-jewish-communities-in-england-and-wales",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Calls for radical action as Burnham told homelessness in England may rise 25% by 2030",
-        "url": "https://www.theguardian.com/society/2026/jul/13/radical-action-burnham-homelessness-rise-record-figures-report-england",
-        "description": "Exclusive: Report warns an additional 50,000 people could be added to current record figure without bold policiesAndy Burnham has been warned that an additional 50,000 people in England will become...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Police warn Widdecombe murder speculation is ‘unhelpful and distressing’",
-        "url": "https://www.theguardian.com/politics/2026/jul/12/police-speculation-during-widdecombe-investigation-is-unhelpful-and-distressing",
-        "description": "Politicians should not comment before facts established, says ex-chief constable, as Farage calls killing ‘premeditated murder’Senior police figures and politicians have warned against speculation ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham set for No 10: BBC correspondents on what Trump, Putin and others will make of him",
-        "url": "https://www.bbc.co.uk/news/articles/cn8qzlvlz81o?at_medium=RSS&at_campaign=rss",
-        "description": "In the US, China, Europe, Russia and elsewhere, how is the UK's expected new prime minister regarded?",
+        "title": "Mahmood to set out plan to deport grooming gang leader",
+        "url": "https://www.bbc.co.uk/news/articles/ce8m9615dqlo?at_medium=RSS&at_campaign=rss",
+        "description": "Calls have grown to deport Rochdale grooming gang ringleader Shabir Ahmed after his release from prison.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,7 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "Why switching to save money is easier than you might think",
+        "title": "How to change bank, energy or broadband provider and save money",
         "url": "https://www.bbc.co.uk/news/articles/cd7w98n2y3eo?at_medium=RSS&at_campaign=rss",
         "description": "Changing your broadband or energy supplier, or even your bank, for a better deal is simpler than it used to be.",
         "source": "BBC News",
@@ -84,7 +84,7 @@
         "category": "nhs"
       },
       {
-        "title": "Thousands may have died in UK's exceptional May and June heatwaves",
+        "title": "More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales",
         "url": "https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss",
         "description": "An early estimate suggests more than 2,700 people will have died from heat-related causes during the UK's exceptionally hot weather in recent months.",
         "source": "BBC News",
@@ -100,21 +100,28 @@
         "category": "immigration"
       },
       {
-        "title": "Police say man arrested on suspicion of murder of Ann Widdecombe – UK politics as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/10/andy-burnham-labour-shabana-mahmood-reform-nigel-farage-uk-politics-live-news",
-        "description": "A 26-year-old man in custody and officers say incident is not being treated as terrorism Police arrest man on suspicion of Ann Widdecombe’s murderImmigration policy (see 9.24am) is just one area wh...",
+        "title": "Minister suggests Shabana Mahmood will use visa threats to deport Rochdale grooming gang leader to Pakistan – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/13/shabana-mahmood-migration-rochdale-grooming-gang-pakistan-visas-immigration-andy-burnham-labour",
+        "description": "Cather Atkinson hinted that the Home Office may threaten to stop issuing visas to Pakistan unless it agrees to accept Shabir AhmedWe have comments open at the moment but we won’t be allowing commen...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "The bulging in-tray of challenges Andy Burnham faces upon entering No 10",
-        "url": "https://www.theguardian.com/politics/2026/jul/10/in-tray-of-challenges-andy-burnham-faces-as-prime-minister",
-        "description": "From welfare and defence spending to cost of living and geopolitics, we look at the key issues left over from StarmerAndy Burnham is expected to become prime minister in less than two weeks and has...",
+        "title": "More than 16,000 refugees unable to reunite with families in UK, says Refugee Council",
+        "url": "https://www.theguardian.com/world/2026/jul/13/more-than-16000-refugees-unable-reunite-families-uk",
+        "description": "Suspension of family reunion route has left many stuck in conflict zones or using people smugglers to reach safetyMore than 16,000 refugees have been unable to reunite with families in the UK, leav...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Fire bomber planes battle Fontainebleau forest blaze near Paris",
+        "url": "https://www.theguardian.com/world/2026/jul/13/france-fires-wildfires-fointaineblue-forest-paris",
+        "description": "Wildfire quickly burnt more than 800 hectares, with villages evacuated, highway partly closed and high-speed rail disruptedFrench officials rushed two firefighting planes to the Paris region on Sun...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires",
         "url": "https://www.theguardian.com/world/2026/jul/12/uk-couple-burned-semi-conscious-almeria-spanish-wildfires",
@@ -123,28 +130,28 @@
         "category": "climate"
       },
       {
-        "title": "Green MP Hannah Spencer to introduce bill on maximum workplace temperatures",
-        "url": "https://www.theguardian.com/politics/2026/jul/12/green-mp-hannah-spencer-aims-to-pass-law-on-maximum-workplace-temperatures",
-        "description": "Byelection winner says heatwaves are causing ‘absolute chaos’ and workers need protection from unsafe conditionsThe Green MP Hannah Spencer is to introduce a bill in parliament that would pave the ...",
+        "title": "Two men die after going into sea to rescue children at County Durham beach",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/12/two-men-die-after-going-into-sea-to-rescue-children-at-county-durham-beach",
+        "description": "Children confirmed safe but men pronounced dead after being brought out of water at Seaton Carew, HartlepoolTwo men have died after going into the water at a beach in County Durham to try to help t...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "‘We plant belonging’: how nature charities and asylum seekers work together in UK countryside",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/12/we-plant-belonging-how-nature-charities-and-asylum-seekers-work-together-in-uk-countryside",
-        "description": "Environmental and refugee groups have joined forces to benefit lives and wildlife in Wales and elsewhereShielding his eyes from the blinding midday sun, Abdullah, a Sudanese asylum seeker, gazes ou...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "China evacuates nearly two million people as powerful typhoon makes landfall",
-        "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-        "description": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
+        "title": "Planes sent to tackle wildfires of 'exceptional scale' near Paris",
+        "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
+        "description": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "The Taliban’s war on education: ‘Nobody talks about what is happening to the boys’",
+        "url": "https://www.theguardian.com/global-development/2026/jul/13/afghanistan-education-taliban-universities-teaching-students-religion-women-islam",
+        "description": "Five years after the ultra-conservative Islamists retook Afghanistan, students describe male pupils being beaten for minor rule breaches and inexperienced teachers struggling to deliver lessonsBefo...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Safe from AI: which jobs will help you thrive in the future?",
         "url": "https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law",
@@ -156,13 +163,6 @@
         "title": "‘Children were calling for their mummies’: UK pupils struggle in 40C-plus classrooms",
         "url": "https://www.theguardian.com/education/2026/jul/11/uk-pupils-struggle-extreme-heat-schools-classrooms",
         "description": "Teachers call for schools to be urgently adapted for hot weather amid reports of nausea, fainting and heatstrokeThe extreme heat that has hit the UK twice in the past few weeks has left teachers st...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Developing countries spend more repaying foreign debt than on education, UN reveals",
-        "url": "https://www.theguardian.com/global-development/2026/jul/10/developing-countries-spend-more-foreign-debt-education-aid-cuts-unesco",
-        "description": "Unesco report shows children lost out to servicing debt in 113 countries, with 18 spending five times more on loansMost developing countries spent less on education than they did repaying debt last...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,16 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "At least 27 killed, eight critically injured in Bangkok bar fire",
+        "title": "At least 27 killed, 22 critically injured after fire engulfs Bangkok bar",
         "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
         "description": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-        "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-        "description": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -209,6 +202,13 @@
         "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
         "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
         "description": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "British couple return to village at heart of deadly Spanish wildfire",
+        "url": "https://www.bbc.co.uk/news/articles/cx24e09x79no?at_medium=RSS&at_campaign=rss",
+        "description": "At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
