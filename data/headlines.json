@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-07-13T19:20:58.460737+00:00",
+  "fetched_at": "2026-07-14T02:23:28.528735+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Andy Burnham secures Labour leadership with landslide support of MPs",
-        "url": "https://www.theguardian.com/politics/2026/jul/13/andy-burnham-confirmed-labour-leader-landslide-support",
-        "description": "Huge number of nominations mean it is impossible for any other candidate to launch leadership challenge\n Andy Burnham has effectively been confirmed as the next Labour party leader after receiving ...",
+        "title": "UK children will be one of unhealthiest generations in decades, doctors say",
+        "url": "https://www.theguardian.com/society/2026/jul/14/children-uk-unhealthiest-generation-decades-doctors-say",
+        "description": "Analysis of 12 indicators including asthma, obesity and vaccination finds child health is ‘national embarrassment’Children in the UK will grow up to be one of the unhealthiest generations in decade...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "‘Coalition of the willing’ to build shared European anti-ballistic programme",
-        "url": "https://www.theguardian.com/world/2026/jul/13/coalition-of-the-willing-build-shared-european-anti-ballistic-programme",
-        "description": "Ukraine and nine other countries including UK issue joint statement as leaders meet Volodymyr Zelenskyy in ParisUkraine and nine other countries including the UK, Germany and France are to build a ...",
+        "title": "Andy Burnham backs controversial asylum bill amid Labour dissent",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/13/andy-burnham-backs-controversial-asylum-bill-amid-labour-dissent",
+        "description": "Prime minister-in-waiting votes for plans to tighten appeals system as 14 Labour MPs oppose measuresAndy Burnham has backed the government’s controversial asylum changes, voting for legislation tha...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Mahmood offers Farage security meeting after Ann Widdecombe’s death",
-        "url": "https://www.theguardian.com/politics/2026/jul/13/mahmood-offers-farage-security-meeting-after-ann-widdecombe-death",
-        "description": "Home secretary insists all MPs treated equally but that security of former MPs and non-Westminster politicians is a concernShabana Mahmood has offered Nigel Farage a personal meeting with the Home ...",
+        "title": "Lawyers to investigate claims of GB power grid cover-up over blackout risk",
+        "url": "https://www.theguardian.com/business/2026/jul/13/lawyers-to-investigate-claims-of-gb-power-grid-cover-up-over-blackout-risk",
+        "description": "Operator brings in independent legal firm to look into whistleblower allegations relating to June heatwaveGreat Britain’s grid operator has brought in independent investigators to look into accusat...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "World Cup and sunshine prompt UK consumers to splash out on beer and online shopping",
+        "url": "https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping",
+        "description": "Despite spending increase in June, Barclays says most people still pessimistic about economyRelentless sunshine and the World Cup coaxed consumers to spend more on beer and online shopping last mon...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "UK must cap political donations to stop the rich buying influence | Heather Stewart",
         "url": "https://www.theguardian.com/politics/2026/jul/12/uk-cap-political-donations-stop-rich-buying-influence",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "World Cup quarter-final expected to generate £500m sales boost for UK economy",
-        "url": "https://www.theguardian.com/business/2026/jul/11/world-cup-quarter-finals-expected-to-generate-half-billion-pound-sales-rise-for-uk-economy",
-        "description": "As England prepare to take on Norway on Saturday, sales of pints, takeaways and new TVs continue to surgeFrom a cosy Norwegian pub to outdoor fan zones packed with hopeful England football fans, Sa...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Volkswagen planning to cut up to 100,000 jobs globally",
-        "url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss",
-        "description": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
+        "title": "The secretive crypto firm backed by Farage's biggest donor",
+        "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
+        "description": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,41 +84,48 @@
         "category": "nhs"
       },
       {
-        "title": "More than 2,700 people may have died in exceptional May and June heatwaves in England and Wales",
-        "url": "https://www.bbc.co.uk/news/articles/czx5zy82n7no?at_medium=RSS&at_campaign=rss",
-        "description": "An early estimate suggests more than 2,700 people will have died from heat-related causes during the UK's exceptionally hot weather in recent months.",
+        "title": "How my period is supercharging my ADHD",
+        "url": "https://www.bbc.co.uk/news/articles/czj8zp9e084o?at_medium=RSS&at_campaign=rss",
+        "description": "A first-of-its-kind study by UK researchers is looking at the link between menstrual cycles and ADHD.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
-        "title": "Burnham expected to vote in favour of Mahmood’s asylum system changes",
+        "title": "Andy Burnham backs controversial asylum bill amid Labour dissent",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/13/andy-burnham-backs-controversial-asylum-bill-amid-labour-dissent",
+        "description": "Prime minister-in-waiting votes for plans to tighten appeals system as 14 Labour MPs oppose measuresAndy Burnham has backed the government’s controversial asylum changes, voting for legislation tha...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "How is Pauline Hanson’s UK trip going down with the locals? | Fiona Katauskas",
+        "url": "https://www.theguardian.com/commentisfree/picture/2026/jul/14/how-is-pauline-hansons-uk-trip-going-down-with-the-locals",
+        "description": "It’s sparking some interesting conversationsSee more of Fiona Katauskas’s cartoons here Continue reading...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Immigration bill amendment will allow removal of Rochdale gang leader",
         "url": "https://www.theguardian.com/uk-news/2026/jul/13/andy-burnham-expected-to-vote-shabana-mahmood-asylum-system-changes",
-        "description": "Home secretary also set to outline plans to enable deportation of grooming gang ringleader Shabir AhmedUK politics live – latest updatesThe home secretary, Shabana Mahmood, will amend the immigrati...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "The Guardian view on Shabir Ahmed: changing the law to deport one man will not win back the public’s trust | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/13/the-guardian-view-on-shabir-ahmed-changing-the-law-to-deport-one-man-will-not-win-back-the-publics-trust",
-        "description": "Grooming gang victims have been treated appallingly and are rightly angry. But the loss of confidence in the criminal justice system goes widerThe home secretary, Shabana Mahmood, is not personally...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Shabana Mahmood tells MPs suspect in Ann Widdecombe investigation ‘not known to Prevent’ – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/13/shabana-mahmood-migration-rochdale-grooming-gang-pakistan-visas-immigration-andy-burnham-labour",
-        "description": "Home secretary updates Parliament after counter-terrorism police take over investigation into her deathAnn Widdecombe death: counter-terrorism police take over investigationThe government has annou...",
+        "description": "Shabana Mahmood to make it possible to deport Commonwealth citizens convicted of serious criminalityThe home secretary, Shabana Mahmood, will amend the immigration bill to allow the deportation of ...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
+        "title": "Lawyers to investigate claims of GB power grid cover-up over blackout risk",
+        "url": "https://www.theguardian.com/business/2026/jul/13/lawyers-to-investigate-claims-of-gb-power-grid-cover-up-over-blackout-risk",
+        "description": "Operator brings in independent legal firm to look into whistleblower allegations relating to June heatwaveGreat Britain’s grid operator has brought in independent investigators to look into accusat...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Firefighting planes scrambled from south of France to tackle huge wildfire near Paris",
         "url": "https://www.theguardian.com/world/2026/jul/13/france-fires-wildfires-fointaineblue-forest-paris",
-        "description": "Officials say blaze in Fontainebleau forest is of ‘exceptional scale’, with 900 homes evacuated and road and rail links hitEurope live – latest updatesFrench firefighters are tackling a blaze of un...",
+        "description": "Officials say blaze in Fontainebleau forest is of ‘exceptional scale’, with 900 homes evacuated and road and rail links hitFrench firefighters are tackling a blaze of unprecedented scale sweeping t...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "British couple killed in Spanish wildfires as authorities race to identify victims",
-        "url": "https://www.theguardian.com/world/2026/jul/13/british-couple-confirmed-to-have-been-killed-by-deadly-wildfires-in-spain",
-        "description": "Appeal for DNA to help identify bodies as local government leader says ‘we are in a state of climate chaos’A British couple have been named as two victims of the wildfires in Spain that have killed...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Wildfire raging south of Paris could have been set deliberately, says minister",
         "url": "https://www.bbc.co.uk/news/articles/clye4z168edo?at_medium=RSS&at_campaign=rss",
-        "description": "It was the first time firefighting planes had been sent up from the normally drier and hotter south of the country to tackle fires in the Paris region.",
+        "description": "The interior minister has said the fire near Paris could have been set deliberately and two people have been arrested.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "How to Trick Your Way onto the Property Ladder review – living in a grave plot? We really are screwed",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/13/how-to-trick-your-way-onto-the-property-ladder-channel-4-oobah-butler-review",
+        "description": "Oobah Butler pulls some fun stunts in this takedown of the housing crisis, such as hypnotising estate agents and renting prison cells. But his trip to a graveyard is brutally symbolicWhy can no one...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Calls for radical action as Burnham told homelessness in England may rise 25% by 2030",
         "url": "https://www.theguardian.com/society/2026/jul/13/radical-action-burnham-homelessness-rise-record-figures-report-england",
         "description": "Exclusive: Report warns an additional 50,000 people could be added to current record figure without bold policiesAndy Burnham has been warned that an additional 50,000 people in England will become...",
@@ -181,20 +188,20 @@
         "description": "President says he would refuse to sign housing bill without passage of voting legislation, but without veto it will still become lawA major housing bill has automatically become law without Donald ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Police say man arrested on suspicion of murder of Ann Widdecombe – UK politics as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/10/andy-burnham-labour-shabana-mahmood-reform-nigel-farage-uk-politics-live-news",
-        "description": "A 26-year-old man in custody and officers say incident is not being treated as terrorism Police arrest man on suspicion of Ann Widdecombe’s murderImmigration policy (see 9.24am) is just one area wh...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Trump reinstating naval blockade of Iranian ports",
+        "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
         "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president also says Washington will charge a 20% toll on all cargo shipped through the Strait of Hormuz.",
+        "description": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "''There was no way to get out': Witnesses describe how deadly inferno swept through Bangkok bar",
+        "url": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss",
+        "description": "A musician who was performing when the fire broke out says he crawled for the exit - and was thrown from the bar when something exploded.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
         "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
         "description": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "At least 28 killed, 25 critically injured after fire engulfs Bangkok bar",
-        "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-        "description": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
