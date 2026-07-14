@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-07-14T13:39:48.810237+00:00",
+  "fetched_at": "2026-07-14T19:17:10.111053+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham says Hillsborough law could shift power and dismantle Westminster’s unaccountability culture – UK politics live",
+        "title": "Foreign Office appoints first special envoy for Britons detained overseas",
+        "url": "https://www.theguardian.com/politics/2026/jul/14/foreign-office-first-special-envoy-british-citizens-detained-overseas",
+        "description": "Alistair Burt will bring diplomatic clout to complex cases involving human rights violations and arbitrary detentionThe Foreign Office has appointed a special envoy for British citizens detained ov...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "MPs say death threats a daily reality in ‘increasing climate of abuse’",
+        "url": "https://www.theguardian.com/politics/2026/jul/14/mp-death-threats-daily-reality-increasing-climate-abuse-intimidation",
+        "description": "As Ann Widdecombe’s death raises concerns over security, politicians reveal extent of problemJess Phillips has received so many death threats she has to remind herself not to be blase. One night sh...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "MPs vote on Hillsborough amendment as Starmer and Burnham address Commons – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/14/ann-widdecombe-nigel-farage-reform-uk-security-protection-burnham-latest-news-updates",
-        "description": "It’s expected that the MP for Makerfield will give his first speech since the by-election campaign during Tuesday’s debateIn response to a question from Alec Shelbrooke (Con), Campbell said he was ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK to continue sending potential trafficking victims to France despite court ruling",
-        "url": "https://www.theguardian.com/politics/2026/jul/14/home-office-asylum-trafficking-court-ruling",
-        "description": "Court ruled last week against policy to reduce protections for asylum seekers facing removal under one in, one out schemeThe Home Office is set to ignore a high court ruling and continue sending as...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Tories deny purge as Lord Barwell hits back after losing party whip",
-        "url": "https://www.theguardian.com/politics/2026/jul/14/tories-deny-purge-lord-barwell-party-whip",
-        "description": "Former minister says decision suggests ‘intolerance of criticism’ but source says it was for problems with conductThe Conservatives have denied they are purging prominent centrists after Gavin Barw...",
+        "description": "Outgoing prime minister opens third reading debate on the Hillsborough law billIn response to a question from Alec Shelbrooke (Con), Campbell said he was “totally unaware” not just of the wording o...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,30 +33,30 @@
     ],
     "economy": [
       {
+        "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran peace deal",
+        "url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
+        "description": "Recent strikes have sent oil prices climbing again, with average gas price per gallon up by 70 cents on last yearInflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire, w...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Trump forced to refund billions in tariffs – The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest",
+        "description": "The US government has been forced to pay billions in refunds to companies that were hit by Donald Trump’s ‘liberation day’ tariffs.The US has paid out $81bn (£61bn) this fiscal year after the supre...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Oil price jumps as US-Iran clashes raise odds of interest rate rises",
         "url": "https://www.theguardian.com/business/2026/jul/14/oil-price-gas-rise-us-iran-interest-rates-stock-markets",
-        "description": "Stock markets fall as analysts price in two quarter-point UK rate rises by the end of the yearBusiness live – latest updatesOil and gas prices have jumped and expectations of interest rate rises in...",
+        "description": "Energy prices later stabilise after Trump abandons plan for 20% levy on traffic through strait of Hormuz Oil and gas prices jumped and expectations of interest rate rises in Europe increased on Tue...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "China’s monthly car ‌exports top 1m for first time as overall trade soars",
-        "url": "https://www.theguardian.com/business/2026/jul/14/china-car-exports-june-trade-us-eu-trump-tariffs",
-        "description": "Country risks new tariffs from US and EU as it looks likely to match or beat last year’s record surplus of $1tnBusiness live – latest updatesChina’s monthly car ‌exports topped 1m for the first tim...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "North Sea oil industry urges Burnham to approve new drilling in UK waters",
-        "url": "https://www.theguardian.com/business/2026/jul/14/north-sea-oil-industry-urges-burnham-approve-more-drilling-uk-waters",
-        "description": "Lobby appeals to prospective PM’s reindustrialisation agenda as it pushes for Rosebank and Jackdaw approvalThe UK’s North Sea oil industry has made a last-ditch attempt to curry favour with the Lab...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "The mysterious crypto firm backed by Farage's biggest donor",
-        "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
-        "description": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
+        "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
+        "url": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss",
+        "description": "The investor's decision comes weeks after Gates' appearance before US Congress over his links to Jeffrey Epstein.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Britons urged to take ‘small steps’ to prepare for potential national crises",
+        "url": "https://www.theguardian.com/politics/2026/jul/14/britons-urged-small-steps-prepare-potential-national-crises",
+        "description": "Government to launch campaign to help people cope with events such as weather emergencies or cyber-attacksThe British public should begin taking “small but important steps” to secure and protect wa...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Most UK media reports on June heatwave failed to mention climate crisis",
         "url": "https://www.theguardian.com/environment/2026/jul/14/most-coverage-june-heatwave-did-not-mention-climate-crisis",
         "description": "Exclusive: Analysis of nearly 2,500 articles finds almost three-quarters made no reference to global heatingMost of the UK media stories about the record-breaking heatwave that struck in June faile...",
@@ -130,39 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "Firefighting planes scrambled from south of France to tackle huge wildfire near Paris",
-        "url": "https://www.theguardian.com/world/2026/jul/13/france-fires-wildfires-fointaineblue-forest-paris",
-        "description": "Officials say blaze in Fontainebleau forest is of ‘exceptional scale’, with 900 homes evacuated and road and rail links hitFrench firefighters are tackling a blaze of unprecedented scale sweeping t...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "How deadly have the heatwaves in England and Wales been?",
-        "url": "https://www.bbc.co.uk/news/videos/c9929nl2m3go?at_medium=RSS&at_campaign=rss",
-        "description": "Experts suggest more than 2,700 people may have died from heat-related causes during the heatwaves.",
+        "title": "Meet 'Gus', the world's most expensive Tyrannosaurus rex",
+        "url": "https://www.bbc.co.uk/news/videos/ckg8gymjv7ro?at_medium=RSS&at_campaign=rss",
+        "description": "The sale price of the 67 million-year-old fossil exceeded the previous record set by a stegosaurus in 2024.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Pilot scheme in England to convert empty classrooms into community hubs",
+        "url": "https://www.theguardian.com/education/2026/jul/14/pilot-scheme-england-convert-empty-classrooms-community-hubs",
+        "description": "Policy to create youth clubs and health centres aims to tackle surplus of school spaces created by falling pupil numbersClassrooms left empty by falling numbers of pupils could soon be converted in...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Humanities among degrees being ‘extinguished’ by hard-up universities",
+        "url": "https://www.theguardian.com/education/2026/jul/14/university-job-cuts-humanities-social-sciences",
+        "description": "Exclusive: Experts fear rise in education ‘cold spots’ and social immobility as 4,000 academic posts lost in one yearThousands of university job cuts in humanities and social sciences are creating ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "The Taliban’s war on education: ‘Nobody talks about what is happening to the boys’",
         "url": "https://www.theguardian.com/global-development/2026/jul/13/afghanistan-education-taliban-universities-teaching-students-religion-women-islam",
         "description": "Five years after the ultra-conservative Islamists retook Afghanistan, students describe male pupils being beaten for minor rule breaches and inexperienced teachers struggling to deliver lessonsBefo...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Safe from AI: which jobs will help you thrive in the future?",
-        "url": "https://www.theguardian.com/money/2026/jul/11/ai-work-jobs-future-medicine-teaching-hotels-law",
-        "description": "Experts say there will still be opportunities ahead in everything from teaching to hotels and the lawEntering the world of work often brings some uncertainty, but now there is another question: how...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘Children were calling for their mummies’: UK pupils struggle in 40C-plus classrooms",
-        "url": "https://www.theguardian.com/education/2026/jul/11/uk-pupils-struggle-extreme-heat-schools-classrooms",
-        "description": "Teachers call for schools to be urgently adapted for hot weather amid reports of nausea, fainting and heatstrokeThe extreme heat that has hit the UK twice in the past few weeks has left teachers st...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Bangkok fire investigation finds locked doors and flammable decor as deaths climb to 30",
-        "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
-        "description": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits.",
+        "title": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
+        "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+        "description": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "'If we die, we die together': Wife of man nearly sucked out of Ryanair plane speaks of ordeal",
-        "url": "https://www.bbc.co.uk/news/articles/cly8yjnw822o?at_medium=RSS&at_campaign=rss",
-        "description": "Svetlana Grković told Serbian media that her husband is \"seriously injured and in shock\".",
+        "title": "Strait of Hormuz remains a fault line as Iran and US drift back into war",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+        "description": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-        "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
-        "description": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
+        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+        "description": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
         "source": "BBC News",
         "category": "foreign_policy"
       }
