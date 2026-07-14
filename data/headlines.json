@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-07-14T02:23:28.528735+00:00",
+  "fetched_at": "2026-07-14T08:01:20.100118+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "‘We are dying little by little here’: asylum seekers at mercy of Home Office hotel closures",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/14/asylum-seekers-mercy-home-office-hotel-closures-legal-challenge",
+        "description": "Legal challenges launched over accommodation ‘adequacy’ as UK government closes more asylum hotelsHuda and her two children aged 10 and 12 had been living in two rooms in a London hotel for six mon...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "North Sea oil industry urges Burnham to approve new drilling in UK waters",
+        "url": "https://www.theguardian.com/business/2026/jul/14/north-sea-oil-industry-urges-burnham-approve-more-drilling-uk-waters",
+        "description": "Lobby appeals to prospective PM’s reindustrialisation agenda as it pushes for Rosebank and Jackdaw approvalThe UK’s North Sea oil industry has made a last-ditch attempt to curry favour with the Lab...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK children will be one of unhealthiest generations in decades, doctors say",
         "url": "https://www.theguardian.com/society/2026/jul/14/children-uk-unhealthiest-generation-decades-doctors-say",
@@ -10,28 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Andy Burnham backs controversial asylum bill amid Labour dissent",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/13/andy-burnham-backs-controversial-asylum-bill-amid-labour-dissent",
-        "description": "Prime minister-in-waiting votes for plans to tighten appeals system as 14 Labour MPs oppose measuresAndy Burnham has backed the government’s controversial asylum changes, voting for legislation tha...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Lawyers to investigate claims of GB power grid cover-up over blackout risk",
-        "url": "https://www.theguardian.com/business/2026/jul/13/lawyers-to-investigate-claims-of-gb-power-grid-cover-up-over-blackout-risk",
-        "description": "Operator brings in independent legal firm to look into whistleblower allegations relating to June heatwaveGreat Britain’s grid operator has brought in independent investigators to look into accusat...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham cements Labour leadership with backing of 349 MPs",
-        "url": "https://www.bbc.co.uk/news/articles/c05y3rj09qqo?at_medium=RSS&at_campaign=rss",
-        "description": "The MP for Makerfield is on track to become the prime minister next week after receiving the support of the vast majority of Labour MPs.",
+        "title": "Chris Mason: Investigation into Widdecombe's death rekindles debate over how to protect politicians",
+        "url": "https://www.bbc.co.uk/news/articles/cvgdgx01y98o?at_medium=RSS&at_campaign=rss",
+        "description": "Many MPs blame social media for normalising violent language and abuse, the BBC's political editor writes.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "North Sea oil industry urges Burnham to approve new drilling in UK waters",
+        "url": "https://www.theguardian.com/business/2026/jul/14/north-sea-oil-industry-urges-burnham-approve-more-drilling-uk-waters",
+        "description": "Lobby appeals to prospective PM’s reindustrialisation agenda as it pushes for Rosebank and Jackdaw approvalThe UK’s North Sea oil industry has made a last-ditch attempt to curry favour with the Lab...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "World Cup and sunshine prompt UK consumers to splash out on beer and online shopping",
         "url": "https://www.theguardian.com/business/2026/jul/14/world-cup-sunshine-uk-consumers-splash-out-on-beer-and-online-shopping",
@@ -47,14 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "‘Super’ El Niño could cause global food price shock lasting into 2028, analysts say",
-        "url": "https://www.theguardian.com/business/2026/jul/12/super-el-nino-severe-shock-global-food-prices-lasting-into-2028-economists-warn",
-        "description": "Weather cycle threatens harvests worldwide, adding to inflation already fuelled by the Iran warEconomists are warning that a “super” El Niño weather cycle this year could cause a severe shock to gl...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "The secretive crypto firm backed by Farage's biggest donor",
+        "title": "The mysterious crypto firm backed by Farage's biggest donor",
         "url": "https://www.bbc.co.uk/news/articles/cg4w6wqye32o?at_medium=RSS&at_campaign=rss",
         "description": "Tether is a giant in crytocurrency, an industry that Nigel Farage believes the UK should be embracing.",
         "source": "BBC News",
@@ -93,9 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "Andy Burnham backs controversial asylum bill amid Labour dissent",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/13/andy-burnham-backs-controversial-asylum-bill-amid-labour-dissent",
-        "description": "Prime minister-in-waiting votes for plans to tighten appeals system as 14 Labour MPs oppose measuresAndy Burnham has backed the government’s controversial asylum changes, voting for legislation tha...",
+        "title": "‘We are dying little by little here’: asylum seekers at mercy of Home Office hotel closures",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/14/asylum-seekers-mercy-home-office-hotel-closures-legal-challenge",
+        "description": "Legal challenges launched over accommodation ‘adequacy’ as UK government closes more asylum hotelsHuda and her two children aged 10 and 12 had been living in two rooms in a London hotel for six mon...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -107,14 +107,21 @@
         "category": "immigration"
       },
       {
-        "title": "Immigration bill amendment will allow removal of Rochdale gang leader",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/13/andy-burnham-expected-to-vote-shabana-mahmood-asylum-system-changes",
-        "description": "Shabana Mahmood to make it possible to deport Commonwealth citizens convicted of serious criminalityThe home secretary, Shabana Mahmood, will amend the immigration bill to allow the deportation of ...",
+        "title": "Andy Burnham backs controversial asylum bill amid Labour dissent",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/13/andy-burnham-backs-controversial-asylum-bill-amid-labour-dissent",
+        "description": "Prime minister-in-waiting votes for plans to tighten appeals system as 14 Labour MPs oppose measuresAndy Burnham has backed the government’s controversial asylum changes, voting for legislation tha...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Most UK media reports on June heatwave failed to mention climate crisis",
+        "url": "https://www.theguardian.com/environment/2026/jul/14/most-coverage-june-heatwave-did-not-mention-climate-crisis",
+        "description": "Exclusive: Analysis of nearly 2,500 articles finds almost three-quarters made no reference to global heatingMost of the UK media stories about the record-breaking heatwave that struck in June faile...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Lawyers to investigate claims of GB power grid cover-up over blackout risk",
         "url": "https://www.theguardian.com/business/2026/jul/13/lawyers-to-investigate-claims-of-gb-power-grid-cover-up-over-blackout-risk",
@@ -126,13 +133,6 @@
         "title": "Firefighting planes scrambled from south of France to tackle huge wildfire near Paris",
         "url": "https://www.theguardian.com/world/2026/jul/13/france-fires-wildfires-fointaineblue-forest-paris",
         "description": "Officials say blaze in Fontainebleau forest is of ‘exceptional scale’, with 900 homes evacuated and road and rail links hitFrench firefighters are tackling a blaze of unprecedented scale sweeping t...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "UK in ‘firewave’ as extreme heat provides ideal conditions for wildfires, experts warn",
-        "url": "https://www.theguardian.com/world/2026/jul/13/conwy-villagers-flee-homes-as-wildfires-burn-in-wales-and-england",
-        "description": "National Fire Chiefs Council say emergency services dealing with 19 wildfires across Britain, many near urban areasThe UK is in the grip of a “firewave”, as the summer’s extreme heat produces the i...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "‘We are dying little by little here’: asylum seekers at mercy of Home Office hotel closures",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/14/asylum-seekers-mercy-home-office-hotel-closures-legal-challenge",
+        "description": "Legal challenges launched over accommodation ‘adequacy’ as UK government closes more asylum hotelsHuda and her two children aged 10 and 12 had been living in two rooms in a London hotel for six mon...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "How to Trick Your Way onto the Property Ladder review – living in a grave plot? We really are screwed",
         "url": "https://www.theguardian.com/tv-and-radio/2026/jul/13/how-to-trick-your-way-onto-the-property-ladder-channel-4-oobah-butler-review",
         "description": "Oobah Butler pulls some fun stunts in this takedown of the housing crisis, such as hypnotising estate agents and renting prison cells. But his trip to a graveyard is brutally symbolicWhy can no one...",
@@ -181,34 +188,27 @@
         "description": "Exclusive: Report warns an additional 50,000 people could be added to current record figure without bold policiesAndy Burnham has been warned that an additional 50,000 people in England will become...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Bipartisan housing bill becomes law despite Trump’s refusal to sign it",
-        "url": "https://www.theguardian.com/us-news/2026/jul/10/housing-bill-becomes-law-without-trump-veto",
-        "description": "President says he would refuse to sign housing bill without passage of voting legislation, but without veto it will still become lawA major housing bill has automatically become law without Donald ...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-        "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-        "description": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the strait.",
+        "title": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
+        "url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+        "description": "Survivors and first responders reported locked doors and a lack of signage marking emergency exits.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "''There was no way to get out': Witnesses describe how deadly inferno swept through Bangkok bar",
-        "url": "https://www.bbc.co.uk/news/articles/crr8gnx01d7o?at_medium=RSS&at_campaign=rss",
-        "description": "A musician who was performing when the fire broke out says he crawled for the exit - and was thrown from the bar when something exploded.",
+        "title": "Australian police reveal unseen photos 25 years after British backpacker murder",
+        "url": "https://www.bbc.co.uk/news/articles/crlwln0gkzlo?at_medium=RSS&at_campaign=rss",
+        "description": "Police hope the images could jog memories that will help them find the body of Peter Falconio.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Briton tells of surviving Spain wildfire in car as wife and friends died trying to run to safety",
-        "url": "https://www.bbc.co.uk/news/articles/cp9ld3p324jo?at_medium=RSS&at_campaign=rss",
-        "description": "Malcolm Timbrell's wife and their friends are thought to have died when a devastating wildfire tore through their village in Spain.",
+        "title": "How US commerce secretary's Epstein links were uncovered by British whistleblower",
+        "url": "https://www.bbc.co.uk/news/articles/c9q28dlyxrzo?at_medium=RSS&at_campaign=rss",
+        "description": "Simon Andriesz made the discovery about Howard Lutnick in publicly released Epstein files.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
