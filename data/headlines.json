@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-07-15T13:40:25.784324+00:00",
+  "fetched_at": "2026-07-15T19:08:09.243579+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer shares tributes and offers ‘full support’ to his successor in his final PMQs before stepping down – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/15/keir-starmer-pmqs-andy-burnham-labour-leadership-kemi-badenoch-conservatives-nigel-farage-reform-uk-politics-live-news",
-        "description": "Lindsay Hoyle thanks Starmer for his leadership, particularly in regard to ‘his steadfast support for UkraineTell us: what do you want from the next Labour leader and UK prime minister?Labour shoul...",
+        "title": "Shabana Mahmood expected to be named Andy Burnham’s chancellor",
+        "url": "https://www.theguardian.com/politics/2026/jul/15/shabana-mahmood-andy-burnham-chancellor",
+        "description": "The home secretary is the frontrunner for the role ahead of ‘risky’ Ed Miliband, according to senior Labour figuresShabana Mahmood has emerged as the frontrunner to become Andy Burnham’s chancellor...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "‘We did pull the levers’: emotional Starmer defends his record",
-        "url": "https://www.theguardian.com/politics/2026/jul/15/keir-starmer-defends-record-pm-final-pmq",
-        "description": "In final PMQs, PM offers Burnham – and England team – full support and defends action on NHS waiting lists, child poverty and economyPolitics live – latest updatesKeir Starmer has defended his reco...",
+        "title": "Andy Burnham signals a wealth tax is off the agenda for now",
+        "url": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-wealth-tax-off-agenda-for-now",
+        "description": "Incoming prime minister says he doesn’t want to ‘create new divisions’ as Mahmood is tipped to be chancellorAndy Burnham has signalled that he will not increase wealth taxes immediately after becom...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham urged to drop ‘flawed’ plans that may let developers bypass environment laws for £1",
-        "url": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-urged-to-drop-planning-changes-harm-nature",
-        "description": "Exclusive: allowing firms to dodge biodiversity protections by paying into levy will harm nature and economy, say 100 experts in letterThe UK government has been accused of “rushing through” planni...",
+        "title": "Andy Burnham’s path to No 10: inside the 17 July Guardian Weekly",
+        "url": "https://www.theguardian.com/news/2026/jul/15/andy-burnhams-path-to-no-10-inside-the-17-july-guardian-weekly",
+        "description": "The challenges facing Britain’s next PM. Plus: Fury amid the rubble in VenezuelaAndy Burnham is to become Britain’s seventh prime minister in a decade, having secured the Labour leadership with the...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Tributes and tears as Starmer takes final Prime Minister's Questions",
+        "title": "Starmer says it's the 'end of my political journey' at his final Prime Minister's Questions",
         "url": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister told MPs it was \"the end of my political journey\", and that he was \"proud of everything I have achieved\".",
+        "description": "MPs on all sides of the House of Commons paid tribute to the departing PM, traded jokes and shared anecdotes.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Cash-strapped Thames Water poses big test for Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
-        "description": "Despite returning to profit after hiking bills 40%, the deeply troubled company is far from out of the woods.",
+        "title": "SpaceX share price drops below stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
+        "description": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Wildfires in Ontario make Toronto air quality worst in world",
+        "url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
+        "description": "Environment Canada has issued health warnings after sky over city turns yellowSmoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Sadiq Khan backs calls for maximum workplace temperature in UK",
         "url": "https://www.theguardian.com/environment/2026/jul/15/sadiq-khan-backs-calls-uk-maximum-workplace-temperature",
         "description": "Mayor of London backs calls from unions to update health and safety rules in light of more frequent heatwavesThe mayor of London, Sadiq Khan, is backing calls for a maximum workplace temperature as...",
@@ -130,39 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "England risks building new ‘death traps’ as experts warn of overheating crisis",
-        "url": "https://www.theguardian.com/politics/2026/jul/15/england-risks-building-death-traps-overheating-crisis-plans",
-        "description": "Vulnerable people more at risk as research finds only half of local authority plans require cooling strategiesEngland risks constructing a new generation of “death trap” buildings that can fatally ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Climate we had in 20th Century 'has now gone' - Met Office",
-        "url": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&at_campaign=rss",
-        "description": "The latest report on the UK's climate warns cold mountainous areas are also being lost.",
+        "title": "Canada wildfires leaves train 'encased in flames' as smoke from drifts towards US",
+        "url": "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o?at_medium=RSS&at_campaign=rss",
+        "description": "The crew was rescued after the close call. Meanwhile, blazes in Canada have left Toronto under a haze and smoke heading towards several major US cities.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Florence Welch’s mother says cuts to arts and humanities ‘absolutely tragic’",
+        "url": "https://www.theguardian.com/education/2026/jul/15/prof-evelyn-welch-arts-humanities-cuts-absolutely-tragic",
+        "description": "Exclusive: Prof Evelyn Welch, vice-chancellor of Bristol University, believes her daughter’s success shows value of arts educationOne of Britain’s leading university vice-chancellors has described ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Students and recent graduates: tell us your best and worst experiences of uni societies",
+        "url": "https://www.theguardian.com/education/2026/jul/15/students-and-recent-graduates-tell-us-your-best-and-worst-experiences-of-uni-societies",
+        "description": "We would like to hear about the highs and lows of university clubs and societiesAs a new academic year approaches, we would like to hear from students and recent graduates (five years ago or less) ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Pilot scheme in England to convert empty classrooms into community hubs",
         "url": "https://www.theguardian.com/education/2026/jul/14/pilot-scheme-england-convert-empty-classrooms-community-hubs",
         "description": "Policy to create youth clubs and health centres aims to tackle surplus of school spaces created by falling pupil numbersClassrooms left empty by falling numbers of pupils could soon be converted in...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Humanities among degrees being ‘extinguished’ by hard-up universities",
-        "url": "https://www.theguardian.com/education/2026/jul/14/university-job-cuts-humanities-social-sciences",
-        "description": "Exclusive: Experts fear rise in education ‘cold spots’ and social immobility as 4,000 academic posts lost in one yearThousands of university job cuts in humanities and social sciences are creating ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "The Taliban’s war on education: ‘Nobody talks about what is happening to the boys’",
-        "url": "https://www.theguardian.com/global-development/2026/jul/13/afghanistan-education-taliban-universities-teaching-students-religion-women-islam",
-        "description": "Five years after the ultra-conservative Islamists retook Afghanistan, students describe male pupils being beaten for minor rule breaches and inexperienced teachers struggling to deliver lessonsBefo...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "French MPs approve assisted dying law with strict rules after years of argument",
+        "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+        "description": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Iran threatens to block more trade routes as US launches fresh strikes",
         "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
         "description": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
@@ -202,13 +209,6 @@
         "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
         "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
         "description": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-        "description": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
