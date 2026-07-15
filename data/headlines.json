@@ -1,38 +1,52 @@
 {
-  "fetched_at": "2026-07-15T08:06:42.908337+00:00",
+  "fetched_at": "2026-07-15T13:40:25.784324+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer faces final Cabinet and PMQs as Burnham nears Labour leadership finish line – UK politics live",
+        "title": "Starmer shares tributes and offers ‘full support’ to his successor in his final PMQs before stepping down – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jul/15/keir-starmer-pmqs-andy-burnham-labour-leadership-kemi-badenoch-conservatives-nigel-farage-reform-uk-politics-live-news",
-        "description": "The outgoing Labour leader will have final talks with his senior ministers in No 10 before taking his last PMQsGood morning. Everyone likes a leaving do and today it’s Keir Starmer’s, or at least h...",
+        "description": "Lindsay Hoyle thanks Starmer for his leadership, particularly in regard to ‘his steadfast support for UkraineTell us: what do you want from the next Labour leader and UK prime minister?Labour shoul...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham urged to overhaul ‘timid and limited’ elections bill",
-        "url": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-strengthen-elections-bill",
-        "description": "Ex-minister who helped write draft calls for bolder action on voting reform, crypto donations and social mediaThe government was “timid” and “incremental” when deciding what to include in its elect...",
+        "title": "‘We did pull the levers’: emotional Starmer defends his record",
+        "url": "https://www.theguardian.com/politics/2026/jul/15/keir-starmer-defends-record-pm-final-pmq",
+        "description": "In final PMQs, PM offers Burnham – and England team – full support and defends action on NHS waiting lists, child poverty and economyPolitics live – latest updatesKeir Starmer has defended his reco...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour must stop just writing a cheque for benefit claimants, says McFadden",
-        "url": "https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform",
-        "description": "Exclusive: Work and pensions secretary signals possible reform to welfare as ministers await key reviewsLabour must stop “simply writing a cheque” for health and disability benefit claimants and wi...",
+        "title": "Burnham urged to drop ‘flawed’ plans that may let developers bypass environment laws for £1",
+        "url": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-urged-to-drop-planning-changes-harm-nature",
+        "description": "Exclusive: allowing firms to dodge biodiversity protections by paying into levy will harm nature and economy, say 100 experts in letterThe UK government has been accused of “rushing through” planni...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer and Burnham hail Hillsborough Law as MPs give approval",
-        "url": "https://www.bbc.co.uk/news/articles/c9q2qwnvd75o?at_medium=RSS&at_campaign=rss",
-        "description": "The legislation cleared the House of Commons in Sir Keir Starmer's final days as prime minister.",
+        "title": "Tributes and tears as Starmer takes final Prime Minister's Questions",
+        "url": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister told MPs it was \"the end of my political journey\", and that he was \"proud of everything I have achieved\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "China’s economy grows at 4.3%, one of its lowest rates on record",
+        "url": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns",
+        "description": "Worse-than-expected figures for three months to June come amid concerns over lopsided economyBusiness live – latest updatesChina has posted worse-than-expected growth figures for the three months t...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Labour should ditch triple-lock pensions promise, says OECD",
+        "url": "https://www.theguardian.com/business/2026/jul/15/labour-should-ditch-triple-lock-pensions-promise-says-oecd",
+        "description": "Organisation’s experts say pledge puts pressure on UK public finances and ‘adds significant fiscal risks’Labour should ditch the triple-lock pensions promise to help tackle the UK’s straitened publ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Labour must stop just writing a cheque for benefit claimants, says McFadden",
         "url": "https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform",
         "description": "Exclusive: Work and pensions secretary signals possible reform to welfare as ministers await key reviewsLabour must stop “simply writing a cheque” for health and disability benefit claimants and wi...",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "AI may be the toughest challenge Anthony Albanese faces this term. Guardrails are urgently needed | Peter Lewis",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese",
-        "description": "Coherent decision-making and internal accountability are critical to meeting this manic momentAnthony Albanese promises fast-track approvals for datacentres to shore up AI investmentThe University ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran peace deal",
-        "url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
-        "description": "Recent strikes have sent oil prices climbing again, with average gas price per gallon up by $0.70 compared with 2025Inflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Thames Water returns to profit after raising bills",
+        "title": "Cash-strapped Thames Water poses big test for Burnham",
         "url": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
-        "description": "The UK's largest water company reported a post-tax profit for the 12 months to the end of March, but its net debt also swelled.",
+        "description": "Despite returning to profit after hiking bills 40%, the deeply troubled company is far from out of the woods.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "Sadiq Khan backs calls for maximum workplace temperature in UK",
+        "url": "https://www.theguardian.com/environment/2026/jul/15/sadiq-khan-backs-calls-uk-maximum-workplace-temperature",
+        "description": "Mayor of London backs calls from unions to update health and safety rules in light of more frequent heatwavesThe mayor of London, Sadiq Khan, is backing calls for a maximum workplace temperature as...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "US trial could reveal who paid hackers to target Exxon climate critics: ‘on the edge of our seats’",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/15/climate-activists-exxon-hired-hackers-trial",
+        "description": "Oil giant has denied involvement, but climate activists are closely watching court case against Israeli private investigator for answersA group of American climate activists are closely watching a ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "England risks building new ‘death traps’ as experts warn of overheating crisis",
         "url": "https://www.theguardian.com/politics/2026/jul/15/england-risks-building-death-traps-overheating-crisis-plans",
         "description": "Vulnerable people more at risk as research finds only half of local authority plans require cooling strategiesEngland risks constructing a new generation of “death trap” buildings that can fatally ...",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "‘Unprecedented’ changes in UK climate are normalising extremes, report says",
-        "url": "https://www.theguardian.com/environment/2026/jul/15/uk-climate-extreme-weather-2025-hottest-year-on-record",
-        "description": "Annual State of the UK Climate analysis finds last four years in UK are in top five hottest on recordThe UK’s climatic extremes are becoming increasingly normal, a report has found, with last year ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires",
-        "url": "https://www.theguardian.com/world/2026/jul/14/seven-britons-among-12-foreign-nationals-killed-in-spains-deadly-wildfires",
-        "description": "Fire broke out last Thursday in the southeastern province of Almería, which is home to many foreign residentsSeven Britons are among 12 foreign nationals killed in wildfires in southern Spain, auth...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
-        "url": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss",
-        "description": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.",
+        "title": "Climate we had in 20th Century 'has now gone' - Met Office",
+        "url": "https://www.bbc.co.uk/news/articles/c802041g4v8o?at_medium=RSS&at_campaign=rss",
+        "description": "The latest report on the UK's climate warns cold mountainous areas are also being lost.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-        "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-        "description": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
+        "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+        "description": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
