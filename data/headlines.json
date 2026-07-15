@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-07-14T19:17:10.111053+00:00",
+  "fetched_at": "2026-07-15T02:21:38.725142+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Burnham hails Hillsborough law as ‘rewiring of the state’ as MPs approve bill",
+        "url": "https://www.theguardian.com/football/2026/jul/14/burnham-hails-hillsborough-law-rewiring-state-mps-approve-bill",
+        "description": "PM-in-waiting says bill is major step towards securing accountability families had fought for, in rare moment of Labour unity Andy Burnham has hailed a power shift from the state to the people as M...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Pilot scheme in England to convert empty classrooms into community hubs",
+        "url": "https://www.theguardian.com/education/2026/jul/14/pilot-scheme-england-convert-empty-classrooms-community-hubs",
+        "description": "Policy to create youth clubs and health centres aims to tackle surplus of school spaces created by falling pupil numbersClassrooms left empty by falling numbers of pupils could soon be converted in...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Foreign Office appoints first special envoy for Britons detained overseas",
         "url": "https://www.theguardian.com/politics/2026/jul/14/foreign-office-first-special-envoy-british-citizens-detained-overseas",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "MPs say death threats a daily reality in ‘increasing climate of abuse’",
-        "url": "https://www.theguardian.com/politics/2026/jul/14/mp-death-threats-daily-reality-increasing-climate-abuse-intimidation",
-        "description": "As Ann Widdecombe’s death raises concerns over security, politicians reveal extent of problemJess Phillips has received so many death threats she has to remind herself not to be blase. One night sh...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "MPs vote on Hillsborough amendment as Starmer and Burnham address Commons – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/14/ann-widdecombe-nigel-farage-reform-uk-security-protection-burnham-latest-news-updates",
-        "description": "Outgoing prime minister opens third reading debate on the Hillsborough law billIn response to a question from Alec Shelbrooke (Con), Campbell said he was “totally unaware” not just of the wording o...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Government failing Farage over security, says Jenrick",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyg9452qlo?at_medium=RSS&at_campaign=rss",
-        "description": "It comes as the police investigation into Ann Widdecombe's death sparks renewed debate over politicians' security.",
+        "title": "Starmer and Burnham hail Hillsborough Law as MPs give approval",
+        "url": "https://www.bbc.co.uk/news/articles/c9q2qwnvd75o?at_medium=RSS&at_campaign=rss",
+        "description": "The legislation cleared the House of Commons in Sir Keir Starmer's final days as prime minister.",
         "source": "BBC News",
         "category": "government"
       }
@@ -35,7 +35,7 @@
       {
         "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran peace deal",
         "url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
-        "description": "Recent strikes have sent oil prices climbing again, with average gas price per gallon up by 70 cents on last yearInflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire, w...",
+        "description": "Recent strikes have sent oil prices climbing again, with average gas price per gallon up by $0.70 compared with 2025Inflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Billionaire Warren Buffett stops donations to Bill Gates charity",
-        "url": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss",
-        "description": "The investor's decision comes weeks after Gates' appearance before US Congress over his links to Jeffrey Epstein.",
+        "title": "Heating oil customers to get compensation after price hikes",
+        "url": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
+        "description": "The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "‘Unprecedented’ changes in UK climate are normalising extremes, report says",
+        "url": "https://www.theguardian.com/environment/2026/jul/15/uk-climate-extreme-weather-2025-hottest-year-on-record",
+        "description": "Annual State of the UK Climate analysis finds last four years in UK are in top five hottest on recordThe UK’s climatic extremes are becoming increasingly normal, a report has found, with last year ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires",
+        "url": "https://www.theguardian.com/world/2026/jul/14/seven-britons-among-12-foreign-nationals-killed-in-spains-deadly-wildfires",
+        "description": "Fire broke out last Thursday in the southeastern province of Almería, which is home to many foreign residentsSeven Britons are among 12 foreign nationals killed in wildfires in southern Spain, auth...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Britons urged to take ‘small steps’ to prepare for potential national crises",
         "url": "https://www.theguardian.com/politics/2026/jul/14/britons-urged-small-steps-prepare-potential-national-crises",
         "description": "Government to launch campaign to help people cope with events such as weather emergencies or cyber-attacksThe British public should begin taking “small but important steps” to secure and protect wa...",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Most UK media reports on June heatwave failed to mention climate crisis",
-        "url": "https://www.theguardian.com/environment/2026/jul/14/most-coverage-june-heatwave-did-not-mention-climate-crisis",
-        "description": "Exclusive: Analysis of nearly 2,500 articles finds almost three-quarters made no reference to global heatingMost of the UK media stories about the record-breaking heatwave that struck in June faile...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Lawyers to investigate claims of GB power grid cover-up over blackout risk",
-        "url": "https://www.theguardian.com/business/2026/jul/13/lawyers-to-investigate-claims-of-gb-power-grid-cover-up-over-blackout-risk",
-        "description": "Operator brings in independent legal firm to look into whistleblower allegations relating to June heatwaveGreat Britain’s grid operator has brought in independent investigators to look into accusat...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Meet 'Gus', the world's most expensive Tyrannosaurus rex",
-        "url": "https://www.bbc.co.uk/news/videos/ckg8gymjv7ro?at_medium=RSS&at_campaign=rss",
-        "description": "The sale price of the 67 million-year-old fossil exceeded the previous record set by a stegosaurus in 2024.",
+        "title": "UK heatwave delivers exceptional sunshine and persistent 30C temperatures",
+        "url": "https://www.bbc.co.uk/weather/articles/cr474wzyl73o?at_medium=RSS&at_campaign=rss",
+        "description": "The current heatwave has been hot, dry and exceptionally sunny with some locations seeing double the number of sunshine hours usually recorded at this point in the month, as Darren Bett explains.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump scraps threat of 20% fee on Hormuz cargo as US prepares to resume blockade of Iran ports",
+        "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
         "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
         "description": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Strait of Hormuz remains a fault line as Iran and US drift back into war",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-        "description": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+        "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
+        "description": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-        "description": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
+        "title": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+        "description": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
