@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-07-15T02:21:38.725142+00:00",
+  "fetched_at": "2026-07-15T08:06:42.908337+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham hails Hillsborough law as ‘rewiring of the state’ as MPs approve bill",
-        "url": "https://www.theguardian.com/football/2026/jul/14/burnham-hails-hillsborough-law-rewiring-state-mps-approve-bill",
-        "description": "PM-in-waiting says bill is major step towards securing accountability families had fought for, in rare moment of Labour unity Andy Burnham has hailed a power shift from the state to the people as M...",
+        "title": "Starmer faces final Cabinet and PMQs as Burnham nears Labour leadership finish line – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/15/keir-starmer-pmqs-andy-burnham-labour-leadership-kemi-badenoch-conservatives-nigel-farage-reform-uk-politics-live-news",
+        "description": "The outgoing Labour leader will have final talks with his senior ministers in No 10 before taking his last PMQsGood morning. Everyone likes a leaving do and today it’s Keir Starmer’s, or at least h...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Pilot scheme in England to convert empty classrooms into community hubs",
-        "url": "https://www.theguardian.com/education/2026/jul/14/pilot-scheme-england-convert-empty-classrooms-community-hubs",
-        "description": "Policy to create youth clubs and health centres aims to tackle surplus of school spaces created by falling pupil numbersClassrooms left empty by falling numbers of pupils could soon be converted in...",
+        "title": "Andy Burnham urged to overhaul ‘timid and limited’ elections bill",
+        "url": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-strengthen-elections-bill",
+        "description": "Ex-minister who helped write draft calls for bolder action on voting reform, crypto donations and social mediaThe government was “timid” and “incremental” when deciding what to include in its elect...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Foreign Office appoints first special envoy for Britons detained overseas",
-        "url": "https://www.theguardian.com/politics/2026/jul/14/foreign-office-first-special-envoy-british-citizens-detained-overseas",
-        "description": "Alistair Burt will bring diplomatic clout to complex cases involving human rights violations and arbitrary detentionThe Foreign Office has appointed a special envoy for British citizens detained ov...",
+        "title": "Labour must stop just writing a cheque for benefit claimants, says McFadden",
+        "url": "https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform",
+        "description": "Exclusive: Work and pensions secretary signals possible reform to welfare as ministers await key reviewsLabour must stop “simply writing a cheque” for health and disability benefit claimants and wi...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "Labour must stop just writing a cheque for benefit claimants, says McFadden",
+        "url": "https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform",
+        "description": "Exclusive: Work and pensions secretary signals possible reform to welfare as ministers await key reviewsLabour must stop “simply writing a cheque” for health and disability benefit claimants and wi...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "AI may be the toughest challenge Anthony Albanese faces this term. Guardrails are urgently needed | Peter Lewis",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese",
+        "description": "Coherent decision-making and internal accountability are critical to meeting this manic momentAnthony Albanese promises fast-track approvals for datacentres to shore up AI investmentThe University ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Inflation cools to 3.5% in June in relief brought by brief US-Iran peace deal",
         "url": "https://www.theguardian.com/business/2026/jul/14/june-cpi-report-inflation-cools-iran-deal",
         "description": "Recent strikes have sent oil prices climbing again, with average gas price per gallon up by $0.70 compared with 2025Inflation cooled to an annual rate of 3.5% in June as the brief US-Iran ceasefire...",
@@ -40,28 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Trump forced to refund billions in tariffs – The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/jul/14/trump-forced-to-refund-billions-in-tariffs-the-latest",
-        "description": "The US government has been forced to pay billions in refunds to companies that were hit by Donald Trump’s ‘liberation day’ tariffs.The US has paid out $81bn (£61bn) this fiscal year after the supre...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil price jumps as US-Iran clashes raise odds of interest rate rises",
-        "url": "https://www.theguardian.com/business/2026/jul/14/oil-price-gas-rise-us-iran-interest-rates-stock-markets",
-        "description": "Energy prices later stabilise after Trump abandons plan for 20% levy on traffic through strait of Hormuz Oil and gas prices jumped and expectations of interest rate rises in Europe increased on Tue...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Heating oil customers to get compensation after price hikes",
-        "url": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss",
-        "description": "The cost of hearing oil spike following the US-Israel war with Iran which forced up crude prices.",
+        "title": "Thames Water returns to profit after raising bills",
+        "url": "https://www.bbc.co.uk/news/articles/c4gygy43103o?at_medium=RSS&at_campaign=rss",
+        "description": "The UK's largest water company reported a post-tax profit for the 12 months to the end of March, but its net debt also swelled.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "I investigated Palantir’s foothold in the British state – and what I found should worry us all | Peter Geoghegan",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/15/palantir-british-state-political-access-us-tech-firm-nhs",
+        "description": "Paid-for political access and threadbare regulations have helped to embed the US tech firm in the NHS – and beyond. But there is a way to free ourselvesAndy Burnham faces a lot of big decisions. Bu...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "NHS anaesthetist shortage prevents 1.5m operations a year, report finds",
         "url": "https://www.theguardian.com/society/2026/jul/11/nhs-anaesthetist-shortage-prevents-operations",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "UK swelters in third heatwave of the year as western Europe counts cost of hottest-ever June",
-        "url": "https://www.theguardian.com/environment/2026/jul/09/uk-swelters-third-heatwave-western-europe-counts-cost-hottest-ever-june",
-        "description": "Britain expands heat alerts while estimates suggest June’s death toll could surpass 20,000 across continentThe UK is sweltering through the peak of its third heatwave of the year as countries aroun...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Covid inquiry PPE report - key findings",
         "url": "https://www.bbc.co.uk/news/articles/c07y7zj43jmo?at_medium=RSS&at_campaign=rss",
         "description": "What went wrong with the government's planning and buying of vital items like gloves and gowns that cost taxpayers billions of pounds.",
@@ -93,9 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "‘We are dying little by little here’: asylum seekers at mercy of Home Office hotel closures",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/14/asylum-seekers-mercy-home-office-hotel-closures-legal-challenge",
-        "description": "Legal challenges launched over accommodation ‘adequacy’ as UK government closes more asylum hotelsHuda and her two children aged 10 and 12 had been living in two rooms in a London hotel for six mon...",
+        "title": "Green-led council plans to ban cooperation with Home Office on immigration raids",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/15/green-led-council-plans-to-ban-cooperation-with-home-office-on-immigration-raids",
+        "description": "Exclusive: Lewisham council’s move marks first step in Greens’ plan to create a corridor of sanctuary boroughs across LondonA Green-led London council is planning to ban its officials from working ...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -107,14 +107,21 @@
         "category": "immigration"
       },
       {
-        "title": "How is Pauline Hanson’s UK trip going down with the locals? | Fiona Katauskas",
-        "url": "https://www.theguardian.com/commentisfree/picture/2026/jul/14/how-is-pauline-hansons-uk-trip-going-down-with-the-locals",
-        "description": "It’s sparking some interesting conversationsSee more of Fiona Katauskas’s cartoons here Continue reading...",
+        "title": "‘We are dying little by little here’: asylum seekers at mercy of Home Office hotel closures",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/14/asylum-seekers-mercy-home-office-hotel-closures-legal-challenge",
+        "description": "Legal challenges launched over accommodation ‘adequacy’ as UK government closes more asylum hotelsHuda and her two children aged 10 and 12 had been living in two rooms in a London hotel for six mon...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "England risks building new ‘death traps’ as experts warn of overheating crisis",
+        "url": "https://www.theguardian.com/politics/2026/jul/15/england-risks-building-death-traps-overheating-crisis-plans",
+        "description": "Vulnerable people more at risk as research finds only half of local authority plans require cooling strategiesEngland risks constructing a new generation of “death trap” buildings that can fatally ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "‘Unprecedented’ changes in UK climate are normalising extremes, report says",
         "url": "https://www.theguardian.com/environment/2026/jul/15/uk-climate-extreme-weather-2025-hottest-year-on-record",
@@ -126,13 +133,6 @@
         "title": "Seven Britons among 12 foreign nationals killed in Spain’s deadly wildfires",
         "url": "https://www.theguardian.com/world/2026/jul/14/seven-britons-among-12-foreign-nationals-killed-in-spains-deadly-wildfires",
         "description": "Fire broke out last Thursday in the southeastern province of Almería, which is home to many foreign residentsSeven Britons are among 12 foreign nationals killed in wildfires in southern Spain, auth...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Britons urged to take ‘small steps’ to prepare for potential national crises",
-        "url": "https://www.theguardian.com/politics/2026/jul/14/britons-urged-small-steps-prepare-potential-national-crises",
-        "description": "Government to launch campaign to help people cope with events such as weather emergencies or cyber-attacksThe British public should begin taking “small but important steps” to secure and protect wa...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump scraps threat of 20% fee on Hormuz cargo as US resumes blockade of Iran ports",
+        "title": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
         "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-        "description": "Trump drops a 24-hour-old vow to charge cargo ships for using the Strait as the US continues its battle to break Iran's hold on the waterway.",
+        "description": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
