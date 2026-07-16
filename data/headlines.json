@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-07-16T08:10:14.636942+00:00",
+  "fetched_at": "2026-07-16T13:46:42.314408+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Making Mahmood chancellor shows Burnham ‘subservient to City’, claims Polanski – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates",
+        "description": "Green leader says expected appointment shows new PM ‘won’t challenge the power of the bankers, or tax their wealth’Couples could legally marry in forests, on beaches, at sea or in their gardens und...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK government drops plan to stop paying coastguard volunteers",
+        "url": "https://www.theguardian.com/society/2026/jul/16/uk-government-drops-plan-stop-paying-coastguard-volunteers",
+        "description": "Move raises questions over position of the head of the Maritime and Coastguard AgencyUK politics live – latest updatesMinisters have U-turned on plans to strip volunteer coastguard officers of thei...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK economy grew by 0.1% in May despite impact of Iran war",
         "url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
@@ -10,28 +24,21 @@
         "category": "government"
       },
       {
-        "title": "British Steel is taken into public ownership to save UK supply",
-        "url": "https://www.theguardian.com/business/2026/jul/16/british-steel-public-ownership-save-uk-supply-scunthorpe",
-        "description": "Scunthorpe factory is expropriated from China’s Jingye and ministers will ask a valuer to assess compensationBritish Steel has formally been taken into public ownership 15 months after the governme...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "British girl, 15, stranded in Rome for six weeks due to new passport rules",
-        "url": "https://www.theguardian.com/politics/2026/jul/16/british-girl-stranded-rome-six-weeks-new-passport-rules",
-        "description": "The dual national, who missed six weeks of school, is latest of several children affected by recent Home Office policyA British girl was prevented from returning to her school in the UK for six wee...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham faces crucial choice for chancellor as battle for No 11 continues",
-        "url": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss",
-        "description": "Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson.",
+        "title": "Who is the frontrunner to be the UK's next chancellor?",
+        "url": "https://www.bbc.co.uk/news/articles/c36yj4pn7jdo?at_medium=RSS&at_campaign=rss",
+        "description": "Andy Burnham will be moving into Downing Street next week, and a question remains over who will be his neighbour in Number 11.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Making Mahmood chancellor shows Burnham ‘subservient to City’, claims Polanski – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates",
+        "description": "Green leader says expected appointment shows new PM ‘won’t challenge the power of the bankers, or tax their wealth’Couples could legally marry in forests, on beaches, at sea or in their gardens und...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "UK economy grew by 0.1% in May despite impact of Iran war",
         "url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
@@ -43,13 +50,6 @@
         "title": "China’s economy grows at 4.3%, one of its lowest rates on record",
         "url": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns",
         "description": "Worse-than-expected figures for three months to June come amid concerns over lopsided economyBusiness live – latest updatesChina has posted worse-than-expected growth figures for the three months t...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Labour should ditch triple-lock pensions promise, says OECD",
-        "url": "https://www.theguardian.com/business/2026/jul/15/labour-should-ditch-triple-lock-pensions-promise-says-oecd",
-        "description": "Organisation’s experts say pledge puts pressure on UK public finances and ‘adds significant fiscal risks’Labour should ditch the triple-lock pensions promise to help tackle the UK’s straitened publ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "NHS manager says trust wanted 4,000 reports 'gone'",
-        "url": "https://www.bbc.co.uk/news/articles/c6212klngkko?at_medium=RSS&at_campaign=rss",
-        "description": "He tells an inquiry he believed a trust was 'panicking' and was discouraged from raising rota issues.",
+        "title": "Teenagers from 15 should be given free MenB vaccine, say UK experts",
+        "url": "https://www.bbc.co.uk/news/articles/c74glj9zkzko?at_medium=RSS&at_campaign=rss",
+        "description": "Advisers are asking the government to consider introducing MenB jabs routinely for secondary school-aged people to better protect them.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
-        "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
-        "description": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
+        "title": "Volunteer firefighter suspected of starting devastating France forest fire",
+        "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
+        "description": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "‘People think you’ve got 10,000 cats’: the support group for hoarders",
+        "url": "https://www.theguardian.com/society/2026/jul/16/hoarders-wirral-peer-support-group-housing",
+        "description": "Many hoarders are scared to seek help but one UK housing association is taking a more empathetic approachAt one end of the table sits Tony*, who showers at his local leisure centre in Birkenhead ev...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "The most beautiful act of resistance I’ve seen: Madrid tenants fighting landlords with art | Leah Pattem",
         "url": "https://www.theguardian.com/commentisfree/2026/jul/16/madrid-landlords-art-investment-fund-creativity",
         "description": "When an investment fund bought their building, the residents of Tribulete 7 protested in the only way they knew how – through radical creativitySpain’s housing crisis finally came for the tenants o...",
@@ -181,34 +188,27 @@
         "description": "Legal challenges launched over accommodation ‘adequacy’ as UK government closes more asylum hotelsHuda and her two children aged 10 and 12 had been living in two rooms in a London hotel for six mon...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "How to Trick Your Way onto the Property Ladder review – living in a grave plot? We really are screwed",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/jul/13/how-to-trick-your-way-onto-the-property-ladder-channel-4-oobah-butler-review",
-        "description": "Oobah Butler pulls some fun stunts in this takedown of the housing crisis, such as hypnotising estate agents and renting prison cells. But his trip to a graveyard is brutally symbolicWhy can no one...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Iran targets military bases as US launches wave of strikes",
-        "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-        "description": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
+        "title": "Italian officials handed jail terms for Genoa bridge disaster that killed 43",
+        "url": "https://www.bbc.co.uk/news/articles/c36dnz1zez5o?at_medium=RSS&at_campaign=rss",
+        "description": "The ex-head of Italy's motorway operator Giovanni Castellucci was handed a 12-year term over the 2018 bridge collapse.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Argentina face action over Falklands banner",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
-        "description": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Fal...",
+        "title": "Protests in Ukrainian cities against Zelensky's removal of defence minister",
+        "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's president has not explained Mykhailo Fedorov's dismissal, which is causing great upset among civil society and the military.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Families of 43 victims await verdict in Genoa bridge disaster",
-        "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
-        "description": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
+        "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
+        "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
+        "description": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
