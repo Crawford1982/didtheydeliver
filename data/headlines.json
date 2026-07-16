@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-07-16T02:29:05.463060+00:00",
+  "fetched_at": "2026-07-16T08:10:14.636942+00:00",
   "headlines": {
     "government": [
       {
-        "title": "The Andy Burnham I know – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/jul/16/the-andy-burnham-i-know-podcast",
-        "description": "Today in Focus hears from friends, colleagues and mentors of Andy Burnham to find out more about the man soon to be prime ministerOn Monday, Andy Burnham will become the UK prime minister.The forme...",
+        "title": "UK economy grew by 0.1% in May despite impact of Iran war",
+        "url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+        "description": "Rise in GDP follows a 0.1% decline in April, figures from the Office for National Statistics showThe UK economy returned to growth in May, despite the impact of the Iran war on energy costs, offici...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Shabana Mahmood expected to be named Andy Burnham’s chancellor",
-        "url": "https://www.theguardian.com/politics/2026/jul/15/shabana-mahmood-andy-burnham-chancellor",
-        "description": "The home secretary is the frontrunner for the role ahead of ‘risky’ Ed Miliband, according to senior Labour figuresShabana Mahmood has emerged as the frontrunner to become Andy Burnham’s chancellor...",
+        "title": "British Steel is taken into public ownership to save UK supply",
+        "url": "https://www.theguardian.com/business/2026/jul/16/british-steel-public-ownership-save-uk-supply-scunthorpe",
+        "description": "Scunthorpe factory is expropriated from China’s Jingye and ministers will ask a valuer to assess compensationBritish Steel has formally been taken into public ownership 15 months after the governme...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham signals a wealth tax is off the agenda for now",
-        "url": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-wealth-tax-off-agenda-for-now",
-        "description": "Incoming prime minister says he doesn’t want to ‘create new divisions’ as Mahmood is tipped to be chancellorAndy Burnham has signalled that he will not increase wealth taxes immediately after becom...",
+        "title": "British girl, 15, stranded in Rome for six weeks due to new passport rules",
+        "url": "https://www.theguardian.com/politics/2026/jul/16/british-girl-stranded-rome-six-weeks-new-passport-rules",
+        "description": "The dual national, who missed six weeks of school, is latest of several children affected by recent Home Office policyA British girl was prevented from returning to her school in the UK for six wee...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Starmer says it's the 'end of my political journey' at his final Prime Minister's Questions",
-        "url": "https://www.bbc.co.uk/news/articles/c5yzynxwk05o?at_medium=RSS&at_campaign=rss",
-        "description": "MPs on all sides of the House of Commons paid tribute to the departing PM, traded jokes and shared anecdotes.",
+        "title": "Burnham faces crucial choice for chancellor as battle for No 11 continues",
+        "url": "https://www.bbc.co.uk/news/articles/ceqe55d0q9po?at_medium=RSS&at_campaign=rss",
+        "description": "Whoever Burnham appoints to the key role will send a signal of his intent, writes Iain Watson.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "UK economy grew by 0.1% in May despite impact of Iran war",
+        "url": "https://www.theguardian.com/business/2026/jul/16/uk-economy-grew-gdp-despite-iran-war",
+        "description": "Rise in GDP follows a 0.1% decline in April, figures from the Office for National Statistics showThe UK economy returned to growth in May, despite the impact of the Iran war on energy costs, offici...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "China’s economy grows at 4.3%, one of its lowest rates on record",
         "url": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Labour must stop just writing a cheque for benefit claimants, says McFadden",
-        "url": "https://www.theguardian.com/society/2026/jul/15/labour-stop-writing-cheque-benefit-claimants-pat-mcfadden-welfare-reform",
-        "description": "Exclusive: Work and pensions secretary signals possible reform to welfare as ministers await key reviewsLabour must stop “simply writing a cheque” for health and disability benefit claimants and wi...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
-        "url": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss",
-        "description": "The chief executive of Wild reveals what happens behind the scenes of social media posts.",
+        "title": "British Steel taken into public ownership to protect 'vital' UK supply",
+        "url": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss",
+        "description": "The Scunthorpe steelworks has been officially nationalised under new government powers passed this week.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,6 +70,13 @@
         "category": "nhs"
       },
       {
+        "title": "All newborns in England to be screened for spinal muscular atrophy from 2027",
+        "url": "https://www.theguardian.com/society/2026/jul/16/newborns-babies-england-spinal-muscular-atrophy-sma-screening",
+        "description": "Campaigners hail ‘landmark moment’ in early detection and treatment of rare muscle-wasting diseaseEvery baby born in England will be screened for a rare muscle-wasting disease, starting next year, ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "I investigated Palantir’s foothold in the British state – and what I found should worry us all | Peter Geoghegan",
         "url": "https://www.theguardian.com/commentisfree/2026/jul/15/palantir-british-state-political-access-us-tech-firm-nhs",
         "description": "Paid-for political access and threadbare regulations have helped to embed the US tech firm in the NHS – and beyond. But there is a way to free ourselvesAndy Burnham faces a lot of big decisions. Bu...",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "NHS anaesthetist shortage prevents 1.5m operations a year, report finds",
-        "url": "https://www.theguardian.com/society/2026/jul/11/nhs-anaesthetist-shortage-prevents-operations",
-        "description": "Exclusive: Alarming shortfall of specialists stops about 4,000 procedures a day, many for patients in urgent need of surgeryThe NHS is unable to perform 1.5m operations a year because of a drastic ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Jesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'",
-        "url": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&at_campaign=rss",
-        "description": "All newborn babies are set to have a heel prick test for Spinal Muscular Atrophy (SMA) in England.",
+        "title": "NHS manager says trust wanted 4,000 reports 'gone'",
+        "url": "https://www.bbc.co.uk/news/articles/c6212klngkko?at_medium=RSS&at_campaign=rss",
+        "description": "He tells an inquiry he believed a trust was 'panicking' and was discouraged from raising rota issues.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Wildfire smoke engulfs Toronto as unhealthy air reaches New York - video",
+        "url": "https://www.theguardian.com/world/video/2026/jul/16/wildfire-smoke-engulfs-toronto-as-unhealthy-air-reaches-new-york-video",
+        "description": "Smoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the world and caused yellow, smoky air in cities across the north-east US. 'You co...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Train crew in Canada 'encased' by intense flames amid wildfires - video",
         "url": "https://www.theguardian.com/world/video/2026/jul/16/train-crew-in-canada-encased-by-intense-flames-amid-wildfires-video",
         "description": "Video footage of a train near the community of Armstrong, Ontario, highlights the speed and ferocity of one of more than 100 wildfires currently burning in Canada. 'This could potentially overtake ...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Wildfires in Ontario make Toronto air quality worst in world",
-        "url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
-        "description": "Environment Canada has issued health warnings after sky over city turns yellowSmoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Weekend cooldown to mark end of heatwave for some",
-        "url": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&at_campaign=rss",
-        "description": "Temperatures are set to fall by several degrees in some areas, including parts of Scotland, Northern Ireland and northern England.",
+        "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+        "url": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "The most beautiful act of resistance I’ve seen: Madrid tenants fighting landlords with art | Leah Pattem",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/16/madrid-landlords-art-investment-fund-creativity",
+        "description": "When an investment fund bought their building, the residents of Tribulete 7 protested in the only way they knew how – through radical creativitySpain’s housing crisis finally came for the tenants o...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "‘We are dying little by little here’: asylum seekers at mercy of Home Office hotel closures",
         "url": "https://www.theguardian.com/uk-news/2026/jul/14/asylum-seekers-mercy-home-office-hotel-closures-legal-challenge",
         "description": "Legal challenges launched over accommodation ‘adequacy’ as UK government closes more asylum hotelsHuda and her two children aged 10 and 12 had been living in two rooms in a London hotel for six mon...",
@@ -181,34 +188,27 @@
         "description": "Oobah Butler pulls some fun stunts in this takedown of the housing crisis, such as hypnotising estate agents and renting prison cells. But his trip to a graveyard is brutally symbolicWhy can no one...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Calls for radical action as Burnham told homelessness in England may rise 25% by 2030",
-        "url": "https://www.theguardian.com/society/2026/jul/13/radical-action-burnham-homelessness-rise-record-figures-report-england",
-        "description": "Exclusive: Report warns an additional 50,000 people could be added to current record figure without bold policiesAndy Burnham has been warned that an additional 50,000 people in England will become...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "French MPs approve assisted dying law with strict rules after years of argument",
-        "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-        "description": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+        "title": "Iran targets military bases as US launches wave of strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
+        "description": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-        "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-        "description": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Argentina face action after waving Falklands banner",
+        "title": "Argentina face action over Falklands banner",
         "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
         "description": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Fal...",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+        "url": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
+        "description": "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
