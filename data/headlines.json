@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-15T19:08:09.243579+00:00",
+  "fetched_at": "2026-07-16T02:29:05.463060+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "The Andy Burnham I know – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/16/the-andy-burnham-i-know-podcast",
+        "description": "Today in Focus hears from friends, colleagues and mentors of Andy Burnham to find out more about the man soon to be prime ministerOn Monday, Andy Burnham will become the UK prime minister.The forme...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Shabana Mahmood expected to be named Andy Burnham’s chancellor",
         "url": "https://www.theguardian.com/politics/2026/jul/15/shabana-mahmood-andy-burnham-chancellor",
@@ -13,13 +20,6 @@
         "title": "Andy Burnham signals a wealth tax is off the agenda for now",
         "url": "https://www.theguardian.com/politics/2026/jul/15/andy-burnham-wealth-tax-off-agenda-for-now",
         "description": "Incoming prime minister says he doesn’t want to ‘create new divisions’ as Mahmood is tipped to be chancellorAndy Burnham has signalled that he will not increase wealth taxes immediately after becom...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Andy Burnham’s path to No 10: inside the 17 July Guardian Weekly",
-        "url": "https://www.theguardian.com/news/2026/jul/15/andy-burnhams-path-to-no-10-inside-the-17-july-guardian-weekly",
-        "description": "The challenges facing Britain’s next PM. Plus: Fury amid the rubble in VenezuelaAndy Burnham is to become Britain’s seventh prime minister in a decade, having secured the Labour leadership with the...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "SpaceX share price drops below stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss",
-        "description": "Share trading in Elon Musk’s rocket company has been volatile since it went public a month ago.",
+        "title": "Celebrity influencers paid up to £1m to advertise deodorant on Instagram",
+        "url": "https://www.bbc.co.uk/news/articles/cvgegqrp656o?at_medium=RSS&at_campaign=rss",
+        "description": "The chief executive of Wild reveals what happens behind the scenes of social media posts.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Black doctors in England four times less likely to get training places than white counterparts",
+        "url": "https://www.theguardian.com/society/2026/jul/15/black-doctors-england-training-white-colleagues-nhs-analysis",
+        "description": "For one placement, black applicants had a less than 1 in 100 chance of being offered a place, NHS data showsBlack doctors in England are four times less likely to be offered a training place than t...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "I investigated Palantir’s foothold in the British state – and what I found should worry us all | Peter Geoghegan",
         "url": "https://www.theguardian.com/commentisfree/2026/jul/15/palantir-british-state-political-access-us-tech-firm-nhs",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "MPs urge Labour to ditch £330m Palantir software contract with NHS",
-        "url": "https://www.theguardian.com/politics/2026/jul/09/mps-urge-labour-to-ditch-330m-palantir-software-contract-with-nhs",
-        "description": "Cross-party group backs call from science and technology committee to look at alternative options, citing ‘serious mistrust’A second parliamentary committee has urged Labour to scrap Palantir’s £33...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Covid inquiry PPE report - key findings",
-        "url": "https://www.bbc.co.uk/news/articles/c07y7zj43jmo?at_medium=RSS&at_campaign=rss",
-        "description": "What went wrong with the government's planning and buying of vital items like gloves and gowns that cost taxpayers billions of pounds.",
+        "title": "Jesy Nelson calls plan to test newborns for deadly muscle condition a 'victory'",
+        "url": "https://www.bbc.co.uk/news/articles/c07y77exx8eo?at_medium=RSS&at_campaign=rss",
+        "description": "All newborn babies are set to have a heel prick test for Spinal Muscular Atrophy (SMA) in England.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "Train crew in Canada 'encased' by intense flames amid wildfires - video",
+        "url": "https://www.theguardian.com/world/video/2026/jul/16/train-crew-in-canada-encased-by-intense-flames-amid-wildfires-video",
+        "description": "Video footage of a train near the community of Armstrong, Ontario, highlights the speed and ferocity of one of more than 100 wildfires currently burning in Canada. 'This could potentially overtake ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "How global heating supercharged floods in West Africa, displacing thousands",
+        "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
+        "description": "Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warnDozens of people drowned, hundreds had to be rescued and thousands were displaced when flo...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Wildfires in Ontario make Toronto air quality worst in world",
         "url": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
         "description": "Environment Canada has issued health warnings after sky over city turns yellowSmoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the ...",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Sadiq Khan backs calls for maximum workplace temperature in UK",
-        "url": "https://www.theguardian.com/environment/2026/jul/15/sadiq-khan-backs-calls-uk-maximum-workplace-temperature",
-        "description": "Mayor of London backs calls from unions to update health and safety rules in light of more frequent heatwavesThe mayor of London, Sadiq Khan, is backing calls for a maximum workplace temperature as...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "US trial could reveal who paid hackers to target Exxon climate critics: ‘on the edge of our seats’",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/15/climate-activists-exxon-hired-hackers-trial",
-        "description": "Oil giant has denied involvement, but climate activists are closely watching court case against Israeli private investigator for answersA group of American climate activists are closely watching a ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Canada wildfires leaves train 'encased in flames' as smoke from drifts towards US",
-        "url": "https://www.bbc.co.uk/news/articles/clyjnnrp2k7o?at_medium=RSS&at_campaign=rss",
-        "description": "The crew was rescued after the close call. Meanwhile, blazes in Canada have left Toronto under a haze and smoke heading towards several major US cities.",
+        "title": "Weekend cooldown to mark end of heatwave for some",
+        "url": "https://www.bbc.co.uk/weather/articles/c8929jdz83po?at_medium=RSS&at_campaign=rss",
+        "description": "Temperatures are set to fall by several degrees in some areas, including parts of Scotland, Northern Ireland and northern England.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Iran threatens to block more trade routes as US launches fresh strikes",
+        "title": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
         "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-        "description": "US President Donald Trump vowed to strike Iran's bridges and power plants next week if the country does not return to talks.",
+        "description": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-        "url": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-        "description": "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months.",
+        "title": "Argentina face action after waving Falklands banner",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&at_campaign=rss",
+        "description": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Fal...",
         "source": "BBC News",
         "category": "foreign_policy"
       }
