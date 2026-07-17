@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-07-17T08:07:33.774946+00:00",
+  "fetched_at": "2026-07-17T13:24:31.537902+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham to say his government will be ‘unashamedly Labour’ in first speech as party leader – UK politics live",
+        "title": "Burnham calls for party unity and ‘new politics’ in first speech as Labour leader – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jul/17/andy-burnham-labour-leader-speech-latest-news-updates",
-        "description": "‘Special conference’ to take place at noon where Burnham will be formally announced as Labour leaderZack Polanski, the Green party leader, used to be relatively positive about the prospect of Andy ...",
+        "description": "Burnham criticises ‘decades of neoliberalism’ and says he wants to give people ‘hope back’When Andy Burnham first tried to return to the Commons, by applying to be Labour’s candidate in the Gorton ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Andy Burnham becomes Labour leader in final step towards becoming UK PM",
+        "url": "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm",
+        "description": "Former Greater Manchester mayor says he is ready to beat the ‘new right’ and give power back to ‘the place where you live’UK politics live – latest updatesAndy Burnham has declared himself ready to...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Andy Burnham to promise to ‘fix the big things’ in first speech as Labour leader",
-        "url": "https://www.theguardian.com/politics/2026/jul/16/andy-burnham-keir-starmer-no-10-advisers",
-        "description": "Burnham, who is set to take the job on Friday, will promise to give back control to communities and spread growthAndy Burnham will pledge he has the “courage to fix the big things that politics has...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-        "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-        "description": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
+        "title": "Five headaches Andy Burnham will have to deal with as PM",
+        "url": "https://www.bbc.co.uk/news/articles/c62122pgjqdo?at_medium=RSS&at_campaign=rss",
+        "description": "From defence spending to housing - the next UK leader has a series of challenges to deal with.",
         "source": "BBC News",
         "category": "government"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Energy drinks to be banned for under-16s in England from April",
-        "url": "https://www.bbc.co.uk/news/articles/czrjg0jxkpno?at_medium=RSS&at_campaign=rss",
-        "description": "It will be illegal to sell high-caffeine beverages to under-16s from April next year, but soft drinks with lower caffeine levels will not be affected.",
+        "title": "What type of procrastinator are you - and how to fix it now (not later)",
+        "url": "https://www.bbc.co.uk/news/articles/cpv3eky4w2do?at_medium=RSS&at_campaign=rss",
+        "description": "The nine types of stalling that researchers say can reveal something deeper about us and why it's not always bad.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘My eyes were stinging’: New Yorkers navigate smoky air and soaring temperatures",
+        "url": "https://www.theguardian.com/us-news/2026/jul/17/new-york-poor-air-quality-wildfire",
+        "description": "Pollution levels in the city were elevated as smoke from Canadian wildfires drifted south across a huge swathe of the US The sun shone feebly through the thick haze. The smell of burning wood hung ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "‘We are waiting with bated breath’: experts alarmed as BoM says gathering El Niño could be strongest on record",
         "url": "https://www.theguardian.com/environment/2026/jul/17/record-el-nino-forecast-2027-hottest-year-on-record-bom-says",
         "description": "Most Australian capital cities have at least 80% chance of unusually warm and dry spring as climatologists watch developing system with increasing alarmFollow our Australia news live blog for lates...",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Train crew in Canada 'encased' by intense flames amid wildfires - video",
-        "url": "https://www.theguardian.com/world/video/2026/jul/16/train-crew-in-canada-encased-by-intense-flames-amid-wildfires-video",
-        "description": "Video footage of a train near the community of Armstrong, Ontario, highlights the speed and ferocity of one of more than 100 wildfires currently burning in Canada. 'This could potentially overtake ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "UK heatwave approaches two-week mark",
-        "url": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss",
-        "description": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 13 days. Sarah Keith-Lucas looks at how unusual this spell of heat is, and whe...",
+        "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
+        "url": "https://www.bbc.co.uk/news/articles/cy4kdd1e0ejo?at_medium=RSS&at_campaign=rss",
+        "description": "Researchers have found an Earth-like, rocky planet orbiting within the habitable zone of a distant star with an atmosphere.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "The school holidays are here – let’s play ‘arguing over screen time’: the Stephen Collins cartoon",
+        "url": "https://www.theguardian.com/lifeandstyle/picture/2026/jul/17/wars-over-screen-time-stephen-collins-cartoon",
+        "description": "Continue reading...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike",
         "url": "https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk",
@@ -156,13 +163,6 @@
         "title": "National Year of Reading should extend to a decade, inquiry says",
         "url": "https://www.theguardian.com/books/2026/jul/17/national-year-of-reading-should-extend-to-a-decade-inquiry-says",
         "description": "The education committee also proposed a National Reading Guarantee, ensuring all children have frequent opportunities to enjoy readingThe National Year of Reading should be extended to a National D...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Private schools offer 41% more tree shade than state schools in England",
-        "url": "https://www.theguardian.com/education/2026/jul/16/private-schools-more-tree-shade-state-schools-england",
-        "description": "Analysis reveals stark socioeconomic divide, with schools with highest free school meal eligibility having fewer treesPrivate school grounds in England offer 41% more tree cover than at state schoo...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "US launches new strikes as Iran says civilian infrastructure hit",
+        "title": "Iran accuses US of hitting civilian infrastructure",
         "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-        "description": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
+        "description": "The US military says its attacks were intended to \"further degrade Iranian military capabilities\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump alleges 'shocking vulnerabilities' in US election security ahead of midterms",
+        "title": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
         "url": "https://www.bbc.co.uk/news/articles/cx2k9wvv5wyo?at_medium=RSS&at_campaign=rss",
-        "description": "The president accuses China of meddling in the 2020 election, directly contradicting past findings from US intelligence.",
+        "description": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
