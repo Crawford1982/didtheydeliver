@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-16T19:06:57.751262+00:00",
+  "fetched_at": "2026-07-17T02:31:35.393712+00:00",
   "headlines": {
     "government": [
       {
-        "title": "‘Continuity Keir’: Burnham keeping on many of Starmer’s No 10 advisers",
+        "title": "Andy Burnham to promise to ‘fix the big things’ in first speech as Labour leader",
         "url": "https://www.theguardian.com/politics/2026/jul/16/andy-burnham-keir-starmer-no-10-advisers",
-        "description": "Lack of change in key roles could mean next week’s policy announcements may lack radicalism many hoped forAndy Burnham’s Downing Street operation is beginning to take shape, with many of Keir Starm...",
+        "description": "Burnham, who is set to take the job on Friday, will promise to give back control to communities and spread growthAndy Burnham will pledge he has the “courage to fix the big things that politics has...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Sadiq Khan among 26 new peers to enter the Lords",
-        "url": "https://www.bbc.co.uk/news/articles/cglj25k94r9o?at_medium=RSS&at_campaign=rss",
-        "description": "The London mayor is to be joined by broadcaster June Sarpong and former union chief Christina McAnea in the Lords.",
+        "title": "Burnham to promise new path for UK when he becomes new Labour leader",
+        "url": "https://www.bbc.co.uk/news/articles/c2lq12z1xdlo?at_medium=RSS&at_campaign=rss",
+        "description": "In a speech on Friday, he will begin to set out his vision for government, before becoming prime minister next week.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,21 +54,14 @@
         "category": "economy"
       },
       {
-        "title": "White House teleprompter operator accused of making $100k off Trump speech bets",
-        "url": "https://www.bbc.co.uk/news/articles/cjrvdqyr5d5o?at_medium=RSS&at_campaign=rss",
-        "description": "A White House staffer has been accused of using inside knowledge of speeches to make nearly $100,000 on Kalshi.",
+        "title": "The financial winners and losers from the World Cup",
+        "url": "https://www.bbc.co.uk/news/articles/cgrkek8lrzvo?at_medium=RSS&at_campaign=rss",
+        "description": "Big bucks are being made from the 2026 tournament off the field, but who is raking in the most?",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
-      {
-        "title": "Black doctors in England four times less likely to get training places than white counterparts",
-        "url": "https://www.theguardian.com/society/2026/jul/15/black-doctors-england-training-white-colleagues-nhs-analysis",
-        "description": "For one placement, black applicants had a less than 1 in 100 chance of being offered a place, NHS data showsBlack doctors in England are four times less likely to be offered a training place than t...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
       {
         "title": "Offer teenagers a meningitis B vaccine on NHS, advisers tell UK government",
         "url": "https://www.theguardian.com/society/2026/jul/16/offer-teenagers-a-meningitis-b-vaccine-on-nhs-advisers-tell-uk-government",
@@ -80,6 +73,13 @@
         "title": "All newborns in England to be screened for spinal muscular atrophy from 2027",
         "url": "https://www.theguardian.com/society/2026/jul/16/newborns-babies-england-spinal-muscular-atrophy-sma-screening",
         "description": "Campaigners hail ‘landmark moment’ in early detection and treatment of rare muscle-wasting diseaseEvery baby born in England will be screened for a rare muscle-wasting disease, starting next year, ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Black doctors in England four times less likely to get training places than white counterparts",
+        "url": "https://www.theguardian.com/society/2026/jul/15/black-doctors-england-training-white-colleagues-nhs-analysis",
+        "description": "For one placement, black applicants had a less than 1 in 100 chance of being offered a place, NHS data showsBlack doctors in England are four times less likely to be offered a training place than t...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,9 +116,9 @@
     ],
     "climate": [
       {
-        "title": "‘We are waiting with bated breath’: Super El Niño forecast could make 2027 hottest year on record, BoM says",
+        "title": "‘We are waiting with bated breath’: gathering El Niño could be the strongest on record, BoM says",
         "url": "https://www.theguardian.com/environment/2026/jul/17/record-el-nino-forecast-2027-hottest-year-on-record-bom-says",
-        "description": "Most Australian capital cities have at least 80% chance of unusually warm and dry spring as climatologists watch developing system with increasing alarmGet our breaking news email, free app or dail...",
+        "description": "Most Australian capital cities have at least 80% chance of unusually warm and dry spring as climatologists watch developing system with increasing alarmFollow our Australia news live blog for lates...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "At least one dead in Texas floods ravaging same area where campers died",
-        "url": "https://www.bbc.co.uk/news/articles/c3v0xe5elzyo?at_medium=RSS&at_campaign=rss",
-        "description": "The same area devastated by floods last year - causing more than 130 deaths, including those at Camp Mystic - is once again being hit.",
+        "title": "UK heatwave approaches two-week mark",
+        "url": "https://www.bbc.co.uk/weather/articles/ckg4gqlye02o?at_medium=RSS&at_campaign=rss",
+        "description": "All UK nations have experienced recent heatwave conditions but in southern England, the heatwave has now continued for 13 days. Sarah Keith-Lucas looks at how unusual this spell of heat is, and whe...",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "National Year of Reading should extend to a decade, inquiry says",
+        "url": "https://www.theguardian.com/books/2026/jul/17/national-year-of-reading-should-extend-to-a-decade-inquiry-says",
+        "description": "The education committee also proposed a National Reading Guarantee, ensuring all children have frequent opportunities to enjoy readingThe National Year of Reading should be extended to a National D...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Private schools offer 41% more tree shade than state schools in England",
         "url": "https://www.theguardian.com/education/2026/jul/16/private-schools-more-tree-shade-state-schools-england",
@@ -156,13 +163,6 @@
         "title": "Florence Welch’s mother says cuts to arts and humanities ‘absolutely tragic’",
         "url": "https://www.theguardian.com/education/2026/jul/15/prof-evelyn-welch-arts-humanities-cuts-absolutely-tragic",
         "description": "Exclusive: Prof Evelyn Welch, vice-chancellor of Bristol University, believes her daughter’s success shows value of arts educationOne of Britain’s leading university vice-chancellors has described ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Students and recent graduates: tell us your best and worst experiences of uni societies",
-        "url": "https://www.theguardian.com/education/2026/jul/15/students-and-recent-graduates-tell-us-your-best-and-worst-experiences-of-uni-societies",
-        "description": "We would like to hear about the highs and lows of university clubs and societiesAs a new academic year approaches, we would like to hear from students and recent graduates (five years ago or less) ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Blasts reported in Iran as US launches new wave of strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+        "description": "Iran says US strikes hit bridges in the country in an apparent escalation, while the US boards a ship in the Strait of Hormuz.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
         "url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss",
         "description": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
@@ -202,13 +209,6 @@
         "title": "Teenager accused of carrying out sabotage actions in Poland for Russia",
         "url": "https://www.bbc.co.uk/news/articles/cp305dx493do?at_medium=RSS&at_campaign=rss",
         "description": "Polish security services say the aim was to incite ethnic tensions between Poland and Ukraine.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Iran targets military bases as US launches wave of strikes",
-        "url": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
-        "description": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
