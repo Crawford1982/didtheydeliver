@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-07-18T13:11:15.020904+00:00",
+  "fetched_at": "2026-07-18T19:01:34.285256+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham expected to reverse ban on new oil and gas drilling",
+        "title": "Burnham risks Labour backlash if he reverses ban on new oil and gas drilling",
         "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-expected-to-reverse-ban-on-new-oil-and-gas-drilling",
-        "description": "Incoming prime minister likely to reverse manifesto pledge and allow new North Sea licences, reports sayAndy Burnham is expected to relax the government’s restrictions on new oil and gas drilling w...",
+        "description": "Party manifesto pledged to honour existing North Sea exploration licences but not issue new onesAndy Burnham risks his first confrontation with Labour MPs if he announces new oil and gas drilling l...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK tech advocates alarmed by Burnham plan to scrap technology department",
+        "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-plan-to-scrap-technology-department-triggers-backlash",
+        "description": "MPs and industry experts say potential reorganisation will waste time at critical moment for AI and economic growthAndy Burnham’s plan to scrap the government’s technology department has triggered ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -13,13 +20,6 @@
         "title": "Andy Burnham considers radical shake-up to cut energy bills",
         "url": "https://www.theguardian.com/money/2026/jul/18/andy-burnham-cut-energy-bills-gas-heat-pumps",
         "description": "Labour leader examining proposals to overhaul gas standing charges and make heat pumps cheaper to run than boilersAndy Burnham is considering radical plans that could cut household energy bills by ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Poultry sector growth plan risks UK national security, campaigners warn",
-        "url": "https://www.theguardian.com/environment/2026/jul/18/poultry-sector-growth-plan-uk-national-food-security-supply-chain",
-        "description": "Government’s food security push is said to rely on animal feed imports with vulnerability to supply chain shocksThe government’s planned poultry sector growth plan is a risk to national security, c...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
+        "description": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fightCésar Alcaraz had only just beco...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Poultry sector growth plan risks UK national security, campaigners warn",
         "url": "https://www.theguardian.com/environment/2026/jul/18/poultry-sector-growth-plan-uk-national-food-security-supply-chain",
         "description": "Government’s food security push is said to rely on animal feed imports with vulnerability to supply chain shocksThe government’s planned poultry sector growth plan is a risk to national security, c...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
-        "description": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fightCésar Alcaraz had only just beco...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off",
-        "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
-        "description": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
+        "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
+        "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+        "description": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Two US troops killed and one missing after Iranian attack in Jordan",
+        "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+        "description": "The announcement comes after Jordan said it intercepted 10 Iranian missiles fired into its airspace overnight into Saturday.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
         "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
         "description": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
-        "description": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US strikes hit Iran for seventh consecutive night",
-        "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-        "description": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+        "title": "Hungary's president agrees to stand down after parliament backs removal",
+        "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
+        "description": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
