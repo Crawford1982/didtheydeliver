@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-07-18T02:22:22.558971+00:00",
+  "fetched_at": "2026-07-18T07:46:54.112701+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Six political headaches Andy Burnham must tackle in his first weeks as PM",
+        "url": "https://www.theguardian.com/politics/2026/jul/18/andy-burnham-six-political-headaches-first-weeks-pm",
+        "description": "From dealing with Trump to easing cost of living, the incoming prime minister is mulling his approach to contentious issuesWhen Labour was preparing for power in 2024, Keir Starmer’s then chief of ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Farage’s furious clash with Times editor stuns figures close to him",
+        "url": "https://www.theguardian.com/politics/2026/jul/18/nigel-farage-clash-times-editor-reform",
+        "description": "‘Strong confrontation’ comes at fragile moment for Reform’s relations with rightwing media as coverage turns negativeNigel Farage is no stranger to expressing his ire at what he regards as the libe...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Andy Burnham promises to end Labour infighting as he becomes party’s leader",
         "url": "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm",
         "description": "Government has ‘last chance’ to get it right, says incoming PM, while anxiety surrounds his choice of chancellorAndy Burnham pledged to lead a united Labour government free of infighting and factio...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Jeffrey Donaldson to appeal against conviction for child sexual offences",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/17/jeffrey-donaldson-to-appeal-against-conviction-for-child-sexual-offences",
-        "description": "Former Democratic Unionist party leader’s legal team has lodged documents with the court of appeal in Belfast Jeffrey Donaldson is to appeal against his conviction for rape and other sexual offence...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Nigel Farage says questions over his finances are part of ‘coordinated pile-on’",
-        "url": "https://www.theguardian.com/politics/2026/jul/17/nigel-farage-questions-finances-coordinated-pile-on-reform-uk",
-        "description": "Reform leader says he’s been ‘demonised’ since revelation he received £5m from billionaire before electionNigel Farage has accused people raising questions about his financial backing of “demonisin...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
+        "description": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fightCésar Alcaraz had only just beco...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’",
         "url": "https://www.theguardian.com/environment/2026/jul/17/europe-emissions-trading-system-greenhouse-gas-risks-weakened",
         "description": "European Commission proposal to overhaul emissions trading system would give companies less demanding pathway to reductionsEurope’s most effective method of cutting dangerous planet-heating gases r...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "‘We are waiting with bated breath’: experts alarmed as BoM says gathering El Niño could be strongest on record",
-        "url": "https://www.theguardian.com/environment/2026/jul/17/record-el-nino-forecast-2027-hottest-year-on-record-bom-says",
-        "description": "Most Australian capital cities have at least 80% chance of unusually warm and dry spring as climatologists watch developing system with increasing alarmFollow our Australia news live blog for lates...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-        "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-        "description": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+        "title": "Diamonds and 'cab to orbit': Rocket aiming to transform India's space ambitions takes off",
+        "url": "https://www.bbc.co.uk/news/articles/clyekv7rld3o?at_medium=RSS&at_campaign=rss",
+        "description": "India's first space-tech unicorn Skyroot Aerospace successfully launched Vikram-1 on Saturday.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -201,7 +201,7 @@
       {
         "title": "US strikes hit Iran for seventh consecutive night",
         "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-        "description": "The US command says it is conducting more strikes to degrade Iran's armed forces, as Iran reports explosions near the Strait of Hormuz.",
+        "description": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
