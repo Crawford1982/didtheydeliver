@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-07-18T07:46:54.112701+00:00",
+  "fetched_at": "2026-07-18T13:11:15.020904+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Six political headaches Andy Burnham must tackle in his first weeks as PM",
-        "url": "https://www.theguardian.com/politics/2026/jul/18/andy-burnham-six-political-headaches-first-weeks-pm",
-        "description": "From dealing with Trump to easing cost of living, the incoming prime minister is mulling his approach to contentious issuesWhen Labour was preparing for power in 2024, Keir Starmer’s then chief of ...",
+        "title": "Burnham expected to reverse ban on new oil and gas drilling",
+        "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-expected-to-reverse-ban-on-new-oil-and-gas-drilling",
+        "description": "Incoming prime minister likely to reverse manifesto pledge and allow new North Sea licences, reports sayAndy Burnham is expected to relax the government’s restrictions on new oil and gas drilling w...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Farage’s furious clash with Times editor stuns figures close to him",
-        "url": "https://www.theguardian.com/politics/2026/jul/18/nigel-farage-clash-times-editor-reform",
-        "description": "‘Strong confrontation’ comes at fragile moment for Reform’s relations with rightwing media as coverage turns negativeNigel Farage is no stranger to expressing his ire at what he regards as the libe...",
+        "title": "Andy Burnham considers radical shake-up to cut energy bills",
+        "url": "https://www.theguardian.com/money/2026/jul/18/andy-burnham-cut-energy-bills-gas-heat-pumps",
+        "description": "Labour leader examining proposals to overhaul gas standing charges and make heat pumps cheaper to run than boilersAndy Burnham is considering radical plans that could cut household energy bills by ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham promises to end Labour infighting as he becomes party’s leader",
-        "url": "https://www.theguardian.com/politics/2026/jul/17/andy-burnham-becomes-labour-leader-final-step-towards-uk-pm",
-        "description": "Government has ‘last chance’ to get it right, says incoming PM, while anxiety surrounds his choice of chancellorAndy Burnham pledged to lead a united Labour government free of infighting and factio...",
+        "title": "Poultry sector growth plan risks UK national security, campaigners warn",
+        "url": "https://www.theguardian.com/environment/2026/jul/18/poultry-sector-growth-plan-uk-national-food-security-supply-chain",
+        "description": "Government’s food security push is said to rely on animal feed imports with vulnerability to supply chain shocksThe government’s planned poultry sector growth plan is a risk to national security, c...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham says he is 'finalising' cabinet ahead of becoming PM on Monday",
-        "url": "https://www.bbc.co.uk/news/articles/c5y300l2zvno?at_medium=RSS&at_campaign=rss",
-        "description": "The new Labour leader says his government will deliver the biggest change in British politics for 40 years.",
+        "title": "Burnham to announce plans for new North Sea oil and gas drilling",
+        "url": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss",
+        "description": "Drilling has become a controversial topic for the Labour party after the 2024 manifesto pledged to not issue new licences.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter",
+        "url": "https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy",
+        "description": "Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economyThe scale of the graft is decidedly off the charts, but the revelation that Donald ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Hot tubs and £80 rosé: how the mud-soaked British festival got a luxury makeover",
         "url": "https://www.theguardian.com/culture/2026/jul/17/great-british-festival-industry-luxury-makeover-gen-z",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Sadiq Khan given seat in Lords, as Starmer creates 26 new peers days before he leaves No 10 – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/16/keir-starmer-andy-burnham-labour-farage-badenoch-widdecombe-latest-news-updates",
-        "description": "This blog is now closed, you can read more on this story hereCouples could legally marry in forests, on beaches, at sea or in their gardens under new proposals, the Press Association reports. PA sa...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-        "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-        "description": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country.",
+        "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
+        "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
+        "description": "It's a small but growing problem in the property market - here's how to protect yourself.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Burnham must shift UK mood on racism, chair of Operation Black Vote says",
+        "url": "https://www.theguardian.com/world/2026/jul/18/andy-burnham-shift-uk-mood-racism-operation-black-vote",
+        "description": "Incoming PM must seize chance to stop race discourse deflecting from class inequalities, says David WeaverAndy Burnham has a historic opportunity to shift the national mood on racism, the chair of ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Green-led council plans to ban cooperation with Home Office on immigration raids",
         "url": "https://www.theguardian.com/uk-news/2026/jul/15/green-led-council-plans-to-ban-cooperation-with-home-office-on-immigration-raids",
         "description": "Exclusive: Lewisham council’s move marks first step in Greens’ plan to create a corridor of sanctuary boroughs across LondonA Green-led London council is planning to ban its officials from working ...",
@@ -105,34 +112,27 @@
         "description": "Court ruled last week against policy to reduce protections for asylum seekers facing removal under one in, one out schemeThe Home Office is set to ignore a high court ruling and continue sending as...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "‘We are dying little by little here’: asylum seekers at mercy of Home Office hotel closures",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/14/asylum-seekers-mercy-home-office-hotel-closures-legal-challenge",
-        "description": "Legal challenges launched over accommodation ‘adequacy’ as UK government closes more asylum hotelsHuda and her two children aged 10 and 12 had been living in two rooms in a London hotel for six mon...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
+        "title": "Poultry sector growth plan risks UK national security, campaigners warn",
+        "url": "https://www.theguardian.com/environment/2026/jul/18/poultry-sector-growth-plan-uk-national-food-security-supply-chain",
+        "description": "Government’s food security push is said to rely on animal feed imports with vulnerability to supply chain shocksThe government’s planned poultry sector growth plan is a risk to national security, c...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Arizona teen hailed for helping save woman with dementia wandering in 103F heat",
+        "url": "https://www.theguardian.com/us-news/2026/jul/18/arizona-teen-rescue-woman-dementia-heatwave",
+        "description": "Fire crew in Gilbert to honor Royal Cothrun, 14, for helping elderly woman who became disoriented amid heatwaveAn Arizona fire department is formally honoring a 14-year-old boy who recently helped ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
         "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
         "description": "As the climate crisis fuels more intense blazes, pushing them to new parts of the world, those tackling them are forced to ration resources and decide which to fightCésar Alcaraz had only just beco...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’",
-        "url": "https://www.theguardian.com/environment/2026/jul/17/europe-emissions-trading-system-greenhouse-gas-risks-weakened",
-        "description": "European Commission proposal to overhaul emissions trading system would give companies less demanding pathway to reductionsEurope’s most effective method of cutting dangerous planet-heating gases r...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘My eyes were stinging’: New Yorkers navigate smoky air and soaring temperatures",
-        "url": "https://www.theguardian.com/us-news/2026/jul/17/new-york-poor-air-quality-wildfire",
-        "description": "Pollution levels in the city were elevated as smoke from Canadian wildfires drifted south across a huge swathe of the US The sun shone feebly through the thick haze. The smell of burning wood hung ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "‘Without this it’s all just tourists’: the fight to save Soho’s last primary school",
+        "url": "https://www.theguardian.com/education/2026/jul/18/without-this-school-its-all-just-tourists-fight-for-soho-last-primary",
+        "description": "Falling pupil numbers have left ‘unique’ London school facing an uncertain future, but its supporters have ambitious plansSandwiched between a strip club, a West End theatre and a pub might not be ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "The school holidays are here – let’s play ‘arguing over screen time’: the Stephen Collins cartoon",
         "url": "https://www.theguardian.com/lifeandstyle/picture/2026/jul/17/wars-over-screen-time-stephen-collins-cartoon",
         "description": "Continue reading...",
@@ -156,13 +163,6 @@
         "title": "‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike",
         "url": "https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk",
         "description": "The climate activist and engineer Sonam Wangchuk, who has become the figurehead of anti-government protests in Delhi, is resisting calls to end his fast until the education minister resignsAs night...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "National Year of Reading should extend to a decade, inquiry says",
-        "url": "https://www.theguardian.com/books/2026/jul/17/national-year-of-reading-should-extend-to-a-decade-inquiry-says",
-        "description": "The education committee also proposed a National Reading Guarantee, ensuring all children have frequent opportunities to enjoy readingThe National Year of Reading should be extended to a National D...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,16 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-        "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-        "description": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US strikes hit Iran for seventh consecutive night",
-        "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-        "description": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+        "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+        "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+        "description": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -209,6 +202,13 @@
         "title": "Many Ukrainian soldiers outraged over removal of defence minister, troops tell BBC",
         "url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss",
         "description": "Protests erupted in Ukraine on Thursday after Mykhailo Fedorov's removal - and now soldiers are also criticising the move.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "US strikes hit Iran for seventh consecutive night",
+        "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+        "description": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
