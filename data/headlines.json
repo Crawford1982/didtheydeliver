@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-19T02:34:41.501754+00:00",
+  "fetched_at": "2026-07-19T08:13:51.722387+00:00",
   "headlines": {
     "government": [
       {
@@ -24,14 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
+        "title": "Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
         "url": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
-        "description": "A spokesperson for the incoming prime minister says his Government would “put its focus where people need it right now”.",
+        "description": "A spokesperson for the incoming prime minister says his government would “put its focus where people need it right now”.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "‘Good growth in every postcode’: Burnham’s economic to-do list in seven charts",
+        "url": "https://www.theguardian.com/business/2026/jul/19/andy-burnham-economy-defence-housing-and-living-costs",
+        "description": "From industrial strategy and defence to housing and living costs, we lay out the challenges facing the new PMAndy Burnham becomes prime minister as Britain contends with a series of global economic...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter",
         "url": "https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "‘Bizarre choice’: business and Labour puzzle over Shabana Mahmood as future chancellor",
-        "url": "https://www.theguardian.com/politics/2026/jul/16/shabana-mahmood-future-chancellor",
-        "description": "The home secretary, favourite to take over at No 11, has minimal economic credentials and many MPs would prefer Ed MilibandAndy Burnham last month promised the UK he would bring “good growth in eve...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "'My buyers dropped their offer by £15,000 the day before exchange': Gazundering and how to avoid it",
-        "url": "https://www.bbc.co.uk/news/articles/c3d39r338m0o?at_medium=RSS&at_campaign=rss",
-        "description": "It's a small but growing problem in the property market - here's how to protect yourself.",
+        "title": "New EU border system tripling time at passport control, airport boss says",
+        "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+        "description": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Trump threatens new Canada tariffs over fires sending 'filthy' air into US cities",
-        "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
-        "description": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+        "title": "Is Burnham promising a new dawn for North Sea oil and gas?",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
+        "description": "The incoming PM is expected to announce fresh support for the North Sea from day one of his premiership.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Two US troops killed and one missing after Iranian attack in Jordan",
-        "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-        "description": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+        "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+        "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+        "description": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
         "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
         "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-        "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\".",
+        "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
