@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-07-19T13:14:23.069015+00:00",
+  "fetched_at": "2026-07-19T19:03:16.054244+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Burnham to say UK must be honest about its challenges as he prepares to become PM",
+        "url": "https://www.theguardian.com/politics/2026/jul/19/burnham-warn-uk-honest-challenges-prepares-become-pm",
+        "description": "Labour leader will visit king to accept role on Monday and will start making cabinet appointments that afternoon Andy Burnham will warn that Britain must be honest about the challenges it faces whe...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Fossil fuels, utilities and housing: what we know about Andy Burnham’s plans",
+        "url": "https://www.theguardian.com/politics/2026/jul/19/no-10-north-utilities-north-sea-drilling-andy-burnham-plans-government",
+        "description": "Incoming prime minister has set out distinctly leftwing vision while also promising to be pro-businessAs an incoming prime minister promising huge change, one of the strongest criticisms Andy Burnh...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Nigel Farage admits George Cottrell paid for filming and let him use his home",
         "url": "https://www.theguardian.com/politics/2026/jul/19/nigel-farage-admits-george-cottrell-paid-for-filming-and-let-him-use-his-home",
         "description": "Reform leader says support from fraudster before last election is ‘totally undeclarable in every single way’Nigel Farage has admitted his close friend the fraudster George Cottrell let him use one ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham to scrap Starmer’s digital ID scheme in ‘reset of priorities’",
-        "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-to-scrap-starmers-digital-id-scheme-in-reset-of-priorities",
-        "description": "Incoming PM will reallocate unspecified resources from unpopular plan to helping with cost of livingAndy Burnham is expected to scrap Keir Starmer’s plans for digital ID cards in a “reset of priori...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham risks Labour backlash if he reverses ban on new oil and gas drilling",
-        "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-expected-to-reverse-ban-on-new-oil-and-gas-drilling",
-        "description": "Party manifesto pledged to honour existing North Sea exploration licences but not issue new onesAndy Burnham risks his first confrontation with Labour MPs if he announces new oil and gas drilling l...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -40,23 +40,23 @@
         "category": "economy"
       },
       {
-        "title": "Are money and soft power draining World Cup football of its magic? | Richard Partington",
-        "url": "https://www.theguardian.com/media/2026/jul/19/money-soft-power-draining-world-cup-football-magic-fifa",
-        "description": "Fifa’s orchestration of incompatible or frankly absurd corporate sponsorship suggests the balance may have tipped too farIt’s almost all over. No more hydration breaks, no more obligatory pans of t...",
+        "title": "The Guardian view on pubs: football gave them a boost – now they need another | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/19/the-guardian-view-on-pubs-football-gave-them-a-boost-now-they-need-another",
+        "description": "Communal spaces where people can share big moments are a vital part of our shared life“People can’t get enough of football fever,” a pub landlord, Sam Hale, told the Guardian last week. The World C...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Restoring Britain’s health to 2014 levels could add 2% to GDP, thinktank says",
-        "url": "https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says",
-        "description": "Health Foundation paper argues health is an economic asset and improving it could generate £72bn for public financesRestoring the deteriorating health of the UK’s population to the level of 2014 wo...",
+        "title": "Why a modest US interest rate rise won’t change much for most businesses",
+        "url": "https://www.theguardian.com/business/2026/jul/19/us-interest-rates-businesses",
+        "description": "Rates may rise, but don’t be too concerned – a small increase is unlikely to change major decisions on investment or hiringWith the appointment of a new Federal Reserve chair, the latest concern is...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Chinese firm seeks compensation over British Steel nationalisation",
-        "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
-        "description": "Jingye said it will take action \"through legal means to the very end\" after the UK government nationalised British Steel.",
+        "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
+        "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Fossil fuels, utilities and housing: what we know about Andy Burnham’s plans",
+        "url": "https://www.theguardian.com/politics/2026/jul/19/no-10-north-utilities-north-sea-drilling-andy-burnham-plans-government",
+        "description": "Incoming prime minister has set out distinctly leftwing vision while also promising to be pro-businessAs an incoming prime minister promising huge change, one of the strongest criticisms Andy Burnh...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "From leftwing voters to unions: can Burnham win back Labour bases lost by Starmer? – visualised",
         "url": "https://www.theguardian.com/politics/2026/jul/19/from-leftwing-voters-to-unions-can-burnham-win-back-labour-bases-lost-by-starmer-visualised",
         "description": "As Andy Burnham enters No 10, Guardian data analysis reveals the fissures with Labour’s traditional supporters, and the traps the new PM will want to avoidKeir Starmer entered 10 Downing St on a wa...",
@@ -103,13 +110,6 @@
         "title": "Burnham must shift UK mood on racism, chair of Operation Black Vote says",
         "url": "https://www.theguardian.com/world/2026/jul/18/andy-burnham-shift-uk-mood-racism-operation-black-vote",
         "description": "Incoming PM must seize chance to stop race discourse deflecting from class inequalities, says David WeaverAndy Burnham has a historic opportunity to shift the national mood on racism, the chair of ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Green-led council plans to ban cooperation with Home Office on immigration raids",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/15/green-led-council-plans-to-ban-cooperation-with-home-office-on-immigration-raids",
-        "description": "Exclusive: Lewisham council’s move marks first step in Greens’ plan to create a corridor of sanctuary boroughs across LondonA Green-led London council is planning to ban its officials from working ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "From coffee grounds to guinea pig bedding - the composters keeping it local",
-        "url": "https://www.bbc.co.uk/news/articles/c78y2q6ve04o?at_medium=RSS&at_campaign=rss",
-        "description": "Food waste is a resource like water and should be kept in communities, compost champions say.",
+        "title": "Is Burnham promising a new dawn for North Sea oil and gas?",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
+        "description": "The incoming PM is expected to announce fresh support for the North Sea from day one of his premiership.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -208,7 +208,7 @@
       {
         "title": "Russia launches major ballistic missile attack on Ukrainian cities",
         "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-        "description": "Four people are killed and at least 36 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
+        "description": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
