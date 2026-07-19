@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-19T08:13:51.722387+00:00",
+  "fetched_at": "2026-07-19T13:14:23.069015+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Nigel Farage admits George Cottrell paid for filming and let him use his home",
+        "url": "https://www.theguardian.com/politics/2026/jul/19/nigel-farage-admits-george-cottrell-paid-for-filming-and-let-him-use-his-home",
+        "description": "Reform leader says support from fraudster before last election is ‘totally undeclarable in every single way’Nigel Farage has admitted his close friend the fraudster George Cottrell let him use one ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Burnham to scrap Starmer’s digital ID scheme in ‘reset of priorities’",
         "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-to-scrap-starmers-digital-id-scheme-in-reset-of-priorities",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "UK tech advocates alarmed by Burnham plan to scrap technology department",
-        "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-plan-to-scrap-technology-department-triggers-backlash",
-        "description": "MPs and industry experts say potential reorganisation will waste time at critical moment for AI and economic growthAndy Burnham’s plan to scrap the government’s technology department has triggered ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
-        "url": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
-        "description": "A spokesperson for the incoming prime minister says his government would “put its focus where people need it right now”.",
+        "title": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss",
+        "description": "Meanwhile Conservative leader Kemi Badenoch says Burnham is a \"people pleaser\", ahead of him becoming prime minister on Monday.",
         "source": "BBC News",
         "category": "government"
       }
@@ -40,28 +40,35 @@
         "category": "economy"
       },
       {
-        "title": "Trump has normalized crypto. Is it the path to the next financial collapse? | Eduardo Porter",
-        "url": "https://www.theguardian.com/business/2026/jul/18/trump-crypto-us-economy",
-        "description": "Cheerleading by the president, who made $1.2bn last year off uninsured currency, does not bode well for US economyThe scale of the graft is decidedly off the charts, but the revelation that Donald ...",
+        "title": "Are money and soft power draining World Cup football of its magic? | Richard Partington",
+        "url": "https://www.theguardian.com/media/2026/jul/19/money-soft-power-draining-world-cup-football-magic-fifa",
+        "description": "Fifa’s orchestration of incompatible or frankly absurd corporate sponsorship suggests the balance may have tipped too farIt’s almost all over. No more hydration breaks, no more obligatory pans of t...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Hot tubs and £80 rosé: how the mud-soaked British festival got a luxury makeover",
-        "url": "https://www.theguardian.com/culture/2026/jul/17/great-british-festival-industry-luxury-makeover-gen-z",
-        "description": "Struggling industry seeks to capitalise on Gen Z’s willingness to spend on experiences and comfortIt had always been the great British festival way: greasy burgers and warm beer, retch-inducing toi...",
+        "title": "Restoring Britain’s health to 2014 levels could add 2% to GDP, thinktank says",
+        "url": "https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says",
+        "description": "Health Foundation paper argues health is an economic asset and improving it could generate £72bn for public financesRestoring the deteriorating health of the UK’s population to the level of 2014 wo...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "New EU border system tripling time at passport control, airport boss says",
-        "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-        "description": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+        "title": "Chinese firm seeks compensation over British Steel nationalisation",
+        "url": "https://www.bbc.co.uk/news/articles/cwyj4ppqn41o?at_medium=RSS&at_campaign=rss",
+        "description": "Jingye said it will take action \"through legal means to the very end\" after the UK government nationalised British Steel.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Restoring Britain’s health to 2014 levels could add 2% to GDP, thinktank says",
+        "url": "https://www.theguardian.com/society/2026/jul/19/restoring-britains-health-to-2014-levels-could-add-2-to-gdp-thinktank-says",
+        "description": "Health Foundation paper argues health is an economic asset and improving it could generate £72bn for public financesRestoring the deteriorating health of the UK’s population to the level of 2014 wo...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Offer teenagers a meningitis B vaccine on NHS, advisers tell UK government",
         "url": "https://www.theguardian.com/society/2026/jul/16/offer-teenagers-a-meningitis-b-vaccine-on-nhs-advisers-tell-uk-government",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "Black doctors in England four times less likely to get training places than white counterparts",
-        "url": "https://www.theguardian.com/society/2026/jul/15/black-doctors-england-training-white-colleagues-nhs-analysis",
-        "description": "For one placement, black applicants had a less than 1 in 100 chance of being offered a place, NHS data showsBlack doctors in England are four times less likely to be offered a training place than t...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "What type of procrastinator are you - and how to fix it now (not later)",
         "url": "https://www.bbc.co.uk/news/articles/cpv3eky4w2do?at_medium=RSS&at_campaign=rss",
         "description": "The nine types of stalling that researchers say can reveal something deeper about us and why it's not always bad.",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "From leftwing voters to unions: can Burnham win back Labour bases lost by Starmer? – visualised",
+        "url": "https://www.theguardian.com/politics/2026/jul/19/from-leftwing-voters-to-unions-can-burnham-win-back-labour-bases-lost-by-starmer-visualised",
+        "description": "As Andy Burnham enters No 10, Guardian data analysis reveals the fissures with Labour’s traditional supporters, and the traps the new PM will want to avoidKeir Starmer entered 10 Downing St on a wa...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Burnham must shift UK mood on racism, chair of Operation Black Vote says",
         "url": "https://www.theguardian.com/world/2026/jul/18/andy-burnham-shift-uk-mood-racism-operation-black-vote",
@@ -105,16 +112,23 @@
         "description": "Exclusive: Lewisham council’s move marks first step in Greens’ plan to create a corridor of sanctuary boroughs across LondonA Green-led London council is planning to ban its officials from working ...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "UK to continue sending potential trafficking victims to France despite court ruling",
-        "url": "https://www.theguardian.com/politics/2026/jul/14/home-office-asylum-trafficking-court-ruling",
-        "description": "Court ruled last week against policy to reduce protections for asylum seekers facing removal under one in, one out schemeThe Home Office is set to ignore a high court ruling and continue sending as...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Majority of US voters link extreme weather to climate crisis, study finds",
+        "url": "https://www.theguardian.com/environment/2026/jul/19/climate-crisis-us-voters-study",
+        "description": "Top Democrat says findings show public ‘way ahead of the politicians’ as Trump dismisses global heating as ‘hoax’Amid a summer of dangerous heat, drought and floods, a majority of Americans are con...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "How Trump and his administration have mired the US in multiple crises",
+        "url": "https://www.theguardian.com/us-news/2026/jul/19/how-trump-and-his-administration-have-mired-the-us-in-multiple-crises",
+        "description": "From manufactured election insecurity to an outbreak of ‘explosive’ diarrhea, Americans are bearing the brunt of harmful policiesBetween widespread cuts to vital government agencies, various diseas...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "‘It’s only going to get worse’: wildfires forcing firefighters to make impossible choices",
         "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/18/the-impossible-choices-of-a-deadly-wildfire-season",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Poultry sector growth plan risks UK national security, campaigners warn",
-        "url": "https://www.theguardian.com/environment/2026/jul/18/poultry-sector-growth-plan-uk-national-food-security-supply-chain",
-        "description": "Government’s food security push is said to rely on animal feed imports with vulnerability to supply chain shocksThe government’s planned poultry sector growth plan is a risk to national security, c...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Arizona teen hailed for helping save woman with dementia wandering in 103F heat",
-        "url": "https://www.theguardian.com/us-news/2026/jul/18/arizona-teen-rescue-woman-dementia-heatwave",
-        "description": "Fire crew in Gilbert to honor Royal Cothrun, 14, for helping elderly woman who became disoriented amid heatwaveAn Arizona fire department is formally honoring a 14-year-old boy who recently helped ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Is Burnham promising a new dawn for North Sea oil and gas?",
-        "url": "https://www.bbc.co.uk/news/articles/c4g3l22ry6wo?at_medium=RSS&at_campaign=rss",
-        "description": "The incoming PM is expected to announce fresh support for the North Sea from day one of his premiership.",
+        "title": "From coffee grounds to guinea pig bedding - the composters keeping it local",
+        "url": "https://www.bbc.co.uk/news/articles/c78y2q6ve04o?at_medium=RSS&at_campaign=rss",
+        "description": "Food waste is a resource like water and should be kept in communities, compost champions say.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+        "title": "US and Iran trade fire after two US soldiers killed in Jordan",
         "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-        "description": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+        "description": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
+        "title": "Tate brothers arrested in US as further UK charges take total to 59",
         "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
         "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russians turn to cash, putting more strain on slowing wartime economy",
-        "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-        "description": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
+        "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+        "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+        "description": "Four people are killed and at least 36 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
