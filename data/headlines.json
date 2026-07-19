@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-18T19:01:34.285256+00:00",
+  "fetched_at": "2026-07-19T02:34:41.501754+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Burnham to scrap Starmer’s digital ID scheme in ‘reset of priorities’",
+        "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-to-scrap-starmers-digital-id-scheme-in-reset-of-priorities",
+        "description": "Incoming PM will reallocate unspecified resources from unpopular plan to helping with cost of livingAndy Burnham is expected to scrap Keir Starmer’s plans for digital ID cards in a “reset of priori...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Burnham risks Labour backlash if he reverses ban on new oil and gas drilling",
         "url": "https://www.theguardian.com/politics/2026/jul/18/burnham-expected-to-reverse-ban-on-new-oil-and-gas-drilling",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Andy Burnham considers radical shake-up to cut energy bills",
-        "url": "https://www.theguardian.com/money/2026/jul/18/andy-burnham-cut-energy-bills-gas-heat-pumps",
-        "description": "Labour leader examining proposals to overhaul gas standing charges and make heat pumps cheaper to run than boilersAndy Burnham is considering radical plans that could cut household energy bills by ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham to announce plans for new North Sea oil and gas drilling",
-        "url": "https://www.bbc.co.uk/news/articles/c935yx2z9d4o?at_medium=RSS&at_campaign=rss",
-        "description": "Drilling has become a controversial topic for the Labour party after the 2024 manifesto pledged to not issue new licences.",
+        "title": "Andy Burnham to scrap digital ID to focus on cost of living in first major policy pledge",
+        "url": "https://www.bbc.co.uk/news/articles/c5y08z25q8eo?at_medium=RSS&at_campaign=rss",
+        "description": "A spokesperson for the incoming prime minister says his Government would “put its focus where people need it right now”.",
         "source": "BBC News",
         "category": "government"
       }
@@ -194,21 +194,21 @@
       {
         "title": "Two US troops killed and one missing after Iranian attack in Jordan",
         "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-        "description": "The announcement comes after Jordan said it intercepted 10 Iranian missiles fired into its airspace overnight into Saturday.",
+        "description": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-        "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-        "description": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+        "title": "Andrew Tate and brother arrested in US after more charges laid against them in UK",
+        "url": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+        "description": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are \"innocent\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Hungary's president agrees to stand down after parliament backs removal",
-        "url": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-        "description": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
+        "title": "Russians turn to cash, putting more strain on slowing wartime economy",
+        "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+        "description": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
