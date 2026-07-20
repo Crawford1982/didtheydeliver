@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-19T19:03:16.054244+00:00",
+  "fetched_at": "2026-07-20T02:49:36.262835+00:00",
   "headlines": {
     "government": [
       {
         "title": "Burnham to say UK must be honest about its challenges as he prepares to become PM",
         "url": "https://www.theguardian.com/politics/2026/jul/19/burnham-warn-uk-honest-challenges-prepares-become-pm",
-        "description": "Labour leader will visit king to accept role on Monday and will start making cabinet appointments that afternoon Andy Burnham will warn that Britain must be honest about the challenges it faces whe...",
+        "description": "Labour leader will visit king to accept role on Monday and will start making cabinet appointments that afternoon Andy Burnham will say Britain must be honest about the challenges it faces when he b...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Burnham will be bolder but stick to Labour manifesto, deputy leader says",
-        "url": "https://www.bbc.co.uk/news/articles/cx2k76gydreo?at_medium=RSS&at_campaign=rss",
-        "description": "Meanwhile Conservative leader Kemi Badenoch says Burnham is a \"people pleaser\", ahead of him becoming prime minister on Monday.",
+        "title": "Burnham to promise 'more breathing room' in first speech as PM",
+        "url": "https://www.bbc.co.uk/news/articles/cy8m7k98p3no?at_medium=RSS&at_campaign=rss",
+        "description": "The Labour leader will say he is \"acutely conscious\" of the UK's high turnover of prime ministers, as he becomes the seventh in 10 years on Monday.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Thames Water lenders preparing legal challenge in event of Burnham nationalisation",
-        "url": "https://www.bbc.co.uk/news/articles/cx278ed09nzo?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC understands creditors would would pursue payment in full of the outstanding debts, in the multi-billions of pounds.",
+        "title": "Are you a parent missing out on £27 a week? Here's how to check",
+        "url": "https://www.bbc.co.uk/news/articles/cz9l993wj5ko?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of new parents fail to claim child benefit until it is too late to receive some of the money, HMRC says.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,14 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "What type of procrastinator are you - and how to fix it now (not later)",
-        "url": "https://www.bbc.co.uk/news/articles/cpv3eky4w2do?at_medium=RSS&at_campaign=rss",
-        "description": "The nine types of stalling that researchers say can reveal something deeper about us and why it's not always bad.",
+        "title": "My fitness tracker knew I was pregnant before I did",
+        "url": "https://www.bbc.co.uk/news/articles/cr474z1qyn6o?at_medium=RSS&at_campaign=rss",
+        "description": "Ravika is one of hundreds of women who are noticing early pregnancy signs through the data on their fitness trackers.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "The battle to reclaim Epping – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/20/the-battle-over-epping-bell-hotel-one-year-on-podcast",
+        "description": "Tim Burrows goes back to Epping in Essex one year after protesters from across the country descended on the small town to demonstrate against asylum seekers being housed at the Bell hotelIn July 20...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Fossil fuels, utilities and housing: what we know about Andy Burnham’s plans",
         "url": "https://www.theguardian.com/politics/2026/jul/19/no-10-north-utilities-north-sea-drilling-andy-burnham-plans-government",
@@ -103,13 +110,6 @@
         "title": "From leftwing voters to unions: can Burnham win back Labour bases lost by Starmer? – visualised",
         "url": "https://www.theguardian.com/politics/2026/jul/19/from-leftwing-voters-to-unions-can-burnham-win-back-labour-bases-lost-by-starmer-visualised",
         "description": "As Andy Burnham enters No 10, Guardian data analysis reveals the fissures with Labour’s traditional supporters, and the traps the new PM will want to avoidKeir Starmer entered 10 Downing St on a wa...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Burnham must shift UK mood on racism, chair of Operation Black Vote says",
-        "url": "https://www.theguardian.com/world/2026/jul/18/andy-burnham-shift-uk-mood-racism-operation-black-vote",
-        "description": "Incoming PM must seize chance to stop race discourse deflecting from class inequalities, says David WeaverAndy Burnham has a historic opportunity to shift the national mood on racism, the chair of ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "US and Iran trade fire after two US soldiers killed in Jordan",
+        "title": "US soldier killed and one injured after Iranian attack in Iraq",
         "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-        "description": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
+        "description": "The US military reports another death a day after two of its soldiers were killed in Jordan.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
