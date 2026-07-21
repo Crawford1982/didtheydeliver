@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-07-20T19:41:44.082929+00:00",
+  "fetched_at": "2026-07-21T02:32:48.500083+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Healey made chancellor, Miliband named foreign secretary and Yvette Cooper becomes health secretary as Burnham picks cabinet – UK politics live",
+        "title": "Burnham begins: what awaits the new PM? - podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/21/burnham-begins-what-awaits-the-new-pm-podcast",
+        "description": "Senior political correspondent Peter Walker and former No 10 press secretary Paul Harrison analyse Andy Burnham’s first day as PMOn Monday, Andy Burnham finally realised his long-held ambition to b...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Andy Burnham vows to ‘bring back hope’ as he unveils his cabinet",
+        "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-vows-to-bring-back-hope-as-he-unveils-his-cabinet",
+        "description": "New prime minister says government must ‘do better’ to deliver change but promises prudent approach to economyAndy Burnham has said his arrival in power will “bring back hope” to Britain as he laun...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Healey made chancellor, Miliband named foreign secretary and Yvette Cooper becomes health secretary as Burnham picks cabinet – UK politics as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/20/andy-burnham-new-prime-minister-pm-keir-starmer-labour-no-10-downing-street-speech-cabinet-uk-politics-latest-news-updates",
-        "description": "Several Labour MPs are in Downing Street as the new PM chooses his top teamBurnham vows his arrival in power will be ‘circuit breaker’ moment for UKSix highlights from Andy Burnham’s first Downing ...",
+        "description": "Rayner is back as housing secretary, while Mahmood and McFadden remain in their existing posts Burnham vows his arrival in power will be ‘circuit breaker’ moment for UKSix highlights from Andy Burn...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham promises ‘circuit breaker’ moment for UK as he becomes PM",
-        "url": "https://www.theguardian.com/politics/2026/jul/20/andy-burnham-uk-prime-minister-meeting-king-charles",
-        "description": "New prime minister says his political and economic model will bring ‘biggest changes in 40 years’UK politics live – latest updatesAndy Burnham has said his arrival in power will be a “circuit break...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Andy Burnham becomes Britain’s new prime minister – The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/jul/20/andy-burnham-britain-new-prime-minister-the-latest",
-        "description": "Andy Burnham has become the sixth UK prime minister in a decade after a transfer of power from his predecessor Keir Starmer.In his first address outside Downing Street, he said his arrival in power...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Analysis: Burnham's policy choices reveal what kind of PM he wants to be",
-        "url": "https://www.bbc.co.uk/news/articles/c3r0x5nzg0eo?at_medium=RSS&at_campaign=rss",
-        "description": "The new prime minister has begun to set out key policies - starting with a vow to end rough sleeping.",
+        "title": "Burnham pledges to 'bring back hope' as he makes Healey chancellor",
+        "url": "https://www.bbc.co.uk/news/articles/cvg9w2e29eno?at_medium=RSS&at_campaign=rss",
+        "description": "The new prime minister pledged to make announcements this week to \"give people some breathing space\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
+        "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
+        "description": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy productsDonald Trump is imposing 50% tariffs on most Canadian goods in response to the countr...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "The Guardian view on pubs: football gave them a boost – now they need another | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/jul/19/the-guardian-view-on-pubs-football-gave-them-a-boost-now-they-need-another",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Are money and soft power draining World Cup football of its magic? | Richard Partington",
-        "url": "https://www.theguardian.com/media/2026/jul/19/money-soft-power-draining-world-cup-football-magic-fifa",
-        "description": "Fifa’s orchestration of incompatible or frankly absurd corporate sponsorship suggests the balance may have tipped too farIt’s almost all over. No more hydration breaks, no more obligatory pans of t...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "John Healey becomes chancellor weeks after shock resignation from defence job",
-        "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
-        "description": "The former defence secretary is seen as a safe pair of hands - and is now in charge of the government's finances.",
+        "title": "Why Andy Burnham will find it so tricky to unite Britain",
+        "url": "https://www.bbc.co.uk/news/articles/c17y7r9yv1ro?at_medium=RSS&at_campaign=rss",
+        "description": "Is there any common ground left?",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,7 +84,7 @@
         "category": "nhs"
       },
       {
-        "title": "'If only people knew what a tick could do' - the deadly meat allergies caused by tick bites",
+        "title": "'If only people knew what a tick could do' - the deadly meat allergy caused by tick bites",
         "url": "https://www.bbc.co.uk/news/articles/cj6g03567edo?at_medium=RSS&at_campaign=rss",
         "description": "Mammalian meat allergy is a growing problem along Australia's east coast - and it's caused by tick bites.",
         "source": "BBC News",
@@ -132,14 +132,14 @@
       {
         "title": "Australian ski resorts smash July climate records with temperatures 12C above average",
         "url": "https://www.theguardian.com/australia-news/2026/jul/21/australian-ski-resorts-smash-july-climate-records-with-temperatures-12c-above-average",
-        "description": "Resorts in NSW and Victoria face a warm and dry start to the season with only sporadic falls of natural snow in many alpine areasGet our breaking news email, free app or daily news podcastAlpine sk...",
+        "description": "Resorts in New South Wales and Victoria face a warm and dry start to the season with only sporadic falls of natural snow in many alpine areasFollow our Australia news live blog for latest updatesGe...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Canadian wildfires rage as Trump warns Carney again over 'poisoning' US air",
-        "url": "https://www.bbc.co.uk/news/articles/crl7n6j7gr3o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president raised the issue with the the Canadian prime minister while the pair attended the World Cup Final in New Jersey.",
+        "title": "Is UK facing drought for second summer in a row?",
+        "url": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&at_campaign=rss",
+        "description": "The longest dry spell in over 30 years for central England raises concerns about drought and when it might rain.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -171,7 +171,7 @@
       {
         "title": "Burnham pledges to end rough sleeping in England in first speech as prime minister",
         "url": "https://www.theguardian.com/society/2026/jul/20/andy-burnham-pledges-end-rough-sleeping-homelessness-prime-minister-first-speech",
-        "description": "Additional £340m over three years allocated to get people off the streets ‘at the earliest opportunity’UK politics live – latest updatesAndy Burnham has promised to end rough sleeping in England in...",
+        "description": "Additional £340m over three years allocated to get people off the streets ‘at the earliest opportunity’ Andy Burnham has promised to end rough sleeping in England in his first pledge as prime minis...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-        "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-        "description": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+        "title": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+        "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+        "description": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+        "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
+        "description": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
         "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
         "description": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Ten killed as Russian attacks on merchant ships in Black Sea intensify",
-        "url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss",
-        "description": "Russian strikes on the Odesa region have killed 28 people in July alone, local authorities say.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
