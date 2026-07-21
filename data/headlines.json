@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-07-21T08:25:23.060125+00:00",
+  "fetched_at": "2026-07-21T13:45:41.276556+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham cuts VAT on electricity bills in first major policy announcement – UK politics live",
+        "title": "Andy Burnham says his will be a ‘cost-of-living government’ in first cabinet meeting as PM – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jul/21/andy-burnham-pm-labour-energy-bills-cost-of-living-cabinet-latest-news-updates",
-        "description": "Move is expected to save households around £45 a year in effort to tackle cost of livingBurnham to cut VAT on electricity bills in first cost-of-living moveAndy Burnham promised to end rough sleepi...",
+        "description": "The new prime minister said he wants his government to look at ‘all possible ways’ to help families with high costsBurnham to cut VAT on electricity bills in first cost-of-living moveAntónio Costa,...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK employers cut job vacancies as Burnham aims to lift living standards",
-        "url": "https://www.theguardian.com/business/2026/jul/21/uk-employers-job-vacancies-andy-burnham-unemployment",
-        "description": "Unemployment holds steady at 4.9%, underlining the challenge facing the new prime ministerBusiness live – latest updatesEmployers cut the number of job vacancies in June, according to official figu...",
+        "title": "What will Andy Burnham’s VAT cut on electricity bills mean for you?",
+        "url": "https://www.theguardian.com/money/2026/jul/21/what-will-andy-burnhams-vat-cut-on-energy-bills-mean-for-you",
+        "description": "New prime minister is implementing immediate tax cut to help ease cost of living pressures for British householdsAndy Burnham to cut VAT on electricity bills as first cost of living moveHousehold e...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham to cut VAT on electricity bills as first cost of living move",
-        "url": "https://www.theguardian.com/politics/2026/jul/21/burnham-announces-plans-to-cut-vat-on-electricity-bills-as-first-cost-of-living-move",
-        "description": "Newly appointed chancellor John Healey says reduction will be funded by cancelling digital ID schemeElectricity bills will be reduced by an average of £45 a year from October, after Andy Burnham an...",
+        "title": "UK borrows less than expected as Healey vows to ‘buffer against uncertainty’",
+        "url": "https://www.theguardian.com/business/2026/jul/21/uk-borrowing-june-andy-burnham-ons-vat-electricity-bills",
+        "description": "Figure of £16bn from ONS comes after Andy Burnham revealed plans to cut VAT on electricity billsBusiness live – latest updatesThe UK government borrowed less than expected in June, in a boost for A...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Chris Mason: New chancellor faces tough spending choices",
-        "url": "https://www.bbc.co.uk/news/articles/c24mnnnd18do?at_medium=RSS&at_campaign=rss",
-        "description": "The appointment of John Healey is particularly fascinating, writes BBC political editor Chris Mason.",
+        "title": "Starmer ally takes swipe at Burnham's first big policy",
+        "url": "https://www.bbc.co.uk/news/articles/c62xzn3j1p2o?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Keir Starmer's former right hand man Darren Jones says Andy Burnham's VAT cut is unfunded.",
         "source": "BBC News",
         "category": "government"
       }
@@ -40,16 +40,16 @@
         "category": "economy"
       },
       {
-        "title": "Defence stocks rally as John Healey appointed chancellor; UK borrows less than expected in June – business live",
+        "title": "Oil price rises above $90 as US and Iran exchange fire and Houthis threaten naval blockade in Saudi Arabia - business live",
         "url": "https://www.theguardian.com/global/live/2026/jul/21/burnham-cuts-vat-electricity-bills-uk-borrowing-debt-economy-news-latest",
-        "description": "Rolling coverage of the latest economic and financial newsThe group of investors pursuing a rescue bid for Thames Water have offered the government a “golden share” in a last-ditch attempt to convi...",
+        "description": "Rolling coverage of the latest economic and financial newsMore on the cost of living: new figures show that UK grocery inflation eased in the four weeks to 12th July to 2.6%, its lowest rate since ...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "JP Morgan boss warns of ‘consequences’ if Burnham taxes banks",
-        "url": "https://www.theguardian.com/business/2026/jul/21/jp-morgan-andy-burnham-tax-banks-jamie-dimon",
-        "description": "Higher taxes on sector could threaten plan for £3bn headquarters in London, says Jamie DimonBusiness live – latest updatesThe boss of JP Morgan, Jamie Dimon, has warned Andy Burnham against raising...",
+        "title": "UK borrows less than expected as Healey vows to ‘buffer against uncertainty’",
+        "url": "https://www.theguardian.com/business/2026/jul/21/uk-borrowing-june-andy-burnham-ons-vat-electricity-bills",
+        "description": "Figure of £16bn from ONS comes after Andy Burnham revealed plans to cut VAT on electricity billsBusiness live – latest updatesThe UK government borrowed less than expected in June, in a boost for A...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "First Nations groups devastated by Canada’s wildfires say government did not help",
+        "url": "https://www.theguardian.com/world/2026/jul/21/first-nations-ontario-canada-wildfires-evacuations-government",
+        "description": "Chiefs in Ontario say they were left to self-evacuate before homes burned to ground, after being told there was no imminent threatFast-moving wildfires have burned two First Nations communities in ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Rescuers in Afghanistan search for missing and dead after flash floods destroy homes",
+        "url": "https://www.theguardian.com/world/2026/jul/20/deadly-floods-nuristan-afghanistan",
+        "description": "National disaster agency confirms ‘severe financial and human losses’ in eastern  province of NuristanRescue crews in Afghanistan are searching for survivors and bodies among the rubble of houses d...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Slowdown in Arctic ice melt ends after largest winter decline on record",
         "url": "https://www.theguardian.com/environment/2026/jul/20/slowdown-arctic-sea-ice-melt-largest-winter-decline-record",
         "description": "Scientists recorded slower reduction over past 20 years, but study finds this was ‘temporary rather than sustained’A previously recorded slowdown in Arctic sea ice decline has ended, according to a...",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Afghanistan floods kill at least 20 people, with more than 100 missing",
-        "url": "https://www.theguardian.com/world/2026/jul/20/deadly-floods-nuristan-afghanistan",
-        "description": "National disaster agency confirms ‘severe financial and human losses’ in remote province of NuristanAt least 20 people have been killed and more than 80 injured in flooding that hit Afghanistan’s N...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Australian ski resorts smash July climate records with temperatures 12C above average",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/21/australian-ski-resorts-smash-july-climate-records-with-temperatures-12c-above-average",
-        "description": "Resorts in New South Wales and Victoria face a warm and dry start to the season with only sporadic falls of natural snow in many alpine areasFollow our Australia news live blog for latest updatesGe...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Tropical Storm Bertha threatens US Gulf coast",
-        "url": "https://www.bbc.co.uk/news/articles/cqjxzzdrl4lo?at_medium=RSS&at_campaign=rss",
-        "description": "Storm surges up to 4ft are possible along parts of the Louisiana and Mississippi coasts, officials say.",
+        "title": "Parts of the UK move closer to drought",
+        "url": "https://www.bbc.co.uk/weather/articles/cjwx0xv571eo?at_medium=RSS&at_campaign=rss",
+        "description": "Eight areas across England are now in prolonged dry weather – the stage before drought.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Yemen's Houthis announce 'maritime embargo' on Saudi Arabia",
-        "url": "https://www.bbc.co.uk/news/articles/cm2gmddx1ldo?at_medium=RSS&at_campaign=rss",
-        "description": "The Houthis say the embargo begins immediately and is a response to a Saudi blockade of ports and airports in Yemen.",
+        "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
+        "description": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
