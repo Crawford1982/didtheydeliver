@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-07-22T08:26:11.738980+00:00",
+  "fetched_at": "2026-07-22T13:49:06.685109+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Transport secretary ‘100% sure’ new cap on bus fares in England is fully funded – UK politics live",
+        "title": "Burnham to review early prisoner release scheme amid anger over potential freeing of PC Harper’s killers – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jul/22/andy-burnham-labour-government-bus-fares-uk-politics-latest-news-updates",
-        "description": "Earlier this week, Burnham’s new government faced questions about how the removal of VAT on electricity bills would be fundedGood morning and welcome to our live coverage of UK politics.Andy Burnha...",
+        "description": "New PM says the main perpetrator in the killing of PC Andrew Harper will now ‘not be subject to early release’ and he will also review ‘whole policy’Wes Streeting said the US president was “right” ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham announces bus fares across England to be capped at £2",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/22/burnham-announces-bus-fares-across-england-to-be-capped-at-2",
-        "description": "Measure to cost more than £500m, with money allocated to allow devolved nations to do the sameSingle bus fares across England will be capped at £2 from January, Andy Burnham has announced, as he co...",
+        "title": "Andy Burnham announces review of prisoner early release scheme",
+        "url": "https://www.theguardian.com/society/2026/jul/22/andy-burnham-announces-review-of-prisoner-early-release-scheme",
+        "description": "PM says he wants to be sure everything concerning controversial policy has been looked at before it goes aheadUK politics live – latest updatesAndy Burnham has said he will review the government’s ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK inflation falls by more than expected to 2.6% in lift for Andy Burnham",
-        "url": "https://www.theguardian.com/business/2026/jul/22/uk-inflation-falls-andy-burnham-cost-of-living-plans",
-        "description": "Annual June figure comes after new PM pledges to reduce cost of living and improve economyBusiness live – latest updatesUK inflation dropped by more than expected in June to 2.6%, in a boost for An...",
+        "title": "Mahmood and Streeting accused of making ‘cheap jokes’ about prisoner early release scheme",
+        "url": "https://www.theguardian.com/law/2026/jul/22/streeting-mahmood-accused-cheap-jokes-prisoner-early-release-scheme",
+        "description": "Victims of crime say it’s ‘no laughing matter’ after ministers caught on hot mic ‘ribbing’ about schemeUK politics live – latest updatesVictims of crime have accused ministers of making “cheap joke...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham pulls back on suggestion to increase income tax allowance",
-        "url": "https://www.bbc.co.uk/news/articles/c935g67wyvgo?at_medium=RSS&at_campaign=rss",
-        "description": "The new prime minister previously said voters were frustrated over the freeze in tax-free personal allowance.",
+        "title": "Burnham says he will review early prisoner release scheme",
+        "url": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says he cannot commit to changing the policy but wants to look at it in detail \"before we go further forward\".",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Most bus fares in England to be capped at £2 from January",
-        "url": "https://www.bbc.co.uk/news/articles/cz64l78n5vpo?at_medium=RSS&at_campaign=rss",
-        "description": "The government says the policy will \"help with the cost of living and give people the breathing space they need\"",
+        "title": "Some food prices have fallen – but inflation expected to rise from here",
+        "url": "https://www.bbc.co.uk/news/articles/ckg4xj8j5vjo?at_medium=RSS&at_campaign=rss",
+        "description": "June's fall in inflation will be welcomed by the new prime minister but analysts warn the fall is temporary.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "NHS trust investigated for corporate manslaughter after Nottingham attacks",
+        "url": "https://www.theguardian.com/society/2026/jul/22/nhs-trust-corporate-manslaughter-investigation-nottingham-attacks-valdo-calocane",
+        "description": "Trust that treated Valdo Calocane, who killed three people in 2023, sectioned him four times between 2020 and 2022The NHS trust that treated the triple killer Valdo Calocane in the years before the...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Broaden newborn screening programmes | Letters",
         "url": "https://www.theguardian.com/society/2026/jul/21/broaden-newborn-screening-programmes",
@@ -73,13 +80,6 @@
         "title": "Palantir isn’t the only option for the NHS | Letter",
         "url": "https://www.theguardian.com/society/2026/jul/20/palantir-isnt-the-only-option-for-the-nhs",
         "description": "Manchester’s integrated care board offers the health service a domestic alternative to the US firm, says Dr Devan MoodleyRegarding Peter Geoghegan’s article (I investigated Palantir’s foothold in t...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Rising numbers of younger midwives quitting NHS in England, data shows",
-        "url": "https://www.theguardian.com/society/2026/jul/20/younger-midwives-nhs-england-burnout-maternity-staffing",
-        "description": "Exclusive: Maternity staffing shortages worsen as more and more under-35s quit because of burnoutMore and more midwives are leaving the NHS before they reach 35 because of burnout, worsening the st...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Norway’s national oil company’s profits double to $11.5bn amid war on Iran",
+        "url": "https://www.theguardian.com/world/2026/jul/22/norway-national-oil-company-equinor-profits-double-115bn-war-iran",
+        "description": "Equinor benefits from decision to increase oil and gas production during strait of Hormuz blockadesBusiness live – latest updatesProfits at Norway’s state oil company nearly doubled to $11.5bn (£8....",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Millions face long-term coastal flooding risk in UK without climate action, scientists warn",
         "url": "https://www.theguardian.com/environment/2026/jul/21/millions-long-term-coastal-flooding-risk-uk-climate-action",
         "description": "A ‘reasonable worst-case scenario’ suggests need for large-scale movement of populations away from reshaped coastUp to 13 million people in the UK face the long-term risk of coastal flooding due to...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Rescuers in Afghanistan search for missing and dead after flash floods destroy homes",
-        "url": "https://www.theguardian.com/world/2026/jul/20/deadly-floods-nuristan-afghanistan",
-        "description": "National disaster agency confirms ‘severe financial and human losses’ in eastern  province of NuristanRescue crews in Afghanistan are searching for survivors and bodies among the rubble of houses d...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Great Apes kiss and cuddle to keep the peace, says study",
-        "url": "https://www.bbc.co.uk/news/articles/c5y045vprg5o?at_medium=RSS&at_campaign=rss",
-        "description": "Hugging before stressful events may be an ancient way of building trust, say scientists studying apes.",
+        "title": "Fate of massive 20m-high space radar in ministers' hands",
+        "url": "https://www.bbc.co.uk/news/articles/cn0nxe1g3xxo?at_medium=RSS&at_campaign=rss",
+        "description": "The MoD wants to put 27 giant radar dishes in Pembrokeshire, which campaigners have strongly opposed.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Here’s how Andy Burnham really could end homelessness | Daniel Lavelle",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/22/andy-burnham-end-homelessness-empty-homes-capping-rents",
+        "description": "Utilising empty homes, capping rents and fixing the benefits system would all help, but they’d require a serious fightIn January 2017, the then mayor of Greater Manchester, Andy Burnham, promised t...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "‘I don’t know where the kids will go’: beloved football cage in east London to be demolished",
         "url": "https://www.theguardian.com/uk-news/2026/jul/22/beloved-football-cage-east-london-hackney-keith-miller-demolished",
         "description": "Hackney council will close Keith Miller sports pitch at end of year to build urgently needed social homesCampaigners say the loss of a much-loved football pitch in east London to a housebuilding pr...",
@@ -181,34 +188,27 @@
         "description": "Additional £340m over three years allocated to get people off the streets ‘at the earliest opportunity’ Andy Burnham has promised to end rough sleeping in England in his first pledge as prime minis...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "How Elephant and Castle risks becoming London’s gentrification ‘patient zero’",
-        "url": "https://www.theguardian.com/cities/2026/jul/20/elephant-and-castle-london-gentrification-patient-zero",
-        "description": "New £500m town centre welcomes its first tenant this month, but displaced traders say promises that they could return have been brokenDiana Sach once employed more than 30 people and catered for hu...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
+        "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+        "description": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+        "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
+        "description": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Zelensky sacks Ukraine's top army commander after days of protests",
         "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
         "description": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "More warehouses of Russian online retailer Wildberries hit by Ukraine, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-        "description": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight on Tuesday.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US renews strikes on Iran as Trump threatens to attack underground nuclear site",
-        "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president's threat to target a key Iranian nuclear site came ahead of the 11th consecutive night of attacks.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
