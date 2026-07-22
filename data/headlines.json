@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-07-21T19:19:13.429580+00:00",
+  "fetched_at": "2026-07-22T02:31:42.188573+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Andy Burnham says his will be a ‘cost-of-living government’ in first cabinet meeting as PM – UK politics live",
+        "title": "Andy Burnham urges cabinet to examine ‘all possible ways’ to tackle cost of living crisis",
+        "url": "https://www.theguardian.com/politics/2026/jul/21/defence-uplift-national-care-service-andy-burnham-policies-funding",
+        "description": "As new prime minister briefs cabinet on ‘cost of living government’, critics ask where money will come fromAndy Burnham is under mounting pressure to explain how he will pay for his policy pledges ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Anas Sarwar reportedly set to quit as Scottish Labour leader to be minister in Andy Burnham’s government – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/21/andy-burnham-pm-labour-energy-bills-cost-of-living-cabinet-latest-news-updates",
-        "description": "The new prime minister said he wants his government to look at ‘all possible ways’ to help families with high costsBurnham to cut VAT on electricity bills in first cost-of-living moveAntónio Costa,...",
+        "description": "Sarwar expected to be elevated to Lords to take up a ministerial post at revamped Department for Business, Innovation, Science and TradeBurnham to cut VAT on electricity bills in first cost-of-livi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "Fiscal hawk or big spender – what kind of chancellor will John Healey be?",
         "url": "https://www.theguardian.com/politics/2026/jul/21/fiscal-hawk-or-big-spender-what-kind-of-chancellor-will-john-healey-be",
-        "description": "Diligent, popular, unexpected pick for the Treasury has been given a straitjacket – and the job of funding PM’s policy promisesUK politics live – latest updatesOn the frequent occasions that John H...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Starmer allies see ‘hint of retribution’ in Burnham reshuffle",
-        "url": "https://www.theguardian.com/politics/2026/jul/21/keir-starmer-allies-retribution-andy-burnham-reshuffle",
-        "description": "Former PM’s supporters question pledge to end factional infighting after more than half his cabinet removed or demotedAllies of Keir Starmer have questioned Andy Burnham’s pledge to end factional i...",
+        "description": "Diligent, popular, unexpected pick for the Treasury has been given a straitjacket – and the job of funding PM’s policy promisesOn the frequent occasions that John Healey would travel abroad as defe...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -40,7 +40,7 @@
         "category": "economy"
       },
       {
-        "title": "RBA now twice as likely to hike interest rate as US-Iran war drives fuel prices higher",
+        "title": "RBA now twice as likely to hike interest rates as US-Iran war drives fuel prices higher",
         "url": "https://www.theguardian.com/australia-news/2026/jul/22/rba-interest-rate-rise-likely-us-iran-war-markets-forecast",
         "description": "Experts warn global energy market at a ‘critical juncture’ with escalating Middle East crisis expected to further drag on a slowing Australian economyFollow our Australia news live blog for latest ...",
         "source": "The Guardian",
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "VAT to be cut from household electricity bills in October",
-        "url": "https://www.bbc.co.uk/news/articles/cjwxll8jyz8o?at_medium=RSS&at_campaign=rss",
-        "description": "Homes will save around £45 a year through the cut announced on Andy Burnham's first full day as prime minister.",
+        "title": "Will AI help you do your job or replace you?",
+        "url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss",
+        "description": "Artificial Intelligence companies make vast claims about their tools replacing human labour - our charts show what's happening.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Your tips on getting a fussy child to eat, and six recipes they'll love",
-        "url": "https://www.bbc.co.uk/news/articles/c5yrjgj984qo?at_medium=RSS&at_campaign=rss",
-        "description": "Want to avoid battles over broccoli and squabbles over spinach? We've asked you for your advice on how to cope at mealtimes over the summer holidays.",
+        "title": "UK humanitarian worker monitored for Ebola in London hospital",
+        "url": "https://www.bbc.co.uk/news/articles/cdewk5r308jo?at_medium=RSS&at_campaign=rss",
+        "description": "The health worker was evacuated to the UK from the DR Congo after being potentially exposed to the virus.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Brazil's Amazon sees sharp decline in size of area burned in 2025",
-        "url": "https://www.bbc.co.uk/news/articles/cqx78eplqqlo?at_medium=RSS&at_campaign=rss",
-        "description": "The amount of land burned in the world's largest rainforest was the smallest since MapBiomas records began in 1985.",
+        "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
+        "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+        "description": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Zelensky sacks Ukraine's top army commander after days of protests",
+        "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+        "description": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Lebanese army says troops deploying in 'pilot zone' after Israeli withdrawal",
         "url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss",
         "description": "A US-brokered agreement should see Israeli troops pulling out of a small part of Lebanon occupied during their conflict with Hezbollah.",
@@ -202,13 +209,6 @@
         "title": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
         "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
         "description": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-        "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
