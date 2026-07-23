@@ -1,41 +1,41 @@
 {
-  "fetched_at": "2026-07-23T08:26:57.099802+00:00",
+  "fetched_at": "2026-07-23T13:53:49.908366+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Business rates to be cut by 20% for pubs, clubs and music venues in England",
-        "url": "https://www.theguardian.com/business/2026/jul/23/business-rates-to-be-cut-by-20-for-england-pubs-clubs-and-music-venues",
-        "description": "Burnham says relief for vape shops and other ‘non-positive’ businesses to be reviewed as part of £100m plan to fund cutPubs, clubs and live music venues in England will receive a 20% cut to their b...",
+        "title": "Badenoch says Burnham’s ambitions for Britain are ‘too small’ after business rates cut for pub and clubs in England – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/23/government-cuts-business-rates-essex-kemi-badenoch-latest-news-updates",
+        "description": "The Conservative party leader accused the prime minister of ‘still thinking like the mayor of Manchester’Kemi Badenoch is speaking in central London at the moment and is expected to say that Andy B...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Alarm over hospital lung admissions for children in England’s poorest postcodes",
+        "title": "Burnham’s review of prison early release scheme is causing chaos, says union",
+        "url": "https://www.theguardian.com/society/2026/jul/23/burnham-review-of-prison-early-release-causing-chaos-union",
+        "description": "Officials ‘do not know’ how to respond to potential changes to plans to start freeing up to 6,000 offendersUK politics live – latest updatesAndy Burnham’s pledge to review early release plans has c...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Poorest children in England 40% more likely to be hospitalised for lung infections",
         "url": "https://www.theguardian.com/society/2026/jul/23/alarm-hospital-lung-admissions-children-england-poorest",
         "description": "Exclusive: Analysis of NHS England data reveals stark impact of air pollution in deprived areasChildren living in the poorest areas across England are 40% more likely to be admitted to hospital for...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Scottish Labour’s rivals decry ‘chancer’ Anas Sarwar for resigning to join Andy Burnham’s government",
-        "url": "https://www.theguardian.com/politics/2026/jul/22/scottish-labours-rivals-decry-chancer-anas-sarwar-for-resigning-to-join-andy-burnhams-government",
-        "description": "New prime minister has made Sarwar – the first senior Labour figure to call for Keir Starmer’s resignation – a peerScottish Labour’s rivals in Holyrood have slammed Anas Sarwar’s shock decision to ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
-        "url": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
-        "description": "Lissie Harper says the possible early release of prisoners is \"deplorable\", after reports that two of PC Harper's killers could be freed early.",
+        "title": "Shapps blocked from standing again for the Conservatives",
+        "url": "https://www.bbc.co.uk/news/articles/cwyrjnwe8xlo?at_medium=RSS&at_campaign=rss",
+        "description": "Kemi Badenoch tells the BBC she leads a \"new party full of new people\" as ex-MP is rejected as a candidate.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Andy Burnham to cut tax for pubs, clubs and live music in England and make vape shops pay more – business live",
+        "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
-        "description": "Live, rolling coverage of business, economics and financial markets as government says it will review reliefs for ‘anti-social’ businessesPubs and restaurants company Mitchells & Butlers had other ...",
+        "description": "Live, rolling coverage of business, economics and financial markets as traders fear attacks from Yemen and Iran creating ‘two-chokepoint problem’The Houthi attacks off the coast of Yemen targeted S...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Airport drop-off fees up by a third - here are the priciest",
-        "url": "https://www.bbc.co.uk/news/articles/c2lqd72d4lqo?at_medium=RSS&at_campaign=rss",
-        "description": "The cost of parking closest to the terminal has hit £10 at two of the UK's airports.",
+        "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
+        "description": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,7 +84,7 @@
         "category": "nhs"
       },
       {
-        "title": "Life-changing MS drug to help people walk now on NHS in England",
+        "title": "'Life-changing' MS drug to help people walk now on NHS in England",
         "url": "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o?at_medium=RSS&at_campaign=rss",
         "description": "Fampridine boosts nerve signals to make it easier to walk, with up to 5,000 eligible.",
         "source": "BBC News",
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Thousands of tourists among those evacuated amid intense wildfire in France",
+        "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
+        "description": "Reception centres open to thousands of evacuees after blaze begins in pine forest 45km west of BordeauxEurope live – latest updatesMore than 20,000 people, including thousands of tourists from camp...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "France records more than 5,700 excess deaths during June heatwave",
         "url": "https://www.theguardian.com/world/2026/jul/22/france-recorded-more-than-5700-excess-deaths-during-june-heatwave",
         "description": "Figures come as large parts of southern Europe endure another record-breaking period of extreme temperaturesFrance recorded more than 5,700 excess deaths during its June heatwave, authorities have ...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Millions face long-term coastal flooding risk in UK without climate action, scientists warn",
-        "url": "https://www.theguardian.com/environment/2026/jul/21/millions-long-term-coastal-flooding-risk-uk-climate-action",
-        "description": "A ‘reasonable worst-case scenario’ suggests need for large-scale movement of populations away from reshaped coastUp to 13 million people in the UK face the long-term risk of coastal flooding due to...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "River levels approach all-time low as drought announcement looms",
-        "url": "https://www.bbc.co.uk/news/articles/c80n5rvx917o?at_medium=RSS&at_campaign=rss",
-        "description": "An announcement is expected from NRW as some river levels are reported to be nearing all-time lows.",
+        "title": "When can you see the Perseid meteor shower?",
+        "url": "https://www.bbc.co.uk/news/videos/cr5965695nyo?at_medium=RSS&at_campaign=rss",
+        "description": "The Perseid meteor shower is set to light up the night sky, putting on a spectacular treat for skygazers.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "US signs landmark nuclear deal with Saudi Arabia",
-        "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-        "description": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
+        "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "'I am still alive': Indian activist on hunger strike for 26 days loses 11kg",
-        "url": "https://www.bbc.co.uk/news/articles/ce34n7kqr5ko?at_medium=RSS&at_campaign=rss",
-        "description": "Sonam Wangchuk has been the main draw at the Cockroach Janta Party (CJP) protest in Delhi.",
+        "title": "France evacuates 20,000 as wildfires spread in south-west",
+        "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
+        "description": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
