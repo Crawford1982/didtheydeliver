@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-22T19:15:37.257854+00:00",
+  "fetched_at": "2026-07-23T02:36:19.856316+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Scottish Labour’s rivals decry ‘chancer’ Anas Sarwar for resigning to join Andy Burnham’s government",
+        "url": "https://www.theguardian.com/politics/2026/jul/22/scottish-labours-rivals-decry-chancer-anas-sarwar-for-resigning-to-join-andy-burnhams-government",
+        "description": "New prime minister has made Sarwar – the first senior Labour figure to call for Keir Starmer’s resignation – a peerScottish Labour’s rivals in Holyrood have slammed Anas Sarwar’s shock decision to ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Burnham stirs up political row with review of release plans for violent criminals",
         "url": "https://www.theguardian.com/society/2026/jul/22/andy-burnham-announces-review-of-prisoner-early-release-scheme",
@@ -17,13 +24,6 @@
         "category": "government"
       },
       {
-        "title": "Scottish Labour’s rivals decry ‘chancer’ Anas Sarwar for resigning to join Andy Burnham’s government",
-        "url": "https://www.theguardian.com/politics/2026/jul/22/scottish-labours-rivals-decry-chancer-anas-sarwar-for-resigning-to-join-andy-burnhams-government",
-        "description": "New prime minister plans to make Sarwar – the first senior Labour figure to call for Keir Starmer’s resignation – a peerScottish Labour’s rivals in Holyrood have slammed Anas Sarwar’s shock decisio...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "PC Harper's widow criticises early prisoner release plan as Burnham to review scheme",
         "url": "https://www.bbc.co.uk/news/articles/c0ejwedl1gno?at_medium=RSS&at_campaign=rss",
         "description": "Lissie Harper says the possible early release of prisoners is \"deplorable\", after reports that two of PC Harper's killers could be freed early.",
@@ -35,7 +35,7 @@
       {
         "title": "Think you have a handle on how Australia’s economy works? Take the RBA’s quiz and find out",
         "url": "https://www.theguardian.com/australia-news/2026/jul/22/think-you-have-a-handle-on-how-australias-economy-works-take-the-rbas-quiz-and-find-out",
-        "description": "The Reserve Bank wants Australians to understand how its interest rate decisions affect inflation, employment and growthGet our breaking news email, free app or daily news podcastEconomics is a wor...",
+        "description": "The Reserve Bank wants Australians to understand how its interest rate decisions affect inflation, employment and growthFollow our Australia news live blog for latest updatesGet our breaking news e...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "UK humanitarian worker monitored for Ebola in London hospital",
-        "url": "https://www.bbc.co.uk/news/articles/cdewk5r308jo?at_medium=RSS&at_campaign=rss",
-        "description": "The health worker was evacuated to the UK from the DR Congo after being potentially exposed to the virus.",
+        "title": "Hope for thousands of MS patients as 'life-changing' drug now on NHS in England",
+        "url": "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o?at_medium=RSS&at_campaign=rss",
+        "description": "Fampridine boosts nerve signals to make it easier to walk, with up to 5,000 eligible.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Fate of massive 20m-high space radar in ministers' hands",
-        "url": "https://www.bbc.co.uk/news/articles/cn0nxe1g3xxo?at_medium=RSS&at_campaign=rss",
-        "description": "The MoD wants to put 27 giant radar dishes in Pembrokeshire, which campaigners have strongly opposed.",
+        "title": "Hosepipe ban in force for millions of households - is your area affected?",
+        "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+        "description": "More than eight million households have been placed under hosepipe bans - which has raised questions about how effectively water resources are being managed.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
+        "title": "US signs landmark nuclear deal with Saudi Arabia",
         "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-        "description": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
+        "description": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
