@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-07-23T13:53:49.908366+00:00",
+  "fetched_at": "2026-07-23T19:14:09.982728+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Badenoch says Burnham’s ambitions for Britain are ‘too small’ after business rates cut for pub and clubs in England – UK politics live",
+        "title": "Lobbying firm pressed for details about payments to journalists for favourable stories",
+        "url": "https://www.theguardian.com/politics/2026/jul/23/lobbying-firm-pressed-for-details-about-payments-to-journalists-for-favourable-stories",
+        "description": "MPs and others condemn behaviour of CT Group, which offered cash for positive coverage of clientsA political lobbying firm secretly paying journalists for articles favourable to its clients is faci...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Business rates cut for pubs, clubs and music venues in England only ‘a small move’, say critics",
+        "url": "https://www.theguardian.com/business/2026/jul/23/business-rates-to-be-cut-by-20-for-england-pubs-clubs-and-music-venues",
+        "description": "Hospitality businesses call on Andy Burnham to cut VAT and extend help to hotels and restaurantsPubs, clubs and live music venues in England will receive a 20% discount on their business rates bill...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK politics: Burnham pauses early prisoner release scheme due to start in September – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/23/government-cuts-business-rates-essex-kemi-badenoch-latest-news-updates",
-        "description": "The Conservative party leader accused the prime minister of ‘still thinking like the mayor of Manchester’Kemi Badenoch is speaking in central London at the moment and is expected to say that Andy B...",
+        "description": "New PM says no prisoners will be released under the policy until there is an urgent review of schemeKemi Badenoch is speaking in central London at the moment and is expected to say that Andy Burnha...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham’s review of prison early release scheme is causing chaos, says union",
-        "url": "https://www.theguardian.com/society/2026/jul/23/burnham-review-of-prison-early-release-causing-chaos-union",
-        "description": "Officials ‘do not know’ how to respond to potential changes to plans to start freeing up to 6,000 offendersUK politics live – latest updatesAndy Burnham’s pledge to review early release plans has c...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Poorest children in England 40% more likely to be hospitalised for lung infections",
-        "url": "https://www.theguardian.com/society/2026/jul/23/alarm-hospital-lung-admissions-children-england-poorest",
-        "description": "Exclusive: Analysis of NHS England data reveals stark impact of air pollution in deprived areasChildren living in the poorest areas across England are 40% more likely to be admitted to hospital for...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Shapps blocked from standing again for the Conservatives",
-        "url": "https://www.bbc.co.uk/news/articles/cwyrjnwe8xlo?at_medium=RSS&at_campaign=rss",
-        "description": "Kemi Badenoch tells the BBC she leads a \"new party full of new people\" as ex-MP is rejected as a candidate.",
+        "title": "Rayner rules out repaying severance cash after making cabinet return",
+        "url": "https://www.bbc.co.uk/news/articles/cx27mg0erd3o?at_medium=RSS&at_campaign=rss",
+        "description": "The returning housing secretary received £16,876 after leaving government in September 2025.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Trump administration to unveil latest stage of aggressive trade policy",
+        "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
+        "description": "US president is reportedly preparing fresh wave of sweeping tariffs as previous 10% on much of the world is due to expireDonald Trump’s administration will unveil the latest stage of his aggressive...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "UK inflation falls by more than expected to 2.6% in lift for Andy Burnham",
-        "url": "https://www.theguardian.com/business/2026/jul/22/uk-inflation-falls-andy-burnham-cost-of-living-plans",
-        "description": "Annual June figure comes after new PM pledges to reduce cost of living and improve economyUK inflation dropped by more than expected in June to 2.6%, in a boost for Andy Burnham’s plans to reduce t...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Gary Lineker among millionaires asking Andy Burnham to tax them more",
-        "url": "https://www.bbc.co.uk/news/articles/cvgjp79m42go?at_medium=RSS&at_campaign=rss",
-        "description": "A group including the former England footballer write to the new PM telling him \"we can afford it\".",
+        "title": "Oil prices hit $100 for the first time since May",
+        "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+        "description": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,30 +116,30 @@
     ],
     "climate": [
       {
-        "title": "Thousands of tourists among those evacuated amid intense wildfire in France",
+        "title": "Thousands evacuated in south of France as wildfire rages across pine forest – video",
+        "url": "https://www.theguardian.com/world/video/2026/jul/23/thousands-evacuated-in-south-of-france-as-wildfire-rages-across-pine-forest-video",
+        "description": "Locals and tourists were evacuated from the Arcachon Bay area during the night from Wednesday to Thursday after a huge fire engulfed more than 3,400 hectares (8,400 acres) of forest. Pushed by the ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Thousands flee wildfires in France as temperatures reach extreme levels in southern Europe",
         "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
-        "description": "Reception centres open to thousands of evacuees after blaze begins in pine forest 45km west of BordeauxEurope live – latest updatesMore than 20,000 people, including thousands of tourists from camp...",
+        "description": "Some parts of Mediterranean Sea 5C hotter than normal, with air temperatures above 44C expected in SpainBrutal heat torching southern Europe has forced nearly 20,000 people to flee wildfires in Fra...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "France records more than 5,700 excess deaths during June heatwave",
-        "url": "https://www.theguardian.com/world/2026/jul/22/france-recorded-more-than-5700-excess-deaths-during-june-heatwave",
-        "description": "Figures come as large parts of southern Europe endure another record-breaking period of extreme temperaturesFrance recorded more than 5,700 excess deaths during its June heatwave, authorities have ...",
+        "title": "Drought declared in parts of Wales as July on course to be driest in nearly 200 years",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/23/drought-declared-north-wales-upper-severn-heatwaves-rainfall",
+        "description": "Government agency announces status in north Wales and Upper Severn after series of heatwaves and lack of rainfallParts of Wales are now in drought and all other areas of the country are experiencin...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Norway’s national oil company’s profits double to $11.5bn amid war on Iran",
-        "url": "https://www.theguardian.com/world/2026/jul/22/norway-national-oil-company-equinor-profits-double-115bn-war-iran",
-        "description": "Equinor benefits from decision to increase oil and gas production during strait of Hormuz blockadesBusiness live – latest updatesProfits at Norway’s state oil company nearly doubled to $11.5bn (£8....",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "When can you see the Perseid meteor shower?",
-        "url": "https://www.bbc.co.uk/news/videos/cr5965695nyo?at_medium=RSS&at_campaign=rss",
-        "description": "The Perseid meteor shower is set to light up the night sky, putting on a spectacular treat for skygazers.",
+        "title": "Can you be fined for using a hosepipe?",
+        "url": "https://www.bbc.co.uk/news/videos/cvg9l035jxxo?at_medium=RSS&at_campaign=rss",
+        "description": "Ben Rich looks at what is and isn't allowed during a hosepipe ban.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "The Guardian view on Britain’s uninhabitable homes: as temperatures rise, a new approach is needed | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/23/the-guardian-view-on-britains-uninhabitable-homes-as-temperatures-rise-a-new-approach-is-needed",
+        "description": "Sadiq Khan’s heat-ready plan for London is a sensible strategy for adaptation that should provide a roadmap for other cities“Our ability to trust that our homes will keep us safe from the outside i...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Thursday briefing: ​Now he has the power to do it, can Andy Burham really end homelessness in the UK?",
         "url": "https://www.theguardian.com/world/2026/jul/23/thursday-briefing-now-he-has-the-power-to-do-it-can-andy-burham-really-end-homelessness-in-the-uk",
         "description": "In today’s newsletter: The fight to end rough sleeping now hinges on whether ​our new PM can match local innovation​s with ​a​ coherent policy ​of investmentGood morning. On 29 June, as the media g...",
@@ -181,16 +188,16 @@
         "description": "Utilising empty homes, capping rents and fixing the benefits system would all help, but they’d require a serious fightIn January 2017, the then mayor of Greater Manchester, Andy Burnham, promised t...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "‘I don’t know where the kids will go’: beloved football cage in east London to be demolished",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/22/beloved-football-cage-east-london-hackney-keith-miller-demolished",
-        "description": "Hackney council will close Keith Miller sports pitch at end of year to build urgently needed social homesCampaigners say the loss of a much-loved football pitch in east London to a housebuilding pr...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Oil prices hit $100 for the first time since May",
+        "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+        "description": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Saudis must recognise Israel for nuclear deal, says Trump",
         "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Houthis claim attack on oil tankers as US launches more strikes on Iran",
-        "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-        "description": "The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a \"maritime embargo\" against Saudi Arabia.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "France evacuates 20,000 as wildfires spread in south-west",
-        "url": "https://www.bbc.co.uk/news/articles/cy4kmr82n44o?at_medium=RSS&at_campaign=rss",
-        "description": "Most of those evacuated were tourists from campsites around Arcachon Bay in France's Gironde region.",
+        "title": "Ukraine's ousted defence minister insists on being reinstated",
+        "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
+        "description": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
