@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-07-24T02:33:08.917686+00:00",
+  "fetched_at": "2026-07-24T08:24:53.837500+00:00",
   "headlines": {
     "government": [
       {
         "title": "Regional mayors to take key roles in UK policy decisions as part of No 10 North plans",
         "url": "https://www.theguardian.com/politics/2026/jul/23/regional-mayors-to-take-key-roles-in-uk-policy-decisions-as-part-of-no-10-north-plans",
         "description": "Burnham says ‘no one in government loses when power is shared’ as he revives Brown-era national economic councilIt’s not just a No 10 in the north, it’s an engine for growth throughout the whole UK...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Urgent need for more security after physical attacks and abuse, say MPs’ staff",
+        "url": "https://www.theguardian.com/politics/2026/jul/24/urgent-need-for-more-security-after-physical-attacks-and-abuse-say-mps-staff",
+        "description": "Exclusive: Westminster survey finds one in two staffers experiencing clinical levels of psychological distressStaff employed by MPs are calling for urgently tightened security after reports of some...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,25 +24,18 @@
         "category": "government"
       },
       {
-        "title": "Business rates cut for pubs, clubs and music venues in England only ‘a small move’, say critics",
-        "url": "https://www.theguardian.com/business/2026/jul/23/business-rates-to-be-cut-by-20-for-england-pubs-clubs-and-music-venues",
-        "description": "Hospitality businesses call on Andy Burnham to cut VAT and extend help to hotels and restaurantsPubs, clubs and live music venues in England will receive a 20% discount on their business rates bill...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham pauses early prison release scheme",
-        "url": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister says no prisoners will be released until a review has been conducted.",
+        "title": "Burnham to spend first day working from northern branch of No 10",
+        "url": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss",
+        "description": "Various ministers are also set to work regularly from the northern branch of Downing Street.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Trump to impose fresh wave of tariffs on more than 80 countries",
+        "title": "Trump imposes fresh tariffs on UK, EU and dozens of other trading partners",
         "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
-        "description": "New tariffs to replace 10% global duty set to expire on Friday as administration cites concerns over ‘forced labor’Donald Trump’s administration has ordered a fresh wave of sweeping tariffs on doze...",
+        "description": "New tariffs will replace 10% global duty and come after US supreme court declared many of the earlier levies illegalDonald Trump has imposed a fresh round of tariffs on more than 80 countries to re...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+        "title": "US hits dozens of trading partners with new wave of tariffs",
         "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-        "description": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+        "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "'Life-changing' MS drug to help people walk now on NHS in England",
-        "url": "https://www.bbc.co.uk/news/articles/cgmkygjk9g2o?at_medium=RSS&at_campaign=rss",
-        "description": "Fampridine boosts nerve signals to make it easier to walk, with up to 5,000 eligible.",
+        "title": "'Evidence lacking' for mental health monitoring tech",
+        "url": "https://www.bbc.co.uk/news/articles/c7vgd11d60do?at_medium=RSS&at_campaign=rss",
+        "description": "The Lampard Inquiry hears from experts about Oxevision technology.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,9 +116,16 @@
     ],
     "climate": [
       {
+        "title": "France orders evacuation of Cap Ferret peninsula as wildfire spreads – Europe live",
+        "url": "https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires-cap-ferret-europe-latest-news-updates",
+        "description": "Evacuees have been told to leave using hundreds of mobilised boats or the only road linking the area with the mainlandNuñez also warned about a second fire in Biscarrosse, which he said was also “s...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
         "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
-        "description": "Spain declares national emergency around Madrid, as marine heatwave sees some parts of Mediterranean Sea 5C hotter than normalBrutal heat torching southern Europe has forced about 30,000 people to ...",
+        "description": "France asks EU for help while Spain declares national emergency around Madrid, as marine heatwave sees parts of Mediterranean Sea 5C hotter than normalBrutal heat torching southern Europe has force...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Drought declared in parts of Wales as July on course to be driest in nearly 200 years",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/23/drought-declared-north-wales-upper-severn-heatwaves-rainfall",
-        "description": "Government agency announces status in north Wales and Upper Severn after series of heatwaves and lack of rainfallParts of Wales are now in drought and all other areas of the country are experiencin...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Heatwave anxiety can make you feel 'incredibly helpless' - here's how to manage it",
-        "url": "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o?at_medium=RSS&at_campaign=rss",
-        "description": "Extreme heat can take a toll on mental health - and young people and women are among the groups most at risk, according to one study.",
+        "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+        "description": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+        "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
+        "description": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "US hits dozens of trading partners with new wave of tariffs",
         "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-        "description": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+        "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Oil prices hit $100 for the first time since May",
         "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
         "description": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-        "description": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
