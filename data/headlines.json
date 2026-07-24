@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-07-24T13:41:43.521173+00:00",
+  "fetched_at": "2026-07-24T19:22:54.020101+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Andy Burnham spends first working day at new No 10 North in Manchester – UK politics live",
-        "url": "https://www.theguardian.com/uk-news/live/2026/jul/24/andy-burnham-labour-no-10-north-uk-politics-latest-news-updates",
-        "description": "PM, on his first day at new base, says it will create ‘that sense of a more balanced country, that big things can be done from here’Andy Burnham has arrived by police convoy at No 10 North at Heron...",
+        "title": "Reform councillors told to call donations inquiry ‘establishment stitch-up’",
+        "url": "https://www.theguardian.com/politics/2026/jul/24/reform-councillors-told-to-describe-donations-inquiry-as-establishment-stitch-up",
+        "description": "Party briefing notes say: ‘Daily routine of hit jobs and smears will not deter us from winning next general election’ Reform UK has instructed its councillors to describe a police investigation int...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,9 +17,9 @@
         "category": "government"
       },
       {
-        "title": "Race, school, gender: the makeup of Andy Burnham’s cabinet – in charts",
-        "url": "https://www.theguardian.com/politics/2026/jul/24/demographic-makeup-of-andy-burnham-cabinet-charts",
-        "description": "Women have half the seats at the top table for the first time, but Oxbridge maintains its gripAndy Burnham has appointed the first cabinet of his premiership. Much has been made of how key allies o...",
+        "title": "Andy Burnham spends first working day at new No 10 North in Manchester – UK politics live",
+        "url": "https://www.theguardian.com/uk-news/live/2026/jul/24/andy-burnham-labour-no-10-north-uk-politics-latest-news-updates",
+        "description": "PM, on his first day at new base, says it will create ‘that sense of a more balanced country, that big things can be done from here’Andy Burnham has arrived by police convoy at No 10 North at Heron...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
+        "url": "https://www.theguardian.com/australia-news/2026/jul/25/australian-households-prospect-interest-rate-hike-petrol-prices-rising",
+        "description": "Economists’ warning comes as escalating Middle East crisis pushes global crude oil back above $US100 a barrelGet our breaking news email, free app or daily news podcastAustralian households face th...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Trump imposes fresh tariffs on UK, EU and dozens of other trading partners",
         "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Think you have a handle on how Australia’s economy works? Take the RBA’s quiz and find out",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/22/think-you-have-a-handle-on-how-australias-economy-works-take-the-rbas-quiz-and-find-out",
-        "description": "The Reserve Bank wants Australians to understand how its interest rate decisions affect inflation, employment and growthFollow our Australia news live blog for latest updatesGet our breaking news e...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US hits dozens of countries with new wave of tariffs",
-        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-        "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+        "title": "Trump vows to investigate EU over fining of US tech companies",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
         "source": "BBC News",
         "category": "economy"
       }
@@ -65,7 +65,7 @@
       {
         "title": "Burnham is acting like he’s mayor of everywhere – that’s not devolving power to local communities | Simon Jenkins",
         "url": "https://www.theguardian.com/commentisfree/2026/jul/24/andy-burnham-mayor-everywhere-devolving-localism-centralised-meloni-macron",
-        "description": "The new PM’s localism agenda doesn’t stop the UK being one of the most centralised counties in Europe. Can you imagine Meloni in charge of social care or Macron discussing buses?Was this a joke? An...",
+        "description": "The new PM’s localism agenda doesn’t stop the UK being one of the most centralised countries in Europe. Can you imagine Meloni in charge of social care or Macron discussing buses?Was this a joke? A...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -84,14 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "'Evidence lacking' for mental health monitoring tech",
-        "url": "https://www.bbc.co.uk/news/articles/c7vgd11d60do?at_medium=RSS&at_campaign=rss",
-        "description": "The Lampard Inquiry hears from experts about Oxevision technology.",
+        "title": "First person gets new experimental vaccine for Ebola",
+        "url": "https://www.bbc.co.uk/news/articles/c8jn007gmpzo?at_medium=RSS&at_campaign=rss",
+        "description": "Ed Hunt, 37 and from the UK, voluteered after seeing news reports of the deadly Ebola outbreak in DR Congo.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Existing care workers could be exempt from UK’s tough new immigration rules",
+        "url": "https://www.theguardian.com/society/2026/jul/24/care-workers-exempt-uk-new-immigration-rules",
+        "description": "Exclusive: Andy Burnham thought to be considering waiving stricter right to remain rules for people already working in the sectorHundreds of thousands of care workers could be exempted from the hom...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "The battle to reclaim Epping – podcast",
         "url": "https://www.theguardian.com/news/audio/2026/jul/20/the-battle-over-epping-bell-hotel-one-year-on-podcast",
@@ -105,20 +112,20 @@
         "description": "Incoming prime minister has set out distinctly leftwing vision while also promising to be pro-businessAs an incoming prime minister promising huge change, one of the strongest criticisms Andy Burnh...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "From leftwing voters to unions: can Burnham win back Labour bases lost by Starmer? – visualised",
-        "url": "https://www.theguardian.com/politics/2026/jul/19/from-leftwing-voters-to-unions-can-burnham-win-back-labour-bases-lost-by-starmer-visualised",
-        "description": "As Andy Burnham enters No 10, Guardian data analysis reveals the fissures with Labour’s traditional supporters, and the traps the new PM will want to avoidKeir Starmer entered 10 Downing St on a wa...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "France evacuates Cap Ferret peninsula as Spanish wildfires merge near Madrid – Europe live",
+        "title": "France evacuates Cap Ferret peninsula as Spanish wildfires merge near Madrid – as it happened",
         "url": "https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires-cap-ferret-europe-latest-news-updates",
         "description": "French evacuees using hundreds of mobilised boats or the only road linking the area with the mainland as evacuation also ordered in areas near Spanish capitalOver in France, it’s not just the south...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "How dangerous are wildfires and how can we stop them from getting worse?",
+        "url": "https://www.theguardian.com/environment/2025/aug/13/how-dangerous-wildfires-stop-them-getting-worse",
+        "description": "The conditions for ferocious fires are expected to worsen as the planet heats up, putting more people at riskFierce wildfires after back-to-back heatwaves have forced tens of thousands of people ac...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
-        "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
-        "description": "France asks EU for help while Spain declares national emergency around Madrid, as marine heatwave sees parts of Mediterranean Sea 5C hotter than normalBrutal heat torching southern Europe has force...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-        "description": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+        "title": "'Buck Moon' set to light up sky",
+        "url": "https://www.bbc.co.uk/news/videos/cqjxdzvk1deo?at_medium=RSS&at_campaign=rss",
+        "description": "July's full Moon is set to be a special one - Sophia Herod explains why.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
-        "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
-        "description": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
+        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+        "description": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US hits dozens of countries with new wave of tariffs",
-        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-        "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+        "title": "Trump vows to investigate EU over fining of US tech companies",
+        "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
         "source": "BBC News",
         "category": "foreign_policy"
       },
