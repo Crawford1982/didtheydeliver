@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-07-24T08:24:53.837500+00:00",
+  "fetched_at": "2026-07-24T13:41:43.521173+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Regional mayors to take key roles in UK policy decisions as part of No 10 North plans",
-        "url": "https://www.theguardian.com/politics/2026/jul/23/regional-mayors-to-take-key-roles-in-uk-policy-decisions-as-part-of-no-10-north-plans",
-        "description": "Burnham says ‘no one in government loses when power is shared’ as he revives Brown-era national economic councilIt’s not just a No 10 in the north, it’s an engine for growth throughout the whole UK...",
+        "title": "Andy Burnham spends first working day at new No 10 North in Manchester – UK politics live",
+        "url": "https://www.theguardian.com/uk-news/live/2026/jul/24/andy-burnham-labour-no-10-north-uk-politics-latest-news-updates",
+        "description": "PM, on his first day at new base, says it will create ‘that sense of a more balanced country, that big things can be done from here’Andy Burnham has arrived by police convoy at No 10 North at Heron...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Urgent need for more security after physical attacks and abuse, say MPs’ staff",
-        "url": "https://www.theguardian.com/politics/2026/jul/24/urgent-need-for-more-security-after-physical-attacks-and-abuse-say-mps-staff",
-        "description": "Exclusive: Westminster survey finds one in two staffers experiencing clinical levels of psychological distressStaff employed by MPs are calling for urgently tightened security after reports of some...",
+        "title": "Burnham urged to lobby EU leaders directly to waive EES border controls",
+        "url": "https://www.theguardian.com/business/2026/jul/24/burnham-urged-to-lobby-eu-leaders-directly-to-waive-ees-border-controls",
+        "description": "Lib Dems call on PM to push for suspension of ‘bungled, malfunctioning’ system as overseas holiday travel peaksAndy Burnham has been urged to lobby EU leaders directly to suspend the new entry-exit...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Lobbying firm pressed for details about payments to journalists for favourable stories",
-        "url": "https://www.theguardian.com/politics/2026/jul/23/lobbying-firm-pressed-for-details-about-payments-to-journalists-for-favourable-stories",
-        "description": "MPs and others condemn behaviour of CT Group, which offered cash for positive coverage of clientsA political lobbying firm secretly paying journalists for articles favourable to its clients is faci...",
+        "title": "Race, school, gender: the makeup of Andy Burnham’s cabinet – in charts",
+        "url": "https://www.theguardian.com/politics/2026/jul/24/demographic-makeup-of-andy-burnham-cabinet-charts",
+        "description": "Women have half the seats at the top table for the first time, but Oxbridge maintains its gripAndy Burnham has appointed the first cabinet of his premiership. Much has been made of how key allies o...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham to spend first day working from northern branch of No 10",
-        "url": "https://www.bbc.co.uk/news/articles/ckgvyr76973o?at_medium=RSS&at_campaign=rss",
-        "description": "Various ministers are also set to work regularly from the northern branch of Downing Street.",
+        "title": "Chris Mason: What his first week in power tells us about Andy Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cz97ngjpg3lo?at_medium=RSS&at_campaign=rss",
+        "description": "The fledgling Burnham administration has been seeking to find its feet and make a decent first impression at the same time, the BBC's political editor Chris Mason explains.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,7 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "US hits dozens of trading partners with new wave of tariffs",
+        "title": "US hits dozens of countries with new wave of tariffs",
         "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
         "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
         "source": "BBC News",
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "Burnham is acting like he’s mayor of everywhere – that’s not devolving power to local communities | Simon Jenkins",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/24/andy-burnham-mayor-everywhere-devolving-localism-centralised-meloni-macron",
+        "description": "The new PM’s localism agenda doesn’t stop the UK being one of the most centralised counties in Europe. Can you imagine Meloni in charge of social care or Macron discussing buses?Was this a joke? An...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "‘I would rather be poor’: man says money cannot compensate for partner’s death after failed cancer diagnosis",
         "url": "https://www.theguardian.com/society/2026/jul/23/i-would-rather-be-poor-man-says-money-cannot-compensate-for-partners-death-after-failed-cancer-diagnosis",
@@ -73,13 +80,6 @@
         "title": "NHS trust investigated for corporate manslaughter after Nottingham attacks",
         "url": "https://www.theguardian.com/society/2026/jul/22/nhs-trust-corporate-manslaughter-investigation-nottingham-attacks-valdo-calocane",
         "description": "Trust that treated Valdo Calocane, who killed three people in 2023, sectioned him four times between 2020 and 2022The NHS trust that treated the triple killer Valdo Calocane in the years before the...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Broaden newborn screening programmes | Letters",
-        "url": "https://www.theguardian.com/society/2026/jul/21/broaden-newborn-screening-programmes",
-        "description": "Screening for spinal muscular atrophy is a step forward, says Dr Janet Hoskin, but what about other serious genetic conditions such as Duchenne muscular dystrophy?The decision to introduce newborn ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,9 +116,16 @@
     ],
     "climate": [
       {
-        "title": "France orders evacuation of Cap Ferret peninsula as wildfire spreads – Europe live",
+        "title": "France evacuates Cap Ferret peninsula as Spanish wildfires merge near Madrid – Europe live",
         "url": "https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires-cap-ferret-europe-latest-news-updates",
-        "description": "Evacuees have been told to leave using hundreds of mobilised boats or the only road linking the area with the mainlandNuñez also warned about a second fire in Biscarrosse, which he said was also “s...",
+        "description": "French evacuees using hundreds of mobilised boats or the only road linking the area with the mainland as evacuation also ordered in areas near Spanish capitalOver in France, it’s not just the south...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Nutrients in our food are declining. Can regenerative agriculture save it?",
+        "url": "https://www.theguardian.com/food/2026/jul/24/nutrition-food-declining-can-regenerative-agriculture-save-it",
+        "description": "Approach focuses on rebuilding soil health, increasing biodiversity and restoring natural ecosystemsFor the last few decades, the nutrient content of our crops has been declining. In the late 90s, ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -130,14 +137,7 @@
         "category": "climate"
       },
       {
-        "title": "Thousands evacuated in south of France as wildfire rages across pine forest – video",
-        "url": "https://www.theguardian.com/world/video/2026/jul/23/thousands-evacuated-in-south-of-france-as-wildfire-rages-across-pine-forest-video",
-        "description": "Local people and tourists were evacuated from the Arcachon Bay area overnight into Thursday after a huge fire engulfed more than 3,400 hectares (8,400 acres) of forest. Pushed by the wind, with fla...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
         "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
         "description": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
         "source": "BBC News",
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "‘It’s generations of decline’: can Andy Burnham really end rough sleeping?",
+        "url": "https://www.theguardian.com/society/2026/jul/24/can-andy-burnham-really-end-rough-sleeping",
+        "description": "Outreach workers on the frontline of England’s homelessness crisis react to PM’s flagship policy pledgeUK politics live – latest updatesIt is close to midnight as two outreach workers from Spear, a...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "The Guardian view on Britain’s uninhabitable homes: as temperatures rise, a new approach is needed | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/jul/23/the-guardian-view-on-britains-uninhabitable-homes-as-temperatures-rise-a-new-approach-is-needed",
         "description": "Sadiq Khan’s heat-ready plan for London is a sensible strategy for adaptation that should provide a roadmap for other cities“Our ability to trust that our homes will keep us safe from the outside i...",
@@ -181,34 +188,27 @@
         "description": "In today’s newsletter: The fight to end rough sleeping now hinges on whether ​our new PM can match local innovation​s with ​a​ coherent policy ​of investmentGood morning. On 29 June, as the media g...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Here’s how Andy Burnham really could end homelessness | Daniel Lavelle",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/22/andy-burnham-end-homelessness-empty-homes-capping-rents",
-        "description": "Utilising empty homes, capping rents and fixing the benefits system would all help, but they’d require a serious fightIn January 2017, the then mayor of Greater Manchester, Andy Burnham, promised t...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "France orders evacuation of tourist spot as hundreds flee wildfires by boat",
+        "title": "Tens of thousands evacuated from French tourist spot and near Madrid as wildfires spread",
         "url": "https://www.bbc.co.uk/news/articles/cdx82rl5g0do?at_medium=RSS&at_campaign=rss",
         "description": "The fire has raged in the region for several days with officials now ordering the evacuation of the entire Cap Ferret peninsula.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US hits dozens of trading partners with new wave of tariffs",
+        "title": "US hits dozens of countries with new wave of tariffs",
         "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
         "description": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Oil prices hit $100 for the first time since May",
-        "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-        "description": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+        "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
+        "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
+        "description": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
