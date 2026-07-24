@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-23T19:14:09.982728+00:00",
+  "fetched_at": "2026-07-24T02:33:08.917686+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Regional mayors to take key roles in UK policy decisions as part of No 10 North plans",
+        "url": "https://www.theguardian.com/politics/2026/jul/23/regional-mayors-to-take-key-roles-in-uk-policy-decisions-as-part-of-no-10-north-plans",
+        "description": "Burnham says ‘no one in government loses when power is shared’ as he revives Brown-era national economic councilIt’s not just a No 10 in the north, it’s an engine for growth throughout the whole UK...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Lobbying firm pressed for details about payments to journalists for favourable stories",
         "url": "https://www.theguardian.com/politics/2026/jul/23/lobbying-firm-pressed-for-details-about-payments-to-journalists-for-favourable-stories",
@@ -17,25 +24,18 @@
         "category": "government"
       },
       {
-        "title": "UK politics: Burnham pauses early prisoner release scheme due to start in September – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/23/government-cuts-business-rates-essex-kemi-badenoch-latest-news-updates",
-        "description": "New PM says no prisoners will be released under the policy until there is an urgent review of schemeKemi Badenoch is speaking in central London at the moment and is expected to say that Andy Burnha...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Rayner rules out repaying severance cash after making cabinet return",
-        "url": "https://www.bbc.co.uk/news/articles/cx27mg0erd3o?at_medium=RSS&at_campaign=rss",
-        "description": "The returning housing secretary received £16,876 after leaving government in September 2025.",
+        "title": "Burnham pauses early prison release scheme",
+        "url": "https://www.bbc.co.uk/news/articles/cx2lpjw516eo?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says no prisoners will be released until a review has been conducted.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Trump administration to unveil latest stage of aggressive trade policy",
+        "title": "Trump to impose fresh wave of tariffs on more than 80 countries",
         "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
-        "description": "US president is reportedly preparing fresh wave of sweeping tariffs as previous 10% on much of the world is due to expireDonald Trump’s administration will unveil the latest stage of his aggressive...",
+        "description": "New tariffs to replace 10% global duty set to expire on Friday as administration cites concerns over ‘forced labor’Donald Trump’s administration has ordered a fresh wave of sweeping tariffs on doze...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Oil prices hit $100 for the first time since May",
-        "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-        "description": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+        "description": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,16 +116,16 @@
     ],
     "climate": [
       {
-        "title": "Thousands evacuated in south of France as wildfire rages across pine forest – video",
-        "url": "https://www.theguardian.com/world/video/2026/jul/23/thousands-evacuated-in-south-of-france-as-wildfire-rages-across-pine-forest-video",
-        "description": "Locals and tourists were evacuated from the Arcachon Bay area during the night from Wednesday to Thursday after a huge fire engulfed more than 3,400 hectares (8,400 acres) of forest. Pushed by the ...",
+        "title": "Thousands flee wildfires in France and Spain as temperatures reach extreme levels in southern Europe",
+        "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
+        "description": "Spain declares national emergency around Madrid, as marine heatwave sees some parts of Mediterranean Sea 5C hotter than normalBrutal heat torching southern Europe has forced about 30,000 people to ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Thousands flee wildfires in France as temperatures reach extreme levels in southern Europe",
-        "url": "https://www.theguardian.com/world/2026/jul/23/people-evacuated-intense-wildfire-saumos-france",
-        "description": "Some parts of Mediterranean Sea 5C hotter than normal, with air temperatures above 44C expected in SpainBrutal heat torching southern Europe has forced nearly 20,000 people to flee wildfires in Fra...",
+        "title": "Thousands evacuated in south of France as wildfire rages across pine forest – video",
+        "url": "https://www.theguardian.com/world/video/2026/jul/23/thousands-evacuated-in-south-of-france-as-wildfire-rages-across-pine-forest-video",
+        "description": "Local people and tourists were evacuated from the Arcachon Bay area overnight into Thursday after a huge fire engulfed more than 3,400 hectares (8,400 acres) of forest. Pushed by the wind, with fla...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Can you be fined for using a hosepipe?",
-        "url": "https://www.bbc.co.uk/news/videos/cvg9l035jxxo?at_medium=RSS&at_campaign=rss",
-        "description": "Ben Rich looks at what is and isn't allowed during a hosepipe ban.",
+        "title": "Heatwave anxiety can make you feel 'incredibly helpless' - here's how to manage it",
+        "url": "https://www.bbc.co.uk/news/articles/cgk4xrznxn5o?at_medium=RSS&at_campaign=rss",
+        "description": "Extreme heat can take a toll on mental health - and young people and women are among the groups most at risk, according to one study.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "The ‘cockroaches’ marching on India’s government – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/24/the-cockroaches-marching-on-indias-government-podcast",
+        "description": "South Asia correspondent Hannah Ellis-Petersen on the Cockroach movement – and the students driving India’s biggest protests in years‘I’ve never seen this many young people out on the streets,’ say...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘Without this it’s all just tourists’: the fight to save Soho’s last primary school",
         "url": "https://www.theguardian.com/education/2026/jul/18/without-this-school-its-all-just-tourists-fight-for-soho-last-primary",
@@ -156,13 +163,6 @@
         "title": "The school holidays are here – let’s play ‘arguing over screen time’: the Stephen Collins cartoon",
         "url": "https://www.theguardian.com/lifeandstyle/picture/2026/jul/17/wars-over-screen-time-stephen-collins-cartoon",
         "description": "Continue reading...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘I’m sorry but I’m unable to speak’: hero of India’s Cockroach party weakens on 19th day of hunger strike",
-        "url": "https://www.theguardian.com/global-development/2026/jul/17/indian-protester-hunger-strike-modi-government-sonam-wangchuk",
-        "description": "The climate activist and engineer Sonam Wangchuk, who has become the figurehead of anti-government protests in Delhi, is resisting calls to end his fast until the education minister resignsAs night...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "US imposes tariffs on dozens of trade partners over 'forced labour' imports",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+        "description": "The tariffs target around 60 trading partners over claims they failed to properly stop forced labour.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Oil prices hit $100 for the first time since May",
         "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
         "description": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Saudis must recognise Israel for nuclear deal, says Trump",
-        "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Ukraine's ousted defence minister insists on being reinstated",
-        "url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-        "description": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
+        "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
+        "url": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
+        "description": "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
