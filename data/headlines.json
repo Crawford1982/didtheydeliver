@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-25T08:03:40.218539+00:00",
+  "fetched_at": "2026-07-25T13:21:49.205525+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Home Office rejects Palestinian Jerusalemite woman’s UK visa but approves husband’s",
+        "url": "https://www.theguardian.com/politics/2026/jul/25/home-office-rejects-palestinian-jerusalemite-womans-uk-visa-but-approves-husbands",
+        "description": "Officials not satisfied Therese Abdallah is a ‘genuine visitor’ and believe she would not leave after visit to son in LondonA Palestinian Jerusalemite who lives in London has been left devastated a...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Existing care workers could be exempt from UK’s tough new immigration rules",
         "url": "https://www.theguardian.com/society/2026/jul/24/care-workers-exempt-uk-new-immigration-rules",
@@ -17,21 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Burnham urged to lobby EU leaders directly to waive EES border controls",
-        "url": "https://www.theguardian.com/business/2026/jul/24/burnham-urged-to-lobby-eu-leaders-directly-to-waive-ees-border-controls",
-        "description": "Lib Dems call on PM to push for suspension of ‘bungled, malfunctioning’ system as overseas holiday travel peaksAndy Burnham has been urged to lobby EU leaders directly to suspend the new entry-exit...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Chris Mason: What his first week in power tells us about Andy Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cz97ngjpg3lo?at_medium=RSS&at_campaign=rss",
-        "description": "The fledgling Burnham administration has been seeking to find its feet and make a decent first impression at the same time, the BBC's political editor Chris Mason explains.",
+        "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
+        "url": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss",
+        "description": "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Can Japan avoid a Liz Truss-style shock as its PM embarks on a giant spending spree?",
+        "url": "https://www.theguardian.com/world/2026/jul/25/japan-sanae-takaichi-investment-plan-liz-truss-economy",
+        "description": "Sanae Takaichi’s blueprint to inject £1.7tn and double economic growth leaves many investors fearfulInternational investors are asking where Japan’s prime minister will find the ¥370tn (£1.7tn) of ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
         "url": "https://www.theguardian.com/australia-news/2026/jul/25/australian-households-prospect-interest-rate-hike-petrol-prices-rising",
@@ -43,13 +50,6 @@
         "title": "Trump imposes fresh tariffs on UK, EU and dozens of other trading partners",
         "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
         "description": "New tariffs will replace 10% global duty and come after US supreme court declared many of the earlier levies illegalDonald Trump has imposed a fresh round of tariffs on more than 80 countries to re...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
-        "description": "Live, rolling coverage of business, economics and financial markets as traders fear attacks from Yemen and Iran creating ‘two-chokepoint problem’The Houthi attacks off the coast of Yemen targeted S...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -116,9 +116,16 @@
     ],
     "climate": [
       {
-        "title": "France and Spain race to control wildfires as suburbs of Bordeaux begin evacuation – live",
+        "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
         "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
-        "description": "Officials in Spain warn winds could worsen fires on SaturdayTell us: have you been affected by wildfires in Europe?Authorities in Spain said weather conditions in the early hours of this morning of...",
+        "description": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first ministerTell us: have you been affected by wildfires in Europe?The French prim...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Entire Cairngorms village evacuated as raging wildfire nears",
+        "url": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
+        "description": "Major incident declared over blaze that has intensified amid strengthening windsA major incident has been declared over a wildfire that has been raging in the Cairngorms national park for more than...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -126,13 +133,6 @@
         "title": "More than 200,000 people flee or lock down as wildfires sweep France and Spain",
         "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
         "description": "‘Highly unpredictable’ blaze forces evacuation of Cap Ferret on French coast and Spain declares national emergency More than 200,000 people have fled or been ordered to lock down as huge wildfires ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "France evacuates Cap Ferret peninsula as Spanish wildfires merge near Madrid – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires-cap-ferret-europe-latest-news-updates",
-        "description": "French evacuees using hundreds of mobilised boats or the only road linking the area with the mainland as evacuation also ordered in areas near Spanish capitalOver in France, it’s not just the south...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
-        "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-        "description": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+        "title": "Trump takes swipes at press during White House Correspondents' Dinner",
+        "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+        "description": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+        "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+        "description": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
         "description": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-        "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-        "description": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
