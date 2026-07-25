@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-25T13:21:49.205525+00:00",
+  "fetched_at": "2026-07-25T19:04:37.255519+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "New North Sea oil drilling faces delay after gear accidentally dropped in sea",
+        "url": "https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea",
+        "description": "Exclusive: Blunder at Rosebank, UK’s biggest undeveloped oilfield, comes as government considers granting licenceProduction at Britain’s biggest undeveloped oil and gasfield could be delayed for mo...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Home Office rejects Palestinian Jerusalemite woman’s UK visa but approves husband’s",
         "url": "https://www.theguardian.com/politics/2026/jul/25/home-office-rejects-palestinian-jerusalemite-womans-uk-visa-but-approves-husbands",
@@ -13,13 +20,6 @@
         "title": "Existing care workers could be exempt from UK’s tough new immigration rules",
         "url": "https://www.theguardian.com/society/2026/jul/24/care-workers-exempt-uk-new-immigration-rules",
         "description": "Exclusive: Andy Burnham thought to be considering waiving stricter right to remain rules for people already working in the sectorHundreds of thousands of care workers could be exempted from the hom...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform councillors told to call donations inquiry ‘establishment stitch-up’",
-        "url": "https://www.theguardian.com/politics/2026/jul/24/reform-councillors-told-to-describe-donations-inquiry-as-establishment-stitch-up",
-        "description": "Party briefing notes say: ‘Daily routine of hit jobs and smears will not deter us from winning next general election’ Reform UK has instructed its councillors to describe a police investigation int...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -116,30 +116,30 @@
     ],
     "climate": [
       {
-        "title": "France and Spain race to control wildfires as more than 250,000 evacuated – live",
+        "title": "Scorching US heat wave to hit 70 million people with third ‘heat dome’ in month",
+        "url": "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
+        "description": "Temperatures of 95-105F (35-40C) are expected, spanning Gulf of Mexico coast to the Great Plains and the midwestAbout 70 million people in the US are set to face excessive heat advisories as danger...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "France and Spain race to control wildfires as more than 250,000 evacuated – as it happened",
         "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
         "description": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first ministerTell us: have you been affected by wildfires in Europe?The French prim...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Entire Cairngorms village evacuated as raging wildfire nears",
+        "title": "Swinney requests UK military aid as 500 firefighters tackle Cairngorms wildfire",
         "url": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
-        "description": "Major incident declared over blaze that has intensified amid strengthening windsA major incident has been declared over a wildfire that has been raging in the Cairngorms national park for more than...",
+        "description": "Scottish first minister hopes aerial support will help quench 10-day fire that has forced evacuation of Highlands villageThe first minister of Scotland has asked for military aid from the UK govern...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "More than 200,000 people flee or lock down as wildfires sweep France and Spain",
-        "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
-        "description": "‘Highly unpredictable’ blaze forces evacuation of Cap Ferret on French coast and Spain declares national emergency More than 200,000 people have fled or been ordered to lock down as huge wildfires ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "It's the cocktail taking young drinkers by storm - but the packaging is 'unrecyclable'",
-        "url": "https://www.bbc.co.uk/news/articles/cr490335z1eo?at_medium=RSS&at_campaign=rss",
-        "description": "BuzzBallz cannot be recycled because the metal lid and plastic body are attached, say experts.",
+        "title": "More than 250,000 flee wildfires in France and Spain",
+        "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+        "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "More than 250,000 flee wildfires in France and Spain",
+        "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
+        "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Trump takes swipes at press during White House Correspondents' Dinner",
         "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
         "description": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-        "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-        "description": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-        "description": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+        "title": "India's 'cockroach' protest called off after education minister quits",
+        "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+        "description": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
