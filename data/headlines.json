@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-24T19:22:54.020101+00:00",
+  "fetched_at": "2026-07-25T02:31:36.716165+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Existing care workers could be exempt from UK’s tough new immigration rules",
+        "url": "https://www.theguardian.com/society/2026/jul/24/care-workers-exempt-uk-new-immigration-rules",
+        "description": "Exclusive: Andy Burnham thought to be considering waiving stricter right to remain rules for people already working in the sectorHundreds of thousands of care workers could be exempted from the hom...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Reform councillors told to call donations inquiry ‘establishment stitch-up’",
         "url": "https://www.theguardian.com/politics/2026/jul/24/reform-councillors-told-to-describe-donations-inquiry-as-establishment-stitch-up",
@@ -13,13 +20,6 @@
         "title": "Burnham urged to lobby EU leaders directly to waive EES border controls",
         "url": "https://www.theguardian.com/business/2026/jul/24/burnham-urged-to-lobby-eu-leaders-directly-to-waive-ees-border-controls",
         "description": "Lib Dems call on PM to push for suspension of ‘bungled, malfunctioning’ system as overseas holiday travel peaksAndy Burnham has been urged to lobby EU leaders directly to suspend the new entry-exit...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Andy Burnham spends first working day at new No 10 North in Manchester – UK politics live",
-        "url": "https://www.theguardian.com/uk-news/live/2026/jul/24/andy-burnham-labour-no-10-north-uk-politics-latest-news-updates",
-        "description": "PM, on his first day at new base, says it will create ‘that sense of a more balanced country, that big things can be done from here’Andy Burnham has arrived by police convoy at No 10 North at Heron...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Trump vows to investigate EU over fining of US tech companies",
-        "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+        "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
+        "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
+        "description": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "More than 200,000 people flee or lock down as wildfires sweep France and Spain",
+        "url": "https://www.theguardian.com/world/2026/jul/24/france-evacuation-cap-ferret-peninsula-wildfire",
+        "description": "‘Highly unpredictable’ blaze forces evacuation of Cap Ferret on French coast and Spain declares national emergency More than 200,000 people have fled or been ordered to lock down as huge wildfires ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "France evacuates Cap Ferret peninsula as Spanish wildfires merge near Madrid – as it happened",
         "url": "https://www.theguardian.com/world/live/2026/jul/24/france-spain-wildfires-cap-ferret-europe-latest-news-updates",
         "description": "French evacuees using hundreds of mobilised boats or the only road linking the area with the mainland as evacuation also ordered in areas near Spanish capitalOver in France, it’s not just the south...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Nutrients in our food are declining. Can regenerative agriculture save it?",
-        "url": "https://www.theguardian.com/food/2026/jul/24/nutrition-food-declining-can-regenerative-agriculture-save-it",
-        "description": "Approach focuses on rebuilding soil health, increasing biodiversity and restoring natural ecosystemsFor the last few decades, the nutrient content of our crops has been declining. In the late 90s, ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'Buck Moon' set to light up sky",
-        "url": "https://www.bbc.co.uk/news/videos/cqjxdzvk1deo?at_medium=RSS&at_campaign=rss",
-        "description": "July's full Moon is set to be a special one - Sophia Herod explains why.",
+        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+        "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+        "description": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+        "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+        "description": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
         "description": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump vows to investigate EU over fining of US tech companies",
-        "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-        "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-        "description": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
+        "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+        "url": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+        "description": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
