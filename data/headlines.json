@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-07-26T13:17:58.028676+00:00",
+  "fetched_at": "2026-07-26T19:07:19.955985+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Every new UK home should have air conditioning, say Liberal Democrats",
+        "url": "https://www.theguardian.com/environment/2026/jul/26/every-new-home-should-have-air-conditioning-say-liberal-democrats",
+        "description": "Exclusive: Party says housing stock ‘woefully unprepared’ for extreme heat and new rules for builders must be setAll new UK homes should be built with air conditioning to cope with the effects of t...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Ed Miliband indicates development and climate will be at heart of UK foreign policy",
+        "url": "https://www.theguardian.com/business/2026/jul/26/ed-miliband-development-climate-crisis-uk-foreign-policy-world-bank-seat",
+        "description": "Exclusive: Foreign secretary to take up World Bank seat and play active role in shaping changes to global lender Britain’s foreign secretary, Ed Miliband, is to indicate he will put the climate cri...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Andy Burnham says he will disagree with Trump in public if necessary",
         "url": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting",
         "description": "PM promises to ‘defend national interest before anything else’ in first big broadcast interview since entering No 10Andy Burnham has promised to disagree with Donald Trump if necessary, including i...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Birmingham council accused of giving ‘free rein’ to group erecting England flags",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/26/birmingham-council-raise-the-colours-flags-city",
-        "description": "Campaigners call for injunction against Raise the Colours, which is accused of spreading anti-immigration rhetoricBirmingham residents have accused the local council and police of “dragging their h...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Police investigate payments to Reform UK first revealed by The Guardian",
-        "url": "https://www.theguardian.com/politics/2026/jul/25/police-investigate-payments-reform-uk-guardian",
-        "description": "Scotland Yard is looking at two £250,000 donations to the party by Britain Means Business before the 2024 electionPayments to Reform UK first revealed by the Guardian are now being investigated by ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Gary Stevenson to quit YouTube channel, citing health concerns",
+        "url": "https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics",
+        "description": "Former City trader’s weekly Gary’s Economics videos took off during the Covid pandemicThe City trader turned wealth tax campaigner Gary Stevenson has announced he is quitting the YouTube channel th...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "‘Burnham bounce’ risks deflating unless focus remains on struggling households | Richard Partington",
         "url": "https://www.theguardian.com/business/2026/jul/26/burnham-bounce-risks-deflating-unless-focus-remains-on-struggling-households",
@@ -47,21 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
-        "url": "https://www.theguardian.com/australia-news/2026/jul/25/australian-households-prospect-interest-rate-hike-petrol-prices-rising",
-        "description": "Economists’ warning comes as escalating Middle East crisis pushes global crude oil back above $US100 a barrelGet our breaking news email, free app or daily news podcastAustralian households face th...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Rental searches for pet friendly properties drop after law change",
-        "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
-        "description": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
+        "title": "Water returning to Gatwick Airport after major outage",
+        "url": "https://www.bbc.co.uk/news/articles/cdew2dnxlzzo?at_medium=RSS&at_campaign=rss",
+        "description": "Gatwick Airport has faced a day of disruptions with toilets and restaurants closed to passengers.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "England’s north-south life expectancy gap grows despite record longevity",
+        "url": "https://www.theguardian.com/society/2026/jul/26/england-north-south-life-expectancy-gap-grows-despite-record-longevity",
+        "description": "King’s Fund report finds men and women live, on average, for 80 years and nearly 84 years, but gains are in southThe north-south divide in life expectancy in England has grown over the past decade,...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Burnham is acting like he’s mayor of everywhere – that’s not devolving power to local communities | Simon Jenkins",
         "url": "https://www.theguardian.com/commentisfree/2026/jul/24/andy-burnham-mayor-everywhere-devolving-localism-centralised-meloni-macron",
@@ -73,13 +80,6 @@
         "title": "‘I would rather be poor’: man says money cannot compensate for partner’s death after failed cancer diagnosis",
         "url": "https://www.theguardian.com/society/2026/jul/23/i-would-rather-be-poor-man-says-money-cannot-compensate-for-partners-death-after-failed-cancer-diagnosis",
         "description": "Exclusive: Darren Rosheski won NHS payout over partner Helen Dutton’s death from rectal cancer after GP misjudged her symptoms“I remember the doctor, after he’d examined Helen and found a large lum...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "NHS trust investigated for corporate manslaughter after Nottingham attacks",
-        "url": "https://www.theguardian.com/society/2026/jul/22/nhs-trust-corporate-manslaughter-investigation-nottingham-attacks-valdo-calocane",
-        "description": "Trust that treated Valdo Calocane, who killed three people in 2023, sectioned him four times between 2020 and 2022The NHS trust that treated the triple killer Valdo Calocane in the years before the...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,30 +116,30 @@
     ],
     "climate": [
       {
-        "title": "Firefighters in France battle to prevent huge blaze from approaching Bordeaux",
-        "url": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
-        "description": "Efforts to contain wildfire that has consumed an area of four times the size of Paris impeded by windy conditionsEurope wildfires live – latest updatesAuthorities are battling to contain a huge wil...",
+        "title": "Every new UK home should have air conditioning, say Liberal Democrats",
+        "url": "https://www.theguardian.com/environment/2026/jul/26/every-new-home-should-have-air-conditioning-say-liberal-democrats",
+        "description": "Exclusive: Party says housing stock ‘woefully unprepared’ for extreme heat and new rules for builders must be setAll new UK homes should be built with air conditioning to cope with the effects of t...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sanchez as more than 300,000 flee homes in France and Spain",
+        "title": "Ed Miliband indicates development and climate will be at heart of UK foreign policy",
+        "url": "https://www.theguardian.com/business/2026/jul/26/ed-miliband-development-climate-crisis-uk-foreign-policy-world-bank-seat",
+        "description": "Exclusive: Foreign secretary to take up World Bank seat and play active role in shaping changes to global lender Britain’s foreign secretary, Ed Miliband, is to indicate he will put the climate cri...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sánchez as more than 300,000 flee homes in France and Spain – as it happened",
         "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
         "description": "Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in FranceMore than 250,000 people flee wildfires in France and SpainA...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Evacuated villagers in Cairngorms allowed home after wildfire threat lifts",
-        "url": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
-        "description": "Scottish first minister thanks Nethy Bridge residents and aid workers after earlier requesting UK military aid to fight 10-day fireResidents of Nethy Bridge have been told they can return to their ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'It's like having an amusement park and not opening it' - algae closures take toll",
-        "url": "https://www.bbc.co.uk/news/articles/c1m159e54l9o?at_medium=RSS&at_campaign=rss",
-        "description": "There are currently 245 algae blooms across water systems in Northern Ireland.",
+        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
+        "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -194,7 +194,14 @@
       {
         "title": "What we know so far about the Berlin Pride ramming attack",
         "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
-        "description": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+        "description": "A police manhunt is under way after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+        "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+        "description": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
         "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
         "description": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Trump takes swipes at press during White House Correspondents' Dinner",
-        "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-        "description": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
