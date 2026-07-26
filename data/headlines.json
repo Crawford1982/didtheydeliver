@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-26T08:24:00.160739+00:00",
+  "fetched_at": "2026-07-26T13:17:58.028676+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Andy Burnham says he will disagree with Trump in public if necessary",
+        "url": "https://www.theguardian.com/politics/2026/jul/26/andy-burnham-interview-bbc-donald-trump-wes-streeting",
+        "description": "PM promises to ‘defend national interest before anything else’ in first big broadcast interview since entering No 10Andy Burnham has promised to disagree with Donald Trump if necessary, including i...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Birmingham council accused of giving ‘free rein’ to group erecting England flags",
         "url": "https://www.theguardian.com/uk-news/2026/jul/26/birmingham-council-raise-the-colours-flags-city",
@@ -17,13 +24,6 @@
         "category": "government"
       },
       {
-        "title": "New North Sea oil drilling faces delay after gear accidentally dropped in sea",
-        "url": "https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea",
-        "description": "Exclusive: Blunder at Rosebank, UK’s biggest undeveloped oilfield, comes as government considers granting licenceProduction at Britain’s biggest undeveloped oil and gasfield could be delayed for mo...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
         "url": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss",
         "description": "Speaking exclusively to the BBC, the prime minister says he had a good first conversation with the US president and insists \"you have to defend your own national interest\".",
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "‘Burnham bounce’ risks deflating unless focus remains on struggling households | Richard Partington",
+        "url": "https://www.theguardian.com/business/2026/jul/26/burnham-bounce-risks-deflating-unless-focus-remains-on-struggling-households",
+        "description": "UK’s inequalities expose splits in consumer economy, with spending suffering and a decline in savings among the poorestA “Burnham bounce”, sunshine and a strong World Cup run for the England men’s ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Can Japan avoid a Liz Truss-style shock as its PM embarks on a giant spending spree?",
         "url": "https://www.theguardian.com/world/2026/jul/25/japan-sanae-takaichi-investment-plan-liz-truss-economy",
@@ -43,13 +50,6 @@
         "title": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
         "url": "https://www.theguardian.com/australia-news/2026/jul/25/australian-households-prospect-interest-rate-hike-petrol-prices-rising",
         "description": "Economists’ warning comes as escalating Middle East crisis pushes global crude oil back above $US100 a barrelGet our breaking news email, free app or daily news podcastAustralian households face th...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Trump imposes fresh tariffs on UK, EU and dozens of other trading partners",
-        "url": "https://www.theguardian.com/us-news/2026/jul/23/trump-administration-trade-tariffs",
-        "description": "New tariffs will replace 10% global duty and come after US supreme court declared many of the earlier levies illegalDonald Trump has imposed a fresh round of tariffs on more than 80 countries to re...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -116,7 +116,14 @@
     ],
     "climate": [
       {
-        "title": "Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage",
+        "title": "Firefighters in France battle to prevent huge blaze from approaching Bordeaux",
+        "url": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
+        "description": "Efforts to contain wildfire that has consumed an area of four times the size of Paris impeded by windy conditionsEurope wildfires live – latest updatesAuthorities are battling to contain a huge wil...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sanchez as more than 300,000 flee homes in France and Spain",
         "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
         "description": "Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in FranceMore than 250,000 people flee wildfires in France and SpainA...",
         "source": "The Guardian",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Scorching US heatwave to hit 70 million people with third ‘heat dome’ in month",
-        "url": "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
-        "description": "Temperatures of 95-105F (35-40C) are expected, spanning Gulf of Mexico coast to the Great Plains and the midwestAbout 70 million people in the US are set to face excessive heat advisories as danger...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "'It's like having an amusement park and not opening it' - algae closures take toll",
         "url": "https://www.bbc.co.uk/news/articles/c1m159e54l9o?at_medium=RSS&at_campaign=rss",
         "description": "There are currently 245 algae blooms across water systems in Northern Ireland.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Is Burnham’s Oxbridge-heavy cabinet a sign of social mobility or lack of progress on class?",
+        "url": "https://www.theguardian.com/politics/2026/jul/26/burnham-oxbridge-cabinet-social-mobility-class",
+        "description": "PM’s team can be seen as backward step even though in some ways it is more diverse. Yet its makeup points to wider access to powerRace, school, gender: the makeup of Andy Burnham’s cabinet – in cha...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "The ‘cockroaches’ marching on India’s government – podcast",
         "url": "https://www.theguardian.com/news/audio/2026/jul/24/the-cockroaches-marching-on-indias-government-podcast",
@@ -156,13 +163,6 @@
         "title": "‘Without this it’s all just tourists’: the fight to save Soho’s last primary school",
         "url": "https://www.theguardian.com/education/2026/jul/18/without-this-school-its-all-just-tourists-fight-for-soho-last-primary",
         "description": "Falling pupil numbers have left ‘unique’ London school facing an uncertain future, but its supporters have ambitious plansSandwiched between a strip club, a West End theatre and a pub might not be ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "The school holidays are here – let’s play ‘arguing over screen time’: the Stephen Collins cartoon",
-        "url": "https://www.theguardian.com/lifeandstyle/picture/2026/jul/17/wars-over-screen-time-stephen-collins-cartoon",
-        "description": "Continue reading...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
-        "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
-        "description": "A 21-year-old suspect has been identified by police, but he has not been found.",
+        "title": "What we know so far about the Berlin Pride ramming attack",
+        "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
+        "description": "A police manhunt is underway after a suspect rammed a car into a crowd at a Pride event in the German capital on Saturday night.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+        "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
         "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-        "description": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
+        "description": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
