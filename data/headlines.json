@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-26T02:39:02.856158+00:00",
+  "fetched_at": "2026-07-26T08:24:00.160739+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Birmingham council accused of giving ‘free rein’ to group erecting England flags",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/26/birmingham-council-raise-the-colours-flags-city",
+        "description": "Campaigners call for injunction against Raise the Colours, which is accused of spreading anti-immigration rhetoricBirmingham residents have accused the local council and police of “dragging their h...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Police investigate payments to Reform UK first revealed by The Guardian",
         "url": "https://www.theguardian.com/politics/2026/jul/25/police-investigate-payments-reform-uk-guardian",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Home Office rejects Palestinian Jerusalemite woman’s UK visa but approves husband’s",
-        "url": "https://www.theguardian.com/politics/2026/jul/25/home-office-rejects-palestinian-jerusalemite-womans-uk-visa-but-approves-husbands",
-        "description": "Officials not satisfied Therese Abdallah is a ‘genuine visitor’ and believe she would not leave after visit to son in LondonA Palestinian Jerusalemite who lives in London has been left devastated a...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Laura Kuenssberg goes behind the scenes with Andy Burnham in his first week as PM",
-        "url": "https://www.bbc.co.uk/news/videos/c0l51y7k0wwo?at_medium=RSS&at_campaign=rss",
-        "description": "See inside Andy Burnham's first week in charge, with an exclusive behind the scenes look with Laura Kuenssberg.",
+        "title": "Burnham says he is prepared to call out Trump 'if right for Britain'",
+        "url": "https://www.bbc.co.uk/news/articles/clye651yzdjo?at_medium=RSS&at_campaign=rss",
+        "description": "Speaking exclusively to the BBC, the prime minister says he had a good first conversation with the US president and insists \"you have to defend your own national interest\".",
         "source": "BBC News",
         "category": "government"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage",
+        "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
+        "description": "Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in FranceMore than 250,000 people flee wildfires in France and SpainA...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Evacuated villagers in Cairngorms allowed home after wildfire threat lifts",
         "url": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
         "description": "Scottish first minister thanks Nethy Bridge residents and aid workers after earlier requesting UK military aid to fight 10-day fireResidents of Nethy Bridge have been told they can return to their ...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "France and Spain race to control wildfires as more than 250,000 evacuated – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
-        "description": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first ministerTell us: have you been affected by wildfires in Europe?The French prim...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "More than 300,000 flee wildfires in France and Spain",
-        "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-        "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+        "title": "'It's like having an amusement park and not opening it' - algae closures take toll",
+        "url": "https://www.bbc.co.uk/news/articles/c1m159e54l9o?at_medium=RSS&at_campaign=rss",
+        "description": "There are currently 245 algae blooms across water systems in Northern Ireland.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "More than 300,000 flee wildfires in France and Spain",
-        "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-        "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
+        "title": "Watch: At the scene of Berlin Pride attack as manhunt continues",
+        "url": "https://www.bbc.co.uk/news/videos/c74gzknyyz2o?at_medium=RSS&at_campaign=rss",
+        "description": "A 21-year-old suspect has been identified by police, but he has not been found.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "France battles fire 'whirlwinds' as another 55,000 evacuated",
+        "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 340,000 people have now been evacuated from wildfires in France and Spain.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Trump takes swipes at press during White House Correspondents' Dinner",
         "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
         "description": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "India's 'cockroach' protest called off after education minister quits",
-        "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-        "description": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
