@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-25T19:04:37.255519+00:00",
+  "fetched_at": "2026-07-26T02:39:02.856158+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Police investigate payments to Reform UK first revealed by The Guardian",
+        "url": "https://www.theguardian.com/politics/2026/jul/25/police-investigate-payments-reform-uk-guardian",
+        "description": "Scotland Yard is looking at two £250,000 donations to the party by Britain Means Business before the 2024 electionPayments to Reform UK first revealed by the Guardian are now being investigated by ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "New North Sea oil drilling faces delay after gear accidentally dropped in sea",
         "url": "https://www.theguardian.com/business/2026/jul/25/new-north-sea-oil-drilling-rosebank-faces-delay-after-gear-dropped-into-sea",
@@ -13,13 +20,6 @@
         "title": "Home Office rejects Palestinian Jerusalemite woman’s UK visa but approves husband’s",
         "url": "https://www.theguardian.com/politics/2026/jul/25/home-office-rejects-palestinian-jerusalemite-womans-uk-visa-but-approves-husbands",
         "description": "Officials not satisfied Therese Abdallah is a ‘genuine visitor’ and believe she would not leave after visit to son in LondonA Palestinian Jerusalemite who lives in London has been left devastated a...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Existing care workers could be exempt from UK’s tough new immigration rules",
-        "url": "https://www.theguardian.com/society/2026/jul/24/care-workers-exempt-uk-new-immigration-rules",
-        "description": "Exclusive: Andy Burnham thought to be considering waiving stricter right to remain rules for people already working in the sectorHundreds of thousands of care workers could be exempted from the hom...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "ADHD has rewired the workplace. This is what it means for bosses and workers",
-        "url": "https://www.bbc.co.uk/news/articles/c70gq125xweo?at_medium=RSS&at_campaign=rss",
-        "description": "As ADHD diagnoses have risen, have workplaces caught up with the needs of the workforce?",
+        "title": "Rental searches for pet friendly properties drop after law change",
+        "url": "https://www.bbc.co.uk/news/articles/cj3gd312d8yo?at_medium=RSS&at_campaign=rss",
+        "description": "Agents say some renters wrongly believe permission to have a pet is guaranteed.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "First person gets new experimental vaccine for Ebola",
-        "url": "https://www.bbc.co.uk/news/articles/c8jn007gmpzo?at_medium=RSS&at_campaign=rss",
-        "description": "Ed Hunt, 37 and from the UK, voluteered after seeing news reports of the deadly Ebola outbreak in DR Congo.",
+        "title": "Burnham to address social care, youth unemployment and devolution",
+        "url": "https://www.bbc.co.uk/news/articles/cwylnl17w09o?at_medium=RSS&at_campaign=rss",
+        "description": "A No 10 source says it is an attempt by the prime minister to show he is \"hitting the ground running\".",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,7 +116,14 @@
     ],
     "climate": [
       {
-        "title": "Scorching US heat wave to hit 70 million people with third ‘heat dome’ in month",
+        "title": "Evacuated villagers in Cairngorms allowed home after wildfire threat lifts",
+        "url": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
+        "description": "Scottish first minister thanks Nethy Bridge residents and aid workers after earlier requesting UK military aid to fight 10-day fireResidents of Nethy Bridge have been told they can return to their ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Scorching US heatwave to hit 70 million people with third ‘heat dome’ in month",
         "url": "https://www.theguardian.com/us-news/2026/jul/25/scorching-us-heat-wave",
         "description": "Temperatures of 95-105F (35-40C) are expected, spanning Gulf of Mexico coast to the Great Plains and the midwestAbout 70 million people in the US are set to face excessive heat advisories as danger...",
         "source": "The Guardian",
@@ -130,14 +137,7 @@
         "category": "climate"
       },
       {
-        "title": "Swinney requests UK military aid as 500 firefighters tackle Cairngorms wildfire",
-        "url": "https://www.theguardian.com/world/2026/jul/25/entire-cairngorms-village-evacuated-as-raging-wildfire-nears",
-        "description": "Scottish first minister hopes aerial support will help quench 10-day fire that has forced evacuation of Highlands villageThe first minister of Scotland has asked for military aid from the UK govern...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "More than 250,000 flee wildfires in France and Spain",
+        "title": "More than 300,000 flee wildfires in France and Spain",
         "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
         "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
         "source": "BBC News",
@@ -192,7 +192,7 @@
     ],
     "foreign_policy": [
       {
-        "title": "More than 250,000 flee wildfires in France and Spain",
+        "title": "More than 300,000 flee wildfires in France and Spain",
         "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
         "description": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
         "source": "BBC News",
