@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-07-27T09:49:12.179295+00:00",
+  "fetched_at": "2026-07-27T14:29:57.339493+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Tories and Reform UK tell Burnham they will fight any plan to reform adult social care involving tax rises – UK politics live",
+        "title": "Poll shows Labour ahead of Reform UK for first time since Burnham became PM – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jul/27/andy-burnham-social-care-politics-live-latest-news-defence-nhs-reform-uk-tories-updates",
-        "description": "Defence secretary Wes Streeting says the country will see a prime minister that ‘runs towards big and difficult issues’Andy Burnham has said there are “big decisions” ahead of his government on cou...",
+        "description": "The Green party has its lowest share of the vote since Zack Polanski became leader, data showsI have already posted lines from Andy Burnham’s BBC interview on reforming social care (see 9.03am), ma...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham vows to use his ‘political capital’ to fix social care system",
-        "url": "https://www.theguardian.com/society/2026/jul/27/andy-burnham-vows-to-use-his-political-capital-to-fix-social-care-system",
-        "description": "PM says that without rapid action the NHS could effectively collapse, in first full interview since entering No 10Andy Burnham has promised to use “whatever political capital I have” to finally fix...",
+        "title": "German officials call for tighter extremism laws after Berlin Pride attack",
+        "url": "https://www.theguardian.com/politics/2026/jul/27/german-officials-tighter-extremism-laws-berlin-pride-attack",
+        "description": "Alternative für Deutschland, topping polls ahead of state elections, accuses government of failing to tackle Islamist radicalismEurope live – latest updatesGerman officials have called for a tighte...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform UK levy on employing overseas staff ‘would harm NHS and social care’",
-        "url": "https://www.theguardian.com/politics/2026/jul/27/reform-uk-levy-overseas-staff-nhs-social-care-schools-universities",
-        "description": "Exclusive: Experts say policy could also cause shortages of school teachers and drive some universities to bankruptcyReform UK’s plan to make employers pay an annual levy for overseas staff would h...",
+        "title": "Jodrell Bank Observatory facing closure after major funder cuts support",
+        "url": "https://www.theguardian.com/science/2026/jul/27/jodrell-bank-observatory-facing-closure-uk",
+        "description": "Scientists say decision is blow to UK astronomy as deep space observatory is home to world-leading facilitiesJodrell Bank Observatory, which runs a world-leading network of radio telescopes, is fac...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -42,7 +42,7 @@
       {
         "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
         "url": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100",
-        "description": "Brent crude drops 6% to below $91 a barrel, while shares in energy firms BP and Shell slide on FTSE 100Business live – latest updatesOil prices have dropped by 6% as traders bet that a pause in US ...",
+        "description": "Brent crude drops 9% to below $88 a barrel, prompting UK government bond yields to fall Business live – latest updatesOil prices have dropped sharply as traders bet that a pause in US attacks on Ir...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Shein swings to $99m loss as Trump tariffs hit sales",
-        "url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss",
-        "description": "The announcement comes as the fast fashion giant prepares for its stock market debut in Hong Kong.",
+        "title": "How wildfires in France and Spain might affect your travel plans",
+        "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
+        "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Alarm at NHS patient records being put under control of US private equity firm",
+        "url": "https://www.theguardian.com/society/2026/jul/27/nhs-patients-records-us-private-equity-firm-optum-uk-tpg",
+        "description": "Doctors and MPs urge more scrutiny of £300m deal for company behind system used by most GPs in EnglandUK politics live – latest updatesBusiness live – latest updatesA US private equity firm will ta...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Andy Burnham vows to use his ‘political capital’ to fix social care system",
         "url": "https://www.theguardian.com/society/2026/jul/27/andy-burnham-vows-to-use-his-political-capital-to-fix-social-care-system",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "How Palantir got into the NHS - podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/jul/27/how-palantir-got-into-the-nhs-podcast",
-        "description": "The investigative journalist Lucas Amin reports on how the tech company Palantir won a £330m contract with the NHS … and what happened once its software was introducedHow did Palantir – sometimes d...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Badenoch says PM must rule out tax rises to fund social care reform",
         "url": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo?at_medium=RSS&at_campaign=rss",
         "description": "In a letter to the PM, the Conservative leader offers to work with him on adult social care reform.",
@@ -93,32 +93,39 @@
     ],
     "immigration": [
       {
+        "title": "Home Office blocking evacuation of dozens of women and children from Gaza",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/27/home-office-blocking-evacuation-women-children-gaza-refugee-family-reunion",
+        "description": "Refugee family reunions in limbo, despite Foreign Office saying it is ready to get people out of war-torn territoryThe Home Office is blocking the evacuation of dozens of women and children from Ga...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Poll shows Labour ahead of Reform UK for first time since Burnham became PM – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/27/andy-burnham-social-care-politics-live-latest-news-defence-nhs-reform-uk-tories-updates",
+        "description": "The Green party has its lowest share of the vote since Zack Polanski became leader, data showsI have already posted lines from Andy Burnham’s BBC interview on reforming social care (see 9.03am), ma...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Existing care workers could be exempt from UK’s tough new immigration rules",
         "url": "https://www.theguardian.com/society/2026/jul/24/care-workers-exempt-uk-new-immigration-rules",
         "description": "Exclusive: Andy Burnham thought to be considering waiving stricter right to remain rules for people already working in the sectorHundreds of thousands of care workers could be exempted from the hom...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "The battle to reclaim Epping – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/jul/20/the-battle-over-epping-bell-hotel-one-year-on-podcast",
-        "description": "Tim Burrows goes back to Epping in Essex one year after protesters from across the country descended on the small town to demonstrate against asylum seekers being housed at the Bell hotelIn July 20...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Fossil fuels, utilities and housing: what we know about Andy Burnham’s plans",
-        "url": "https://www.theguardian.com/politics/2026/jul/19/no-10-north-utilities-north-sea-drilling-andy-burnham-plans-government",
-        "description": "Incoming prime minister has set out distinctly leftwing vision while also promising to be pro-businessAs an incoming prime minister promising huge change, one of the strongest criticisms Andy Burnh...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Europe wildfires live: Macron to chair crisis meeting as France and Spain continue to battle major blazes",
+        "title": "Europe live: Officials warn that wildfires could still be burning in November",
         "url": "https://www.theguardian.com/world/live/2026/jul/27/europe-wildfires-france-spain-emmanuel-macron-crisis-meeting-pedro-sanchez-castillon-latest-news-updates",
-        "description": "Firefighters in France and Spain face another day battling wildfires that have seen hundreds of thousands of people evacuatedPedro Sánchez says Spain is suffering effects of climate crisis as firef...",
+        "description": "Firefighters in France and Spain face another day battling wildfires, as another heatwave set to hit this weekPedro Sánchez says Spain is suffering effects of climate crisis as firefighters battle ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "PM urged to uphold climate pledges made as mayor and ban new North Sea oil drilling",
+        "url": "https://www.theguardian.com/environment/2026/jul/27/burnham-climate-pledge-greater-manchester-mayor-ban-new-north-sea-oil-drilling",
+        "description": "Experts who helped Burnham draw up Manchester carbon neutral pledge say backtracking would send wrong message amid wildfires and heatwavesEurope wildfires – latest updatesLeading climate scientists...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Pedro Sánchez says Spain is suffering effects of climate crisis as firefighters battle wildfires in France",
-        "url": "https://www.theguardian.com/world/2026/jul/26/firefighters-in-france-battle-to-prevent-huge-blaze-from-approaching-bordeaux",
-        "description": "Blazes near Madrid coming under control but efforts to contain huge fire near Bordeaux hampered by windy conditions while another heatwave forecastWhat is a ‘fire cloud’, and how have they worsened...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Macron calls crisis meeting as wildfires threaten Bordeaux and heatwave looms",
-        "url": "https://www.bbc.co.uk/news/articles/c2350zlyy1yo?at_medium=RSS&at_campaign=rss",
-        "description": "Blazes are about 15km from Bordeaux, but the city's mayor says there are no plans to evacuate.",
+        "title": "Devastating European wildfires in maps - and how they're being tackled",
+        "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+        "description": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "White paint, trees or air con? What parents and teachers can do to cool UK’s overheating schools",
+        "url": "https://www.theguardian.com/education/2026/jul/27/what-parents-teachers-can-do-cool-uk-overheating-schools",
+        "description": "While longer-term action is needed, there are steps that can be taken during the holidays to help keep children safeThis summer, repeated heatwaves drove classroom temperatures to unbearable levels...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Reform UK levy on employing overseas staff ‘would harm NHS and social care’",
         "url": "https://www.theguardian.com/politics/2026/jul/27/reform-uk-levy-overseas-staff-nhs-social-care-schools-universities",
@@ -156,13 +163,6 @@
         "title": "Is Burnham’s Oxbridge-heavy cabinet a sign of social mobility or lack of progress on class?",
         "url": "https://www.theguardian.com/politics/2026/jul/26/burnham-oxbridge-cabinet-social-mobility-class",
         "description": "PM’s team can be seen as backward step even though in some ways it is more diverse. Yet its makeup points to wider access to powerRace, school, gender: the makeup of Andy Burnham’s cabinet – in cha...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "The ‘cockroaches’ marching on India’s government – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/jul/24/the-cockroaches-marching-on-indias-government-podcast",
-        "description": "South Asia correspondent Hannah Ellis-Petersen on the Cockroach movement – and the students driving India’s biggest protests in years‘I’ve never seen this many young people out on the streets,’ say...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-        "url": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
-        "description": "Several others, including a two-year-old boy, were also injured. Seattle Mayor Katie Wilson says a suspect is in custody.",
+        "title": "Devastating European wildfires in maps - and how they're being tackled",
+        "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
+        "description": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Berlin Pride attack suspect shot and killed during police operation",
-        "url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss",
-        "description": "Police say Abdul Ballout was shot and killed after he rushed at officers with a knife in a western borough of Berlin.",
+        "title": "Oil price dives as US and Iran pause attacks",
+        "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+        "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Netanyahu accuses NYC Mayor Mamdani of 'fomenting hate' after arrest threat",
-        "url": "https://www.bbc.co.uk/news/articles/c5yegvd9ddeo?at_medium=RSS&at_campaign=rss",
-        "description": "Mamdani walked back his threat last week, acknowledging he lacked the legal power to arrest Netanyahu on a warrant issued by the International Criminal Court.",
+        "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
+        "description": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
