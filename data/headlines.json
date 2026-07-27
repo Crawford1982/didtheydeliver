@@ -1,48 +1,41 @@
 {
-  "fetched_at": "2026-07-27T14:29:57.339493+00:00",
+  "fetched_at": "2026-07-27T19:24:28.164324+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Poll shows Labour ahead of Reform UK for first time since Burnham became PM – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/27/andy-burnham-social-care-politics-live-latest-news-defence-nhs-reform-uk-tories-updates",
-        "description": "The Green party has its lowest share of the vote since Zack Polanski became leader, data showsI have already posted lines from Andy Burnham’s BBC interview on reforming social care (see 9.03am), ma...",
+        "title": "Will Andy Burnham charm Volodymyr Zelenskyy? – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/jul/27/will-andy-burnham-charm-volodymyr-zelenskyy-podcast",
+        "description": "Andy Burnham’s first overseas visitor will be the Ukrainian prime minister, Volodymyr Zelenskyy, in a show of the UK’s ‘unwavering support’ for the country. But what else do we know about our new p...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "German officials call for tighter extremism laws after Berlin Pride attack",
-        "url": "https://www.theguardian.com/politics/2026/jul/27/german-officials-tighter-extremism-laws-berlin-pride-attack",
-        "description": "Alternative für Deutschland, topping polls ahead of state elections, accuses government of failing to tackle Islamist radicalismEurope live – latest updatesGerman officials have called for a tighte...",
+        "title": "Social care in England: how could we pay to fix a ‘broken system’?",
+        "url": "https://www.theguardian.com/society/2026/jul/27/social-care-reform-in-england-how-could-we-pay-to-fix-a-broken-system",
+        "description": "Many across the political spectrum agree the system needs fixing – but there is no consensus on how to fund changeThe prime minister, Andy Burnham, has said the adult social care system in England ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Jodrell Bank Observatory facing closure after major funder cuts support",
-        "url": "https://www.theguardian.com/science/2026/jul/27/jodrell-bank-observatory-facing-closure-uk",
-        "description": "Scientists say decision is blow to UK astronomy as deep space observatory is home to world-leading facilitiesJodrell Bank Observatory, which runs a world-leading network of radio telescopes, is fac...",
+        "title": "Andy Burnham seeks cross-party agreement on future of social care",
+        "url": "https://www.theguardian.com/society/2026/jul/27/andy-burnham-cross-party-agreement-social-care",
+        "description": "PM promises lasting solution for England but Tories rule out backing changes funded by tax rises or borrowingAndy Burnham has pledged to work collaboratively with other parties to find a lasting so...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "NHS 'will collapse' without social care reform, PM tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cn0n5xpzlz2o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister says he would not want to leave office without bringing in \"substantial change\" to the social care system.",
+        "title": "Reform UK reporting Green leader Zack Polanski to police over Instagram post",
+        "url": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
+        "description": "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Gary Stevenson to quit YouTube channel, citing health concerns",
-        "url": "https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics",
-        "description": "Former City trader’s weekly Gary’s Economics videos took off during the Covid pandemicThe City trader turned wealth tax campaigner Gary Stevenson has announced he is quitting the YouTube channel th...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
         "url": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100",
-        "description": "Brent crude drops 9% to below $88 a barrel, prompting UK government bond yields to fall Business live – latest updatesOil prices have dropped sharply as traders bet that a pause in US attacks on Ir...",
+        "description": "Brent crude drops 9% to below $88 a barrel, prompting UK government bond yields to fallOil prices have dropped sharply as traders bet that a pause in US attacks on Iran could prevent an escalation ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +47,16 @@
         "category": "economy"
       },
       {
-        "title": "How wildfires in France and Spain might affect your travel plans",
-        "url": "https://www.bbc.co.uk/news/articles/ce3qv0ggndno?at_medium=RSS&at_campaign=rss",
-        "description": "For those who have upcoming holidays to the affected regions, here is what you should know about how it might impact your plans.",
+        "title": "Gary Stevenson to quit YouTube channel, citing health concerns",
+        "url": "https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics",
+        "description": "Former City trader’s weekly Gary’s Economics videos took off during the Covid pandemicThe City trader turned wealth tax campaigner Gary Stevenson has announced he is quitting the YouTube channel th...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
+        "url": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss",
+        "description": "Cracker Barrel CEO Julie Masino will exit following customer backlash over modern logo redesign.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -65,7 +65,7 @@
       {
         "title": "Alarm at NHS patient records being put under control of US private equity firm",
         "url": "https://www.theguardian.com/society/2026/jul/27/nhs-patients-records-us-private-equity-firm-optum-uk-tpg",
-        "description": "Doctors and MPs urge more scrutiny of £300m deal for company behind system used by most GPs in EnglandUK politics live – latest updatesBusiness live – latest updatesA US private equity firm will ta...",
+        "description": "Doctors and MPs urge more scrutiny of £300m deal for company behind system used by most GPs in EnglandA US private equity firm will take control of NHS patient records in a deal experts say should ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -100,9 +100,9 @@
         "category": "immigration"
       },
       {
-        "title": "Poll shows Labour ahead of Reform UK for first time since Burnham became PM – UK politics live",
+        "title": "Poll shows Labour ahead of Reform UK for first time since Burnham became PM – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/27/andy-burnham-social-care-politics-live-latest-news-defence-nhs-reform-uk-tories-updates",
-        "description": "The Green party has its lowest share of the vote since Zack Polanski became leader, data showsI have already posted lines from Andy Burnham’s BBC interview on reforming social care (see 9.03am), ma...",
+        "description": "New PM says he ‘wouldn’t get carried away’ by latest polling but says he is pleased if he has ‘connected with people’I have already posted lines from Andy Burnham’s BBC interview on reforming socia...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,35 +116,42 @@
     ],
     "climate": [
       {
-        "title": "Europe live: Officials warn that wildfires could still be burning in November",
+        "title": "Europe wildfires: Officials warn that wildfires could still be burning in November – as it happened",
         "url": "https://www.theguardian.com/world/live/2026/jul/27/europe-wildfires-france-spain-emmanuel-macron-crisis-meeting-pedro-sanchez-castillon-latest-news-updates",
-        "description": "Firefighters in France and Spain face another day battling wildfires, as another heatwave set to hit this weekPedro Sánchez says Spain is suffering effects of climate crisis as firefighters battle ...",
+        "description": "Firefighters in France and Spain face another day battling wildfires, as another heatwave set to hit this week‘It felt like being in a disaster movie’: inside the evacuation from France’s Bordeaux ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "PM urged to uphold climate pledges made as mayor and ban new North Sea oil drilling",
-        "url": "https://www.theguardian.com/environment/2026/jul/27/burnham-climate-pledge-greater-manchester-mayor-ban-new-north-sea-oil-drilling",
-        "description": "Experts who helped Burnham draw up Manchester carbon neutral pledge say backtracking would send wrong message amid wildfires and heatwavesEurope wildfires – latest updatesLeading climate scientists...",
+        "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
+        "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+        "description": "Coming days are ‘absolutely critical’ for firefighters before temperatures rise again this week, officials sayFirefighters in France and Spain are racing to bring huge wildfires under control befor...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Uganda begins emergency food handouts after 19 die from hunger",
-        "url": "https://www.theguardian.com/global-development/2026/jul/27/uganda-begins-emergency-food-handouts-after-19-die-from-hunger",
-        "description": "Government move follows months of drought and crop failures in Karamoja, with 1.5m people facing malnutritionUganda has launched emergency food relief distribution after at least 19 deaths from hun...",
+        "title": "Britain braces for fourth heatwave of year as fire chiefs issue public appeal",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/27/uk-weather-fourth-heatwave-of-year",
+        "description": "Temperatures up to 35C forecast, triggering heat health alerts and pleas to take care in parched parks and rural areasParamedics and firefighters are braced for emergencies across the country this ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Devastating European wildfires in maps - and how they're being tackled",
-        "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-        "description": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
+        "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+        "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+        "description": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "New York school district halts plan to use humanoid robot amid backlash",
+        "url": "https://www.theguardian.com/us-news/2026/jul/27/new-york-school-humanoid-robot-plan-paused",
+        "description": "Salamanca City Central says it is pausing project with Realbotix as it addresses concerns including data privacyA New York school district has walked back plans to introduce a humanoid robot at its...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "White paint, trees or air con? What parents and teachers can do to cool UK’s overheating schools",
         "url": "https://www.theguardian.com/education/2026/jul/27/what-parents-teachers-can-do-cool-uk-overheating-schools",
@@ -158,39 +165,39 @@
         "description": "Exclusive: Experts say policy could also cause shortages of school teachers and drive some universities to bankruptcyReform UK’s plan to make employers pay an annual levy for overseas staff would h...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Is Burnham’s Oxbridge-heavy cabinet a sign of social mobility or lack of progress on class?",
-        "url": "https://www.theguardian.com/politics/2026/jul/26/burnham-oxbridge-cabinet-social-mobility-class",
-        "description": "PM’s team can be seen as backward step even though in some ways it is more diverse. Yet its makeup points to wider access to powerRace, school, gender: the makeup of Andy Burnham’s cabinet – in cha...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Councils can lead on housing improvements | Letter",
+        "url": "https://www.theguardian.com/environment/2026/jul/27/councils-can-lead-on-housing-improvements",
+        "description": "Dr Stephen Battersby on the lessons this Labour government can learn from the 1970sYour editorial quoting Sam Johnson-Schlee saying that our ability to trust that our homes will keep us safe is und...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Families in London temporary housing told they cannot use in-built air conditioning",
+        "url": "https://www.theguardian.com/society/2026/jul/27/homeless-families-london-temporary-housing-air-conditioning",
+        "description": "Exclusive: Two children taken to hospital during heatwaves after residents told units in glass-fronted block ‘not offered as amenity’Homeless families placed in temporary accommodation in London we...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "‘It’s generations of decline’: can Andy Burnham really end rough sleeping?",
         "url": "https://www.theguardian.com/society/2026/jul/24/can-andy-burnham-really-end-rough-sleeping",
         "description": "Outreach workers on the frontline of England’s homelessness crisis react to PM’s flagship policy pledgeUK politics live – latest updatesIt is close to midnight as two outreach workers from Spear, a...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "The Guardian view on Britain’s uninhabitable homes: as temperatures rise, a new approach is needed | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/23/the-guardian-view-on-britains-uninhabitable-homes-as-temperatures-rise-a-new-approach-is-needed",
-        "description": "Sadiq Khan’s heat-ready plan for London is a sensible strategy for adaptation that should provide a roadmap for other cities“Our ability to trust that our homes will keep us safe from the outside i...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Thursday briefing: ​Now he has the power to do it, can Andy Burham really end homelessness in the UK?",
-        "url": "https://www.theguardian.com/world/2026/jul/23/thursday-briefing-now-he-has-the-power-to-do-it-can-andy-burham-really-end-homelessness-in-the-uk",
-        "description": "In today’s newsletter: The fight to end rough sleeping now hinges on whether ​our new PM can match local innovation​s with ​a​ coherent policy ​of investmentGood morning. On 29 June, as the media g...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+        "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+        "description": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Devastating European wildfires in maps - and how they're being tackled",
         "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Oil price dives as US and Iran pause attacks",
-        "url": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-        "description": "The US says attacks on Iran have been halted to give \"talks some space\", raising hopes of a resolution to the conflict.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Anger, shock and grief - questions remain in the wake of the Berlin Pride attack",
-        "url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss",
-        "description": "As details emerge about the suspected Berlin Pride attacker's past, many are asking why he was not in prison.",
+        "title": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
+        "url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+        "description": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
         "source": "BBC News",
         "category": "foreign_policy"
       }
