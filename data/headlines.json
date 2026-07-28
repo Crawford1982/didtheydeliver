@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-07-28T14:03:05.743516+00:00",
+  "fetched_at": "2026-07-28T19:20:41.155880+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reader Q&A: Ask Polly Toynbee about Andy Burnham’s first week as prime minister – live",
-        "url": "https://www.theguardian.com/community/live/2026/jul/28/andy-burnham-first-week-prime-minister-ask-polly-toynbee-reader-questions",
-        "description": "After seven days in charge, how is the new UK PM doing? Send your questions to our columnist Polly Toynbee about Andy Burnham and his new government, his policy announcements so far, and what he ne...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Conservative MP rejects French claim that shots fired from naval boat near him were training exercise, not intimidation – UK politics live",
+        "title": "UK politics: Tories’ Philp rejects French claim that shots fired from naval boat near him were training exercise – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/28/andy-burnham-education-tories-ai-localism-devolution-latest-news-updates",
-        "description": "Chris Philp says French authorities claims that shots fired near him in the Channel were part of training are ‘not credible’Conservative MP accuses French navy of firing shots near him in ChannelIt...",
+        "description": "Shadow minister says there was no warning and ‘it looked and sounded like deliberate intimidation’Conservative MP accuses French navy of firing shots near him in ChannelIt is not just the Russians ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Led By Donkeys wins compensation over seizure of Gaza protest banner",
-        "url": "https://www.theguardian.com/politics/2026/jul/28/led-by-donkeys-compensation-seizure-gaza-protest-banner-london",
-        "description": "Waste firm Veolia pays £27k after ‘Yes it’s a Genocide’ banner taken by Greater London Authority was destroyedThe campaign group Led By Donkeys has received £27,000 in compensation after a giant ba...",
+        "title": "Tory MP accuses French navy of firing ‘warning’ shots near him in Channel",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/28/tory-mp-chris-philp-accuses-french-navy-of-firing-shots-in-channel-incident",
+        "description": "Chris Philp says shots were ‘deliberate intimidation’ while he filmed interview on small boats crisis but France says it was training exerciseWhen Chris Philp heard a volley of shots on the high se...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-        "description": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+        "title": "Burnham bounce: Labour overtakes Reform in polls – The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/28/burnham-bounce-labour-overtakes-reform-in-polls-the-latest",
+        "description": "Labour has overtaken Reform UK this week for the first time since March last year, according to polls. The ‘Burnham bounce’ comes two weeks into Andy Burnham’s tenure in No 10, during which he has ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Powell says student loan system at top of in-tray",
+        "url": "https://www.bbc.co.uk/news/articles/ce8l064xe52o?at_medium=RSS&at_campaign=rss",
+        "description": "She says she stands by past comments that the interest charged on Plan 2 loans is \"egregious\".",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
-        "description": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
+        "title": "Some parents on benefits to get up to £4,500 for child starting apprenticeship",
+        "url": "https://www.bbc.co.uk/news/articles/cwy4v6e9d2go?at_medium=RSS&at_campaign=rss",
+        "description": "Some parents on benefits are incentivised to discourage their kids from taking on apprenticeships.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "Blow to NHS as Royal Mail raises prices for bulk users by a third",
-        "url": "https://www.theguardian.com/business/2026/jul/28/nhs-royal-mail-price-rises-bulk-users-mail",
-        "description": "Average 25% increase for letters such as marketing, bills and medical appointment notices from 5 OctoberRoyal Mail will increase the price of its wholesale postal service by as much as a third, in ...",
+        "title": "Black people’s risk factors for stroke ‘rising faster than for white people’",
+        "url": "https://www.theguardian.com/society/2026/jul/28/black-african-caribbean-risk-factor-stroke-diabetes-high-blood-pressure-hypertension",
+        "description": "Exclusive: King’s College London analysis finds diabetes and hypertension are more common in Black African and Caribbean peopleStroke risk factors including high blood pressure and diabetes are ris...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Alarm at NHS patient records being put under control of US private equity firm",
-        "url": "https://www.theguardian.com/society/2026/jul/27/nhs-patients-records-us-private-equity-firm-optum-uk-tpg",
-        "description": "Doctors and MPs urge more scrutiny of £300m deal for company behind system used by most GPs in EnglandA US private equity firm will take control of NHS patient records in a deal experts say should ...",
+        "title": "Blow to NHS as Royal Mail raises prices for bulk users by a third",
+        "url": "https://www.theguardian.com/business/2026/jul/28/nhs-royal-mail-price-rises-bulk-users-mail",
+        "description": "Average 25% increase for letters such as marketing, bills and medical appointment notices from 5 OctoberRoyal Mail will increase the price of its wholesale postal service by as much as a third, in ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,28 +93,35 @@
     ],
     "immigration": [
       {
-        "title": "Home Office used ‘AI hallucinated’ information to refuse asylum claim, judge suggests",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests",
-        "description": "Upper tribunal unable to find document cited in case and claims it is ‘analogous to relying on bogus evidence’UK politics live – latest updatesA senior judge has accused the Home Office of relying ...",
+        "title": "Tory MP accuses French navy of firing ‘warning’ shots near him in Channel",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/28/tory-mp-chris-philp-accuses-french-navy-of-firing-shots-in-channel-incident",
+        "description": "Chris Philp says shots were ‘deliberate intimidation’ while he filmed interview on small boats crisis but France says it was training exerciseWhen Chris Philp heard a volley of shots on the high se...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Tories’ Philp rejects French claim that shots fired from naval boat near him were training exercise – UK politics live",
+        "title": "UK politics: Tories’ Philp rejects French claim that shots fired from naval boat near him were training exercise – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/28/andy-burnham-education-tories-ai-localism-devolution-latest-news-updates",
         "description": "Shadow minister says there was no warning and ‘it looked and sounded like deliberate intimidation’Conservative MP accuses French navy of firing shots near him in ChannelIt is not just the Russians ...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Conservative MP accuses French navy of firing shots near him in Channel",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/28/tory-mp-chris-philp-accuses-french-navy-of-firing-shots-in-channel-incident",
-        "description": "Chris Philp says patrol vessel may have been trying to stop him highlighting the small boats crisisUK politics live – latest updatesA Conservative MP has claimed a French warship fired warning shot...",
+        "title": "Captain Chris ‘Hunter-Killer’ Philp takes on French navy single-handed | John Crace",
+        "url": "https://www.theguardian.com/politics/2026/jul/28/conservative-chris-philp-channel-french-navy",
+        "description": "Shots fired in the Channel are all in a day’s work for the intrepid shadow home secretaryC’est magnifique, mais ce n’est pas la guerre. Captain Chris “Hunter-Killer” Philp had been on patrol since ...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Almost 4,000 people evacuated from tourist sites near Bordeaux as wildfires rage in France and Spain",
+        "url": "https://www.theguardian.com/world/2026/jul/28/france-bordeaux-lacanau-evacuation-wildfires-madrid-spain",
+        "description": "Return of winds and extreme heat threaten firefighters’ attempts to bring blazes under controlNearly 4,000 people have been evacuated from tourist sites on France’s Atlantic coast as the return of ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Could ‘Godzilla’ El Niño bring the hottest year on record? – video explainer",
         "url": "https://www.theguardian.com/environment/video/2026/jul/28/godzilla-el-nino-hottest-year-on-record-video-explainer",
@@ -130,39 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
-        "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
-        "description": "Coming days are ‘absolutely critical’ for firefighters before temperatures rise again this week, officials say Firefighters in France and Spain are racing to bring huge wildfires under control befo...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "How to see July's full Buck Moon as it rises in the night sky",
-        "url": "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o?at_medium=RSS&at_campaign=rss",
-        "description": "July's full Moon, know as the Buck Moon, is set to light up the night sky on Wednesday.",
+        "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
+        "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
+        "description": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Burnham bounce: Labour overtakes Reform in polls – The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/28/burnham-bounce-labour-overtakes-reform-in-polls-the-latest",
+        "description": "Labour has overtaken Reform UK this week for the first time since March last year, according to polls. The ‘Burnham bounce’ comes two weeks into Andy Burnham’s tenure in No 10, during which he has ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Young people ‘expected’ to engage with new work support, says McFadden",
+        "url": "https://www.theguardian.com/education/2026/jul/28/young-people-new-work-support-mcfadden-benefits",
+        "description": "Exclusive: Work and pensions secretary echoes Andy Burnham as he announces funds to stop families in England losing benefitsYoung people will be expected to engage with new support to find work, Pa...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Burnham to tell schools in England to adapt teaching to local business needs",
         "url": "https://www.theguardian.com/politics/2026/jul/27/burnham-to-tell-schools-in-england-to-adapt-teaching-to-local-business-needs",
         "description": "PM wants curriculums for students aged 14 and above to be more responsive to local jobs marketAndy Burnham will tell schools across England to adapt their curriculums to the needs of local business...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "New York school district halts plan to use humanoid robot amid backlash",
-        "url": "https://www.theguardian.com/us-news/2026/jul/27/new-york-school-humanoid-robot-plan-paused",
-        "description": "Salamanca City Central says it is pausing project with Realbotix as it addresses concerns including data privacyA New York school district has walked back plans to introduce a humanoid robot at its...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "White paint, trees or air con? What parents and teachers can do to cool UK’s overheating schools",
-        "url": "https://www.theguardian.com/education/2026/jul/27/what-parents-teachers-can-do-cool-uk-overheating-schools",
-        "description": "While longer-term action is needed, there are steps that can be taken during the holidays to help keep children safeThis summer, repeated heatwaves drove classroom temperatures to unbearable levels...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
-        "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
+        "title": "Wildfires in south-west France flare up as region braces for new 40C heatwave",
+        "url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss",
+        "description": "Firefighters are braced for a sharp rise in temperatures on Wednesday, which could complicate the containment of wildfires in Gironde.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US walks out of UN Security Council meeting during France's remarks",
-        "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-        "description": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
+        "title": "Uefa reacts with fury to Infantino World Cup plan",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
+        "description": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
-        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
-        "description": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
+        "title": "Ghana mourns its tallest man - a 'generous and popular giant'",
+        "url": "https://www.bbc.co.uk/news/articles/crk52jk0131o?at_medium=RSS&at_campaign=rss",
+        "description": "Sulemana Abdul Samed, who was diagnosed with gigantism several years ago, has died at the age of 33.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
