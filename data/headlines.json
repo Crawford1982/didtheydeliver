@@ -1,30 +1,30 @@
 {
-  "fetched_at": "2026-07-27T19:24:28.164324+00:00",
+  "fetched_at": "2026-07-28T02:26:01.261861+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Will Andy Burnham charm Volodymyr Zelenskyy? – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/jul/27/will-andy-burnham-charm-volodymyr-zelenskyy-podcast",
-        "description": "Andy Burnham’s first overseas visitor will be the Ukrainian prime minister, Volodymyr Zelenskyy, in a show of the UK’s ‘unwavering support’ for the country. But what else do we know about our new p...",
+        "title": "Can Andy Burnham end rough sleeping? – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/jul/28/can-andy-burnham-end-rough-sleeping-podcast",
+        "description": "In the wake of the new PM’s bold pledge, Helen Pidd heads to a village for homeless people in Greater Manchester, where the former mayor first promised to take actionAndy Burnham made a surprise fi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Social care in England: how could we pay to fix a ‘broken system’?",
-        "url": "https://www.theguardian.com/society/2026/jul/27/social-care-reform-in-england-how-could-we-pay-to-fix-a-broken-system",
-        "description": "Many across the political spectrum agree the system needs fixing – but there is no consensus on how to fund changeThe prime minister, Andy Burnham, has said the adult social care system in England ...",
+        "title": "Burnham to tell schools in England to adapt teaching to local business needs",
+        "url": "https://www.theguardian.com/politics/2026/jul/27/burnham-to-tell-schools-in-england-to-adapt-teaching-to-local-business-needs",
+        "description": "PM wants curriculums for students aged 14 and above to be more responsive to local jobs marketAndy Burnham will tell schools across England to adapt their curriculums to the needs of local business...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham seeks cross-party agreement on future of social care",
-        "url": "https://www.theguardian.com/society/2026/jul/27/andy-burnham-cross-party-agreement-social-care",
-        "description": "PM promises lasting solution for England but Tories rule out backing changes funded by tax rises or borrowingAndy Burnham has pledged to work collaboratively with other parties to find a lasting so...",
+        "title": "Police make inquiries after Farage reports Polanski post for ‘inciting murder’",
+        "url": "https://www.theguardian.com/politics/2026/jul/27/police-make-inquiries-after-farage-reports-polanski-post-for-inciting",
+        "description": "Green party leader shared picture of man wearing T-shirt with words ‘we’re only making plans for Nigel’ alongside a guillotinePolice are “conducting inquiries” into an image shared by Green party l...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform UK reporting Green leader Zack Polanski to police over Instagram post",
+        "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
         "url": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
         "description": "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine.",
         "source": "BBC News",
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Cracker Barrel chief executive steps down a year after rebrand chaos",
-        "url": "https://www.bbc.co.uk/news/articles/cr49z0r54nko?at_medium=RSS&at_campaign=rss",
-        "description": "Cracker Barrel CEO Julie Masino will exit following customer backlash over modern logo redesign.",
+        "title": "New technical education routes to be offered at 14 in England",
+        "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+        "description": "The government wants pupils to take subjects like AI and manufacturing which are linked to local jobs.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Machine could make more donated lungs suitable for transplant",
+        "url": "https://www.theguardian.com/society/2026/jul/28/machine-donated-lungs-organ-transplant-nhs-nice",
+        "description": "Nice backs wider use of system that keeps organs alive outside the body, to help improve low transplantation rates A machine that keeps organs alive outside the body could save four in every five d...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Alarm at NHS patient records being put under control of US private equity firm",
         "url": "https://www.theguardian.com/society/2026/jul/27/nhs-patients-records-us-private-equity-firm-optum-uk-tpg",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Reform UK levy on employing overseas staff ‘would harm NHS and social care’",
-        "url": "https://www.theguardian.com/politics/2026/jul/27/reform-uk-levy-overseas-staff-nhs-social-care-schools-universities",
-        "description": "Exclusive: Experts say policy could also cause shortages of school teachers and drive some universities to bankruptcyReform UK’s plan to make employers pay an annual levy for overseas staff would h...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Badenoch says PM must rule out tax rises to fund social care reform",
-        "url": "https://www.bbc.co.uk/news/articles/c0jlzqe9z9vo?at_medium=RSS&at_campaign=rss",
-        "description": "In a letter to the PM, the Conservative leader offers to work with him on adult social care reform.",
+        "title": "Hundreds of thousands of women get morning-after pill via free pharmacy service",
+        "url": "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&at_campaign=rss",
+        "description": "Since October, the morning-after pill has been made available free-of-charge at high street pharmacies under a new scheme in England.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,16 +116,16 @@
     ],
     "climate": [
       {
-        "title": "Europe wildfires: Officials warn that wildfires could still be burning in November – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/jul/27/europe-wildfires-france-spain-emmanuel-macron-crisis-meeting-pedro-sanchez-castillon-latest-news-updates",
-        "description": "Firefighters in France and Spain face another day battling wildfires, as another heatwave set to hit this week‘It felt like being in a disaster movie’: inside the evacuation from France’s Bordeaux ...",
+        "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
+        "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+        "description": "Coming days are ‘absolutely critical’ for firefighters before temperatures rise again this week, officials say Firefighters in France and Spain are racing to bring huge wildfires under control befo...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "France and Spain race to contain huge wildfires before fresh heatwave begins",
-        "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
-        "description": "Coming days are ‘absolutely critical’ for firefighters before temperatures rise again this week, officials sayFirefighters in France and Spain are racing to bring huge wildfires under control befor...",
+        "title": "Europe wildfires: Officials warn that wildfires could still be burning in November – as it happened",
+        "url": "https://www.theguardian.com/world/live/2026/jul/27/europe-wildfires-france-spain-emmanuel-macron-crisis-meeting-pedro-sanchez-castillon-latest-news-updates",
+        "description": "Firefighters in France and Spain face another day battling wildfires, as another heatwave set to hit this week‘It felt like being in a disaster movie’: inside the evacuation from France’s Bordeaux ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
-        "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
-        "description": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+        "title": "The prehistoric species fighting for survival in Lough Neagh",
+        "url": "https://www.bbc.co.uk/news/articles/ce97nze240vo?at_medium=RSS&at_campaign=rss",
+        "description": "Restrictions have been placed on fishing the critically-endangered European eel in Lough Neagh to try to restore the species",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Burnham to tell schools in England to adapt teaching to local business needs",
+        "url": "https://www.theguardian.com/politics/2026/jul/27/burnham-to-tell-schools-in-england-to-adapt-teaching-to-local-business-needs",
+        "description": "PM wants curriculums for students aged 14 and above to be more responsive to local jobs marketAndy Burnham will tell schools across England to adapt their curriculums to the needs of local business...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "New York school district halts plan to use humanoid robot amid backlash",
         "url": "https://www.theguardian.com/us-news/2026/jul/27/new-york-school-humanoid-robot-plan-paused",
@@ -156,13 +163,6 @@
         "title": "White paint, trees or air con? What parents and teachers can do to cool UK’s overheating schools",
         "url": "https://www.theguardian.com/education/2026/jul/27/what-parents-teachers-can-do-cool-uk-overheating-schools",
         "description": "While longer-term action is needed, there are steps that can be taken during the holidays to help keep children safeThis summer, repeated heatwaves drove classroom temperatures to unbearable levels...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Reform UK levy on employing overseas staff ‘would harm NHS and social care’",
-        "url": "https://www.theguardian.com/politics/2026/jul/27/reform-uk-levy-overseas-staff-nhs-social-care-schools-universities",
-        "description": "Exclusive: Experts say policy could also cause shortages of school teachers and drive some universities to bankruptcyReform UK’s plan to make employers pay an annual levy for overseas staff would h...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+        "title": "Wildfire now nine miles from French city of Bordeaux, mayor warns",
         "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
         "description": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Devastating European wildfires in maps - and how they're being tackled",
-        "url": "https://www.bbc.co.uk/news/articles/cj638jx0l53o?at_medium=RSS&at_campaign=rss",
-        "description": "A blaze near Bordeaux has torn through more than 162 sq miles (420 sq km) in less than four days, while the Madrid region is seeing its worst fires ever.",
+        "title": "Trump says Iran war talks taking place during lull in strikes",
+        "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
