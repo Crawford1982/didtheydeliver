@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-07-28T08:31:01.156388+00:00",
+  "fetched_at": "2026-07-28T14:03:05.743516+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham’s education plan directly contradicts Labour’s Schools Act, Tories claim – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/28/andy-burnham-education-tories-ai-localism-devolution-latest-news-updates",
-        "description": "The new prime minister is linking the need for better vocational education in school with his belief in localismGood morning. In his last speech to Labour’s annual conference as party leader, Keir ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reader Q&A: Ask Polly Toynbee about Andy Burnham’s first week as prime minister",
+        "title": "Reader Q&A: Ask Polly Toynbee about Andy Burnham’s first week as prime minister – live",
         "url": "https://www.theguardian.com/community/live/2026/jul/28/andy-burnham-first-week-prime-minister-ask-polly-toynbee-reader-questions",
         "description": "After seven days in charge, how is the new UK PM doing? Send your questions to our columnist Polly Toynbee about Andy Burnham and his new government, his policy announcements so far, and what he ne...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Barclays increases bonus pool by nearly 30% as calls grow for UK bank tax",
-        "url": "https://www.theguardian.com/business/2026/jul/28/barclays-increases-bonus-pool-uk-bank-tax",
-        "description": "TUC leader says lender’s ‘bonanza’ quarterly profits of £3.3bn mean it ‘can easily afford to pay more tax’Business live – latest updatesBarclays has increased its banker bonus pool by nearly 30% af...",
+        "title": "Conservative MP rejects French claim that shots fired from naval boat near him were training exercise, not intimidation – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/28/andy-burnham-education-tories-ai-localism-devolution-latest-news-updates",
+        "description": "Chris Philp says French authorities claims that shots fired near him in the Channel were part of training are ‘not credible’Conservative MP accuses French navy of firing shots near him in ChannelIt...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform UK reports Zack Polanski to police over guillotine T-shirt post",
-        "url": "https://www.bbc.co.uk/news/articles/c5y063yqlleo?at_medium=RSS&at_campaign=rss",
-        "description": "The post included a photo of a man wearing a top featuring the name \"Nigel\" alongside an image of a guillotine.",
+        "title": "Led By Donkeys wins compensation over seizure of Gaza protest banner",
+        "url": "https://www.theguardian.com/politics/2026/jul/28/led-by-donkeys-compensation-seizure-gaza-protest-banner-london",
+        "description": "Waste firm Veolia pays £27k after ‘Yes it’s a Genocide’ banner taken by Greater London Authority was destroyedThe campaign group Led By Donkeys has received £27,000 in compensation after a giant ba...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
+        "description": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Marmite and Dove owner Unilever warns of price rises due to growing costs",
+        "url": "https://www.theguardian.com/business/2026/jul/28/marmite-dove-unilever-price-rises-costs-world-cup",
+        "description": "Consumer goods group reports strong sales growth, owing in part to World Cup marketing campaignsBusiness live – latest updatesUnilever has warned it will push through further price rises over the c...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
         "url": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "Gary Stevenson to quit YouTube channel, citing health concerns",
-        "url": "https://www.theguardian.com/business/2026/jul/26/gary-stevenson-to-quit-youtube-channel-garys-economics",
-        "description": "Former City trader’s weekly Gary’s Economics videos took off during the Covid pandemicThe City trader turned wealth tax campaigner Gary Stevenson has announced he is quitting the YouTube channel th...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Schools to offer technical subjects to pupils from age 14 in England, Burnham says",
         "url": "https://www.bbc.co.uk/news/articles/cj4k2djd5qpo?at_medium=RSS&at_campaign=rss",
         "description": "The government wants pupils to take courses like AI and manufacturing which are linked to local jobs.",
@@ -63,9 +63,9 @@
     ],
     "nhs": [
       {
-        "title": "Machine could make more donated lungs suitable for transplant",
+        "title": "Machine that keeps lungs alive outside body could increase NHS transplants",
         "url": "https://www.theguardian.com/society/2026/jul/28/machine-donated-lungs-organ-transplant-nhs-nice",
-        "description": "Nice backs wider use of system that keeps organs alive outside the body, to help improve low transplantation rates A machine that keeps organs alive outside the body could save four in every five d...",
+        "description": "System keeps lungs viable for up to six hours, meaning more patients will be able to receive donated organsA machine that keeps organs alive outside the body could save four in every five donated l...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,28 +93,35 @@
     ],
     "immigration": [
       {
-        "title": "Home Office blocking evacuation of dozens of women and children from Gaza",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/27/home-office-blocking-evacuation-women-children-gaza-refugee-family-reunion",
-        "description": "Refugee family reunions in limbo, despite Foreign Office saying it is ready to get people out of war-torn territoryThe Home Office is blocking the evacuation of dozens of women and children from Ga...",
+        "title": "Home Office used ‘AI hallucinated’ information to refuse asylum claim, judge suggests",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/28/home-office-used-ai-hallucinated-information-to-refuse-asylum-claim-judge-suggests",
+        "description": "Upper tribunal unable to find document cited in case and claims it is ‘analogous to relying on bogus evidence’UK politics live – latest updatesA senior judge has accused the Home Office of relying ...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Poll shows Labour ahead of Reform UK for first time since Burnham became PM – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/27/andy-burnham-social-care-politics-live-latest-news-defence-nhs-reform-uk-tories-updates",
-        "description": "New PM says he ‘wouldn’t get carried away’ by latest polling but says he is pleased if he has ‘connected with people’I have already posted lines from Andy Burnham’s BBC interview on reforming socia...",
+        "title": "Tories’ Philp rejects French claim that shots fired from naval boat near him were training exercise – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/28/andy-burnham-education-tories-ai-localism-devolution-latest-news-updates",
+        "description": "Shadow minister says there was no warning and ‘it looked and sounded like deliberate intimidation’Conservative MP accuses French navy of firing shots near him in ChannelIt is not just the Russians ...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Existing care workers could be exempt from UK’s tough new immigration rules",
-        "url": "https://www.theguardian.com/society/2026/jul/24/care-workers-exempt-uk-new-immigration-rules",
-        "description": "Exclusive: Andy Burnham thought to be considering waiving stricter right to remain rules for people already working in the sectorHundreds of thousands of care workers could be exempted from the hom...",
+        "title": "Conservative MP accuses French navy of firing shots near him in Channel",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/28/tory-mp-chris-philp-accuses-french-navy-of-firing-shots-in-channel-incident",
+        "description": "Chris Philp says patrol vessel may have been trying to stop him highlighting the small boats crisisUK politics live – latest updatesA Conservative MP has claimed a French warship fired warning shot...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Could ‘Godzilla’ El Niño bring the hottest year on record? – video explainer",
+        "url": "https://www.theguardian.com/environment/video/2026/jul/28/godzilla-el-nino-hottest-year-on-record-video-explainer",
+        "description": "The Earth keeps getting hotter and experts fear this year's El Niño, nicknamed 'Godzilla' because of its predicted intensity, could raise global temperatures by up to 3.6C. Environment corresponden...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "‘We have lost everything’: extreme rainfall across Asia brings flash floods and typhoons",
         "url": "https://www.theguardian.com/environment/2026/jul/28/extreme-rainfall-asia-flash-floods-typhoons-climate-change",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Europe wildfires: Officials warn that wildfires could still be burning in November – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/jul/27/europe-wildfires-france-spain-emmanuel-macron-crisis-meeting-pedro-sanchez-castillon-latest-news-updates",
-        "description": "Firefighters in France and Spain face another day battling wildfires, as another heatwave set to hit this week‘It felt like being in a disaster movie’: inside the evacuation from France’s Bordeaux ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Conservation group tackling 'most dangerous plant'",
-        "url": "https://www.bbc.co.uk/news/articles/c3r0w3pq24yo?at_medium=RSS&at_campaign=rss",
-        "description": "A County Tyrone group says it has made progress tackling Giant Hogweed.",
+        "title": "How to see July's full Buck Moon as it rises in the night sky",
+        "url": "https://www.bbc.co.uk/weather/articles/cx2lvg855x8o?at_medium=RSS&at_campaign=rss",
+        "description": "July's full Moon, know as the Buck Moon, is set to light up the night sky on Wednesday.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "The cocaine superhighway from Ecuador to Europe - BBC reports on the gangs and police fightback",
+        "title": "The cocaine superhighway from Ecuador to Europe - the BBC reports on gangs and the police fightback",
         "url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
         "description": "The BBC goes on patrol with Ecuador's police, who are grappling with a huge surge in drug crime.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump says Iran war talks taking place during lull in strikes",
-        "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+        "title": "US walks out of UN Security Council meeting during France's remarks",
+        "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
+        "description": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Johnson & Johnson offers up to $5.5bn to settle baby powder lawsuits",
-        "url": "https://www.bbc.co.uk/news/articles/clyqnz52rp6o?at_medium=RSS&at_campaign=rss",
-        "description": "The proposed settlement aims to close a years-long legal battle over claims its talcs products cause cancer.",
+        "title": "'A lover of life' - Seattle pays tribute to food festival shooting victims",
+        "url": "https://www.bbc.co.uk/news/articles/cvgv7m5z4n0o?at_medium=RSS&at_campaign=rss",
+        "description": "Families grieved on Monday as they remembered the three people killed in a shooting at a food festival.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
