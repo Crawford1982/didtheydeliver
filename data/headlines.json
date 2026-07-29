@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-07-29T02:30:21.563481+00:00",
+  "fetched_at": "2026-07-29T08:37:56.502636+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Zack Polanski will not say sorry to Farage for sharing guillotine image",
+        "url": "https://www.theguardian.com/politics/2026/jul/29/zack-polanski-will-not-apologise-to-nigel-farage-for-sharing-image",
+        "description": "Green party leader says post was ‘inadvertent mistake’ after Reform UK accuses him of ‘inciting murder’The Green party leader, Zack Polanski, has said he made an “inadvertent mistake” by sharing an...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "AI tool will lead to more child refugees being treated as adults, charity warns",
+        "url": "https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias",
+        "description": "‘Racist bias’ overestimating ages in Home Office’s facial-recognition software will lead to solo children being housed with adults, says Human Rights NetworkFlawed and racialised models that underp...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK faces ‘very difficult trade-offs’ in budget because of Iran war, say analysts",
         "url": "https://www.theguardian.com/business/2026/jul/29/uk-faces-trade-offs-because-of-iran-war-inflation",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Burnham to seek cross-party consensus over urgent reforms to social care",
-        "url": "https://www.theguardian.com/society/2026/jul/28/andy-burnham-cross-party-consensus-reforms-social-care",
-        "description": "Prime minister invites Badenoch and Davey – but not Farage – to discuss how to fix decades-old funding crisisAndy Burnham has promised “problem-solving, not point-scoring” before a speech on social...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK politics: Tories’ Philp rejects French claim that shots fired from naval boat near him were training exercise – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/28/andy-burnham-education-tories-ai-localism-devolution-latest-news-updates",
-        "description": "Shadow minister says there was no warning and ‘it looked and sounded like deliberate intimidation’Conservative MP accuses French navy of firing shots near him in ChannelIt is not just the Russians ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Polanski says guillotine re-post was mistake but refuses to apologise",
-        "url": "https://www.bbc.co.uk/news/articles/c89np278qwvo?at_medium=RSS&at_campaign=rss",
-        "description": "The Green leader re-posted a photo of a man wearing a guillotine t-shirt and the name Nigel.",
+        "title": "Burnham to hold social care talks with Tories and Lib Dems",
+        "url": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister will outline his strategy on reforms, as the leader of an independent review warns the system is \"fairly bust\".",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Burnham has no scope to increase borrowing, think tank warns",
-        "url": "https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&at_campaign=rss",
-        "description": "The Prime Minister has announced a series of cost-of-living measure since taking office but is facing questions about how he will fund them.",
+        "title": "Ticket prices set to rise by 15p as Heathrow able to recover runway project money",
+        "url": "https://www.bbc.co.uk/news/articles/cdx8ke9gpnko?at_medium=RSS&at_campaign=rss",
+        "description": "UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Burnham invites Tories and Lib Dems to social care talks",
-        "url": "https://www.bbc.co.uk/news/articles/c1k1vgx08gko?at_medium=RSS&at_campaign=rss",
-        "description": "In a speech, the PM is expected to say finding common ground across party lines will be key to fixing social care.",
+        "title": "Hundreds of thousands of women get morning-after pill via free pharmacy service",
+        "url": "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&at_campaign=rss",
+        "description": "Since October, the morning-after pill has been made available free-of-charge at high street pharmacies under a new scheme in England.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -100,21 +100,28 @@
         "category": "immigration"
       },
       {
-        "title": "UK politics: Tories’ Philp rejects French claim that shots fired from naval boat near him were training exercise – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/28/andy-burnham-education-tories-ai-localism-devolution-latest-news-updates",
-        "description": "Shadow minister says there was no warning and ‘it looked and sounded like deliberate intimidation’Conservative MP accuses French navy of firing shots near him in ChannelIt is not just the Russians ...",
+        "title": "‘Farage’s got to come clean or clear off’: what voters on Clacton beach think about their MP – and the country",
+        "url": "https://www.theguardian.com/politics/2026/jul/29/nigel-farage-come-clean-or-clear-off-voters-clacton",
+        "description": "Nigel Farage’s constituency takes in genteel resorts and one of England’s poorest villages. With a snap byelection approaching, what do the residents want from the Reform UK leader – or the bin who...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Captain Chris ‘Hunter-Killer’ Philp takes on French navy single-handed | John Crace",
-        "url": "https://www.theguardian.com/politics/2026/jul/28/conservative-chris-philp-channel-french-navy",
-        "description": "Shots fired in the Channel are all in a day’s work for the intrepid shadow home secretaryC’est magnifique, mais ce n’est pas la guerre. Captain Chris “Hunter-Killer” Philp had been on patrol since ...",
+        "title": "AI tool will lead to more child refugees being treated as adults, charity warns",
+        "url": "https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias",
+        "description": "‘Racist bias’ overestimating ages in Home Office’s facial-recognition software will lead to solo children being housed with adults, says Human Rights NetworkFlawed and racialised models that underp...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "France and Spain brace for fresh heatwave as warnings issued over risk of new wildfires – Europe live",
+        "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
+        "description": "Authorities fear progress in containing the fires in the Gironde and Madrid regions may be set back by temperatures expected to hit the low 40sFrance and Spain are braced for the fourth heatwave of...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Almost 4,000 people evacuated from tourist sites near Bordeaux as wildfires rage in France and Spain",
         "url": "https://www.theguardian.com/world/2026/jul/28/france-bordeaux-lacanau-evacuation-wildfires-madrid-spain",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "‘We have lost everything’: extreme rainfall across Asia brings flash floods and typhoons",
-        "url": "https://www.theguardian.com/environment/2026/jul/28/extreme-rainfall-asia-flash-floods-typhoons-climate-change",
-        "description": "From Afghanistan to Taiwan, unprecedented deluge highlights devastating impact of climate breakdown“It rained for 10 days and 10 nights, non-stop – I’d never seen anything like it,” says Anar Gul, ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Mysterious deaths of 14 elephants in Kenya prompts urgent inquiry",
         "url": "https://www.bbc.co.uk/news/articles/c3w0d7yeqlxo?at_medium=RSS&at_campaign=rss",
         "description": "It is the highest number of elephant deaths to be recorded in this area of southern Kenya in decades.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Andy Burnham’s plans for technical education build on coalition’s UTC roots",
+        "url": "https://www.theguardian.com/education/2026/jul/29/andy-burnham-technical-education-coalition-kenneth-baker",
+        "description": "PM’s vocational model also takes inspiration from former education secretary Kenneth Baker’s visionAndy Burnham’s plans to put academic and technical education routes on an equal footing in England...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Burnham bounce: Labour overtakes Reform in polls – The Latest",
         "url": "https://www.theguardian.com/news/audio/2026/jul/28/burnham-bounce-labour-overtakes-reform-in-polls-the-latest",
@@ -156,13 +163,6 @@
         "title": "Young people ‘expected’ to engage with new work support, says McFadden",
         "url": "https://www.theguardian.com/education/2026/jul/28/young-people-new-work-support-mcfadden-benefits",
         "description": "Exclusive: Work and pensions secretary echoes Andy Burnham as he announces funds to stop families in England losing benefitsYoung people will be expected to engage with new support to find work, Pa...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Burnham to tell schools in England to adapt teaching to local business needs",
-        "url": "https://www.theguardian.com/politics/2026/jul/27/burnham-to-tell-schools-in-england-to-adapt-teaching-to-local-business-needs",
-        "description": "PM wants curriculums for students aged 14 and above to be more responsive to local jobs marketAndy Burnham will tell schools across England to adapt their curriculums to the needs of local business...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Watch: The moment quake hit Japan",
-        "url": "https://www.bbc.co.uk/news/videos/cvg7v55gxnqo?at_medium=RSS&at_campaign=rss",
-        "description": "Video shows locations across the region where a strong earthquake struck Japan's Kyushu island on 28 July.",
+        "title": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
+        "url": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
+        "description": "At least 13 people have been killed after the earthquake struck the island of Kyushu on Tuesday.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Iran and US trade strikes, shattering brief lull in fighting",
+        "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
         "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-        "description": "US Central Command says it intercepted \"multiple\" ballistic missiles fired by Iran.",
+        "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
