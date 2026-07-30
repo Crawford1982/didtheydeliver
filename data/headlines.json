@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-07-30T02:12:22.977437+00:00",
+  "fetched_at": "2026-07-30T08:23:29.602920+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Trident renewal central to defence spending, says Andy Burnham",
-        "url": "https://www.theguardian.com/politics/2026/jul/29/trident-renewal-central-defence-reindustrialised-britain-andy-burnham",
-        "description": "Prime minister to highlight investment in communities as he launches next phase of nuclear submarine replacementAndy Burnham will place the renewal of Trident at the heart of his vision of a reindu...",
+        "title": "Reform UK to hold press conference after Met rules out investigating Polanski over anti-Farage message – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/30/reform-nigel-farage-robert-jenrick-labour-prisons-andy-burnham-latest-news-updates",
+        "description": "Green party said it was ‘obvious from the start’ that Polanski had not committed an offence Good morning. Reform UK are holding a press conference this morning. It is going to feature Robert Jenric...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Police take no further action over Polanski sharing Farage guillotine image",
-        "url": "https://www.theguardian.com/politics/2026/jul/29/zack-polanski-will-not-apologise-to-nigel-farage-for-sharing-image",
-        "description": "Scotland Yard says threshold not met for criminal action against Green leader, who has refused to apologise to his Reform rivalNo further action will be taken by police after Zack Polanski shared a...",
+        "title": "UK government reviews why police ceding criminal cases to US military",
+        "url": "https://www.theguardian.com/uk-news/2026/jul/30/uk-ministers-police-justice-review-us-military",
+        "description": "Exclusive: ministers and police chiefs examining how cases involving US military personnel on UK soil are handled after Guardian revelationsThe UK government and police chiefs are reviewing the pro...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Parliamentary watchdog decides against inquiry into £80,000 loan to Reform’s deputy leader",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/29/richard-tice-reform-loan-george-cottrell-investigation-standards-watchdog",
-        "description": "Richard Tice had been referred to standards commissioner over undeclared sum from Farage aide George CottrellParliament’s standards watchdog has declined to investigate a complaint made against Ric...",
+        "title": "Carmakers ‘delaying investment in UK factories until EV sales rules relaxed’",
+        "url": "https://www.theguardian.com/business/2026/jul/30/carmakers-delaying-investment-in-uk-factories-until-ev-sales-rules-relaxed",
+        "description": "Industry wants mandate forcing manufacturers to sell increasing share of electric cars each year to be easedCarmakers are delaying final decisions to invest in UK factories until electric car sales...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Police to take no further action against Polanski over guillotine re-post",
-        "url": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss",
-        "description": "The Green Party leader has said he made an \"inadvertent mistake\" when he shared the image with his social media followers.",
+        "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
+        "url": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
+        "description": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Weapons makers Rolls-Royce and BAE Systems expect higher profits as defence spending surges – business live",
+        "url": "https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates",
+        "description": "Live, rolling coverage of business, economics and financial markets as investors buy UK defence stocks and await Bank of England interest rate decisionCarmakers are delaying final decisions to inve...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "UK faces ‘very difficult trade-offs’ in budget because of Iran war, say analysts",
         "url": "https://www.theguardian.com/business/2026/jul/29/uk-faces-trade-offs-because-of-iran-war-inflation",
@@ -47,21 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Oil prices fall as US pauses strikes on Iran over strait of Hormuz",
-        "url": "https://www.theguardian.com/business/2026/jul/27/oil-prices-fall-us-strikes-iran-brent-crude-bp-shell-ftse-100",
-        "description": "Brent crude drops 9% to below $88 a barrel, prompting UK government bond yields to fallOil prices have dropped sharply as traders bet that a pause in US attacks on Iran could prevent an escalation ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Interest rates expected to be held again by Bank of England",
-        "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
-        "description": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
+        "title": "Shell profits double as oil prices rise due to Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
+        "description": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "The body snatchers: how a young Nigerian man was lured to London in an organ-trafficking plot",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/30/body-snatchers-young-nigerian-man-lured-london-organ-trafficking-plot",
+        "description": "David Nwamini was working at a market in Lagos when he was given the chance to start anew in the UK. He had no idea what was expected of him in return• The summer issue of the Long Read magazine is...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Brave New World or Groundhog Day? Burnham revisits old ground in speech on social care",
         "url": "https://www.theguardian.com/politics/2026/jul/29/patrick-butler-andy-burnham-revisits-old-ground-in-speech-on-social-care",
@@ -73,13 +80,6 @@
         "title": "Battles loom over social care, but this fight must be won. At last, we have a PM who believes that | Polly Toynbee",
         "url": "https://www.theguardian.com/commentisfree/2026/jul/29/andy-burnham-reform-social-care-crisis",
         "description": "Burnham seems ready to use his power and influence. He understands the depth of this crisis: the task is persuading all those still in denial“People pleaser!” That’s the insult Andy Burnham’s enemi...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "The Guardian view on funding social care: building consensus requires candour about taxes | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/29/the-guardian-view-on-funding-social-care-building-consensus-requires-candour-about-taxes",
-        "description": "The prime minister is right to want to change the political culture, but aversion to honesty about the funding options runs deep in WestminsterAndy Burnham is well qualified to speak on the subject...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘Grey lump with orange wings’: migrating moth descends on UK gardens",
+        "url": "https://www.theguardian.com/environment/2026/jul/30/hummingbird-hawk-moth-sightings-migrating-uk",
+        "description": "Boom in hummingbird hawk-moth sightings put down to hot weather, strong winds and food scarcity in EuropeHe had just sat down to dinner in the garden when a speedy visitor whizzed by – a “grey lump...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Three firefighters killed on Crete and in mainland Greece as Europe battles wildfires",
         "url": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
         "description": "Repeated heatwaves and strong winds alarm experts, who warn blazes are becoming harder to quellThree Greek firefighters have died while tackling wildfires on the island of Crete and in the south of...",
@@ -126,13 +133,6 @@
         "title": "Spain faces ‘complex’ three days with risks of heatwave and strong winds reigniting some fires – as it happened",
         "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
         "description": "Authorities fear progress in containing the fires in the Gironde and Madrid regions may be set back by temperatures expected to hit the low 40sin BrusselsThe European Union’s crisis-management team...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "A ​decade on the Iberian ​frontline​ has shown me that Europe’s ​climate ​emergency​ is ​impossible to ​deny",
-        "url": "https://www.theguardian.com/world/2026/jul/29/a-decade-on-the-iberian-frontline-has-shown-me-that-europes-climate-emergency-is-impossible-to-deny",
-        "description": "What once felt exceptional now arrives with grim regularity​ all over the continent, and it will only get worse• Don’t get This Is Europe delivered to your inbox? Sign up hereSpain has changed imme...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "‘It makes you feel you’ve got a really dirty house’: what’s behind the UK’s plagues of flies?",
+        "url": "https://www.theguardian.com/environment/2026/jul/30/house-files-uk-plague-homes",
+        "description": "From Leicestershire to Carmarthenshire, neighbourhoods are struggling with wave after wave of houseflies. Why are they suffering while others are spared? And is there no alternative to nets and zap...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Shameful treatment of vulnerable families in heatwave | Letters",
         "url": "https://www.theguardian.com/environment/2026/jul/29/shameful-treatment-of-vulnerable-families-in-heatwave",
         "description": "Fernando Quintana Marrero responds to a report about children housed in a building in London becoming sick after families were denied air conditioningHow did London get here (Families in London tem...",
@@ -181,16 +188,16 @@
         "description": "Dr Stephen Battersby on the lessons this Labour government can learn from the 1970sYour editorial quoting Sam Johnson-Schlee saying that our ability to trust that our homes will keep us safe is und...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Families in London temporary housing told they cannot use in-built air conditioning",
-        "url": "https://www.theguardian.com/society/2026/jul/27/homeless-families-london-temporary-housing-air-conditioning",
-        "description": "Exclusive: Two children taken to hospital during heatwaves after residents told units in glass-fronted block ‘not offered as amenity’Homeless families placed in temporary accommodation in London we...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+        "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+        "description": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
         "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
@@ -202,13 +209,6 @@
         "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
         "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
         "description": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
-        "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
-        "description": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
