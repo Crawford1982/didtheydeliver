@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-07-29T19:13:06.620808+00:00",
+  "fetched_at": "2026-07-30T02:12:22.977437+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Trident renewal central to defence spending, says Andy Burnham",
+        "url": "https://www.theguardian.com/politics/2026/jul/29/trident-renewal-central-defence-reindustrialised-britain-andy-burnham",
+        "description": "Prime minister to highlight investment in communities as he launches next phase of nuclear submarine replacementAndy Burnham will place the renewal of Trident at the heart of his vision of a reindu...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Police take no further action over Polanski sharing Farage guillotine image",
+        "url": "https://www.theguardian.com/politics/2026/jul/29/zack-polanski-will-not-apologise-to-nigel-farage-for-sharing-image",
+        "description": "Scotland Yard says threshold not met for criminal action against Green leader, who has refused to apologise to his Reform rivalNo further action will be taken by police after Zack Polanski shared a...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Parliamentary watchdog decides against inquiry into £80,000 loan to Reform’s deputy leader",
         "url": "https://www.theguardian.com/uk-news/2026/jul/29/richard-tice-reform-loan-george-cottrell-investigation-standards-watchdog",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "UK politics: Burnham does not rule out tax rises for social care reform – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/29/andy-burnham-social-care-louise-casey-tories-kemi-badenoch-reform-nigel-farage-uk-politics-latest",
-        "description": "The prime minister says that current inefficiencies in the system will be tackled first, as he reveals final recommendations will be out by summer 2027Andy Burnham is speaking now.In a reference to...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Revealed: George Cottrell transferred $2m to his mother days before her donations to Reform UK",
-        "url": "https://www.theguardian.com/politics/2026/jul/29/george-cottrell-transferred-2m-mother-beforer-reform-uk-donations",
-        "description": "Exclusive: Sources say Fiona Cottrell told bankers the transfers, received 24-72 hours before her donations to Reform, came from her sonThe convicted fraudster George Cottrell transferred a total o...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham doesn't rule out tax rises to fix social care",
-        "url": "https://www.bbc.co.uk/news/articles/ckg6d21zdyro?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister holds cross-party talks as he speeds up review of social care in England.",
+        "title": "Police to take no further action against Polanski over guillotine re-post",
+        "url": "https://www.bbc.co.uk/news/articles/cwylrnxxl77o?at_medium=RSS&at_campaign=rss",
+        "description": "The Green Party leader has said he made an \"inadvertent mistake\" when he shared the image with his social media followers.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "US interest rates held for fifth time in a row",
-        "url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss",
-        "description": "The Federal Reserve's decision, which was broadly expected, means rates remain between the 3.5% and 3.75%.",
+        "title": "Interest rates expected to be held again by Bank of England",
+        "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+        "description": "It would be the fifth hold in a row, with the Bank rate standing at 3.75% - the lowest since February 2023.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Two firefighters die in Crete as wildfires threaten parts of southern Europe",
+        "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
         "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-        "description": "Gale-force winds have whipped up the flames prompting the evacuation of several villages on the island, as parts of the continent also continue to tackle fires.",
+        "description": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Fifa opens disciplinary proceedings against Argentina",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
-        "description": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
+        "title": "Zendaya on working with Tom Holland in Spider-Man: ‘When you’re best friends it’s easy’",
+        "url": "https://www.bbc.co.uk/news/articles/c0km3d2j6mko?at_medium=RSS&at_campaign=rss",
+        "description": "The couple walked the white carpet at the London premiere of their latest film, Spiderman: Brand New Day.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
