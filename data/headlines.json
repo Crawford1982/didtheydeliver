@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-07-30T08:23:29.602920+00:00",
+  "fetched_at": "2026-07-30T13:56:51.656903+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reform UK to hold press conference after Met rules out investigating Polanski over anti-Farage message – UK politics live",
+        "title": "Will we pay more tax to fund social care? – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/jul/30/will-we-pay-more-tax-to-fund-social-care-podcast",
+        "description": "Andy Burnham gave a major speech on Wednesday on his plans for a national care service. He sought cross-party consensus on the issue by speaking to the Tories and Lib Dems. But not Reform UK or the...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "‘Reform are up to their neck in sleaze and dodgy money’; Labour hit out after Cottrell revelations – politics live",
         "url": "https://www.theguardian.com/politics/live/2026/jul/30/reform-nigel-farage-robert-jenrick-labour-prisons-andy-burnham-latest-news-updates",
-        "description": "Green party said it was ‘obvious from the start’ that Polanski had not committed an offence Good morning. Reform UK are holding a press conference this morning. It is going to feature Robert Jenric...",
+        "description": "The Labour party released a statement after Robert Jenrick tried to minimise the latest revelations about donations to ReformQ: [From ITV’s Romilly Weeks] You say that Reform UK followed all the ru...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -13,13 +20,6 @@
         "title": "UK government reviews why police ceding criminal cases to US military",
         "url": "https://www.theguardian.com/uk-news/2026/jul/30/uk-ministers-police-justice-review-us-military",
         "description": "Exclusive: ministers and police chiefs examining how cases involving US military personnel on UK soil are handled after Guardian revelationsThe UK government and police chiefs are reviewing the pro...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Carmakers ‘delaying investment in UK factories until EV sales rules relaxed’",
-        "url": "https://www.theguardian.com/business/2026/jul/30/carmakers-delaying-investment-in-uk-factories-until-ev-sales-rules-relaxed",
-        "description": "Industry wants mandate forcing manufacturers to sell increasing share of electric cars each year to be easedCarmakers are delaying final decisions to invest in UK factories until electric car sales...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,42 +33,35 @@
     ],
     "economy": [
       {
-        "title": "Weapons makers Rolls-Royce and BAE Systems expect higher profits as defence spending surges – business live",
+        "title": "Bank of England holds interest rates despite Iran war inflation threat - business live",
         "url": "https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates",
-        "description": "Live, rolling coverage of business, economics and financial markets as investors buy UK defence stocks and await Bank of England interest rate decisionCarmakers are delaying final decisions to inve...",
+        "description": "Live, rolling coverage of business, economics and financial markets as three members of monetary policy committee vote to raise ratesThat German GDP reading has indeed contributed to the wider euro...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "UK faces ‘very difficult trade-offs’ in budget because of Iran war, say analysts",
-        "url": "https://www.theguardian.com/business/2026/jul/29/uk-faces-trade-offs-because-of-iran-war-inflation",
-        "description": "Leading thinktank says higher oil prices and inflation will give Andy Burnham a ‘challenging inheritance’Andy Burnham has been warned by a leading thinktank of “very difficult trade-offs in the nex...",
+        "title": "US economy grows sluggish 1.5% in second quarter as inflation tops Fed target",
+        "url": "https://www.theguardian.com/business/2026/jul/30/us-economy-growth-inflation-second-quarter",
+        "description": "Consumer spending remained resilient even as policymakers kept interest rates on holdThe US economy expanded at a sluggish 1.5% pace from April through June as rising imports weighed on growth. But...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Marmite and Dove owner Unilever warns of price rises due to growing costs",
-        "url": "https://www.theguardian.com/business/2026/jul/28/marmite-dove-unilever-price-rises-costs-world-cup",
-        "description": "Consumer goods group reports strong sales growth, owing in part to World Cup marketing campaignsBusiness live – latest updatesUnilever has warned it will push through further price rises over the c...",
+        "title": "Only the Middle East crisis is preventing a drop in UK interest rates",
+        "url": "https://www.theguardian.com/business/2026/jul/30/middle-east-crisis-preventing-drop-in-uk-interest-rates-bank-of-england-inflation",
+        "description": "Bank’s wariness about inflationary pressures from the conflict lie behind decision to hold steady at 3.75%Business live – latest updatesThere is a threat of high inflation coming to the UK but only...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Shell profits double as oil prices rise due to Iran war",
-        "url": "https://www.bbc.co.uk/news/articles/cpq8n45r5e8o?at_medium=RSS&at_campaign=rss",
-        "description": "Disruption to global supplies of oil and liquid natural gas through the Strait of Hormuz has pushed up prices.",
+        "title": "US economic growth slows unexpectedly in second quarter",
+        "url": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
+        "description": "The economy grew at an annual rate of 1.5% in the three months to June, down from 2.1% seen in the previous quarter.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
-      {
-        "title": "The body snatchers: how a young Nigerian man was lured to London in an organ-trafficking plot",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/30/body-snatchers-young-nigerian-man-lured-london-organ-trafficking-plot",
-        "description": "David Nwamini was working at a market in Lagos when he was given the chance to start anew in the UK. He had no idea what was expected of him in return• The summer issue of the Long Read magazine is...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
       {
         "title": "Brave New World or Groundhog Day? Burnham revisits old ground in speech on social care",
         "url": "https://www.theguardian.com/politics/2026/jul/29/patrick-butler-andy-burnham-revisits-old-ground-in-speech-on-social-care",
@@ -84,67 +77,81 @@
         "category": "nhs"
       },
       {
-        "title": "Hundreds of thousands of women get morning-after pill via free pharmacy service",
-        "url": "https://www.bbc.co.uk/news/articles/cn9n1rg3n81o?at_medium=RSS&at_campaign=rss",
-        "description": "Since October, the morning-after pill has been made available free-of-charge at high street pharmacies under a new scheme in England.",
+        "title": "The Guardian view on funding social care: building consensus requires candour about taxes | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/29/the-guardian-view-on-funding-social-care-building-consensus-requires-candour-about-taxes",
+        "description": "The prime minister is right to want to change the political culture, but aversion to honesty about the funding options runs deep in WestminsterAndy Burnham is well qualified to speak on the subject...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Holidaymakers warned about 'explosive diarrhoea' cyclospora parasite infection",
+        "url": "https://www.bbc.co.uk/news/articles/ckgv614qn2do?at_medium=RSS&at_campaign=rss",
+        "description": "The UK is seeing a sharp rise in cases - 67 since April - with many of them among travellers returning from Mexico.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
+        "title": "‘It was a big shock’: new border rules left couple stuck in Kraków after living in UK for 80 years",
+        "url": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow",
+        "description": "Maria and Czeslaw Krupa, who arrived in 1947 and 1948 as dependents of displaced Polish service members, were told they did not have post-Brexit rights to return to UKTwo Polish citizens who have l...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Four people found dead on small boats after trying to cross Channel",
+        "url": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
+        "description": "Three women found off coast of Dunkirk and man killed in separate incident near Dannes, after attempting to reach UKFour people have died while trying to reach the UK in small boats after one of th...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "AI tool will lead to more child refugees being treated as adults, charity warns",
         "url": "https://www.theguardian.com/global-development/2026/jul/29/uk-immigration-ai-age-facial-recognition-child-refugees-adults-bias",
         "description": "‘Racist bias’ overestimating ages in Home Office’s facial-recognition software will lead to solo children being housed with adults, says Human Rights NetworkFlawed and racialised models that underp...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "‘Farage’s got to come clean or clear off’: what voters on Clacton beach think about their MP – and the country",
-        "url": "https://www.theguardian.com/politics/2026/jul/29/nigel-farage-come-clean-or-clear-off-voters-clacton",
-        "description": "Nigel Farage’s constituency takes in genteel resorts and one of England’s poorest villages. With a snap byelection approaching, what do the residents want from the Reform UK leader – or the bin who...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "From the archive: ‘A dizzying maze’: how the UK immigration system is geared to reject – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/jul/29/from-the-archive-a-dizzying-maze-how-the-uk-immigration-system-is-geared-to-reject-podcast",
-        "description": "We are raiding the Guardian long read archives to bring you some classic pieces from years past, with new introductions from the authors.This week, from 2019: Navigating the roadblocks into Britain...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "‘Grey lump with orange wings’: migrating moth descends on UK gardens",
-        "url": "https://www.theguardian.com/environment/2026/jul/30/hummingbird-hawk-moth-sightings-migrating-uk",
-        "description": "Boom in hummingbird hawk-moth sightings put down to hot weather, strong winds and food scarcity in EuropeHe had just sat down to dinner in the garden when a speedy visitor whizzed by – a “grey lump...",
+        "title": "Europe burns: a visual guide to the wildfires",
+        "url": "https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires",
+        "description": "Ferocious flames continue to rage in parts of France and Spain, with no sign of abating. We chart the destruction in graphics and picturesThe hellish infernos that have torn through parts of France...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Three firefighters killed on Crete and in mainland Greece as Europe battles wildfires",
-        "url": "https://www.theguardian.com/world/2026/jul/29/pedro-sanchez-next-12-hours-decisive-extreme-heat-wildfires-madrid-europe",
-        "description": "Repeated heatwaves and strong winds alarm experts, who warn blazes are becoming harder to quellThree Greek firefighters have died while tackling wildfires on the island of Crete and in the south of...",
+        "title": "Firefighters race to extinguish blazes across EU as fire weather breaks records",
+        "url": "https://www.theguardian.com/world/2026/jul/30/fire-weather-eu-wildfires-data",
+        "description": "European Forest Fire Information Service figures show conditions in EU 43% more severe than for same period in last 20 years Fire weather in the EU has broken records for severity for this time of ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Spain faces ‘complex’ three days with risks of heatwave and strong winds reigniting some fires – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/jul/29/france-spain-wildfires-heatwave-extreme-heat-europe-latest-news-updates",
-        "description": "Authorities fear progress in containing the fires in the Gironde and Madrid regions may be set back by temperatures expected to hit the low 40sin BrusselsThe European Union’s crisis-management team...",
+        "title": "England on track for record heat-related deaths this summer, official data shows",
+        "url": "https://www.theguardian.com/environment/2026/jul/30/excess-deaths-caused-by-heatwaves-in-england-almost-double-so-far-this-year",
+        "description": "UKHSA estimates 2,877 fatalities during heatwaves in May and June, almost twice that recorded in 2025 seasonEngland is on track to record its highest ever number of heat-related deaths this summer ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Can a heatwave cause trees to fall?",
-        "url": "https://www.bbc.co.uk/news/videos/clyqle52l9po?at_medium=RSS&at_campaign=rss",
-        "description": "Don't sit under a tree during a heatwave - here's why.",
+        "title": "Dashcam captures tornado toppling power lines onto car",
+        "url": "https://www.bbc.co.uk/news/videos/cj631p14gpjo?at_medium=RSS&at_campaign=rss",
+        "description": "Video obtained by the BBC provides a firsthand look at the powerful storm system that ripped through parts of eastern Wisconsin on 27 July.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "College Republicans are fighting and the far right is benefiting: ‘It looks very childish’",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/30/far-right-college-republicans-america-cra",
+        "description": "Tensions in the national party are trickling down to US college campuses, where a newer student group is rapidly outflanking longstanding moderate rivalsWhen the Utah county clerk’s office announce...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Have you done an apprenticeship in recent years in England? We’d like to hear about your experience",
         "url": "https://www.theguardian.com/education/2026/jul/29/have-you-done-an-apprenticeship-in-recent-years-in-england-wed-like-to-hear-about-your-experience",
@@ -156,13 +163,6 @@
         "title": "Andy Burnham’s plans for technical education build on coalition’s UTC roots",
         "url": "https://www.theguardian.com/education/2026/jul/29/andy-burnham-technical-education-coalition-kenneth-baker",
         "description": "PM’s vocational model also takes inspiration from former education secretary Kenneth Baker’s visionAndy Burnham’s plans to put academic and technical education routes on an equal footing in England...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Burnham bounce: Labour overtakes Reform in polls – The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/jul/28/burnham-bounce-labour-overtakes-reform-in-polls-the-latest",
-        "description": "Labour has overtaken Reform UK this week for the first time since March last year, according to polls. The ‘Burnham bounce’ comes two weeks into Andy Burnham’s tenure in No 10, during which he has ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Three Greek firefighters die as wildfires threaten parts of southern Europe",
-        "url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss",
-        "description": "Gale-force winds on Crete have whipped up flames prompting the evacuation of several villages, as parts of the continent continue to tackle fires.",
+        "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+        "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
+        "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
