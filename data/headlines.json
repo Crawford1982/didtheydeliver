@@ -1,39 +1,46 @@
 {
-  "fetched_at": "2026-07-30T13:56:51.656903+00:00",
+  "fetched_at": "2026-07-30T19:23:09.371912+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Will we pay more tax to fund social care? – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/jul/30/will-we-pay-more-tax-to-fund-social-care-podcast",
-        "description": "Andy Burnham gave a major speech on Wednesday on his plans for a national care service. He sought cross-party consensus on the issue by speaking to the Tories and Lib Dems. But not Reform UK or the...",
+        "title": "Burnham promises ‘pragmatic’ approach to North Sea oil and gas",
+        "url": "https://www.theguardian.com/environment/2026/jul/30/burnham-promises-pragmatic-approach-to-north-sea-oil-and-gas",
+        "description": "PM tells reporters the government cannot ignore the energy resource ‘when people are struggling’Andy Burnham has said he will take a “pragmatic” approach to oil and gas drilling in the North Sea, s...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "‘Reform are up to their neck in sleaze and dodgy money’; Labour hit out after Cottrell revelations – politics live",
+        "title": "Labour says Reform ‘up to its neck in sleaze’ and demands investigation into donations",
+        "url": "https://www.theguardian.com/politics/2026/jul/30/electoral-commission-reform-uk-donations-george-cottrell",
+        "description": "Exclusive: Electoral Commission urged to look into donations made by mother of convicted fraudsterRevealed: George Cottrell transferred $2m to his mother days before her donations to Reform UKLabou...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham says he told Trump he would be ‘pragmatic’ on drilling for oil in North Sea – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/jul/30/reform-nigel-farage-robert-jenrick-labour-prisons-andy-burnham-latest-news-updates",
-        "description": "The Labour party released a statement after Robert Jenrick tried to minimise the latest revelations about donations to ReformQ: [From ITV’s Romilly Weeks] You say that Reform UK followed all the ru...",
+        "description": "‘There is a resource there. When people are struggling, we can’t ignore that,’ the prime minister says when asked about his conversation with Donald TrumpQ: [From ITV’s Romilly Weeks] You say that ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK government reviews why police ceding criminal cases to US military",
-        "url": "https://www.theguardian.com/uk-news/2026/jul/30/uk-ministers-police-justice-review-us-military",
-        "description": "Exclusive: ministers and police chiefs examining how cases involving US military personnel on UK soil are handled after Guardian revelationsThe UK government and police chiefs are reviewing the pro...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham says nuclear sub investment will protect UK and boost jobs",
-        "url": "https://www.bbc.co.uk/news/articles/crl70x0nxr9o?at_medium=RSS&at_campaign=rss",
-        "description": "Speaking ahead of a visit to Barrow-in-Furness, the PM seeks to stress the economic benefits of defence spending.",
+        "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
+        "url": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
+        "description": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Bank of England holds interest rates despite Iran war inflation threat - business live",
+        "title": "Bank of England holds interest rates at 3.75% as inflation fears mount",
+        "url": "https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount",
+        "description": "Split vote comes as Iran war is rekindled and oil price climbs close to $90 a barrelBusiness live – latest updatesOnly Middle East crisis is preventing drop in UK interest ratesThe Bank of England ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Bank of England holds interest rates despite Iran war inflation threat - as it happened",
         "url": "https://www.theguardian.com/business/live/2026/jul/30/ftse-100-record-federal-reserve-hold-kevin-warsh-iran-attacks-donald-trump-rolls-royce-shell-lloyds-bank-of-england-interest-rates-business-live-latest-updates",
         "description": "Live, rolling coverage of business, economics and financial markets as three members of monetary policy committee vote to raise ratesThat German GDP reading has indeed contributed to the wider euro...",
         "source": "The Guardian",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Only the Middle East crisis is preventing a drop in UK interest rates",
-        "url": "https://www.theguardian.com/business/2026/jul/30/middle-east-crisis-preventing-drop-in-uk-interest-rates-bank-of-england-inflation",
-        "description": "Bank’s wariness about inflationary pressures from the conflict lie behind decision to hold steady at 3.75%Business live – latest updatesThere is a threat of high inflation coming to the UK but only...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US economic growth slows unexpectedly in second quarter",
-        "url": "https://www.bbc.co.uk/news/articles/cd0xvrmlx2eo?at_medium=RSS&at_campaign=rss",
-        "description": "The economy grew at an annual rate of 1.5% in the three months to June, down from 2.1% seen in the previous quarter.",
+        "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
+        "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
+        "description": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,16 +93,16 @@
     ],
     "immigration": [
       {
-        "title": "‘It was a big shock’: new border rules left couple stuck in Kraków after living in UK for 80 years",
-        "url": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow",
-        "description": "Maria and Czeslaw Krupa, who arrived in 1947 and 1948 as dependents of displaced Polish service members, were told they did not have post-Brexit rights to return to UKTwo Polish citizens who have l...",
+        "title": "French riot police used teargas on people trying to board small boat, charity claims",
+        "url": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
+        "description": "CRS officers funded by UK tried to stop boarding of boat, on day four asylum seekers died trying to cross ChannelFrench riot police funded by UK taxpayers used teargas on asylum seekers in a bid to...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Four people found dead on small boats after trying to cross Channel",
-        "url": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
-        "description": "Three women found off coast of Dunkirk and man killed in separate incident near Dannes, after attempting to reach UKFour people have died while trying to reach the UK in small boats after one of th...",
+        "title": "‘It was a big shock’: new border rules left couple stuck in Kraków after living in UK for 80 years",
+        "url": "https://www.theguardian.com/politics/2026/jul/30/how-couple-lived-in-uk-80-years-got-stuck-in-krakow",
+        "description": "Maria and Czeslaw Krupa, who arrived as children of displaced Polish veterans, told they have no post-Brexit rights to return home to BuryTwo Polish citizens who have lived in the UK for nearly 80 ...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,16 +116,16 @@
     ],
     "climate": [
       {
-        "title": "Europe burns: a visual guide to the wildfires",
-        "url": "https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires",
-        "description": "Ferocious flames continue to rage in parts of France and Spain, with no sign of abating. We chart the destruction in graphics and picturesThe hellish infernos that have torn through parts of France...",
+        "title": "Race to extinguish blazes across Europe as fire weather breaks records",
+        "url": "https://www.theguardian.com/world/2026/jul/30/fire-weather-eu-wildfires-data",
+        "description": "Figures show hot, dry, windy conditions in EU are 43% more severe than the average over last 20 yearsFire weather in the EU has broken records for severity for this time of year, data shows, as fir...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Firefighters race to extinguish blazes across EU as fire weather breaks records",
-        "url": "https://www.theguardian.com/world/2026/jul/30/fire-weather-eu-wildfires-data",
-        "description": "European Forest Fire Information Service figures show conditions in EU 43% more severe than for same period in last 20 years Fire weather in the EU has broken records for severity for this time of ...",
+        "title": "Europe burns: a visual guide to the wildfires",
+        "url": "https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires",
+        "description": "Ferocious flames continue to rage in parts of France and Spain, with no sign of abating. We chart the destruction in graphics and picturesThe hellish infernos that have torn through parts of France...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Dashcam captures tornado toppling power lines onto car",
-        "url": "https://www.bbc.co.uk/news/videos/cj631p14gpjo?at_medium=RSS&at_campaign=rss",
-        "description": "Video obtained by the BBC provides a firsthand look at the powerful storm system that ripped through parts of eastern Wisconsin on 27 July.",
+        "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+        "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
+        "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,23 +169,23 @@
     ],
     "housing": [
       {
+        "title": "The Guardian view on prolonging kidulthood: Britain prices young adults out of independent life | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/jul/30/the-guardian-view-on-kidulthood-britain-prices-young-adults-out-of-independent-life",
+        "description": "More young people live with parents as low wages, insecure work and unaffordable housing turn family support into another source of inequalityIn Britain, young people are expected to become indepen...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Homelessness crisis starts at the prison gate | Letter",
+        "url": "https://www.theguardian.com/society/2026/jul/30/homelessness-crisis-starts-at-the-prison-gate",
+        "description": "No government can credibly promise to end rough sleeping while one public institution keeps releasing people straight into it, writes Gary TeperWe should all applaud Andy Burnham’s commitment to en...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "‘It makes you feel you’ve got a really dirty house’: what’s behind the UK’s plagues of flies?",
         "url": "https://www.theguardian.com/environment/2026/jul/30/house-files-uk-plague-homes",
         "description": "From Leicestershire to Carmarthenshire, neighbourhoods are struggling with wave after wave of houseflies. Why are they suffering while others are spared? And is there no alternative to nets and zap...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Shameful treatment of vulnerable families in heatwave | Letters",
-        "url": "https://www.theguardian.com/environment/2026/jul/29/shameful-treatment-of-vulnerable-families-in-heatwave",
-        "description": "Fernando Quintana Marrero responds to a report about children housed in a building in London becoming sick after families were denied air conditioningHow did London get here (Families in London tem...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Councils can lead on housing improvements | Letter",
-        "url": "https://www.theguardian.com/environment/2026/jul/27/councils-can-lead-on-housing-improvements",
-        "description": "Dr Stephen Battersby on the lessons this Labour government can learn from the 1970sYour editorial quoting Sam Johnson-Schlee saying that our ability to trust that our homes will keep us safe is und...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
-        "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-        "description": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+        "title": "Why limited war with the US may suit Iran better than peace",
+        "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
+        "description": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
-        "url": "https://www.bbc.co.uk/news/articles/cwymkgenv2ro?at_medium=RSS&at_campaign=rss",
-        "description": "The missile left a 10m-wide (33ft) crater a short distance from the village of Tarnawa Kolonia, about 100km from the border with Ukraine.",
+        "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
+        "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
+        "description": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
