@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-07-31T02:41:14.622408+00:00",
+  "fetched_at": "2026-07-31T08:47:14.725989+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Andy Burnham to set out devolution plan amid criticism it won’t benefit regions equally – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/jul/31/andy-burnham-devolution-plan-labour-conservatives-kemi-bedenoch-uk-politics-live",
+        "description": "Plan set to transform funding so English regions no longer rely on Whitehall handouts for projectsGood morning and welcome to our live coverage of UK politics. From 2028 English regional mayors, fo...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Diane Abbott and Joani Reid readmitted as Labour MPs",
         "url": "https://www.theguardian.com/politics/2026/jul/30/diane-abbott-and-joani-reid-readmitted-as-labour-mps",
@@ -13,13 +20,6 @@
         "title": "Burnham to free mayors from ‘Treasury death grip’ with new devolved powers",
         "url": "https://www.theguardian.com/politics/2026/jul/30/burnham-mayors-income-tax-business-rates-devolution",
         "description": "Local leaders say plan will transform funding so English regions no longer rely on Whitehall handouts for projectsEngland’s regional mayors will be able to break out of the “death grip of the Treas...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham promises ‘pragmatic’ approach to North Sea oil and gas",
-        "url": "https://www.theguardian.com/environment/2026/jul/30/burnham-promises-pragmatic-approach-to-north-sea-oil-and-gas",
-        "description": "PM tells reporters the government cannot ignore the energy resource ‘when people are struggling’Andy Burnham has said he will take a “pragmatic” approach to oil and gas drilling in the North Sea, s...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Thames Water boss says leakage targets 'not realistic'",
-        "url": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
-        "description": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable.",
+        "title": "Sainsbury's agrees to sell Argos for £120m",
+        "url": "https://www.bbc.co.uk/news/articles/cpw9yrl4p2qo?at_medium=RSS&at_campaign=rss",
+        "description": "Under the terms of the deal, Argos will still operate in Sainsbury's shops, sell Habitat products, and offer Nectar points.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Medical colleges condemn scrapping of NHS placements for overseas doctors",
+        "url": "https://www.theguardian.com/society/2026/jul/31/medical-colleges-condemn-scrapping-of-nhs-placements-for-overseas-doctors",
+        "description": "Scheme brought in up to 500 foreign-trained doctors a year and was seen as example of British ‘soft power’The NHS has scrapped a longstanding scheme that let overseas doctors boost their skills in ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Brave New World or Groundhog Day? Burnham revisits old ground in speech on social care",
         "url": "https://www.theguardian.com/politics/2026/jul/29/patrick-butler-andy-burnham-revisits-old-ground-in-speech-on-social-care",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "The Guardian view on funding social care: building consensus requires candour about taxes | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/29/the-guardian-view-on-funding-social-care-building-consensus-requires-candour-about-taxes",
-        "description": "The prime minister is right to want to change the political culture, but aversion to honesty about the funding options runs deep in WestminsterAndy Burnham is well qualified to speak on the subject...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Holidaymakers warned about 'explosive diarrhoea' cyclospora parasite infection",
-        "url": "https://www.bbc.co.uk/news/articles/ckgv614qn2do?at_medium=RSS&at_campaign=rss",
-        "description": "The UK is seeing a sharp rise in cases - 67 since April - with many of them among travellers returning from Mexico.",
+        "title": "What your summer reading list says about you",
+        "url": "https://www.bbc.co.uk/news/articles/cd69glgl2jzo?at_medium=RSS&at_campaign=rss",
+        "description": "Just picked your holiday book? Our choices can subconsciously reveal important parts of our personality, studies show.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘Extremely scary findings’ show climate crisis is supercharging Europe’s wildfire weather",
+        "url": "https://www.theguardian.com/world/2026/jul/31/wildfires-extreme-weather-europe-spain-france-climate-crisis-analysis",
+        "description": "Latest study says global heating has made hot, dry and windy conditions in Spain at least 20 times more likelyThe extreme heat and drought stoking huge wildfires in Spain and France were made far m...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Record low water levels across Europe reveal mammoth skeletons and forgotten shipwrecks – video",
         "url": "https://www.theguardian.com/environment/video/2026/jul/30/europe-record-low-water-levels",
         "description": "Water levels across several of Europe’s major waterways have dropped to exceptionally low levels, setting new records in some areas.Extreme heat exacerbated by the climate crisis is intensifying th...",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Europe burns: a visual guide to the wildfires",
-        "url": "https://www.theguardian.com/world/2026/jul/30/europe-burns-france-spain-visual-guide-wildfires",
-        "description": "Ferocious flames continue to rage in parts of France and Spain, with no sign of abating. We chart the destruction in graphics and picturesThe hellish infernos that have torn through parts of France...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "India wants to join the strawberry superpowers",
-        "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
-        "description": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
+        "title": "Drought conditions may worsen before improving as little rain in sight",
+        "url": "https://www.bbc.co.uk/weather/articles/cn5nk90ndl0o?at_medium=RSS&at_campaign=rss",
+        "description": "Conditions in the most parched areas of the United Kingdom could worsen before they improve, according to the latest forecasts.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Calls grow ‘to flunk’ Portugal’s education minister amid exam marking fiasco",
+        "url": "https://www.theguardian.com/world/2026/jul/31/portugal-education-minister-exam-marking-fernando-alexandre",
+        "description": "Fernando Alexandre’s push to digitise marking process deemed a failure with some students and parents contemplating legal actionPressure is growing on Portugal’s education minister to resign amid s...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "College Republicans are fighting and the far right is benefiting: ‘It looks very childish’",
         "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/30/far-right-college-republicans-america-cra",
@@ -156,13 +163,6 @@
         "title": "Have you done an apprenticeship in recent years in England? We’d like to hear about your experience",
         "url": "https://www.theguardian.com/education/2026/jul/29/have-you-done-an-apprenticeship-in-recent-years-in-england-wed-like-to-hear-about-your-experience",
         "description": "We want to hear from people who have recently completed an apprenticeship or planning to go on one The government has announced plans to reshape education for young people in England from the age o...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Andy Burnham’s plans for technical education build on coalition’s UTC roots",
-        "url": "https://www.theguardian.com/education/2026/jul/29/andy-burnham-technical-education-coalition-kenneth-baker",
-        "description": "PM’s vocational model also takes inspiration from former education secretary Kenneth Baker’s visionAndy Burnham’s plans to put academic and technical education routes on an equal footing in England...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
-        "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
-        "description": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
+        "title": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+        "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+        "description": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
-        "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-        "description": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
+        "title": "About 49,000 migrants enter Spanish enclave of Ceuta, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
+        "description": "This comes after thousands of migrants were reported to have illegally crossed into the territory on Thursday and Friday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
