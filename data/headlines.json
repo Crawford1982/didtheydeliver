@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-07-30T19:23:09.371912+00:00",
+  "fetched_at": "2026-07-31T02:41:14.622408+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Diane Abbott and Joani Reid readmitted as Labour MPs",
+        "url": "https://www.theguardian.com/politics/2026/jul/30/diane-abbott-and-joani-reid-readmitted-as-labour-mps",
+        "description": "Both MPs have had the parliamentary whip restored following separate independent disciplinary processes MPs Diane Abbott and Joani Reid have been readmitted into Labour and had the parliamentary wh...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham to free mayors from ‘Treasury death grip’ with new devolved powers",
+        "url": "https://www.theguardian.com/politics/2026/jul/30/burnham-mayors-income-tax-business-rates-devolution",
+        "description": "Local leaders say plan will transform funding so English regions no longer rely on Whitehall handouts for projectsEngland’s regional mayors will be able to break out of the “death grip of the Treas...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Burnham promises ‘pragmatic’ approach to North Sea oil and gas",
         "url": "https://www.theguardian.com/environment/2026/jul/30/burnham-promises-pragmatic-approach-to-north-sea-oil-and-gas",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Labour says Reform ‘up to its neck in sleaze’ and demands investigation into donations",
-        "url": "https://www.theguardian.com/politics/2026/jul/30/electoral-commission-reform-uk-donations-george-cottrell",
-        "description": "Exclusive: Electoral Commission urged to look into donations made by mother of convicted fraudsterRevealed: George Cottrell transferred $2m to his mother days before her donations to Reform UKLabou...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham says he told Trump he would be ‘pragmatic’ on drilling for oil in North Sea – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/30/reform-nigel-farage-robert-jenrick-labour-prisons-andy-burnham-latest-news-updates",
-        "description": "‘There is a resource there. When people are struggling, we can’t ignore that,’ the prime minister says when asked about his conversation with Donald TrumpQ: [From ITV’s Romilly Weeks] You say that ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham says he told Trump UK will be pragmatic about North Sea oil",
-        "url": "https://www.bbc.co.uk/news/articles/c70gr75xzg5o?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham says he told the US president he couldn't ignore North Sea resources when people are struggling.",
+        "title": "Andy Burnham to give regional mayors share of income tax",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3eyg60e0o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says the move will give power to \"every postcode\" but critics say the plans lack detail.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Bank holds interest rates but says it is ready to raise them if Iran war escalates",
-        "url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss",
-        "description": "The Bank also expects the economy to grow more than previously forecast this year, although uncertainties remain because of the Iran war.",
+        "title": "Thames Water boss says leakage targets 'not realistic'",
+        "url": "https://www.bbc.co.uk/news/articles/c04kd3gl1gpo?at_medium=RSS&at_campaign=rss",
+        "description": "Chris Weston said Thames wanted \"to do better\" but some of its targets were not achievable.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -95,7 +95,7 @@
       {
         "title": "French riot police used teargas on people trying to board small boat, charity claims",
         "url": "https://www.theguardian.com/world/2026/jul/30/small-boat-deaths-channel-crossing-attempt",
-        "description": "CRS officers funded by UK tried to stop boarding of boat, on day four asylum seekers died trying to cross ChannelFrench riot police funded by UK taxpayers used teargas on asylum seekers in a bid to...",
+        "description": "CRS officers funded by UK tried to stop boarding of boat, on day four asylum seekers died trying to cross ChannelFrench riot police funded by UK taxpayers used teargas on asylum seekers in an attem...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Record low water levels across Europe reveal mammoth skeletons and forgotten shipwrecks – video",
+        "url": "https://www.theguardian.com/environment/video/2026/jul/30/europe-record-low-water-levels",
+        "description": "Water levels across several of Europe’s major waterways have dropped to exceptionally low levels, setting new records in some areas.Extreme heat exacerbated by the climate crisis is intensifying th...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Race to extinguish blazes across Europe as fire weather breaks records",
         "url": "https://www.theguardian.com/world/2026/jul/30/fire-weather-eu-wildfires-data",
         "description": "Figures show hot, dry, windy conditions in EU are 43% more severe than the average over last 20 yearsFire weather in the EU has broken records for severity for this time of year, data shows, as fir...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "England on track for record heat-related deaths this summer, official data shows",
-        "url": "https://www.theguardian.com/environment/2026/jul/30/excess-deaths-caused-by-heatwaves-in-england-almost-double-so-far-this-year",
-        "description": "UKHSA estimates 2,877 fatalities during heatwaves in May and June, almost twice that recorded in 2025 seasonEngland is on track to record its highest ever number of heat-related deaths this summer ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-        "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-        "description": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
+        "title": "India wants to join the strawberry superpowers",
+        "url": "https://www.bbc.co.uk/news/articles/c8x274xxxpwo?at_medium=RSS&at_campaign=rss",
+        "description": "Indian strawberry farmers rely on varieties imported from the US and Europe, but that could change.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,16 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-        "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
-        "description": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Why limited war with the US may suit Iran better than peace",
-        "url": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-        "description": "Iran may believe it can control its conflict carefully enough to keep pressure on the US while avoiding an all-out war.",
+        "title": "Hamas says it has agreed to disarm after Trump announces Board of Peace plan",
+        "url": "https://www.bbc.co.uk/news/articles/cj03m512r4go?at_medium=RSS&at_campaign=rss",
+        "description": "A senior Hamas official has told the BBC they have agreed to the Board of Peace's plan. Israel has not commented.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -209,6 +202,13 @@
         "title": "Hundreds of migrants swim from Morocco to Spanish enclave of Ceuta",
         "url": "https://www.bbc.co.uk/news/articles/cg4drwzkrkxo?at_medium=RSS&at_campaign=rss",
         "description": "The territory's leader said the influx is overwhelming resources and urged the Spanish government to intervene.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Nirmal Purja among 10 climbers feared missing after avalanche",
+        "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
+        "description": "An American, a Chinese national, an Omani and five Nepalis are said to be part of the group feared missing in Pakistan.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
