@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-01T02:39:43.397336+00:00",
+  "fetched_at": "2026-08-01T08:17:45.933524+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Turn failing water firms into not-for-profit cooperatives, MPs and mayors tell PM",
+        "url": "https://www.theguardian.com/business/2026/aug/01/turn-failing-water-firms-into-not-for-profit-cooperatives-mps-and-mayors-tell-pm",
+        "description": "Labour politicians say mutualised model puts public in control without adding debt to government’s balance sheetMPs and mayors close to Andy Burnham have told the prime minister there is a “third w...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Labour wins decisive victory in Greater Manchester mayoral byelection",
         "url": "https://www.theguardian.com/politics/2026/jul/31/labour-wins-decisive-victory-in-greater-manchester-mayoral-byelection",
@@ -17,13 +24,6 @@
         "category": "government"
       },
       {
-        "title": "Wait goes on for result in Greater Manchester mayoral by-election – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/jul/31/andy-burnham-devolution-plan-labour-conservatives-kemi-bedenoch-uk-politics-live",
-        "description": "The turnout was recorded as the lowest on record for a mayoral role in the regionThe construction of a new Chinese “super-embassy” in London, which is set to be built near the Tower of London, can ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "Labour's Bev Craig elected mayor of Greater Manchester, replacing Andy Burnham",
         "url": "https://www.bbc.co.uk/news/articles/cy74n1n1lnxo?at_medium=RSS&at_campaign=rss",
         "description": "Labour's Bev Craig secures nearly double the number of votes won by Reform UK's Sian Astley.",
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
+        "url": "https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability",
+        "description": "Exclusive: As wildfires rage, Frank Elderson says more work needed to assess risk from collapse of ecosystem servicesA senior policymaker at the European Central Bank has said the climate emergency...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Bank of England holds interest rates at 3.75% as inflation fears mount",
         "url": "https://www.theguardian.com/business/2026/jul/30/bank-of-england-holds-interest-rates-inflation-fears-mount",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "US economy grows sluggish 1.5% in second quarter as inflation tops Fed target",
-        "url": "https://www.theguardian.com/business/2026/jul/30/us-economy-growth-inflation-second-quarter",
-        "description": "Consumer spending remained resilient even as policymakers kept interest rates on holdThe US economy expanded at a sluggish 1.5% pace from April through June as rising imports weighed on growth. But...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Snapchat joins other popular platforms in fight against 'AI slop'",
         "url": "https://www.bbc.co.uk/news/articles/c77g6dm5pr8o?at_medium=RSS&at_campaign=rss",
         "description": "Snapchat, YouTube, LinkedIn, and Substack are trying to combat the proliferation of fake AI content.",
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "‘I felt sick that he was near my mum’: a top amputation surgeon had his own legs removed due to a fetish. Were his patients safe?",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/01/neil-hopper-surgeon-amputated-legs-fetish-extreme-mutilation-patients-questions",
+        "description": "Neil Hopper was celebrated for continuing to do his job despite the loss of his lower limbs. But what the people he was treating didn’t know was that his injuries were self-inflicted. Now they and ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Medical colleges condemn scrapping of NHS placements for overseas doctors",
         "url": "https://www.theguardian.com/society/2026/jul/31/medical-colleges-condemn-scrapping-of-nhs-placements-for-overseas-doctors",
@@ -73,13 +80,6 @@
         "title": "Brave New World or Groundhog Day? Burnham revisits old ground in speech on social care",
         "url": "https://www.theguardian.com/politics/2026/jul/29/patrick-butler-andy-burnham-revisits-old-ground-in-speech-on-social-care",
         "description": "Rightwing media hostility helped sink his reform plans in 2010, but the new PM’s passionate speech suggests there is now clear political will for changeFor campaigners perpetually disappointed by t...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Battles loom over social care, but this fight must be won. At last, we have a PM who believes that | Polly Toynbee",
-        "url": "https://www.theguardian.com/commentisfree/2026/jul/29/andy-burnham-reform-social-care-crisis",
-        "description": "Burnham seems ready to use his power and influence. He understands the depth of this crisis: the task is persuading all those still in denial“People pleaser!” That’s the insult Andy Burnham’s enemi...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
+        "title": "‘We stared into an abyss’: the heroes battling to tame France’s ‘megafire’",
+        "url": "https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire",
+        "description": "Exhausted firefighters wage ‘war of attrition’ against blaze that forced 200,000 people from their homes  By noon it is time for a break. The temperature is about 35C, the smell of ash, cinders and...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
+        "url": "https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability",
+        "description": "Exclusive: As wildfires rage, Frank Elderson says more work needed to assess risk from collapse of ecosystem servicesA senior policymaker at the European Central Bank has said the climate emergency...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Adani to pay no company tax despite $1bn revenue from Queensland coalmine",
         "url": "https://www.theguardian.com/business/2026/aug/01/adani-to-pay-no-company-tax-despite-1bn-revenue-from-queensland-coalmine",
         "description": "Indian conglomerate offsets earnings from Carmichael mine to report $340.6m loss, after promising billions in taxes and royaltiesGet our breaking news email, free app or daily news podcastIndian co...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "India’s monsoon rains in danger as UN chief warns planet is ‘on fire’",
-        "url": "https://www.theguardian.com/environment/2026/jul/31/india-monsoon-el-nino-hot-dry-conditions-meteorologists",
-        "description": "António Guterres says strengthening El Niño will help push the world’s climate crisis into ‘uncharted territory’India’s monsoon is in danger and hotter, drier conditions are forecast across much of...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Daughter of British couple killed in Spanish wildfire rejects claim they ignored order to leave",
-        "url": "https://www.theguardian.com/world/2026/jul/31/spain-wildfire-bedar-british-couple-pete-fran-gillam-killed",
-        "description": "Exclusive: Danielle Kirton calls on Ed Miliband to help her get answers about why evacuation order came too lateThe bereaved daughter of a British couple who died in a Spanish wildfire is calling o...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Fifa scraps controversial World Cup investment plan",
+        "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po?at_medium=RSS&at_campaign=rss",
+        "description": "Football's world governing body Fifa abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's proposal.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Spain's PM blames traffickers after 60,000 migrants reach Ceuta from Morocco",
         "url": "https://www.bbc.co.uk/news/articles/cx2kp639yx4o?at_medium=RSS&at_campaign=rss",
         "description": "Spain said most had returned to Morocco by Friday evening, as Italy suspended its Schengen agreement on free movement with Madrid.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-        "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
-        "description": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Body of US climber the latest recovered after Pakistan avalanche",
-        "url": "https://www.bbc.co.uk/news/articles/cddjz1r01l8o?at_medium=RSS&at_campaign=rss",
-        "description": "The bodies of two other climbers have already been recovered from the mountain, while others are still missing.",
+        "title": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+        "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+        "description": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
