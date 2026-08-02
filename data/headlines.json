@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T02:38:39.458588+00:00",
+  "fetched_at": "2026-08-02T08:21:45.596528+00:00",
   "headlines": {
     "government": [
       {
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘We cannot magic up more water’: the supply problems putting housing targets in England at risk",
+        "url": "https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk",
+        "description": "Council leaders say crumbling infrastructure and lack of water are jeopardising government’s plans for new homesThe government’s housebuilding agenda is hitting the stark reality of a lack of water...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "EU offered Spain support ‘from first moment’ of Ceuta crisis, says von der Leyen, after Sánchez hits out – Europe live",
         "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
         "description": "‘Not a single person reached mainland Spain or rest of EU,’ says European Commission president, after Spanish PM condemned ‘selfish, polarising’ reaction of some countriesBack to Ukraine, where nin...",
@@ -126,13 +133,6 @@
         "title": "Democrats’ ‘climate hushing’ prompts activists to turn up the volume",
         "url": "https://www.theguardian.com/us-news/2026/aug/01/democrats-climate-policy-hushing",
         "description": "Nationwide actions seek to counter view that talking about climate crisis distracts from affordability messagingThis summer, torrential rains have washed away Texas neighborhoods, dangerous heat ha...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘We stared into an abyss’: the men and women battling France’s megafire",
-        "url": "https://www.theguardian.com/world/2026/aug/01/wildfire-france-firefighters-battling-france-megafire",
-        "description": "Exhausted firefighters, foresters and volunteers wage ‘war of attrition’ against blaze that forced 200,000 people from their homesBy noon it is time for a break. The temperature is about 35C, the s...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "‘We cannot magic up more water’: the supply problems putting housing targets in England at risk",
+        "url": "https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk",
+        "description": "Council leaders say crumbling infrastructure and lack of water are jeopardising government’s plans for new homesThe government’s housebuilding agenda is hitting the stark reality of a lack of water...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "NSW should compensate elderly woman whose public housing was inundated with sewage, ombudsman finds",
         "url": "https://www.theguardian.com/australia-news/2026/aug/01/nsw-should-compensate-elderly-woman-whose-public-housing-was-inundated-with-sewage-ombudsman-finds-ntwnfb",
         "description": "Ombudsman finds Homes NSW acted unreasonably and recommended additional payment for distress and sufferingGet our breaking news email, free app or daily news podcastAn elderly public housing tenant...",
@@ -181,27 +188,20 @@
         "description": "More young people live with parents as low wages, insecure work and unaffordable housing turn family support into another source of inequalityIn Britain, young people are expected to become indepen...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Homelessness crisis starts at the prison gate | Letter",
-        "url": "https://www.theguardian.com/society/2026/jul/30/homelessness-crisis-starts-at-the-prison-gate",
-        "description": "No government can credibly promise to end rough sleeping while one public institution keeps releasing people straight into it, writes Gary TeperWe should all applaud Andy Burnham’s commitment to en...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-        "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-        "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
+        "title": "Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly'",
+        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+        "description": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
-        "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+        "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
+        "url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
+        "description": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
