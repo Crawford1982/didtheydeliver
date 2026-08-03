@@ -1,30 +1,30 @@
 {
-  "fetched_at": "2026-08-03T09:40:39.265025+00:00",
+  "fetched_at": "2026-08-03T14:34:55.385279+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Criticism of Reform UK’s pledge to use Navy to stop small boats – politics live",
+        "title": "Restore leader accuses Farage of ‘outright lying’ over pact offer but says his party ‘remains open’ – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/aug/03/reform-immigration-small-boats-nigel-farage-restore-clacton-latest-news-updates",
-        "description": "Labour say plan is a ‘desperate attempt to distract from sleaze’ while a retired commander says it ‘lacks substance’In other news, the chancellor, John Healey, has said the government is standing b...",
+        "description": "Rupert Lowe says no talks have taken place after the Reform UK leader said he was ‘open to conversation’ on some sort of electoral dealZia Yusuf said under the plan Reform will create an “integrate...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Former navy officer criticises Reform plan to use military to stop small boats",
-        "url": "https://www.theguardian.com/politics/2026/aug/03/former-navy-criticises-reform-plan-military-stop-small-boats",
-        "description": "Retired commander says policy lacks substance as party accused of trying to distract from Nigel Farage’s scandalsUK politics live – latest updatesA Reform UK proposal to use the military to stop sm...",
+        "title": "Farage admits he discussed returning as Reform leader months earlier than previously stated",
+        "url": "https://www.theguardian.com/politics/2026/aug/03/nigel-farage-admits-discussed-returning-reform-leader-months-earlier",
+        "description": "Admission may undermine Farage’s account of circumstances surrounding £5m gift from crypto billionaireUK politics live – latest updatesNigel Farage has admitted he held talks about the possibility ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Rupert Lowe urges Nigel Farage to work with Restore Britain",
-        "url": "https://www.theguardian.com/politics/2026/aug/02/rupert-lowe-urges-nigel-farage-to-work-with-restore-britain",
-        "description": "Lowe says pair should put ‘personalities and our past disagreements aside for good of the country’UK politics live – latest updatesThe leader of Restore Britain has extended an olive branch to Nige...",
+        "title": "Standards watchdog investigating Reform UK’s Richard Tice",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/03/standards-watchdog-investigating-reform-richard-tice",
+        "description": "Party’s deputy leader says on social media the case is related to a complaint by an anti-Israel lobby groupUK politics live – latest updatesReform UK’s deputy leader, Richard Tice, is under investi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform UK would use Royal Navy to stop small boats",
+        "title": "Reform says it would use Navy to stop small boats",
         "url": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
         "description": "The party's home affairs spokesman Zia Yusuf says it would be the \"largest military operation in the English Channel since World War Two”.",
         "source": "BBC News",
@@ -33,9 +33,16 @@
     ],
     "economy": [
       {
-        "title": "Oil prices plunge and Europe’s stock markets rally after Trump calls off Iran strikes",
+        "title": "UK manufacturing growth picks up as Trump tariff chaos eases",
+        "url": "https://www.theguardian.com/business/2026/aug/03/uk-manufacturing-growth-donald-trump-tariff-us-iran",
+        "description": "Factories in upbeat mood despite fears over economic impact of US war on Iran, poll findsBusiness live – latest updatesUK manufacturers ramped up production last month for the fourth consecutive mo...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
         "url": "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude",
-        "description": "Brent crude drops by 5% after US president said talks on Middle East peace deal would resumeBusiness live – latest updatesCrude oil prices fell sharply and European stock markets rallied on Monday ...",
+        "description": "Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resumeBusiness live – latest updatesCrude oil prices fell sharply while stocks and government bonds rallied ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -43,13 +50,6 @@
         "title": "Yen hits three-month high after Trump helps prop up currency",
         "url": "https://www.theguardian.com/business/2026/aug/03/yen-trump-currency-us-japan",
         "description": "US and Japanese governments confirm they carried out a rare joint intervention late last weekWhy has Trump stepped in to prop up Japan’s currency?Business live – latest updatesThe yen has hit its h...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Trump’s hypocritical new tariffs are a chance for the world to fight back | Joseph Stiglitz",
-        "url": "https://www.theguardian.com/business/2026/aug/03/donald-trump-tariffs-us-eu-forced-labour",
-        "description": "The president’s pretext of stopping forced labour is only a ruse – he is trying to grab a share of global trade for the USHere he goes again. The US President, Donald Trump, is increasing and decre...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "What your summer reading list says about you",
-        "url": "https://www.bbc.co.uk/news/articles/cd69glgl2jzo?at_medium=RSS&at_campaign=rss",
-        "description": "Just picked your holiday book? Our choices can subconsciously reveal important parts of our personality, studies show.",
+        "title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
+        "url": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
+        "description": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -100,9 +100,9 @@
         "category": "immigration"
       },
       {
-        "title": "Criticism of Reform UK’s pledge to use Navy to stop small boats – politics live",
+        "title": "Restore leader accuses Farage of ‘outright lying’ over pact offer but says his party ‘remains open’ – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/aug/03/reform-immigration-small-boats-nigel-farage-restore-clacton-latest-news-updates",
-        "description": "Labour say plan is a ‘desperate attempt to distract from sleaze’ while a retired commander says it ‘lacks substance’In other news, the chancellor, John Healey, has said the government is standing b...",
+        "description": "Rupert Lowe says no talks have taken place after the Reform UK leader said he was ‘open to conversation’ on some sort of electoral dealZia Yusuf said under the plan Reform will create an “integrate...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "‘I want to be ripped to shreds’: writers flock to MFAs - but does it breed elitist literature?",
+        "url": "https://www.theguardian.com/us-news/2026/aug/03/mfa-writing-programs",
+        "description": "Thousands of budding US novelists enlist in courses each year, hoping to gain credentials that often influence who gets publishedThomas Pynchon was known to avoid the press and refuse interviews. T...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "UK’s first ‘super-university’, merging Greenwich and Kent, to launch in September",
         "url": "https://www.theguardian.com/education/2026/aug/03/uk-first-super-university-merger-greenwich-kent-september-launch",
         "description": "The new London and South East University Group will be UK’s third largest higher education institutionThe UK’s first “super-university”, which will merge the universities of Greenwich and Kent, is ...",
@@ -156,13 +163,6 @@
         "title": "Inside Sydney’s hottest nightspot, where shoes are off, laptops are on and customers drink matcha",
         "url": "https://www.theguardian.com/australia-news/2026/aug/03/inside-sydneys-hottest-nightspot-where-shoes-are-off-laptops-are-on-and-customers-drink-matcha",
         "description": "A ‘study cafe’ has opened on the site that once housed the radical Gould’s Book Arcade – and students are paying by the hour to be thereGet our breaking news email, free app or daily news podcastIn...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘Tiger mum’ Lucy Powell on Labour’s vocational skills drive: ‘It’s about ambition for everybody’",
-        "url": "https://www.theguardian.com/politics/2026/aug/02/lucy-powell-tiger-mum-vocational-skills-labour-education",
-        "description": "New education secretary says it is ‘false trade-off’ by critics to suggest schools cannot pursue academic excellence alongside technical skillsLucy Powell has said she wants to be an ambitious “tig...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,16 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump suggests new talks with Iran to begin on Monday",
+        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
         "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-        "description": "Tehran has not responded to the suggestion that new talks are imminent. Trump has previously said a negotiated end to the war is close, only for strikes to resume.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-        "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
+        "description": "Tehran has repeatedly closed off the strait since the US and Israel attacked the country in February.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -209,6 +202,13 @@
         "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
         "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
         "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
+        "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
