@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-08-02T19:07:04.712892+00:00",
+  "fetched_at": "2026-08-03T02:40:14.430130+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Healey’s profiteering warning on food and fuel risks row with retailers",
+        "url": "https://www.theguardian.com/business/2026/aug/02/john-healey-profiteering-warning-retailers-backlash",
+        "description": "Chancellor says the government wants to prevent shoppers being ‘taken for a ride’ at the pump or till The chancellor, John Healey, has said the government is standing by to prevent the public from ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Rupert Lowe urges Nigel Farage to work with Restore Britain",
+        "url": "https://www.theguardian.com/politics/2026/aug/02/rupert-lowe-urges-nigel-farage-to-work-with-restore-britain",
+        "description": "Lowe says the two should put ‘personalities and our past disagreements aside for good of the country’The leader of Restore Britain, Rupert Lowe, has extended an olive branch to Nigel Farage, saying...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Burnham to be ‘relentless’ on small boat crossings after Ceuta crisis",
         "url": "https://www.theguardian.com/uk-news/2026/aug/02/andy-burnham-small-boat-crossings-uk-ceuta-crisis",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Healey’s profiteering warning on food and fuel risks row with retailers",
-        "url": "https://www.theguardian.com/business/2026/aug/02/john-healey-profiteering-warning-retailers-backlash",
-        "description": "Chancellor says the government wants to prevent shoppers being ‘taken for a ride’ at the pump or tillThe chancellor, John Healey, has said the government is standing by to prevent the public from “...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham to focus on keeping child rapists in prison as release scheme talks enter final day",
-        "url": "https://www.theguardian.com/society/2026/aug/02/andy-burnham-child-rapists-prison-release-scheme-talks",
-        "description": "Review goes down to the wire after ministers speak with victims’ representatives and support services Andy Burnham is focused on preventing the release of child sexual abuse perpetrators as part of...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Sir John Curtice: The 'Burnham bounce' is real but it's not massive",
-        "url": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
-        "description": "The governing party's poll ratings have improved but they're only just ahead of Reform.",
+        "title": "Burnham pledges to be 'relentless' in curbing small boat crossings",
+        "url": "https://www.bbc.co.uk/news/articles/c3r0v952ny3o?at_medium=RSS&at_campaign=rss",
+        "description": "The PM says enforcement is being increased but there also need to be more safe routes into the UK.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Faisal Islam: Four reasons why Fifa's World Cup plan never stacked up",
-        "url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss",
-        "description": "The actual presentation of FIFA's plan to part-privatise the World Cup raises many more questions than it answers.",
+        "title": "The change that may help you get a mortgage as a first-time buyer",
+        "url": "https://www.bbc.co.uk/news/articles/cp3rkzpl7ngo?at_medium=RSS&at_campaign=rss",
+        "description": "More relaxed mortgage regulation opens the door for some first-time buyers, but it comes with risk.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘Stop all outdoor activities’: South Korea records its highest ever temperature",
+        "url": "https://www.theguardian.com/world/2026/aug/03/south-korea-highest-temperature",
+        "description": "Authorities issue alert saying indoor spaces without airconditioning are ‘dangerous’ as temperatures pass 40C for fifth straight day South Korea has registered its highest temperature since records...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Britain could face food shortages as drought continues, farmers warn",
         "url": "https://www.theguardian.com/environment/2026/aug/02/britain-food-shortages-drought-continues-farmers",
         "description": "Farmers battle to salvage what they can of their crops as heatwave set to continueBritain could face shortages of certain foods after punishing drought in parts of England, the National Farmers’ Un...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "‘We cannot magic up more water’: the supply problems putting housing targets in England at risk",
-        "url": "https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk",
-        "description": "Council leaders say crumbling infrastructure and lack of water are jeopardising government’s plans for new homesThe government’s housebuilding agenda is hitting the stark reality of a lack of water...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Italy putting nearly all major cities on highest heat alert",
         "url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
         "description": "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "UK’s first ‘super-university’, merging Greenwich and Kent, to launch in September",
+        "url": "https://www.theguardian.com/education/2026/aug/03/uk-first-super-university-merger-greenwich-kent-september-launch",
+        "description": "The new London and South East University Group will be UK’s third largest higher education institutionThe UK’s first “super-university”, which will merge the universities of Greenwich and Kent, is ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Inside Sydney’s hottest nightspot, where shoes are off, laptops are on and customers drink matcha",
         "url": "https://www.theguardian.com/australia-news/2026/aug/03/inside-sydneys-hottest-nightspot-where-shoes-are-off-laptops-are-on-and-customers-drink-matcha",
@@ -156,13 +163,6 @@
         "title": "‘Tiger mum’ Lucy Powell on Labour’s vocational skills drive: ‘It’s about ambition for everybody’",
         "url": "https://www.theguardian.com/politics/2026/aug/02/lucy-powell-tiger-mum-vocational-skills-labour-education",
         "description": "New education secretary says it is ‘false trade-off’ by critics to suggest schools cannot pursue academic excellence alongside technical skillsLucy Powell has said she wants to be an ambitious “tig...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Could a couch-to-5k for books get you back into reading?",
-        "url": "https://www.theguardian.com/books/2026/aug/02/could-a-couch-to-5k-for-books-get-you-back-into-reading",
-        "description": "With smartphones stealing our attention, we’re picking up fewer books than ever. A novelist shares her eight-week scheme to get you back into the habitDo you feel that it’s harder to read than it u...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,7 +192,7 @@
     ],
     "foreign_policy": [
       {
-        "title": "Two crew killed as British pilot survives after firefighting helicopters collide in Greece",
+        "title": "Two crew killed after firefighting helicopters collide in Greece, as British pilot survives",
         "url": "https://www.bbc.co.uk/news/articles/c1417713ve6o?at_medium=RSS&at_campaign=rss",
         "description": "One Danish and one Greek national died in the incident, while a British pilot and another Greek crew member survived.",
         "source": "BBC News",
