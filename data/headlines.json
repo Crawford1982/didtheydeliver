@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-03T19:27:17.981832+00:00",
+  "fetched_at": "2026-08-04T02:24:29.165107+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Nigel Farage and the £5m question that won’t go away – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/aug/04/nigel-farage-and-the-5m-question-that-wont-go-away-podcast",
+        "description": "Reform UK’s finances have come under scrutiny like never before. What do we know about the party’s funding – and why do so many awkward questions remain for Nigel Farage? Anna Isaac explainsFor a w...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Former neo-Nazi activist selected as Tory candidate for Somerset council election",
         "url": "https://www.theguardian.com/politics/2026/aug/03/former-neo-nazi-activist-selected-as-tory-candidate-for-somerset-council-election",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Apple launches legal challenge against UK government demand to access data",
-        "url": "https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access",
-        "description": "The Home Office has made a fresh request for ‘back door’ access to encrypted iCloud data belonging to British usersApple has launched a new legal challenge against a UK government demand to access ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "France hits out at Reform UK plan to return migrants using Navy",
-        "url": "https://www.bbc.co.uk/news/articles/cr59qyy4l5yo?at_medium=RSS&at_campaign=rss",
-        "description": "It comes after the party said it would override French objections to return migrants to France.",
+        "title": "PC Harper's mother 'devastated' his killers set for early release under revised plans",
+        "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
+        "description": "Rapists and child sex offenders will be barred from the scheme, which will restart in October, the government says.",
         "source": "BBC News",
         "category": "government"
       }
@@ -42,7 +42,7 @@
       {
         "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
         "url": "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude",
-        "description": "Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resumeBusiness live – latest updatesCrude oil prices fell sharply while stocks and government bonds rallied ...",
+        "description": "Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resumeCrude oil prices fell sharply while stocks and government bonds rallied on Monday after Donald Trump c...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,18 +54,18 @@
         "category": "economy"
       },
       {
-        "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-        "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-        "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
+        "title": "Half price rail travel extended to 18-year-olds",
+        "url": "https://www.bbc.co.uk/news/articles/cy0jyln07r7o?at_medium=RSS&at_campaign=rss",
+        "description": "They'll be able to buy the 16-17 Saver railcard up until the day before they turn 18.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "The best way to protect NHS patients’ data | Letter",
-        "url": "https://www.theguardian.com/society/2026/aug/03/the-best-way-to-protect-nhs-patients-data",
-        "description": "A genuinely competitive market would prevent any single company’s decisions from putting the system at risk, says Prof Erika DentonYour article on the TPG/Optum UK deal, over the patient record sys...",
+        "title": "NHS radiographers report rise in overt racist abuse by patients",
+        "url": "https://www.theguardian.com/society/2026/aug/04/noticeable-rise-racist-abuse-nhs-radiographers-past-18-months",
+        "description": "Survey reveals medics were called ‘monkeys’ and ‘dirty foreigners’, and patients refused to be seen by black or Asian staffNHS radiographers are experiencing racist abuse by patients, who have call...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -77,16 +77,16 @@
         "category": "nhs"
       },
       {
-        "title": "NHS mental health trust plans £25m in cuts to jobs and services",
-        "url": "https://www.theguardian.com/society/2026/aug/03/nhs-mental-health-trust-plans-25m-in-cuts-to-jobs-and-services",
-        "description": "Body providing care in east London and Bedfordshire accused of ‘unfathomable and unacceptable’ moveAn NHS mental health trust plans to cut a wide range of its services and axe hundreds of jobs to c...",
+        "title": "The best way to protect NHS patients’ data | Letter",
+        "url": "https://www.theguardian.com/society/2026/aug/03/the-best-way-to-protect-nhs-patients-data",
+        "description": "A genuinely competitive market would prevent any single company’s decisions from putting the system at risk, says Prof Erika DentonYour article on the TPG/Optum UK deal, over the patient record sys...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Woman has pioneering womb surgery to fix 'miracle' baby with intestines outside its body",
-        "url": "https://www.bbc.co.uk/news/articles/c86ngegz9qno?at_medium=RSS&at_campaign=rss",
-        "description": "Theo became the first British baby to be operated on in the womb to correct complex gastroschisis, as part of a pioneering clinical trial.",
+        "title": "Breast cancer checks missing most women under 50 who are at risk, says study",
+        "url": "https://www.bbc.co.uk/news/articles/ckgv652r625o?at_medium=RSS&at_campaign=rss",
+        "description": "Up to 95% of younger women who are at higher risk of developing breast cancer are being missed by current NHS checks, researchers warn.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -125,7 +125,7 @@
       {
         "title": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
         "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary",
-        "description": "Hungary and Romania face energy crisis as record-low river levels force atomic power plants to reduce outputEurope live – latest updatesRomanian naval forces carried out a controlled explosion to h...",
+        "description": "Hungary and Romania face energy crisis as record-low river levels force atomic power plants to reduce outputRomanian naval forces carried out a controlled explosion to help redirect vital cooling w...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-        "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-        "description": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+        "title": "What heatwaves mean for summer weddings – and how to plan for one",
+        "url": "https://www.bbc.co.uk/news/articles/cgr7qrdx4qwo?at_medium=RSS&at_campaign=rss",
+        "description": "The wedding industry is facing last-minute costs to cope with the heat and October bookings are up.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -155,7 +155,7 @@
       {
         "title": "Montessori learning is being shut down at Leah’s school – is a push towards ‘explicit instruction’ to blame?",
         "url": "https://www.theguardian.com/australia-news/2026/aug/03/montessori-learning-is-being-shut-down-at-leahs-school-is-a-push-towards-explicit-instruction-to-blame",
-        "description": "Critics say the one size-fits-all approach doesn’t work for all students and there are questions about the body that helped design itMichelle’s year-eight daughter, Leah*, has been in and out of ho...",
+        "description": "Critics say the one size-fits-all approach doesn’t work for all students and there are questions about the body that helped design itFollow our Australia news live blog for latest updatesGet our br...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Rhine falls to record low levels as drought strains Europe's rivers",
-        "url": "https://www.bbc.co.uk/news/articles/c78gn8zvrx4o?at_medium=RSS&at_campaign=rss",
-        "description": "Low water levels in the Rhine, Danube and Po have curtailed the transport of goods and reduced electricity output.",
+        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+        "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-        "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-        "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+        "title": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
+        "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
+        "description": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
