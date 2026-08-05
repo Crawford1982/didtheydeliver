@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-08-05T08:33:05.647209+00:00",
+  "fetched_at": "2026-08-05T14:04:56.618532+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Justice minister defends early release of PC Andrew Harper’s killers amid possible legal challenge – UK politics live",
+        "title": "‘Leicester Square, please guv’: Self-driving taxis cleared for London streets ‘later this summer’",
+        "url": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber",
+        "description": "Wayve Uber wins first minicab licence for autonomous cabs from TfL but vehicles will have a safety driver (at first)The taxi app company Uber and the autonomous technology developer Wayve have been...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Jewish leaders turn down meeting with Conservative council candidate jailed for antisemitism – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/aug/05/pc-andrew-harper-police-prisoner-early-release-andy-burnham-kemi-badenoch-labour-conservatives-uk-politics-latest-news-updates",
-        "description": "Jake Richard acknowledges ‘unimaginable pain’ of Harper’s family but says government faces an ‘unenviable position’Good morning and welcome to the UK politics blog.Ministers continue to defend the ...",
+        "description": "Board of Deputies of British Jews and the Jewish Leadership Council to meet with Tory party but decline meeting with Joshua Bonehill-PaineBadenoch defends decision to allow man jailed for antisemit...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Women must not feel pressure to have ‘ideal birth’, says Yvette Cooper",
-        "url": "https://www.theguardian.com/society/2026/aug/05/women-must-not-feel-pressure-to-have-ideal-birth-says-yvette-cooper",
-        "description": "Exclusive: New health secretary promises root-and-branch reform after damning maternity scandalsWomen should not feel pressurised into experiencing an “ideal birth”, the new health secretary, Yvett...",
+        "title": "Andy Burnham reveals wife’s reaction to third Labour leadership bid",
+        "url": "https://www.theguardian.com/politics/2026/aug/05/andy-burnham-wife-marie-france-van-heel-reaction-third-labour-leadership-bid",
+        "description": "Burnham said his wife, Marie-France van Heel, took some persuading after he ran and lost in contests in 2010 and 2015Andy Burnham has revealed his wife’s dismayed reaction when he told her he wante...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Charity Commission to investigate donations to illegal Israeli settlements",
-        "url": "https://www.theguardian.com/society/2026/aug/05/charity-commission-investigate-donations-israeli-settlements-palestine",
-        "description": "Official action by regulator for England and Wales comes after formal complaint   made by Labour MP about the fundsAn official investigation has been launched into charities in England and Wales do...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham 'looking into' conducting Epstein inquiry, says victims minister",
-        "url": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss",
-        "description": "Alex Davies-Jones tells BBC Newsnight she discussed an inquiry with the PM  when she was re-appointed as minister.",
+        "title": "Miliband calls on US to re-open Strait of Hormuz as he meets Rubio",
+        "url": "https://www.bbc.co.uk/news/articles/c1e14zn0pxeo?at_medium=RSS&at_campaign=rss",
+        "description": "A deal is \"essential to ease cost-of-living pressures\", Miliband says, as he heads to Washington.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "US refunds $100bn of Donald Trump’s ‘liberation day’ tariffs",
+        "url": "https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds",
+        "description": "More than half of tariff income refunded after supreme court ruled Trump’s levies were illegalBusiness live – latest updatesThe Trump administration has refunded about $100bn from the tariffs it co...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Bank battle: history suggests Burnham faces fight if he opts for windfall tax",
         "url": "https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living",
@@ -47,23 +54,16 @@
         "category": "economy"
       },
       {
-        "title": "Oil prices plunge and Europe’s markets rally after Trump calls off Iran strikes",
-        "url": "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude",
-        "description": "Brent crude drops by 5% after US president claimed talks on Middle East peace deal would resumeCrude oil prices fell sharply while stocks and government bonds rallied on Monday after Donald Trump c...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "The cost of being single – and how friends are teaming up to beat it",
-        "url": "https://www.bbc.co.uk/news/articles/cly7dqprlnvo?at_medium=RSS&at_campaign=rss",
-        "description": "Many singles face extra costs for housing, bills, food and holidays but there are ways to ease the burden.",
+        "title": "Prioritise new jobs over green targets to win public contracts, firms told",
+        "url": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
+        "description": "The changes are part of government efforts to tackle the youth unemployment crisis.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "Women must not feel pressure to have ‘ideal birth’, says Yvette Cooper",
+        "title": "Women must not be put under pressure to have ‘ideal birth’, says Yvette Cooper",
         "url": "https://www.theguardian.com/society/2026/aug/05/women-must-not-feel-pressure-to-have-ideal-birth-says-yvette-cooper",
         "description": "Exclusive: New health secretary promises root-and-branch reform after damning maternity scandalsWomen should not feel pressurised into experiencing an “ideal birth”, the new health secretary, Yvett...",
         "source": "The Guardian",
@@ -84,7 +84,7 @@
         "category": "nhs"
       },
       {
-        "title": "Are summer sandals killing your feet?",
+        "title": "From flip flops to fisherman's sandals: How to look after your feet this summer",
         "url": "https://www.bbc.co.uk/news/articles/cnvney840l9o?at_medium=RSS&at_campaign=rss",
         "description": "They may keep your feet cool but some styles could be doing more harm than good.",
         "source": "BBC News",
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "Italy to place all 27 of its major cities on highest heat alert",
+        "url": "https://www.theguardian.com/environment/2026/aug/05/italy-heatwave-major-cities-highest-heat-alert",
+        "description": "Move comes as fourth heatwave of summer intensifies, edging temperatures in some areas close to 40CItaly is to place all of its 27 major cities, from Trieste in the north to Palermo in the south, u...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Butterflies around the world are changing habitats – and experts say it’s ‘signalling a warning’",
+        "url": "https://www.theguardian.com/environment/2026/aug/05/butterflies-around-the-world-are-changing-habitats-and-experts-say-its-signalling-a-warning",
+        "description": "New research shows early-warning species is on the move, expanding or contracting geographic range and changing altitudeButterflies, often considered a “sentinel of change”, are on the move across ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "‘I just want to find them’: deadly cloudbursts devastate Kashmir’s mountain communities",
         "url": "https://www.theguardian.com/world/2026/aug/05/kashmir-deadly-cloudbursts-devastate-mountain-communities-erratic-weather-climate-change",
         "description": "Increasingly erratic weather patterns due to climate change mean people are losing homes, crops and livestockAs rain lashed the Pir Panjal mountains before dawn on 19 July, Haji Mohammad Latief ste...",
@@ -123,28 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Revealed: major oil firms make $93bn profits amid war and climate crisis",
-        "url": "https://www.theguardian.com/business/ng-interactive/2026/aug/04/revealed-major-oil-firms-make-93bn-profits-amid-war-and-climate-crisis",
-        "description": "Iran conflict windfall over three months reignites calls for companies ‘cashing in on human misery’ to pay for environmental damageEight of the biggest oil companies amassed profits of more than $9...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Spain says 70,000 out of 72,000 migrants that entered Ceuta in mass border crossing have returned to Morocco – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/aug/04/europe-drought-extreme-heat-wildfires-climate-crisis-hungary-romania-ceuta-spain-migration-eu-latest-news-updates",
-        "description": "Minister tells reporters least 75 people died after EU ministers meet to discuss response to the crisisMeanwhile, the European Commission said it was “monitoring very closely” the situation in Bulg...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
-        "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
-        "description": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.",
+        "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+        "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
+        "description": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Teachers need help with AI. A union is offering training – with $23m in funding from big tech",
+        "url": "https://www.theguardian.com/technology/2026/aug/05/teachers-unions-ai-training",
+        "description": "Partnership between American Federation of Teachers, one of the largest labor unions in the US, and AI firms has stirred controversyDarius Saczuk, a high school teacher, views artificial intelligen...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘The war leaked into every lesson’: learning Ukrainian in a country under siege",
         "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/04/war-lesson-learning-ukrainian-culture-ukraine",
@@ -156,13 +163,6 @@
         "title": "Children using social media at younger age appear to do worse in school tests",
         "url": "https://www.theguardian.com/science/2026/aug/03/children-using-social-media-younger-age-worse-school-tests",
         "description": "Pupils who open accounts aged 11 to 12 score lower in some subjects than those who wait a few years, study findsChildren who open social media accounts at the start of secondary school appear to pe...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Montessori learning is being shut down at Leah’s school – is a push towards ‘explicit instruction’ to blame?",
-        "url": "https://www.theguardian.com/australia-news/2026/aug/03/montessori-learning-is-being-shut-down-at-leahs-school-is-a-push-towards-explicit-instruction-to-blame",
-        "description": "Critics say the one size-fits-all approach doesn’t work for all students and there are questions about the body that has been pushing itFollow our Australia news live blog for latest updatesGet our...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
-        "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-        "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
+        "title": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
         "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
         "description": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Armed man arrested near Trump's golf course ahead of president's visit",
-        "url": "https://www.bbc.co.uk/news/articles/c20jp3mp7lyo?at_medium=RSS&at_campaign=rss",
-        "description": "The arrest happened shortly before President Trump was due to host a fundraising dinner at the coastal golf course in California.",
+        "title": "Drone carrying explosives found at German airport, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
+        "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "What can scientists learn from a stray SpaceX rocket hitting the Moon?",
+        "url": "https://www.bbc.co.uk/news/articles/c62q0xerzrno?at_medium=RSS&at_campaign=rss",
+        "description": "While the collision was an accident, it is a unique scientific gift for planetary geologists that could provide important data for future space missions.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
