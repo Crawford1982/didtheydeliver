@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-08-04T19:35:19.321288+00:00",
+  "fetched_at": "2026-08-05T02:23:40.269199+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Charity Commission to investigate donations to illegal Israeli settlements",
+        "url": "https://www.theguardian.com/society/2026/aug/05/charity-commission-investigate-donations-israeli-settlements-palestine",
+        "description": "Official action by regulator for England and Wales comes after formal complaint   made by Labour MP about the fundsAn official investigation has been launched into charities in England and Wales do...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Government contracts to require job creation instead of green targets under new rules",
+        "url": "https://www.theguardian.com/society/2026/aug/04/government-contracts-to-require-job-creation-instead-of-green-targets-under-new-rules",
+        "description": "Louise Haigh says taxpayer money must benefit local communities amid backlash from environmental groupsMinisters will scrap the requirement for companies to prove their green and progressive values...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "BP boss urges Burnham to prioritise UK oil and gas even as firm exits North Sea",
         "url": "https://www.theguardian.com/business/2026/aug/04/bp-profits-iran-war-oil-prices-shell",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Labour members ‘have tougher view on welfare than you might think’, poll suggests",
-        "url": "https://www.theguardian.com/politics/2026/aug/04/labour-members-view-welfare-health-economy-poll-survey",
-        "description": "Survey finds party members see health, the economy, cost of living and climate crisis among biggest challengesAndy Burnham has inherited a Labour membership that is sceptical about increased welfar...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Ex-MP urges Tories to drop candidate jailed for campaign of antisemitic abuse against her",
-        "url": "https://www.theguardian.com/politics/2026/aug/04/ex-mp-urges-tories-to-drop-candidate-jailed-for-campaign-of-antisemitic-abuse-against-her",
-        "description": "Luciana Berger says Joshua Bonehill-Paine should have no role in public life because of ‘his racism and his view of women’A former MP has urged the Tory leader to drop an election candidate who was...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Justice secretary apologises to families affected by early release scheme",
-        "url": "https://www.bbc.co.uk/news/articles/c20e15d0z6zo?at_medium=RSS&at_campaign=rss",
-        "description": "Some offenders will be barred from the scheme, but families say it comes \"at the expense of victims\".",
+        "title": "Burnham 'looking into' conducting Epstein enquiry, says victims minister",
+        "url": "https://www.bbc.co.uk/news/articles/cx2jpqzwzj1o?at_medium=RSS&at_campaign=rss",
+        "description": "Alex Davies-Jones tells BBC Newsnight she discussed an enquiry with the PM  when she was appointed as minister.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,21 +54,14 @@
         "category": "economy"
       },
       {
-        "title": "Oil prices fall on hopes Strait of Hormuz could reopen",
-        "url": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-        "description": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
+        "title": "Fashion brand Jaded has ad banned for 'glamourising smoking'",
+        "url": "https://www.bbc.co.uk/news/articles/cly843vd3jmo?at_medium=RSS&at_campaign=rss",
+        "description": "The advertising watchdog said Jaded London's marketing email made smoking seem appealing.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
-      {
-        "title": "NHS radiographers report rise in overt racist abuse by patients",
-        "url": "https://www.theguardian.com/society/2026/aug/04/noticeable-rise-racist-abuse-nhs-radiographers-past-18-months",
-        "description": "Survey reveals medics were called ‘monkeys’ and ‘dirty foreigners’, and patients refused to be seen by black or Asian staffNHS radiographers are experiencing racist abuse by patients, who have call...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
       {
         "title": "Social care is for us all, and we all must fund it | Letters",
         "url": "https://www.theguardian.com/society/2026/aug/04/social-care-is-for-us-all-and-we-all-must-fund-it",
@@ -84,9 +77,16 @@
         "category": "nhs"
       },
       {
-        "title": "Top-rated mental health trust asked to save £24m",
-        "url": "https://www.bbc.co.uk/news/articles/cd9wk27y05zo?at_medium=RSS&at_campaign=rss",
-        "description": "An NHS trust could lose up to 330 posts and a union says there will be \"consequences\" for patients.",
+        "title": "NHS radiographers report rise in overt racist abuse by patients",
+        "url": "https://www.theguardian.com/society/2026/aug/04/noticeable-rise-racist-abuse-nhs-radiographers-past-18-months",
+        "description": "Survey reveals medics were called ‘monkeys’ and ‘dirty foreigners’, and patients refused to be seen by black or Asian staffNHS radiographers are experiencing racist abuse by patients, who have call...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Are summer sandals killing your feet?",
+        "url": "https://www.bbc.co.uk/news/articles/cnvney840l9o?at_medium=RSS&at_campaign=rss",
+        "description": "They may keep your feet cool but some styles could be doing more harm than good.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -118,7 +118,7 @@
       {
         "title": "Revealed: major oil firms make $93bn profits amid war and climate crisis",
         "url": "https://www.theguardian.com/business/ng-interactive/2026/aug/04/revealed-major-oil-firms-make-93bn-profits-amid-war-and-climate-crisis",
-        "description": "Iran conflict windfall over three months reignites calls for companies ‘cashing in on human misery’ to pay for environmental damageBP boss urges Burnham to prioritise UK oil and gasNils Pratley: BP...",
+        "description": "Iran conflict windfall over three months reignites calls for companies ‘cashing in on human misery’ to pay for environmental damageEight of the biggest oil companies amassed profits of more than $9...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Where in the West Country to see the biggest solar eclipse since 1999",
-        "url": "https://www.bbc.co.uk/news/articles/cjrvn0wez48o?at_medium=RSS&at_campaign=rss",
-        "description": "The UK's biggest solar eclipse since 1999 arrives on 12 August. Here's where to see it safely in the West Country.",
+        "title": "Mysterious elephant deaths in Kenya raise questions around pesticides",
+        "url": "https://www.bbc.co.uk/news/articles/cx27p32jzj2o?at_medium=RSS&at_campaign=rss",
+        "description": "A wave of Kenyan elephant deaths has been blamed on pesticides, but experts tell the BBC they are doubtful.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-        "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-        "description": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
+        "title": "Russian ballistic missile strike on Kyiv kills one and injures others",
+        "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+        "description": "The head of Kyiv's military administration says Russia is \"once again massively attacking\" and has hit residential buildings.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
