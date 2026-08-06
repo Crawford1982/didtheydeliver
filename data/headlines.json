@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-08-06T08:33:06.187764+00:00",
+  "fetched_at": "2026-08-06T14:04:13.598751+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Council wants pubs in London’s Soho and West End to ban standing",
-        "url": "https://www.theguardian.com/business/2026/aug/06/westminster-council-wants-pubs-in-london-soho-west-end-ban-standing",
-        "description": "Sadiq Khan criticises Westminster council’s ‘anti-growth policies’ after it recommends stopping ‘vertical drinking’Waiting at the bar and trying to catch the bartender’s eye so you can order a pint...",
+        "title": "Reform will jail directors of companies employing illegal workers for up to five years, says Yusuf – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/06/labour-reform-nigel-farage-zia-yusuf-conservatives-kemi-badenoch-joshua-bonehill-paine-uk-politics-live-news",
+        "description": "Party says employers would be held responsible even if they were unaware of the worker’s immigration statusA Reform government will introduce national licensing for vape shops, which Zia Yusuf says...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Has the UK government’s strategy on small boat crossings been effective?",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/06/uk-government-strategy-small-boat-crossings-asylum-seekers-explainer",
-        "description": "As the number of migrants crossing the Channel is down by 43%, have ministers cracked the problem?The headline figures show that small boats crossing the Channel are down by 43% compared with Janua...",
+        "title": "Nearly 50 asylum seekers deported under ‘one in one out’ scheme have returned to the UK",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/06/asylum-seekers-deported-one-in-one-out-returned-to-uk",
+        "description": "Figure raises questions about deal with France despite UK ministers insisting repeat arrivals will be removedAlmost 50 asylum seekers deported using the “one in one out” scheme have been recorded a...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
-        "url": "https://www.theguardian.com/society/2026/aug/05/nhs-must-prepare-for-annual-summer-heat-pressures-says-yvette-cooper",
-        "description": "Health secretary says global heating means UK hospitals and GPs will have to prepare for summer as well as winter peaks of demandAdapting to global heating: which UK public services are struggling ...",
+        "title": "Extreme rightwing referrals to Prevent rise 20% amid record anti-terror reporting",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/06/record-high-referrals-prevent-anti-terror-scheme-rise-rightwing-extremism",
+        "description": "Scheme aiming to stop people turning to terrorism has 39% overall rise in referrals in year to September 2025A record number of people have been referred to the government’s anti-terror programme i...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Sir Keir Starmer made misleading defence spending claim, watchdog says",
-        "url": "https://www.bbc.co.uk/news/articles/c77g38mxxdyo?at_medium=RSS&at_campaign=rss",
-        "description": "The Wales Office and MoD also repeated the claim that £270bn more was being spent on defence.",
+        "title": "Burnham orders review of grooming gang early releases",
+        "url": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss",
+        "description": "The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Most Americans view rising living costs as biggest barrier to a better life, survey finds",
+        "url": "https://www.theguardian.com/business/2026/aug/06/americans-rising-cost-of-living-survey",
+        "description": "When asked to detail what would make a better life in three to five years, 60% of US adults said greater financial securityAmericans may seem increasingly divided on beliefs and values, but in a ne...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Healey urged to be bold on borrowing in first test of Burnham’s growth pledge",
         "url": "https://www.theguardian.com/business/2026/aug/06/healey-urged-to-be-bold-on-borrowing-in-first-test-of-burnhams-growth-pledge",
@@ -43,13 +50,6 @@
         "title": "US refunds $100bn of Donald Trump’s ‘liberation day’ tariffs",
         "url": "https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds",
         "description": "More than half of tariff income refunded after supreme court ruled Trump’s levies were illegalBusiness live – latest updatesThe Trump administration has refunded about $100bn from the tariffs it co...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Bank battle: history suggests Burnham faces fight if he opts for windfall tax",
-        "url": "https://www.theguardian.com/business/2026/aug/05/bank-windfall-tax-history-andy-burnham-cost-of-living",
-        "description": "As lenders’ profits soar, calls grow for a levy to help new PM ease cost of living pressures on householdsIt has been a stellar week for UK banks. Fuelled by high interest rates and market turbulen...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -84,14 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "Walk-in mental health centres to open in banks and libraries across England",
-        "url": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&at_campaign=rss",
-        "description": "Government plans network of nearly 200 specialist services to help those facing mental health crises.",
+        "title": "NHS must plan for heatwaves like it does for winter, health secretary says",
+        "url": "https://www.bbc.co.uk/news/articles/c4gke0dvgvvo?at_medium=RSS&at_campaign=rss",
+        "description": "The warning comes after the NHS sees a surge in patients and problems with equipment in high temperatures.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Nearly 50 asylum seekers deported under ‘one in one out’ scheme have returned to the UK",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/06/asylum-seekers-deported-one-in-one-out-returned-to-uk",
+        "description": "Figure raises questions about deal with France despite UK ministers insisting repeat arrivals will be removedAlmost 50 asylum seekers deported using the “one in one out” scheme have been recorded a...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Has the UK government’s strategy on small boat crossings been effective?",
         "url": "https://www.theguardian.com/uk-news/2026/aug/06/uk-government-strategy-small-boat-crossings-asylum-seekers-explainer",
@@ -105,16 +112,16 @@
         "description": "Data shows victims of torture and trafficking among those prosecuted for crossing Channel by irregular means More than 1,100 people, including survivors of torture and trafficking, have been convic...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Dinghy carrying 173 people capsizes in Channel after engine catches fire",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/04/dinghy-capsizes-channel-engine-catches-fire-rescue-operation",
-        "description": "All passengers thought to have been taken to Boulogne after large air and sea rescue operation by France and UKA dinghy carrying 173 people has capsized after its engine caught fire as it attempted...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Human-driven climate crisis fuels Canada’s deadly wildfires, study finds",
+        "url": "https://www.theguardian.com/world/2026/aug/06/canada-wildfires-climate-crisis",
+        "description": "Current blazes roaring across country more than twice as likely to occur because of fossil fuel-driven global heatingThe human-driven climate crisis made the conditions that led to blazes roaring a...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
         "url": "https://www.theguardian.com/society/2026/aug/05/nhs-must-prepare-for-annual-summer-heat-pressures-says-yvette-cooper",
@@ -130,39 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "Progressive climate organizer William Lawrence wins Michigan Democratic House primary",
-        "url": "https://www.theguardian.com/us-news/2026/aug/05/william-lawrence-michigan-democratic-house-primary",
-        "description": "Activist who rallied around a datacenter moratorium will face incumbent Republican Tom Barrett in NovemberUS politics live – latest updatesWilliam Lawrence, a prominent environmental organizer who ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Marmots facing money troubles turn to OnlyFans",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywqp5z5yzo?at_medium=RSS&at_campaign=rss",
-        "description": "A Colorado lab researching the ground-squirrels comes up with an innovative way to raise money after funding cuts.",
+        "title": "Majority of England's rivers and lakes fail new environmental review",
+        "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
+        "description": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
-        "title": "Cambridge professor Jason Arday resigns amid accusations of plagiarism",
-        "url": "https://www.theguardian.com/education/2026/aug/05/cambridge-professor-jason-arday-resigns-amid-accusations-of-plagiarism",
-        "description": "Sociology professor to stand down after university announces investigation into his qualifications and careerPlaybooks, plagiarism and a pig’s head: the claims surrounding a star Cambridge professo...",
+        "title": "Jason Arday claimed he was paid ‘1.4 million’ for memoir from publisher",
+        "url": "https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge",
+        "description": "Academic who resigned as a Cambridge professor on Wednesday did not specify if amount from Simon & Schuster was in pounds or US dollarsJason Arday, the former Cambridge professor accused of plagiar...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Cambridge announces investigation into professor accused of plagiarism",
-        "url": "https://www.theguardian.com/education/2026/aug/05/cambridge-jason-arday-announces-investigation-into-professor-accused-of-plagiarism",
-        "description": "University says it has ‘new information’ about academic career of Jason Arday, the youngest black professor in its historyJason Arday, the Cambridge professor accused of plagiarism and embellishmen...",
+        "title": "Danish pupils will have to orally defend essays in attempt to combat AI cheating",
+        "url": "https://www.theguardian.com/technology/2026/aug/06/students-ai-cheating-schools-denmark",
+        "description": "Government introduces several measures, including monitoring of computers, for pupils aged 16 to 19Europe live – latest updatesDanish teenagers will have to make an oral defence of their written es...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Teachers need help with AI. A union is offering training – with $23m in funding from big tech",
-        "url": "https://www.theguardian.com/technology/2026/aug/05/teachers-unions-ai-training",
-        "description": "Partnership between American Federation of Teachers, one of the largest labor unions in the US, and AI firms has stirred controversyDarius Saczuk, a high school teacher, views artificial intelligen...",
+        "title": "University of Greater Manchester ends contract of embattled vice-chancellor",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/06/university-of-greater-manchester-ends-contract-vice-chancellor-george-holmes",
+        "description": "George Holmes was suspended in 2025 over allegations involving financial mismanagement and other misconductThe University of Greater Manchester’s embattled vice-chancellor has had his contract term...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -171,7 +171,7 @@
       {
         "title": "Positive Persimmon looks to tap into ‘Burnham bounce’ on housebuilding",
         "url": "https://www.theguardian.com/business/2026/aug/06/persimmon-housebuilding-burnham-new-homes",
-        "description": "Firm lifts outlook saying it’s well placed to benefit from PM’s focus on new homes despite ongoing cost pressures of Iran warUK housebuilder Persimmon has lifted its outlook, saying it is “well-pla...",
+        "description": "Firm lifts outlook, saying it is well placed to benefit from PM’s focus on new homes despite cost pressures from Iran warThe UK housebuilder Persimmon has lifted its outlook for the full year, sayi...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Ukraine hits two oil refineries deep in Russian territory",
+        "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
         "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
         "description": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Infantino sorry for errors but stays Fifa president",
-        "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-        "description": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+        "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
+        "url": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
+        "description": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the COVID-19 pandemic.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
