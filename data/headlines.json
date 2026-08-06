@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-08-06T02:26:20.301563+00:00",
+  "fetched_at": "2026-08-06T08:33:06.187764+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Council wants pubs in London’s Soho and West End to ban standing",
+        "url": "https://www.theguardian.com/business/2026/aug/06/westminster-council-wants-pubs-in-london-soho-west-end-ban-standing",
+        "description": "Sadiq Khan criticises Westminster council’s ‘anti-growth policies’ after it recommends stopping ‘vertical drinking’Waiting at the bar and trying to catch the bartender’s eye so you can order a pint...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Has the UK government’s strategy on small boat crossings been effective?",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/06/uk-government-strategy-small-boat-crossings-asylum-seekers-explainer",
+        "description": "As the number of migrants crossing the Channel is down by 43%, have ministers cracked the problem?The headline figures show that small boats crossing the Channel are down by 43% compared with Janua...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
         "url": "https://www.theguardian.com/society/2026/aug/05/nhs-must-prepare-for-annual-summer-heat-pressures-says-yvette-cooper",
@@ -10,28 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Chief constable considers joining legal action if PC’s killers are released early",
-        "url": "https://www.theguardian.com/law/2026/aug/05/threat-of-legal-action-if-pc-andrew-harpers-killers-are-released-early",
-        "description": "Thames Valley’s top officer says he may join Police Federation in court if convicted pair are freed from jailThe chief constable of Thames Valley police has said he will consider joining legal acti...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Kemi Badenoch gives former neo-Nazi advisory role after he withdraws as Tory candidate",
-        "url": "https://www.theguardian.com/politics/2026/aug/05/former-neo-nazi-activist-withdraws-as-conservative-election-candidate-joshua-bonehill-paine",
-        "description": "Joshua Bonehill-Paine says Conservative leader asked him to work with party’s culture and integration commission A former neo-Nazi activist who was convicted of harassing a Jewish MP has withdrawn ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Ex neo-Nazi activist withdraws as Tory election candidate",
-        "url": "https://www.bbc.co.uk/news/articles/cy4kx8n2vwxo?at_medium=RSS&at_campaign=rss",
-        "description": "Kemi Badenoch says Joshua Bonehill-Paine will now advise the Conservatives on tackling extremism.",
+        "title": "Sir Keir Starmer made misleading defence spending claim, watchdog says",
+        "url": "https://www.bbc.co.uk/news/articles/c77g38mxxdyo?at_medium=RSS&at_campaign=rss",
+        "description": "The Wales Office and MoD also repeated the claim that £270bn more was being spent on defence.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Healey urged to be bold on borrowing in first test of Burnham’s growth pledge",
+        "url": "https://www.theguardian.com/business/2026/aug/06/healey-urged-to-be-bold-on-borrowing-in-first-test-of-burnhams-growth-pledge",
+        "description": "Some want the chancellor to exploit newly flexible fiscal rules – others want a more creative approach, such as borrowing from marketsWith just 12 weeks to go until his first budget, new chancellor...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "US refunds $100bn of Donald Trump’s ‘liberation day’ tariffs",
         "url": "https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Trump Fed chair’s inflation strategy: leave it to the market | Eduardo Porter",
-        "url": "https://www.theguardian.com/business/2026/aug/04/trump-fed-kevin-warsh",
-        "description": "Kevin Warsh would rather stay out of the fray – and thus devalue the Fed’s credibility as an economic stewardIt must feel strange to argue that government action is inevitably counter-productive – ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+        "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
+        "description": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,14 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "Sunshine to meal times: How to beat jet lag",
-        "url": "https://www.bbc.co.uk/news/articles/cvgj846q2veo?at_medium=RSS&at_campaign=rss",
-        "description": "With bags packed and boarding passes at the ready, what can you do to keep your body clock on track?",
+        "title": "Walk-in mental health centres to open in banks and libraries across England",
+        "url": "https://www.bbc.co.uk/news/articles/cpd76e737ljo?at_medium=RSS&at_campaign=rss",
+        "description": "Government plans network of nearly 200 specialist services to help those facing mental health crises.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Has the UK government’s strategy on small boat crossings been effective?",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/06/uk-government-strategy-small-boat-crossings-asylum-seekers-explainer",
+        "description": "As the number of migrants crossing the Channel is down by 43%, have ministers cracked the problem?The headline figures show that small boats crossing the Channel are down by 43% compared with Janua...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "More than 1,100 people convicted of illegal arrival in UK since 2022",
         "url": "https://www.theguardian.com/uk-news/2026/aug/05/convicted-illegal-arrival-migration-asylum-channel",
@@ -103,13 +110,6 @@
         "title": "Dinghy carrying 173 people capsizes in Channel after engine catches fire",
         "url": "https://www.theguardian.com/uk-news/2026/aug/04/dinghy-capsizes-channel-engine-catches-fire-rescue-operation",
         "description": "All passengers thought to have been taken to Boulogne after large air and sea rescue operation by France and UKA dinghy carrying 173 people has capsized after its engine caught fire as it attempted...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "EU chief criticises Spain’s migrant plan after Ceuta crisis meeting",
-        "url": "https://www.theguardian.com/world/2026/aug/04/eu-criticises-spain-migrant-plan-ceuta-crisis-meeting",
-        "description": "Migration commissioner says scheme regularising undocumented people ‘not a good signal’ for EuropeExplainer: Why is Ceuta a migration flashpoint?The EU’s top official on migration has criticised Sp...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Positive Persimmon looks to tap into ‘Burnham bounce’ on housebuilding",
+        "url": "https://www.theguardian.com/business/2026/aug/06/persimmon-housebuilding-burnham-new-homes",
+        "description": "Firm lifts outlook saying it’s well placed to benefit from PM’s focus on new homes despite ongoing cost pressures of Iran warUK housebuilder Persimmon has lifted its outlook, saying it is “well-pla...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Approval of east London datacentre labelled ‘slap in the face’ for local democracy",
         "url": "https://www.theguardian.com/uk-news/2026/aug/04/brick-lane-redevelopment-approval-datacentre-london",
         "description": "Campaigners decry Angela Rayner’s backing for Brick Lane project that has only 11 affordable homesA £500m redevelopment of the Truman Brewery estate in Brick Lane, east London, has been approved, c...",
@@ -181,34 +188,27 @@
         "description": "Readers respond to an article on the swarms of houseflies people are having to cope with in hot weatherMy experience of flies is that during the past 20 years or so there has been a significant dec...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "‘We cannot magic up more water’: the supply problems putting housing targets in England at risk",
-        "url": "https://www.theguardian.com/environment/2026/aug/02/we-cannot-magic-up-more-water-the-supply-problems-putting-housing-targets-in-england-at-risk",
-        "description": "Council leaders say crumbling infrastructure and lack of water are jeopardising government’s plans for new homesThe government’s housebuilding agenda is hitting the stark reality of a lack of water...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+        "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
+        "description": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
         "title": "Infantino sorry for errors but stays Fifa president",
         "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
-        "description": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+        "description": "Gianni Infantino will remain Fifa president after receiving backing from senior executives, but \"sincerely apologises\" for errors in his controversial private investment plans.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
-        "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
-        "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
+        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
