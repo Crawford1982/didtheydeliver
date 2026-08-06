@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-05T19:26:46.470284+00:00",
+  "fetched_at": "2026-08-06T02:26:20.301563+00:00",
   "headlines": {
     "government": [
       {
+        "title": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
+        "url": "https://www.theguardian.com/society/2026/aug/05/nhs-must-prepare-for-annual-summer-heat-pressures-says-yvette-cooper",
+        "description": "Health secretary says global heating means UK hospitals and GPs will have to prepare for summer as well as winter peaks of demandAdapting to global heating: which UK public services are struggling ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Chief constable considers joining legal action if PC’s killers are released early",
+        "url": "https://www.theguardian.com/law/2026/aug/05/threat-of-legal-action-if-pc-andrew-harpers-killers-are-released-early",
+        "description": "Thames Valley’s top officer says he may join Police Federation in court if convicted pair are freed from jailThe chief constable of Thames Valley police has said he will consider joining legal acti...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Kemi Badenoch gives former neo-Nazi advisory role after he withdraws as Tory candidate",
         "url": "https://www.theguardian.com/politics/2026/aug/05/former-neo-nazi-activist-withdraws-as-conservative-election-candidate-joshua-bonehill-paine",
-        "description": "Joshua Bonehill-Paine says Conservative leader has asked him to work with party’s culture and integration commission• UK politics live – latest updatesA former neo-Nazi activist who was convicted o...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Joshua Bonehill-Paine quits as Tory council candidate– as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/05/pc-andrew-harper-police-prisoner-early-release-andy-burnham-kemi-badenoch-labour-conservatives-uk-politics-latest-news-updates",
-        "description": "Board of Deputies of British Jews and the Jewish Leadership Council to meet with Tory party but decline meeting with Joshua Bonehill-PaineBadenoch defends decision to allow man jailed for antisemit...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "‘Leicester Square, please guv’: Self-driving taxis cleared for London streets ‘later this summer’",
-        "url": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber",
-        "description": "Wayve Uber wins first minicab licence for autonomous cabs from TfL but vehicles will have a safety driver (at first)The taxi app company Uber and the autonomous technology developer Wayve have been...",
+        "description": "Joshua Bonehill-Paine says Conservative leader asked him to work with party’s culture and integration commission A former neo-Nazi activist who was convicted of harassing a Jewish MP has withdrawn ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Prioritise new jobs over green targets to win public contracts, firms told",
-        "url": "https://www.bbc.co.uk/news/articles/ckgdmv7elg8o?at_medium=RSS&at_campaign=rss",
-        "description": "The changes are part of government efforts to tackle the youth unemployment crisis.",
+        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
+        "url": "https://www.theguardian.com/society/2026/aug/05/nhs-must-prepare-for-annual-summer-heat-pressures-says-yvette-cooper",
+        "description": "Health secretary says global heating means UK hospitals and GPs will have to prepare for summer as well as winter peaks of demandAdapting to global heating: which UK public services are struggling ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Women must not be put under pressure to have ‘ideal birth’, says Yvette Cooper",
         "url": "https://www.theguardian.com/society/2026/aug/05/women-must-not-feel-pressure-to-have-ideal-birth-says-yvette-cooper",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Scrapping foreign doctors scheme will hurt the NHS | Letter",
-        "url": "https://www.theguardian.com/society/2026/aug/04/scrapping-foreign-doctors-scheme-will-hurt-the-nhs",
-        "description": "The move is regressive and removes a successful route for international collaboration, including education and research, writes Dr Peter TrewbyThe decision to abolish the medical training initiativ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "From flip flops to fisherman's sandals: How to look after your feet this summer",
-        "url": "https://www.bbc.co.uk/news/articles/cnvney840l9o?at_medium=RSS&at_campaign=rss",
-        "description": "They may keep your feet cool but some styles could be doing more harm than good.",
+        "title": "Sunshine to meal times: How to beat jet lag",
+        "url": "https://www.bbc.co.uk/news/articles/cvgj846q2veo?at_medium=RSS&at_campaign=rss",
+        "description": "With bags packed and boarding passes at the ready, what can you do to keep your body clock on track?",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -95,7 +95,7 @@
       {
         "title": "More than 1,100 people convicted of illegal arrival in UK since 2022",
         "url": "https://www.theguardian.com/uk-news/2026/aug/05/convicted-illegal-arrival-migration-asylum-channel",
-        "description": "Data shows victims of torture and trafficking among those prosecuted for crossing Channel by irregular meansMore than 1,100 people, including survivors of torture and trafficking, have been convict...",
+        "description": "Data shows victims of torture and trafficking among those prosecuted for crossing Channel by irregular means More than 1,100 people, including survivors of torture and trafficking, have been convic...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
+        "url": "https://www.theguardian.com/society/2026/aug/05/nhs-must-prepare-for-annual-summer-heat-pressures-says-yvette-cooper",
+        "description": "Health secretary says global heating means UK hospitals and GPs will have to prepare for summer as well as winter peaks of demandAdapting to global heating: which UK public services are struggling ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Adapting to global heating: which UK public services are struggling in hot weather?",
+        "url": "https://www.theguardian.com/environment/2026/aug/05/global-heating-public-services-struggling-heatwaves",
+        "description": "As NHS told to prepare for extreme weather, strain also felt in other areas including transport and farmingNHS must prepare for annual summer heat pressures, says Yvette CooperThe NHS has been told...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Progressive climate organizer William Lawrence wins Michigan Democratic House primary",
         "url": "https://www.theguardian.com/us-news/2026/aug/05/william-lawrence-michigan-democratic-house-primary",
         "description": "Activist who rallied around a datacenter moratorium will face incumbent Republican Tom Barrett in NovemberUS politics live – latest updatesWilliam Lawrence, a prominent environmental organizer who ...",
@@ -123,28 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Italy to place all 27 of its major cities on highest heat alert",
-        "url": "https://www.theguardian.com/environment/2026/aug/05/italy-heatwave-major-cities-highest-heat-alert",
-        "description": "Move comes as fourth heatwave of summer intensifies, edging temperatures in some areas close to 40CItaly is to place all of its 27 major cities, from Trieste in the north to Palermo in the south, u...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Butterflies around the world are changing habitats – and experts say it’s ‘signalling a warning’",
-        "url": "https://www.theguardian.com/environment/2026/aug/05/butterflies-around-the-world-are-changing-habitats-and-experts-say-its-signalling-a-warning",
-        "description": "New research shows early-warning species is on the move, expanding or contracting geographic range and changing altitudeButterflies, often considered a “sentinel of change”, are on the move across ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "See the Sun like never before with most detailed images yet",
-        "url": "https://www.bbc.co.uk/news/articles/c36d4376nd2o?at_medium=RSS&at_campaign=rss",
-        "description": "New images and footage of the Sun show \"whirlpools\" of activity that it has not been possible to see before.",
+        "title": "Marmots facing money troubles turn to OnlyFans",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywqp5z5yzo?at_medium=RSS&at_campaign=rss",
+        "description": "A Colorado lab researching the ground-squirrels comes up with an innovative way to raise money after funding cuts.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Cambridge professor Jason Arday resigns amid accusations of plagiarism",
+        "url": "https://www.theguardian.com/education/2026/aug/05/cambridge-professor-jason-arday-resigns-amid-accusations-of-plagiarism",
+        "description": "Sociology professor to stand down after university announces investigation into his qualifications and careerPlaybooks, plagiarism and a pig’s head: the claims surrounding a star Cambridge professo...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Cambridge announces investigation into professor accused of plagiarism",
         "url": "https://www.theguardian.com/education/2026/aug/05/cambridge-jason-arday-announces-investigation-into-professor-accused-of-plagiarism",
@@ -156,13 +163,6 @@
         "title": "Teachers need help with AI. A union is offering training – with $23m in funding from big tech",
         "url": "https://www.theguardian.com/technology/2026/aug/05/teachers-unions-ai-training",
         "description": "Partnership between American Federation of Teachers, one of the largest labor unions in the US, and AI firms has stirred controversyDarius Saczuk, a high school teacher, views artificial intelligen...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘The war leaked into every lesson’: learning Ukrainian in a country under siege",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/04/war-lesson-learning-ukrainian-culture-ukraine",
-        "description": "Soon after my first visit to Ukraine four years ago, I began language lessons. It taught me more than I ever expectedAlmost as soon as I returned from my first reporting trip to Ukraine, in October...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+        "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+        "description": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Infantino sorry for errors but stays Fifa president",
+        "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo?at_medium=RSS&at_campaign=rss",
+        "description": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
         "url": "https://www.bbc.co.uk/news/articles/cyvlgq2gp2eo?at_medium=RSS&at_campaign=rss",
         "description": "Without Patriot interceptors, Ukraine's skies are wide open and people are fully exposed to Russia's missile barrages.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
-        "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-        "description": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Drone carrying explosives found at German airport, police say",
-        "url": "https://www.bbc.co.uk/news/articles/cyvlg4q48l3o?at_medium=RSS&at_campaign=rss",
-        "description": "The drone was found near Ukrainian cargo planes before another object collided with a cargo aircraft in mid-air.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
