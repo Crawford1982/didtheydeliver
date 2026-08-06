@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-06T14:04:13.598751+00:00",
+  "fetched_at": "2026-08-06T23:56:26.704004+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reform will jail directors of companies employing illegal workers for up to five years, says Yusuf – UK politics live",
+        "title": "Why has Kemi Badenoch given a former neo-Nazi an advisory role? – The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/aug/06/why-has-kemi-badenoch-given-a-former-neo-nazi-an-advisory-role-the-latest",
+        "description": "Joshua Bonehill-Paine, a former neo-Nazi activist, has been offered a role as an adviser to the Conservative party by Kemi Badenoch after he withdrew as a Tory candidate for next year’s local elect...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham ‘personally intervened’ over possible early prison release of grooming gang perpetrators",
+        "url": "https://www.theguardian.com/society/2026/aug/06/burnham-intervened-possible-early-prison-release-grooming-gang-perpetrators",
+        "description": "Government ‘urgently’ identifying men convicted in historical cases who could be freed in scheme loopholeAndy Burnham’s government is “urgently” identifying any grooming gang perpetrators who may s...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Accounts show Green party may be close to overtaking Labour’s membership figures – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/aug/06/labour-reform-nigel-farage-zia-yusuf-conservatives-kemi-badenoch-joshua-bonehill-paine-uk-politics-live-news",
-        "description": "Party says employers would be held responsible even if they were unaware of the worker’s immigration statusA Reform government will introduce national licensing for vape shops, which Zia Yusuf says...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Nearly 50 asylum seekers deported under ‘one in one out’ scheme have returned to the UK",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/06/asylum-seekers-deported-one-in-one-out-returned-to-uk",
-        "description": "Figure raises questions about deal with France despite UK ministers insisting repeat arrivals will be removedAlmost 50 asylum seekers deported using the “one in one out” scheme have been recorded a...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Extreme rightwing referrals to Prevent rise 20% amid record anti-terror reporting",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/06/record-high-referrals-prevent-anti-terror-scheme-rise-rightwing-extremism",
-        "description": "Scheme aiming to stop people turning to terrorism has 39% overall rise in referrals in year to September 2025A record number of people have been referred to the government’s anti-terror programme i...",
+        "description": "A spokesperson for the Greens says figures had ‘quadrupled’ in the last year since Polanski became leaderA Reform government will introduce national licensing for vape shops, which Zia Yusuf says w...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,14 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "Cashing in on SpaceX: 'Every chance I get, I'll sell a little more'",
-        "url": "https://www.bbc.co.uk/news/articles/cm2g0j3y339o?at_medium=RSS&at_campaign=rss",
-        "description": "Andre Lavoie joined SpaceX in 2009 as an engineer, now he's looking to cash in his shares in the company.",
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "The Guardian view on mental health: the new secretary of state should make it a priority | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/06/the-guardian-view-on-mental-health-the-new-secretary-of-state-should-make-it-a-priority",
+        "description": "Parity for people with physical and psychological ailments has been promised for years. New neighbourhood clinics are a step in the right directionThe rise in children and young people with mental ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "By day five of my labour, I didn’t want an ‘ideal birth’. I only wanted to survive | Natalie Morris",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/06/labour-ideal-birth-women-yvette-cooper-maternity-reforms",
+        "description": "Yvette Cooper’s maternity reforms must change a system that too often fails women when they’re at their most vulnerableOn the third day of being in labour with my first child, I entered a new state...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
         "url": "https://www.theguardian.com/society/2026/aug/05/nhs-must-prepare-for-annual-summer-heat-pressures-says-yvette-cooper",
@@ -70,23 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Women must not be put under pressure to have ‘ideal birth’, says Yvette Cooper",
-        "url": "https://www.theguardian.com/society/2026/aug/05/women-must-not-feel-pressure-to-have-ideal-birth-says-yvette-cooper",
-        "description": "Exclusive: New health secretary promises root-and-branch reform after damning maternity scandalsWomen should not feel pressurised into experiencing an “ideal birth”, the new health secretary, Yvett...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Social care is for us all, and we all must fund it | Letters",
-        "url": "https://www.theguardian.com/society/2026/aug/04/social-care-is-for-us-all-and-we-all-must-fund-it",
-        "description": "Readers respond to Polly Toynbee’s article on the new prime minister’s commitment to a fair systemPolly Toynbee (Battles loom over social care, but this fight must be won. At last, we have a PM who...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "NHS must plan for heatwaves like it does for winter, health secretary says",
-        "url": "https://www.bbc.co.uk/news/articles/c4gke0dvgvvo?at_medium=RSS&at_campaign=rss",
-        "description": "The warning comes after the NHS sees a surge in patients and problems with equipment in high temperatures.",
+        "title": "Artificial Intelligence used to design brand new viruses",
+        "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -100,21 +100,28 @@
         "category": "immigration"
       },
       {
+        "title": "Catholic or not, many of us share Andy Burnham’s beliefs | Letters",
+        "url": "https://www.theguardian.com/politics/2026/aug/06/catholic-or-not-many-of-us-share-andy-burnham-beliefs",
+        "description": "Readers respond to an article by Julian Coman on Andy Burnham’s faith and the influence of Catholic social teaching on his workJulian Coman’s article about Andy Burnham resonated with me, as I shar...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Has the UK government’s strategy on small boat crossings been effective?",
         "url": "https://www.theguardian.com/uk-news/2026/aug/06/uk-government-strategy-small-boat-crossings-asylum-seekers-explainer",
         "description": "As the number of migrants crossing the Channel is down by 43%, have ministers cracked the problem?The headline figures show that small boats crossing the Channel are down by 43% compared with Janua...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "More than 1,100 people convicted of illegal arrival in UK since 2022",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/05/convicted-illegal-arrival-migration-asylum-channel",
-        "description": "Data shows victims of torture and trafficking among those prosecuted for crossing Channel by irregular means More than 1,100 people, including survivors of torture and trafficking, have been convic...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Heatwave Britain: why are politicians so slow to act? – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/aug/06/heatwave-britain-why-are-politicians-so-slow-to-act-podcast",
+        "description": "As another summer of extreme heat rumbles on, warnings about excess deaths, ageing infrastructure and potential food shortages are growing louder. So how well prepared is the UK to cope, both now a...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Human-driven climate crisis fuels Canada’s deadly wildfires, study finds",
         "url": "https://www.theguardian.com/world/2026/aug/06/canada-wildfires-climate-crisis",
@@ -130,32 +137,18 @@
         "category": "climate"
       },
       {
-        "title": "Adapting to global heating: which UK public services are struggling in hot weather?",
-        "url": "https://www.theguardian.com/environment/2026/aug/05/global-heating-public-services-struggling-heatwaves",
-        "description": "As NHS told to prepare for extreme weather, strain also felt in other areas including transport and farmingNHS must prepare for annual summer heat pressures, says Yvette CooperThe NHS has been told...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Majority of England's rivers and lakes fail new environmental review",
-        "url": "https://www.bbc.co.uk/news/articles/cq6d0y5e3mjo?at_medium=RSS&at_campaign=rss",
-        "description": "A comprehensive assessment of England's waterways is the first in six years and shows little improvement.",
+        "title": "Where is Jackie? Beloved live cam eagle in critical condition",
+        "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
+        "description": "The bald eagle, who has gained worldwide fame as the protagonist of a nest live-stream in California, has been diagnosed with anemia.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
-        "title": "Jason Arday claimed he was paid ‘1.4 million’ for memoir from publisher",
-        "url": "https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge",
-        "description": "Academic who resigned as a Cambridge professor on Wednesday did not specify if amount from Simon & Schuster was in pounds or US dollarsJason Arday, the former Cambridge professor accused of plagiar...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Danish pupils will have to orally defend essays in attempt to combat AI cheating",
-        "url": "https://www.theguardian.com/technology/2026/aug/06/students-ai-cheating-schools-denmark",
-        "description": "Government introduces several measures, including monitoring of computers, for pupils aged 16 to 19Europe live – latest updatesDanish teenagers will have to make an oral defence of their written es...",
+        "title": "Dons call for Cambridge leaders to take blame for Jason Arday appointment",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/06/jason-arday-cambridge-dons-demand-accountability-grotesque-racism",
+        "description": "Exclusive: Academics call for inquiry, saying university must be held accountable for ‘grotesque racism unleashed’The University of Cambridge’s leaders deserve blame for the “grotesque racism unlea...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -163,6 +156,13 @@
         "title": "University of Greater Manchester ends contract of embattled vice-chancellor",
         "url": "https://www.theguardian.com/uk-news/2026/aug/06/university-of-greater-manchester-ends-contract-vice-chancellor-george-holmes",
         "description": "George Holmes was suspended in 2025 over allegations involving financial mismanagement and other misconductThe University of Greater Manchester’s embattled vice-chancellor has had his contract term...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Jason Arday claimed he was paid ‘1.4 million’ by publisher for memoir",
+        "url": "https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge",
+        "description": "Simon & Schuster still plans to publish book by Cambridge academic who resigned this week amid plagiarism claimsJason Arday, the former Cambridge professor accused of plagiarism and embellishment, ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Ukraine hits two oil refineries deep in Russian territory",
-        "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
+        "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+        "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+        "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "In Odesa, no-one is safe from Russia's new Black Sea strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cy8ev4y172yo?at_medium=RSS&at_campaign=rss",
-        "description": "Blackened ships and smashed docks mark Russia's recent surge of attacks on Ukraine's coastline.",
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US Senate committee votes to hold Fauci in contempt over Covid hearing",
-        "url": "https://www.bbc.co.uk/news/articles/c1m18158my9o?at_medium=RSS&at_campaign=rss",
-        "description": "The committee will now refer him for potential prosecution following his refusal to answer questions during a hearing focused on his handling of the COVID-19 pandemic.",
+        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
+        "description": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
