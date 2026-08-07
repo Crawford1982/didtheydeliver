@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-07T02:44:39.618507+00:00",
+  "fetched_at": "2026-08-07T07:12:25.464565+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Primary schools to be told to identify children at risk of future unemployment",
+        "url": "https://www.theguardian.com/society/2026/aug/07/english-primary-schools-to-be-told-to-identify-children-at-risk-of-future-unemployment",
+        "description": "Exclusive: Neet crisis review to call for teachers to be asked to spot those at risk of leaving education jobless at 16What can Dublin teach us? Milburn goes on quest to learnPrimary schools in Eng...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Why has Kemi Badenoch given a former neo-Nazi an advisory role? – The Latest",
         "url": "https://www.theguardian.com/news/audio/2026/aug/06/why-has-kemi-badenoch-given-a-former-neo-nazi-an-advisory-role-the-latest",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Accounts show Green party may be close to overtaking Labour’s membership figures – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/06/labour-reform-nigel-farage-zia-yusuf-conservatives-kemi-badenoch-joshua-bonehill-paine-uk-politics-live-news",
-        "description": "A spokesperson for the Greens says figures had ‘quadrupled’ in the last year since Polanski became leaderA Reform government will introduce national licensing for vape shops, which Zia Yusuf says w...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham orders review of grooming gang early releases",
-        "url": "https://www.bbc.co.uk/news/articles/cg5lm3evpzzo?at_medium=RSS&at_campaign=rss",
-        "description": "The announcement of the review comes after the Tory leader raised concerns that child sex offenders could leave jail early.",
+        "title": "Conservatives pledge to ban foreign nationals from social housing",
+        "url": "https://www.bbc.co.uk/news/articles/cd69x9j46xjo?at_medium=RSS&at_campaign=rss",
+        "description": "They claim around 230,000 homes would become available under their plan to limit social housing entitlements.",
         "source": "BBC News",
         "category": "government"
       }
@@ -56,7 +56,7 @@
       {
         "title": "Meta fined $567m in largest child safety ruling against social media giant",
         "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-        "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+        "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Artificial Intelligence used to design brand new viruses",
-        "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
-        "description": "Scientists made 16 successful viruses that had their genetic code designed by artificial intelligence.",
+        "title": "Moment earthquake shakes hospital operating room in Japan",
+        "url": "https://www.bbc.co.uk/news/videos/c1j1eg31y6no?at_medium=RSS&at_campaign=rss",
+        "description": "Security camera footage shows doctors shielding a patient on the operating table as last month's magnitude 6.8 quake shook Kumamoto General Hospital.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "Extreme heat breaks temperature records in central and eastern Europe",
+        "url": "https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe",
+        "description": "Slovakia reaches new high of 42C as authorities in Poland forced to shut down Kozienice and Połaniec power plantsEurope’s dry riverbeds and scorched earth – in picturesTemperature records have been...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "July’s heatwaves kept UK shoppers away from high street",
+        "url": "https://www.theguardian.com/business/2026/aug/07/july-heatwaves-uk-shoppers-stay-away-from-high-street",
+        "description": "Visits down 3.8% after 6.2% fall in June, with many choosing to buy online instead, research for retail body findsShoppers stayed away from UK high streets during last month’s heatwave temperatures...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Heatwave Britain: why are politicians so slow to act? – podcast",
         "url": "https://www.theguardian.com/politics/audio/2026/aug/06/heatwave-britain-why-are-politicians-so-slow-to-act-podcast",
         "description": "As another summer of extreme heat rumbles on, warnings about excess deaths, ageing infrastructure and potential food shortages are growing louder. So how well prepared is the UK to cope, both now a...",
@@ -123,46 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "Human-driven climate crisis fuels Canada’s deadly wildfires, study finds",
-        "url": "https://www.theguardian.com/world/2026/aug/06/canada-wildfires-climate-crisis",
-        "description": "Current blazes roaring across country more than twice as likely to occur because of fossil fuel-driven global heatingThe human-driven climate crisis made the conditions that led to blazes roaring a...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
-        "url": "https://www.theguardian.com/society/2026/aug/05/nhs-must-prepare-for-annual-summer-heat-pressures-says-yvette-cooper",
-        "description": "Health secretary says global heating means UK hospitals and GPs will have to prepare for summer as well as winter peaks of demandAdapting to global heating: which UK public services are struggling ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Where is Jackie? Beloved live cam eagle in critical condition",
-        "url": "https://www.bbc.co.uk/news/videos/c2el1dz7ge9o?at_medium=RSS&at_campaign=rss",
-        "description": "The bald eagle, who has gained worldwide fame as the protagonist of a nest live-stream in California, has been diagnosed with anemia.",
+        "title": "Wildfire damage could take hundreds of years to recover from, experts say",
+        "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
+        "description": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Primary schools to be told to identify children at risk of future unemployment",
+        "url": "https://www.theguardian.com/society/2026/aug/07/english-primary-schools-to-be-told-to-identify-children-at-risk-of-future-unemployment",
+        "description": "Exclusive: Neet crisis review to call for teachers to be asked to spot those at risk of leaving education jobless at 16What can Dublin teach us? Milburn goes on quest to learnPrimary schools in Eng...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Friday briefing: What the Jason Arday row reveals about equality in modern Britain",
+        "url": "https://www.theguardian.com/world/2026/aug/07/friday-briefing-what-the-jason-arday-row-reveals-about-equality-in-modern-britain",
+        "description": "In today’s newsletter: Reputational power operates unevenly across elite organisations​ in British public life, shaping whose mis​takes become scandals and whose are quietly absorbedGood morning. I...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Plagiarism and a pig’s head: the rise and fall of Jason Arday – podcast",
         "url": "https://www.theguardian.com/news/audio/2026/aug/07/plagiarism-and-a-pigs-head-the-rise-and-fall-of-jason-arday-podcast",
         "description": "Jason Arday’s appointment as Cambridge’s youngest black professor made global headlines. Then questions about his meteoric rise began to snowball. Lanre Bakare reports.When the University of Cambri...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Dons call for Cambridge leaders to take blame for Jason Arday appointment",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/06/jason-arday-cambridge-dons-demand-accountability-grotesque-racism",
-        "description": "Exclusive: Academics call for inquiry, saying university must be held accountable for ‘grotesque racism unleashed’The University of Cambridge’s leaders deserve blame for the “grotesque racism unlea...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "University of Greater Manchester ends contract of embattled vice-chancellor",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/06/university-of-greater-manchester-ends-contract-vice-chancellor-george-holmes",
-        "description": "George Holmes was suspended in 2025 over allegations involving financial mismanagement and other misconductThe University of Greater Manchester’s embattled vice-chancellor has had his contract term...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-        "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-        "description": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+        "title": "Meta fined $567m in largest child safety ruling against social media giant",
+        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
+        "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Meta fined $567m in largest child safety ruling against social media giant",
-        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-        "description": "A New Mexico judge ordered the Instagram, Facebook and Whatsapp parent company to pay another $567m for the way it has harmed children.",
+        "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+        "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+        "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
