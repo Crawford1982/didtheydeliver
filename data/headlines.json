@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-06T23:56:26.704004+00:00",
+  "fetched_at": "2026-08-07T02:44:39.618507+00:00",
   "headlines": {
     "government": [
       {
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Plagiarism and a pig’s head: the rise and fall of Jason Arday – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/aug/07/plagiarism-and-a-pigs-head-the-rise-and-fall-of-jason-arday-podcast",
+        "description": "Jason Arday’s appointment as Cambridge’s youngest black professor made global headlines. Then questions about his meteoric rise began to snowball. Lanre Bakare reports.When the University of Cambri...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Dons call for Cambridge leaders to take blame for Jason Arday appointment",
         "url": "https://www.theguardian.com/uk-news/2026/aug/06/jason-arday-cambridge-dons-demand-accountability-grotesque-racism",
         "description": "Exclusive: Academics call for inquiry, saying university must be held accountable for ‘grotesque racism unleashed’The University of Cambridge’s leaders deserve blame for the “grotesque racism unlea...",
@@ -156,13 +163,6 @@
         "title": "University of Greater Manchester ends contract of embattled vice-chancellor",
         "url": "https://www.theguardian.com/uk-news/2026/aug/06/university-of-greater-manchester-ends-contract-vice-chancellor-george-holmes",
         "description": "George Holmes was suspended in 2025 over allegations involving financial mismanagement and other misconductThe University of Greater Manchester’s embattled vice-chancellor has had his contract term...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Jason Arday claimed he was paid ‘1.4 million’ by publisher for memoir",
-        "url": "https://www.theguardian.com/education/2026/aug/06/jason-arday-claim-memoir-publisher-simon-and-schuster-cambridge",
-        "description": "Simon & Schuster still plans to publish book by Cambridge academic who resigned this week amid plagiarism claimsJason Arday, the former Cambridge professor accused of plagiarism and embellishment, ...",
         "source": "The Guardian",
         "category": "education"
       }
