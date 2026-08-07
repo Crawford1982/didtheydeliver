@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-07T07:12:25.464565+00:00",
+  "fetched_at": "2026-08-07T12:58:54.223938+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Labour minister denies Burnham ‘too blokey’ – UK politics live",
+        "url": "https://www.theguardian.com/politics/blog/live/2026/aug/07/labour-government-people-working-illegally-arrested-deported-uk-andy-burnham-politics-latest",
+        "description": "Home Office minister Anna Turley says PM is ‘authentic’ and praises video of him discussing bar snacks with John HealeyScottish Labour has “turned to rubble”, one of the party’s leadership contende...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Tory plan to ban foreign nationals from social housing condemned as ‘divisive’",
+        "url": "https://www.theguardian.com/society/2026/aug/07/tory-plan-ban-foreign-nationals-social-housing-condemned-divisive",
+        "description": "Housing charity says move would drive up homelessness, while Labour dismisses proposal as ‘unserious’Plans to ban foreign nationals from social housing under a Conservative government have been con...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Primary schools to be told to identify children at risk of future unemployment",
         "url": "https://www.theguardian.com/society/2026/aug/07/english-primary-schools-to-be-told-to-identify-children-at-risk-of-future-unemployment",
         "description": "Exclusive: Neet crisis review to call for teachers to be asked to spot those at risk of leaving education jobless at 16What can Dublin teach us? Milburn goes on quest to learnPrimary schools in Eng...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Why has Kemi Badenoch given a former neo-Nazi an advisory role? – The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/aug/06/why-has-kemi-badenoch-given-a-former-neo-nazi-an-advisory-role-the-latest",
-        "description": "Joshua Bonehill-Paine, a former neo-Nazi activist, has been offered a role as an adviser to the Conservative party by Kemi Badenoch after he withdrew as a Tory candidate for next year’s local elect...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham ‘personally intervened’ over possible early prison release of grooming gang perpetrators",
-        "url": "https://www.theguardian.com/society/2026/aug/06/burnham-intervened-possible-early-prison-release-grooming-gang-perpetrators",
-        "description": "Government ‘urgently’ identifying men convicted in historical cases who could be freed in scheme loopholeAndy Burnham’s government is “urgently” identifying any grooming gang perpetrators who may s...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
+        "url": "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict",
+        "description": "Estimates for previous two months were revised down sharply but unemployment rate held steady at 4.1%Business live – latest updatesUS employers unexpectedly lost 23,000 jobs in July and job gains f...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
+        "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
+        "description": "Move to raise levy on goods made with polysilicon aims to protect domestic US supply chains from China, the major producerDonald Trump has ordered a new 15% tariff on imported products made of poly...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Most Americans view rising living costs as biggest barrier to a better life, survey finds",
         "url": "https://www.theguardian.com/business/2026/aug/06/americans-rising-cost-of-living-survey",
         "description": "When asked to detail what would make a better life in three to five years, 60% of US adults said greater financial securityAmericans may seem increasingly divided on beliefs and values, but in a ne...",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Healey urged to be bold on borrowing in first test of Burnham’s growth pledge",
-        "url": "https://www.theguardian.com/business/2026/aug/06/healey-urged-to-be-bold-on-borrowing-in-first-test-of-burnhams-growth-pledge",
-        "description": "Some want the chancellor to exploit newly flexible fiscal rules – others want a more creative approach, such as borrowing from marketsWith just 12 weeks to go until his first budget, new chancellor...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US refunds $100bn of Donald Trump’s ‘liberation day’ tariffs",
-        "url": "https://www.theguardian.com/us-news/2026/aug/05/trump-administration-has-paid-back-100bn-of-165bn-tariff-refunds",
-        "description": "More than half of tariff income refunded after supreme court ruled Trump’s levies were illegalBusiness live – latest updatesThe Trump administration has refunded about $100bn from the tariffs it co...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Meta fined $567m in largest child safety ruling against social media giant",
-        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-        "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+        "title": "How a 90-second power outage sparked  chaos for rail commuters",
+        "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
+        "description": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -100,21 +100,28 @@
         "category": "immigration"
       },
       {
-        "title": "Catholic or not, many of us share Andy Burnham’s beliefs | Letters",
-        "url": "https://www.theguardian.com/politics/2026/aug/06/catholic-or-not-many-of-us-share-andy-burnham-beliefs",
-        "description": "Readers respond to an article by Julian Coman on Andy Burnham’s faith and the influence of Catholic social teaching on his workJulian Coman’s article about Andy Burnham resonated with me, as I shar...",
+        "title": "Labour minister denies Burnham ‘too blokey’ – UK politics live",
+        "url": "https://www.theguardian.com/politics/blog/live/2026/aug/07/labour-government-people-working-illegally-arrested-deported-uk-andy-burnham-politics-latest",
+        "description": "Home Office minister Anna Turley says PM is ‘authentic’ and praises video of him discussing bar snacks with John HealeyScottish Labour has “turned to rubble”, one of the party’s leadership contende...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Has the UK government’s strategy on small boat crossings been effective?",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/06/uk-government-strategy-small-boat-crossings-asylum-seekers-explainer",
-        "description": "As the number of migrants crossing the Channel is down by 43%, have ministers cracked the problem?The headline figures show that small boats crossing the Channel are down by 43% compared with Janua...",
+        "title": "Tory plan to ban foreign nationals from social housing condemned as ‘divisive’",
+        "url": "https://www.theguardian.com/society/2026/aug/07/tory-plan-ban-foreign-nationals-social-housing-condemned-divisive",
+        "description": "Housing charity says move would drive up homelessness, while Labour dismisses proposal as ‘unserious’Plans to ban foreign nationals from social housing under a Conservative government have been con...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Europe’s dry riverbeds and scorched earth – in pictures",
+        "url": "https://www.theguardian.com/world/gallery/2026/aug/07/europe-dry-riverbeds-scorched-earth-hot-weather-in-pictures",
+        "description": "Much of the continent is battling wildfires and drought during a summer of extreme heat Continue reading...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Extreme heat breaks temperature records in central and eastern Europe",
         "url": "https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Heatwave Britain: why are politicians so slow to act? – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/aug/06/heatwave-britain-why-are-politicians-so-slow-to-act-podcast",
-        "description": "As another summer of extreme heat rumbles on, warnings about excess deaths, ageing infrastructure and potential food shortages are growing louder. So how well prepared is the UK to cope, both now a...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Wildfire damage could take hundreds of years to recover from, experts say",
-        "url": "https://www.bbc.co.uk/news/articles/c0qvp00x707o?at_medium=RSS&at_campaign=rss",
-        "description": "Habitats belonging to snakes and rare moths have been destroyed after the wildfires this summer.",
+        "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
+        "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
+        "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Tory plan to ban foreign nationals from social housing condemned as ‘divisive’",
+        "url": "https://www.theguardian.com/society/2026/aug/07/tory-plan-ban-foreign-nationals-social-housing-condemned-divisive",
+        "description": "Housing charity says move would drive up homelessness, while Labour dismisses proposal as ‘unserious’Plans to ban foreign nationals from social housing under a Conservative government have been con...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Positive Persimmon looks to tap into ‘Burnham bounce’ on housebuilding",
         "url": "https://www.theguardian.com/business/2026/aug/06/persimmon-housebuilding-burnham-new-homes",
         "description": "Firm lifts outlook, saying it is well placed to benefit from PM’s focus on new homes despite cost pressures from Iran warThe UK housebuilder Persimmon has lifted its outlook for the full year, sayi...",
@@ -179,13 +186,6 @@
         "title": "Approval of east London datacentre labelled ‘slap in the face’ for local democracy",
         "url": "https://www.theguardian.com/uk-news/2026/aug/04/brick-lane-redevelopment-approval-datacentre-london",
         "description": "Campaigners decry Angela Rayner’s backing for Brick Lane project that has only 11 affordable homesA £500m redevelopment of the Truman Brewery estate in Brick Lane, east London, has been approved, c...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "The buzz about fly infestations this summer | Letters",
-        "url": "https://www.theguardian.com/environment/2026/aug/03/the-buzz-about-fly-infestations-this-summer",
-        "description": "Readers respond to an article on the swarms of houseflies people are having to cope with in hot weatherMy experience of flies is that during the past 20 years or so there has been a significant dec...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-        "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-        "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
+        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+        "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-        "description": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
+        "title": "Trump again tries to limit US birthright citizenship with new executive orders",
+        "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
+        "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
