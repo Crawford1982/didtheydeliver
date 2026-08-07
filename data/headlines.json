@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-08-07T12:58:54.223938+00:00",
+  "fetched_at": "2026-08-07T18:53:35.610824+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Labour minister denies Burnham ‘too blokey’ – UK politics live",
+        "title": "Millions in England face longer waits for mental health care as NHS providers plan cuts",
+        "url": "https://www.theguardian.com/society/2026/aug/07/millions-in-england-face-longer-waits-for-mental-health-care-as-nhs-providers-plan-cuts",
+        "description": "Exclusive: Seven in 10 survey respondents expect services to be reduced or shut, while more than half anticipate job lossesMillions of adults and children in England face being forced to wait longe...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "French officers halted small boats at sea 10 times since spring",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/07/france-stop-10-small-boat-crossing-channel-since-spring",
+        "description": "Disclosure challenges Conservative and Reform claims that police are refusing to interveneThe French authorities have halted small boats at sea in the Channel on 10 occasions since the spring, offi...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK politics: Labour minister denies Burnham ‘too blokey’ – as it happened",
         "url": "https://www.theguardian.com/politics/blog/live/2026/aug/07/labour-government-people-working-illegally-arrested-deported-uk-andy-burnham-politics-latest",
-        "description": "Home Office minister Anna Turley says PM is ‘authentic’ and praises video of him discussing bar snacks with John HealeyScottish Labour has “turned to rubble”, one of the party’s leadership contende...",
+        "description": "Home Office minister Anna Turley says PM is ‘authentic’ and praises video of him discussing bar snacks with John HealeyStreeting said it was “not OK” that the killers of PC Andrew Harper were eligi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Tory plan to ban foreign nationals from social housing condemned as ‘divisive’",
-        "url": "https://www.theguardian.com/society/2026/aug/07/tory-plan-ban-foreign-nationals-social-housing-condemned-divisive",
-        "description": "Housing charity says move would drive up homelessness, while Labour dismisses proposal as ‘unserious’Plans to ban foreign nationals from social housing under a Conservative government have been con...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Primary schools to be told to identify children at risk of future unemployment",
-        "url": "https://www.theguardian.com/society/2026/aug/07/english-primary-schools-to-be-told-to-identify-children-at-risk-of-future-unemployment",
-        "description": "Exclusive: Neet crisis review to call for teachers to be asked to spot those at risk of leaving education jobless at 16What can Dublin teach us? Milburn goes on quest to learnPrimary schools in Eng...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Conservatives pledge to ban foreign nationals from social housing",
-        "url": "https://www.bbc.co.uk/news/articles/cd69x9j46xjo?at_medium=RSS&at_campaign=rss",
-        "description": "They claim around 230,000 homes would become available under their plan to limit social housing entitlements.",
+        "title": "Prisoner release row proving to be Burnham's first big test as PM",
+        "url": "https://www.bbc.co.uk/news/articles/cdewx3lpd2eo?at_medium=RSS&at_campaign=rss",
+        "description": "The prison overcrowding crisis presents the new PM with a dilemma for which there are only unpalatable choices.",
         "source": "BBC News",
         "category": "government"
       }
@@ -35,7 +35,7 @@
       {
         "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
         "url": "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict",
-        "description": "Estimates for previous two months were revised down sharply but unemployment rate held steady at 4.1%Business live – latest updatesUS employers unexpectedly lost 23,000 jobs in July and job gains f...",
+        "description": "Estimates for previous two months were revised down sharply but unemployment rate held steady at 4.1%Business live – latest updatesUS employers unexpectedly lost 23,000 jobs in July and gains for t...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,7 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "How a 90-second power outage sparked  chaos for rail commuters",
+        "title": "How a 90-second power outage sparked chaos for rail commuters",
         "url": "https://www.bbc.co.uk/news/articles/c3ekd5784k5o?at_medium=RSS&at_campaign=rss",
         "description": "The incident raised questions about how a disrupted power supply can have such a widespread impact.",
         "source": "BBC News",
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "Millions in England face longer waits for mental health care as NHS providers plan cuts",
+        "url": "https://www.theguardian.com/society/2026/aug/07/millions-in-england-face-longer-waits-for-mental-health-care-as-nhs-providers-plan-cuts",
+        "description": "Exclusive: Seven in 10 survey respondents expect services to be reduced or shut, while more than half anticipate job lossesMillions of adults and children in England face being forced to wait longe...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "The Guardian view on mental health: the new secretary of state should make it a priority | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/aug/06/the-guardian-view-on-mental-health-the-new-secretary-of-state-should-make-it-a-priority",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "NHS must prepare for annual summer heat pressures, says Yvette Cooper",
-        "url": "https://www.theguardian.com/society/2026/aug/05/nhs-must-prepare-for-annual-summer-heat-pressures-says-yvette-cooper",
-        "description": "Health secretary says global heating means UK hospitals and GPs will have to prepare for summer as well as winter peaks of demandAdapting to global heating: which UK public services are struggling ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Moment earthquake shakes hospital operating room in Japan",
         "url": "https://www.bbc.co.uk/news/videos/c1j1eg31y6no?at_medium=RSS&at_campaign=rss",
         "description": "Security camera footage shows doctors shielding a patient on the operating table as last month's magnitude 6.8 quake shook Kumamoto General Hospital.",
@@ -93,16 +93,16 @@
     ],
     "immigration": [
       {
-        "title": "Nearly 50 asylum seekers deported under ‘one in one out’ scheme have returned to the UK",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/06/asylum-seekers-deported-one-in-one-out-returned-to-uk",
-        "description": "Figure raises questions about deal with France despite UK ministers insisting repeat arrivals will be removedAlmost 50 asylum seekers deported using the “one in one out” scheme have been recorded a...",
+        "title": "French officers halted small boats at sea 10 times since spring",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/07/france-stop-10-small-boat-crossing-channel-since-spring",
+        "description": "Disclosure challenges Conservative and Reform claims that police are refusing to interveneThe French authorities have halted small boats at sea in the Channel on 10 occasions since the spring, offi...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Labour minister denies Burnham ‘too blokey’ – UK politics live",
+        "title": "UK politics: Labour minister denies Burnham ‘too blokey’ – as it happened",
         "url": "https://www.theguardian.com/politics/blog/live/2026/aug/07/labour-government-people-working-illegally-arrested-deported-uk-andy-burnham-politics-latest",
-        "description": "Home Office minister Anna Turley says PM is ‘authentic’ and praises video of him discussing bar snacks with John HealeyScottish Labour has “turned to rubble”, one of the party’s leadership contende...",
+        "description": "Home Office minister Anna Turley says PM is ‘authentic’ and praises video of him discussing bar snacks with John HealeyStreeting said it was “not OK” that the killers of PC Andrew Harper were eligi...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
-        "url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss",
-        "description": "The RWE payout is the latest in a string of deals cancelling wind energy projects, a power source long derided by Trump.",
+        "title": "Hosepipe bans in force as drought declared - is your area affected?",
+        "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Cambridge academics reject university’s attempt to end row over Jason Arday",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/07/cambridge-academics-reject-universitys-attempt-to-end-row-over-jason-arday",
+        "description": "Group calls for ‘thorough and transparent investigation’ of hiring of professor who resigned after his claims came under scrutinyThe University of Cambridge has announced a review into the way it v...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Primary schools to be told to identify children at risk of future unemployment",
         "url": "https://www.theguardian.com/society/2026/aug/07/english-primary-schools-to-be-told-to-identify-children-at-risk-of-future-unemployment",
@@ -156,13 +163,6 @@
         "title": "Friday briefing: What the Jason Arday row reveals about equality in modern Britain",
         "url": "https://www.theguardian.com/world/2026/aug/07/friday-briefing-what-the-jason-arday-row-reveals-about-equality-in-modern-britain",
         "description": "In today’s newsletter: Reputational power operates unevenly across elite organisations​ in British public life, shaping whose mis​takes become scandals and whose are quietly absorbedGood morning. I...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Plagiarism and a pig’s head: the rise and fall of Jason Arday – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/aug/07/plagiarism-and-a-pigs-head-the-rise-and-fall-of-jason-arday-podcast",
-        "description": "Jason Arday’s appointment as Cambridge’s youngest black professor made global headlines. Then questions about his meteoric rise began to snowball. Lanre Bakare reports.When the University of Cambri...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Meta fined $567m in largest child safety ruling against social media giant",
-        "url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-        "description": "The ruling is in addition to $375m in fines Meta was already ordered to pay in the case, for a total of $942m.",
+        "title": "Seven killed after Thai student opens fire at home and school",
+        "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
+        "description": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+        "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
+        "description": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
         "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
         "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Trump again tries to limit US birthright citizenship with new executive orders",
-        "url": "https://www.bbc.co.uk/news/articles/cj63966j95yo?at_medium=RSS&at_campaign=rss",
-        "description": "The executive orders ban birth tourism and expand the existing definition of people whose children are not eligible for US birthright citizenship.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
