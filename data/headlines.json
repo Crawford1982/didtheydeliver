@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-07T18:53:35.610824+00:00",
+  "fetched_at": "2026-08-08T01:25:10.054903+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Thetford residents remain on edge after days of ‘mob rule’ over asylum plans",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/07/thetford-residents-remain-on-edge-after-days-of-mob-rule-over-asylum-plans",
+        "description": "People voice frustration with officials’ failure to engage with community over placement of asylum seekers in areaA smashed window pane and some broken eggshells on a footpath were some of the tell...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Millions in England face longer waits for mental health care as NHS providers plan cuts",
         "url": "https://www.theguardian.com/society/2026/aug/07/millions-in-england-face-longer-waits-for-mental-health-care-as-nhs-providers-plan-cuts",
@@ -13,13 +20,6 @@
         "title": "French officers halted small boats at sea 10 times since spring",
         "url": "https://www.theguardian.com/uk-news/2026/aug/07/france-stop-10-small-boat-crossing-channel-since-spring",
         "description": "Disclosure challenges Conservative and Reform claims that police are refusing to interveneThe French authorities have halted small boats at sea in the Channel on 10 occasions since the spring, offi...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK politics: Labour minister denies Burnham ‘too blokey’ – as it happened",
-        "url": "https://www.theguardian.com/politics/blog/live/2026/aug/07/labour-government-people-working-illegally-arrested-deported-uk-andy-burnham-politics-latest",
-        "description": "Home Office minister Anna Turley says PM is ‘authentic’ and praises video of him discussing bar snacks with John HealeyStreeting said it was “not OK” that the killers of PC Andrew Harper were eligi...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Wasted medicine in England could fill 75 swimming pools a year, pharmacy group says",
+        "url": "https://www.theguardian.com/business/2026/aug/08/wasted-medicine-in-england-could-fill-75-swimming-pools-a-year-pharmacy-group-says",
+        "description": "Industry body calls for more regular reviews of repeat prescriptions to tackle ‘growing problem’The amount of wasted medicines thrown away in England in one year could fill 75 swimming pools, accor...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Millions in England face longer waits for mental health care as NHS providers plan cuts",
         "url": "https://www.theguardian.com/society/2026/aug/07/millions-in-england-face-longer-waits-for-mental-health-care-as-nhs-providers-plan-cuts",
         "description": "Exclusive: Seven in 10 survey respondents expect services to be reduced or shut, while more than half anticipate job lossesMillions of adults and children in England face being forced to wait longe...",
@@ -73,13 +80,6 @@
         "title": "The Guardian view on mental health: the new secretary of state should make it a priority | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/aug/06/the-guardian-view-on-mental-health-the-new-secretary-of-state-should-make-it-a-priority",
         "description": "Parity for people with physical and psychological ailments has been promised for years. New neighbourhood clinics are a step in the right directionThe rise in children and young people with mental ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "By day five of my labour, I didn’t want an ‘ideal birth’. I only wanted to survive | Natalie Morris",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/06/labour-ideal-birth-women-yvette-cooper-maternity-reforms",
-        "description": "Yvette Cooper’s maternity reforms must change a system that too often fails women when they’re at their most vulnerableOn the third day of being in labour with my first child, I entered a new state...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -100,16 +100,16 @@
         "category": "immigration"
       },
       {
-        "title": "UK politics: Labour minister denies Burnham ‘too blokey’ – as it happened",
-        "url": "https://www.theguardian.com/politics/blog/live/2026/aug/07/labour-government-people-working-illegally-arrested-deported-uk-andy-burnham-politics-latest",
-        "description": "Home Office minister Anna Turley says PM is ‘authentic’ and praises video of him discussing bar snacks with John HealeyStreeting said it was “not OK” that the killers of PC Andrew Harper were eligi...",
+        "title": "Thetford residents remain on edge after days of ‘mob rule’ over asylum plans",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/07/thetford-residents-remain-on-edge-after-days-of-mob-rule-over-asylum-plans",
+        "description": "People voice frustration with officials’ failure to engage with community over placement of asylum seekers in areaA smashed window pane and some broken eggshells on a footpath were some of the tell...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Tory plan to ban foreign nationals from social housing condemned as ‘divisive’",
-        "url": "https://www.theguardian.com/society/2026/aug/07/tory-plan-ban-foreign-nationals-social-housing-condemned-divisive",
-        "description": "Housing charity says move would drive up homelessness, while Labour dismisses proposal as ‘unserious’Plans to ban foreign nationals from social housing under a Conservative government have been con...",
+        "title": "UK politics: Labour minister denies Burnham ‘too blokey’ – as it happened",
+        "url": "https://www.theguardian.com/politics/blog/live/2026/aug/07/labour-government-people-working-illegally-arrested-deported-uk-andy-burnham-politics-latest",
+        "description": "Home Office minister Anna Turley says PM is ‘authentic’ and praises video of him discussing bar snacks with John HealeyStreeting said it was “not OK” that the killers of PC Andrew Harper were eligi...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Seven killed after Thai student opens fire at home and school",
-        "url": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-        "description": "Authorities say the 14-year-old killed his grandparents before gunning down five teachers at his school.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Spain threatens retaliation if Italy fails to lift border controls after Ceuta crossings",
+        "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
         "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
-        "description": "Italy has said it will not accept \"ultimatums or impositions\" after the mass crossing of migrants from Morocco to Ceuta last week.",
+        "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
-        "url": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
-        "description": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+        "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+        "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+        "description": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+        "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+        "description": "The student says she feared never seeing her mother again after the attack killed five teachers.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
