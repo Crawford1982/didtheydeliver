@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-08T01:25:10.054903+00:00",
+  "fetched_at": "2026-08-08T06:49:40.460641+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Union calls for robust review of OBR over fears it holds back economic growth",
+        "url": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
+        "description": "TUC will urge John Healey to order ‘root and branch’ assessment of watchdog amid claims its forecasts downplay investment benefitsThe TUC is urging the new chancellor, John Healey, to order a “root...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Thetford residents remain on edge after days of ‘mob rule’ over asylum plans",
         "url": "https://www.theguardian.com/uk-news/2026/aug/07/thetford-residents-remain-on-edge-after-days-of-mob-rule-over-asylum-plans",
@@ -17,13 +24,6 @@
         "category": "government"
       },
       {
-        "title": "French officers halted small boats at sea 10 times since spring",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/07/france-stop-10-small-boat-crossing-channel-since-spring",
-        "description": "Disclosure challenges Conservative and Reform claims that police are refusing to interveneThe French authorities have halted small boats at sea in the Channel on 10 occasions since the spring, offi...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "Prisoner release row proving to be Burnham's first big test as PM",
         "url": "https://www.bbc.co.uk/news/articles/cdewx3lpd2eo?at_medium=RSS&at_campaign=rss",
         "description": "The prison overcrowding crisis presents the new PM with a dilemma for which there are only unpalatable choices.",
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Union calls for robust review of OBR over fears it holds back economic growth",
+        "url": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
+        "description": "TUC will urge John Healey to order ‘root and branch’ assessment of watchdog amid claims its forecasts downplay investment benefitsThe TUC is urging the new chancellor, John Healey, to order a “root...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
         "url": "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict",
@@ -43,13 +50,6 @@
         "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
         "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
         "description": "Move to raise levy on goods made with polysilicon aims to protect domestic US supply chains from China, the major producerDonald Trump has ordered a new 15% tariff on imported products made of poly...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Most Americans view rising living costs as biggest barrier to a better life, survey finds",
-        "url": "https://www.theguardian.com/business/2026/aug/06/americans-rising-cost-of-living-survey",
-        "description": "When asked to detail what would make a better life in three to five years, 60% of US adults said greater financial securityAmericans may seem increasingly divided on beliefs and values, but in a ne...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Moment earthquake shakes hospital operating room in Japan",
-        "url": "https://www.bbc.co.uk/news/videos/c1j1eg31y6no?at_medium=RSS&at_campaign=rss",
-        "description": "Security camera footage shows doctors shielding a patient on the operating table as last month's magnitude 6.8 quake shook Kumamoto General Hospital.",
+        "title": "How a former GB Olympian curbed his porn problem - and the signs and steps to recovery",
+        "url": "https://www.bbc.co.uk/news/articles/c89n8j5e32do?at_medium=RSS&at_campaign=rss",
+        "description": "Experts share the signs to look out for if you are worried about your porn use, and how to seek help.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -100,21 +100,28 @@
         "category": "immigration"
       },
       {
+        "title": "The night Belfast burned: how the Northern Ireland race riots unfolded",
+        "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/aug/08/how-northern-ireland-race-riots-unfolded-belfast",
+        "description": "A horrific knife attack on a street in June sparked another summer’s night of racial violence, stoked by loyalist groups. How did the unrest erupt – and why do many fear it will happen again?Shortl...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Thetford residents remain on edge after days of ‘mob rule’ over asylum plans",
         "url": "https://www.theguardian.com/uk-news/2026/aug/07/thetford-residents-remain-on-edge-after-days-of-mob-rule-over-asylum-plans",
         "description": "People voice frustration with officials’ failure to engage with community over placement of asylum seekers in areaA smashed window pane and some broken eggshells on a footpath were some of the tell...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "UK politics: Labour minister denies Burnham ‘too blokey’ – as it happened",
-        "url": "https://www.theguardian.com/politics/blog/live/2026/aug/07/labour-government-people-working-illegally-arrested-deported-uk-andy-burnham-politics-latest",
-        "description": "Home Office minister Anna Turley says PM is ‘authentic’ and praises video of him discussing bar snacks with John HealeyStreeting said it was “not OK” that the killers of PC Andrew Harper were eligi...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/08/wildfire-smoke-unknown-health-impacts",
+        "description": "Scientists race to untangle complex links between exposure and mortality as fire weather grows more prevalentA thousand kilometres from the infernos gorging on northern Ontario’s boreal forests, Er...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Europe’s dry riverbeds and scorched earth – in pictures",
         "url": "https://www.theguardian.com/world/gallery/2026/aug/07/europe-dry-riverbeds-scorched-earth-hot-weather-in-pictures",
@@ -126,13 +133,6 @@
         "title": "Extreme heat breaks temperature records in central and eastern Europe",
         "url": "https://www.theguardian.com/world/2026/aug/07/extreme-heat-breaks-temperature-records-central-eastern-europe",
         "description": "Slovakia reaches new high of 42C as authorities in Poland forced to shut down Kozienice and Połaniec power plantsEurope’s dry riverbeds and scorched earth – in picturesTemperature records have been...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "July’s heatwaves kept UK shoppers away from high street",
-        "url": "https://www.theguardian.com/business/2026/aug/07/july-heatwaves-uk-shoppers-stay-away-from-high-street",
-        "description": "Visits down 3.8% after 6.2% fall in June, with many choosing to buy online instead, research for retail body findsShoppers stayed away from UK high streets during last month’s heatwave temperatures...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Child among three killed in Russian missile attacks near Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
         "url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
         "description": "Italy introduced border controls following an influx of about 78,000 migrants from  Morocco into the neighbouring Spanish exclave of Ceuta.",
@@ -202,13 +209,6 @@
         "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
         "url": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
         "description": "Eight people were killed when a 14-year-old opened fire at his home and school before shooting himself dead.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-        "url": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-        "description": "The student says she feared never seeing her mother again after the attack killed five teachers.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
