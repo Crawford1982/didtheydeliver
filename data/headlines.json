@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-08T12:43:17.644560+00:00",
+  "fetched_at": "2026-08-08T18:34:38.227365+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Nicola Sturgeon ‘has not spoken to’ estranged husband, Peter Murrell, since he was jailed",
+        "url": "https://www.theguardian.com/politics/2026/aug/08/nicola-sturgeon-estranged-peter-murrell-jailed-no-contact",
+        "description": "Scotland’s former first minister says she will not visit Murrell in prison, where he is serving five-year sentence for embezzling SNP fundsNicola Surgeon has said she will not visit her estranged h...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Arron Banks ‘hired private detective’ to look into journalist who investigated Reform UK",
         "url": "https://www.theguardian.com/uk-news/2026/aug/08/arron-banks-hired-private-detective-to-look-into-journalist-who-investigated-reform-uk",
@@ -17,13 +24,6 @@
         "category": "government"
       },
       {
-        "title": "US accused of meddling in British politics with $500,000 grant for ‘public education’ courses",
-        "url": "https://www.theguardian.com/us-news/2026/aug/08/us-accused-of-meddling-in-british-politics-with-500000-grant-scheme-promoting-shared-values",
-        "description": "Documents published on US embassy’s website prompt claims of attempt to export Maga propaganda to UKThe US embassy in London is offering grants of up to half a million dollars for new “public educa...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "Prisoner release row proving to be Burnham's first big test as PM",
         "url": "https://www.bbc.co.uk/news/articles/cdewx3lpd2eo?at_medium=RSS&at_campaign=rss",
         "description": "The prison overcrowding crisis presents the new PM with a dilemma for which there are only unpalatable choices.",
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Private pensions are a publicly subsidised gift to the wealthy | Phillip Inman",
+        "url": "https://www.theguardian.com/business/2026/aug/08/private-pensions-publicly-subsidised-gift-to-the-wealthy",
+        "description": "John Healey should equalise the tax break on pension savings to stop inequalities from wideningPrivate pensions are a privilege for the lucky few and a curse for everyone else. Sold as a saviour fo...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Union calls for robust review of OBR over fears it holds back economic growth",
         "url": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
@@ -43,13 +50,6 @@
         "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
         "url": "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict",
         "description": "Estimates for previous two months were revised down sharply but unemployment rate held steady at 4.1%Business live – latest updatesUS employers unexpectedly lost 23,000 jobs in July and gains for t...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Trump orders new 15% tariff on key material for solar panels and microchips",
-        "url": "https://www.theguardian.com/us-news/2026/aug/07/trump-orders-tariff-solar-panels-microchips-manufacturing-ingredient",
-        "description": "Move to raise levy on goods made with polysilicon aims to protect domestic US supply chains from China, the major producerDonald Trump has ordered a new 15% tariff on imported products made of poly...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,13 +93,6 @@
     ],
     "immigration": [
       {
-        "title": "French officers halted small boats at sea 10 times since spring",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/07/france-stop-10-small-boat-crossing-channel-since-spring",
-        "description": "Disclosure challenges Conservative and Reform claims that police are refusing to interveneThe French authorities have halted small boats at sea in the Channel on 10 occasions since the spring, offi...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
         "title": "The night Belfast burned: how the Northern Ireland race riots unfolded",
         "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/aug/08/how-northern-ireland-race-riots-unfolded-belfast",
         "description": "A horrific knife attack on a street in June sparked another summer’s night of racial violence, stoked by loyalist groups. How did the unrest erupt – and why do many fear it will happen again?Shortl...",
@@ -110,6 +103,13 @@
         "title": "Thetford residents remain on edge after days of ‘mob rule’ over asylum plans",
         "url": "https://www.theguardian.com/uk-news/2026/aug/07/thetford-residents-remain-on-edge-after-days-of-mob-rule-over-asylum-plans",
         "description": "People voice frustration with officials’ failure to engage with community over placement of asylum seekers in areaA smashed window pane and some broken eggshells on a footpath were some of the tell...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "French officers halted small boats at sea 10 times since spring",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/07/france-stop-10-small-boat-crossing-channel-since-spring",
+        "description": "Disclosure challenges Conservative and Reform claims that police are refusing to interveneThe French authorities have halted small boats at sea in the Channel on 10 occasions since the spring, offi...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Hosepipe bans in force as drought declared - is your area affected?",
-        "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-        "description": "More than 20 million households have been placed under hosepipe bans due to higher demand and low rainfall.",
+        "title": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+        "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+        "description": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Child among three killed in Russian missile attacks near Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-        "description": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
         "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-        "description": "Republican Senator Bill Cassidy was the deciding vote after a lengthy stand-off.",
+        "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "The phone book that led us to Assad's spy chief in hiding",
-        "url": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
-        "description": "How we tracked down \"The Spider\" who was once one of the most-feared men in Syria.",
+        "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+        "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Messi's father Jorge dies aged 68 after illness",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c70gn3w5ek5o?at_medium=RSS&at_campaign=rss",
+        "description": "Lionel Messi's father and agent Jorge dies at the age of 68 following a long illness.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
