@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T01:37:34.073125+00:00",
+  "fetched_at": "2026-08-09T06:53:27.900185+00:00",
   "headlines": {
     "government": [
       {
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Plastics contamination an ‘overlooked’ concern in food waste schemes, experts say",
+        "url": "https://www.theguardian.com/environment/2026/aug/09/plastics-pollution-food-waste-landfill-recycling-research",
+        "description": "Researchers find microplastics can persist in compost, leaching into agricultural soilsPlastic contamination should be a central concern in efforts to deal with food waste, which campaigners call o...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "‘Super El Niño’ could bring wet winter and flooding to western US, climate scientists warn",
         "url": "https://www.theguardian.com/us-news/2026/aug/08/super-el-nino-winter-flooding",
         "description": "Weather system tied to warming sea surface expected to intensify in fall and winter, persisting until early spring 2027El Niño, a recurring climate phenomenon marked by above-average sea surface te...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Scratch of the day: local football season postponed due to ‘rock hard’ pitches",
-        "url": "https://www.theguardian.com/environment/2026/aug/08/scratch-of-the-day-local-football-season-postponed-due-to-rock-hard-pitches",
-        "description": "Drought and record heat have forced the Norfolk and Suffolk league to move kick-off to the end of August as the ground is deemed too dangerous to play onThis summer’s record drought has forced a fo...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Rare turtle to be sent back home in 5,000-mile 'incredibly emotional' trip",
         "url": "https://www.bbc.co.uk/news/articles/c62vd6j5llgo?at_medium=RSS&at_campaign=rss",
         "description": "A rare turtle is being flown home to the Caribbean Sea after being found washed up in Wales.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits",
+        "url": "https://www.theguardian.com/global-development/2026/aug/09/cockroach-protests-parents-of-indian-students-who-took-their-own-lives-reveal-pressure-of-leaked-exam-papers-and-resits",
+        "description": "The number of student suicides in the country has risen steeply in the past 10 years and many families blame education system mismanagement as a contributing factorWhen the Indian government announ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom",
         "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom",
@@ -156,13 +163,6 @@
         "title": "Cambridge academics reject university’s attempt to end row over Jason Arday",
         "url": "https://www.theguardian.com/uk-news/2026/aug/07/cambridge-academics-reject-universitys-attempt-to-end-row-over-jason-arday",
         "description": "Group calls for ‘thorough and transparent investigation’ of hiring of professor who resigned after his claims came under scrutinyThe University of Cambridge has announced a review into the way it v...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Primary schools to be told to identify children at risk of future unemployment",
-        "url": "https://www.theguardian.com/society/2026/aug/07/english-primary-schools-to-be-told-to-identify-children-at-risk-of-future-unemployment",
-        "description": "Exclusive: Neet crisis review to call for teachers to be asked to spot those at risk of leaving education jobless at 16What can Dublin teach us? Milburn goes on quest to learnPrimary schools in Eng...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
+        "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+        "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Hundreds arrested over French wildfires, but who is to blame?",
+        "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
+        "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
         "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
         "description": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
-        "url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
-        "description": "The vote cements Trump's former criminal defence lawyer as the nation's top law enforcement official despite a rare pushback from some Republicans.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US offers $1bn to Colombia on new right-wing president's first day of office",
-        "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-        "description": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
         "source": "BBC News",
         "category": "foreign_policy"
       }
