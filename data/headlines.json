@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-09T06:53:27.900185+00:00",
+  "fetched_at": "2026-08-09T12:45:34.344683+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Andy Burnham to tour Britain in effort to reconnect government with public",
+        "url": "https://www.theguardian.com/politics/2026/aug/09/andy-burham-tour-britain-reconnect-government-public-cost-of-living-high-street",
+        "description": "PM expected to announce policies to tackle cost of living and indicate intent to help improve country’s high streetsAndy Burnham is to undertake a national tour this coming week as he aims to impro...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Nicola Sturgeon ‘has not spoken to’ estranged husband, Peter Murrell, since he was jailed",
         "url": "https://www.theguardian.com/politics/2026/aug/08/nicola-sturgeon-estranged-peter-murrell-jailed-no-contact",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Sadiq Khan calls on Andy Burnham to commit to climate action as pressure grows over North Sea oil",
-        "url": "https://www.theguardian.com/environment/2026/aug/08/sadiq-khan-calls-on-andy-burnham-to-commit-to-climate-action-as-pressure-grows-over-north-sea-oil",
-        "description": "London mayor points to ‘terrifying scenes’ this summer amid speculation Burnham may back Jackdaw and Rosebank projectsSadiq Khan: This burning summer is the proof: the voices of climate denial aren...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Prisoner release row proving to be Burnham's first big test as PM",
-        "url": "https://www.bbc.co.uk/news/articles/cdewx3lpd2eo?at_medium=RSS&at_campaign=rss",
-        "description": "The prison overcrowding crisis presents the new PM with a dilemma for which there are only unpalatable choices.",
+        "title": "Andy Burnham to embark on cost of living tour through the UK",
+        "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
+        "description": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
         "source": "BBC News",
         "category": "government"
       }
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
+        "title": "Home Office ‘error’ leaves Italian man’s wife with no right to stay in UK",
+        "url": "https://www.theguardian.com/politics/2026/aug/09/home-office-error-leaves-italian-mans-wife-with-no-right-to-stay-in-uk",
+        "description": "Man is told he should not have been granted settled status so he can no longer sponsor Brazilian wife to remainA 33-year-old Italian engineer who has been in London since 2018 has been plunged into...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Where are the Ugandan boxers? Four are latest athletes to vanish after UK sports events",
+        "url": "https://www.theguardian.com/sport/2026/aug/09/where-are-ugandan-boxers-athletes-vanish-uk-sports-events",
+        "description": "Team manager has ‘no idea’ why they disappeared, after reports one of Commonwealth Games athletes said they intended to claim asylumYears of arduous preparation and training had come to fruition an...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "The night Belfast burned: how the Northern Ireland race riots unfolded",
         "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/aug/08/how-northern-ireland-race-riots-unfolded-belfast",
         "description": "A horrific knife attack on a street in June sparked another summer’s night of racial violence, stoked by loyalist groups. How did the unrest erupt – and why do many fear it will happen again?Shortl...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Thetford residents remain on edge after days of ‘mob rule’ over asylum plans",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/07/thetford-residents-remain-on-edge-after-days-of-mob-rule-over-asylum-plans",
-        "description": "People voice frustration with officials’ failure to engage with community over placement of asylum seekers in areaA smashed window pane and some broken eggshells on a footpath were some of the tell...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "French officers halted small boats at sea 10 times since spring",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/07/france-stop-10-small-boat-crossing-channel-since-spring",
-        "description": "Disclosure challenges Conservative and Reform claims that police are refusing to interveneThe French authorities have halted small boats at sea in the Channel on 10 occasions since the spring, offi...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Israel accused of weaponising archaeology at ancient West Bank sites",
-        "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-        "description": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+        "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+        "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+        "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Hundreds arrested over French wildfires, but who is to blame?",
-        "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
-        "description": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
+        "title": "Ancient Roman shipwreck discovered off Sicily coast",
+        "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+        "description": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
-        "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
-        "description": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+        "title": "Fifa criticises campaign to oust president Infantino",
+        "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
+        "description": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
