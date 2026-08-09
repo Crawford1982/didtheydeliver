@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-09T12:45:34.344683+00:00",
+  "fetched_at": "2026-08-09T18:37:22.748632+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Andy Burnham to tour Britain in effort to reconnect government with public",
-        "url": "https://www.theguardian.com/politics/2026/aug/09/andy-burham-tour-britain-reconnect-government-public-cost-of-living-high-street",
-        "description": "PM expected to announce policies to tackle cost of living and indicate intent to help improve country’s high streetsAndy Burnham is to undertake a national tour this coming week as he aims to impro...",
+        "title": "‘I was on my honeymoon!’: Hamish Falconer’s surprise call-up to Burnham’s cabinet",
+        "url": "https://www.theguardian.com/world/2026/aug/09/hamish-falconer-uk-minister-european-relations-eu",
+        "description": "New EU negotiator, who previously helped free Taliban hostages, thought it was safe to book holiday during recessWhen Hamish Falconer left his career as a Foreign Office diplomat for the hostile en...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Nicola Sturgeon ‘has not spoken to’ estranged husband, Peter Murrell, since he was jailed",
-        "url": "https://www.theguardian.com/politics/2026/aug/08/nicola-sturgeon-estranged-peter-murrell-jailed-no-contact",
-        "description": "Scotland’s former first minister says she will not visit Murrell in prison, where he is serving five-year sentence for embezzling SNP fundsNicola Surgeon has said she will not visit her estranged h...",
+        "title": "Labour seeking ‘deeper relationship’ with EU under Burnham, new minister says",
+        "url": "https://www.theguardian.com/politics/2026/aug/09/uk-eu-reset-talks-brexit-burnham-hamish-falconer",
+        "description": "Exclusive: Hamish Falconer wants ‘sense of renewed pace’ in post-Brexit talks while staying within Labour’s red linesThe UK will move faster and be more ambitious on achieving closer ties with Euro...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Arron Banks ‘hired private detective’ to look into journalist who investigated Reform UK",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/08/arron-banks-hired-private-detective-to-look-into-journalist-who-investigated-reform-uk",
-        "description": "Asked whether he targeted reporter who investigated party  finances, Brexit campaigner says: ‘When you live by the sword, you die by the sword’The prominent Reform UK member and Brexit campaigner A...",
+        "title": "Pilot pulls off Count Binface stunt for Clacton byelection",
+        "url": "https://www.theguardian.com/politics/2026/aug/09/pilot-pulls-off-nigel-farage-count-binface-stunt-for-clacton-byelection",
+        "description": "Plane spends 30 minutes off the Essex coast marking out shape of a bin in apparent tribute to Nigel Farage’s rivalA pilot has traced the shape of a bin with their flight path near Clacton before Co...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "The culture surrounding ‘ideal’ childbirth has to evolve | Letters",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/aug/09/the-culture-surrounding-ideal-childbirth-has-to-evolve",
+        "description": "Molly O’Brien responds to an article by Natalie Morris about her five-day labour, while an NHS doctor shares her personal experience of feeling ‘othered’It is not clear whether Natalie Morris’s lab...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Wasted medicine in England could fill 75 swimming pools a year, pharmacy group says",
         "url": "https://www.theguardian.com/business/2026/aug/08/wasted-medicine-in-england-could-fill-75-swimming-pools-a-year-pharmacy-group-says",
         "description": "Industry body calls for more regular reviews of repeat prescriptions to tackle ‘growing problem’The amount of wasted medicines thrown away in England in one year could fill 75 swimming pools, accor...",
@@ -73,13 +80,6 @@
         "title": "Millions in England face longer waits for mental health care as NHS providers plan cuts",
         "url": "https://www.theguardian.com/society/2026/aug/07/millions-in-england-face-longer-waits-for-mental-health-care-as-nhs-providers-plan-cuts",
         "description": "Exclusive: Seven in 10 survey respondents expect services to be reduced or shut, while more than half anticipate job lossesMillions of adults and children in England face being forced to wait longe...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "The Guardian view on mental health: the new secretary of state should make it a priority | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/06/the-guardian-view-on-mental-health-the-new-secretary-of-state-should-make-it-a-priority",
-        "description": "Parity for people with physical and psychological ailments has been promised for years. New neighbourhood clinics are a step in the right directionThe rise in children and young people with mental ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ in sector across England",
+        "url": "https://www.theguardian.com/education/2026/aug/09/parents-baby-killed-in-care-poor-practice-rife-nurseries-england",
+        "description": "Katie and John Meehan say responses to campaign they launched after death of daughter Genevieve must be ‘wake-up call’The parents of a nine-month-old girl who died after being placed in an unsafe s...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits",
         "url": "https://www.theguardian.com/global-development/2026/aug/09/cockroach-protests-parents-of-indian-students-who-took-their-own-lives-reveal-pressure-of-leaked-exam-papers-and-resits",
         "description": "The number of student suicides in the country has risen steeply in the past 10 years and many families blame education system mismanagement as a contributing factorWhen the Indian government announ...",
@@ -156,13 +163,6 @@
         "title": "‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom",
         "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom",
         "description": "Education is at a crossroads, argues the author and academic. Should we embrace new technology in the name of efficiency, or is it time to fight back?If you set out to design from scratch a tool to...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Cambridge academics reject university’s attempt to end row over Jason Arday",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/07/cambridge-academics-reject-universitys-attempt-to-end-row-over-jason-arday",
-        "description": "Group calls for ‘thorough and transparent investigation’ of hiring of professor who resigned after his claims came under scrutinyThe University of Cambridge has announced a review into the way it v...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -194,7 +194,7 @@
       {
         "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
         "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-        "description": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+        "description": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Fifa criticises campaign to oust president Infantino",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cj03drn965do?at_medium=RSS&at_campaign=rss",
-        "description": "Fifa strongly criticises what it calls a \"concerted and ongoing effort\" to \"undermine\" the organisation and its president Gianni Infantino.",
+        "title": "Perez Hilton faces long recovery after reports he self-harmed during livestream",
+        "url": "https://www.bbc.co.uk/news/articles/cg5lnqjz497o?at_medium=RSS&at_campaign=rss",
+        "description": "The US blogger is in a \"serious but stable\" condition in hospital, according to his family.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
