@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-08-10T01:40:43.738169+00:00",
+  "fetched_at": "2026-08-10T07:37:28.171235+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "British national shot dead in Kashmir by Pakistani security forces",
+        "url": "https://www.theguardian.com/world/2026/aug/10/british-national-shot-dead-in-kashmir-by-pakistani-security-forces",
+        "description": "Mohammad Akhtar, 50, from Peterborough killed during clashes between authorities and protestersA British national was shot dead in Pakistan-administered Kashmir during clashes between security forc...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Revisited: Andy Burnham apologises for Labour’s stance on Gaza – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/aug/10/revisited-andy-burnham-apologises-for-labours-stance-on-gaza-podcast",
+        "description": "In July, Andy Burnham told the Guardian’s political editor, Pippa Crerar, that Labour ‘didn’t get it right’ on Gaza. He apologised for the party’s slow response in calling for a ceasefire, but stop...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Cut £175 from energy bills for low-income homes, says thinktank",
         "url": "https://www.theguardian.com/money/2026/aug/10/cut-175-from-energy-bills-for-low-income-homes-says-thinktank",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Burnham vows crackdown on ‘rip-off’ business practices to ease cost of living",
-        "url": "https://www.theguardian.com/business/2026/aug/09/burnham-vows-crackdown-on-rip-off-business-practices-to-ease-cost-of-living",
-        "description": "First of PM’s ‘everyday fixes’ to be banning fake discounts and making it easier to cancel unwanted subscriptionsAndy Burnham: I’ll end the rip-offs that people hateAndy Burnham has promised a seri...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "‘I was on my honeymoon!’: Hamish Falconer’s surprise call-up to Burnham’s cabinet",
-        "url": "https://www.theguardian.com/world/2026/aug/09/hamish-falconer-uk-minister-european-relations-eu",
-        "description": "New EU negotiator, who previously helped free Taliban hostages, thought it was safe to book holiday during recessLabour seeking ‘deeper relationship’ with EU under Burnham, new minister saysWhen Ha...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Andy Burnham to embark on cost of living tour through the UK",
-        "url": "https://www.bbc.co.uk/news/articles/c0l5j8y388lo?at_medium=RSS&at_campaign=rss",
-        "description": "No 10 says the prime minister's plans will \"give people some room to breathe\", but opposition figures accuse him of \"hypocrisy\".",
+        "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+        "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Is football AI-proof? Why tech investors wanted a slice of the World Cup",
-        "url": "https://www.bbc.co.uk/news/articles/cd7l4e3v238o?at_medium=RSS&at_campaign=rss",
-        "description": "What was the thinking of the investors backing the now-canned plan, and are such proposals in the future inevitable?",
+        "title": "Burnham brings forward ban on 'subscription traps' to ease cost of living",
+        "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "‘Babies will be born in laybys’: maternity cuts leave women with stark choices in Devon",
+        "url": "https://www.theguardian.com/society/2026/aug/10/maternity-cuts-devon-women-stark-choices",
+        "description": "Concerns about feeling pressure to have caesarean section, or paying for hotel in Exeter after hospital in Barnstaple suspends birthing servicesFor mother-to-be Harriet Knight, the suspension of ma...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "The culture surrounding ‘ideal’ childbirth has to evolve | Letters",
         "url": "https://www.theguardian.com/lifeandstyle/2026/aug/09/the-culture-surrounding-ideal-childbirth-has-to-evolve",
@@ -73,13 +80,6 @@
         "title": "Wasted medicine in England could fill 75 swimming pools a year, pharmacy group says",
         "url": "https://www.theguardian.com/business/2026/aug/08/wasted-medicine-in-england-could-fill-75-swimming-pools-a-year-pharmacy-group-says",
         "description": "Industry body calls for more regular reviews of repeat prescriptions to tackle ‘growing problem’The amount of wasted medicines thrown away in England in one year could fill 75 swimming pools, accor...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Millions in England face longer waits for mental health care as NHS providers plan cuts",
-        "url": "https://www.theguardian.com/society/2026/aug/07/millions-in-england-face-longer-waits-for-mental-health-care-as-nhs-providers-plan-cuts",
-        "description": "Exclusive: Seven in 10 survey respondents expect services to be reduced or shut, while more than half anticipate job lossesMillions of adults and children in England face being forced to wait longe...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "UK temperatures could hit 36C as fifth heatwave of summer looms",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/10/uk-temperatures-heatwave-summer-met-office-warning",
+        "description": "Met Office considers amber or red warning as forecasters say Thursday is likely to be hottest day of the weekTemperatures could reach 36C (97F) or higher this week, forecaster have said, with possi...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
         "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
         "description": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ effortsCanada’s federal government has announced it will provide urgent assistance to Bri...",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "‘Super El Niño’ could bring wet winter and flooding to western US, climate scientists warn",
-        "url": "https://www.theguardian.com/us-news/2026/aug/08/super-el-nino-winter-flooding",
-        "description": "Weather system tied to warming sea surface expected to intensify in fall and winter, persisting until early spring 2027El Niño, a recurring climate phenomenon marked by above-average sea surface te...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'Not afraid to stay': The Canadians taking fighting wildfires into their own hands",
-        "url": "https://www.bbc.co.uk/news/articles/c20d89jxpqno?at_medium=RSS&at_campaign=rss",
-        "description": "With wildfires now widespread and frequent, some rural residents in Canada are learning how to fight the flames themselves and protect their own homes.",
+        "title": "China evacuates one million from homes as massive storm arrives",
+        "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+        "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Students face ‘ticking timebomb’ of debt and higher taxes",
+        "url": "https://www.theguardian.com/education/2026/aug/10/government-piling-debt-on-to-future-graduates-in-england-analysis-finds",
+        "description": "Exclusive: Analysis finds cost of higher education ‘falls overwhelmingly on the individual’The government is piling mountains of debt and higher tax rates on young people heading to university, acc...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Parents of baby girl killed at nursery fear unsafe sleeping ‘rife’ in sector across England",
         "url": "https://www.theguardian.com/education/2026/aug/09/parents-baby-killed-in-care-poor-practice-rife-nurseries-england",
@@ -156,13 +163,6 @@
         "title": "Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits",
         "url": "https://www.theguardian.com/global-development/2026/aug/09/cockroach-protests-parents-of-indian-students-who-took-their-own-lives-reveal-pressure-of-leaked-exam-papers-and-resits",
         "description": "The number of student suicides in the country has risen steeply in the past 10 years and many families blame education system mismanagement as a contributing factorWhen the Indian government announ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘I hate what AI is doing to the minds and happiness of the young’: Katherine Rundell on the view from the classroom",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/08/i-hate-what-ai-is-doing-to-the-minds-and-happiness-of-the-young-katherine-rundell-on-the-view-from-the-classroom",
-        "description": "Education is at a crossroads, argues the author and academic. Should we embrace new technology in the name of efficiency, or is it time to fight back?If you set out to design from scratch a tool to...",
         "source": "The Guardian",
         "category": "education"
       }
