@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-10T13:03:20.694787+00:00",
+  "fetched_at": "2026-08-10T18:54:43.846173+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Farage welcomes revived police investigation into alleged arson attack at his home after Widdecombe killing – UK politics live",
+        "title": "Reform donor Arron Banks urged to set out extent of surveillance of journalists",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/10/arron-banks-surveillance-journalists-media",
+        "description": "Industry body says use of private investigators against reporters is ‘attack on our democracy’ after Banks apparently admitted doing soThe businessman and Reform UK donor Arron Banks is facing call...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Amnesty International says Farage putting ‘hate and inhumanity’ over leadership with El Salvador prison plan – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
-        "description": "Counter-terrorism police looking into the death of Ann Widdecombe have reopened an inquiry into an incident last yearFarage and Yusuf are now taking questions.Q: [From Jack Fenwick from the BBC] Ar...",
+        "description": "A spokesperson for the human rights group likened the proposal to ‘financial brutality with British taxpayers’ money’Farage and Yusuf are now taking questions.Q: [From Jack Fenwick from the BBC] Ar...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Thames Water faces anger over ‘indefensible’ £1m payout to finance chief",
+        "title": "Thames Water’s £1m payout to finance chief is ‘unacceptable’, says government department",
         "url": "https://www.theguardian.com/business/2026/aug/10/thames-water-fee-finance-chief-andy-burnham",
-        "description": "Campaign group says firm is ‘taking the mickey’ by paying fee, and Andy Burnham should nationalise itBusiness live – latest updatesThames Water has paid its finance chief a £1m signing fee despite ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Treasury ‘materially contributed’ to suicide of personal assistant, coroner finds",
-        "url": "https://www.theguardian.com/politics/2026/aug/10/treasury-materially-contributed-to-suicide-of-personal-assistant-chloe-moffat-coroner-finds",
-        "description": "Chloe Moffat, 26, killed herself after disciplinary proceedings which coroner found be to be flawedThe Treasury “materially contributed” to the death of Chloe Moffat, a 26-year-old personal assista...",
+        "description": "Utility firm’s payment criticised by Defra and campaign groups, with some urging Andy Burnham to nationalise itNils Pratley: Water companies circumventing bonus rules? What did ministers expect?Tha...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "How a former GB Olympian curbed his porn problem - and the signs and steps to recovery",
-        "url": "https://www.bbc.co.uk/news/articles/c89n8j5e32do?at_medium=RSS&at_campaign=rss",
-        "description": "Experts share the signs to look out for if you are worried about your porn use, and how to seek help.",
+        "title": "New weight loss pill approved for use in UK",
+        "url": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
+        "description": "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -95,14 +95,14 @@
       {
         "title": "Record 230 people cross Channel to UK as smugglers turn to ‘mega-dinghies’",
         "url": "https://www.theguardian.com/uk-news/2026/aug/10/record-cross-channel-uk-people-smugglers-mega-dinghies-france",
-        "description": "Crossing in larger vessel highlights changing tactics despite increased enforcement on French coastUK politics live – latest updatesEurope live – latest updatesA dinghy carrying a record 230 people...",
+        "description": "Crossing in larger vessel highlights changing tactics despite increased enforcement on French coastA dinghy carrying a record 230 people has arrived in the UK after crossing the Channel in the earl...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Farage welcomes revived police investigation into alleged arson attack at his home after Widdecombe killing – UK politics live",
+        "title": "Amnesty International says Farage putting ‘hate and inhumanity’ over leadership with El Salvador prison plan – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
-        "description": "Counter-terrorism police looking into the death of Ann Widdecombe have reopened an inquiry into an incident last yearFarage and Yusuf are now taking questions.Q: [From Jack Fenwick from the BBC] Ar...",
+        "description": "A spokesperson for the human rights group likened the proposal to ‘financial brutality with British taxpayers’ money’Farage and Yusuf are now taking questions.Q: [From Jack Fenwick from the BBC] Ar...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,30 +116,30 @@
     ],
     "climate": [
       {
-        "title": "Farage welcomes revived police investigation into alleged arson attack at his home after Widdecombe killing – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
-        "description": "Counter-terrorism police looking into the death of Ann Widdecombe have reopened an inquiry into an incident last yearFarage and Yusuf are now taking questions.Q: [From Jack Fenwick from the BBC] Ar...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Amber heat-health alerts issued for most of England as temperatures could reach 36C or higher this week – latest updates",
+        "title": "Amber heat-health alerts issued for most of England as temperatures could reach 36C or higher this week – as it happened",
         "url": "https://www.theguardian.com/uk-news/live/2026/aug/10/england-drought-declared-another-summer-heatwave-hot-weather-latest-news-updates",
         "description": "The upgraded alerts will be in place from 9am on Tuesday until 9pm on FridayAn 18-year-old died after getting into difficulty in the sea at Camber Sands beach, East Sussex, yesterday, bringing the ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
-        "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
-        "description": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ effortsCanada’s federal government has announced it will provide urgent assistance to Bri...",
+        "title": "Three-quarters of England in drought as summer’s fifth heatwave looms",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/10/uk-temperatures-heatwave-summer-met-office-warning",
+        "description": "Four more regions given drought status, putting 27 million people under restrictions on water useAlmost three-quarters of England is now in drought, as much of Europe braces for its fifth climate c...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "World's oceans hit record-high July temperatures",
-        "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-        "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+        "title": "Amnesty International says Farage putting ‘hate and inhumanity’ over leadership with El Salvador prison plan – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
+        "description": "A spokesperson for the human rights group likened the proposal to ‘financial brutality with British taxpayers’ money’Farage and Yusuf are now taking questions.Q: [From Jack Fenwick from the BBC] Ar...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "'That fire came so fast': Wildfire rages in British Columbia",
+        "url": "https://www.bbc.co.uk/news/videos/cx2d4gg57eqo?at_medium=RSS&at_campaign=rss",
+        "description": "Officials in British Columbia are still trying to determine how many homes were lost to the fire, which remains out of control as of Monday.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -194,21 +194,21 @@
       {
         "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
         "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-        "description": "Russian officials say another 75 people were injured by the attack in the Tatarstan region, one of the deadliest Ukrainian drone attacks on Russia since Moscow's full-scale invasion.",
+        "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Evidence that South African special forces murdered top detective shared with BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cly8djwgem0o?at_medium=RSS&at_campaign=rss",
-        "description": "Frans Mathipa was shot while driving - we got access to the prosecution case against eight accused men.",
+        "title": "World's oceans hit record-high July temperatures",
+        "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
+        "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "China evacuates one million from homes as massive storm arrives",
-        "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-        "description": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+        "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
