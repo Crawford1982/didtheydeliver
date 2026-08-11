@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-11T01:37:37.511118+00:00",
+  "fetched_at": "2026-08-11T07:03:55.345063+00:00",
   "headlines": {
     "government": [
       {
@@ -24,14 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Councils to get more powers to stop vape and betting shops, PM announces",
-        "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
-        "description": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
+        "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
+        "url": "https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss",
+        "description": "Andy Burnham is confident a solution can be found to exclude two of PC Harper's killers from an early release scheme, the BBC understands.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
+        "url": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
+        "description": "Barclays says survey shows people feel more secure in jobs and have more leeway to spend on non-essentialsBusiness live – latest updatesConsumer confidence hit its highest level in almost two years...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Private pensions are a publicly subsidised gift to the wealthy | Phillip Inman",
         "url": "https://www.theguardian.com/business/2026/aug/08/private-pensions-publicly-subsidised-gift-to-the-wealthy",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "US unexpectedly lost 23,000 jobs in July as slump in growth continues",
-        "url": "https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict",
-        "description": "Estimates for previous two months were revised down sharply but unemployment rate held steady at 4.1%Business live – latest updatesUS employers unexpectedly lost 23,000 jobs in July and gains for t...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
-        "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
-        "description": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
+        "title": "Trump Media reports $238m loss as crypto falls",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
+        "description": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Disabled in a heatwave: 'We're talking about survival'",
-        "url": "https://www.bbc.co.uk/news/articles/cd6923j2wnpo?at_medium=RSS&at_campaign=rss",
-        "description": "Disabled campaigners say the official advice for staying safe in a heatwave can put them in more danger.",
+        "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
+        "url": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&at_campaign=rss",
+        "description": "The Hollywood actor investigates claims cancer-causing chemicals were dumped across Wales.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,46 +169,46 @@
     ],
     "housing": [
       {
+        "title": "They cannot even flush their toilets: life in east London blocks where taps often run dry",
+        "url": "https://www.theguardian.com/environment/2026/aug/11/east-london-blocks-residents-without-water-supply-tower-hamlets",
+        "description": "Devons Road estate residents describe months-long ordeal of not being able to wash, clean or cook for much of the dayHundreds in London flats left without regular running water since last yearChris...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Hundreds in London flats left without regular running water since last year",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/11/london-flats-left-without-regular-running-water-tower-hamlets",
+        "description": "Supply in nine blocks in Tower Hamlets affected with some residents suspecting nearby building developmentsThey cannot even flush their toilets: life in east London blocks where taps often run dryH...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Tory plan to ban foreign nationals from social housing condemned as ‘divisive’",
         "url": "https://www.theguardian.com/society/2026/aug/07/tory-plan-ban-foreign-nationals-social-housing-condemned-divisive",
         "description": "Housing charity says move would drive up homelessness, while Labour dismisses proposal as ‘unserious’Plans to ban foreign nationals from social housing under a Conservative government have been con...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Positive Persimmon looks to tap into ‘Burnham bounce’ on housebuilding",
-        "url": "https://www.theguardian.com/business/2026/aug/06/persimmon-housebuilding-burnham-new-homes",
-        "description": "Firm lifts outlook, saying it is well placed to benefit from PM’s focus on new homes despite cost pressures from Iran warThe UK housebuilder Persimmon has lifted its outlook for the full year, sayi...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Approval of east London datacentre labelled ‘slap in the face’ for local democracy",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/04/brick-lane-redevelopment-approval-datacentre-london",
-        "description": "Campaigners decry Angela Rayner’s backing for Brick Lane project that has only 11 affordable homesA £500m redevelopment of the Truman Brewery estate in Brick Lane, east London, has been approved, c...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "At least 13 killed in Ukrainian drone strike deep into Russia",
-        "url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
-        "description": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
+        "title": "At least 132 killed in Colombia's largest  earthquake in years",
+        "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-        "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+        "title": "Canada flight cancelled after child refuses to wear seat belt",
+        "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
+        "description": "The incident has sparked a debate over child safety and discipline on commercial planes.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
-        "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-        "description": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
+        "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+        "url": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+        "description": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
