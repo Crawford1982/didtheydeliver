@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-10T18:54:43.846173+00:00",
+  "fetched_at": "2026-08-11T01:37:37.511118+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reform donor Arron Banks urged to set out extent of surveillance of journalists",
+        "title": "Reform backer Arron Banks urged to set out extent of surveillance of journalists",
         "url": "https://www.theguardian.com/uk-news/2026/aug/10/arron-banks-surveillance-journalists-media",
-        "description": "Industry body says use of private investigators against reporters is ‘attack on our democracy’ after Banks apparently admitted doing soThe businessman and Reform UK donor Arron Banks is facing call...",
+        "description": "Industry body says use of private investigators against reporters is ‘attack on our democracy’ after Banks apparently admitted doing soThe businessman and Reform UK backer Arron Banks is facing cal...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Ban on 'subscription traps' brought forward by three months",
-        "url": "https://www.bbc.co.uk/news/articles/cly5x9qlnvjo?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister is embarking on a UK tour with a series of announcements aimed at easing living costs.",
+        "title": "Councils to get more powers to stop vape and betting shops, PM announces",
+        "url": "https://www.bbc.co.uk/news/articles/cvg90el9236o?at_medium=RSS&at_campaign=rss",
+        "description": "Prime Minister Andy Burnham said town centres had been \"hollowed out\" by decades of decline.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Thames Water gave finance boss a £1m signing-on fee",
-        "url": "https://www.bbc.co.uk/news/articles/c9d841yexe0o?at_medium=RSS&at_campaign=rss",
-        "description": "The seven-figure payment was given to Steve Buck as part of package to persuade him to join the troubled utility company.",
+        "title": "Nvidia gets $500bn from major investors to develop AI infrastructure",
+        "url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss",
+        "description": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "New weight loss pill approved for use in UK",
-        "url": "https://www.bbc.co.uk/news/articles/c2359vy8ze9o?at_medium=RSS&at_campaign=rss",
-        "description": "Foundayo is made by Eli Lilly, the drug firm behind the Mounjaro jab.",
+        "title": "England set to eliminate hepatitis C",
+        "url": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&at_campaign=rss",
+        "description": "England is on track to become one of the first countries in the world to eliminate hepatitis C, a dangerous virus that attacks the liver, figures show.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "‘National priority’ to equip UK firefighters amid growing wildfire threat",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/10/firefighters-fbu-wildfires-drought-heatwave-weather",
+        "description": "Exclusive: FBU calls for more funding as ‘unprecedented summer’ puts rising demands on already stretched crewsFirefighters in the UK are under increased pressure as a result of an “unprecedented su...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "July was hottest month ever recorded in US as heatwaves scorched country",
+        "url": "https://www.theguardian.com/us-news/2026/aug/10/july-hottest-month-ever-recorded-heatwaves",
+        "description": "Scientists have made clear that the elevated heat in the US was being amplified by the human-caused climate crisisJuly was the hottest month ever recorded in the US, with repeated, scorching heatwa...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Amber heat-health alerts issued for most of England as temperatures could reach 36C or higher this week – as it happened",
         "url": "https://www.theguardian.com/uk-news/live/2026/aug/10/england-drought-declared-another-summer-heatwave-hot-weather-latest-news-updates",
         "description": "The upgraded alerts will be in place from 9am on Tuesday until 9pm on FridayAn 18-year-old died after getting into difficulty in the sea at Camber Sands beach, East Sussex, yesterday, bringing the ...",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Three-quarters of England in drought as summer’s fifth heatwave looms",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/10/uk-temperatures-heatwave-summer-met-office-warning",
-        "description": "Four more regions given drought status, putting 27 million people under restrictions on water useAlmost three-quarters of England is now in drought, as much of Europe braces for its fifth climate c...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Amnesty International says Farage putting ‘hate and inhumanity’ over leadership with El Salvador prison plan – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
-        "description": "A spokesperson for the human rights group likened the proposal to ‘financial brutality with British taxpayers’ money’Farage and Yusuf are now taking questions.Q: [From Jack Fenwick from the BBC] Ar...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'That fire came so fast': Wildfire rages in British Columbia",
-        "url": "https://www.bbc.co.uk/news/videos/cx2d4gg57eqo?at_medium=RSS&at_campaign=rss",
-        "description": "Officials in British Columbia are still trying to determine how many homes were lost to the fire, which remains out of control as of Monday.",
+        "title": "Disabled in a heatwave: 'We're talking about survival'",
+        "url": "https://www.bbc.co.uk/news/articles/cd6923j2wnpo?at_medium=RSS&at_campaign=rss",
+        "description": "Disabled campaigners say the official advice for staying safe in a heatwave can put them in more danger.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "World's oceans hit record-high July temperatures",
-        "url": "https://www.bbc.co.uk/news/articles/cpvw8vmmgrwo?at_medium=RSS&at_campaign=rss",
-        "description": "Global oceans recorded their hottest July on record, partly fuelled by developing El Niño conditions, as wildfires continue to ravage western Europe.",
+        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+        "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-        "description": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+        "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+        "url": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+        "description": "More than 12,000 people have been forced to evacuate and some homes have been lost after a wildfire tore through Canada's picturesque Okanagan region.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
