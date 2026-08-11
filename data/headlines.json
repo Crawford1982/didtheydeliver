@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-11T12:59:55.713541+00:00",
+  "fetched_at": "2026-08-11T18:59:09.140967+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Andy Burnham says he would preferably not want a ‘single prisoner’ released early - UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/11/andy-burnham-labour-prisoner-release-scheme-councils-conservatives-kemi-badenoch-reform-nigel-farage-uk-politics-live-news",
-        "description": "The prime minister says the prison early release scheme crisis shows he’s someone who had ‘never taken no for an answer’In his pooled TV interview, Andy Burnham repeated the point he made in his Fa...",
+        "title": "Burnham’s prison plans could raise risk of mistaken releases, union warns",
+        "url": "https://www.theguardian.com/society/2026/aug/11/probation-staff-strike-vote-burnham-early-release",
+        "description": "Concerns raised over proposed changes to early release scheme as probation staff vote to strike over workloadsAndy Burnham’s plan to stop the early release of PC Andrew Harper’s killers and other s...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham ‘increasingly confident’ PC Harper’s killers will not get early release",
-        "url": "https://www.theguardian.com/politics/2026/aug/11/andy-burnham-justice-secretary-early-release-scheme-pc-andrew-harper-killers",
-        "description": "Prime minister says he has asked justice secretary to push through measures to increase the number of prison placesAndy Burnham has said he is increasingly confident he can adapt the early release ...",
+        "title": "Richard Tice accused of ‘nasty tactics’ over legal threat to the Guardian",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/11/richard-tice-accused-of-nasty-tactics-over-legal-threat-to-the-guardian",
+        "description": "Reform deputy leader condemned for seeking disclosure of documents that could reveal reporter’s sourcesReform’s deputy leader Richard Tice has been accused of using “nasty tactics” in an attempt to...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "What could Andy Burnham do to block early release of PC Andrew Harper’s killers?",
-        "url": "https://www.theguardian.com/law/2026/aug/10/what-could-andy-burnham-do-to-block-early-release-of-pc-andrew-harpers-killers",
-        "description": "After widespread outcry, PM is confident he can adapt scheme to exclude Harper’s killers but his options are limitedUK politics live – latest updatesPM urged not to change scheme to stop PC Andrew ...",
+        "title": "How viable are plans to free up prison space in England and Wales?",
+        "url": "https://www.theguardian.com/society/2026/aug/11/how-viable-are-burnhams-plans-to-free-up-prison-space",
+        "description": "The PM is proposing three ways of increasing jail capacity – but none offer a quick or straightforward solutionAndy Burnham said on Monday he was “increasingly confident” that PC Andrew Harper’s ki...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -35,7 +35,7 @@
       {
         "title": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
         "url": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
-        "description": "Barclays says survey shows people feel more secure in jobs and have more leeway to spend on non-essentialsBusiness live – latest updatesConsumer confidence hit its highest level in almost two years...",
+        "description": "Barclays says survey shows people feel more secure in jobs and have more leeway to spend on non-essentialsConsumer confidence hit its highest level in almost two years in July, according to researc...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "As heatwaves hit Britain, spare a thought for farm animals | Letters",
+        "url": "https://www.theguardian.com/environment/2026/aug/11/as-heatwaves-hit-britain-spare-a-thought-for-farm-animals",
+        "description": "Claire Bass says animal welfare is a blind spot for the government. Plus, Chris Phillipson on the libraries operating as ‘cool spaces’, Mick Beeby on lido restoration, and Dr Julian McDonough on NH...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Doctors at remote Devon hospital get ‘crash course’ after maternity unit shut",
         "url": "https://www.theguardian.com/uk-news/2026/aug/11/north-devon-district-hospital-crash-course-maternity-unit",
         "description": "Staff at North Devon district hospital given training in difficult births in case mothers-to-be cannot get to ExeterDoctors at one of England’s remotest hospitals have been given a “crash course” i...",
@@ -73,13 +80,6 @@
         "title": "‘Babies will be born in laybys’: maternity cuts leave women with stark choices in Devon",
         "url": "https://www.theguardian.com/society/2026/aug/10/maternity-cuts-devon-women-stark-choices",
         "description": "Concerns about feeling pressure to have caesarean section, or paying for hotel in Exeter after hospital in Barnstaple suspends birthing servicesFor mother-to-be Harriet Knight, the suspension of ma...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "The culture surrounding ‘ideal’ childbirth has to evolve | Letters",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/aug/09/the-culture-surrounding-ideal-childbirth-has-to-evolve",
-        "description": "Molly O’Brien responds to an article by Natalie Morris about her five-day labour, while an NHS doctor shares her personal experience of feeling ‘othered’It is not clear whether Natalie Morris’s lab...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,16 +116,16 @@
     ],
     "climate": [
       {
-        "title": "‘Extreme heat’ warning issued for parts of England on Thursday as temperatures could reach 38C – latest news",
+        "title": "Summer 2026 on course to be UK’s hottest on record, says Met Office – as it happened",
         "url": "https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news",
-        "description": "Met Office says this warning will likely cause ‘adverse’ health effects with travel and power generation also possibly affectedThe Guardian’s environment editor, Fiona Harvey, has written a useful ...",
+        "description": "Prediction comes amid warning of ‘extreme heat’ this week with temperatures of 38C possibleThe Guardian’s environment editor, Fiona Harvey, has written a useful explainer about the UK public servic...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Reader Q&A: ask our reporters anything about fossil fuel profits and the climate crisis",
+        "title": "‘Subsidies for fossil fuels ... are pouring fuel on the fire’: your questions on fossil fuel profits and the climate crisis answered",
         "url": "https://www.theguardian.com/environment/live/2026/aug/11/reader-qa-ask-our-reporters-anything-about-fossil-fuel-profits-and-the-climate-crisis",
-        "description": "Last week reporters Jillian Ambrose and Damian Carrington published a piece which revealed that biggest oil firms made $93bn in profits in three months amid the war in Iran and the climate crisis. ...",
+        "description": "Reporters Jillian Ambrose and Damian Carrington discussed their story on oil firms’ profits amid the war in Iran and the climate crisis and answered your related questionsPCMcGarry asks: Given the ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Eclipse chasers scramble for glasses as stocks run low",
-        "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
-        "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
+        "title": "Solar eclipse glasses 'sold out everywhere' as people look for alternatives",
+        "url": "https://www.bbc.co.uk/news/articles/c2lqwyxj024o?at_medium=RSS&at_campaign=rss",
+        "description": "Eclipse glasses can offer protection from harmful rays of sunlight but most high street stores have sold out.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "University of Cambridge whistleblower who reported alleged bullying wins employment tribunal",
+        "url": "https://www.theguardian.com/education/2026/aug/11/university-cambridge-whistleblower-wyn-evans-wins-employment-tribunal",
+        "description": "Prof Wyn Evans, who raised concerns over treatment of female staff at Institute of Astronomy, was subject to ‘baseless’ investigation, judge rulesA University of Cambridge whistleblower who alleged...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Students face ‘ticking timebomb’ of debt and higher taxes",
         "url": "https://www.theguardian.com/education/2026/aug/10/government-piling-debt-on-to-future-graduates-in-england-analysis-finds",
@@ -158,20 +165,13 @@
         "description": "Katie and John Meehan say responses to campaign they launched after death of daughter Genevieve must be ‘wake-up call’The parents of a nine-month-old girl who died after being placed in an unsafe s...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Cockroach protests: parents of Indian students who took their own lives reveal pressure of leaked exam papers and resits",
-        "url": "https://www.theguardian.com/global-development/2026/aug/09/cockroach-protests-parents-of-indian-students-who-took-their-own-lives-reveal-pressure-of-leaked-exam-papers-and-resits",
-        "description": "The number of student suicides in the country has risen steeply in the past 10 years and many families blame education system mismanagement as a contributing factorWhen the Indian government announ...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
       {
         "title": "Early prisoner releases mean pledge to cut rough sleeping ‘may fail’",
         "url": "https://www.theguardian.com/society/2026/aug/11/andy-burnham-rough-sleeping-housing-released-prisoners",
-        "description": "Charity says government must focus on securing housing for ex-prisoners if Burnham is to meet rough-sleeping promise• UK politics live – latest updatesAndy Burnham’s pledge to end rough sleeping in...",
+        "description": "Charity says government must focus on securing housing for ex-prisoners if Burnham is to meet rough-sleeping promiseAndy Burnham’s pledge to end rough sleeping in England is under threat from a fai...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -201,7 +201,7 @@
       {
         "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
         "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+        "description": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
