@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-08-11T07:03:55.345063+00:00",
+  "fetched_at": "2026-08-11T12:59:55.713541+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reform backer Arron Banks urged to set out extent of surveillance of journalists",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/10/arron-banks-surveillance-journalists-media",
-        "description": "Industry body says use of private investigators against reporters is ‘attack on our democracy’ after Banks apparently admitted doing soThe businessman and Reform UK backer Arron Banks is facing cal...",
+        "title": "Andy Burnham says he would preferably not want a ‘single prisoner’ released early - UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/11/andy-burnham-labour-prisoner-release-scheme-councils-conservatives-kemi-badenoch-reform-nigel-farage-uk-politics-live-news",
+        "description": "The prime minister says the prison early release scheme crisis shows he’s someone who had ‘never taken no for an answer’In his pooled TV interview, Andy Burnham repeated the point he made in his Fa...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Amnesty International says Farage putting ‘hate and inhumanity’ over leadership with El Salvador prison plan – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
-        "description": "A spokesperson for the human rights group likened the proposal to ‘financial brutality with British taxpayers’ money’Farage and Yusuf are now taking questions.Q: [From Jack Fenwick from the BBC] Ar...",
+        "title": "Burnham ‘increasingly confident’ PC Harper’s killers will not get early release",
+        "url": "https://www.theguardian.com/politics/2026/aug/11/andy-burnham-justice-secretary-early-release-scheme-pc-andrew-harper-killers",
+        "description": "Prime minister says he has asked justice secretary to push through measures to increase the number of prison placesAndy Burnham has said he is increasingly confident he can adapt the early release ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Thames Water’s £1m payout to finance chief is ‘unacceptable’, says government department",
-        "url": "https://www.theguardian.com/business/2026/aug/10/thames-water-fee-finance-chief-andy-burnham",
-        "description": "Utility firm’s payment criticised by Defra and campaign groups, with some urging Andy Burnham to nationalise itNils Pratley: Water companies circumventing bonus rules? What did ministers expect?Tha...",
+        "title": "What could Andy Burnham do to block early release of PC Andrew Harper’s killers?",
+        "url": "https://www.theguardian.com/law/2026/aug/10/what-could-andy-burnham-do-to-block-early-release-of-pc-andrew-harpers-killers",
+        "description": "After widespread outcry, PM is confident he can adapt scheme to exclude Harper’s killers but his options are limitedUK politics live – latest updatesPM urged not to change scheme to stop PC Andrew ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "PM asks justice secretary to find way to keep PC Harper's killers in jail",
-        "url": "https://www.bbc.co.uk/news/articles/crrv1zlgd9ko?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham is confident a solution can be found to exclude two of PC Harper's killers from an early release scheme, the BBC understands.",
+        "title": "Burnham 'confident' early release of PC Harper's killers can be halted",
+        "url": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss",
+        "description": "The PM says the justice secretary will present a plan in September to prevent more early releases.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Trump Media reports $238m loss as crypto falls",
-        "url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss",
-        "description": "The firm says it will refocus on social media, which includes a plan to sell faster access to Trump's posts.",
+        "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
+        "url": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
+        "description": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Doctors at remote Devon hospital get ‘crash course’ after maternity unit shut",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/11/north-devon-district-hospital-crash-course-maternity-unit",
+        "description": "Staff at North Devon district hospital given training in difficult births in case mothers-to-be cannot get to ExeterDoctors at one of England’s remotest hospitals have been given a “crash course” i...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "‘Babies will be born in laybys’: maternity cuts leave women with stark choices in Devon",
         "url": "https://www.theguardian.com/society/2026/aug/10/maternity-cuts-devon-women-stark-choices",
@@ -77,14 +84,7 @@
         "category": "nhs"
       },
       {
-        "title": "Wasted medicine in England could fill 75 swimming pools a year, pharmacy group says",
-        "url": "https://www.theguardian.com/business/2026/aug/08/wasted-medicine-in-england-could-fill-75-swimming-pools-a-year-pharmacy-group-says",
-        "description": "Industry body calls for more regular reviews of repeat prescriptions to tackle ‘growing problem’The amount of wasted medicines thrown away in England in one year could fill 75 swimming pools, accor...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "England set to eliminate hepatitis C",
+        "title": "England set to be one of the first countries to eliminate hepatitis C",
         "url": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&at_campaign=rss",
         "description": "England is on track to become one of the first countries in the world to eliminate hepatitis C, a dangerous virus that attacks the liver, figures show.",
         "source": "BBC News",
@@ -93,16 +93,16 @@
     ],
     "immigration": [
       {
-        "title": "Record 230 people cross Channel to UK as smugglers turn to ‘mega-dinghies’",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/10/record-cross-channel-uk-people-smugglers-mega-dinghies-france",
-        "description": "Crossing in larger vessel highlights changing tactics despite increased enforcement on French coastA dinghy carrying a record 230 people has arrived in the UK after crossing the Channel in the earl...",
+        "title": "Amnesty International says Farage putting ‘hate and inhumanity’ over leadership with El Salvador prison plan – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
+        "description": "A spokesperson for the human rights group likened the proposal to ‘financial brutality with British taxpayers’ money’Farage and Yusuf are now taking questions.Q: [From Jack Fenwick from the BBC] Ar...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Amnesty International says Farage putting ‘hate and inhumanity’ over leadership with El Salvador prison plan – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
-        "description": "A spokesperson for the human rights group likened the proposal to ‘financial brutality with British taxpayers’ money’Farage and Yusuf are now taking questions.Q: [From Jack Fenwick from the BBC] Ar...",
+        "title": "Record 230 people cross Channel to UK as smugglers turn to ‘mega-dinghies’",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/10/record-cross-channel-uk-people-smugglers-mega-dinghies-france",
+        "description": "Crossing in larger vessel highlights changing tactics despite increased enforcement on French coastA dinghy carrying a record 230 people has arrived in the UK after crossing the Channel in the earl...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,30 +116,30 @@
     ],
     "climate": [
       {
-        "title": "‘National priority’ to equip UK firefighters amid growing wildfire threat",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/10/firefighters-fbu-wildfires-drought-heatwave-weather",
-        "description": "Exclusive: FBU calls for more funding as ‘unprecedented summer’ puts rising demands on already stretched crewsFirefighters in the UK are under increased pressure as a result of an “unprecedented su...",
+        "title": "‘Extreme heat’ warning issued for parts of England on Thursday as temperatures could reach 38C – latest news",
+        "url": "https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news",
+        "description": "Met Office says this warning will likely cause ‘adverse’ health effects with travel and power generation also possibly affectedThe Guardian’s environment editor, Fiona Harvey, has written a useful ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "July was hottest month ever recorded in US as heatwaves scorched country",
-        "url": "https://www.theguardian.com/us-news/2026/aug/10/july-hottest-month-ever-recorded-heatwaves",
-        "description": "Scientists have made clear that the elevated heat in the US was being amplified by the human-caused climate crisisJuly was the hottest month ever recorded in the US, with repeated, scorching heatwa...",
+        "title": "Reader Q&A: ask our reporters anything about fossil fuel profits and the climate crisis",
+        "url": "https://www.theguardian.com/environment/live/2026/aug/11/reader-qa-ask-our-reporters-anything-about-fossil-fuel-profits-and-the-climate-crisis",
+        "description": "Last week reporters Jillian Ambrose and Damian Carrington published a piece which revealed that biggest oil firms made $93bn in profits in three months amid the war in Iran and the climate crisis. ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Amber heat-health alerts issued for most of England as temperatures could reach 36C or higher this week – as it happened",
-        "url": "https://www.theguardian.com/uk-news/live/2026/aug/10/england-drought-declared-another-summer-heatwave-hot-weather-latest-news-updates",
-        "description": "The upgraded alerts will be in place from 9am on Tuesday until 9pm on FridayAn 18-year-old died after getting into difficulty in the sea at Camber Sands beach, East Sussex, yesterday, bringing the ...",
+        "title": "AI’s potential climate benefits outweighed by role in boosting fossil fuels, study finds",
+        "url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
+        "description": "Modelling finds AI-driven productivity gains in coal, oil and gas enable more emissions than applications in renewables avoidAI-driven productivity gains enable more planet-heating pollution from f...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "What he told me made my blood run cold - Michael Sheen investigates Wales' toxic legacy",
-        "url": "https://www.bbc.co.uk/news/articles/czekx5g39elo?at_medium=RSS&at_campaign=rss",
-        "description": "The Hollywood actor investigates claims cancer-causing chemicals were dumped across Wales.",
+        "title": "Eclipse chasers scramble for glasses as stocks run low",
+        "url": "https://www.bbc.co.uk/news/articles/clyqxx27620o?at_medium=RSS&at_campaign=rss",
+        "description": "Specialist glasses are all but sold out online ahead of the UK's most significant eclipse since 1999.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Early prisoner releases mean pledge to cut rough sleeping ‘may fail’",
+        "url": "https://www.theguardian.com/society/2026/aug/11/andy-burnham-rough-sleeping-housing-released-prisoners",
+        "description": "Charity says government must focus on securing housing for ex-prisoners if Burnham is to meet rough-sleeping promise• UK politics live – latest updatesAndy Burnham’s pledge to end rough sleeping in...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "They cannot even flush their toilets: life in east London blocks where taps often run dry",
         "url": "https://www.theguardian.com/environment/2026/aug/11/east-london-blocks-residents-without-water-supply-tower-hamlets",
         "description": "Devons Road estate residents describe months-long ordeal of not being able to wash, clean or cook for much of the dayHundreds in London flats left without regular running water since last yearChris...",
@@ -181,34 +188,27 @@
         "description": "Supply in nine blocks in Tower Hamlets affected with some residents suspecting nearby building developmentsThey cannot even flush their toilets: life in east London blocks where taps often run dryH...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Tory plan to ban foreign nationals from social housing condemned as ‘divisive’",
-        "url": "https://www.theguardian.com/society/2026/aug/07/tory-plan-ban-foreign-nationals-social-housing-condemned-divisive",
-        "description": "Housing charity says move would drive up homelessness, while Labour dismisses proposal as ‘unserious’Plans to ban foreign nationals from social housing under a Conservative government have been con...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "At least 132 killed in Colombia's largest  earthquake in years",
-        "url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
-        "description": "More than 480 people were injured in the quakes, with more feared trapped under collapsed buildings.",
+        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+        "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Canada flight cancelled after child refuses to wear seat belt",
-        "url": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
-        "description": "The incident has sparked a debate over child safety and discipline on commercial planes.",
+        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
-        "url": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
-        "description": "The trial of the 63-year-old former gang boss kicked off on Monday, and he has entered a not guilty plea.",
+        "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+        "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+        "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
