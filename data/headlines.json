@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-08-12T01:48:34.051770+00:00",
+  "fetched_at": "2026-08-12T07:21:48.871293+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham urged by 50 police leaders to prevent early release of PC Harper’s killers",
-        "url": "https://www.theguardian.com/society/2026/aug/11/probation-staff-strike-vote-burnham-early-release",
-        "description": "Letter signed by every chief constable in England and Wales warns freeing pair could weaken trust in justice systemAndy Burnham is facing an unprecedented mass call from police chiefs to block the ...",
+        "title": "Paid police paternity leave to double after fathers reported being ‘ostracised’",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/12/paid-police-paternity-leave-double-england-wales",
+        "description": "Exclusive: Pay increases to two weeks in England and Wales after Guardian revealed officers ‘mocked’ for taking time offPaid paternity leave for police in England and Wales is to double, after the ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Richard Tice accused of ‘nasty tactics’ over legal threat to the Guardian",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/11/richard-tice-accused-of-nasty-tactics-over-legal-threat-to-the-guardian",
-        "description": "Reform deputy leader condemned for seeking disclosure of documents that could reveal reporter’s sourcesReform’s deputy leader Richard Tice has been accused of using “nasty tactics” in an attempt to...",
+        "title": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
+        "url": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
+        "description": "Verdant thinktank says cost could top £25bn a year by 2030 and calls for maximum temperature for working and urban redesign to cool down citiesRepeated debilitating heatwaves this summer are likely...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "How viable are plans to free up prison space in England and Wales?",
-        "url": "https://www.theguardian.com/society/2026/aug/11/how-viable-are-burnhams-plans-to-free-up-prison-space",
-        "description": "The PM is proposing three ways of increasing jail capacity – but none offer a quick or straightforward solutionAndy Burnham said on Monday he was “increasingly confident” that PC Andrew Harper’s ki...",
+        "title": "British man with dementia told to leave Sweden after losing migration case",
+        "url": "https://www.theguardian.com/world/2026/aug/12/british-man-dementia-leave-sweden-brexit-migration-case",
+        "description": "Exclusive: Horace Mason, 74, who has lived in Sweden for 25 years, faces being deported after court rulingA 74-year-old British man who has been living in Sweden for 25 years who needs round-the-cl...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
-        "url": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
-        "description": "The intervention comes after Andy Burnham said he was \"confident\" the early release of PC Harper's killers could be prevented.",
+        "title": "Better-off areas must play their part in housing asylum seekers, Burnham suggests",
+        "url": "https://www.bbc.co.uk/news/articles/c204d4z1gg8o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister was asked about protests over plans to use a former military base to house asylum seekers.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
+        "url": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
+        "description": "Verdant thinktank says cost could top £25bn a year by 2030 and calls for maximum temperature for working and urban redesign to cool down citiesRepeated debilitating heatwaves this summer are likely...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Oil prices climb as Iran talks hit new impasse; Tui hit by high fuel costs – business live",
+        "url": "https://www.theguardian.com/business/live/2026/aug/12/oil-prices-brent-crude-iran-trump-fuel-inflation-tui-travel-business-live",
+        "description": "Brent crude prices hover near $90 per barrel, as fallout from Iran war hits travel firm Tui’s profitsGood morning, and welcome to our rolling coverage of business, the financial markets and the wor...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Consumer confidence at near two-year high as World Cup and UK holidaying lift summer spending",
         "url": "https://www.theguardian.com/business/2026/aug/11/consumer-confidence-world-cup-uk-holidaying-lift-summer-spending-barclays-survey",
@@ -40,28 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Private pensions are a publicly subsidised gift to the wealthy | Phillip Inman",
-        "url": "https://www.theguardian.com/business/2026/aug/08/private-pensions-publicly-subsidised-gift-to-the-wealthy",
-        "description": "John Healey should equalise the tax break on pension savings to stop inequalities from wideningPrivate pensions are a privilege for the lucky few and a curse for everyone else. Sold as a saviour fo...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Union calls for robust review of OBR over fears it holds back economic growth",
-        "url": "https://www.theguardian.com/business/2026/aug/08/tuc-review-obr-investment-economy-business",
-        "description": "TUC will urge John Healey to order ‘root and branch’ assessment of watchdog amid claims its forecasts downplay investment benefitsThe TUC is urging the new chancellor, John Healey, to order a “root...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "First 'pounds for pylons' energy bill discount sites revealed",
-        "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
-        "description": "Households living within 1600ft of upgraded pylons will get £250 a year off their electricity bills.",
+        "title": "PM admits cost of living help is not enough and hints at further support",
+        "url": "https://www.bbc.co.uk/news/articles/cgmkee248vdo?at_medium=RSS&at_campaign=rss",
+        "description": "The PM has announced a rake of measures to help people since taking office three weeks ago.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "‘A mouse can’t tell us what works’: UK scientists to grow miniature human organs for drug testing",
+        "url": "https://www.theguardian.com/science/2026/aug/12/organoids-human-organs-cambridge-shift-drug-testing-medicines-animals",
+        "description": "Organoids and tissues grown from human cells promise more accurate results, with £20m Cambridge project to create standardised modelsMiniature human organs and other tissues are to be grown from NH...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "As heatwaves hit Britain, spare a thought for farm animals | Letters",
         "url": "https://www.theguardian.com/environment/2026/aug/11/as-heatwaves-hit-britain-spare-a-thought-for-farm-animals",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "‘Babies will be born in laybys’: maternity cuts leave women with stark choices in Devon",
-        "url": "https://www.theguardian.com/society/2026/aug/10/maternity-cuts-devon-women-stark-choices",
-        "description": "Concerns about feeling pressure to have caesarean section, or paying for hotel in Exeter after hospital in Barnstaple suspends birthing servicesFor mother-to-be Harriet Knight, the suspension of ma...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Children as young as nine hurt in growing number of e-scooter crashes",
         "url": "https://www.bbc.co.uk/news/articles/cx2rdggr304o?at_medium=RSS&at_campaign=rss",
         "description": "Three trauma centres - Liverpool, Manchester and Sheffield - say they have treated nearly 500 casualties under the age of 16.",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "Nigel Farage looks trapped and rattled - now the nationalist tide can be turned | Rafael Behr",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/12/nigel-farage-trapped-nationalist-votes-division-reform",
+        "description": "There are more votes in tolerance and decency than in toxic division. It doesn’t take a great leap of political courage to fight back against ReformNigel Farage can be confident of victory against ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Amnesty International says Farage putting ‘hate and inhumanity’ over leadership with El Salvador prison plan – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/aug/10/labour-prisons-crisis-andy-burnham-reform-nigel-farage-latest-news-updates",
@@ -105,16 +112,23 @@
         "description": "Crossing in larger vessel highlights changing tactics despite increased enforcement on French coastA dinghy carrying a record 230 people has arrived in the UK after crossing the Channel in the earl...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Home Office tells Italian man his right to stay in UK after Brexit was ‘error’",
-        "url": "https://www.theguardian.com/politics/2026/aug/09/home-office-error-leaves-italian-mans-wife-with-no-right-to-stay-in-uk",
-        "description": "Man is told he should not have been granted settled status so he can no longer sponsor Brazilian wife to remainA 33-year-old Italian engineer who has been in London since 2018 has been plunged into...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "All-British chocolate bar made by scientists using Reading-grown cocoa",
+        "url": "https://www.theguardian.com/food/2026/aug/12/all-british-chocolate-bar-made-by-scientists-using-reading-grown-cocoa",
+        "description": "Master’s student made first bar with 100% UK ingredients since 1932 to highlight affect of climate crisis on cocoa plants The late queen was the only person in history to have ever eaten a chocolat...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
+        "url": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
+        "description": "Verdant thinktank says cost could top £25bn a year by 2030 and calls for maximum temperature for working and urban redesign to cool down citiesRepeated debilitating heatwaves this summer are likely...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Summer 2026 on course to be UK’s hottest on record, says Met Office – as it happened",
         "url": "https://www.theguardian.com/environment/live/2026/aug/11/uk-europe-france-heatwave-climate-crisis-drought-amber-health-alert-latest-updates-news",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "‘Subsidies for fossil fuels ... are pouring fuel on the fire’: your questions on fossil fuel profits and the climate crisis answered",
-        "url": "https://www.theguardian.com/environment/live/2026/aug/11/reader-qa-ask-our-reporters-anything-about-fossil-fuel-profits-and-the-climate-crisis",
-        "description": "Reporters Jillian Ambrose and Damian Carrington discussed their story on oil firms’ profits amid the war in Iran and the climate crisis and answered your related questionsPCMcGarry asks: Given the ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "AI’s potential climate benefits outweighed by role in boosting fossil fuels, study finds",
-        "url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
-        "description": "Modelling finds AI-driven productivity gains in coal, oil and gas enable more emissions than applications in renewables avoidAI-driven productivity gains enable more planet-heating pollution from f...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
-        "url": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
-        "description": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.",
+        "title": "When and where to see the solar eclipse in Scotland",
+        "url": "https://www.bbc.co.uk/news/articles/cwyrk522pxro?at_medium=RSS&at_campaign=rss",
+        "description": "Up to 95% of the Sun will slowly disappear behind the Moon in the most dramatic eclipse visible from the UK since August 1999.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
-        "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
-        "description": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
+        "title": "Trump confirms he switched planes after Nato summit because of possible threat",
+        "url": "https://www.bbc.co.uk/news/articles/c980r4wpl9lo?at_medium=RSS&at_campaign=rss",
+        "description": "Journalists and White House staff who were on board the jet were unaware the president had left.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
-        "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
-        "description": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
+        "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+        "description": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
