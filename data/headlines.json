@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-11T18:59:09.140967+00:00",
+  "fetched_at": "2026-08-12T01:48:34.051770+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham’s prison plans could raise risk of mistaken releases, union warns",
+        "title": "Burnham urged by 50 police leaders to prevent early release of PC Harper’s killers",
         "url": "https://www.theguardian.com/society/2026/aug/11/probation-staff-strike-vote-burnham-early-release",
-        "description": "Concerns raised over proposed changes to early release scheme as probation staff vote to strike over workloadsAndy Burnham’s plan to stop the early release of PC Andrew Harper’s killers and other s...",
+        "description": "Letter signed by every chief constable in England and Wales warns freeing pair could weaken trust in justice systemAndy Burnham is facing an unprecedented mass call from police chiefs to block the ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Burnham 'confident' early release of PC Harper's killers can be halted",
-        "url": "https://www.bbc.co.uk/news/articles/cevmkkg791yo?at_medium=RSS&at_campaign=rss",
-        "description": "The PM says the justice secretary will present a plan in September to prevent more early releases.",
+        "title": "Police chiefs call for PM to prevent early release of PC Harper's killers",
+        "url": "https://www.bbc.co.uk/news/articles/cwyrkz9ryr5o?at_medium=RSS&at_campaign=rss",
+        "description": "The intervention comes after Andy Burnham said he was \"confident\" the early release of PC Harper's killers could be prevented.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "'I started in my 20s and made £8,000': Why women are often better investors than men",
-        "url": "https://www.bbc.co.uk/news/articles/czdmgmzll1ro?at_medium=RSS&at_campaign=rss",
-        "description": "Women can make higher returns but only about a quarter of UK women have investments, compared with about 40% of men.",
+        "title": "First 'pounds for pylons' energy bill discount sites revealed",
+        "url": "https://www.bbc.co.uk/news/articles/c8rn42jp7d6o?at_medium=RSS&at_campaign=rss",
+        "description": "Households living within 1600ft of upgraded pylons will get £250 a year off their electricity bills.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "England set to be one of the first countries to eliminate hepatitis C",
-        "url": "https://www.bbc.co.uk/news/articles/c75gk620r22o?at_medium=RSS&at_campaign=rss",
-        "description": "England is on track to become one of the first countries in the world to eliminate hepatitis C, a dangerous virus that attacks the liver, figures show.",
+        "title": "Children as young as nine hurt in growing number of e-scooter crashes",
+        "url": "https://www.bbc.co.uk/news/articles/cx2rdggr304o?at_medium=RSS&at_campaign=rss",
+        "description": "Three trauma centres - Liverpool, Manchester and Sheffield - say they have treated nearly 500 casualties under the age of 16.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Solar eclipse glasses 'sold out everywhere' as people look for alternatives",
-        "url": "https://www.bbc.co.uk/news/articles/c2lqwyxj024o?at_medium=RSS&at_campaign=rss",
-        "description": "Eclipse glasses can offer protection from harmful rays of sunlight but most high street stores have sold out.",
+        "title": "UK to get best eclipse since 1999 as Moon blocks out Sun across Europe",
+        "url": "https://www.bbc.co.uk/news/articles/cx2jr1ew2v1o?at_medium=RSS&at_campaign=rss",
+        "description": "Up to 96% of the Sun will be covered by the Moon in the UK, while parts of Spain, Greenland, Iceland, Portugal and Russia will see a total eclipse.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
-        "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president was reportedly part of a ruse where reporters were falsely told he was with them on Air Force One leaving a Nato summit in Turkey.",
+        "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
+        "url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
+        "description": "Colombia experienced a number of aftershocks on Tuesday, as efforts continued to free survivors trapped in rubble and buildings.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
+        "title": "Trump's dramatic plane swap hints at personal stakes of Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/cly8jexn1z9o?at_medium=RSS&at_campaign=rss",
+        "description": "It marks another striking episode in the turbulent history of his relationship with Iran, writes the BBC's Anthony Zurcher.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-        "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-        "description": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+        "title": "US says helicopter fired missiles to disable ship breaking Iran blockade",
+        "url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss",
+        "description": "US Central Command says its helicopter hit the engine room of a Panama-flagged cargo vessel in the Gulf of Oman.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
