@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-12T18:59:00.604696+00:00",
+  "fetched_at": "2026-08-13T01:50:38.412273+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Nurses fainting in ‘inhumane’ conditions due to extreme heat, union warns",
+        "url": "https://www.theguardian.com/society/2026/aug/13/nurses-fainting-inhumane-conditions-due-to-extreme-heat-uk-union-warns",
+        "description": "RCN calls for more air conditioners as Burnham faces pressure to recognise urgency of adaptation to climate crisisNurses are collapsing during shifts amid “inhumane and impossible” conditions cause...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK politics: Burnham urges retailers to stop selling disposable barbecues after emergency Cobra meeting – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/aug/12/andy-burnham-early-prisoner-release-cobra-meeting-heatwave-climate-crisis-labour-conservatives-reform-latest-news-updates",
@@ -13,13 +20,6 @@
         "title": "Politicians among mourners at funeral service for Ann Widdecombe",
         "url": "https://www.theguardian.com/politics/2026/aug/12/mourners-funeral-ann-widdecombe-buckfast-abbey",
         "description": "Family, friends and colleagues attend service at Buckfast Abbey, which former MP described as her ‘safe haven’About 100 family, friends and colleagues of Ann Widdecombe have attended a funeral serv...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham to consider ban on disposable barbecues as wildfires rage in UK",
-        "url": "https://www.theguardian.com/society/2026/aug/12/andy-burnham-ban-disposable-barbecues-wildfires-uk",
-        "description": "PM to look at imposing restriction on devices in public spaces, though campaigners fear it does not go far enoughThe government will look at banning disposable barbecues as wildfires continue to ra...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Lucy Davis urges women to check their breasts for cancer - here's how",
-        "url": "https://www.bbc.co.uk/news/articles/cj03p2jpdd4o?at_medium=RSS&at_campaign=rss",
-        "description": "The actress from The Office TV series says her breast lump was tiny and not a 'lump' as such; rather a kind of hard spot.",
+        "title": "Leading doctor rebukes NHS chiefs over transplants",
+        "url": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
+        "description": "NHS Blood and Transplant's medical director says waiting lists for organ operations are unfair but leaders are not solving the issue.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Nurses fainting in ‘inhumane’ conditions due to extreme heat, union warns",
+        "url": "https://www.theguardian.com/society/2026/aug/13/nurses-fainting-inhumane-conditions-due-to-extreme-heat-uk-union-warns",
+        "description": "RCN calls for more air conditioners as Burnham faces pressure to recognise urgency of adaptation to climate crisisNurses are collapsing during shifts amid “inhumane and impossible” conditions cause...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Trump administration pulls support for annual Arctic environmental report",
         "url": "https://www.theguardian.com/us-news/2026/aug/12/trump-administration-arctic-environmental-report",
         "description": "Move by National Oceanic and Atmospheric Administration is latest government rollback of climate science activityThe Trump administration has pulled its support for an annual report on the environm...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Great Britain braced to pay millions for backup electricity during solar eclipse",
-        "url": "https://www.theguardian.com/business/2026/aug/12/great-britain-faces-electricity-supply-shortfall-during-solar-eclipse",
-        "description": "Event expected to curtail solar power just as summer’s fifth heatwave increases use of air conditioning and fansGreat Britain is braced to pay millions for backup electricity supplies to prevent a ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Watch: Hydrogen car breaks land speed record at 406 mph",
-        "url": "https://www.bbc.co.uk/news/videos/cvgjz88zpr1o?at_medium=RSS&at_campaign=rss",
-        "description": "The new record surpasses the previous official hydrogen combustion title set in 2004 by more than double the speed.",
+        "title": "Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend",
+        "url": "https://www.bbc.co.uk/news/articles/cx256pp33l3o?at_medium=RSS&at_campaign=rss",
+        "description": "Some see them as sinister or hunt them for ritual use but these birds play a vital role in nature's cycle.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-        "url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-        "description": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+        "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+        "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+        "description": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-        "url": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-        "description": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+        "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+        "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
+        "description": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
