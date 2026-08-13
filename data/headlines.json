@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-13T07:23:41.595189+00:00",
+  "fetched_at": "2026-08-13T13:05:41.315526+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
+        "description": "The Reform UK leader resigned as the MP for Clacton at the start of July and forced a byelectionThe number of patients in England being cared for in hospital corridors or makeshift areas has remain...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Clacton byelection polls open with Farage up against slew of fringe candidates",
         "url": "https://www.theguardian.com/politics/2026/aug/13/clacton-byelection-polls-open",
@@ -17,46 +24,39 @@
         "category": "government"
       },
       {
-        "title": "Category C and women’s prisons could be upgraded to ease overcrowding",
-        "url": "https://www.theguardian.com/society/2026/aug/13/category-c-and-womens-prisons-could-be-upgraded",
-        "description": "Exclusive: Ministers explore diverting male prisoners serving short terms or on remand away from tougher jailsMinisters are examining a possible upgrade of security at men’s category C and women’s ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Polls open in Clacton by-election",
-        "url": "https://www.bbc.co.uk/news/articles/cp308xpwv34o?at_medium=RSS&at_campaign=rss",
-        "description": "Voters will choose between 34 candidates - the most to stand in any British parliamentary election.",
+        "title": "UK defends seizing shadow fleet tanker after Putin threat",
+        "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+        "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK economy grows by 0.4% in second quarter as some businesses helped by World Cup and hot weather – business live",
+        "title": "Andy Burnham ‘angry’ over water company bill increases; Sport Direct owner buys Harvey Nichols – business live",
         "url": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates",
-        "description": "Live, rolling coverage of business, economics and financial markets as GDP rises in June despite Iran war after stagnating in MayLadbrokes owners Entain said its revenues were up 5% after stronger-...",
+        "description": "Live, rolling coverage of business, economics and financial markets as regulator says five companies can raise bills to pay for infrastructure for new housing and datacentresThe biggest factor for ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK economy shows surprising resilience – but that might not last | Richard Partington",
+        "url": "https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation",
+        "description": "Weaker growth, rising energy costs and persistent inflation mean Britain could face tougher times in the autumnUK economic growth slows downBusiness live – latest updatesIn the spring the Internati...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
         "title": "UK economic growth slows down as Iran war pushes up energy prices",
         "url": "https://www.theguardian.com/business/2026/aug/13/uk-economic-growth-slows-iran-war-energy-prices-gdp-ons",
-        "description": "GDP expanded by 0.4% in three months to June, but analysts warn growth is ‘likely to fade’Business live – latest updatesEconomic growth slowed in the second quarter of the year, as the disruption u...",
+        "description": "GDP expanded by 0.4% in three months to June, but analysts warn growth is ‘likely to fade’UK economy shows surprising resilienceBusiness live – latest updatesEconomic growth slowed in the second qu...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "The Guardian view on Japan’s yen: Trump wants to keep the easy-money machine running | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/12/the-guardian-view-on-japans-yen-trump-wants-to-keep-the-easy-money-machine-running",
-        "description": "A cheap currency helps finance the US tech boom. Washington is intervening because allies matter only when they are usefulJapan’s yen has slid back towards 160 to the dollar, despite last month’s e...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Economy grew in April to June as sun and World Cup helped some UK businesses",
-        "url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss",
-        "description": "The UK economy grew by 0.4% with some firms reporting hot weather and sports helped growth in June.",
+        "title": "Water bills set to rise for many after firms permitted extra funding",
+        "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
+        "description": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Europe heatwave live: Temperatures of 40C expected in Spain; rare warning for ‘extreme heat’ expanded across England",
+        "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+        "description": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to comeMet Office has just offered an update on temperatures across the UK, with several stations alr...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Nurses fainting in ‘inhumane’ conditions due to extreme heat, union warns",
         "url": "https://www.theguardian.com/society/2026/aug/13/nurses-fainting-inhumane-conditions-due-to-extreme-heat-uk-union-warns",
         "description": "RCN calls for more air conditioners as Burnham faces pressure to recognise urgency of adaptation to climate crisisNurses are collapsing during shifts amid “inhumane and impossible” conditions cause...",
@@ -130,25 +137,25 @@
         "category": "climate"
       },
       {
-        "title": "UK politics: Burnham urges retailers to stop selling disposable barbecues after emergency Cobra meeting – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/12/andy-burnham-early-prisoner-release-cobra-meeting-heatwave-climate-crisis-labour-conservatives-reform-latest-news-updates",
-        "description": "PM warns extreme heat conditions ‘could be with us fo some time yet’Just 20 staff are working on climate adaptation within the Department for Environment, Food and Rural Affairs, the part of govern...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Cloudy skies lead to mixed fortunes for Scotland's eclipse hunters",
-        "url": "https://www.bbc.co.uk/news/articles/c5y49e2z8yno?at_medium=RSS&at_campaign=rss",
-        "description": "Scotland's best chance of seeing a solar eclipse in 27 years left some disappointed, though there were moments of magic.",
+        "title": "Eclipse warning: The key signs you may have damaged your eyes",
+        "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
+        "description": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
-        "title": "A-level results: students across England, Wales and Northern Ireland await grades – latest news",
+        "title": "London pulls further ahead as A-level regional divide for top grades hits record – latest news",
         "url": "https://www.theguardian.com/education/live/2026/aug/13/a-level-results-universities-clearing-schools-college-sixth-forms-latest-news-updates",
-        "description": "More expected to get their first choice of university place as institutions scramble to make up for a fall in overseas studentsThe education secretary has said she will not oversee a “two-tier syst...",
+        "description": "This year’s results expose a widening gap in students achieving top grades in London and north-east EnglandFor international students, 53,740 applicants have been accepted on to undergraduate cours...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Students set new records for A-level grades in bumper year",
+        "url": "https://www.theguardian.com/education/2026/aug/13/students-new-records-a-levels-grades-results",
+        "description": "Northern Ireland best performing with 30.7% of grades being As and A*s but Wales and England close behindA-level results – latest updatesSixth-formers have basked in a summer of record-breaking exa...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -156,13 +163,6 @@
         "title": "Cambridge agrees to hold independent inquiry into Jason Arday appointment",
         "url": "https://www.theguardian.com/education/2026/aug/12/cambridge-independent-inquiry-jason-arday-appointment",
         "description": "Vice-chancellor Deborah Prentice says she recognises the ‘difficult case’ has damaged the universityCambridge University’s leadership has bowed to internal pressure for an independent investigation...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘Always cracking jokes’: questions raised over Jason Arday’s claim he was non-verbal as a child",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/12/jason-arday-cambridge-claim-non-verbal-child",
-        "description": "Fellow pupils at his primary school have challenged Cambridge academic’s story, though others support itThe story of Jason Arday’s extraordinary rise to becoming the youngest black professor in the...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Israeli settlers besieging Palestinian families in West Bank village",
-        "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-        "description": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+        "title": "UK defends seizing shadow fleet tanker after Putin threat",
+        "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
+        "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
-        "url": "https://www.bbc.co.uk/news/articles/cgk4pex4mn8o?at_medium=RSS&at_campaign=rss",
-        "description": "The outbreak, declared on 15 May, has caused more than 2,000 deaths, with thousands more reported cases.",
+        "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
+        "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "description": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
