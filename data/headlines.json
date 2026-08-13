@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-13T13:05:41.315526+00:00",
+  "fetched_at": "2026-08-13T19:00:01.468428+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
-        "description": "The Reform UK leader resigned as the MP for Clacton at the start of July and forced a byelectionThe number of patients in England being cared for in hospital corridors or makeshift areas has remain...",
+        "title": "Nearly 100 children detained as adults under UK-France migration deal",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/13/children-detained-adults-one-in-one-out-deal-uk-france-migration",
+        "description": "Figures emerge in critical letter to Home Office from organisation appointed to scrutinise detention facilitiesNearly 100 children have been wrongly identified and detained as adults under Shabana ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Clacton byelection polls open with Farage up against slew of fringe candidates",
-        "url": "https://www.theguardian.com/politics/2026/aug/13/clacton-byelection-polls-open",
-        "description": "Longest ballot in UK voting history features likes of Count Binface and Howling Laud Hope alongside Reform leader Polls have opened in Clacton, with thousands of residents in the Essex seat to vote...",
+        "title": "Government could pay higher rents to spread asylum accommodation across UK",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/13/government-could-pay-higher-rents-to-spread-asylum-accommodation-across-uk",
+        "description": "Greater use of private rental properties would form part of PM’s plan to spread accommodation more evenly across UKMinisters are considering paying higher prices for housing asylum seekers in priva...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Yvette Cooper says Labour ‘did not do government very well’ under Starmer",
-        "url": "https://www.theguardian.com/politics/2026/aug/13/yvette-cooper-labour-keir-starmer-andy-burnham",
-        "description": "Health secretary praises more collegiate style under Andy Burnham and says previous No 10 sidelined her from key policy launchYvette Cooper admits Labour has “not done government very well” in the ...",
+        "title": "UK universities face ‘financial crisis’ amid collapse in international students",
+        "url": "https://www.theguardian.com/education/2026/aug/13/uk-universities-face-financial-crisis-amid-collapse-in-international-students",
+        "description": "Higher education figures call on Labour to reverse tax on fees and warn institutions at risk of ‘going under’University leaders are warning of financial turmoil in British higher education after ne...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,7 +33,7 @@
     ],
     "economy": [
       {
-        "title": "Andy Burnham ‘angry’ over water company bill increases; Sport Direct owner buys Harvey Nichols – business live",
+        "title": "Andy Burnham ‘angry’ over water company bill increases; Sports Direct owner buys Harvey Nichols – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates",
         "description": "Live, rolling coverage of business, economics and financial markets as regulator says five companies can raise bills to pay for infrastructure for new housing and datacentresThe biggest factor for ...",
         "source": "The Guardian",
@@ -63,6 +63,20 @@
     ],
     "nhs": [
       {
+        "title": "Andy Burnham’s great British rip-off list just got even longer | Letters",
+        "url": "https://www.theguardian.com/money/2026/aug/13/andy-burnham-great-british-rip-off-list-just-got-even-longer",
+        "description": "Readers respond to the prime minister’s promise to end unexpected payments and hidden catches for consumersMisleading discounts and obstructive cancellation procedures certainly deserve regulation....",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
+        "description": "The Reform UK leader resigned as the MP for Clacton at the start of July and forced a byelectionThe number of patients in England being cared for in hospital corridors or makeshift areas has remain...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "An Amputation Obsession: the Monster and the Surgeon review – an engrossing story, if you can stomach it",
         "url": "https://www.theguardian.com/tv-and-radio/2026/aug/13/an-amputation-obsession-the-monster-and-the-surgeon-review-neil-hopper-prime-video",
         "description": "This documentary follows the shocking case of Neil Hopper, a top surgeon who had his own legs removed due to a fetish. No fetish or obsession is unique, and the internet can always connect you with...",
@@ -70,104 +84,97 @@
         "category": "nhs"
       },
       {
-        "title": "UK politics: Burnham urges retailers to stop selling disposable barbecues after emergency Cobra meeting – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/12/andy-burnham-early-prisoner-release-cobra-meeting-heatwave-climate-crisis-labour-conservatives-reform-latest-news-updates",
-        "description": "PM warns extreme heat conditions ‘could be with us fo some time yet’Just 20 staff are working on climate adaptation within the Department for Environment, Food and Rural Affairs, the part of govern...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Number of children injured in e-scooter crashes in England surges",
-        "url": "https://www.theguardian.com/world/2026/aug/12/number-of-children-injured-e-scooter-crashes-england-surges",
-        "description": "Calls for speed limiters or mandated helmet use after research into injuries at three paediatric trauma centres The number of children involved in crashes on e-scooters has soared in recent years, ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Leading doctor rebukes NHS chiefs over transplant failings",
-        "url": "https://www.bbc.co.uk/news/articles/crl711557e6o?at_medium=RSS&at_campaign=rss",
-        "description": "NHS Blood and Transplant's medical director says waiting lists for organ operations are unfair but leaders are not solving the issue.",
+        "title": "Did the eclipse damage your eyes?",
+        "url": "https://www.bbc.co.uk/news/videos/cy452z5j1x1o?at_medium=RSS&at_campaign=rss",
+        "description": "An eye surgeon says that fewer people have been seeking treatment for eye damage than after the UK's last total solar eclipse in 1999.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
+        "title": "Nearly 100 children detained as adults under UK-France migration deal",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/13/children-detained-adults-one-in-one-out-deal-uk-france-migration",
+        "description": "Figures emerge in critical letter to Home Office from organisation appointed to scrutinise detention facilitiesNearly 100 children have been wrongly identified and detained as adults under Shabana ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Government could pay higher rents to spread asylum accommodation across UK",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/13/government-could-pay-higher-rents-to-spread-asylum-accommodation-across-uk",
+        "description": "Greater use of private rental properties would form part of PM’s plan to spread accommodation more evenly across UKMinisters are considering paying higher prices for housing asylum seekers in priva...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Thursday briefing: What happens after an asylum hotel closes?",
         "url": "https://www.theguardian.com/world/2026/aug/13/thursday-briefing-first-edition-asylum-hotel-closures-asylum-seekers-communities",
         "description": "In today’s newsletter: With more sites closed and more lives upended, a look at the rhetoric and reality of where asylum seekers should be housedGood morning. This week, immigration minister Anna T...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "UK politics: Burnham urges retailers to stop selling disposable barbecues after emergency Cobra meeting – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/12/andy-burnham-early-prisoner-release-cobra-meeting-heatwave-climate-crisis-labour-conservatives-reform-latest-news-updates",
-        "description": "PM warns extreme heat conditions ‘could be with us fo some time yet’Just 20 staff are working on climate adaptation within the Department for Environment, Food and Rural Affairs, the part of govern...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Farage has turned Clacton into a human zoo. Here’s the truth about what’s happening here | Sarah Elizabeth Cox",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/12/farage-clacton-human-zoo-truth-town",
-        "description": "When I moved to the town in 2022 I loved the beach walks, cheap drinks and panoramic coastal views. Now it feels like a never-ending circusClacton town centre is bustling, the beaches are packed an...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Europe heatwave live: Temperatures of 40C expected in Spain; rare warning for ‘extreme heat’ expanded across England",
+        "title": "Fossils show huge carbon emissions harm forests, not ‘green the planet’",
+        "url": "https://www.theguardian.com/us-news/2026/aug/13/forests-carbon-dioxide-emissions",
+        "description": "Study of 56m-year-old leaves counters claims from Trump administration members of ‘benefits’ of fossil fuel pollutionAdding huge quantities of carbon dioxide into the atmosphere is set to cause the...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Europe heatwave live: UK sees temperatures of 38.1C, the hottest day of 2026; Greece battles wildfires after gale force winds",
         "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
         "description": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to comeMet Office has just offered an update on temperatures across the UK, with several stations alr...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Nurses fainting in ‘inhumane’ conditions due to extreme heat, union warns",
-        "url": "https://www.theguardian.com/society/2026/aug/13/nurses-fainting-inhumane-conditions-due-to-extreme-heat-uk-union-warns",
-        "description": "RCN calls for more air conditioners as Burnham faces pressure to recognise urgency of adaptation to climate crisisNurses are collapsing during shifts amid “inhumane and impossible” conditions cause...",
+        "title": "UK records hottest day of year as fifth summer heatwave reaches peak",
+        "url": "https://www.theguardian.com/environment/2026/aug/13/uk-records-hottest-day-of-the-year-fifth-summer-heatwave-peak",
+        "description": "Kew Gardens in London hits 38.1C and 40C-plus recorded in parts of Europe with continent trapped under heat domeEurope heatwave – latest updatesThe UK has recorded its hottest day of the year so fa...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Trump administration pulls support for annual Arctic environmental report",
-        "url": "https://www.theguardian.com/us-news/2026/aug/12/trump-administration-arctic-environmental-report",
-        "description": "Move by National Oceanic and Atmospheric Administration is latest government rollback of climate science activityThe Trump administration has pulled its support for an annual report on the environm...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Eclipse warning: The key signs you may have damaged your eyes",
-        "url": "https://www.bbc.co.uk/news/articles/c4gk0dq81j2o?at_medium=RSS&at_campaign=rss",
-        "description": "Symptoms after looking at the sun without eclipse glasses can include blurred vision",
+        "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+        "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+        "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
-        "title": "London pulls further ahead as A-level regional divide for top grades hits record – latest news",
+        "title": "Behind England’s bumper A-level results lie record levels of regional disparities",
+        "url": "https://www.theguardian.com/education/2026/aug/13/england-a-level-results-record-levels-regional-disparities",
+        "description": "Need for Burnham to tackle regional inequality could not be clearer as London becomes ‘educational outlier’Andy Burnham has put regional inequality at the top of his agenda as prime minister, and n...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "UK universities face ‘financial crisis’ amid collapse in international students",
+        "url": "https://www.theguardian.com/education/2026/aug/13/uk-universities-face-financial-crisis-amid-collapse-in-international-students",
+        "description": "Higher education figures call on Labour to reverse tax on fees and warn institutions at risk of ‘going under’University leaders are warning of financial turmoil in British higher education after ne...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "London pulls further ahead as A-level regional divide for top grades hits record – as it happened",
         "url": "https://www.theguardian.com/education/live/2026/aug/13/a-level-results-universities-clearing-schools-college-sixth-forms-latest-news-updates",
         "description": "This year’s results expose a widening gap in students achieving top grades in London and north-east EnglandFor international students, 53,740 applicants have been accepted on to undergraduate cours...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Students set new records for A-level grades in bumper year",
-        "url": "https://www.theguardian.com/education/2026/aug/13/students-new-records-a-levels-grades-results",
-        "description": "Northern Ireland best performing with 30.7% of grades being As and A*s but Wales and England close behindA-level results – latest updatesSixth-formers have basked in a summer of record-breaking exa...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Cambridge agrees to hold independent inquiry into Jason Arday appointment",
-        "url": "https://www.theguardian.com/education/2026/aug/12/cambridge-independent-inquiry-jason-arday-appointment",
-        "description": "Vice-chancellor Deborah Prentice says she recognises the ‘difficult case’ has damaged the universityCambridge University’s leadership has bowed to internal pressure for an independent investigation...",
         "source": "The Guardian",
         "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
+        "description": "The Reform UK leader resigned as the MP for Clacton at the start of July and forced a byelectionThe number of patients in England being cared for in hospital corridors or makeshift areas has remain...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Thursday briefing: What happens after an asylum hotel closes?",
         "url": "https://www.theguardian.com/world/2026/aug/13/thursday-briefing-first-edition-asylum-hotel-closures-asylum-seekers-communities",
@@ -181,34 +188,27 @@
         "description": "Charity says government must focus on securing housing for ex-prisoners if Burnham is to meet rough-sleeping promiseAndy Burnham’s pledge to end rough sleeping in England is under threat from a fai...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "They cannot even flush their toilets: life in east London blocks where taps often run dry",
-        "url": "https://www.theguardian.com/environment/2026/aug/11/east-london-blocks-residents-without-water-supply-tower-hamlets",
-        "description": "Devons Road estate residents describe months-long ordeal of not being able to wash, clean or cook for much of the dayHundreds in London flats left without regular running water since last yearChris...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
+        "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+        "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+        "description": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+        "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+        "description": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
         "description": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "UK defends seizing shadow fleet tanker after Putin threat",
-        "url": "https://www.bbc.co.uk/news/articles/cn0npn249qvo?at_medium=RSS&at_campaign=rss",
-        "description": "The UK government says it is \"disrupting and deterring shadow fleet vessels\" in accordance with the law.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "More troops to be sent to West Bank village besieged by Israeli settlers",
-        "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-        "description": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
