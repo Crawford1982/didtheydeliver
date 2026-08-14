@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-13T19:00:01.468428+00:00",
+  "fetched_at": "2026-08-14T01:48:33.817588+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Nigel Farage set for decisive but arguably empty victory in Clacton",
+        "url": "https://www.theguardian.com/politics/2026/aug/13/nigel-farage-set-for-decisive-but-arguably-empty-victory-in-clacton",
+        "description": "Leader of Reform UK on course to defeat Count Binface and an assortment of fringe candidates as polls close in Essex Voting has closed in one of the UK’s more unusual and least tense byelections, w...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Polls close in Clacton byelection where Nigel Farage faces slew of fringe candidates",
+        "url": "https://www.theguardian.com/politics/2026/aug/13/clacton-byelection-polls-open",
+        "description": "Longest ballot in UK voting history features likes of Count Binface and Howling Laud Hope alongside Reform leader Polls have closed in Clacton, where thousands of residents in the Essex seat voted ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Nearly 100 children detained as adults under UK-France migration deal",
         "url": "https://www.theguardian.com/uk-news/2026/aug/13/children-detained-adults-one-in-one-out-deal-uk-france-migration",
         "description": "Figures emerge in critical letter to Home Office from organisation appointed to scrutinise detention facilitiesNearly 100 children have been wrongly identified and detained as adults under Shabana ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Government could pay higher rents to spread asylum accommodation across UK",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/13/government-could-pay-higher-rents-to-spread-asylum-accommodation-across-uk",
-        "description": "Greater use of private rental properties would form part of PM’s plan to spread accommodation more evenly across UKMinisters are considering paying higher prices for housing asylum seekers in priva...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK universities face ‘financial crisis’ amid collapse in international students",
-        "url": "https://www.theguardian.com/education/2026/aug/13/uk-universities-face-financial-crisis-amid-collapse-in-international-students",
-        "description": "Higher education figures call on Labour to reverse tax on fees and warn institutions at risk of ‘going under’University leaders are warning of financial turmoil in British higher education after ne...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Water bills set to rise for many after firms permitted extra funding",
-        "url": "https://www.bbc.co.uk/news/articles/cx2j1j5ypjdo?at_medium=RSS&at_campaign=rss",
-        "description": "Ofwat has given provisional approval for 13 water companies to charge customers more to pay for investments.",
+        "title": "I got an £89 refund – how to cancel and  avoid unwanted subscriptions",
+        "url": "https://www.bbc.co.uk/news/articles/ckg6x3n5erpo?at_medium=RSS&at_campaign=rss",
+        "description": "After the PM announced a crackdown on subscription traps, readers share how they got into and out of unwanted plans.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,16 +116,16 @@
     ],
     "climate": [
       {
-        "title": "Fossils show huge carbon emissions harm forests, not ‘green the planet’",
-        "url": "https://www.theguardian.com/us-news/2026/aug/13/forests-carbon-dioxide-emissions",
-        "description": "Study of 56m-year-old leaves counters claims from Trump administration members of ‘benefits’ of fossil fuel pollutionAdding huge quantities of carbon dioxide into the atmosphere is set to cause the...",
+        "title": "UK sees temperatures of 38.1C, the hottest day of 2026; Greece battles wildfires after gale force winds – as it happened",
+        "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
+        "description": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to comeMet Office has just offered an update on temperatures across the UK, with several stations alr...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Europe heatwave live: UK sees temperatures of 38.1C, the hottest day of 2026; Greece battles wildfires after gale force winds",
-        "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
-        "description": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to comeMet Office has just offered an update on temperatures across the UK, with several stations alr...",
+        "title": "Fossils show huge carbon emissions harm forests, not ‘green the planet’",
+        "url": "https://www.theguardian.com/us-news/2026/aug/13/forests-carbon-dioxide-emissions",
+        "description": "Study of 56m-year-old leaves counters claims from Trump administration members of ‘benefits’ of fossil fuel pollutionAdding huge quantities of carbon dioxide into the atmosphere is set to cause the...",
         "source": "The Guardian",
         "category": "climate"
       },
