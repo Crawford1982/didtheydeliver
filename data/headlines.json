@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-14T13:01:41.424944+00:00",
+  "fetched_at": "2026-08-14T18:51:09.159629+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Nigel Farage investigation reopened by parliamentary watchdog after Clacton byelection win – UK politics live",
+        "title": "Standards watchdog resumes Farage probe as rivals slam needless byelection",
+        "url": "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
+        "description": "Reform UK leader says he stayed away from vote count in Clacton to avoid being ‘humiliated by nobodies’Nigel Farage’s attempt to draw the sting from inquiries into his financial affairs appeared to...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK politics: Country a ‘tinderbox’, says Burnham, as he calls in military and bans disposable barbecues – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates",
-        "description": "Reform UK leader’s re-election restarts inquiry into £5m gift from cyrpto-billionaireWatchdog resumes investigation into Farage over financial giftsFarage wins Clacton byelection Analysis: Futile C...",
+        "description": "PM also says fire and rescue services will be given more cash This election is a novelty with a record 34 candidates, including Howling Laud Hope of The Official Monster Raving Loony Party and Marc...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "‘Disgraceful’: what one election photo tells us about British politics in 2026",
-        "url": "https://www.theguardian.com/politics/ng-interactive/2026/aug/14/clacton-byelection-spoiled-ballot-disgraceful-farage-binface",
-        "description": "Results from coastal town of Clacton have been interpreted positively by Nigel Farage and Count Binface, but one spoiled ballot tells its own storyUK politics live – latest updatesIt ended, perhaps...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Benjamin Netanyahu describes UK as ‘first Islamic republic to get a nuclear weapon’",
-        "url": "https://www.theguardian.com/world/2026/aug/14/benjamin-netanyahu-describes-uk-first-islamic-republic-to-get-nuclear-weapon",
-        "description": "Israeli PM criticised by political rival for attacking an international ally and overseeing ‘horrific diplomatic failure’The Israeli prime minister, Benjamin Netanyahu, called the UK “the Islamic r...",
+        "title": "Burnham brings in military and bans disposable barbecues in ‘tinderbox’ Britain",
+        "url": "https://www.theguardian.com/environment/2026/aug/14/burnham-temporary-ban-barbecues-tinderbox-britain",
+        "description": "PM temporarily bans barbecue sales as 19 people are taken to hospital during fires in West Midlands Downing Street has issued a temporary GB-wide ban on the sale of disposable barbecues and brought...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,9 @@
     ],
     "economy": [
       {
-        "title": "US long-term borrowing costs rise to 25-year high, as inflation fears hit bond sale – business live",
+        "title": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
-        "description": "Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001Insurer Aviva said it is helping customers affected by the wildfires near Stourbridg...",
+        "description": "Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001Andy Burnham looks to cut new EV sales targetsInsurer Aviva said it is helping custo...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Selena Gomez sued for alleged fraud over mental health company",
-        "url": "https://www.bbc.co.uk/news/articles/c8jn2811we4o?at_medium=RSS&at_campaign=rss",
-        "description": "Investors say the actor and singer did not take an \"active role\" in the company as promised.",
+        "title": "Electric vehicle sales targets could be cut after pressure from car makers",
+        "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
+        "description": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,35 +116,42 @@
     ],
     "climate": [
       {
-        "title": "Nineteen people taken to hospital after England fire, as thousands evacuated in Croatia – Europe live",
+        "title": "One dead, dozens injured and thousands evacuated in Croatian wildfires – as it happened",
         "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
-        "description": "A total of 54 people were treated by paramedics after West Midlands fire as blazes continue across Europe amid extreme heatPeople taken to hospital and homes damaged in West Midlands firesEngland h...",
+        "description": "Firefighters discover body and say more than 40 people hurt in the Lokva Rogoznica and Omiš areasEngland has received just 4mm of rain so far in August, or 6% of the long-term average for the month...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Builders, bakers and cheeseburger-makers: the UK workers struggling in extreme heat",
-        "url": "https://www.theguardian.com/environment/2026/aug/14/uk-workers-struggling-in-extreme-heat",
-        "description": "From chefs to paramedics, workers tell the Guardian how they are coping and unions outline the changes needed in the workplaceIn the sweltering kitchen of the Plimsoll pub in north London, the head...",
+        "title": "Burnham brings in military and bans disposable barbecues in ‘tinderbox’ Britain",
+        "url": "https://www.theguardian.com/environment/2026/aug/14/burnham-temporary-ban-barbecues-tinderbox-britain",
+        "description": "PM temporarily bans barbecue sales as 19 people are taken to hospital during fires in West Midlands Downing Street has issued a temporary GB-wide ban on the sale of disposable barbecues and brought...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "UK sees temperatures of 38.1C, the hottest day of 2026; Greece battles wildfires after gale force winds – as it happened",
-        "url": "https://www.theguardian.com/environment/live/2026/aug/13/europe-heatwave-france-spain-italy-uk-degrees-temperature-record-summer-drought-latest-news-updates",
-        "description": "A former UK government scientific adviser warned amid the ‘shattering’ heat that worse is still to comeMet Office has just offered an update on temperatures across the UK, with several stations alr...",
+        "title": "Five reservoirs in England and Wales ‘exceptionally low’ as drought persists",
+        "url": "https://www.theguardian.com/environment/2026/aug/14/reservoirs-england-wales-exceptionally-low-water-drought",
+        "description": "Extreme heat and lack of rain threatening public water supply, with ‘real trouble’ predicted if autumn stays dryFive key reservoirs across England and Wales are “exceptionally low” as drought and e...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "'The department has lost touch with farmers' - call for minister's resignation over cattle cull",
+        "title": "'Days of the farmers' union dictating policy are over' - Muir",
         "url": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
-        "description": "The minister has previously said there was \"no reasonable alternative\" to the cattle being euthanised on site after the 51 cattle were culled following a court order.",
+        "description": "The Agriculture Minister Andrew Muir says he will continue to engage with the Ulster Farmers' Union.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Students squeezed out of university courses after bumper A-level grades",
+        "url": "https://www.theguardian.com/education/2026/aug/14/students-squeezed-out-university-courses-bumper-crop-top-a-level-grades",
+        "description": "Students narrowly missing grades are being rejected, while some on oversubscribed courses are asked to deferStudents across the UK have found themselves unexpectedly squeezed out of their desired u...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "UK universities face ‘financial crisis’ amid collapse in international students",
         "url": "https://www.theguardian.com/education/2026/aug/13/uk-universities-face-financial-crisis-amid-collapse-in-international-students",
@@ -156,13 +163,6 @@
         "title": "Behind England’s bumper A-level results lie record levels of regional disparities",
         "url": "https://www.theguardian.com/education/2026/aug/13/england-a-level-results-record-levels-regional-disparities",
         "description": "Need for Burnham to tackle regional inequality could not be clearer as London becomes ‘educational outlier’Andy Burnham has put regional inequality at the top of his agenda as prime minister, and n...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "London pulls further ahead as A-level regional divide for top grades hits record – as it happened",
-        "url": "https://www.theguardian.com/education/live/2026/aug/13/a-level-results-universities-clearing-schools-college-sixth-forms-latest-news-updates",
-        "description": "This year’s results expose a widening gap in students achieving top grades in London and north-east EnglandFor international students, 53,740 applicants have been accepted on to undergraduate cours...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
+        "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
+        "description": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+        "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+        "description": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "'Unprecedented' rain in Japan kills eight people",
         "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
         "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US says dozens of countries helped China dodge Trump's tariffs",
-        "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-        "description": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
-        "url": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
-        "description": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
