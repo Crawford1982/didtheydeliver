@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T06:34:38.933782+00:00",
+  "fetched_at": "2026-08-15T12:33:15.945341+00:00",
   "headlines": {
     "government": [
       {
@@ -33,6 +33,13 @@
     ],
     "economy": [
       {
+        "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
+        "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
+        "description": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the richAfter the House passed its version of Donald Trump’s One Big Beautiful Bill Act (OBBBA) last year...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
         "description": "Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001Andy Burnham looks to cut new EV sales targetsInsurer Aviva said it is helping custo...",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "UK economy shows surprising resilience – but that might not last | Richard Partington",
-        "url": "https://www.theguardian.com/business/2026/aug/13/uk-economy-gdp-growth-energy-costs-inflation",
-        "description": "Weaker growth, rising energy costs and persistent inflation mean Britain could face tougher times in the autumnUK economic growth slows downBusiness live – latest updatesIn the spring the Internati...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Electric vehicle sales targets could be cut after pressure from car makers",
         "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
         "description": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
@@ -63,23 +63,23 @@
     ],
     "nhs": [
       {
+        "title": "‘Dangerously hostile’: heatwaves leave hospital wards unsafe, data reveals",
+        "url": "https://www.theguardian.com/society/2026/aug/15/dangerously-hostile-heatwaves-leave-hospital-wards-unsafe-data-reveals",
+        "description": "Figures disclosed by 33 NHS trusts show temperatures on wards during July rose above 28C limit set by NHS EnglandHospitals in England have recorded temperatures of almost 42C this summer, with surg...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "‘A tax on being thin’: only high earners make overall savings on food bills from weight-loss drugs",
+        "url": "https://www.theguardian.com/science/2026/aug/15/high-earners-savings-weight-loss-drugs-income-glp-1",
+        "description": "Users need discretionary income of nearly £100,000 a year to make savings on their grocery spend after paying £1,200 for GLP-1s, analysis findsThe high cost of weight-loss medication is a “regressi...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "‘We’re seeing lots of people who feel dizzy’: how heatwaves are taking a toll on people’s health and the NHS",
         "url": "https://www.theguardian.com/society/2026/aug/14/heatwaves-nhs-health-elderly-people-falls-dizziness-doctors-nurses",
         "description": "Doctors and nurses describe rise in fall injuries and other heat-related problems on top of stifling working conditions“The big thing A&E doctors are seeing during extreme heat now is falls in the ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Andy Burnham’s great British rip-off list just got even longer | Letters",
-        "url": "https://www.theguardian.com/money/2026/aug/13/andy-burnham-great-british-rip-off-list-just-got-even-longer",
-        "description": "Readers respond to the prime minister’s promise to end unexpected payments and hidden catches for consumersMisleading discounts and obstructive cancellation procedures certainly deserve regulation....",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
-        "description": "The Reform UK leader resigned as the MP for Clacton at the start of July and forced a byelectionThe number of patients in England being cared for in hospital corridors or makeshift areas has remain...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "How to buy a ‘mega-dinghy’: the perilous new model of Channel crossing",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/15/how-to-buy-a-mega-dinghy-the-perilous-new-model-of-channel-crossing",
+        "description": "Boats carrying hundreds of people are a clear and alarming trend. But where do such large vessels come from?Providing a large dinghy for use in the choppy seas of western Europe was not a problem, ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Albanian ambassador attacks UK right wing for ‘unhinged’ fixation with 2022 migrant surge",
         "url": "https://www.theguardian.com/uk-news/2026/aug/14/albanian-ambassador-attacks-uk-right-wing-fixation-2022-migrant-surge",
         "description": "Exclusive: Uran Ferizi says arrivals fell sharply after short-lived influx, but country continues to be stigmatisedThe number of Albanians who travelled to Britain in small boats four years ago rem...",
@@ -103,13 +110,6 @@
         "title": "Nearly 100 children detained as adults under UK-France migration deal",
         "url": "https://www.theguardian.com/uk-news/2026/aug/13/children-detained-adults-one-in-one-out-deal-uk-france-migration",
         "description": "Figures emerge in critical letter to Home Office from organisation appointed to scrutinise detention facilitiesNearly 100 children have been wrongly identified and detained as adults under Shabana ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Government could pay higher rents to spread asylum accommodation across UK",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/13/government-could-pay-higher-rents-to-spread-asylum-accommodation-across-uk",
-        "description": "Greater use of private rental properties would form part of PM’s plan to spread accommodation more evenly across UKMinisters are considering paying higher prices for housing asylum seekers in priva...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,9 +146,16 @@
     ],
     "education": [
       {
-        "title": "‘Watch your spending, use free perks’: an insider’s tips on student money",
-        "url": "https://www.theguardian.com/money/2026/aug/15/university-student-money-spending-free-perks-save-cash",
-        "description": "Avoid getting into debt at university with tricks to save cash, earn extra funds and have a good timeOver the past two years university student Erin has been giving Martin Lewis a run for his money...",
+        "title": "Tributes paid to Jason Arday after former Cambridge professor’s death",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/15/jason-arday-tributes-paid-to-former-cambridge-professor",
+        "description": "Andy Burnham calls for reflection after ‘a tragedy on so many levels’ in comments echoed by London mayor Sadiq KhanAndy Burnham has called the death of Jason Arday, who was found dead at his home i...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "‘Cheap travel is not a defence’: the parents facing court for school absences in England",
+        "url": "https://www.theguardian.com/education/2026/aug/15/inside-court-england-parents-face-fines-school-absence",
+        "description": "In one court in Kent, most cases relate to term-time holidays, but non-attendance is a complex issue and post-pandemic rates remain highAs the long school summer break approached its mid-point rece...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -156,13 +163,6 @@
         "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
         "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
         "description": "Academic was pronounced dead at his home in south London after police called to address after 3pm on FridayJason Arday, the academic who resigned last week as a professor at the University of Cambr...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Students squeezed out of university courses after bumper A-level grades",
-        "url": "https://www.theguardian.com/education/2026/aug/14/students-squeezed-out-university-courses-bumper-crop-top-a-level-grades",
-        "description": "Students narrowly missing grades are being rejected, while some on oversubscribed courses are asked to deferStudents across the UK have found themselves unexpectedly squeezed out of their desired u...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-        "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
-        "description": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+        "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+        "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+        "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
-        "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-        "description": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
+        "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
+        "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
