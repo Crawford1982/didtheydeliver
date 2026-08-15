@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-14T18:51:09.159629+00:00",
+  "fetched_at": "2026-08-15T01:07:25.098426+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Burnham announces £65m for drought-hit farmers after Labour pressure",
+        "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-climate-response-drought-hit-farmers-labour-pressure",
+        "description": "PM steps up climate response with measures including better water access and support for building farm reservoirsFarmers must not carry the risks of the climate crisis alone, Andy Burnham has said,...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Standards watchdog resumes Farage probe as rivals slam needless byelection",
         "url": "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
@@ -13,13 +20,6 @@
         "title": "UK politics: Country a ‘tinderbox’, says Burnham, as he calls in military and bans disposable barbecues – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates",
         "description": "PM also says fire and rescue services will be given more cash This election is a novelty with a record 34 candidates, including Howling Laud Hope of The Official Monster Raving Loony Party and Marc...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham brings in military and bans disposable barbecues in ‘tinderbox’ Britain",
-        "url": "https://www.theguardian.com/environment/2026/aug/14/burnham-temporary-ban-barbecues-tinderbox-britain",
-        "description": "PM temporarily bans barbecue sales as 19 people are taken to hospital during fires in West Midlands Downing Street has issued a temporary GB-wide ban on the sale of disposable barbecues and brought...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
+        "title": "Burnham announces £65m for drought-hit farmers after Labour pressure",
+        "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-climate-response-drought-hit-farmers-labour-pressure",
+        "description": "PM steps up climate response with measures including better water access and support for building farm reservoirsFarmers must not carry the risks of the climate crisis alone, Andy Burnham has said,...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Burnham criticised for EV and North Sea approach amid climate crisis",
+        "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
+        "description": "Cut in electric vehicle sales targets could add millions of tonnes of CO2 to emissions in UK, say green campaignersAndy Burnham has been criticised for moving to cut electric vehicle (EV) sales tar...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "One dead, dozens injured and thousands evacuated in Croatian wildfires – as it happened",
         "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
         "description": "Firefighters discover body and say more than 40 people hurt in the Lokva Rogoznica and Omiš areasEngland has received just 4mm of rain so far in August, or 6% of the long-term average for the month...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Burnham brings in military and bans disposable barbecues in ‘tinderbox’ Britain",
-        "url": "https://www.theguardian.com/environment/2026/aug/14/burnham-temporary-ban-barbecues-tinderbox-britain",
-        "description": "PM temporarily bans barbecue sales as 19 people are taken to hospital during fires in West Midlands Downing Street has issued a temporary GB-wide ban on the sale of disposable barbecues and brought...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Five reservoirs in England and Wales ‘exceptionally low’ as drought persists",
-        "url": "https://www.theguardian.com/environment/2026/aug/14/reservoirs-england-wales-exceptionally-low-water-drought",
-        "description": "Extreme heat and lack of rain threatening public water supply, with ‘real trouble’ predicted if autumn stays dryFive key reservoirs across England and Wales are “exceptionally low” as drought and e...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
+        "description": "Academic was pronounced dead at his home in south London after police called to address after 3pm on FridayJason Arday, the academic who resigned last week as a professor at the University of Cambr...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Students squeezed out of university courses after bumper A-level grades",
         "url": "https://www.theguardian.com/education/2026/aug/14/students-squeezed-out-university-courses-bumper-crop-top-a-level-grades",
         "description": "Students narrowly missing grades are being rejected, while some on oversubscribed courses are asked to deferStudents across the UK have found themselves unexpectedly squeezed out of their desired u...",
@@ -156,13 +163,6 @@
         "title": "UK universities face ‘financial crisis’ amid collapse in international students",
         "url": "https://www.theguardian.com/education/2026/aug/13/uk-universities-face-financial-crisis-amid-collapse-in-international-students",
         "description": "Higher education figures call on Labour to reverse tax on fees and warn institutions at risk of ‘going under’University leaders are warning of financial turmoil in British higher education after ne...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Behind England’s bumper A-level results lie record levels of regional disparities",
-        "url": "https://www.theguardian.com/education/2026/aug/13/england-a-level-results-record-levels-regional-disparities",
-        "description": "Need for Burnham to tackle regional inequality could not be clearer as London becomes ‘educational outlier’Andy Burnham has put regional inequality at the top of his agenda as prime minister, and n...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Instagram accounts fuelling Ceuta crisis with paid advice for help to cross",
-        "url": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
-        "description": "BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.",
+        "title": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+        "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+        "description": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-        "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-        "description": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
+        "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
+        "description": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "'Unprecedented' rain in Japan kills eight people",
-        "url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-        "description": "The storm cut power to more than 20,000 households and left 7,000 people stranded at Tokyo's Narita airport.",
+        "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+        "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
