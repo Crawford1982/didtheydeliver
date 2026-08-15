@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T12:33:15.945341+00:00",
+  "fetched_at": "2026-08-15T18:26:07.398031+00:00",
   "headlines": {
     "government": [
       {
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "Royal estates rent out homes that fail to meet legal energy efficiency standards",
+        "url": "https://www.theguardian.com/society/2026/aug/15/royal-estates-rent-out-homes-that-fail-to-meet-legal-energy-efficiency-standards",
+        "description": "Exclusive: More than 100 homes on King Charles and Prince William’s inherited estates have EPC ratings of F or G• ‘It’s archaic’: the struggle to heat poorly insulated homes let by royal estatesMor...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Alarmed by the alarm: people react to ‘severe alert’ on phones over UK wildfires",
+        "url": "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
+        "description": "Many complained online that piercingly loud tone was ‘overreach’ while others lamented lack of action on decarbonisationOn Friday at 7pm, Thérèse Coffey was nine miles away from a nuclear power sta...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Burnham announces £65m for drought-hit farmers after Labour pressure",
         "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-climate-response-drought-hit-farmers-labour-pressure",
         "description": "PM steps up climate response with measures including better water access and support for building farm reservoirsFarmers must not carry the risks of the climate crisis alone, Andy Burnham has said,...",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Burnham criticised for EV and North Sea approach amid climate crisis",
-        "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-new-ev-sales-targets",
-        "description": "Cut in electric vehicle sales targets could add millions of tonnes of CO2 to emissions in UK, say green campaignersAndy Burnham has been criticised for moving to cut electric vehicle (EV) sales tar...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "One dead, dozens injured and thousands evacuated in Croatian wildfires – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/aug/14/fires-wildfires-extreme-heat-west-midlands-stourbridge-uk-greece-france-croatia-climate-crisis-europe-latest-news-updates",
-        "description": "Firefighters discover body and say more than 40 people hurt in the Lokva Rogoznica and Omiš areasEngland has received just 4mm of rain so far in August, or 6% of the long-term average for the month...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'Days of the farmers' union dictating policy are over' - Muir",
-        "url": "https://www.bbc.co.uk/news/articles/cdj0pv2m812o?at_medium=RSS&at_campaign=rss",
-        "description": "The Agriculture Minister Andrew Muir says he will continue to engage with the Ulster Farmers' Union.",
+        "title": "Firefighters battle wildfire tearing through Belgian nature reserve",
+        "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+        "description": "The fire burning through the major park was described as the country's worst in recent years.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -148,7 +148,7 @@
       {
         "title": "Tributes paid to Jason Arday after former Cambridge professor’s death",
         "url": "https://www.theguardian.com/uk-news/2026/aug/15/jason-arday-tributes-paid-to-former-cambridge-professor",
-        "description": "Andy Burnham calls for reflection after ‘a tragedy on so many levels’ in comments echoed by London mayor Sadiq KhanAndy Burnham has called the death of Jason Arday, who was found dead at his home i...",
+        "description": "Andy Burnham calls for reflection after ‘tragedy on so many levels’ in comments echoed by London mayor Sadiq KhanAndy Burnham has called the death of Jason Arday, whose body was found at his home i...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -169,32 +169,39 @@
     ],
     "housing": [
       {
+        "title": "Royal estates rent out homes that fail to meet legal energy efficiency standards",
+        "url": "https://www.theguardian.com/society/2026/aug/15/royal-estates-rent-out-homes-that-fail-to-meet-legal-energy-efficiency-standards",
+        "description": "Exclusive: More than 100 homes on King Charles and Prince William’s inherited estates have EPC ratings of F or G• ‘It’s archaic’: the struggle to heat poorly insulated homes let by royal estatesMor...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "‘It’s archaic’: the struggle to heat poorly insulated homes let by royal estates",
+        "url": "https://www.theguardian.com/society/2026/aug/15/poorly-insulated-homes-let-by-royal-estates-king-charles",
+        "description": "A number of idyllic-looking homes in estates owned by King Charles and Prince William do not meet energy standards for rentals• Royal estates rent out homes that fail to meet legal energy efficienc...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Westminster council threatens Charing Cross soup kitchen with closure",
         "url": "https://www.theguardian.com/society/2026/aug/15/westminster-council-threatens-charing-cross-soup-kitchen-with-closure",
         "description": "Conservative authority says site is not safe for vulnerable people charity serves or general publicWestminster council is making it “impossible” for soup kitchens to operate by complaining about th...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
-        "description": "The Reform UK leader resigned as the MP for Clacton at the start of July and forced a byelectionThe number of patients in England being cared for in hospital corridors or makeshift areas has remain...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Thursday briefing: What happens after an asylum hotel closes?",
-        "url": "https://www.theguardian.com/world/2026/aug/13/thursday-briefing-first-edition-asylum-hotel-closures-asylum-seekers-communities",
-        "description": "In today’s newsletter: With more sites closed and more lives upended, a look at the rhetoric and reality of where asylum seekers should be housedGood morning. This week, immigration minister Anna T...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+        "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
         "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
         "description": "A search and rescue operation is under way to find survivors in Flores, an island in eastern Indonesia.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
         "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
         "description": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
-        "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
