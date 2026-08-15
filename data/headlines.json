@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-15T01:07:25.098426+00:00",
+  "fetched_at": "2026-08-15T06:34:38.933782+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Westminster council threatens Charing Cross soup kitchen with closure",
+        "url": "https://www.theguardian.com/society/2026/aug/15/westminster-council-threatens-charing-cross-soup-kitchen-with-closure",
+        "description": "Conservative authority says site is not safe for vulnerable people charity serves or general publicWestminster council is making it “impossible” for soup kitchens to operate by complaining about th...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Burnham announces £65m for drought-hit farmers after Labour pressure",
         "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-climate-response-drought-hit-farmers-labour-pressure",
@@ -13,13 +20,6 @@
         "title": "Standards watchdog resumes Farage probe as rivals slam needless byelection",
         "url": "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
         "description": "Reform UK leader says he stayed away from vote count in Clacton to avoid being ‘humiliated by nobodies’Nigel Farage’s attempt to draw the sting from inquiries into his financial affairs appeared to...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK politics: Country a ‘tinderbox’, says Burnham, as he calls in military and bans disposable barbecues – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/14/clacton-byelection-nigel-farage-count-binface-reform-uk-finances-donations-investigation-latest-news-updates",
-        "description": "PM also says fire and rescue services will be given more cash This election is a novelty with a record 34 candidates, including Howling Laud Hope of The Official Monster Raving Loony Party and Marc...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "‘Watch your spending, use free perks’: an insider’s tips on student money",
+        "url": "https://www.theguardian.com/money/2026/aug/15/university-student-money-spending-free-perks-save-cash",
+        "description": "Avoid getting into debt at university with tricks to save cash, earn extra funds and have a good timeOver the past two years university student Erin has been giving Martin Lewis a run for his money...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
         "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
         "description": "Academic was pronounced dead at his home in south London after police called to address after 3pm on FridayJason Arday, the academic who resigned last week as a professor at the University of Cambr...",
@@ -158,16 +165,16 @@
         "description": "Students narrowly missing grades are being rejected, while some on oversubscribed courses are asked to deferStudents across the UK have found themselves unexpectedly squeezed out of their desired u...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "UK universities face ‘financial crisis’ amid collapse in international students",
-        "url": "https://www.theguardian.com/education/2026/aug/13/uk-universities-face-financial-crisis-amid-collapse-in-international-students",
-        "description": "Higher education figures call on Labour to reverse tax on fees and warn institutions at risk of ‘going under’University leaders are warning of financial turmoil in British higher education after ne...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Westminster council threatens Charing Cross soup kitchen with closure",
+        "url": "https://www.theguardian.com/society/2026/aug/15/westminster-council-threatens-charing-cross-soup-kitchen-with-closure",
+        "description": "Conservative authority says site is not safe for vulnerable people charity serves or general publicWestminster council is making it “impossible” for soup kitchens to operate by complaining about th...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Polls open in Clacton, where Farage spent more than £10,000 in byelection against Count Binface – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/aug/13/clacton-byelection-nigel-farage-count-binface-reform-latest-news-updates",
@@ -181,13 +188,6 @@
         "description": "In today’s newsletter: With more sites closed and more lives upended, a look at the rhetoric and reality of where asylum seekers should be housedGood morning. This week, immigration minister Anna T...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Early prisoner releases mean pledge to cut rough sleeping ‘may fail’",
-        "url": "https://www.theguardian.com/society/2026/aug/11/andy-burnham-rough-sleeping-housing-released-prisoners",
-        "description": "Charity says government must focus on securing housing for ex-prisoners if Burnham is to meet rough-sleeping promiseAndy Burnham’s pledge to end rough sleeping in England is under threat from a fai...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Afghan women tell the BBC their lives are unrecognisable after five years of Taliban rule",
-        "url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss",
-        "description": "Women across the country speak of public floggings, losing their jobs, and barriers to healthcare that endanger lives.",
+        "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+        "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's lawyers argue Trump's family members \"have personal knowledge\" of his intentions in the speech he gave outside the US Capitol on 6 January 2021.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
-        "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+        "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+        "url": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+        "description": "The earthquake struck off Flores island in the country's east early on Saturday morning.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
