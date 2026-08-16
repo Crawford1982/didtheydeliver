@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-08-16T12:34:56.602586+00:00",
+  "fetched_at": "2026-08-16T18:25:38.072941+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Arron Banks hired private investigators to dig into Conservative party chair",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/16/arron-banks-hired-private-investigators-dig-into-conservative-party-chair",
+        "description": "Revelation comes after it was disclosed that Reform UK backer had paid for spying on prominent journalistThe businessman and Reform UK backer Arron Banks commissioned a private intelligence firm to...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Taliban threaten former Afghan police worker after MoD leak reveals identity",
+        "url": "https://www.theguardian.com/world/2026/aug/16/taliban-threaten-former-afghan-police-worker-after-mod-leak-reveals-identity",
+        "description": "UK has refused resettlement application despite ‘years of loyal service’ that have resulted in ‘constant fear’ of reprisalsA man has received threats from the Taliban after his work for the Afghan ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Burnham urged to crack down on gig economy firms to protect 4m workers",
         "url": "https://www.theguardian.com/business/2026/aug/16/andy-burnham-gig-economy-companies-employment-rights",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Angela Rayner moves to protect pubs from being turned into houses or offices",
-        "url": "https://www.theguardian.com/politics/2026/aug/16/angela-rayner-pubs-developers-houses-offices-planning-shakeup",
-        "description": "Housing secretary says developers will have to prove there is no way to save pub, as she prepares planning shake-upAll pubs will get protection from being turned into housing or offices under a sha...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "New UK cost of living crisis looms with soaring energy bills forecast to lift inflation",
-        "url": "https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation",
-        "description": "Latest reading on Wednesday likely to frame scale of challenge for new PM to ease pressures on households amid Iran war fallout British households are facing a renewed cost of living squeeze, with ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
-        "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-        "description": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
+        "title": "Calls for public inquiry into Jason Arday 'witch hunt'",
+        "url": "https://www.bbc.co.uk/news/articles/cwymmp30711o?at_medium=RSS&at_campaign=rss",
+        "description": "Lord Simon Woolley said Arday had been \"hounded\" by the media and pursued relentlessly.",
         "source": "BBC News",
         "category": "government"
       }
@@ -40,6 +40,13 @@
         "category": "economy"
       },
       {
+        "title": "Interest rate dilemma for central banks as inflation rises but growth slows",
+        "url": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows",
+        "description": "The Federal Reserve, the ECB and the Bank of England appear unclear on how to tackle inflation amid the Iran warNew UK cost of living crisis looms as rising energy bills lift inflationInflation rat...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "A positive new report raises the question: was Reeves undermined by dodgy data? | Heather Stewart",
         "url": "https://www.theguardian.com/business/2026/aug/16/uk-productivity-data-rachel-reeves-national-statistician",
         "description": "Assessment’s finding of a jump in UK productivity emphasises urgent need to appoint a national statisticianThe keen new chancellor, John Healey, responded to last week’s better-than-expected econom...",
@@ -47,21 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "New UK cost of living crisis looms with soaring energy bills forecast to lift inflation",
-        "url": "https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation",
-        "description": "Latest reading on Wednesday likely to frame scale of challenge for new PM to ease pressures on households amid Iran war fallout British households are facing a renewed cost of living squeeze, with ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Electric vehicle sales targets could be cut after pressure from car makers",
-        "url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss",
-        "description": "The government says it is considering cutting the new electric car sales target from 80% to 50% by 2030.",
+        "title": "Changing pubs into homes to be made harder under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/clyllg1v0kdo?at_medium=RSS&at_campaign=rss",
+        "description": "The rules will come into force on Monday along with other changes to planning policy.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Women should not have to travel for hours to give birth | Letters",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/aug/16/women-should-not-have-to-travel-for-hours-to-give-birth",
+        "description": "Readers reflect on how hospital closures are putting pregnant women’s lives at riskThe situation facing pregnant women in Devon and Cornwall following the closure of North Devon district hospital i...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "‘Dangerously hostile’: heatwaves leave hospital wards unsafe, data reveals",
         "url": "https://www.theguardian.com/society/2026/aug/15/dangerously-hostile-heatwaves-leave-hospital-wards-unsafe-data-reveals",
@@ -73,13 +80,6 @@
         "title": "‘A tax on being thin’: only high earners make overall savings on food bills from weight-loss drugs",
         "url": "https://www.theguardian.com/science/2026/aug/15/high-earners-savings-weight-loss-drugs-income-glp-1",
         "description": "Users need discretionary income of nearly £100,000 a year to make savings on their grocery spend after paying £1,200 for GLP-1s, analysis findsThe high cost of weight-loss medication is a “regressi...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "‘We’re seeing lots of people who feel dizzy’: how heatwaves are taking a toll on people’s health and the NHS",
-        "url": "https://www.theguardian.com/society/2026/aug/14/heatwaves-nhs-health-elderly-people-falls-dizziness-doctors-nurses",
-        "description": "Doctors and nurses describe rise in fall injuries and other heat-related problems on top of stifling working conditions“The big thing A&E doctors are seeing during extreme heat now is falls in the ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -100,21 +100,28 @@
         "category": "immigration"
       },
       {
-        "title": "How to buy a ‘mega-dinghy’: the perilous new model of Channel crossing",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/15/how-to-buy-a-mega-dinghy-the-perilous-new-model-of-channel-crossing",
-        "description": "Boats carrying hundreds of people are a clear and alarming trend. But where do such large vessels come from?Providing a large dinghy for use in the choppy seas of western Europe was not a problem, ...",
+        "title": "The five-year plans that turned into lifetimes: Windrush elders’ stories ‘open door’ for young people",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/16/windrush-elders-stories-hackney-archives-project",
+        "description": "Collecting first-hand accounts of older generation’s struggles is opportunity for Hackney’s children, says leader of pioneering projectThere are faces young and old around a table in Hackney librar...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Albanian ambassador attacks UK right wing for ‘unhinged’ fixation with 2022 migrant surge",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/14/albanian-ambassador-attacks-uk-right-wing-fixation-2022-migrant-surge",
-        "description": "Exclusive: Uran Ferizi says arrivals fell sharply after short-lived influx, but country continues to be stigmatisedThe number of Albanians who travelled to Britain in small boats four years ago rem...",
+        "title": "My lovely French husband has made the ultimate sacrifice for me – he’s now officially British | Emma Beddington",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/16/french-husband-ultimate-sacrifice-now-officially-british",
+        "description": "In Leeds Civic Hall, I watched 20 new citizens pledge their allegiance to King Charles and his heirs. But it wasn’t patriotism that brought tears to my eyesI haven’t felt great about asking my husb...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Greek wildfire kills two people as aircraft deployed to blaze at Belgian nature reserve",
+        "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
+        "description": "Belgium battling biggest fire in more than a century as flames near German border and 600 people told to evacuateTwo people have died in fires on the Greek island of Salamis as firefighting aircraf...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
         "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Alarmed by the alarm: people react to ‘severe alert’ on phones over UK wildfires",
-        "url": "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
-        "description": "Many complained online that piercingly loud tone was ‘overreach’ while others lamented lack of action on decarbonisationOn Friday at 7pm, Thérèse Coffey was nine miles away from a nuclear power sta...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-        "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-        "description": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+        "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+        "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Cambridge University defends its mental health support for Jason Arday",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
+        "description": "University says it continued to provide support after resignation of academic, who was found dead on FridayThe University of Cambridge has defended its mental health support for the academic Jason ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘Our children are less cognitively capable,’ says neuroscientist who wants to cut screen use in schools",
         "url": "https://www.theguardian.com/education/2026/aug/16/neuroscientist-screen-use-schools-educational-technology-jared-cooney-horvath",
@@ -158,20 +165,13 @@
         "description": "Student unrest sweeps India, Portugal and Mexico as grievances and pressure for good grades in tough job market collideFamilies with teenagers in education know the private, hidden pain of exam sea...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Tributes paid to Jason Arday after former Cambridge professor’s death",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/15/jason-arday-tributes-paid-to-former-cambridge-professor",
-        "description": "Andy Burnham calls for reflection after ‘tragedy on so many levels’ in comments echoed by London mayor Sadiq KhanAndy Burnham has called the death of Jason Arday, whose body was found at his home i...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
       {
-        "title": "Royal estates rent out homes that fail to meet legal energy efficiency standards",
-        "url": "https://www.theguardian.com/society/2026/aug/15/royal-estates-rent-out-homes-that-fail-to-meet-legal-energy-efficiency-standards",
-        "description": "Exclusive: More than 100 homes on King Charles and Prince William’s inherited estates have EPC ratings of F or G• ‘It’s archaic’: the struggle to heat poorly insulated homes let by royal estatesMor...",
+        "title": "The Guardian view on London’s social housing: pumping billions into the economy every year",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/16/the-guardian-view-on-londons-social-housing-pumping-billions-into-the-economy-every-year",
+        "description": "The provision of homes needs to be thought of as a service, not a commodity to be traded. It is vital economic infrastructure, so let’s make it affordable for allLondon’s city centre has long been ...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+        "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
         "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-        "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+        "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
         "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
         "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
+        "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+        "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
         "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-        "description": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
+        "description": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
