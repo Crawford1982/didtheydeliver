@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-16T01:12:03.582945+00:00",
+  "fetched_at": "2026-08-16T06:36:24.260180+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "New UK cost of living crisis looms with soaring energy bills forecast to lift inflation",
+        "url": "https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation",
+        "description": "Latest reading on Wednesday likely to frame scale of challenge for new PM to ease pressures on households amid Iran war fallout British households are facing a renewed cost of living squeeze, with ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Westminster council threatens Charing Cross soup kitchen with closure",
         "url": "https://www.theguardian.com/society/2026/aug/15/westminster-council-threatens-charing-cross-soup-kitchen-with-closure",
@@ -17,21 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Standards watchdog resumes Farage probe as rivals slam needless byelection",
-        "url": "https://www.theguardian.com/politics/2026/aug/14/standards-watchdog-investigation-nigel-farage-financial-gifts",
-        "description": "Reform UK leader says he stayed away from vote count in Clacton to avoid being ‘humiliated by nobodies’Nigel Farage’s attempt to draw the sting from inquiries into his financial affairs appeared to...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform UK plan would overhaul welfare system with £50bn in savings",
+        "title": "Reform UK plans to overhaul welfare system to save £50bn",
         "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
-        "description": "The party plans to release a full 50-page plan on Monday outlining their proposed changes were they to come to power.",
+        "description": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "New UK cost of living crisis looms with soaring energy bills forecast to lift inflation",
+        "url": "https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation",
+        "description": "Latest reading on Wednesday likely to frame scale of challenge for new PM to ease pressures on households amid Iran war fallout British households are facing a renewed cost of living squeeze, with ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
         "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
@@ -43,13 +50,6 @@
         "title": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
         "description": "Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001Andy Burnham looks to cut new EV sales targetsInsurer Aviva said it is helping custo...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Andy Burnham ‘angry’ over water company bill increases; Sports Direct owner buys Harvey Nichols – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/aug/13/uk-economy-gdp-growth-second-quarter-services-june-hot-weather-heatwave-world-cup-business-latest-updates",
-        "description": "Live, rolling coverage of business, economics and financial markets as regulator says five companies can raise bills to pay for infrastructure for new housing and datacentresThe biggest factor for ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
+        "description": "The Guardian travelled 100 miles along the EU’s longest river, where some residents are struggling to secure drinking waterFor centuries, the rock was seen as a warning. When it began to emerge fro...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Royal estates rent out homes that fail to meet legal energy efficiency standards",
         "url": "https://www.theguardian.com/society/2026/aug/15/royal-estates-rent-out-homes-that-fail-to-meet-legal-energy-efficiency-standards",
         "description": "Exclusive: More than 100 homes on King Charles and Prince William’s inherited estates have EPC ratings of F or G• ‘It’s archaic’: the struggle to heat poorly insulated homes let by royal estatesMor...",
@@ -126,13 +133,6 @@
         "title": "Alarmed by the alarm: people react to ‘severe alert’ on phones over UK wildfires",
         "url": "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
         "description": "Many complained online that piercingly loud tone was ‘overreach’ while others lamented lack of action on decarbonisationOn Friday at 7pm, Thérèse Coffey was nine miles away from a nuclear power sta...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Burnham announces £65m for drought-hit farmers after Labour pressure",
-        "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-climate-response-drought-hit-farmers-labour-pressure",
-        "description": "PM steps up climate response with measures including better water access and support for building farm reservoirsFarmers must not carry the risks of the climate crisis alone, Andy Burnham has said,...",
         "source": "The Guardian",
         "category": "climate"
       },
