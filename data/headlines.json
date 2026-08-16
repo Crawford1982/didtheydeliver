@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-08-16T06:36:24.260180+00:00",
+  "fetched_at": "2026-08-16T12:34:56.602586+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Burnham urged to crack down on gig economy firms to protect 4m workers",
+        "url": "https://www.theguardian.com/business/2026/aug/16/andy-burnham-gig-economy-companies-employment-rights",
+        "description": "Exclusive: Campaigners say millions are missing out on key rights including sick pay and protection against unfair dismissalAndy Burnham is being urged to protect 4 million gig economy workers by p...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Angela Rayner moves to protect pubs from being turned into houses or offices",
+        "url": "https://www.theguardian.com/politics/2026/aug/16/angela-rayner-pubs-developers-houses-offices-planning-shakeup",
+        "description": "Housing secretary says developers will have to prove there is no way to save pub, as she prepares planning shake-upAll pubs will get protection from being turned into housing or offices under a sha...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "New UK cost of living crisis looms with soaring energy bills forecast to lift inflation",
         "url": "https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation",
@@ -10,21 +24,7 @@
         "category": "government"
       },
       {
-        "title": "Westminster council threatens Charing Cross soup kitchen with closure",
-        "url": "https://www.theguardian.com/society/2026/aug/15/westminster-council-threatens-charing-cross-soup-kitchen-with-closure",
-        "description": "Conservative authority says site is not safe for vulnerable people charity serves or general publicWestminster council is making it “impossible” for soup kitchens to operate by complaining about th...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham announces £65m for drought-hit farmers after Labour pressure",
-        "url": "https://www.theguardian.com/environment/2026/aug/14/andy-burnham-climate-response-drought-hit-farmers-labour-pressure",
-        "description": "PM steps up climate response with measures including better water access and support for building farm reservoirsFarmers must not carry the risks of the climate crisis alone, Andy Burnham has said,...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform UK plans to overhaul welfare system to save £50bn",
+        "title": "Reform proposes £50bn welfare bill cut with changes to disability payments for millions",
         "url": "https://www.bbc.co.uk/news/articles/cz977nxww1jo?at_medium=RSS&at_campaign=rss",
         "description": "The party's proposed changes were they to come to power include a replacement for the disability payments system Pip.",
         "source": "BBC News",
@@ -33,23 +33,23 @@
     ],
     "economy": [
       {
+        "title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves",
+        "url": "https://www.theguardian.com/business/2026/aug/16/tourism-power-generation-productivity-europe-economic-cost-heatwaves",
+        "description": "Low river levels have stalled German freight traffic and forced closure of nuclear plants in FranceAcross Europe this scorching summer, workers have struggled in the heat as wildfires raged and cri...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "A positive new report raises the question: was Reeves undermined by dodgy data? | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/aug/16/uk-productivity-data-rachel-reeves-national-statistician",
+        "description": "Assessment’s finding of a jump in UK productivity emphasises urgent need to appoint a national statisticianThe keen new chancellor, John Healey, responded to last week’s better-than-expected econom...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "New UK cost of living crisis looms with soaring energy bills forecast to lift inflation",
         "url": "https://www.theguardian.com/business/2026/aug/16/new-uk-cost-of-living-crisis-looms-rising-energy-bills-inflation",
         "description": "Latest reading on Wednesday likely to frame scale of challenge for new PM to ease pressures on households amid Iran war fallout British households are facing a renewed cost of living squeeze, with ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Donald Trump doesn’t just love billionaires, he loves multimillionaires too",
-        "url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires",
-        "description": "US tax policy deprives the government of revenue and overwhelmingly serves the interests of the richAfter the House passed its version of Donald Trump’s One Big Beautiful Bill Act (OBBBA) last year...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US long-term borrowing costs hit 25-year high; weakening of UK’s EV sales targets criticised – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/aug/14/us-long-term-borrowing-25-year-high-trump-aviva-eurozone-economy-stock-markets-live-news-updates",
-        "description": "Rolling coverage of the latest and economic news, as US sells 30-year bonds at highest borrowing costs since 2001Andy Burnham looks to cut new EV sales targetsInsurer Aviva said it is helping custo...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Man under threat of deportation to Jamaica wins right to rejoin his British family",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/16/man-under-threat-of-deportation-to-jamaica-wins-right-to-rejoin-his-british-family",
+        "description": "Mark Nelson released from immigration detention on bail after lawyers challenge decision to remove himA Jamaican man who has lived more than half his life in the UK and was facing imminent deportat...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "How to buy a ‘mega-dinghy’: the perilous new model of Channel crossing",
         "url": "https://www.theguardian.com/uk-news/2026/aug/15/how-to-buy-a-mega-dinghy-the-perilous-new-model-of-channel-crossing",
         "description": "Boats carrying hundreds of people are a clear and alarming trend. But where do such large vessels come from?Providing a large dinghy for use in the choppy seas of western Europe was not a problem, ...",
@@ -103,13 +110,6 @@
         "title": "Albanian ambassador attacks UK right wing for ‘unhinged’ fixation with 2022 migrant surge",
         "url": "https://www.theguardian.com/uk-news/2026/aug/14/albanian-ambassador-attacks-uk-right-wing-fixation-2022-migrant-surge",
         "description": "Exclusive: Uran Ferizi says arrivals fell sharply after short-lived influx, but country continues to be stigmatisedThe number of Albanians who travelled to Britain in small boats four years ago rem...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Nearly 100 children detained as adults under UK-France migration deal",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/13/children-detained-adults-one-in-one-out-deal-uk-france-migration",
-        "description": "Figures emerge in critical letter to Home Office from organisation appointed to scrutinise detention facilitiesNearly 100 children have been wrongly identified and detained as adults under Shabana ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,32 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+        "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
         "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-        "description": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+        "description": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "‘Our children are less cognitively capable,’ says neuroscientist who wants to cut screen use in schools",
+        "url": "https://www.theguardian.com/education/2026/aug/16/neuroscientist-screen-use-schools-educational-technology-jared-cooney-horvath",
+        "description": "Jared Cooney Horvath argues that educational technology undermines how children learn and developJared Cooney Horvath is on a mission. In the wake of global campaigns for smartphone bans in schools...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "AI cheating, leaked papers and marking errors: how exam protests went global",
+        "url": "https://www.theguardian.com/global-development/2026/aug/16/ai-cheating-leaked-papers-marking-errors-how-exam-protests-went-global",
+        "description": "Student unrest sweeps India, Portugal and Mexico as grievances and pressure for good grades in tough job market collideFamilies with teenagers in education know the private, hidden pain of exam sea...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Tributes paid to Jason Arday after former Cambridge professor’s death",
         "url": "https://www.theguardian.com/uk-news/2026/aug/15/jason-arday-tributes-paid-to-former-cambridge-professor",
         "description": "Andy Burnham calls for reflection after ‘tragedy on so many levels’ in comments echoed by London mayor Sadiq KhanAndy Burnham has called the death of Jason Arday, whose body was found at his home i...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘Cheap travel is not a defence’: the parents facing court for school absences in England",
-        "url": "https://www.theguardian.com/education/2026/aug/15/inside-court-england-parents-face-fines-school-absence",
-        "description": "In one court in Kent, most cases relate to term-time holidays, but non-attendance is a complex issue and post-pandemic rates remain highAs the long school summer break approached its mid-point rece...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
-        "description": "Academic was pronounced dead at his home in south London after police called to address after 3pm on FridayJason Arday, the academic who resigned last week as a professor at the University of Cambr...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -176,39 +176,39 @@
         "category": "housing"
       },
       {
-        "title": "‘It’s archaic’: the struggle to heat poorly insulated homes let by royal estates",
-        "url": "https://www.theguardian.com/society/2026/aug/15/poorly-insulated-homes-let-by-royal-estates-king-charles",
-        "description": "A number of idyllic-looking homes in estates owned by King Charles and Prince William do not meet energy standards for rentals• Royal estates rent out homes that fail to meet legal energy efficienc...",
+        "title": "Angela Rayner moves to protect pubs from being turned into houses or offices",
+        "url": "https://www.theguardian.com/politics/2026/aug/16/angela-rayner-pubs-developers-houses-offices-planning-shakeup",
+        "description": "Housing secretary says developers will have to prove there is no way to save pub, as she prepares planning shake-upAll pubs will get protection from being turned into housing or offices under a sha...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Westminster council threatens Charing Cross soup kitchen with closure",
-        "url": "https://www.theguardian.com/society/2026/aug/15/westminster-council-threatens-charing-cross-soup-kitchen-with-closure",
-        "description": "Conservative authority says site is not safe for vulnerable people charity serves or general publicWestminster council is making it “impossible” for soup kitchens to operate by complaining about th...",
+        "title": "The Last Drop review – everything is rotten in this dark domestic comedy",
+        "url": "https://www.theguardian.com/stage/2026/aug/16/the-last-drop-review-zoo-playground-edinburgh-festival",
+        "description": "Zoo Playground, EdinburghDante Passarelli’s play, part of the São Paulo Showcase, is an atmospheric hour borrowing themes from HamletThis year’s fringe variously puts Hamlet in the Big Brother hous...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+        "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
         "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-        "description": "Officials say a rapid assessment into the impact of the earthquake that destroyed hundreds of buildings and killed 47 is under way.",
+        "description": "Hundreds of homes and public buildings have been severely damaged with at least 51 people killed.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-        "url": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-        "description": "Security had been stepped up amid suggestions on social media of a second mass crossing on Saturday.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-        "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-        "description": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
+        "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
+        "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+        "description": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
