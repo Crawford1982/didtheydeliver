@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-08-17T12:39:34.516799+00:00",
+  "fetched_at": "2026-08-17T18:36:19.298997+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Jenrick says Reform would make long-term benefits claimants clean up high streets – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/17/housing-planning-changes-andy-burnham-angela-raynor-labour-conservatives-reform-latest-news-updates",
-        "description": "Party’s ‘welfare to work’ policy would force long-term claimants to do community work or face losing benefitsRobert Jenrick went on to say that long-term benefits claimants will be made to clean up...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "JP Morgan boss Jamie Dimon warns UK chancellor not to hike taxes on banks",
-        "url": "https://www.theguardian.com/business/2026/aug/17/jp-morgan-boss-jamie-dimon-warns-uk-chancellor-windfall-tax-banks",
-        "description": "Billionaire CEO of world’s biggest bank says any windfall tax on sector’s bumper profits could harm jobs in CityBusiness live – latest updatesJamie Dimon, the boss of the US bank JP Morgan, has urg...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham exchanged messages with individual impersonating Trump chief of staff",
+        "title": "Cabinet ministers’ mobile numbers found online after Burnham targeted",
         "url": "https://www.theguardian.com/politics/2026/aug/17/andy-burnham-exchanged-messages-individual-impersonating-trump-chief-of-staff-susie-wiles",
-        "description": "PM was in contact with unknown person pretending to be senior White House aide Susie Wiles, it is understoodUK politics live – latest updatesAndy Burnham exchanged messages with someone impersonati...",
+        "description": "Revelation about security leak follows person pretending to be senior White House aide contacting prime ministerAt least three UK cabinet ministers have had their personal mobile phone numbers publ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform proposes ban on most benefits for foreign nationals in UK",
-        "url": "https://www.bbc.co.uk/news/articles/cly555430nno?at_medium=RSS&at_campaign=rss",
-        "description": "The move would require renegotiating the UK's Brexit deal and could risk stripping British expats living in the EU of similar rights.",
+        "title": "Reform’s Tice accused of misinformation after urging people to enjoy heatwaves",
+        "url": "https://www.theguardian.com/politics/2026/aug/17/reform-uk-richard-tice-stop-tackling-climate-crisis-enjoy-heat",
+        "description": "Backlash from nurses, medical experts and green campaigners in response to deputy leader dismissing efforts to reach net zeroReform’s deputy leader has been accused of spreading misinformation afte...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Ministers drop plan to relax affordable housing rules after negative response",
+        "url": "https://www.theguardian.com/society/2026/aug/17/ministers-drop-plan-to-relax-affordable-housing-rules-after-rural-homes-backlash",
+        "description": "Government concedes ‘significant opposition’ requires new approach on quotas for medium-sized development sitesMinisters have dropped plans to relax affordable housing rules for developers in Engla...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
+        "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
+        "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Leading economies’ borrowing costs hit highest since 2008 crisis",
+        "url": "https://www.theguardian.com/business/2026/aug/17/government-borrowing-costs-highs-inflation-france-germany-us-japan-uk-bond-yields",
+        "description": "Concern over impact of Iran war pushes up government bond yields in US, UK, France, Germany and JapanGovernment borrowing costs in several advanced economies hit their highest level since the 2008 ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "China’s economy showing signs that slowdown may be extending",
+        "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
+        "description": "Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates everChina’s economy is showing signs of extending a slowdown with a slump in industrial ou...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Summer jobs bounce back in UK thanks to busy calendar of sport and music",
         "url": "https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Interest rate dilemma for central banks as inflation rises but growth slows",
-        "url": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows",
-        "description": "The Federal Reserve, the ECB and the Bank of England appear unclear on how to tackle inflation amid the Iran warNew UK cost of living crisis looms as rising energy bills lift inflationAs the Middle...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "A positive new report raises the question: was Reeves undermined by dodgy data? | Heather Stewart",
-        "url": "https://www.theguardian.com/business/2026/aug/16/uk-productivity-data-rachel-reeves-national-statistician",
-        "description": "Assessment’s finding of a jump in UK productivity emphasises urgent need to appoint a national statisticianThe keen new chancellor, John Healey, responded to last week’s better-than-expected econom...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "How switching your bank account could earn you up to £220",
-        "url": "https://www.bbc.co.uk/news/articles/c5y3ex8ry82o?at_medium=RSS&at_campaign=rss",
-        "description": "New research suggests staying put is costing British savers billions in missed interest every year.",
+        "title": "Virgin takes step towards running Channel Tunnel rail services",
+        "url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
+        "description": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,30 +116,30 @@
     ],
     "climate": [
       {
-        "title": "French PM booed on visit to wildfire-affected region as EU sends assistance to Belgium and Spain – Europe live",
+        "title": "Reform’s Tice accused of misinformation after urging people to enjoy heatwaves",
+        "url": "https://www.theguardian.com/politics/2026/aug/17/reform-uk-richard-tice-stop-tackling-climate-crisis-enjoy-heat",
+        "description": "Backlash from nurses, medical experts and green campaigners in response to deputy leader dismissing efforts to reach net zeroReform’s deputy leader has been accused of spreading misinformation afte...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
+        "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
+        "description": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide droughtSuccessive intense heatwaves and an increasingly severe, continent-wide drought h...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "French PM booed on visit to wildfire-affected region as EU sends assistance to Belgium and Spain – as it happened",
         "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
         "description": "Belgium wildfire creeps closer to German border, as 104 firefighters and 36 vehicles from France help with Spain wildfire effort As flagged earlier, Belgium’s King Philippe is now visiting the emer...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Thom Yorke, Romy and Brian Eno among 200 musicians urging PM to reject new North Sea drilling",
-        "url": "https://www.theguardian.com/business/2026/aug/17/massive-attack-paris-paloma-musicians-burnham-rosebank-north-sea-drilling",
-        "description": "Robert Smith, Olly Alexander and Paris Paloma also among signatories to letter saying exploitation of Rosebank and Jackdaw fields defies climate realityBusiness live – latest updatesMore than 200 m...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
-        "description": "The Guardian travelled 100 miles along the EU’s longest river, where some residents are struggling to secure drinking waterFor centuries, the rock was seen as a warning. When it began to emerge fro...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Consultation ending on controversial Rosebank oil field",
-        "url": "https://www.bbc.co.uk/news/articles/cm2gm8je1kgo?at_medium=RSS&at_campaign=rss",
-        "description": "Supporters and opponents of the controversial plans have been making their cases on the £8.7bn project.",
+        "title": "Watch: Flash flood sweeps vehicle away in Hawaii after Hurricane Lala",
+        "url": "https://www.bbc.co.uk/news/videos/c2el0wd0w3go?at_medium=RSS&at_campaign=rss",
+        "description": "Tropical storm warnings remain for some of the state's islands, as the storm is due to progress west.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -148,7 +148,7 @@
       {
         "title": "Support for Jason Arday’s family shows ‘Britain still cares’, says Windrush campaigner",
         "url": "https://www.theguardian.com/uk-news/2026/aug/17/support-jason-arday-family-shows-britain-still-cares-windrush-campaigner",
-        "description": "Crowdfund passes £150,000, while Cambridge chancellor criticises ‘racist feeding frenzy’ around academic’s deathA Windrush campaigner who launched a fundraiser for Jason Arday’s family has said the...",
+        "description": "Calls grow for inquiry into media reporting of the case as Cambridge chancellor criticises ‘racist feeding frenzy’A Windrush campaigner who launched a fundraiser for Jason Arday’s family has said t...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Ministers drop plan to relax affordable housing rules after negative response",
+        "url": "https://www.theguardian.com/society/2026/aug/17/ministers-drop-plan-to-relax-affordable-housing-rules-after-rural-homes-backlash",
+        "description": "Government concedes ‘significant opposition’ requires new approach on quotas for medium-sized development sitesMinisters have dropped plans to relax affordable housing rules for developers in Engla...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Loosening of planning rules in England to allow more new homes near stations",
         "url": "https://www.theguardian.com/politics/2026/aug/17/loosening-planning-rules-england-more-homes-train-stations-rayner",
         "description": "Angela Rayner to launch guidance for ‘default yes’ on developments near transport hubs, including on green belt sitesThousands more homes could be built within 10 minutes of transport hubs, includi...",
@@ -181,34 +188,27 @@
         "description": "The provision of homes needs to be thought of as a service, not a commodity to be traded. It is vital economic infrastructure, so let’s make it affordable for allLondon’s city centre has long been ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Angela Rayner moves to protect pubs from being turned into houses or offices",
-        "url": "https://www.theguardian.com/politics/2026/aug/16/angela-rayner-pubs-developers-houses-offices-planning-shakeup",
-        "description": "Housing secretary says developers will have to prove there is no way to save pub, as she prepares planning shake-upAll pubs will get protection from being turned into housing or offices under a sha...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-        "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-        "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+        "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+        "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-        "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-        "description": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Ukrainian strikes kill six in Russia, acting governor says",
+        "title": "Russia and Ukraine trade more deadly strikes",
         "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-        "description": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
+        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Russia's prominent anti-war politician jailed for 11 years",
+        "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
+        "description": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
