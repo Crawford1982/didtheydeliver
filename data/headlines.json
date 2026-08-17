@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-16T18:25:38.072941+00:00",
+  "fetched_at": "2026-08-17T01:08:59.360358+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Reform accused of targeting the most vulnerable with £50bn benefit cut",
+        "url": "https://www.theguardian.com/society/2026/aug/16/jenrick-cuts-benefits-disabled-people-foreign-nationals",
+        "description": "Robert Jenrick takes aim at disabled people and foreign nationals after saying UK guilty of ‘suicidal empathy’Reform UK has been accused of excluding the most vulnerable from society and punishing ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Arron Banks hired private investigators to dig into Conservative party chair",
         "url": "https://www.theguardian.com/uk-news/2026/aug/16/arron-banks-hired-private-investigators-dig-into-conservative-party-chair",
@@ -13,13 +20,6 @@
         "title": "Taliban threaten former Afghan police worker after MoD leak reveals identity",
         "url": "https://www.theguardian.com/world/2026/aug/16/taliban-threaten-former-afghan-police-worker-after-mod-leak-reveals-identity",
         "description": "UK has refused resettlement application despite ‘years of loyal service’ that have resulted in ‘constant fear’ of reprisalsA man has received threats from the Taliban after his work for the Afghan ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham urged to crack down on gig economy firms to protect 4m workers",
-        "url": "https://www.theguardian.com/business/2026/aug/16/andy-burnham-gig-economy-companies-employment-rights",
-        "description": "Exclusive: Campaigners say millions are missing out on key rights including sick pay and protection against unfair dismissalAndy Burnham is being urged to protect 4 million gig economy workers by p...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -40,16 +40,16 @@
         "category": "economy"
       },
       {
-        "title": "Interest rate dilemma for central banks as inflation rises but growth slows",
-        "url": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows",
-        "description": "The Federal Reserve, the ECB and the Bank of England appear unclear on how to tackle inflation amid the Iran warNew UK cost of living crisis looms as rising energy bills lift inflationInflation rat...",
+        "title": "Summer jobs bounce back in UK thanks to busy calendar of sport and music",
+        "url": "https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music",
+        "description": "Industry tracker finds ‘exceptionally warm weather’ has helped boost job listings in hospitality and tourism sectorThe summer job has staged a comeback this year thanks to the hot weather and a pac...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "A positive new report raises the question: was Reeves undermined by dodgy data? | Heather Stewart",
-        "url": "https://www.theguardian.com/business/2026/aug/16/uk-productivity-data-rachel-reeves-national-statistician",
-        "description": "Assessment’s finding of a jump in UK productivity emphasises urgent need to appoint a national statisticianThe keen new chancellor, John Healey, responded to last week’s better-than-expected econom...",
+        "title": "Interest rate dilemma for central banks as inflation rises but growth slows",
+        "url": "https://www.theguardian.com/business/2026/aug/16/interest-rate-dilemma-for-central-banks-as-inflation-rises-but-growth-slows",
+        "description": "The Federal Reserve, the ECB and the Bank of England appear unclear on how to tackle inflation amid the Iran warNew UK cost of living crisis looms as rising energy bills lift inflationInflation rat...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -116,13 +116,6 @@
     ],
     "climate": [
       {
-        "title": "Greek wildfire kills two people as aircraft deployed to blaze at Belgian nature reserve",
-        "url": "https://www.theguardian.com/world/2026/aug/16/greek-island-salamis-belgium-high-fens-helicopters-wildfire",
-        "description": "Belgium battling biggest fire in more than a century as flames near German border and 600 people told to evacuateTwo people have died in fires on the Greek island of Salamis as firefighting aircraf...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
         "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
         "description": "The Guardian travelled 100 miles along the EU’s longest river, where some residents are struggling to secure drinking waterFor centuries, the rock was seen as a warning. When it began to emerge fro...",
@@ -137,9 +130,16 @@
         "category": "climate"
       },
       {
-        "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-        "url": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+        "title": "Alarmed by the alarm: people react to ‘severe alert’ on phones over UK wildfires",
+        "url": "https://www.theguardian.com/world/2026/aug/15/people-react-severe-alert-phones-message-uk-wildfires",
+        "description": "Many complained online that piercingly loud tone was ‘overreach’ while others lamented lack of action on decarbonisationOn Friday at 7pm, Thérèse Coffey was nine miles away from a nuclear power sta...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "About 100 homes swept away after Hurricane Lala lashes Hawaii",
+        "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+        "description": "The state's governor says there \"amazingly\" does not seem to have been any loss of life besides a car crash.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,7 +169,7 @@
     ],
     "housing": [
       {
-        "title": "The Guardian view on London’s social housing: pumping billions into the economy every year",
+        "title": "The Guardian view on London’s social housing: pumping billions into the economy every year | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/aug/16/the-guardian-view-on-londons-social-housing-pumping-billions-into-the-economy-every-year",
         "description": "The provision of homes needs to be thought of as a service, not a commodity to be traded. It is vital economic infrastructure, so let’s make it affordable for allLondon’s city centre has long been ...",
         "source": "The Guardian",
@@ -183,32 +183,32 @@
         "category": "housing"
       },
       {
-        "title": "The Last Drop review – everything is rotten in this dark domestic comedy",
-        "url": "https://www.theguardian.com/stage/2026/aug/16/the-last-drop-review-zoo-playground-edinburgh-festival",
-        "description": "Zoo Playground, EdinburghDante Passarelli’s play, part of the São Paulo Showcase, is an atmospheric hour borrowing themes from HamletThis year’s fringe variously puts Hamlet in the Big Brother hous...",
+        "title": "King Charles and Prince William face £10m energy upgrade bill for estates",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/16/king-charles-and-prince-william-face-10m-energy-upgrade-bill-for-estates",
+        "description": "New rules could affect nine in 10 rental properties in duchies of Cornwall and Lancaster and at Sandringham King Charles and Prince William could be forced to spend up to £10m upgrading hundreds of...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
+        "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+        "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+        "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+        "description": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
         "url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
         "description": "Moscow also launched deadly strikes against Ukraine overnight, sparking fires across the capital Kyiv.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-        "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
-        "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-        "description": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
