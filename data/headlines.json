@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-17T18:36:19.298997+00:00",
+  "fetched_at": "2026-08-18T01:07:02.043115+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Cabinet ministers’ mobile numbers found online after Burnham targeted",
-        "url": "https://www.theguardian.com/politics/2026/aug/17/andy-burnham-exchanged-messages-individual-impersonating-trump-chief-of-staff-susie-wiles",
-        "description": "Revelation about security leak follows person pretending to be senior White House aide contacting prime ministerAt least three UK cabinet ministers have had their personal mobile phone numbers publ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "Reform’s Tice accused of misinformation after urging people to enjoy heatwaves",
         "url": "https://www.theguardian.com/politics/2026/aug/17/reform-uk-richard-tice-stop-tackling-climate-crisis-enjoy-heat",
-        "description": "Backlash from nurses, medical experts and green campaigners in response to deputy leader dismissing efforts to reach net zeroReform’s deputy leader has been accused of spreading misinformation afte...",
+        "description": "Nurses, medical experts and green campaigners reject party deputy leader’s dismissal of efforts to reach net zero Reform’s deputy leader has been accused of spreading misinformation after he dismis...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Ministers drop plan to relax affordable housing rules after negative response",
-        "url": "https://www.theguardian.com/society/2026/aug/17/ministers-drop-plan-to-relax-affordable-housing-rules-after-rural-homes-backlash",
-        "description": "Government concedes ‘significant opposition’ requires new approach on quotas for medium-sized development sitesMinisters have dropped plans to relax affordable housing rules for developers in Engla...",
+        "title": "Burnham scraps restrictions on disabled people’s bus passes in England",
+        "url": "https://www.theguardian.com/politics/2026/aug/17/burnham-scraps-restrictions-disabled-people-bus-passes-england",
+        "description": "Move means holders will be able to travel free on local services at any time of day or night from April next yearDisabled people across England will be able to use their free bus passes at any time...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Huge number of children would fall into poverty under Reform’s benefits plans, say campaigners",
+        "url": "https://www.theguardian.com/politics/2026/aug/17/children-poverty-reform-uk-benefits",
+        "description": "Party wants to cut £50bn from UK welfare bill but charity says proposals would cause ‘horrific levels of destitution’ Hundreds of thousands of children would be tipped into poverty and destitution ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Virgin takes step towards running Channel Tunnel rail services",
-        "url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss",
-        "description": "Firm wants to run up to 20 daily journeys to Europe but it must get additional approval for overseas tracks.",
+        "title": "To joke or not to joke?: How to write a good out-of-office message",
+        "url": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
+        "description": "As we hit peak holiday season, the BBC looks at the dos and don'ts of composing a good out-of-office message.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -118,7 +118,14 @@
       {
         "title": "Reform’s Tice accused of misinformation after urging people to enjoy heatwaves",
         "url": "https://www.theguardian.com/politics/2026/aug/17/reform-uk-richard-tice-stop-tackling-climate-crisis-enjoy-heat",
-        "description": "Backlash from nurses, medical experts and green campaigners in response to deputy leader dismissing efforts to reach net zeroReform’s deputy leader has been accused of spreading misinformation afte...",
+        "description": "Nurses, medical experts and green campaigners reject party deputy leader’s dismissal of efforts to reach net zero Reform’s deputy leader has been accused of spreading misinformation after he dismis...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Extreme heat more dangerous for people 60 and over than previously thought",
+        "url": "https://www.theguardian.com/society/2026/aug/17/extreme-heat-more-dangerous-for-people-60-and-over-than-previously-thought",
+        "description": "Study finds older adults could face harmful heat stress at just 1.5C of warming above preindustrial levelsPeople aged 60 and over face dangers to their health from exposure to heat at much lower te...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -126,13 +133,6 @@
         "title": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
         "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
         "description": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide droughtSuccessive intense heatwaves and an increasingly severe, continent-wide drought h...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "French PM booed on visit to wildfire-affected region as EU sends assistance to Belgium and Spain – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/aug/17/europe-wildfires-france-greece-belgium-germany-climate-crisis-drought-extreme-heat-latest-news-updates",
-        "description": "Belgium wildfire creeps closer to German border, as 104 firefighters and 36 vehicles from France help with Spain wildfire effort As flagged earlier, Belgium’s King Philippe is now visiting the emer...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Tens of thousands pay tribute to Jason Arday at Trafalgar Square vigil",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/17/tens-of-thousands-pay-tribute-jason-arday-trafalgar-square-vigil",
+        "description": "MPs, friends and campaigners gathered to remember former Cambridge professor after his death on FridayTens of thousands of people gathered in Trafalgar Square in London to remember and pay tribute ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Support for Jason Arday’s family shows ‘Britain still cares’, says Windrush campaigner",
         "url": "https://www.theguardian.com/uk-news/2026/aug/17/support-jason-arday-family-shows-britain-still-cares-windrush-campaigner",
         "description": "Calls grow for inquiry into media reporting of the case as Cambridge chancellor criticises ‘racist feeding frenzy’A Windrush campaigner who launched a fundraiser for Jason Arday’s family has said t...",
@@ -156,13 +163,6 @@
         "title": "Cambridge University defends its mental health support for Jason Arday",
         "url": "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
         "description": "University says it continued to provide support after resignation of academic, who was found dead on FridayThe University of Cambridge has defended its mental health support for the academic Jason ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘Our children are less cognitively capable,’ says neuroscientist who wants to cut screen use in schools",
-        "url": "https://www.theguardian.com/education/2026/aug/16/neuroscientist-screen-use-schools-educational-technology-jared-cooney-horvath",
-        "description": "Jared Cooney Horvath argues that educational technology undermines how children learn and developJared Cooney Horvath is on a mission. In the wake of global campaigns for smartphone bans in schools...",
         "source": "The Guardian",
         "category": "education"
       }
