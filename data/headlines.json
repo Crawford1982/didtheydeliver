@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-18T01:07:02.043115+00:00",
+  "fetched_at": "2026-08-18T06:39:23.056209+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Top economists urge Burnham to sign UK up to UN initiative on global inequality",
+        "url": "https://www.theguardian.com/inequality/2026/aug/18/economists-andy-burnham-uk-un-initiative-global-international-panel-inequality",
+        "description": "Open letter signed by 40 academics including Nobel winner Joseph Stiglitz and Kate Pickett, co-author of The Spirit Level Forty prominent progressive academics are urging Andy Burnham’s government ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Reform’s Tice accused of misinformation after urging people to enjoy heatwaves",
         "url": "https://www.theguardian.com/politics/2026/aug/17/reform-uk-richard-tice-stop-tackling-climate-crisis-enjoy-heat",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Huge number of children would fall into poverty under Reform’s benefits plans, say campaigners",
-        "url": "https://www.theguardian.com/politics/2026/aug/17/children-poverty-reform-uk-benefits",
-        "description": "Party wants to cut £50bn from UK welfare bill but charity says proposals would cause ‘horrific levels of destitution’ Hundreds of thousands of children would be tipped into poverty and destitution ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham exchanged messages with person posing as Trump's chief of staff",
-        "url": "https://www.bbc.co.uk/news/articles/clyvj5zdjj2o?at_medium=RSS&at_campaign=rss",
-        "description": "Downing Street has declined to comment on the security breach, first reported by Politico.",
+        "title": "Russia warns UK over supplying drones to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+        "description": "An MoD spokesperson responds by saying Britain stands \"shoulder to shoulder\" with Ukraine.",
         "source": "BBC News",
         "category": "government"
       }
@@ -40,28 +40,35 @@
         "category": "economy"
       },
       {
-        "title": "China’s economy showing signs that slowdown may be extending",
-        "url": "https://www.theguardian.com/business/2026/aug/17/china-economy-slowdown-signs-extending",
-        "description": "Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates everChina’s economy is showing signs of extending a slowdown with a slump in industrial ou...",
+        "title": "UK pay growth slows as Iran war prompts cost of living squeeze",
+        "url": "https://www.theguardian.com/business/2026/aug/18/uk-pay-growth-ons-iran-war-cost-of-living-unemployment-rate",
+        "description": "Unemployment rate remained at 4.9% in the three months to the end of June, ONS figures showWage growth in the UK slowed in June as workers come under pressure from a renewed cost of living squeeze ...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Summer jobs bounce back in UK thanks to busy calendar of sport and music",
-        "url": "https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music",
-        "description": "Industry tracker finds ‘exceptionally warm weather’ has helped boost job listings in hospitality and tourism sectorThe summer job has staged a comeback this year thanks to the hot weather and a pac...",
+        "title": "Top economists urge Burnham to sign UK up to UN initiative on global inequality",
+        "url": "https://www.theguardian.com/inequality/2026/aug/18/economists-andy-burnham-uk-un-initiative-global-international-panel-inequality",
+        "description": "Open letter signed by 40 academics including Nobel winner Joseph Stiglitz and Kate Pickett, co-author of The Spirit Level Forty prominent progressive academics are urging Andy Burnham’s government ...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "To joke or not to joke?: How to write a good out-of-office message",
-        "url": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
-        "description": "As we hit peak holiday season, the BBC looks at the dos and don'ts of composing a good out-of-office message.",
+        "title": "Job vacancies at five-year low as smaller firms scale back recruitment",
+        "url": "https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss",
+        "description": "Small firms cite labour and operating costs as reasons for scaling back hiring, the UK's statistics body says.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Rising number of people seeking ADHD diagnosis without treatment, say experts",
+        "url": "https://www.theguardian.com/society/2026/aug/18/great-adhd-myth-rising-diagnosis-without-treatment",
+        "description": "Psychiatrists in Channel 4 documentary argue it is more a ‘social construct’ than a medical conditionPeople are increasingly seeking to an obtain an ADHD diagnosis without pursuing treatment, accor...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Nothing less than radical whole-system change is required to fix the NHS's maternity services | Julia Sanders",
         "url": "https://www.theguardian.com/commentisfree/2026/aug/17/nhs-maternity-care-crisis-reports-yvette-cooper-women",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Women should not have to travel for hours to give birth | Letters",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/aug/16/women-should-not-have-to-travel-for-hours-to-give-birth",
-        "description": "Readers reflect on how hospital closures are putting pregnant women’s lives at riskThe situation facing pregnant women in Devon and Cornwall following the closure of North Devon district hospital i...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Did the eclipse damage your eyes?",
-        "url": "https://www.bbc.co.uk/news/videos/cy452z5j1x1o?at_medium=RSS&at_campaign=rss",
-        "description": "An eye surgeon says that fewer people have been seeking treatment for eye damage than after the UK's last total solar eclipse in 1999.",
+        "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+        "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+        "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Student bank accounts: don’t be swayed by the freebies, freshers told",
+        "url": "https://www.theguardian.com/money/2026/aug/18/student-bank-accounts-freebies-perks-overdraft",
+        "description": "Sign-up perks may capture the attention but should the focus be on the interest-free overdraft?The best student deals and discountsAn insider’s tips on student moneyIn the scramble to sort out univ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Tens of thousands pay tribute to Jason Arday at Trafalgar Square vigil",
         "url": "https://www.theguardian.com/uk-news/2026/aug/17/tens-of-thousands-pay-tribute-jason-arday-trafalgar-square-vigil",
         "description": "MPs, friends and campaigners gathered to remember former Cambridge professor after his death on FridayTens of thousands of people gathered in Trafalgar Square in London to remember and pay tribute ...",
@@ -156,13 +163,6 @@
         "title": "Support for Jason Arday’s family shows ‘Britain still cares’, says Windrush campaigner",
         "url": "https://www.theguardian.com/uk-news/2026/aug/17/support-jason-arday-family-shows-britain-still-cares-windrush-campaigner",
         "description": "Calls grow for inquiry into media reporting of the case as Cambridge chancellor criticises ‘racist feeding frenzy’A Windrush campaigner who launched a fundraiser for Jason Arday’s family has said t...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Cambridge University defends its mental health support for Jason Arday",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/16/cambridge-university-jason-arday-mental-health-support",
-        "description": "University says it continued to provide support after resignation of academic, who was found dead on FridayThe University of Cambridge has defended its mental health support for the academic Jason ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-        "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-        "description": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+        "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
+        "url": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
+        "description": "Multiple children are feared to have been conceived using sperm and egg donors which were not the ones selected by the parents.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russia and Ukraine trade more deadly strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-        "description": "Moscow says nine people have been killed in the past 24 hours, while Kyiv reports four deaths.",
+        "title": "Tupac murder trial: 'All hell broke loose' night of rapper's shooting, witness says",
+        "url": "https://www.bbc.co.uk/news/articles/cp3r0kz775ko?at_medium=RSS&at_campaign=rss",
+        "description": "After he was shot multiple times, Tupac Shakur refused to cooperate with police and told an officer \"we'll take care of it\", an officer testified.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russia's prominent anti-war politician jailed for 11 years",
-        "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-        "description": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
+        "title": "Inside secret police warehouse as Germany targets small boats gangs",
+        "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+        "description": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
