@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-19T06:39:45.672695+00:00",
+  "fetched_at": "2026-08-19T12:41:43.778443+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Government rough sleeping funding may not ‘be enough’ to tackle problem, says Burnham – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/19/andy-burnham-homelessness-rough-sleeping-christmas-labour-tories-reform-prisons-north-sea-oil-uk-politics-latest",
+        "description": "PM pledges to get rough sleepers off streets for Christmas but issues ‘rallying call’ for community and voluntary organisations to help with plan Andy Burnham has admitted government funding “may n...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Labour ‘could lose up to 50 seats’ to Greens if new drilling in North Sea approved",
+        "url": "https://www.theguardian.com/politics/2026/aug/19/labour-could-lose-seats-greens-new-drilling-north-sea",
+        "description": "Greens say analysis shows government failure to take bold climate action could lead to big gains for party at electionUK politics live – latest updatesLabour could lose dozens of seats to the Green...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Do not cut benefits for disabled young people, dozens of UK charities urge ministers",
         "url": "https://www.theguardian.com/society/2026/aug/19/benefits-disabled-young-people-uk-charities-letter",
         "description": "More than 40 charities write to Pat McFadden and review head Alan Milburn over fears of stricter eligibility rulesMore than 40 of the UK’s leading charities have warned ministers against imposing t...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham launches ‘national drive’ to get rough sleepers off streets by Christmas",
-        "url": "https://www.theguardian.com/society/2026/aug/18/burnham-national-drive-rough-sleepers-christmas",
-        "description": "Prime minister urges local leaders to act as homelessness campaigners welcome move but say more needs to be doneI won’t abandon anyone to sleep rough on our streets. That’s my £442m promiseAndy Bur...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Swedish MP intervenes in ‘damaging’ Brexit row over elderly Britons ordered to leave",
-        "url": "https://www.theguardian.com/politics/2026/aug/18/swedish-mp-intervenes-brexit-row-elderly-britons-ordered-leave",
-        "description": "Migration minister asked how he intends to stop deportations of people ‘who had lived in Sweden for decades’The deportation and removal of British citizens from Sweden over Brexit residency rights ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,16 @@
     ],
     "economy": [
       {
-        "title": "UK inflation rises to 2.9% as Iran war fuels living costs squeeze",
+        "title": "Rising inflation underlines scale of Andy Burnham’s cost of living challenge",
+        "url": "https://www.theguardian.com/business/2026/aug/19/rising-inflation-underlines-scale-of-andy-burnham-cost-of-living-challenge",
+        "description": "PM’s plan to shield households from more pressure risks being overwhelmed by wider price risesUK inflation rises to 2.9%Business live – latest updatesJuly’s increase in inflation, to 2.9%, is likel...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK inflation rises to 2.9% as Iran war drives up energy bills",
         "url": "https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates",
-        "description": "Higher energy costs push up CPI but jobs slowdown could deter Bank of England from raising interest ratesBusiness live – latest updatesUK inflation rose to 2.9% in July as the impact of the Iran wa...",
+        "description": "Accelerating price increases in July add to pressure on households, with chancellor saying ‘there is more to do to restore hope’Analysis: Rising inflation underlines scale of Burnham’s cost of livi...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Governments’ borrowing costs hit further multi-decade highs as US-Iran peace hopes fade",
-        "url": "https://www.theguardian.com/business/2026/aug/18/governments-borrowing-costs-us-iran-bond-yields-trump",
-        "description": "Bond yields in US, UK, Germany France and Japan rise after ceasefire ends and Trump threatens to bomb OmanBusiness live – latest updatesGovernment borrowing costs in several advanced economies cont...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
-        "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
-        "description": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
+        "title": "Inflation is heating up but don't expect another crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
+        "description": "Rising living costs could heap pressure on PM Andy Burnham though it depends what happens in the coming months.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,7 +84,7 @@
         "category": "nhs"
       },
       {
-        "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+        "title": "Scientists 'stunned' by children's lung recovery in ultra low emission zone",
         "url": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
         "description": "Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows.",
         "source": "BBC News",
@@ -148,7 +148,7 @@
       {
         "title": "‘It’s easy to slip into the negatives’: students on their biggest financial shocks at university",
         "url": "https://www.theguardian.com/money/2026/aug/19/students-starting-university-bank-accounts-rent-food",
-        "description": "From bank accounts to rent and food, students and recent graduates offer advice to those beginning to studyWe asked students, and recent graduates, to tell us about the biggest financial shock they...",
+        "description": "From bank accounts to rent and food, students and recent graduates offer advice to those beginning to studyStudent bank accounts: don’t be swayed by freebiesThe best student deals and discountsAn i...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -169,16 +169,16 @@
     ],
     "housing": [
       {
-        "title": "The people v the datacentre? The fight for Brick Lane - podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/aug/19/the-people-v-the-datacentre-the-fight-for-brick-lane-podcast",
-        "description": "Annie Kelly heads to Brick Lane to hear from residents campaigning against a massive datacentre on one of London’s most famous streetsBrick Lane is one of the most vibrant and best-known streets in...",
+        "title": "Government rough sleeping funding may not ‘be enough’ to tackle problem, says Burnham – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/19/andy-burnham-homelessness-rough-sleeping-christmas-labour-tories-reform-prisons-north-sea-oil-uk-politics-latest",
+        "description": "PM pledges to get rough sleepers off streets for Christmas but issues ‘rallying call’ for community and voluntary organisations to help with plan Andy Burnham has admitted government funding “may n...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "I won’t abandon anyone to sleep rough on our streets. That’s my £442m promise | Andy Burnham",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/18/rough-sleeping-streets-christmas-local-communities",
-        "description": "Today we begin our drive to get everyone in for Christmas. And it will be for local communities up and down the land to decide how best to do itBurnham launches ‘national drive’ to get rough sleepe...",
+        "title": "The people v the datacentre? The fight for Brick Lane - podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/aug/19/the-people-v-the-datacentre-the-fight-for-brick-lane-podcast",
+        "description": "Annie Kelly heads to Brick Lane to hear from residents campaigning against a massive datacentre on one of London’s most famous streetsBrick Lane is one of the most vibrant and best-known streets in...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+        "description": "The six-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Sacked Ukrainian defence minister calls for presidential election",
         "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
         "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
-        "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
-        "description": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Meta hooked children on Facebook and Instagram, US court hears",
-        "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-        "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
+        "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+        "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+        "description": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
