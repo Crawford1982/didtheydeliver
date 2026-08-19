@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T01:08:24.131846+00:00",
+  "fetched_at": "2026-08-19T06:39:45.672695+00:00",
   "headlines": {
     "government": [
       {
@@ -24,7 +24,7 @@
         "category": "government"
       },
       {
-        "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+        "title": "Burnham unveils plan to get rough sleepers off streets for Christmas",
         "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
         "description": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
         "source": "BBC News",
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "UK inflation rises to 2.9% as Iran war fuels living costs squeeze",
+        "url": "https://www.theguardian.com/business/2026/aug/19/uk-inflation-rise-iran-war-energy-consumer-prices-index-interest-rates",
+        "description": "Higher energy costs push up CPI but jobs slowdown could deter Bank of England from raising interest ratesBusiness live – latest updatesUK inflation rose to 2.9% in July as the impact of the Iran wa...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Cooling UK labour market ‘questions need’ for Bank of England rate hikes; grocery inflation slows to two-year low – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/aug/18/oil-prices-rise-us-iran-ceasefire-ends-uk-wage-growth-slows-cost-of-living-squeeze-live-updates",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "‘Picky bits’ on the menu as British shoppers snap up picnic food in heatwave",
-        "url": "https://www.theguardian.com/business/2026/aug/18/picky-bits-british-shoppers-picnic-food-supermarket-deals-grocery-price-inflation",
-        "description": "Consumers also turn to supermarket deals to save money, helping slow grocery price inflationBusiness live – latest updatesShopping baskets took on a decidedly summery complexion during last month’s...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Meta hooked children on Facebook and Instagram, court hears",
-        "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-        "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+        "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
+        "url": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
+        "description": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
-        "title": "England’s ancient oak trees dying in extreme hot and dry weather",
-        "url": "https://www.theguardian.com/environment/2026/aug/18/england-ancient-oak-trees-dying-extreme-hot-dry-weather",
-        "description": "Woodland Trust says trees struggling in drought stress, with older ‘survivors’ disproportionately affectedEngland’s ancient oak trees are dying in the summer’s extreme heat and dry weather, accordi...",
+        "title": "UK relies on heat-stressed countries for fruit and veg it could grow itself – report",
+        "url": "https://www.theguardian.com/environment/2026/aug/19/uk-heat-stressed-countries-fruit-veg-import",
+        "description": "Food Foundation sounds alarm over supply risks and price shocks as about 40% of Britain’s food is importedThe UK is vulnerable to food price shocks because of its dependence on imports of fruit and...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Reform’s Tice accused of misinformation after urging people to enjoy heatwaves",
-        "url": "https://www.theguardian.com/politics/2026/aug/17/reform-uk-richard-tice-stop-tackling-climate-crisis-enjoy-heat",
-        "description": "Nurses, medical experts and green campaigners reject party deputy leader’s dismissal of efforts to reach net zero Reform’s deputy leader has been accused of spreading misinformation after he dismis...",
+        "title": "Carbon pollution has fuelled ‘massive expansion’ of marine heatwaves in Europe, study finds",
+        "url": "https://www.theguardian.com/environment/2026/aug/19/carbon-pollution-massive-expansion-marine-heatwaves-europe",
+        "description": "Hottest periods this year in most sea regions would have been ‘virtually impossible’ in a preindustrial climateCarbon pollution has fuelled a “massive expansion” of marine heatwaves in Europe this ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Extreme heat more dangerous for people 60 and over than previously thought",
-        "url": "https://www.theguardian.com/society/2026/aug/17/extreme-heat-more-dangerous-for-people-60-and-over-than-previously-thought",
-        "description": "Study finds older adults could face harmful heat stress at just 1.5C of warming above preindustrial levelsPeople aged 60 and over face dangers to their health from exposure to heat at much lower te...",
+        "title": "‘Prepare early’: bushfire authorities sound alarm for NT, NSW and Queensland",
+        "url": "https://www.theguardian.com/australia-news/2026/aug/19/bushfire-danger-risk-heightened-fire-australia-nt-nsw-queensland",
+        "description": "Effects of global heating in NT worsened by ‘dangerous and fire-promoting buffel grass’, expert saysFollow our Australia news live blog for latest updatesGet our breaking news email, free app or da...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "‘It’s easy to slip into the negatives’: students on their biggest financial shocks at university",
+        "url": "https://www.theguardian.com/money/2026/aug/19/students-starting-university-bank-accounts-rent-food",
+        "description": "From bank accounts to rent and food, students and recent graduates offer advice to those beginning to studyWe asked students, and recent graduates, to tell us about the biggest financial shock they...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Pentagon threatens to cut federal funding to 30 universities over foreign academic partnerships",
         "url": "https://www.theguardian.com/us-news/2026/aug/18/pentagon-funding-colleges-harvard",
         "description": "Harvard, Yale, Stanford and others face directive to review and cut alliances Pentagon deems national security riskThirty US universities could lose federal funding unless they review and cut forei...",
@@ -158,16 +165,16 @@
         "description": "What are some of the weirdest or priciest things parents and carers have to buyFrom September 2026 a new law comes into force, which will mean parents and carers in England should not have to buy m...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Student bank accounts: don’t be swayed by the freebies, freshers told",
-        "url": "https://www.theguardian.com/money/2026/aug/18/student-bank-accounts-freebies-perks-overdraft",
-        "description": "Sign-up perks may capture the attention but should the focus be on the interest-free overdraft?The best student deals and discountsAn insider’s tips on student moneyIn the scramble to sort out univ...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "The people v the datacentre? The fight for Brick Lane - podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/aug/19/the-people-v-the-datacentre-the-fight-for-brick-lane-podcast",
+        "description": "Annie Kelly heads to Brick Lane to hear from residents campaigning against a massive datacentre on one of London’s most famous streetsBrick Lane is one of the most vibrant and best-known streets in...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "I won’t abandon anyone to sleep rough on our streets. That’s my £442m promise | Andy Burnham",
         "url": "https://www.theguardian.com/commentisfree/2026/aug/18/rough-sleeping-streets-christmas-local-communities",
@@ -181,34 +188,27 @@
         "description": "Prime minister urges local leaders to act as homelessness campaigners welcome move but say more needs to be doneI won’t abandon anyone to sleep rough on our streets. That’s my £442m promiseAndy Bur...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Grenfell cladding firm Arconic paid shareholders £23m more in compensation than to fire victims",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/18/grenfell-cladding-firm-arconic-paid-shareholders-more-compensation-than-fire-victims",
-        "description": "Report’s author said findings highlighted ‘near-total failure’ to hold corporations accountable over the disaster that killed 72 peopleThe company behind Grenfell Tower’s flammable cladding gave mo...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Meta hooked children on Facebook and Instagram, court hears",
+        "title": "Sacked Ukrainian defence minister calls for presidential election",
+        "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+        "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Trump pauses new tariffs on Canada and says countries close to a deal",
+        "url": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
+        "description": "US President Donald Trump said he will delay imposing new tariffs on a wide array of Canadian goods for three days as the countries firm up a trade deal.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Meta hooked children on Facebook and Instagram, US court hears",
         "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
-        "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-        "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Earthquake rocks Spain's historic Granada, injuring three",
-        "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-        "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
+        "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states started.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
