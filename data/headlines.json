@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-08-18T18:35:09.294739+00:00",
+  "fetched_at": "2026-08-19T01:08:24.131846+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham declares almost £350,000 in donations in months before becoming PM",
-        "url": "https://www.theguardian.com/politics/2026/aug/18/burnham-declares-almost-350000-in-donations-in-months-before-becoming-pm",
-        "description": "MPs’ register of interests shows hospitality and trips worth more than £12,000 and contributions from longstanding Labour donorsDonors to Andy Burnham gave almost £350,000 over the months before he...",
+        "title": "Do not cut benefits for disabled young people, dozens of UK charities urge ministers",
+        "url": "https://www.theguardian.com/society/2026/aug/19/benefits-disabled-young-people-uk-charities-letter",
+        "description": "More than 40 charities write to Pat McFadden and review head Alan Milburn over fears of stricter eligibility rulesMore than 40 of the UK’s leading charities have warned ministers against imposing t...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham confirms West Midlands to take public control of local bus network – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/18/disabled-people-england-bus-travel-andy-burnham-labour-reform-nigel-farage-conservatives-kemi-badenoch-uk-politics-live-news",
-        "description": "The prime minister  says the ‘absolutely massive’ move would protect thousands of jobsMoscow has threatened the UK with “consequences” after reports that British drones have been used to strike tar...",
+        "title": "Burnham launches ‘national drive’ to get rough sleepers off streets by Christmas",
+        "url": "https://www.theguardian.com/society/2026/aug/18/burnham-national-drive-rough-sleepers-christmas",
+        "description": "Prime minister urges local leaders to act as homelessness campaigners welcome move but say more needs to be doneI won’t abandon anyone to sleep rough on our streets. That’s my £442m promiseAndy Bur...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Russia threatens UK over supplying drones to Ukraine — The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/aug/18/russia-threatens-uk-over-supplying-drones-to-ukraine-the-latest",
-        "description": "Russia has threatened the UK with ‘consequences’ after reports that British drones were used by Ukraine to strike targets on Russia’s mainland for the first time.The Ministry of Defence has rebuffe...",
+        "title": "Swedish MP intervenes in ‘damaging’ Brexit row over elderly Britons ordered to leave",
+        "url": "https://www.theguardian.com/politics/2026/aug/18/swedish-mp-intervenes-brexit-row-elderly-britons-ordered-leave",
+        "description": "Migration minister asked how he intends to stop deportations of people ‘who had lived in Sweden for decades’The deportation and removal of British citizens from Sweden over Brexit residency rights ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-        "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-        "description": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+        "title": "'Everyone in for Christmas' - Burnham unveils rough sleeping plan",
+        "url": "https://www.bbc.co.uk/news/articles/cvgvy2n6grno?at_medium=RSS&at_campaign=rss",
+        "description": "Rough sleepers in England will be offered housing, in a move likened to the “Everyone In” initiative during the pandemic.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
-        "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
-        "description": "Interest rates on long-term US, UK, German and Japanese government debt have soared.",
+        "title": "Meta hooked children on Facebook and Instagram, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+        "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "GPs’ advice service is causing cancer diagnoses to be missed, inquiry finds",
+        "url": "https://www.theguardian.com/society/2026/aug/18/gps-advice-service-is-causing-cancer-diagnoses-to-be-missed-inquiry-finds",
+        "description": "Advice and guidance services for doctors in England found to be creating risk of missed or late detection of illnessCancer diagnoses have been missed or delayed because of a system designed for GPs...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Rising number of people seeking ADHD diagnosis without treatment, say experts",
         "url": "https://www.theguardian.com/society/2026/aug/18/great-adhd-myth-rising-diagnosis-without-treatment",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "All aboard the cervical screening bus: how NHS clinic-on-wheels is saving lives",
-        "url": "https://www.theguardian.com/society/2026/aug/17/cervical-screening-bus-nhs-clinic-on-wheels-saving-lives",
-        "description": "Exclusive: With no appointment needed and a relaxed environment, bus clinic encourages more women to be checkedIt’s 10am on one of the main pedestrian shopping streets in Warrington, and already th...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "One dead and hundreds ill in UK salmonella outbreak",
-        "url": "https://www.bbc.co.uk/news/articles/cqx7vp77g0jo?at_medium=RSS&at_campaign=rss",
-        "description": "Most of the cases were in England in recent weeks, linked to eating imported eggs, experts believe.",
+        "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
+        "url": "https://www.bbc.co.uk/news/articles/c1l1r1zne1ro?at_medium=RSS&at_campaign=rss",
+        "description": "Children's lung capacity caught up with their peers in less polluted areas once a clean air zone came in, a study shows.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Pentagon threatens to cut federal funding to 30 universities over foreign academic partnerships",
+        "url": "https://www.theguardian.com/us-news/2026/aug/18/pentagon-funding-colleges-harvard",
+        "description": "Harvard, Yale, Stanford and others face directive to review and cut alliances Pentagon deems national security riskThirty US universities could lose federal funding unless they review and cut forei...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "UK parents and carers: what costs do you face when sending your children to school?",
         "url": "https://www.theguardian.com/education/2026/aug/18/parents-and-carers-costs-sending-children-to-school",
         "description": "What are some of the weirdest or priciest things parents and carers have to buyFrom September 2026 a new law comes into force, which will mean parents and carers in England should not have to buy m...",
@@ -158,39 +165,39 @@
         "description": "Sign-up perks may capture the attention but should the focus be on the interest-free overdraft?The best student deals and discountsAn insider’s tips on student moneyIn the scramble to sort out univ...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Tens of thousands pay tribute to Jason Arday at Trafalgar Square vigil",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/17/tens-of-thousands-pay-tribute-jason-arday-trafalgar-square-vigil",
-        "description": "MPs, friends and campaigners gathered to remember former Cambridge professor after his death on FridayTens of thousands of people gathered in Trafalgar Square in London to remember and pay tribute ...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "I won’t abandon anyone to sleep rough on our streets. That’s my £442m promise | Andy Burnham",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/18/rough-sleeping-streets-christmas-local-communities",
+        "description": "Today we begin our drive to get everyone in for Christmas. And it will be for local communities up and down the land to decide how best to do itBurnham launches ‘national drive’ to get rough sleepe...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Burnham launches ‘national drive’ to get rough sleepers off streets by Christmas",
+        "url": "https://www.theguardian.com/society/2026/aug/18/burnham-national-drive-rough-sleepers-christmas",
+        "description": "Prime minister urges local leaders to act as homelessness campaigners welcome move but say more needs to be doneI won’t abandon anyone to sleep rough on our streets. That’s my £442m promiseAndy Bur...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Grenfell cladding firm Arconic paid shareholders £23m more in compensation than to fire victims",
         "url": "https://www.theguardian.com/uk-news/2026/aug/18/grenfell-cladding-firm-arconic-paid-shareholders-more-compensation-than-fire-victims",
         "description": "Report’s author said findings highlighted ‘near-total failure’ to hold corporations accountable over the disaster that killed 72 peopleThe company behind Grenfell Tower’s flammable cladding gave mo...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Ministers drop plan to relax affordable housing rules after negative response",
-        "url": "https://www.theguardian.com/society/2026/aug/17/ministers-drop-plan-to-relax-affordable-housing-rules-after-rural-homes-backlash",
-        "description": "Government concedes ‘significant opposition’ requires new approach on quotas for medium-sized development sitesMinisters have dropped plans to relax affordable housing rules for developers in Engla...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Loosening of planning rules in England to allow more new homes near stations",
-        "url": "https://www.theguardian.com/politics/2026/aug/17/loosening-planning-rules-england-more-homes-train-stations-rayner",
-        "description": "Angela Rayner to launch guidance for ‘default yes’ on developments near transport hubs, including on green belt sitesThousands more homes could be built within 10 minutes of transport hubs, includi...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Meta hooked children on Facebook and Instagram, court hears",
+        "url": "https://www.bbc.co.uk/news/articles/cly5r7vr7q1o?at_medium=RSS&at_campaign=rss",
+        "description": "Meta argued social media addiction does not exist, as a trial stemming from a major lawsuit brought by US states got under way.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
         "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
@@ -201,14 +208,7 @@
       {
         "title": "Earthquake rocks Spain's historic Granada, injuring three",
         "url": "https://www.bbc.co.uk/news/articles/cdx755dyy1yo?at_medium=RSS&at_campaign=rss",
-        "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has closed temporarily.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Brazil's President Lula hails oil discovery near Amazon river",
-        "url": "https://www.bbc.co.uk/news/articles/c4gd7xd8e8lo?at_medium=RSS&at_campaign=rss",
-        "description": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
+        "description": "A number of buildings and cars are damaged in the historic city, and the world famous Alhambra palace has temporarily closed.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
