@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T18:35:46.310685+00:00",
+  "fetched_at": "2026-08-21T01:11:13.454989+00:00",
   "headlines": {
     "government": [
       {
@@ -33,9 +33,9 @@
     ],
     "economy": [
       {
-        "title": "White House faces scrutiny over top Trump aide Natalie Harp – live",
+        "title": "Michael Cohen, ex-fixer for Trump who once testified against him, hosts president on his radio show – US politics live",
         "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
-        "description": "Harp, a former One America News Network show host, has emerged as a key gatekeeper to the presidentSign up for the US Breaking News emailAn FBI team seized electronic devices from former US represe...",
+        "description": "Despite previously comparing him to a ‘mobster’, Trump’s former personal lawyer showers him with praiseTrump administration faces questions over top aide Natalie Harp’s security clearanceSign up fo...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Travelodge boss resigns as chain tackles security after sex assault at hotel",
-        "url": "https://www.bbc.co.uk/news/articles/c2k7e7zwxvyo?at_medium=RSS&at_campaign=rss",
-        "description": "Jo Boydell had been criticised for the company's handling of issues with its safety and security.",
+        "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
+        "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
+        "description": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Glass deposit operator confirmed after months of wrangling",
-        "url": "https://www.bbc.co.uk/news/articles/crk5yk1rynro?at_medium=RSS&at_campaign=rss",
-        "description": "Exchange for Change is running the new recycling programmes across the UK and will also run Wales's.",
+        "title": "El Niño set to be 'strongest in living memory', says Met Office",
+        "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,16 +169,16 @@
     ],
     "housing": [
       {
-        "title": "London flat where boy fell to death could have had more safeguards, inquest told",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/19/london-flat-boy-fell-to-death-inquest",
-        "description": "Aalim Ahmed, five, fell from 15th-floor window at tower block family had asked to be moved out of, court hearsAn inquest into the death of a five-year-old boy who fell from a 15th-floor window has ...",
+        "title": "‘It kept adding up’: how add-on utility fees can lead to eviction for tenants",
+        "url": "https://www.theguardian.com/us-news/2026/aug/20/utility-fees-tenants-eviction",
+        "description": "Tenants can be evicted for not paying utilities even if they have paid rent – tenants and their allies are fighting backThis story was supported and co-published by the journalism non-profit the Ec...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "‘It kept adding up’: how add-on utility fees can lead to eviction for tenants",
-        "url": "https://www.theguardian.com/us-news/2026/aug/20/utility-fees-tenants-eviction",
-        "description": "Tenants can be evicted for not paying utilities even if they have paid rent – tenants and their allies are fighting backThis story was supported and co-published by the journalism non-profit the Ec...",
+        "title": "London flat where boy fell to death could have had more safeguards, inquest told",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/19/london-flat-boy-fell-to-death-inquest",
+        "description": "Aalim Ahmed, five, fell from 15th-floor window at tower block family had asked to be moved out of, court hearsAn inquest into the death of a five-year-old boy who fell from a 15th-floor window has ...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+        "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+        "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+        "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+        "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
         "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
         "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Trump vows tougher economic measures on Iran and supporting countries",
-        "url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-        "description": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-        "description": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
