@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-21T01:11:13.454989+00:00",
+  "fetched_at": "2026-08-21T06:41:59.506236+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
+        "url": "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
+        "description": "July data shows total public debt was £2.98tn, or 94% of GDP – up £96bn on a year earlierThe UK government ran a larger than expected £1.8bn deficit in July, underlining the challenges facing the c...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Leaders attack ‘demotivating’ plan to make pupils who fail GCSEs retake maths and English",
         "url": "https://www.theguardian.com/education/2026/aug/20/governments-plan-young-people-continue-studying-gcse-maths-english-exams",
@@ -17,25 +24,25 @@
         "category": "government"
       },
       {
-        "title": "Reform’s new economic adviser has called for end of pensioners’ triple lock",
-        "url": "https://www.theguardian.com/politics/2026/aug/20/reform-economic-adviser-mitchell-palmer-end-pensioners-triple-lock",
-        "description": "Exclusive: Mitchell Palmer has also argued for privatising the NHS and immigration as way of cutting poverty Reform UK’s new economic adviser has previously called the pensions triple lock unsustai...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham announces plans to clean up worst three illegal waste dumps",
-        "url": "https://www.bbc.co.uk/news/articles/cgk4vn0k3r5o?at_medium=RSS&at_campaign=rss",
-        "description": "The government says the sites in Kent, Surrey and West Yorkshire contain 22,000 tonnes of waste.",
+        "title": "French becoming more effective in stopping small boat crossings, UK says",
+        "url": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
+        "description": "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Michael Cohen, ex-fixer for Trump who once testified against him, hosts president on his radio show – US politics live",
+        "title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
+        "url": "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
+        "description": "July data shows total public debt was £2.98tn, or 94% of GDP – up £96bn on a year earlierThe UK government ran a larger than expected £1.8bn deficit in July, underlining the challenges facing the c...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Michael Cohen, ex-fixer for Trump who once testified against him, hosts president on his radio show – as it happened",
         "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
-        "description": "Despite previously comparing him to a ‘mobster’, Trump’s former personal lawyer showers him with praiseTrump administration faces questions over top aide Natalie Harp’s security clearanceSign up fo...",
+        "description": "Despite previously comparing him to a ‘mobster’, Trump’s former personal lawyer showers him with praise. This blog is now closed.Trump administration faces questions over top aide Natalie Harp’s se...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -43,13 +50,6 @@
         "title": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
         "url": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
         "description": "As yields are dragged higher in the UK, Europe and Japan, the impact for consumers and businesses will be far-reaching‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spendi...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spending",
-        "url": "https://www.theguardian.com/business/2026/aug/20/us-national-debt-republicans",
-        "description": "The enormous US debt under Trump will hobble the next Democratic administration – just as the GOP plannedWhy is the Trump administration causing turmoil in the bond markets?You could pin the US’s s...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "El Niño set to be 'strongest in living memory', says Met Office",
-        "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-        "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+        "title": "'I've caught one fish all season' - how a polluted river could end 300 years of coracle fishing",
+        "url": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
+        "description": "The tradition on a Carmarthenshire river once fished by US President Jimmy Carter could be coming to an end.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-        "description": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
+        "title": "El Niño set to be 'strongest in living memory', says Met Office",
+        "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
