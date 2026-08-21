@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-08-21T06:41:59.506236+00:00",
+  "fetched_at": "2026-08-21T12:42:11.248486+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
-        "url": "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
-        "description": "July data shows total public debt was £2.98tn, or 94% of GDP – up £96bn on a year earlierThe UK government ran a larger than expected £1.8bn deficit in July, underlining the challenges facing the c...",
+        "title": "Ban on goods from occupied West Bank would help protect two-state solution, says Emily Thornberry – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
+        "description": "Head of foreign affairs select committee urges government to adopt ban amid rising settler violence, after foreign secretary rebukes Israel over construction tenderPrime minister Andy Burnham is de...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Leaders attack ‘demotivating’ plan to make pupils who fail GCSEs retake maths and English",
-        "url": "https://www.theguardian.com/education/2026/aug/20/governments-plan-young-people-continue-studying-gcse-maths-english-exams",
-        "description": "Government announce plan for ‘stepping stone’ qualification as 620,000 year 11 students face retaking maths or English after failure to achieve grade 4The government’s plans to make young people co...",
+        "title": "Proposed London datacentre will have annual carbon footprint of 27,000 flights to New York",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
+        "description": "Exclusive: Planning documents show datacentre in North Ockendon would be incompatible with UK net zero targetsA “hyperscale” datacentre in outer London would generate more than 1m tonnes of carbon ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Harry and Meghan’s security funding on UK return is private matter, Burnham says",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/20/harry-and-meghan-security-funding-on-uk-return-is-private-matter-burnham-says",
-        "description": "Prime minister wishes couple well in their move back from the US to a non-royal residence outside LondonHarry and Meghan: key moments and controversies since US moveSecurity arrangements for the Du...",
+        "title": "We would like to speak to people who have been homeless in England about what helped them off the streets",
+        "url": "https://www.theguardian.com/society/2026/aug/21/we-would-like-to-speak-to-people-who-have-been-homeless-in-england-about-what-helped-them-off-the-streets",
+        "description": "Was it a government initiative or help from a charity? Or perhaps the support of friends and/or family?Andy Burnham has called on local leaders to offer all rough sleepers in England a route off th...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "French becoming more effective in stopping small boat crossings, UK says",
-        "url": "https://www.bbc.co.uk/news/articles/c1d1v333ewxo?at_medium=RSS&at_campaign=rss",
-        "description": "The Home Office credits France with intercepting hundreds of potential crossings this summer using new tactics.",
+        "title": "UK borrows more than expected in July as Healey prepares for first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
+        "description": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "Retail sales in Great Britain fall despite heatwave increasing food and drink demand",
+        "url": "https://www.theguardian.com/business/2026/aug/21/retail-sales-in-great-britain-fall-despite-heatwave-increasing-food-and-drink-demand",
+        "description": "Volume of goods sold in stores and online dropped 0.5% in July, ONS saysBusiness live – latest updatesRetail sales across Great Britain weakened last month despite the men’s football World Cup and ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
         "url": "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
-        "description": "July data shows total public debt was £2.98tn, or 94% of GDP – up £96bn on a year earlierThe UK government ran a larger than expected £1.8bn deficit in July, underlining the challenges facing the c...",
+        "description": "July data shows total public debt was £2.98tn, or 94% of GDP – up £96bn on a year earlierBusiness live – latest updatesThe UK government ran a larger-than-expected £1.8bn deficit in July, underlini...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Why is the Trump administration causing turmoil in the bond markets? | Richard Partington",
-        "url": "https://www.theguardian.com/business/2026/aug/20/why-us-bond-market-turmoil-hitting-governments-worldwide",
-        "description": "As yields are dragged higher in the UK, Europe and Japan, the impact for consumers and businesses will be far-reaching‘Starve the beast’? The $40tn cost of Republicans’ false promises to cut spendi...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Stifling heat and broken toilets: TUI River Cruise passengers tell of their holiday hell",
-        "url": "https://www.bbc.co.uk/news/articles/cy07exrz5lpo?at_medium=RSS&at_campaign=rss",
-        "description": "Holidaymakers tell the BBC they paid for luxury breaks but faulty air conditioning left them in sweltering heat.",
+        "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
+        "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
+        "description": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,28 +93,42 @@
     ],
     "immigration": [
       {
+        "title": "Home Office could be blocked from deporting trafficking victims to Albania",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/21/home-office-albanian-trafficking-victims-deport",
+        "description": "Many males are returned even if they have been trafficked but Home Office must now consider new legal guidanceUK politics live – latest updatesThe Home Office could be blocked from deporting many y...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Footage shows clash with French police on beach as dinghy tries to leave for UK",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/21/footage-french-police-clashing-people-beach-small-boats",
+        "description": "Film emerges as France says it has stopped 185 small boat ‘events’ in three months since new £660m deal with UKFootage has captured the moment French police officers clashed with people on a beach ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Poverty and weariness in Nigel Farage’s Clacton | Letters",
         "url": "https://www.theguardian.com/politics/2026/aug/18/poverty-and-weariness-in-nigel-farage-clacton",
         "description": "Vanessa Scanlan says the constituency is desperately in need of a decent MP who would offer genuine support for the problems it faces. Plus letters from Leila Roberts and Richard EllisI live in the...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "The five-year plans that turned into lifetimes: Windrush elders’ stories ‘open door’ for young people",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/16/windrush-elders-stories-hackney-archives-project",
-        "description": "Collecting first-hand accounts of older generation’s struggles is opportunity for Hackney’s children, says leader of pioneering projectThere are faces young and old around a table in Hackney librar...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "My lovely French husband has made the ultimate sacrifice for me – he’s now officially British | Emma Beddington",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/16/french-husband-ultimate-sacrifice-now-officially-british",
-        "description": "In Leeds Civic Hall, I watched 20 new citizens pledge their allegiance to King Charles and his heirs. But it wasn’t patriotism that brought tears to my eyesI haven’t felt great about asking my husb...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Proposed London datacentre will have annual carbon footprint of 27,000 flights to New York",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/21/proposed-london-datacentre-will-have-annual-carbon-footprint-of-27000-flights-to-new-york",
+        "description": "Exclusive: Planning documents show datacentre in North Ockendon would be incompatible with UK net zero targetsA “hyperscale” datacentre in outer London would generate more than 1m tonnes of carbon ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Increased rain and storms to hit UK due to biggest El Niño for a century, says Met Office",
+        "url": "https://www.theguardian.com/environment/2026/aug/21/increased-rainfall-and-storms-to-hit-uk-due-to-biggest-el-nino-for-a-century-say-met-office",
+        "description": "‘Unprecedented’ weather pattern over Pacific Ocean to be felt worldwide with severe droughts expected in southern hemisphereThe El Niño event developing over the Pacific Ocean is likely to be the s...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "PSG’s Ligue 1 home opener moved to Rennes after pitch damaged by heat",
         "url": "https://www.theguardian.com/football/2026/aug/20/psgs-ligue-1-home-opener-moved-to-rennes-after-paris-pitch-damaged-by-heat",
@@ -123,32 +137,25 @@
         "category": "climate"
       },
       {
-        "title": "Without action wildfires in Europe will increase 39% even in best-case climate scenario, study finds",
-        "url": "https://www.theguardian.com/world/2026/aug/20/wildfires-europe-increase-climate-scenario-study",
-        "description": "Improvements in fire management however could mitigate increases by more than 70%, study showsWildfires are projected to burn 39% more of Europe by the end of the century even in the best-case scen...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "California becomes first US state to set efficiency rules for replacement tires",
-        "url": "https://www.theguardian.com/us-news/2026/aug/19/california-replacement-tires",
-        "description": "Regulations that would block sale of older tires praised by environmental groups amid rightwing backlashCalifornia has become the first state in the nation to mandate that replacement tires be ener...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'I've caught one fish all season' - how a polluted river could end 300 years of coracle fishing",
-        "url": "https://www.bbc.co.uk/news/articles/cewr9evwdwko?at_medium=RSS&at_campaign=rss",
-        "description": "The tradition on a Carmarthenshire river once fished by US President Jimmy Carter could be coming to an end.",
+        "title": "El Niño set to be 'strongest in living memory', says Met Office",
+        "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Ban on goods from occupied West Bank would help protect two-state solution, says Emily Thornberry – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
+        "description": "Head of foreign affairs select committee urges government to adopt ban amid rising settler violence, after foreign secretary rebukes Israel over construction tenderPrime minister Andy Burnham is de...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Leaders attack ‘demotivating’ plan to make pupils who fail GCSEs retake maths and English",
         "url": "https://www.theguardian.com/education/2026/aug/20/governments-plan-young-people-continue-studying-gcse-maths-english-exams",
-        "description": "Government announce plan for ‘stepping stone’ qualification as 620,000 year 11 students face retaking maths or English after failure to achieve grade 4The government’s plans to make young people co...",
+        "description": "Government confirms plan for ‘stepping stone’ qualification in England as students face retaking maths or English after failure to achieve grade 4The government’s plans to make young people continu...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -158,16 +165,16 @@
         "description": "Researcher Nathan Cofnas previously claimed Black people would hold few high-profile positions in a meritocracyNathan Cofnas, the academic who made plagiarism allegations against Prof Jason Arday b...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "UK minister criticises misogynistic social media culture | Politics Weekly",
-        "url": "https://www.theguardian.com/politics/video/2026/aug/20/uk-minister-criticises-misogynistic-social-media-culture-politics-weekly",
-        "description": "Racism and misogyny are becoming normalised as a result of rightwing politics and the ‘cesspit’ of social media, according to Labour’s Bridget Phillipson. In an extended interview, the minister for...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Why dodgy doors are the latest casualty of the UK heatwaves",
+        "url": "https://www.theguardian.com/environment/2026/aug/21/why-dodgy-doors-are-the-latest-casualty-of-the-uk-heatwaves",
+        "description": "Sticking or unlockable doors are yet another problem caused by the hot summer, but winter can also bring difficultiesThursday was another busy day for Alan Hickman, a Bournemouth-based locksmith wh...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "‘It kept adding up’: how add-on utility fees can lead to eviction for tenants",
         "url": "https://www.theguardian.com/us-news/2026/aug/20/utility-fees-tenants-eviction",
@@ -181,34 +188,27 @@
         "description": "Aalim Ahmed, five, fell from 15th-floor window at tower block family had asked to be moved out of, court hearsAn inquest into the death of a five-year-old boy who fell from a 15th-floor window has ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Andy Burnham calls on wider society to help end rough sleeping by Christmas",
-        "url": "https://www.theguardian.com/society/2026/aug/19/andy-burnham-calls-on-wider-society-to-help-end-homelessness-by-christmas",
-        "description": "PM says public money alone won’t solve problem but ‘we did it in the pandemic, we can do it again’‘Burnham’s writing cheques, this one might bounce’: homeless people doubt PM’s planAndy Burnham has...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-        "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-        "description": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+        "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "How much could Trump's 'economic D-Day' hurt Iran?",
-        "url": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
-        "description": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+        "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+        "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+        "description": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "El Niño set to be 'strongest in living memory', says Met Office",
-        "url": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
-        "description": "Scientists say the growing El Niño weather pattern is an \"unprecedented event\" and means 2027 is likely to be the world's hottest year on record.",
+        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+        "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+        "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
