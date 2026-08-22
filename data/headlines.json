@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-08-21T18:33:44.851115+00:00",
+  "fetched_at": "2026-08-22T01:07:14.676554+00:00",
   "headlines": {
     "government": [
       {
+        "title": "Deselected candidate claims Lib Dems’ religious discrimination cost him £790,000",
+        "url": "https://www.theguardian.com/politics/2026/aug/21/deselected-candidate-claims-lib-dems-religious-discrimination-cost-him-790000",
+        "description": "David Campanale seeks damages after what he says was organised campaign against his faith in Sutton and Cheam How much is a career in politics worth? The Liberal Democrats, despite admitting claims...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "MPs ‘failing to learn lesson’ over freebies after accepting £400,000 of hospitality",
         "url": "https://www.theguardian.com/uk-news/2026/aug/21/mps-failing-to-learn-lesson-over-freebies-after-accepting-400000-of-hospitality",
-        "description": "MPs receive £858 Harry Styles concert tickets, Chelsea flower show tickets worth £1,839 and £3,432 of hospitality at Brit awardsMPs have been accused of failing to learn their lesson over freebies ...",
+        "description": "MPs receive Harry Styles concert tickets worth £858, Chelsea flower show tickets worth £1,839, and £3,432 of hospitality at Brit awardsMPs have been accused of failing to learn their lesson over fr...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -13,13 +20,6 @@
         "title": "Labour stalling on Jackdaw and Rosebank because ‘heart’s not really in it’, says Badenoch – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
         "description": "This blog is now closed. See all our UK politics coverage hereAfter Emily Thornberry’s call for the government to ban goods from the occupied West Bank (see post at 11:05), Peter Beaumont and Quiqu...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham to dispatch 100 Whitehall officials to help regional mayors",
-        "url": "https://www.theguardian.com/politics/2026/aug/21/burnham-to-dispatch-100-whitehall-officials-to-help-regional-mayors",
-        "description": "Civil service scheme announced after PM convened local leaders to ‘situation room’ meeting from No 10 NorthUK politics live – latest updatesAndy Burnham is to send more than 100 Whitehall officials...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "33m tons of toxic seaweed clogs Caribbean beaches – video",
+        "url": "https://www.theguardian.com/us-news/video/2026/aug/21/33m-tons-of-toxic-seaweed-clogs-caribbean-beaches-video",
+        "description": "A record amount of sargassum has piled up along coastlines of the Caribbean and Gulf of Mexico. Sargassum is a brown seaweed that causes lower oxygen levels and foul-smelling gases when it decompos...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Britain’s railway prepares for more extreme weather as intense El Niño develops",
         "url": "https://www.theguardian.com/environment/2026/aug/21/britains-railway-prepares-for-more-extreme-weather-as-intense-el-nino-develops",
         "description": "Experts say more must be done to adapt to changing climate, after two trains derailed within 24 hours during a recent heatwaveRailway companies are racing to prepare for another brutal summer next ...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Biggest El Niño for a century forecast to bring UK more autumn rain and storms",
-        "url": "https://www.theguardian.com/environment/2026/aug/21/increased-rainfall-and-storms-to-hit-uk-due-to-biggest-el-nino-for-a-century-say-met-office",
-        "description": "‘Unprecedented’ weather pattern over Pacific Ocean to be felt worldwide, with severe droughts expected in some areasThe El Niño event developing over the Pacific Ocean is likely to be the strongest...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Should school holidays change to cope with extreme heat?",
-        "url": "https://www.bbc.co.uk/news/videos/clyqd9x07q0o?at_medium=RSS&at_campaign=rss",
-        "description": "Could changing the school holidays give pupils and teachers a break in largely unconditioned buildings?",
+        "title": "How this 1960s ex-council house is managing to stay cool without air con",
+        "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
+        "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Russian double-tap drone strike kills 14 in Ukrainian mall, officials say",
+        "title": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
         "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-        "description": "Another 121 people were injured when the shopping centre was hit, according to the regional head.",
+        "description": "At least 130 people, including 23 children, were also injured when the shopping centre was hit, according to the regional head.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Hong Kong's Tiananmen activists guilty in national security trial",
-        "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-        "description": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+        "title": "One killed in sword attack at Swedish school",
+        "url": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+        "description": "Officials say another three people were injured, and an 18-year-old male suspect shot and arrested.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
