@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-08-22T06:36:17.542976+00:00",
+  "fetched_at": "2026-08-22T12:34:48.021314+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
+        "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
+        "description": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade banMore than 100 French and British former diplomats have said ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Unions worry Labour’s plan for zero-hours contracts may break manifesto pledge",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/22/unions-worry-labours-plan-for-zero-hours-contracts-may-break-manifesto-pledge",
+        "description": "Leaders claim scaremongering from business figures may cause key legislation to become ‘meaningless’Trades unions are warning Andy Burnham that Labour’s policy on cutting zero-hours contracts risks...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Deselected candidate claims Lib Dems’ religious discrimination cost him £790,000",
         "url": "https://www.theguardian.com/politics/2026/aug/21/deselected-candidate-claims-lib-dems-religious-discrimination-cost-him-790000",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "MPs ‘failing to learn lesson’ over freebies after accepting £400,000 of hospitality",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/21/mps-failing-to-learn-lesson-over-freebies-after-accepting-400000-of-hospitality",
-        "description": "MPs receive Harry Styles concert tickets worth £858, Chelsea flower show tickets worth £1,839, and £3,432 of hospitality at Brit awardsMPs have been accused of failing to learn their lesson over fr...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour stalling on Jackdaw and Rosebank because ‘heart’s not really in it’, says Badenoch – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
-        "description": "This blog is now closed. See all our UK politics coverage hereAfter Emily Thornberry’s call for the government to ban goods from the occupied West Bank (see post at 11:05), Peter Beaumont and Quiqu...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK borrows more than expected in July as Healey prepares for first Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cly8kzkyvwgo?at_medium=RSS&at_campaign=rss",
-        "description": "Chancellor John Healey said the government is 'committed to meeting our fiscal rules'",
+        "title": "Advisor O'Neill rules out government job but backs PM's devolution plans",
+        "url": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
+        "description": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
         "source": "BBC News",
         "category": "government"
       }
@@ -93,16 +93,16 @@
     ],
     "immigration": [
       {
-        "title": "Home Office could be blocked from deporting trafficking victims to Albania",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/21/home-office-albanian-trafficking-victims-deport",
-        "description": "Many males are returned even if they have been trafficked but Home Office must now consider new legal guidanceUK politics live – latest updatesThe Home Office could be blocked from deporting many y...",
+        "title": "Nigel Farage called us ‘nobodies’ in the Clacton byelection. He seems to treat the town in much the same way | Attieh Fard",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/21/nigel-farage-nobodies-clacton-byelection-mp",
+        "description": "I had few resources as a candidate, but the contest allowed me to speak to local people about their lives and their MP. They deserve so much betterIn the early hours of last Friday morning, a video...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Nigel Farage called us ‘nobodies’ in the Clacton byelection. He seems to treat the town in much the same way | Attieh Fard",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/21/nigel-farage-nobodies-clacton-byelection-mp",
-        "description": "I had few resources as a candidate, but the contest allowed me to speak to local people about their lives and their MP. They deserve so much betterIn the early hours of last Friday morning, a video...",
+        "title": "Home Office could be blocked from deporting trafficking victims to Albania",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/21/home-office-albanian-trafficking-victims-deport",
+        "description": "Many males are returned even if they have been trafficked but Home Office must now consider new legal guidanceUK politics live – latest updatesThe Home Office could be blocked from deporting many y...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "How this 1960s ex-council house is managing to stay cool without air con",
-        "url": "https://www.bbc.co.uk/news/articles/cg5l3z7p922o?at_medium=RSS&at_campaign=rss",
-        "description": "The Passivhaus standard is growing in popularity as UK homeowners adapt to hotter summer temperatures.",
+        "title": "Welsh county becomes global hotspot for carbon emissions after wildfires",
+        "url": "https://www.bbc.co.uk/news/articles/cp9e9rg255vo?at_medium=RSS&at_campaign=rss",
+        "description": "The smell of burning from the Blaenavon wildfire was reported 30 miles away in Cardiff.",
         "source": "BBC News",
         "category": "climate"
       }
