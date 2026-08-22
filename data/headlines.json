@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-22T12:34:48.021314+00:00",
+  "fetched_at": "2026-08-22T18:27:25.565046+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Badenoch says Reform defectors ‘some of the most dishonest people I have met’",
+        "url": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
+        "description": "Tory leader rules out coalition with Farage’s party and says ‘drama queens’ who left will not be welcomed backKemi Badenoch has called defectors who left for Reform “some of the most dishonest peop...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
         "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
@@ -17,14 +24,7 @@
         "category": "government"
       },
       {
-        "title": "Deselected candidate claims Lib Dems’ religious discrimination cost him £790,000",
-        "url": "https://www.theguardian.com/politics/2026/aug/21/deselected-candidate-claims-lib-dems-religious-discrimination-cost-him-790000",
-        "description": "David Campanale seeks damages after what he says was organised campaign against his faith in Sutton and Cheam How much is a career in politics worth? The Liberal Democrats, despite admitting claims...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Advisor O'Neill rules out government job but backs PM's devolution plans",
+        "title": "Economic adviser O'Neill rules out government job but backs PM's devolution plans",
         "url": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
         "description": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
         "source": "BBC News",
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
-        "url": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
-        "description": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+        "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Carney faces crucial test after walking away from Trump's deal",
+        "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+        "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
         "url": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
         "description": "The deal stems from a 2024 lawsuit alleging TikTok and its parent company ByteDance collected \"vast amounts of data\" on millions of users under the age of 13.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-        "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-        "description": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
