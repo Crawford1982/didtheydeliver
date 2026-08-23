@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-23T12:35:35.713473+00:00",
+  "fetched_at": "2026-08-23T18:26:03.239487+00:00",
   "headlines": {
     "government": [
-      {
-        "title": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
-        "url": "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
-        "description": "Grassroots groups to urge PM to break with Starmer policy and impose full arms embargo on IsraelGrassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Russia withdraws ambassador to UK as Kremlin ratchets pressure over Ukraine support",
-        "url": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
-        "description": "Andrey Kelin left last month after seven years in diplomatic post with no sign yet of anyone replacing him in roleRussia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin conti...",
-        "source": "The Guardian",
-        "category": "government"
-      },
       {
         "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
         "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
         "description": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British basesHackers linked to Iran have been blamed for a cyber-attack that caused a British p...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham stays away from No 10 North wedding after bride’s plea",
+        "url": "https://www.theguardian.com/politics/2026/aug/23/burnham-stays-away-from-no-10-north-wedding-after-brides-plea",
+        "description": "PM sends video message to newlyweds instead after bride Sarah Burwin asked him not to ‘ruin’ vibe at Heron HouseAndy Burnham fulfilled a bride’s wishes by not turning up for her wedding after she a...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Russia withdraws ambassador to UK as Kremlin raises pressure over Ukraine support",
+        "url": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
+        "description": "Embassy in London says Andrey Kelin left last month after seven years in diplomatic postRussia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin continues to try to put pressur...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
+        "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
+        "description": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade warThe calamitous co...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
         "url": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "Retail sales in Great Britain fall despite heatwave increasing food and drink demand",
-        "url": "https://www.theguardian.com/business/2026/aug/21/retail-sales-in-great-britain-fall-despite-heatwave-increasing-food-and-drink-demand",
-        "description": "Volume of goods sold in stores and online dropped 0.5% in July, ONS saysBusiness live – latest updatesRetail sales across Great Britain weakened last month despite the men’s football World Cup and ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Struggling households need more help with bills, energy industry says",
         "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
         "description": "Industry body Energy UK says the current support for households most in need does not go far enough.",
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "It’s unwise to end local scrutiny of NHS trusts  | Letters",
+        "url": "https://www.theguardian.com/society/2026/aug/23/its-unwise-to-end-local-scrutiny-of-nhs-trusts",
+        "description": "Abolishing the role of statutory governors is ill-advised, says Jean Flanagan. Plus a letter from Jonathan Phillips on the abolition of HealthwatchI wonder how many members of the public are aware ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
         "url": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
@@ -73,13 +80,6 @@
         "title": "Stop putting women through brutal hysteroscopies without pain relief | Letters",
         "url": "https://www.theguardian.com/society/2026/aug/19/stop-putting-women-through-brutal-hysteroscopies-without-pain-relief",
         "description": "The medical system is biased against women, says Carole Kendall, pointing to the very different way men who have colonoscopies are treatedI fully endorse everything Anna Moore writes in her excelle...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "GPs’ advice service is causing cancer diagnoses to be missed, inquiry finds",
-        "url": "https://www.theguardian.com/society/2026/aug/18/gps-advice-service-is-causing-cancer-diagnoses-to-be-missed-inquiry-finds",
-        "description": "Advice and guidance services for doctors in England found to be creating risk of missed or late detection of illnessCancer diagnoses have been missed or delayed because of a system designed for GPs...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "How a new era of heatwaves could shake up the school calendar",
-        "url": "https://www.bbc.co.uk/news/articles/cp872m0grgyo?at_medium=RSS&at_campaign=rss",
-        "description": "Teachers warn it could be increasingly difficult for classrooms to function during the hottest months.",
+        "title": "France links sharp rise in drownings to heatwaves",
+        "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+        "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -176,21 +176,28 @@
         "category": "housing"
       },
       {
+        "title": "To end homelessness, look to the root causes | Letters",
+        "url": "https://www.theguardian.com/society/2026/aug/23/to-end-homelessness-look-to-the-root-causes",
+        "description": "Readers respond to Andy Burnham’s pledge to get all rough sleepers off the streets by ChristmasAs a vulnerable teenage girl carrying my life in a rucksack, I have been the person Andy Burnham descr...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Mayors to get new powers over planning decisions under Burnham proposals",
         "url": "https://www.theguardian.com/society/2026/aug/23/burnham-expected-to-give-mayors-new-powers-over-local-planning-decisions",
         "description": "Move would allow mayors to greenlight large developments and have more say on national housing fundingAndy Burnham will give mayors new powers to take control of local planning decisions and greenl...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Why dodgy doors are the latest casualty of the UK heatwaves",
-        "url": "https://www.theguardian.com/environment/2026/aug/21/why-dodgy-doors-are-the-latest-casualty-of-the-uk-heatwaves",
-        "description": "Sticking or unlockable doors are yet another problem caused by the hot summer, but winter can also bring difficultiesThursday was another busy day for Alan Hickman, a Bournemouth-based locksmith wh...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+        "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
         "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-        "description": "The sacked former defence minister has also called for elections to be held in Ukraine.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Girl, 17, killed in Swedish sword attack, police say",
-        "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-        "description": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
+        "title": "Guinea rubbish landfill collapse kills 30",
+        "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
+        "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
