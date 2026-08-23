@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-23T06:37:35.044423+00:00",
+  "fetched_at": "2026-08-23T12:35:35.713473+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Onshore windfarm applications hit 10-year high in England",
-        "url": "https://www.theguardian.com/environment/2026/aug/23/onshore-windfarm-applications-10-year-high-england",
-        "description": "Surge in proposals follows Labour’s lifting of de facto ban, with about 45 plans submitted in the year to MarchPlans for new onshore windfarms in England have reached their highest annual level in ...",
+        "title": "Burnham to face pressure at Labour conference to recognise Israel’s actions in Gaza as genocide",
+        "url": "https://www.theguardian.com/politics/2026/aug/23/andy-burnham-pressure-labour-conference-recognise-israel-actions-gaza-genocide",
+        "description": "Grassroots groups to urge PM to break with Starmer policy and impose full arms embargo on IsraelGrassroots Labour groups are gearing up for a conference showdown with Andy Burnham over Gaza, as the...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham expected to give mayors new powers over local planning decisions",
-        "url": "https://www.theguardian.com/society/2026/aug/23/burnham-expected-to-give-mayors-new-powers-over-local-planning-decisions",
-        "description": "Move would allow mayors to greenlight large-scale developments and have more say on national housing fundingAndy Burnham is expected to give mayors new powers to take control of local planning deci...",
+        "title": "Russia withdraws ambassador to UK as Kremlin ratchets pressure over Ukraine support",
+        "url": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
+        "description": "Andrey Kelin left last month after seven years in diplomatic post with no sign yet of anyone replacing him in roleRussia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin conti...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Badenoch says Reform defectors ‘some of the most dishonest people I have met’",
-        "url": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
-        "description": "Tory leader rules out coalition with Farage’s party and says ‘drama queens’ who left will not be welcomed backKemi Badenoch has called defectors who left for Reform “some of the most dishonest peop...",
+        "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+        "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
+        "description": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British basesHackers linked to Iran have been blamed for a cyber-attack that caused a British p...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
+        "description": "Treasury secretary Scott Bessent’s attempt to calm bond markets is a sign of weakness not strength“Look, there’s nothing magic about that $40tn number,” the US Treasury secretary, Scott Bessent, to...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "‘The line’s running half-empty’: Llanwern steelworks feels the heat from cheap steel imports",
+        "url": "https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports",
+        "description": "New quotas to protect UK firms and jobs appear to be having opposite effect in products such as galvanised steelAt Tata Steel’s factory in Llanwern, south Wales, production lines that should be run...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Retail sales in Great Britain fall despite heatwave increasing food and drink demand",
         "url": "https://www.theguardian.com/business/2026/aug/21/retail-sales-in-great-britain-fall-despite-heatwave-increasing-food-and-drink-demand",
         "description": "Volume of goods sold in stores and online dropped 0.5% in July, ONS saysBusiness live – latest updatesRetail sales across Great Britain weakened last month despite the men’s football World Cup and ...",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "UK reports unexpected deficit of £1.8bn as John Healey prepares for first budget",
-        "url": "https://www.theguardian.com/politics/2026/aug/21/uk-unexpected-deficit-john-healey-prepares-for-first-budget",
-        "description": "July data shows total public debt was £2.98tn, or 94% of GDP – up £96bn on a year earlierBusiness live – latest updatesThe UK government ran a larger-than-expected £1.8bn deficit in July, underlini...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Michael Cohen, ex-fixer for Trump who once testified against him, hosts president on his radio show – as it happened",
-        "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
-        "description": "Despite previously comparing him to a ‘mobster’, Trump’s former personal lawyer showers him with praise. This blog is now closed.Trump administration faces questions over top aide Natalie Harp’s se...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Royal Mail misses delivery targets again but hails 'encouraging' signs",
-        "url": "https://www.bbc.co.uk/news/articles/c1w1rg208xdo?at_medium=RSS&at_campaign=rss",
-        "description": "The struggling firm said it had improved its performance but missed regulator-set delivery targets.",
+        "title": "Struggling households need more help with bills, energy industry says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
+        "description": "Industry body Energy UK says the current support for households most in need does not go far enough.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
+        "url": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
+        "description": "Since Hurricane Sandy in 2012, a growing labor movement has addressed the climate crisis and economic inequalityRyan McElroen had spent years repairing the New York City subway underground when he ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "33m tons of toxic seaweed clogs Caribbean beaches – video",
         "url": "https://www.theguardian.com/us-news/video/2026/aug/21/33m-tons-of-toxic-seaweed-clogs-caribbean-beaches-video",
         "description": "A record amount of sargassum has piled up along coastlines of the Caribbean and Gulf of Mexico. Sargassum is a brown seaweed that causes lower oxygen levels and foul-smelling gases when it decompos...",
@@ -126,13 +133,6 @@
         "title": "Britain’s railway prepares for more extreme weather as intense El Niño develops",
         "url": "https://www.theguardian.com/environment/2026/aug/21/britains-railway-prepares-for-more-extreme-weather-as-intense-el-nino-develops",
         "description": "Experts say more must be done to adapt to changing climate, after two trains derailed within 24 hours during a recent heatwaveRailway companies are racing to prepare for another brutal summer next ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "First ever Fat Marmot Week to kick off in effort to raise money for research",
-        "url": "https://www.theguardian.com/environment/2026/aug/21/fat-marmot-week-research-funding",
-        "description": "Researchers hope contest – similar to Fat Bear Week – starting Monday will be latest wildlife watching crazeMonday sees the start of what researchers hope will be the latest wildlife watching craze...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,9 +169,16 @@
     ],
     "housing": [
       {
-        "title": "Burnham expected to give mayors new powers over local planning decisions",
+        "title": "Finland tried to end homelessness. What can we learn from its runaway success – and recent failures?",
+        "url": "https://www.theguardian.com/society/2026/aug/23/finland-tried-to-end-homelessness-what-can-we-learn-from-its-runaway-success-and-recent-failures",
+        "description": "The Housing First policy led to the number of homeless people in Finland dropping by half. Those with firsthand experience explain why it workedAt 3.30am, Vello Senkel awoke to a knock on his door....",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Mayors to get new powers over planning decisions under Burnham proposals",
         "url": "https://www.theguardian.com/society/2026/aug/23/burnham-expected-to-give-mayors-new-powers-over-local-planning-decisions",
-        "description": "Move would allow mayors to greenlight large-scale developments and have more say on national housing fundingAndy Burnham is expected to give mayors new powers to take control of local planning deci...",
+        "description": "Move would allow mayors to greenlight large developments and have more say on national housing fundingAndy Burnham will give mayors new powers to take control of local planning decisions and greenl...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -181,34 +188,27 @@
         "description": "Sticking or unlockable doors are yet another problem caused by the hot summer, but winter can also bring difficultiesThursday was another busy day for Alan Hickman, a Bournemouth-based locksmith wh...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "‘It kept adding up’: how add-on utility fees can lead to eviction for tenants",
-        "url": "https://www.theguardian.com/us-news/2026/aug/20/utility-fees-tenants-eviction",
-        "description": "Tenants can be evicted for not paying utilities even if they have paid rent – tenants and their allies are fighting backThis story was supported and co-published by the journalism non-profit the Ec...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
+        "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
         "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-        "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+        "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Carney faces crucial test after walking away from Trump's deal",
-        "url": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-        "description": "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences.",
+        "title": "Zelensky has 'questions to answer' about corruption in his government, sacked minister tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
+        "description": "The sacked former defence minister has also called for elections to be held in Ukraine.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
-        "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-        "description": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+        "title": "Girl, 17, killed in Swedish sword attack, police say",
+        "url": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+        "description": "Two boys aged 12 and 17 were also injured, while an 18-year-old suspect has been detained.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
