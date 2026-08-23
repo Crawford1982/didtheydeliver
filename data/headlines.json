@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-08-23T01:12:51.501363+00:00",
+  "fetched_at": "2026-08-23T06:37:35.044423+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Onshore windfarm applications hit 10-year high in England",
+        "url": "https://www.theguardian.com/environment/2026/aug/23/onshore-windfarm-applications-10-year-high-england",
+        "description": "Surge in proposals follows Labour’s lifting of de facto ban, with about 45 plans submitted in the year to MarchPlans for new onshore windfarms in England have reached their highest annual level in ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham expected to give mayors new powers over local planning decisions",
+        "url": "https://www.theguardian.com/society/2026/aug/23/burnham-expected-to-give-mayors-new-powers-over-local-planning-decisions",
+        "description": "Move would allow mayors to greenlight large-scale developments and have more say on national housing fundingAndy Burnham is expected to give mayors new powers to take control of local planning deci...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Badenoch says Reform defectors ‘some of the most dishonest people I have met’",
         "url": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Former British and French diplomats urge action over Israel’s ‘erasure’ of Palestine",
-        "url": "https://www.theguardian.com/world/2026/aug/22/uk-france-diplomats-israel-palestine",
-        "description": "In letter to Macron and Burnham, more than 100 senior figures accuse Israel of ethnic cleansing and call for measures including trade banMore than 100 French and British former diplomats have said ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Unions worry Labour’s plan for zero-hours contracts may break manifesto pledge",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/22/unions-worry-labours-plan-for-zero-hours-contracts-may-break-manifesto-pledge",
-        "description": "Leaders claim scaremongering from business figures may cause key legislation to become ‘meaningless’Trades unions are warning Andy Burnham that Labour’s policy on cutting zero-hours contracts risks...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Economic adviser O'Neill rules out government job but backs PM's devolution plans",
-        "url": "https://www.bbc.co.uk/news/articles/cwym4m4j848o?at_medium=RSS&at_campaign=rss",
-        "description": "Lord O'Neill, former chief economist at Goldman Sachs, was tipped to become Andy Burnham's chief economic adviser.",
+        "title": "Mayors to get powers to overrule local councils on planning decisions",
+        "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
+        "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
         "source": "BBC News",
         "category": "government"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Burnham expected to give mayors new powers over local planning decisions",
+        "url": "https://www.theguardian.com/society/2026/aug/23/burnham-expected-to-give-mayors-new-powers-over-local-planning-decisions",
+        "description": "Move would allow mayors to greenlight large-scale developments and have more say on national housing fundingAndy Burnham is expected to give mayors new powers to take control of local planning deci...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Why dodgy doors are the latest casualty of the UK heatwaves",
         "url": "https://www.theguardian.com/environment/2026/aug/21/why-dodgy-doors-are-the-latest-casualty-of-the-uk-heatwaves",
         "description": "Sticking or unlockable doors are yet another problem caused by the hot summer, but winter can also bring difficultiesThursday was another busy day for Alan Hickman, a Bournemouth-based locksmith wh...",
@@ -181,18 +188,11 @@
         "description": "Tenants can be evicted for not paying utilities even if they have paid rent – tenants and their allies are fighting backThis story was supported and co-published by the journalism non-profit the Ec...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "London flat where boy fell to death could have had more safeguards, inquest told",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/19/london-flat-boy-fell-to-death-inquest",
-        "description": "Aalim Ahmed, five, fell from 15th-floor window at tower block family had asked to be moved out of, court hearsAn inquest into the death of a five-year-old boy who fell from a 15th-floor window has ...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+        "title": "Trump says Canada wants 'benefits' of being US state as Carney says countries in trade war",
         "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
         "description": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
         "source": "BBC News",
