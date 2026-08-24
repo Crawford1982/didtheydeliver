@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-23T18:26:03.239487+00:00",
+  "fetched_at": "2026-08-24T01:10:53.672016+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
-        "url": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
-        "description": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British basesHackers linked to Iran have been blamed for a cyber-attack that caused a British p...",
+        "title": "UK productivity growing faster than official figures suggest, thinktank finds",
+        "url": "https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation",
+        "description": "Resolution Foundation suggests economy may finally be emerging from shadow of 2008 financial crisisProductivity in the UK – a vital measure of economic health – is growing more strongly than offici...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham stays away from No 10 North wedding after bride’s plea",
-        "url": "https://www.theguardian.com/politics/2026/aug/23/burnham-stays-away-from-no-10-north-wedding-after-brides-plea",
-        "description": "PM sends video message to newlyweds instead after bride Sarah Burwin asked him not to ‘ruin’ vibe at Heron HouseAndy Burnham fulfilled a bride’s wishes by not turning up for her wedding after she a...",
+        "title": "Government vows to make business rate valuations for pubs and hotels fairer",
+        "url": "https://www.theguardian.com/business/2026/aug/24/government-vows-to-make-business-rate-valuations-for-pubs-and-hotels-fairer",
+        "description": "Review will look at improving system for English and Welsh hospitality venues before next revaluation date in 2029 The government has promised that business rate valuations will be “made fairer” fo...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Russia withdraws ambassador to UK as Kremlin raises pressure over Ukraine support",
-        "url": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
-        "description": "Embassy in London says Andrey Kelin left last month after seven years in diplomatic postRussia has withdrawn its ambassador to the UK, it has emerged, as the Kremlin continues to try to put pressur...",
+        "title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
+        "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
+        "description": "PM will use independence day trip to announce sharing of classified information about Storm Shadow componentsBritain will boost Ukraine’s capacity to make its own long-range missiles, Andy Burnham ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "UK productivity growing faster than official figures suggest, thinktank finds",
+        "url": "https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation",
+        "description": "Resolution Foundation suggests economy may finally be emerging from shadow of 2008 financial crisisProductivity in the UK – a vital measure of economic health – is growing more strongly than offici...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
         "url": "https://www.theguardian.com/us-news/2026/aug/23/canada-us-collapsed-trade-talks-negotiation-breakdown-analysis",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "‘The line’s running half-empty’: Llanwern steelworks feels the heat from cheap steel imports",
-        "url": "https://www.theguardian.com/business/2026/aug/23/llanwern-steelworks-cheap-steel-imports",
-        "description": "New quotas to protect UK firms and jobs appear to be having opposite effect in products such as galvanised steelAt Tata Steel’s factory in Llanwern, south Wales, production lines that should be run...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Struggling households need more help with bills, energy industry says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss",
-        "description": "Industry body Energy UK says the current support for households most in need does not go far enough.",
+        "title": "Review launched into how pub and hotel business rates calculated",
+        "url": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
+        "description": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,14 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "Vaccine breakthrough stops cancer returning in trial",
-        "url": "https://www.bbc.co.uk/news/articles/c79gpv7v190o?at_medium=RSS&at_campaign=rss",
-        "description": "A new jab extended the length of time patients were cancer free, but it is unclear for how long.",
+        "title": "How easy is it to find an NHS dentist? It depends where you live",
+        "url": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss",
+        "description": "Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Reform says it would put foreign-born UK citizens lower on social housing list",
+        "url": "https://www.theguardian.com/society/2026/aug/23/reform-social-housing-uk-citizens",
+        "description": "UK-born married couples under 35 with children would get priority under proposals to be outlined by Farage’s partyBritish citizens who were born abroad would be made to wait longer for social housi...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Nigel Farage called us ‘nobodies’ in the Clacton byelection. He seems to treat the town in much the same way | Attieh Fard",
         "url": "https://www.theguardian.com/commentisfree/2026/aug/21/nigel-farage-nobodies-clacton-byelection-mp",
@@ -103,13 +110,6 @@
         "title": "Home Office could be blocked from deporting trafficking victims to Albania",
         "url": "https://www.theguardian.com/uk-news/2026/aug/21/home-office-albanian-trafficking-victims-deport",
         "description": "Many males are returned even if they have been trafficked but Home Office must now consider new legal guidanceUK politics live – latest updatesThe Home Office could be blocked from deporting many y...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Footage shows clash with French police on beach as dinghy tries to leave for UK",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/21/footage-french-police-clashing-people-beach-small-boats",
-        "description": "Film emerges as France says it has stopped 185 small boat ‘events’ in three months since new £660m deal with UKFootage has captured the moment French police officers clashed with people on a beach ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -176,16 +176,16 @@
         "category": "housing"
       },
       {
-        "title": "To end homelessness, look to the root causes | Letters",
-        "url": "https://www.theguardian.com/society/2026/aug/23/to-end-homelessness-look-to-the-root-causes",
-        "description": "Readers respond to Andy Burnham’s pledge to get all rough sleepers off the streets by ChristmasAs a vulnerable teenage girl carrying my life in a rucksack, I have been the person Andy Burnham descr...",
+        "title": "Reform says it would put foreign-born UK citizens lower on social housing list",
+        "url": "https://www.theguardian.com/society/2026/aug/23/reform-social-housing-uk-citizens",
+        "description": "UK-born married couples under 35 with children would get priority under proposals to be outlined by Farage’s partyBritish citizens who were born abroad would be made to wait longer for social housi...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Mayors to get new powers over planning decisions under Burnham proposals",
-        "url": "https://www.theguardian.com/society/2026/aug/23/burnham-expected-to-give-mayors-new-powers-over-local-planning-decisions",
-        "description": "Move would allow mayors to greenlight large developments and have more say on national housing fundingAndy Burnham will give mayors new powers to take control of local planning decisions and greenl...",
+        "title": "To end homelessness, look to the root causes | Letters",
+        "url": "https://www.theguardian.com/society/2026/aug/23/to-end-homelessness-look-to-the-root-causes",
+        "description": "Readers respond to Andy Burnham’s pledge to get all rough sleepers off the streets by ChristmasAs a vulnerable teenage girl carrying my life in a rucksack, I have been the person Andy Burnham descr...",
         "source": "The Guardian",
         "category": "housing"
       }
