@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-08-24T01:10:53.672016+00:00",
+  "fetched_at": "2026-08-24T06:54:15.826143+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK productivity growing faster than official figures suggest, thinktank finds",
-        "url": "https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation",
-        "description": "Resolution Foundation suggests economy may finally be emerging from shadow of 2008 financial crisisProductivity in the UK – a vital measure of economic health – is growing more strongly than offici...",
+        "title": "From welfare to prisons: the challenges for Burnham when MPs return to Commons",
+        "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-challenges-budget-welfare-migration-prisons-mps-commons",
+        "description": "PM’s honeymoon period will come to an end as he makes decisions on the budget, welfare, migration and prisonsAndy Burnham has enjoyed a month-long honeymoon period since he became prime minister, w...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Government vows to make business rate valuations for pubs and hotels fairer",
-        "url": "https://www.theguardian.com/business/2026/aug/24/government-vows-to-make-business-rate-valuations-for-pubs-and-hotels-fairer",
-        "description": "Review will look at improving system for English and Welsh hospitality venues before next revaluation date in 2029 The government has promised that business rate valuations will be “made fairer” fo...",
+        "title": "Photo of Disraeli among missing parliamentary works of art, FoI request finds",
+        "url": "https://www.theguardian.com/politics/2026/aug/24/photo-of-disraeli-among-missing-parliamentary-works-of-art-foi-request-finds",
+        "description": "Press Association given list of 65 items from publicly owned collection that have gone missing since 2024A photograph of Benjamin Disraeli, an engraved portrait of William Wilberforce and a cartoon...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
-        "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
-        "description": "PM will use independence day trip to announce sharing of classified information about Storm Shadow componentsBritain will boost Ukraine’s capacity to make its own long-range missiles, Andy Burnham ...",
+        "title": "Most English secondary schools are breaking healthy food rules, finds report",
+        "url": "https://www.theguardian.com/education/2026/aug/24/most-english-secondary-schools-are-breaking-healthy-food-rules-finds-report",
+        "description": "‘Shocking’ breaches such as sweets and crisps at breakfast uncovered just before expansion of free school mealsThree-quarters of secondary schools in England are breaking the rules on food offered ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Mayors to get powers to overrule local councils on planning decisions",
-        "url": "https://www.bbc.co.uk/news/articles/cy8m0gxexl4o?at_medium=RSS&at_campaign=rss",
-        "description": "Housing minister Matthew Pennycook said the change was \"essential\" for helping mayors \"effectively deliver new homes\".",
+        "title": "Burnham to hand long-range missile blueprints to Zelensky as he visits Kyiv",
+        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+        "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "New Fed chair faces critical test at Jackson Hole as inflation fears mount",
+        "url": "https://www.theguardian.com/business/2026/aug/24/fed-chair-kevin-warsh-faces-critical-test-jackson-hole-inflation-fears-mount",
+        "description": "Investors will hope Kevin Warsh offers ‘comfort blanket’ at annual meeting of central banks amid bond market anxietyThe new US Federal Reserve chair, Kevin Warsh, faces a critical test this week am...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "UK productivity growing faster than official figures suggest, thinktank finds",
         "url": "https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation",
@@ -47,39 +54,32 @@
         "category": "economy"
       },
       {
-        "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
-        "url": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
-        "description": "Treasury secretary Scott Bessent’s attempt to calm bond markets is a sign of weakness not strength“Look, there’s nothing magic about that $40tn number,” the US Treasury secretary, Scott Bessent, to...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Review launched into how pub and hotel business rates calculated",
-        "url": "https://www.bbc.co.uk/news/articles/c8xnxy89gv7o?at_medium=RSS&at_campaign=rss",
-        "description": "The review of how rates are calculated in England and Wales could lead to reform of the system.",
+        "title": "Shein aims for almost $27bn valuation in stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+        "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
+        "title": "How can I convince NHS pensions that I am not dead?",
+        "url": "https://www.theguardian.com/money/2026/aug/24/nhs-pensions-not-dead",
+        "description": "It has not paid me for months and I am in severe financial distress, and apart from my husband while I try to sort it outI stopped receiving my NHS pension in May and, when I rang to ask why, I was...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "‘An amazing relief’: implant offers hope for those with refractory angina",
+        "url": "https://www.theguardian.com/society/2026/aug/24/an-amazing-relief-implant-offers-hope-for-those-with-refractory-angina",
+        "description": "Study finds device brings significant fall in chest pain in 75% of patients, but further trials and NHS approval are needed“It’s an amazing relief, both physically and emotionally, to be able to li...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "It’s unwise to end local scrutiny of NHS trusts  | Letters",
         "url": "https://www.theguardian.com/society/2026/aug/23/its-unwise-to-end-local-scrutiny-of-nhs-trusts",
         "description": "Abolishing the role of statutory governors is ill-advised, says Jean Flanagan. Plus a letter from Jonathan Phillips on the abolition of HealthwatchI wonder how many members of the public are aware ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Frustrated GP patients hang up as Yorkshire accent baffles AI receptionist",
-        "url": "https://www.theguardian.com/society/2026/aug/20/yorkshire-rotherham-ai-gp-receptionist-cannot-understand-accent",
-        "description": "‘Emma’ the Rotherham chatbot has 17 languages says AI firm – but health watchdog says system struggling with local ‘twangs’Patients in a South Yorkshire town are frustrated by an AI GP receptionist...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Stop putting women through brutal hysteroscopies without pain relief | Letters",
-        "url": "https://www.theguardian.com/society/2026/aug/19/stop-putting-women-through-brutal-hysteroscopies-without-pain-relief",
-        "description": "The medical system is biased against women, says Carole Kendall, pointing to the very different way men who have colonoscopies are treatedI fully endorse everything Anna Moore writes in her excelle...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "From welfare to prisons: the challenges for Burnham when MPs return to Commons",
+        "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-challenges-budget-welfare-migration-prisons-mps-commons",
+        "description": "PM’s honeymoon period will come to an end as he makes decisions on the budget, welfare, migration and prisonsAndy Burnham has enjoyed a month-long honeymoon period since he became prime minister, w...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Reform says it would put foreign-born UK citizens lower on social housing list",
         "url": "https://www.theguardian.com/society/2026/aug/23/reform-social-housing-uk-citizens",
         "description": "UK-born married couples under 35 with children would get priority under proposals to be outlined by Farage’s partyBritish citizens who were born abroad would be made to wait longer for social housi...",
@@ -105,16 +112,16 @@
         "description": "I had few resources as a candidate, but the contest allowed me to speak to local people about their lives and their MP. They deserve so much betterIn the early hours of last Friday morning, a video...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Home Office could be blocked from deporting trafficking victims to Albania",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/21/home-office-albanian-trafficking-victims-deport",
-        "description": "Many males are returned even if they have been trafficked but Home Office must now consider new legal guidanceUK politics live – latest updatesThe Home Office could be blocked from deporting many y...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Air conditioning push favoured over emissions cuts in six European nations, survey finds",
+        "url": "https://www.theguardian.com/environment/2026/aug/24/air-conditioning-higher-priority-than-lowering-emissions-europeans-poll",
+        "description": "Poll also finds sizeable majorities who believe it should be easier to install air con in homesGiven the choice, more people across six major European nations including the UK favour encouraging th...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Against the wind: despite Trump’s attacks, unions are fighting for good US clean energy jobs",
         "url": "https://www.theguardian.com/us-news/2026/aug/23/wind-energy-unions-trump",
@@ -126,13 +133,6 @@
         "title": "33m tons of toxic seaweed clogs Caribbean beaches – video",
         "url": "https://www.theguardian.com/us-news/video/2026/aug/21/33m-tons-of-toxic-seaweed-clogs-caribbean-beaches-video",
         "description": "A record amount of sargassum has piled up along coastlines of the Caribbean and Gulf of Mexico. Sargassum is a brown seaweed that causes lower oxygen levels and foul-smelling gases when it decompos...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Britain’s railway prepares for more extreme weather as intense El Niño develops",
-        "url": "https://www.theguardian.com/environment/2026/aug/21/britains-railway-prepares-for-more-extreme-weather-as-intense-el-nino-develops",
-        "description": "Experts say more must be done to adapt to changing climate, after two trains derailed within 24 hours during a recent heatwaveRailway companies are racing to prepare for another brutal summer next ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-        "description": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
+        "title": "Divorce, smartphones and control - BBC sees how Taliban run Afghanistan",
+        "url": "https://www.bbc.co.uk/news/articles/ckgvk9p2n7ko?at_medium=RSS&at_campaign=rss",
+        "description": "Five years after the Taliban’s return, the BBC follows senior figures as the group reshapes the country.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Guinea rubbish landfill collapse kills 30",
-        "url": "https://www.bbc.co.uk/news/articles/c4g3g36z7p6o?at_medium=RSS&at_campaign=rss",
-        "description": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
+        "title": "Shein aims for almost $27bn valuation in stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss",
+        "description": "The fast-fashion giant's shares are due to start trading in Hong Kong on 1 September.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
