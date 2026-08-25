@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-25T06:42:41.868816+00:00",
+  "fetched_at": "2026-08-25T12:42:47.314533+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
+        "description": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homesThe number of rapes and attempted rapes reported in Scotland has risen...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham plans trip to New York as Ukraine pleads for US-made missiles",
+        "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
+        "description": "UK prime minister ‘likely’ to attend UN general assembly, after meeting Zelenskyy and saying supply problem is fixableEurope live – latest updatesAndy Burnham has said he is likely to attend the UN...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
         "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
         "description": "London and Kyiv in deal to help stop protesters and hostile states targeting military bases and critical infrastructureAI models trained on Ukrainian battlefield data will be used to stop protester...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform would evict social housing tenants over unkempt gardens",
-        "url": "https://www.theguardian.com/society/2026/aug/24/reform-evict-social-housing-tenants-poor-garden-maintenance",
-        "description": "Plan part of a wider policy to remove foreign nationals from social homes and prioritise young British-born couplesSocial housing tenants will be evicted if they fail to keep their gardens well mai...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
-        "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
-        "description": "Coalition of the Willing condemns Russian strikes on Ukraine, pledges to work on ‘constraining Russia’s war chest’Here’s the full quote from Kremlin’s Peskov, via AFP:“Britain is methodically and r...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,9 @@
     ],
     "economy": [
       {
-        "title": "UK graduate job vacancies plunge to lowest in a decade",
-        "url": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna",
-        "description": "Just 8,383 jobs for people leaving university were advertised in July, says recruitment website AdzunaBusiness live – latest updatesGraduate job vacancies in the UK have sunk to their lowest level ...",
+        "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
+        "url": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
+        "description": "Trump ally should cut budget deficit rather than try to suppress bond yields, says billionaire Stanley DruckenmillerScott Bessent’s attempt to calm the bond markets and push down America’s cost of ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Burnham refuses to rule out tax rises in autumn Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
-        "description": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
+        "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+        "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+        "description": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "As a doctor, I say this: before we even consider assisted dying, fix how we care for the most vulnerable | Zubir Ahmed",
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/25/assisted-dying-palliative-care-england-wales",
+        "description": "A person’s wish to die can be shaped by whether they have access to proper palliative care – and in England and Wales, too many do notZubir Ahmed is a transplant surgeon and former Labour ministerA...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "NHS England to offer women ‘gamechanging’ free home testing kits for cervical cancer",
         "url": "https://www.theguardian.com/society/2026/aug/25/nhs-england-to-offer-women-gamechanging-free-home-testing-kits-for-cervical-cancer",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "‘An amazing relief’: implant offers hope for those with refractory angina",
-        "url": "https://www.theguardian.com/society/2026/aug/24/an-amazing-relief-implant-offers-hope-for-those-with-refractory-angina",
-        "description": "Study finds device brings significant fall in chest pain in 75% of patients, but further trials and NHS approval are needed“It’s an amazing relief, both physically and emotionally, to be able to li...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "HPV home-testing kits available for women in England who have missed cervical screening",
         "url": "https://www.bbc.co.uk/news/articles/c9w4jgg4y55o?at_medium=RSS&at_campaign=rss",
         "description": "Nearly four million women in England can order a self-testing kits to check for high-risk HPV.",
@@ -92,13 +92,6 @@
       }
     ],
     "immigration": [
-      {
-        "title": "Woman stranded in Spain after UK’s eVisa system mistakes her for twin sister",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-        "description": "Nidia Webb, who is legally settled in UK, falls foul of ‘known issue’ with Home Office’s digitised immigration processA woman who is legally settled in the UK was left stranded at a Spanish airport...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
       {
         "title": "Reform would evict social housing tenants over unkempt gardens",
         "url": "https://www.theguardian.com/society/2026/aug/24/reform-evict-social-housing-tenants-poor-garden-maintenance",
@@ -112,9 +105,23 @@
         "description": "NGO criticises ‘human cost’ of UK-funded crackdown on attempts to set off from French beaches in small boatsPeople trying to cross the Channel to the UK have reported an increase in French police u...",
         "source": "The Guardian",
         "category": "immigration"
+      },
+      {
+        "title": "Woman stranded in Spain after UK’s eVisa system mistakes her for twin sister",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
+        "description": "Nidia Webb, who is legally settled in UK, falls foul of ‘known issue’ with Home Office’s digitised immigration processA woman who is legally settled in the UK was left stranded at a Spanish airport...",
+        "source": "The Guardian",
+        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Two planned datacentres will have higher UK carbon emissions than ExxonMobil, analysis finds",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil",
+        "description": "Exclusive: Buckinghamshire and Bedfordshire sites predicted to emit 4.5m tonnes a year when fully runningThe carbon emissions from just two planned datacentres in England will exceed all of the fos...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Climate damage would obliterate any economic benefits of new North Sea fields, analysis shows",
         "url": "https://www.theguardian.com/environment/2026/aug/25/climate-damage-economy-north-sea-oil-gas-fields-rosebank-jackdaw",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Nevada files lawsuit challenging federal plan for Colorado River revival",
-        "url": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
-        "description": "In Trump administration’s plan, California, Arizona and Nevada face about a 20% cut to water supply over two yearsNevada filed a federal lawsuit on Monday challenging the Trump administration’s new...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Moon set to turn red as rare partial lunar eclipse graces UK skies",
-        "url": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o?at_medium=RSS&at_campaign=rss",
-        "description": "There will be a partial lunar eclipse in the UK on 28 August, and may cause the Moon appear reddish in colour.",
+        "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+        "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+        "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Year of after-school care now costs £2,800 a child in parts of UK",
+        "url": "https://www.theguardian.com/money/2026/aug/25/year-of-after-school-care-now-costs-2800-a-child-in-parts-of-uk",
+        "description": "Bills have jumped 42% in England over the past 10 years – and that excludes the cost of breakfast clubs and extracurricular activities Parents of primary schoolchildren in England will pay 42% more...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "We would like to hear from young people in England who didn’t pass English and/or Maths GCSE",
         "url": "https://www.theguardian.com/education/2026/aug/24/we-would-like-to-hear-from-people-in-england-who-didnt-pass-english-andor-maths-gcse",
@@ -158,13 +165,6 @@
         "description": "Just 8,383 jobs for people leaving university were advertised in July, says recruitment website AdzunaBusiness live – latest updatesGraduate job vacancies in the UK have sunk to their lowest level ...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Labour stalling on Jackdaw and Rosebank because ‘heart’s not really in it’, says Badenoch – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/21/andy-burnham-growth-labour-john-healey-uk-politics-latest-news-updates",
-        "description": "This blog is now closed. See all our UK politics coverage hereAfter Emily Thornberry’s call for the government to ban goods from the occupied West Bank (see post at 11:05), Peter Beaumont and Quiqu...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
@@ -176,25 +176,25 @@
         "category": "housing"
       },
       {
-        "title": "Reform would evict social housing tenants over unkempt gardens",
-        "url": "https://www.theguardian.com/society/2026/aug/24/reform-evict-social-housing-tenants-poor-garden-maintenance",
-        "description": "Plan part of a wider policy to remove foreign nationals from social homes and prioritise young British-born couplesSocial housing tenants will be evicted if they fail to keep their gardens well mai...",
+        "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
+        "description": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homesMinisters are looking at “a range of support” for vulnerable household...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "We need public records on the delivery of social housing | Letter",
-        "url": "https://www.theguardian.com/society/2026/aug/24/we-need-public-records-on-the-delivery-of-social-housing",
-        "description": "Marco Scalvini on why it’s necessary to know what was promised by developers and local authorities, what arrived and what it costs to live in social housingYour editorial on London’s social housing...",
+        "title": "Reform would evict social housing tenants over unkempt gardens",
+        "url": "https://www.theguardian.com/society/2026/aug/24/reform-evict-social-housing-tenants-poor-garden-maintenance",
+        "description": "Plan part of a wider policy to remove foreign nationals from social homes and prioritise young British-born couplesSocial housing tenants will be evicted if they fail to keep their gardens well mai...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-        "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-        "description": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
+        "title": "China warns it will protect its interests after US widens sanctions against Iran",
+        "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+        "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
-        "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-        "description": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
+        "title": "US removes Syria from list of state sponsors of terrorism",
+        "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+        "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
