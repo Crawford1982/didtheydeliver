@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-25T01:09:27.492253+00:00",
+  "fetched_at": "2026-08-25T06:42:41.868816+00:00",
   "headlines": {
     "government": [
       {
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-        "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+        "title": "Burnham refuses to rule out tax rises in autumn Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
+        "description": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "New 10p coin enters circulation - will you spot one?",
-        "url": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
-        "description": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
+        "title": "Burnham refuses to rule out tax rises in autumn Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
+        "description": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "NHS England to offer women ‘gamechanging’ free home testing kits for cervical cancer",
+        "url": "https://www.theguardian.com/society/2026/aug/25/nhs-england-to-offer-women-gamechanging-free-home-testing-kits-for-cervical-cancer",
+        "description": "NHS has target of eliminating the cancer by 2040, but up to 4 million eligible women are not up to date with screeningMillions of women in England who have missed cervical screening appointments wi...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "How can I convince NHS pensions that I am not dead?",
         "url": "https://www.theguardian.com/money/2026/aug/24/nhs-pensions-not-dead",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "It’s unwise to end local scrutiny of NHS trusts  | Letters",
-        "url": "https://www.theguardian.com/society/2026/aug/23/its-unwise-to-end-local-scrutiny-of-nhs-trusts",
-        "description": "Abolishing the role of statutory governors is ill-advised, says Jean Flanagan. Plus a letter from Jonathan Phillips on the abolition of HealthwatchI wonder how many members of the public are aware ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Home-testing kits now available for women in England who have missed cervical screening",
+        "title": "HPV home-testing kits available for women in England who have missed cervical screening",
         "url": "https://www.bbc.co.uk/news/articles/c9w4jgg4y55o?at_medium=RSS&at_campaign=rss",
-        "description": "Nearly 4 million women in England can order a self-testing kits to check for high-risk HPV.",
+        "description": "Nearly four million women in England can order a self-testing kits to check for high-risk HPV.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "Climate damage would obliterate any economic benefits of new North Sea fields, analysis shows",
+        "url": "https://www.theguardian.com/environment/2026/aug/25/climate-damage-economy-north-sea-oil-gas-fields-rosebank-jackdaw",
+        "description": "Exclusive: Economic harm of CO2 pollution from Rosebank and Jackdaw forecast to far outweigh any boost to UKThe climate damage caused by developing the Rosebank and Jackdaw oil and gas fields under...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "At least 35,000 excess deaths recorded in Europe’s back-to-back heatwaves",
+        "url": "https://www.theguardian.com/environment/2026/aug/25/at-least-35000-excess-deaths-europe-back-to-back-heatwaves",
+        "description": "True figure likely to be much higher as it only covers about half of continent and does not include August totalsAt least 35,000 more people died during Europe’s four record-breaking, back-to-back ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Nevada files lawsuit challenging federal plan for Colorado River revival",
         "url": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
         "description": "In Trump administration’s plan, California, Arizona and Nevada face about a 20% cut to water supply over two yearsNevada filed a federal lawsuit on Monday challenging the Trump administration’s new...",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "French tourist dies in California’s Death Valley after being stranded in heat",
-        "url": "https://www.theguardian.com/us-news/2026/aug/24/french-tourist-death-valley-park",
-        "description": "Man, 68, was left searching for help in 116F weather after his car became stuck in mud along remote park roadA French tourist recently died in Death Valley national park after a car mishap left him...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "World’s oceans hit hottest temperature on record in August",
-        "url": "https://www.theguardian.com/environment/2026/aug/24/worlds-oceans-hit-hottest-temperature-on-record-in-august",
-        "description": "Average sea surface temperature outside polar regions was 21.1C on Saturday, latest data findsThe world’s oceans were hotter than ever previously recorded on Saturday, according to the latest data....",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "More downpours and thunderstorms are heading the UK's way",
-        "url": "https://www.bbc.co.uk/news/videos/c4gdq21de29o?at_medium=RSS&at_campaign=rss",
-        "description": "More downpours and thunderstorms are heading the UK's way",
+        "title": "Moon set to turn red as rare partial lunar eclipse graces UK skies",
+        "url": "https://www.bbc.co.uk/weather/articles/c5y4n7y89w7o?at_medium=RSS&at_campaign=rss",
+        "description": "There will be a partial lunar eclipse in the UK on 28 August, and may cause the Moon appear reddish in colour.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+        "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
         "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-        "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+        "description": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to counter them.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-        "url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-        "description": "It comes after Moscow warned of \"consequences\" over the reported use of British drones by Ukraine.",
+        "title": "Lockerbie bombing trial postponed days before it was due to start",
+        "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
+        "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US removes Syria from list of state sponsors of terrorism",
-        "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-        "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+        "title": "UK drone factories may face attacks from 'unknown sources', says Kremlin adviser",
+        "url": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
+        "description": "The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
