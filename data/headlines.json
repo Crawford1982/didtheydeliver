@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T18:36:57.489826+00:00",
+  "fetched_at": "2026-08-25T01:09:27.492253+00:00",
   "headlines": {
     "government": [
       {
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-        "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-        "description": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+        "title": "New 10p coin enters circulation - will you spot one?",
+        "url": "https://www.bbc.co.uk/news/articles/cn74lxrv110o?at_medium=RSS&at_campaign=rss",
+        "description": "The coin has been designed to feature King Charles III and a Scottish grouse close to extinction.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Why is it so hard to find an NHS dentist? Find out how many have closed where you live",
-        "url": "https://www.bbc.co.uk/news/articles/c9v4w77d9m8o?at_medium=RSS&at_campaign=rss",
-        "description": "Nearly 600 practices in England have withdrawn from NHS dentistry over the last 10 years, as the service heads towards a two-tier system.",
+        "title": "Home-testing kits now available for women in England who have missed cervical screening",
+        "url": "https://www.bbc.co.uk/news/articles/c9w4jgg4y55o?at_medium=RSS&at_campaign=rss",
+        "description": "Nearly 4 million women in England can order a self-testing kits to check for high-risk HPV.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
+        "title": "Nevada files lawsuit challenging federal plan for Colorado River revival",
+        "url": "https://www.theguardian.com/us-news/2026/aug/24/nevada-federal-lawsuit-colorado-river",
+        "description": "In Trump administration’s plan, California, Arizona and Nevada face about a 20% cut to water supply over two yearsNevada filed a federal lawsuit on Monday challenging the Trump administration’s new...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "French tourist dies in California’s Death Valley after being stranded in heat",
+        "url": "https://www.theguardian.com/us-news/2026/aug/24/french-tourist-death-valley-park",
+        "description": "Man, 68, was left searching for help in 116F weather after his car became stuck in mud along remote park roadA French tourist recently died in Death Valley national park after a car mishap left him...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "World’s oceans hit hottest temperature on record in August",
         "url": "https://www.theguardian.com/environment/2026/aug/24/worlds-oceans-hit-hottest-temperature-on-record-in-august",
         "description": "Average sea surface temperature outside polar regions was 21.1C on Saturday, latest data findsThe world’s oceans were hotter than ever previously recorded on Saturday, according to the latest data....",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'Scared to death' evacuees escape fast-moving wildfire in Reno, Nevada – video",
-        "url": "https://www.theguardian.com/us-news/video/2026/aug/24/scared-to-death-evacuees-escape-fast-moving-wildfire-in-reno-nevada-video",
-        "description": "A fast-moving Nevada wildfire exploded to more than 15,000 acres (6,000 hectares) on Sunday, pushing from the Sierra foothills toward the centre of Reno and forced nearly 90,000 residents to evacua...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Air conditioning push favoured over emissions cuts in six European nations, survey finds",
-        "url": "https://www.theguardian.com/environment/2026/aug/24/air-conditioning-higher-priority-than-lowering-emissions-europeans-poll",
-        "description": "Poll also finds sizeable majorities who believe it should be easier to install air con in homesGiven the choice, more people across six major European nations including the UK favour encouraging th...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Burnham backtracks on spending housing fund only on building social homes",
+        "url": "https://www.theguardian.com/society/2026/aug/24/andy-burnham-social-homes-backtrack",
+        "description": "About 40% of £10bn from Affordable Homes Programme will now go on types of housing such as sheltered and shared ownershipAndy Burnham has backtracked on his proposal to rip up the government’s hous...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Reform would evict social housing tenants over unkempt gardens",
         "url": "https://www.theguardian.com/society/2026/aug/24/reform-evict-social-housing-tenants-poor-garden-maintenance",
         "description": "Plan part of a wider policy to remove foreign nationals from social homes and prioritise young British-born couplesSocial housing tenants will be evicted if they fail to keep their gardens well mai...",
@@ -179,13 +186,6 @@
         "title": "We need public records on the delivery of social housing | Letter",
         "url": "https://www.theguardian.com/society/2026/aug/24/we-need-public-records-on-the-delivery-of-social-housing",
         "description": "Marco Scalvini on why it’s necessary to know what was promised by developers and local authorities, what arrived and what it costs to live in social housingYour editorial on London’s social housing...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Reform says it would put foreign-born UK citizens lower on social housing list",
-        "url": "https://www.theguardian.com/society/2026/aug/23/reform-social-housing-uk-citizens",
-        "description": "UK-born married couples under 35 with children would get priority under proposals to be outlined by Farage’s partyBritish citizens who were born abroad would be made to wait longer for social housi...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-        "description": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+        "title": "US removes Syria from list of state sponsors of terrorism",
+        "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+        "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
