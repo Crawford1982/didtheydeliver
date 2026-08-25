@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-25T12:42:47.314533+00:00",
+  "fetched_at": "2026-08-25T18:36:27.033265+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – UK politics live",
+        "title": "UK to warn citizens to stock up on food amid threat from climate crisis and hostile states",
+        "url": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
+        "description": "Government resilience campaign aims to ensure people can cope in a national disaster, in order to free resources for most vulnerableUK citizens will be told to stock up on tinned food and take step...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "London bus drivers resume strike over heatwave working amid fears over air con deal",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/25/london-bus-drivers-resume-strike-over-heatwave-working-amid-fears-over-air-con-deal",
+        "description": "Drivers concerned that bus operator’s offer to retrofit cabs on 730 buses will not be complete by next summerLondon bus drivers have resumed strike action over having to work in high temperatures, ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
-        "description": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homesThe number of rapes and attempted rapes reported in Scotland has risen...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham plans trip to New York as Ukraine pleads for US-made missiles",
-        "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-us-new-york-ukraine-patriot-missiles",
-        "description": "UK prime minister ‘likely’ to attend UN general assembly, after meeting Zelenskyy and saying supply problem is fixableEurope live – latest updatesAndy Burnham has said he is likely to attend the UN...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
-        "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
-        "description": "London and Kyiv in deal to help stop protesters and hostile states targeting military bases and critical infrastructureAI models trained on Ukrainian battlefield data will be used to stop protester...",
+        "description": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homesMinisters are looking at “a range of support” for vulnerable household...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,23 +33,23 @@
     ],
     "economy": [
       {
+        "title": "Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates – video",
+        "url": "https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney",
+        "description": "Announcement of tariffs on $20bn worth of US goods follows through on Mark Carney's vow to match US tariffs 'dollar for dollar' Continue reading...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "US consumer confidence falls in August as gas prices remain above $4 per gallon",
+        "url": "https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls",
+        "description": "Confidence index drops to 89.4 in August from 90.2 in July amid frustration after five years of elevated inflationAmericans’ confidence in the economy declined again this month as the ongoing confl...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
         "url": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
         "description": "Trump ally should cut budget deficit rather than try to suppress bond yields, says billionaire Stanley DruckenmillerScott Bessent’s attempt to calm the bond markets and push down America’s cost of ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Up to £464m ‘moved through more than 3,000 UK high street shell companies’",
-        "url": "https://www.theguardian.com/business/2026/aug/24/up-to-464m-moved-through-more-than-3000-uk-shell-companies-branded",
-        "description": "Research shows firms are branded as beauty and convenience but apparently operate in money-laundering and terrorist financing sectorsUp to £464m has “moved through” more than 3,000 UK shell compani...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
-        "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
-        "description": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credibleTehran has vowed to retaliate against any country that cooperates with the US attem...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "UK to warn citizens to stock up on food amid threat from climate crisis and hostile states",
+        "url": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
+        "description": "Government resilience campaign aims to ensure people can cope in a national disaster, in order to free resources for most vulnerableUK citizens will be told to stock up on tinned food and take step...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "‘I love rats but we can’t live with them’: the headache of rising rodent populations around the world",
+        "url": "https://www.theguardian.com/environment/2026/aug/25/rats-numbers-rise-global-heating-poison-cities",
+        "description": "Robert Corrigan has been dealing with the ‘smart’ rodents all his life – and believes there are better solutions to deal with the growing infestation in the world’s cities“The rodents have paid for...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Two planned datacentres will have higher UK carbon emissions than ExxonMobil, analysis finds",
         "url": "https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil",
         "description": "Exclusive: Buckinghamshire and Bedfordshire sites predicted to emit 4.5m tonnes a year when fully runningThe carbon emissions from just two planned datacentres in England will exceed all of the fos...",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Climate damage would obliterate any economic benefits of new North Sea fields, analysis shows",
-        "url": "https://www.theguardian.com/environment/2026/aug/25/climate-damage-economy-north-sea-oil-gas-fields-rosebank-jackdaw",
-        "description": "Exclusive: Economic harm of CO2 pollution from Rosebank and Jackdaw forecast to far outweigh any boost to UKThe climate damage caused by developing the Rosebank and Jackdaw oil and gas fields under...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "At least 35,000 excess deaths recorded in Europe’s back-to-back heatwaves",
-        "url": "https://www.theguardian.com/environment/2026/aug/25/at-least-35000-excess-deaths-europe-back-to-back-heatwaves",
-        "description": "True figure likely to be much higher as it only covers about half of continent and does not include August totalsAt least 35,000 more people died during Europe’s four record-breaking, back-to-back ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
-        "url": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
-        "description": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+        "title": "Relief may be near for Indiana city after days without power",
+        "url": "https://www.bbc.co.uk/news/videos/c783l8lrvdzo?at_medium=RSS&at_campaign=rss",
+        "description": "After nearly two-weeks without power, Gary, Indiana residents and officials call for accountability, infrastructure improvements, and customer relief measures.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -176,7 +176,7 @@
         "category": "housing"
       },
       {
-        "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – UK politics live",
+        "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
         "description": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homesMinisters are looking at “a range of support” for vulnerable household...",
         "source": "The Guardian",
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "China warns it will protect its interests after US widens sanctions against Iran",
+        "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+        "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+        "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
         "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
         "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Lockerbie bombing trial postponed days before it was due to start",
-        "url": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
-        "description": "The trial of a Libyan man is delayed for a third time, after new evidence on the 37-year-old case came to light three days ago.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US removes Syria from list of state sponsors of terrorism",
-        "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-        "description": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+        "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+        "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
