@@ -1,18 +1,18 @@
 {
-  "fetched_at": "2026-08-26T01:11:48.522705+00:00",
+  "fetched_at": "2026-08-26T06:44:39.958973+00:00",
   "headlines": {
     "government": [
-      {
-        "title": "Why do some Labour MPs want electoral reform and will it happen?",
-        "url": "https://www.theguardian.com/politics/2026/aug/25/why-labour-mps-electoral-reform-will-it-happen",
-        "description": "Despite the policy not being included in the party’s 2024 manifesto, Andy Burnham is under pressure to act Andy Burnham is facing new pressure to act over electoral reform, with nearly 100 of his M...",
-        "source": "The Guardian",
-        "category": "government"
-      },
       {
         "title": "Labour MPs will push Burnham to back voting reform in first 100 days",
         "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-electoral-reform-first-past-the-post",
         "description": "Exclusive: Nearly 100 Labour MPs support commission on changing the system used for Westminster electionWhy do some Labour MPs want electoral reform and will it happen?Andy Burnham will face an imm...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Why do some Labour MPs want electoral reform and will it happen?",
+        "url": "https://www.theguardian.com/politics/2026/aug/25/why-labour-mps-electoral-reform-will-it-happen",
+        "description": "Despite the policy not being included in the party’s 2024 manifesto, Andy Burnham is under pressure to act Andy Burnham is facing new pressure to act over electoral reform, with nearly 100 of his M...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -24,14 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Burnham refuses to rule out tax rises in autumn Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cj06818jgzlo?at_medium=RSS&at_campaign=rss",
-        "description": "Experts have warned that he and Chancellor John Healey will have little room to manoeuvre in their first Budget.",
+        "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
+        "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+        "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Is the Trump Treasury panicking over the level of US debt?",
+        "url": "https://www.theguardian.com/business/2026/aug/26/is-the-trump-treasury-panicking-over-the-level-of-us-debt",
+        "description": "With the federal deficit near 6% of GDP and the national debt over $40tn, America’s fiscal position looks increasingly precariousBessent ‘will lose’ battle with bond markets, ex-mentor warnsAre we ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates – video",
         "url": "https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney",
@@ -47,21 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "US Treasury’s Scott Bessent ‘will lose’ battle with bond markets, former mentor warns",
-        "url": "https://www.theguardian.com/business/2026/aug/25/us-treasury-scott-bessent-bond-buying-donald-trump-stanley-druckenmiller",
-        "description": "Trump ally should cut budget deficit rather than try to suppress bond yields, says billionaire Stanley DruckenmillerScott Bessent’s attempt to calm the bond markets and push down America’s cost of ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Winter energy prices expected to rise to three-year high",
+        "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
         "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-        "description": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
+        "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Autism and ADHD care complaints more than triple in five years in England",
+        "url": "https://www.theguardian.com/society/2026/aug/26/autism-adhd-care-complaints-england-triple-five-years",
+        "description": "NHS ombudsman warns of years-long waits and patients paying thousands to go private as demand for services soarsComplaints about autism and attention deficit hyperactivity disorder services in Engl...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "As a doctor, I say this: before we even consider assisted dying, fix how we care for the most vulnerable | Zubir Ahmed",
         "url": "https://www.theguardian.com/commentisfree/2026/aug/25/assisted-dying-palliative-care-england-wales",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "How can I convince NHS pensions that I am not dead?",
-        "url": "https://www.theguardian.com/money/2026/aug/24/nhs-pensions-not-dead",
-        "description": "It has not paid me for months and I am in severe financial distress, and apart from my husband while I try to sort it outI stopped receiving my NHS pension in May and, when I rang to ask why, I was...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Nicotine vapes best chance to quit smoking, major review finds",
-        "url": "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o?at_medium=RSS&at_campaign=rss",
-        "description": "They work better than patches, gum or pills, the most up-to-date evidence suggests.",
+        "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
+        "url": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
+        "description": "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Musk's SpaceX to build $100bn Starbase launch facility",
-        "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
-        "description": "The project - in Louisiana - will be the firm's biggest facility yet and aims to send rockets to space in 2029.",
+        "title": "'Magical' and rare barn owl has bumper breeding season",
+        "url": "https://www.bbc.co.uk/news/articles/crl6r66yjklo?at_medium=RSS&at_campaign=rss",
+        "description": "Ten chicks have been successfully reared by two breeding pairs at secret sites across Fermanagh.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,23 +169,23 @@
     ],
     "housing": [
       {
+        "title": "Two years in limbo: the residents still paying mortgages on flats destroyed in east London fire",
+        "url": "https://www.theguardian.com/society/2026/aug/26/east-london-spectrum-building-fire-cladding-residents-limbo",
+        "description": "Spectrum Building leaseholders awaiting payouts after freeholder, Arinium, went bankrupt shortly after 2024 blazeSarah Williams vividly remembers the night in 2016 when she camped overnight in a ca...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "‘An act of resistance’: Baltimore’s holdout homes – in pictures",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/26/baltimore-holdout-homes-ben-marcin-in-pictures",
+        "description": "Ben Marcin’s stunning photographs show lone houses, derelict homes and makeshift camps that stand as epitaphs to past lives and offer insight into how Americans on the margins live Continue reading...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
         "description": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homesMinisters are looking at “a range of support” for vulnerable household...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Burnham backtracks on spending housing fund only on building social homes",
-        "url": "https://www.theguardian.com/society/2026/aug/24/andy-burnham-social-homes-backtrack",
-        "description": "About 40% of £10bn from Affordable Homes Programme will now go on types of housing such as sheltered and shared ownershipAndy Burnham has backtracked on his proposal to rip up the government’s hous...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Reform would evict social housing tenants over unkempt gardens",
-        "url": "https://www.theguardian.com/society/2026/aug/24/reform-evict-social-housing-tenants-poor-garden-maintenance",
-        "description": "Plan part of a wider policy to remove foreign nationals from social homes and prioritise young British-born couplesSocial housing tenants will be evicted if they fail to keep their gardens well mai...",
         "source": "The Guardian",
         "category": "housing"
       }
