@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-25T18:36:27.033265+00:00",
+  "fetched_at": "2026-08-26T01:11:48.522705+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Why do some Labour MPs want electoral reform and will it happen?",
+        "url": "https://www.theguardian.com/politics/2026/aug/25/why-labour-mps-electoral-reform-will-it-happen",
+        "description": "Despite the policy not being included in the party’s 2024 manifesto, Andy Burnham is under pressure to act Andy Burnham is facing new pressure to act over electoral reform, with nearly 100 of his M...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Labour MPs will push Burnham to back voting reform in first 100 days",
+        "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-electoral-reform-first-past-the-post",
+        "description": "Exclusive: Nearly 100 Labour MPs support commission on changing the system used for Westminster electionWhy do some Labour MPs want electoral reform and will it happen?Andy Burnham will face an imm...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK to warn citizens to stock up on food amid threat from climate crisis and hostile states",
         "url": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
         "description": "Government resilience campaign aims to ensure people can cope in a national disaster, in order to free resources for most vulnerableUK citizens will be told to stock up on tinned food and take step...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "London bus drivers resume strike over heatwave working amid fears over air con deal",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/25/london-bus-drivers-resume-strike-over-heatwave-working-amid-fears-over-air-con-deal",
-        "description": "Drivers concerned that bus operator’s offer to retrofit cabs on 730 buses will not be complete by next summerLondon bus drivers have resumed strike action over having to work in high temperatures, ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
-        "description": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homesMinisters are looking at “a range of support” for vulnerable household...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-        "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-        "description": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+        "title": "Winter energy prices expected to rise to three-year high",
+        "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
+        "description": "Millions of households will be affected by an increase in the energy price cap by regulator Ofgem.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "HPV home-testing kits available for women in England who have missed cervical screening",
-        "url": "https://www.bbc.co.uk/news/articles/c9w4jgg4y55o?at_medium=RSS&at_campaign=rss",
-        "description": "Nearly four million women in England can order a self-testing kits to check for high-risk HPV.",
+        "title": "Nicotine vapes best chance to quit smoking, major review finds",
+        "url": "https://www.bbc.co.uk/news/articles/c1e5p51n2p2o?at_medium=RSS&at_campaign=rss",
+        "description": "They work better than patches, gum or pills, the most up-to-date evidence suggests.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Record-breaking heat dome expected to bring dangerous temperatures to US south-west",
+        "url": "https://www.theguardian.com/us-news/2026/aug/25/us-weather-heat-dome-south-west",
+        "description": "As wildfires rage and intense heat builds across the region, daytime highs of 110-11F (43-46C) are forecastSurging temperatures are expected to broil more than 45 million people as a heat dome sett...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "UK to warn citizens to stock up on food amid threat from climate crisis and hostile states",
         "url": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
         "description": "Government resilience campaign aims to ensure people can cope in a national disaster, in order to free resources for most vulnerableUK citizens will be told to stock up on tinned food and take step...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Two planned datacentres will have higher UK carbon emissions than ExxonMobil, analysis finds",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/25/planned-datacentres-carbon-emissions-uk-exxonmobil",
-        "description": "Exclusive: Buckinghamshire and Bedfordshire sites predicted to emit 4.5m tonnes a year when fully runningThe carbon emissions from just two planned datacentres in England will exceed all of the fos...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Relief may be near for Indiana city after days without power",
-        "url": "https://www.bbc.co.uk/news/videos/c783l8lrvdzo?at_medium=RSS&at_campaign=rss",
-        "description": "After nearly two-weeks without power, Gary, Indiana residents and officials call for accountability, infrastructure improvements, and customer relief measures.",
+        "title": "Musk's SpaceX to build $100bn Starbase launch facility",
+        "url": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+        "description": "The project - in Louisiana - will be the firm's biggest facility yet and aims to send rockets to space in 2029.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,16 +169,16 @@
     ],
     "housing": [
       {
-        "title": "Burnham backtracks on spending housing fund only on building social homes",
-        "url": "https://www.theguardian.com/society/2026/aug/24/andy-burnham-social-homes-backtrack",
-        "description": "About 40% of £10bn from Affordable Homes Programme will now go on types of housing such as sheltered and shared ownershipAndy Burnham has backtracked on his proposal to rip up the government’s hous...",
+        "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
+        "description": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homesMinisters are looking at “a range of support” for vulnerable household...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
-        "description": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homesMinisters are looking at “a range of support” for vulnerable household...",
+        "title": "Burnham backtracks on spending housing fund only on building social homes",
+        "url": "https://www.theguardian.com/society/2026/aug/24/andy-burnham-social-homes-backtrack",
+        "description": "About 40% of £10bn from Affordable Homes Programme will now go on types of housing such as sheltered and shared ownershipAndy Burnham has backtracked on his proposal to rip up the government’s hous...",
         "source": "The Guardian",
         "category": "housing"
       },
