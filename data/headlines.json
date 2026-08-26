@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-08-26T06:44:39.958973+00:00",
+  "fetched_at": "2026-08-26T12:48:07.074827+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Labour MPs will push Burnham to back voting reform in first 100 days",
-        "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-electoral-reform-first-past-the-post",
-        "description": "Exclusive: Nearly 100 Labour MPs support commission on changing the system used for Westminster electionWhy do some Labour MPs want electoral reform and will it happen?Andy Burnham will face an imm...",
+        "title": "Burnham announces plan for 10,000 work experience placements for young people – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/26/andy-burnham-labour-neets-youth-unemployment-work-placements-ofgem-energy-bills-reform-jenrick-latest-news-updates",
+        "description": "Prime minister spoke to press while on visit to a Sainsbury’s supermarket in London this morningOver 40,000 more people died on the hottest days in England between 1988 and 2025 than would be expec...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,9 +17,9 @@
         "category": "government"
       },
       {
-        "title": "UK to warn citizens to stock up on food amid threat from climate crisis and hostile states",
-        "url": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
-        "description": "Government resilience campaign aims to ensure people can cope in a national disaster, in order to free resources for most vulnerableUK citizens will be told to stock up on tinned food and take step...",
+        "title": "Labour MPs will push Burnham to back voting reform in first 100 days",
+        "url": "https://www.theguardian.com/politics/2026/aug/25/andy-burnham-electoral-reform-first-past-the-post",
+        "description": "Exclusive: Nearly 100 Labour MPs support commission on changing the system used for Westminster electionWhy do some Labour MPs want electoral reform and will it happen?Andy Burnham will face an imm...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Fears grow for fourth rate hike after Australia sees higher-than-expected July inflation",
+        "url": "https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate",
+        "description": "Bureau of Statistics says CPI was 3.5% in July, casting doubt on Reserve Bank meeting its 2.5% inflation target without further hikeFollow our Australia news live blog for latest updatesGet our bre...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Is the Trump Treasury panicking over the level of US debt?",
         "url": "https://www.theguardian.com/business/2026/aug/26/is-the-trump-treasury-panicking-over-the-level-of-us-debt",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "US consumer confidence falls in August as gas prices remain above $4 per gallon",
-        "url": "https://www.theguardian.com/business/2026/aug/25/us-consumer-confidence-falls",
-        "description": "Confidence index drops to 89.4 in August from 90.2 in July amid frustration after five years of elevated inflationAmericans’ confidence in the economy declined again this month as the ongoing confl...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
         "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
         "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "‘National scandal’: extreme heat linked to 40,000 deaths in England between 1988 and 2025",
+        "url": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
+        "description": "ONS data shows rising toll of climate crisis, with officials warning this summer on track to set further recordsMore than 40,000 extra people died on the hottest days in England between 1988 and 20...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Autism and ADHD care complaints more than triple in five years in England",
         "url": "https://www.theguardian.com/society/2026/aug/26/autism-adhd-care-complaints-england-triple-five-years",
@@ -77,14 +84,7 @@
         "category": "nhs"
       },
       {
-        "title": "NHS England to offer women ‘gamechanging’ free home testing kits for cervical cancer",
-        "url": "https://www.theguardian.com/society/2026/aug/25/nhs-england-to-offer-women-gamechanging-free-home-testing-kits-for-cervical-cancer",
-        "description": "NHS has target of eliminating the cancer by 2040, but up to 4 million eligible women are not up to date with screeningMillions of women in England who have missed cervical screening appointments wi...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "NHS failing child sex abuse victims in adulthood, say psychiatrists",
+        "title": "NHS failing child sexual abuse victims in adulthood, say psychiatrists",
         "url": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
         "description": "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.",
         "source": "BBC News",
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "‘National scandal’: extreme heat linked to 40,000 deaths in England between 1988 and 2025",
+        "url": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
+        "description": "ONS data shows rising toll of climate crisis, with officials warning this summer on track to set further recordsMore than 40,000 extra people died on the hottest days in England between 1988 and 20...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Heatwaves show UK must do more to promote cycling and walking, campaigners say",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/26/heatwaves-uk-promote-cycling-walking",
+        "description": "Civil society groups argue climate crisis means transport sector needs to urgently reduce its carbon emissionsDozens of civil society groups have demanded the UK government do more to promote cycli...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Record-breaking heat dome expected to bring dangerous temperatures to US south-west",
         "url": "https://www.theguardian.com/us-news/2026/aug/25/us-weather-heat-dome-south-west",
         "description": "As wildfires rage and intense heat builds across the region, daytime highs of 110-11F (43-46C) are forecastSurging temperatures are expected to broil more than 45 million people as a heat dome sett...",
@@ -123,28 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "UK to warn citizens to stock up on food amid threat from climate crisis and hostile states",
-        "url": "https://www.theguardian.com/politics/2026/aug/25/uk-to-warn-citizens-to-stock-up-on-food-amid-threat-from-climate-crisis-and-hostile-states",
-        "description": "Government resilience campaign aims to ensure people can cope in a national disaster, in order to free resources for most vulnerableUK citizens will be told to stock up on tinned food and take step...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘I love rats but we can’t live with them’: the headache of rising rodent populations around the world",
-        "url": "https://www.theguardian.com/environment/2026/aug/25/rats-numbers-rise-global-heating-poison-cities",
-        "description": "Robert Corrigan has been dealing with the ‘smart’ rodents all his life – and believes there are better solutions to deal with the growing infestation in the world’s cities“The rodents have paid for...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'Magical' and rare barn owl has bumper breeding season",
-        "url": "https://www.bbc.co.uk/news/articles/crl6r66yjklo?at_medium=RSS&at_campaign=rss",
-        "description": "Ten chicks have been successfully reared by two breeding pairs at secret sites across Fermanagh.",
+        "title": "Yellow warnings remain in force as rain and thunderstorms hit parts of UK",
+        "url": "https://www.bbc.co.uk/weather/articles/c62krylw57xo?at_medium=RSS&at_campaign=rss",
+        "description": "Yellow warnings updated as torrential downpours affect parts of England and Wales, delivering some of the wettest weather in several weeks.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "‘I just give from my heart’: how Dolly Parton’s philanthropy focused most on helping children",
+        "url": "https://www.theguardian.com/music/2026/aug/26/dolly-parton-philanthropy-charity-children-imagination-library",
+        "description": "Parton put her millions behind causes she believed in – from Covid vaccines to the Imagination Library, which sends children around the world a free book every monthDolly Parton dies aged 80 | Cele...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Year of after-school care now costs £2,800 a child in parts of UK",
         "url": "https://www.theguardian.com/money/2026/aug/25/year-of-after-school-care-now-costs-2800-a-child-in-parts-of-uk",
@@ -156,13 +163,6 @@
         "title": "We would like to hear from young people in England who didn’t pass English and/or Maths GCSE",
         "url": "https://www.theguardian.com/education/2026/aug/24/we-would-like-to-hear-from-people-in-england-who-didnt-pass-english-andor-maths-gcse",
         "description": "How did it affect your plans for either further education or getting a job? Did you go through resits? Tell us The government plans to introduce a new “stepping stone” qualification from 2028 for s...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "UK graduate job vacancies plunge to lowest in a decade",
-        "url": "https://www.theguardian.com/business/2026/aug/24/uk-graduate-job-vacancies-plunge-adzuna",
-        "description": "Just 8,383 jobs for people leaving university were advertised in July, says recruitment website AdzunaBusiness live – latest updatesGraduate job vacancies in the UK have sunk to their lowest level ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+        "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+        "description": "A hospital official told the BBC that the door to the ward was not locked, but manned with security guards, to protect the babies.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
         "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
         "description": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-        "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-        "description": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-        "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-        "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+        "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
+        "url": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
+        "description": "Five other airport workers are also receiving treatment following the rare outbreak at German's busiest airport.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
