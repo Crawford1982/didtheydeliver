@@ -1,18 +1,11 @@
 {
-  "fetched_at": "2026-08-26T19:45:18.721442+00:00",
+  "fetched_at": "2026-08-27T07:24:06.077813+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham drops support for political funding cap aimed at curbing mega-donors",
-        "url": "https://www.theguardian.com/politics/2026/aug/26/burnham-political-donations-influence-elections-bill",
-        "description": "PM said he would set bar at £500k, but trade unions say funding reforms could undermine their ability to donate to LabourAndy Burnham has dropped his support for capping political donations, causin...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Wes Streeting describes ‘unbelievable volume’ of homophobic abuse since becoming defence secretary",
-        "url": "https://www.theguardian.com/politics/2026/aug/26/wes-streeting-homophobic-abuse-uk-defence-secretary",
-        "description": "Streeting says role is chance to show strength and challenge stereotype that ‘persists in dark corners of internet’Wes Streeting has described receiving a mass of homophobic abuse since he was made...",
+        "title": "Forty children reported missing from UK asylum hotels still not found",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/27/forty-children-reported-missing-uk-asylum-hotels-2023-still-not-found",
+        "description": "Parliamentary committee welcomes fact most of 472 missing have been found but ‘extremely concerned’ for restForty children who went missing from hotels housing asylum seekers in the UK have still n...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -24,9 +17,16 @@
         "category": "government"
       },
       {
-        "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-        "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-        "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+        "title": "Burnham drops support for political funding cap aimed at curbing mega-donors",
+        "url": "https://www.theguardian.com/politics/2026/aug/26/burnham-political-donations-influence-elections-bill",
+        "description": "PM said he would set bar at £500k, but trade unions say funding reforms could undermine their ability to donate to LabourAndy Burnham has dropped his support for capping political donations, causin...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham calls summit of Welsh, Scottish and Northern Irish first ministers",
+        "url": "https://www.bbc.co.uk/news/articles/c14d8v83ny7o?at_medium=RSS&at_campaign=rss",
+        "description": "The announcement comes as Burnham holds his first official visit to Wales since becoming prime minster.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Household energy bills to hit three-year high as Ofgem announces 4% rise from October",
-        "url": "https://www.bbc.co.uk/news/articles/cqjkl1xvgw5o?at_medium=RSS&at_campaign=rss",
-        "description": "A household using a typical amount of gas and electricity will pay £60 a year more, regulator Ofgem says.",
+        "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
+        "url": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
+        "description": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,14 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "NHS failing child sexual abuse victims in adulthood, say psychiatrists",
-        "url": "https://www.bbc.co.uk/news/articles/c0kl40d3011o?at_medium=RSS&at_campaign=rss",
-        "description": "There have been decades of mistreatment and mismanagement of those who seek help later in life, say experts in a new, damning report.",
+        "title": "Treatment involving patient's family cuts mental health hospital admissions, study finds",
+        "url": "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo?at_medium=RSS&at_campaign=rss",
+        "description": "The approach focuses on the patient priorities, seeing the same clinicians, and involving people close to them.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Forty children reported missing from UK asylum hotels still not found",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/27/forty-children-reported-missing-uk-asylum-hotels-2023-still-not-found",
+        "description": "Parliamentary committee welcomes fact most of 472 missing have been found but ‘extremely concerned’ for restForty children who went missing from hotels housing asylum seekers in the UK have still n...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Reform would evict social housing tenants over unkempt gardens",
         "url": "https://www.theguardian.com/society/2026/aug/24/reform-evict-social-housing-tenants-poor-garden-maintenance",
@@ -103,13 +110,6 @@
         "title": "French police accused of rising use of violence to stop Channel crossings",
         "url": "https://www.theguardian.com/world/2026/aug/24/french-police-violence-channel-crossings-uk",
         "description": "NGO criticises ‘human cost’ of UK-funded crackdown on attempts to set off from French beaches in small boatsPeople trying to cross the Channel to the UK have reported an increase in French police u...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Woman stranded in Spain after UK’s eVisa system mistakes her for twin sister",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
-        "description": "Nidia Webb, who is legally settled in UK, falls foul of ‘known issue’ with Home Office’s digitised immigration processA woman who is legally settled in the UK was left stranded at a Spanish airport...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Parrot eggs hatch after suspected Thai smuggler arrested at South African airport",
-        "url": "https://www.bbc.co.uk/news/articles/ceq8n04q0gxo?at_medium=RSS&at_campaign=rss",
-        "description": "A 50-year-old Thai suspect was arrested with the eggs in a \"homemade incubator\" carried as hand luggage.",
+        "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
+        "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
+        "description": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Ghent professors challenged expertise of Jason Arday’s plagiarism accuser",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/27/ghent-professors-challenged-expertise-jason-arday-plagiarism-accuser",
+        "description": "Allegations Nathan Cofnas was unqualified for Ghent role and would cause ‘negative impact’ made to senior leaders months agoNathan Cofnas, the academic who accused Jason Arday of plagiarism, has be...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘I just give from my heart’: how Dolly Parton’s philanthropy focused most on helping children",
         "url": "https://www.theguardian.com/music/2026/aug/26/dolly-parton-philanthropy-charity-children-imagination-library",
@@ -158,27 +165,20 @@
         "description": "Bills have jumped 42% in England over the past 10 years – and that excludes the cost of breakfast clubs and extracurricular activities Parents of primary schoolchildren in England will pay 42% more...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "We would like to hear from young people in England who didn’t pass English and/or Maths GCSE",
-        "url": "https://www.theguardian.com/education/2026/aug/24/we-would-like-to-hear-from-people-in-england-who-didnt-pass-english-andor-maths-gcse",
-        "description": "How did it affect your plans for either further education or getting a job? Did you go through resits? Tell us The government plans to introduce a new “stepping stone” qualification from 2028 for s...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
       {
-        "title": "Two years in limbo: the residents still paying mortgages on flats destroyed in east London fire",
-        "url": "https://www.theguardian.com/society/2026/aug/26/east-london-spectrum-building-fire-cladding-residents-limbo",
-        "description": "Spectrum Building leaseholders awaiting payouts after freeholder, Arinium, went bankrupt shortly after 2024 blazeSarah Williams vividly remembers the night in 2016 when she camped overnight in a ca...",
+        "title": "‘An act of resistance’: holdout homes in the US – in pictures",
+        "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/26/baltimore-holdout-homes-ben-marcin-in-pictures",
+        "description": "Ben Marcin’s stunning photographs show lone houses, derelict homes and makeshift camps that stand as epitaphs to past lives and offer insight into how Americans on the margins live Continue reading...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "‘An act of resistance’: holdout homes in the US – in pictures",
-        "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/26/baltimore-holdout-homes-ben-marcin-in-pictures",
-        "description": "Ben Marcin’s stunning photographs show lone houses, derelict homes and makeshift camps that stand as epitaphs to past lives and offer insight into how Americans on the margins live Continue reading...",
+        "title": "Two years in limbo: the residents still paying mortgages on flats destroyed in east London fire",
+        "url": "https://www.theguardian.com/society/2026/aug/26/east-london-spectrum-building-fire-cladding-residents-limbo",
+        "description": "Spectrum Building leaseholders awaiting payouts after freeholder, Arinium, went bankrupt shortly after 2024 blazeSarah Williams vividly remembers the night in 2016 when she camped overnight in a ca...",
         "source": "The Guardian",
         "category": "housing"
       },
