@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-08-27T07:24:06.077813+00:00",
+  "fetched_at": "2026-08-27T21:47:33.033907+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Forty children reported missing from UK asylum hotels still not found",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/27/forty-children-reported-missing-uk-asylum-hotels-2023-still-not-found",
-        "description": "Parliamentary committee welcomes fact most of 472 missing have been found but ‘extremely concerned’ for restForty children who went missing from hotels housing asylum seekers in the UK have still n...",
+        "title": "Burnham announces crackdown on rogue bailiffs and ‘cowboy builders’",
+        "url": "https://www.theguardian.com/money/2026/aug/27/burnham-to-tackle-rogue-bailiffs-cowboy-builders-debts",
+        "description": "New rules are aimed at protecting people in debt in England and Wales and stopping homeowners being ripped offA clampdown on “rogue bailiffs” has been launched by Andy Burnham amid concerns that vu...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "No more UK energy bills support likely before price cap rise",
-        "url": "https://www.theguardian.com/business/2026/aug/26/energy-bills-support-price-cap-rise-andy-burnham",
-        "description": "Andy Burnham stops short of pledging further help as gas and electricity prices due to increase by 4% in OctoberHouseholds are unlikely to receive further energy bills support before the October pr...",
+        "title": "Burnham accused of U-turn after initially backing political donations cap to fall below £500k",
+        "url": "https://www.theguardian.com/politics/2026/aug/27/andy-burnham-political-donation-reduced-over-time",
+        "description": "Exclusive: Campaigner says PM wrote in email he believed £500k cap should be reduced over time to guard against undue influencesAndy Burnham recently supported an even lower donations cap than prev...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham drops support for political funding cap aimed at curbing mega-donors",
-        "url": "https://www.theguardian.com/politics/2026/aug/26/burnham-political-donations-influence-elections-bill",
-        "description": "PM said he would set bar at £500k, but trade unions say funding reforms could undermine their ability to donate to LabourAndy Burnham has dropped his support for capping political donations, causin...",
+        "title": "Number of asylum seekers living in hotels across UK halves in a year",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/27/number-of-asylum-seekers-living-in-hotels-across-uk-halves-within-a-year",
+        "description": "Home Office was housing 16,021 asylum seekers across 160 hotels at end of June, while small boat crossings down 23%UK politics live – latest updatesThe number of asylum seekers living in hotels has...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham calls summit of Welsh, Scottish and Northern Irish first ministers",
-        "url": "https://www.bbc.co.uk/news/articles/c14d8v83ny7o?at_medium=RSS&at_campaign=rss",
-        "description": "The announcement comes as Burnham holds his first official visit to Wales since becoming prime minster.",
+        "title": "Number of asylum seekers in hotels halves in a year",
+        "url": "https://www.bbc.co.uk/news/articles/c3relr4xx27o?at_medium=RSS&at_campaign=rss",
+        "description": "Figures released today by the Home Office show that there was also a fall across legal migration arrivals, asylum claims and small boat arrivals.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Andy Burnham’s autumn of pain– podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/aug/27/andy-burnhams-autumn-of-pain-podcast",
+        "description": "It’s been a month since Andy Burnham became prime minister. And while polls have shown a ‘Burnham bounce’, the coming months will force the new PM into making some tough – and potentially unpopular...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Fears grow for fourth rate hike after Australia sees higher-than-expected July inflation",
         "url": "https://www.theguardian.com/australia-news/2026/aug/26/fears-grow-for-fourth-rate-hike-after-higher-than-expected-july-inflation-rate",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Canada announces 50% retaliatory tariffs on hundreds of US imports as trade war escalates – video",
-        "url": "https://www.theguardian.com/world/video/2026/aug/25/canada-tariffs-us-goods-mark-carney",
-        "description": "Announcement of tariffs on $20bn worth of US goods follows through on Mark Carney's vow to match US tariffs 'dollar for dollar' Continue reading...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Meta's $18bn settlement may hasten reckoning for social media on child safety",
-        "url": "https://www.bbc.co.uk/news/articles/clyq4gxwe7go?at_medium=RSS&at_campaign=rss",
-        "description": "Perhaps our days of doomscrolling are numbered, writes the BBC's technology editor Zoe Kleinman.",
+        "title": "'Cowboy builders' targeted in new government clampdown",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
+        "description": "A database of trusted tradespeople and a system to protect customers' money is being launched by the government next month.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,14 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "Treatment involving patient's family cuts mental health hospital admissions, study finds",
-        "url": "https://www.bbc.co.uk/news/articles/cvgydk0vvpyo?at_medium=RSS&at_campaign=rss",
-        "description": "The approach focuses on the patient priorities, seeing the same clinicians, and involving people close to them.",
+        "title": "Salmonella outbreak: What we know so far",
+        "url": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds have fallen ill with salmonella infections in an outbreak linked to imported eggs.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Number of asylum seekers living in hotels across UK halves in a year",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/27/number-of-asylum-seekers-living-in-hotels-across-uk-halves-within-a-year",
+        "description": "Home Office was housing 16,021 asylum seekers across 160 hotels at end of June, while small boat crossings down 23%UK politics live – latest updatesThe number of asylum seekers living in hotels has...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Forty children reported missing from UK asylum hotels still not found",
         "url": "https://www.theguardian.com/uk-news/2026/aug/27/forty-children-reported-missing-uk-asylum-hotels-2023-still-not-found",
@@ -105,64 +112,57 @@
         "description": "Plan part of a wider policy to remove foreign nationals from social homes and prioritise young British-born couplesSocial housing tenants will be evicted if they fail to keep their gardens well mai...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "French police accused of rising use of violence to stop Channel crossings",
-        "url": "https://www.theguardian.com/world/2026/aug/24/french-police-violence-channel-crossings-uk",
-        "description": "NGO criticises ‘human cost’ of UK-funded crackdown on attempts to set off from French beaches in small boatsPeople trying to cross the Channel to the UK have reported an increase in French police u...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "​W​hy are European leaders staying silent after our summer of climate shock?",
-        "url": "https://www.theguardian.com/world/2026/aug/26/why-are-european-leaders-staying-silent-after-our-summer-of-climate-shock",
-        "description": "Lethal temperatures ​and wildfires have exposed a widening gulf between voters demanding ​action and politicians unwilling to confront the long-term choices global heating requires• Don’t get This ...",
+        "title": "Climate crisis could be destabilising mountain areas like Nepal, experts warn",
+        "url": "https://www.theguardian.com/world/2026/aug/27/climate-crisis-mountain-areas-glaciers-nepal-tibet",
+        "description": "Unusual heat this year may have melted ice and thawed bonds that hold glaciers in place – leading to catastropheNepal-Tibet flash flood – latest updatesWhat caused the flash flood in Nepal and Tibe...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "‘National scandal’: extreme heat linked to 40,000 deaths in England between 1988 and 2025",
-        "url": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
-        "description": "ONS data shows rising toll of climate crisis, with officials warning this summer on track to set further recordsMore than 40,000 extra people died on the hottest days in England between 1988 and 20...",
+        "title": "El Niño climate patterns supercharged by burning of fossil fuels, study finds",
+        "url": "https://www.theguardian.com/environment/2026/aug/27/el-nino-climate-patterns-fossil-fuels",
+        "description": "‘Godzilla’ event currently brewing could push 50 million people into acute hunger before the end of next yearA series of strong El Niño climatic patterns in recent decades, such as the “Godzilla” e...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Heatwaves show UK must do more to promote cycling and walking, campaigners say",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/26/heatwaves-uk-promote-cycling-walking",
-        "description": "Civil society groups argue climate crisis means transport sector needs to urgently reduce its carbon emissionsDozens of civil society groups have demanded the UK government do more to promote cycli...",
+        "title": "One of east coast’s largest datacenters accused of ‘violating federal law’",
+        "url": "https://www.theguardian.com/environment/2026/aug/27/new-jersey-vineland-datacenter-permits",
+        "description": "Thermal drone footage shows a Microsoft-backed AI datacenter powering its operations with dozens of unpermitted generatorsThe largest planned AI datacenter in New Jersey is being accused of violati...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "'The flood took everything': Nepal survivors describe horror of loved ones being swept away",
-        "url": "https://www.bbc.co.uk/news/articles/cd08z840p8lo?at_medium=RSS&at_campaign=rss",
-        "description": "One woman says her father, mother, sister and sister's children were carried away before her eyes.",
+        "title": "Clean-up of illegal waste supersite costs taxpayers £6m",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss",
+        "description": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Russia says it could hit UK military targets over supply of missile technology to Ukraine – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/aug/27/mcfadden-meta-jobs-neets-burnham-wales-unemployment-tata-steel-industry-latest-news-updates",
+        "description": "This blog is now closed. You can find the rest of our UK politics coverage hereSpeaking on the media round this morning, the work and pensions secretary, Pat McFadden, said he expected Meta’s new p...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Number of young people in UK not in work or education falls below 1 million",
+        "url": "https://www.theguardian.com/society/2026/aug/27/neets-figures-youth-unemployment-april-june",
+        "description": "Figure is 30,000 higher than a year ago but latest data is a boost to efforts to reverse the rise in economic inactivityBusiness live – latest updatesThe number of young people not in education, em...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Ghent professors challenged expertise of Jason Arday’s plagiarism accuser",
         "url": "https://www.theguardian.com/uk-news/2026/aug/27/ghent-professors-challenged-expertise-jason-arday-plagiarism-accuser",
         "description": "Allegations Nathan Cofnas was unqualified for Ghent role and would cause ‘negative impact’ made to senior leaders months agoNathan Cofnas, the academic who accused Jason Arday of plagiarism, has be...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘I just give from my heart’: how Dolly Parton’s philanthropy focused most on helping children",
-        "url": "https://www.theguardian.com/music/2026/aug/26/dolly-parton-philanthropy-charity-children-imagination-library",
-        "description": "Parton put her millions behind causes she believed in – from Covid vaccines to the Imagination Library, which sends children around the world a free book every monthDolly Parton dies aged 80 | Cele...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Year of after-school care now costs £2,800 a child in parts of UK",
-        "url": "https://www.theguardian.com/money/2026/aug/25/year-of-after-school-care-now-costs-2800-a-child-in-parts-of-uk",
-        "description": "Bills have jumped 42% in England over the past 10 years – and that excludes the cost of breakfast clubs and extracurricular activities Parents of primary schoolchildren in England will pay 42% more...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Heart, hope and a steely determination: Dolly Parton's musical legacy",
-        "url": "https://www.bbc.co.uk/news/articles/c74k8zwvez0o?at_medium=RSS&at_campaign=rss",
-        "description": "BBC music correspondent Mark Savage looks back on the legacy of the \"irreplaceable\" late singer.",
+        "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+        "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+        "description": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-        "url": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-        "description": "The hospital tells the BBC the ward door was not locked but manned with security guards, to protect the babies.",
+        "title": "What we know about deadly Nepal-Tibet floods",
+        "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump officials threaten Kennedy Center demolition if court blocks renovations",
-        "url": "https://www.bbc.co.uk/news/articles/c62mr97n936o?at_medium=RSS&at_campaign=rss",
-        "description": "The justice department has also asked for Trump's name to be put back on the building after it was removed in June following a court order.",
+        "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
+        "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
+        "description": "He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
