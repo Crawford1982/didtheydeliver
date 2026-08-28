@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-27T21:47:33.033907+00:00",
+  "fetched_at": "2026-08-28T09:38:52.722994+00:00",
   "headlines": {
     "government": [
       {
@@ -24,14 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Number of asylum seekers in hotels halves in a year",
-        "url": "https://www.bbc.co.uk/news/articles/c3relr4xx27o?at_medium=RSS&at_campaign=rss",
-        "description": "Figures released today by the Home Office show that there was also a fall across legal migration arrivals, asylum claims and small boat arrivals.",
+        "title": "Greens call for temporary ban on new data centres",
+        "url": "https://www.bbc.co.uk/news/articles/cz0zm4pzme2o?at_medium=RSS&at_campaign=rss",
+        "description": "Zack Polanski wants stricter rules to limit the use of water and energy by data centres for AI.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "How did Trump get so rich? – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/aug/28/how-did-donald-trump-get-so-rich-podcast",
+        "description": "In the past couple of weeks, the Trump administration has reignited its trade war with Canada, threatened an ‘economic D-day’ against Iran and watched the US national debt surpass $40tn. Meanwhile,...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Andy Burnham’s autumn of pain– podcast",
         "url": "https://www.theguardian.com/politics/audio/2026/aug/27/andy-burnhams-autumn-of-pain-podcast",
@@ -47,21 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "Is the Trump Treasury panicking over the level of US debt?",
-        "url": "https://www.theguardian.com/business/2026/aug/26/is-the-trump-treasury-panicking-over-the-level-of-us-debt",
-        "description": "With the federal deficit near 6% of GDP and the national debt over $40tn, America’s fiscal position looks increasingly precariousBessent ‘will lose’ battle with bond markets, ex-mentor warnsAre we ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "'Cowboy builders' targeted in new government clampdown",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z44982e4o?at_medium=RSS&at_campaign=rss",
-        "description": "A database of trusted tradespeople and a system to protect customers' money is being launched by the government next month.",
+        "title": "Military veterans told they owe thousands of pounds over clerical error",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4512mlxdo?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds of former UK service personnel have had their pensions cut after being overpaid.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "ADHD and autism costs in England ‘running out of control’, NHS leaders warn",
+        "url": "https://www.theguardian.com/society/2026/aug/28/adhd-autism-costs-england-running-out-of-control-nhs-alliance",
+        "description": "Soaring demand for services has led to tenfold increase in spending in a year in some areas, says NHS AllianceNHS leaders have warned that the costs of meeting soaring demand for ADHD and autism se...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Thousands of UK women have undiagnosed PTSD after childbirth each year, study finds",
+        "url": "https://www.theguardian.com/society/2026/aug/28/thousands-of-uk-women-have-undiagnosed-ptsd-after-childbirth-each-year-study-finds",
+        "description": "Experts call for joined-up support through the postnatal period amid concerns GPs are not trained to spot symptomsThousands of UK women develop undiagnosed post-traumatic stress disorder (PTSD) aft...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "‘National scandal’: extreme heat linked to 40,000 deaths in England between 1988 and 2025",
         "url": "https://www.theguardian.com/environment/2026/aug/26/deaths-england-hottest-days-extreme-weather",
@@ -70,23 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Autism and ADHD care complaints more than triple in five years in England",
-        "url": "https://www.theguardian.com/society/2026/aug/26/autism-adhd-care-complaints-england-triple-five-years",
-        "description": "NHS ombudsman warns of years-long waits and patients paying thousands to go private as demand for services soarsComplaints about autism and attention deficit hyperactivity disorder services in Engl...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "As a doctor, I say this: before we even consider assisted dying, fix how we care for the most vulnerable | Zubir Ahmed",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/25/assisted-dying-palliative-care-england-wales",
-        "description": "A person’s wish to die can be shaped by whether they have access to proper palliative care – and in England and Wales, too many do notZubir Ahmed is a transplant surgeon and former Labour ministerA...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Salmonella outbreak: What we know so far",
-        "url": "https://www.bbc.co.uk/news/articles/cp30gqnpqjqo?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds have fallen ill with salmonella infections in an outbreak linked to imported eggs.",
+        "title": "NHS bosses warn of chaos in ADHD and autism care",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zgpynwdjo?at_medium=RSS&at_campaign=rss",
+        "description": "Costs are spiralling out of control as unregulated private providers capitalise on demand, say managers.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Clean-up of illegal waste supersite costs taxpayers £6m",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyx45zzwgo?at_medium=RSS&at_campaign=rss",
-        "description": "The bill for clearing the dump in Oxfordshire has been covered by taxpayers.",
+        "title": "'Please help us find her': Families fly to Nepal in search for 33 missing British nationals",
+        "url": "https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&at_campaign=rss",
+        "description": "Among the British nationals reported missing are a 13-year-old girl and 14-year-old boy.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-        "url": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
-        "description": "Preliminary investigations by scientists have pointed to a collapsed glacier as the cause, highlighting the issue of rapidly melting Himalayan ice.",
+        "title": "'High risk' of lake breaching and causing second flood, warns China",
+        "url": "https://www.bbc.co.uk/news/articles/ckg8l2x8wr8o?at_medium=RSS&at_campaign=rss",
+        "description": "Authorities say a lake formed after a recent landslide near the Nepal-Tibet border may breach in the coming days.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "What we know about deadly Nepal-Tibet floods",
-        "url": "https://www.bbc.co.uk/news/articles/cd948kn02e5o?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds have died or are missing in Wednesday's flooding and landslides on the border of Nepal and Tibet.",
+        "title": "Trump administration illegally retaliated against Anthropic, judge rules",
+        "url": "https://www.bbc.co.uk/news/articles/cm2q7z5mlrmo?at_medium=RSS&at_campaign=rss",
+        "description": "The AI startup has been at loggerheads with the Pentagon over the use of AI by the US military.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-        "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-        "description": "He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95.",
+        "title": "Tate brothers blast US jail conditions as they seek bail in UK extradition fight",
+        "url": "https://www.bbc.co.uk/news/articles/c9v9nndjznvo?at_medium=RSS&at_campaign=rss",
+        "description": "Andrew and Tristan Tate's legal team argued in a Miami court that the two were not a flight risk.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
