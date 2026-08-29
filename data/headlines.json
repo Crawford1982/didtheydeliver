@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-29T12:19:04.705187+00:00",
+  "fetched_at": "2026-08-29T20:26:16.194415+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "James Cleverly resigns from shadow cabinet to run for mayor of London",
+        "url": "https://www.theguardian.com/politics/2026/aug/29/james-cleverly-resigns-conservative-shadow-cabinet-london-mayor",
+        "description": "Shadow minister for housing, communities and local government to resign with immediate effectJames Cleverly has resigned from the shadow cabinet to run for mayor of London.The Tory heavyweight, who...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Cells for arrested offenders may run out without early prison release, says Labour",
+        "url": "https://www.theguardian.com/society/2026/aug/29/cells-for-arrested-offenders-may-run-out-without-early-prison-release-says-labour",
+        "description": "Bridget Phillipson says government would not have to consider releasing prisoners early if Tories had created more capacityCells to hold newly arrested people could run out without the early prison...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Tax promises, defence targets and Iran: Andy Burnham’s budget headaches",
         "url": "https://www.theguardian.com/uk-news/2026/aug/29/andy-burnham-john-healey-autumn-budget-2026-challenges",
         "description": "As economic circumstances worsen, the PM’s commitments have left him and the chancellor in a tight spotWhen Andy Burnham made his first speech after returning as an MP, he promised that as prime mi...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Ireland will be united, says Gordon Brown",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/29/ireland-will-be-united-says-gordon-brown",
-        "description": "Former PM believes Northern Ireland will leave UK in the long term – but remains opposed to Scottish independence‘I don’t want to be a backseat driver’: Gordon Brown on Burnham, billionaires – and ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Drumcree ruling raises fears of sectarian confrontation in Northern Ireland",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/28/drumcree-dispute-court-ruling-garvaghy-road-marching-season",
-        "description": "High court quashes latest restriction on Orange Order march, reigniting political row over Garvaghy RoadThe boiling cauldron known as Drumcree that used to scald and torment Northern Ireland each s...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
-        "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
-        "description": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
+        "title": "The race to stop England running out of water",
+        "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
+        "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
         "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-        "description": "An investigation has been launched into whether ammunition was being stored at the site.",
+        "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "title": "Right-wing commentator Milo Yiannopoulos deported from US to UK",
+        "url": "https://www.bbc.co.uk/news/articles/cqlw52vr0dwo?at_medium=RSS&at_campaign=rss",
+        "description": "The self-styled provocateur had been detained by Immigration and Customs Enforcement (ICE).",
         "source": "BBC News",
         "category": "foreign_policy"
       }
