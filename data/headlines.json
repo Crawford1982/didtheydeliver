@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-08-29T05:43:15.638024+00:00",
+  "fetched_at": "2026-08-29T12:19:04.705187+00:00",
   "headlines": {
     "government": [
       {
+        "title": "Tax promises, defence targets and Iran: Andy Burnham’s budget headaches",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/29/andy-burnham-john-healey-autumn-budget-2026-challenges",
+        "description": "As economic circumstances worsen, the PM’s commitments have left him and the chancellor in a tight spotWhen Andy Burnham made his first speech after returning as an MP, he promised that as prime mi...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Ireland will be united, says Gordon Brown",
         "url": "https://www.theguardian.com/uk-news/2026/aug/29/ireland-will-be-united-says-gordon-brown",
-        "description": "Former PM believes Northern Ireland will leave UK in the long term – but remains opposed to Scottish independenceThe former prime minister Gordon Brown has said it is inevitable that Ireland will b...",
+        "description": "Former PM believes Northern Ireland will leave UK in the long term – but remains opposed to Scottish independence‘I don’t want to be a backseat driver’: Gordon Brown on Burnham, billionaires – and ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,25 +24,25 @@
         "category": "government"
       },
       {
-        "title": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
-        "url": "https://www.theguardian.com/world/2026/aug/28/russia-losing-6000-more-troops-than-it-can-recruit-each-month-in-ukraine-says-west",
-        "description": "Moscow recruits an estimated 1,000 people a day but western officials say it cannot keep up with casualty levelRussia is losing about 6,000 more troops in Ukraine each month than it can recruit, we...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham says he will not vote on assisted dying unlike Starmer",
-        "url": "https://www.bbc.co.uk/news/articles/c1dlp27gre5o?at_medium=RSS&at_campaign=rss",
-        "description": "Burnham has called for all views to be respected as MPs vote in two weeks on legalising assisted dying in England and Wales.",
+        "title": "Burnham's summer tour is over - now he has to prove himself in Parliament",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy48r1nr4o?at_medium=RSS&at_campaign=rss",
+        "description": "The imminent return of Parliament will put the new prime minister under real scrutiny, with MPs finally getting a chance to grill him.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Healey’s budget to duck setting a date for 3% defence spending target",
-        "url": "https://www.theguardian.com/business/2026/aug/28/john-healey-uk-defence-spending-target-budget",
-        "description": "Roadmap for increasing department’s share of GDP will be deferred until next year’s reviewThe chancellor will delay setting out when the UK will meet the target of allocating 3% of GDP on defence u...",
+        "title": "‘If it’s made in the US, I don’t buy it’: Canadians on boycotting Trump’s America",
+        "url": "https://www.theguardian.com/business/2026/aug/29/if-its-made-in-the-us-i-dont-buy-it-canadians-on-boycotting-trumps-america",
+        "description": "Avoiding US goods and services – from tech to whisky to air travel – has forced many to find a new way of livingFor William McDonald, 38, a diesel mechanic from Thunder Bay, Ontario, “Canadian is a...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "‘Inept, incompetent, craven’: Scott Bessent struggles to clean up the president’s mess",
+        "url": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump",
+        "description": "There’s little optimism about treasury secretary’s ability to handle Trump’s tariffs, Iran sanctions and colossal US debtHistory remembers Gen Dwight Eisenhower, the supreme commander of the allied...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -43,13 +50,6 @@
         "title": "Fed chair says delivering ‘stable prices’ is central bank’s job as inflation persists",
         "url": "https://www.theguardian.com/business/2026/aug/28/kevin-warsh-federal-reserve-inflation",
         "description": "However, Kevin Warsh didn’t say if interest rates would change in coming months, as inflation remains stubbornThe US Federal Reserve is not done fighting high inflation, its chair, Kevin Warsh, sai...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
-        "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
-        "description": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan racesEvery day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -95,7 +95,7 @@
       {
         "title": "The battle over RAF Barnham: how ominous anti-asylum protests engulfed a small Norfolk town",
         "url": "https://www.theguardian.com/uk-news/2026/aug/29/the-battle-over-raf-barnham-how-ominous-anti-asylum-protests-engulfed-a-small-norfolk-town",
-        "description": "Thetford has a welcoming history. So why have there been so many demonstrations this summer over plans to house asylum seekers at a nearby military base – as well as nights of violent disorder ?‘I ...",
+        "description": "Thetford has a welcoming history. So why have there been so many demonstrations this summer over plans to house asylum seekers at a nearby military base – as well as nights of violent disorder?‘I d...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
+        "title": "Exeter University approves deal with Saudi Arabia to train military officers and officials",
+        "url": "https://www.theguardian.com/education/2026/aug/29/exeter-university-approves-deal-with-saudi-arabia-to-train-military-officers-and-officials",
+        "description": "In move that could generate millions, Exeter academics to deliver MA at National Defense University in RiyadhThe University of Exeter has approved plans for a “formal partnership” with Saudi Arabia...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "‘In walked this big bundle of energy’: the day Dolly Parton came to Rotherham",
+        "url": "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
+        "description": "Country star came to South Yorkshire town in 2007 for UK launch of the Imagination Library, her book donation schemeShane Jarman was up a ladder decorating a Christmas tree at the school where he w...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Tom Towelling Teaches You to Knit review – quirky yarns and a pop quiz in maths",
         "url": "https://www.theguardian.com/stage/2026/aug/28/tom-towelling-teaches-you-to-knit-review-pleasance-courtyard-edinburgh",
         "description": "Pleasance Courtyard, Edinburgh Hopping from a PowerPoint on hairlines to songs about favourite motorways, Towelling’s set is fun but drops a stitch or twoThe route from the classroom to the comedy ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Russia says it could hit UK military targets over supply of missile technology to Ukraine – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/27/mcfadden-meta-jobs-neets-burnham-wales-unemployment-tata-steel-industry-latest-news-updates",
-        "description": "This blog is now closed. You can find the rest of our UK politics coverage hereSpeaking on the media round this morning, the work and pensions secretary, Pat McFadden, said he expected Meta’s new p...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Number of young people in UK not in work or education falls below 1 million",
-        "url": "https://www.theguardian.com/society/2026/aug/27/neets-figures-youth-unemployment-april-june",
-        "description": "Figure is 30,000 higher than a year ago but latest data is a boost to efforts to reverse the rise in economic inactivityBusiness live – latest updatesThe number of young people not in education, em...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-        "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
+        "title": "At least 37 dead and hundreds evacuated after strike on Kyiv warehouse",
+        "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+        "description": "An investigation has been launched into whether ammunition was being stored at the site.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
-        "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
-        "description": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
