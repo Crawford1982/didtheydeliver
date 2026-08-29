@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-08-28T21:43:38.550590+00:00",
+  "fetched_at": "2026-08-29T05:43:15.638024+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Ireland will be united, says Gordon Brown",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/29/ireland-will-be-united-says-gordon-brown",
+        "description": "Former PM believes Northern Ireland will leave UK in the long term – but remains opposed to Scottish independenceThe former prime minister Gordon Brown has said it is inevitable that Ireland will b...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Drumcree ruling raises fears of sectarian confrontation in Northern Ireland",
         "url": "https://www.theguardian.com/uk-news/2026/aug/28/drumcree-dispute-court-ruling-garvaghy-road-marching-season",
@@ -13,13 +20,6 @@
         "title": "Russia ‘losing 6,000 more troops in Ukraine each month than it can recruit’",
         "url": "https://www.theguardian.com/world/2026/aug/28/russia-losing-6000-more-troops-than-it-can-recruit-each-month-in-ukraine-says-west",
         "description": "Moscow recruits an estimated 1,000 people a day but western officials say it cannot keep up with casualty levelRussia is losing about 6,000 more troops in Ukraine each month than it can recruit, we...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK urged to ban imports of Brazilian meat over health concerns",
-        "url": "https://www.theguardian.com/food/2026/aug/28/uk-urged-ban-import-brazil-meat-health-concerns",
-        "description": "Brazil has failed to prove compliance with EU rules on use of antibiotics in cattle and poultry farmingThe UK’s leading farming organisations and animal health experts have called for an urgent ban...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "I was spending £700 a month: How I beat my late-night shopping addiction",
-        "url": "https://www.bbc.co.uk/news/articles/czxqk1gwxn7o?at_medium=RSS&at_campaign=rss",
-        "description": "Younger generations are thought to be more susceptible to impulse spending. The BBC looks at ways to get it under control.",
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "The battle over RAF Barnham: how ominous anti-asylum protests engulfed a small Norfolk town",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/29/the-battle-over-raf-barnham-how-ominous-anti-asylum-protests-engulfed-a-small-norfolk-town",
+        "description": "Thetford has a welcoming history. So why have there been so many demonstrations this summer over plans to house asylum seekers at a nearby military base – as well as nights of violent disorder ?‘I ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "TalkTV under fire for not disclosing reporter’s ties to Reform UK in Channel crossing film",
         "url": "https://www.theguardian.com/media/2026/aug/28/talktv-journalist-small-boat-crossing-reform-member-christian-drogan",
         "description": "Christian Drogan’s Invading Britain shows former builder turned journalist trying to travel from France to England in small boatRupert Murdoch’s online channel TalkTV is facing criticism after it d...",
@@ -103,13 +110,6 @@
         "title": "Number of asylum seekers living in hotels across UK halves in a year",
         "url": "https://www.theguardian.com/uk-news/2026/aug/27/number-of-asylum-seekers-living-in-hotels-across-uk-halves-within-a-year",
         "description": "Home Office was housing 16,021 asylum seekers across 160 hotels at end of June, while small boat crossings down 23%UK politics live – latest updatesThe number of asylum seekers living in hotels has...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Forty children reported missing from UK asylum hotels still not found",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/27/forty-children-reported-missing-uk-asylum-hotels-2023-still-not-found",
-        "description": "Parliamentary committee welcomes fact most of 472 missing have been found but ‘extremely concerned’ for restForty children who went missing from hotels housing asylum seekers in the UK have still n...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "How the weather in space can affect us on Earth - and the team trying to protect us",
-        "url": "https://www.bbc.co.uk/news/articles/czjlzdw8gp0o?at_medium=RSS&at_campaign=rss",
-        "description": "The weather in space has the potential to impact our lives here on Earth in a fundamental way.",
+        "title": "Strong winds and thunderstorms kick off the bank holiday weekend",
+        "url": "https://www.bbc.co.uk/weather/articles/c1l6g7gqm37o?at_medium=RSS&at_campaign=rss",
+        "description": "Cooler and showery conditions will continue across the weekend and into Monday, bringing a record-breaking summer to a rather damp close as Matt Taylor explains.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Norway mourns King Harald as Haakon VIII ascends throne",
-        "url": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
-        "description": "Mourners gather outside the palace as royals, politicians and citizens remember a beloved king, whose son has adopted the family motto \"all for norway\".",
+        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+        "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-        "url": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-        "description": "Anne Lindboe, the mayor of Norway's capital, had planned to marry her fiance on Friday.",
+        "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+        "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-        "description": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
+        "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+        "url": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+        "description": "A woman who rented out homes to two al-Qaeda members speaks publicly for the first time - to the BBC.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
