@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-08-30T16:04:35.718911+00:00",
+  "fetched_at": "2026-08-30T20:35:34.752729+00:00",
   "headlines": {
     "government": [
       {
         "title": "What is Burnham doing to the early prison release scheme and why?",
         "url": "https://www.theguardian.com/society/2026/aug/30/early-prison-release-scheme-changes-backlash",
-        "description": "Offences including manslaughter have been excluded from changes to sentencing rules amid an overcrowding crisisGrooming gang perpetrators and killers including those responsible for PC Andrew Harpe...",
+        "description": "Offences including manslaughter have been excluded from changes to sentencing rules amid an overcrowding crisisGrooming gang perpetrators and killers, including those responsible for PC Andrew Harp...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Cleverly avoids culture war issues in pitch to be next London mayor",
+        "url": "https://www.theguardian.com/politics/2026/aug/30/james-cleverly-london-mayor-classically-conservative-campaign",
+        "description": "Conservative hopeful says Sadiq Khan has ‘lost passion for the job’ and Andy Burnham is ‘very anti-London’  James Cleverly has pledged to run a “classically Conservative” campaign to become the may...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -13,13 +20,6 @@
         "title": "Andy Burnham pledge to end indefinite prison terms ‘a step towards healing’",
         "url": "https://www.theguardian.com/society/2026/aug/30/andy-burnham-end-indefinite-jail-terms-ipp",
         "description": "Campaigners welcome plan to bring IPP sentences to a close but say the move is long overdueCampaigners have hailed Andy Burnham’s pledge to bring an end to indefinite jail terms as “a day that thou...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK asks banks for feelgood stories about keeping out dirty money",
-        "url": "https://www.theguardian.com/business/2026/aug/30/treasury-city-real-life-proof-blocking-dirty-money",
-        "description": "City firms tapped for case studies to try to convince global watchdog that London has cleaned up its actThe government is asking bankers and lawyers to provide feelgood stories about how they block...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Nonsensical housing policy from Reform | Brief letters",
+        "url": "https://www.theguardian.com/politics/2026/aug/30/nonsensical-housing-policy-from-reform",
+        "description": "Foreign-born citizens | A heartwarming visitor | United States of Trump | What’s in a name? | Against the oddsOur first child was born in Singapore, 30 years ago, through no fault of their own. As ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "The battle over RAF Barnham: how ominous anti-asylum protests engulfed a small Norfolk town",
         "url": "https://www.theguardian.com/uk-news/2026/aug/29/the-battle-over-raf-barnham-how-ominous-anti-asylum-protests-engulfed-a-small-norfolk-town",
         "description": "Thetford has a welcoming history. So why have there been so many demonstrations this summer over plans to house asylum seekers at a nearby military base – as well as nights of violent disorder?‘I d...",
@@ -103,13 +110,6 @@
         "title": "TalkTV under fire for not disclosing reporter’s ties to Reform UK in Channel crossing film",
         "url": "https://www.theguardian.com/media/2026/aug/28/talktv-journalist-small-boat-crossing-reform-member-christian-drogan",
         "description": "Christian Drogan’s Invading Britain shows former builder turned journalist trying to travel from France to England in small boatRupert Murdoch’s online channel TalkTV is facing criticism after it d...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Number of asylum seekers living in hotels across UK halves in a year",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/27/number-of-asylum-seekers-living-in-hotels-across-uk-halves-within-a-year",
-        "description": "Home Office was housing 16,021 asylum seekers across 160 hotels at end of June, while small boat crossings down 23%UK politics live – latest updatesThe number of asylum seekers living in hotels has...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,7 +137,7 @@
         "category": "climate"
       },
       {
-        "title": "Nasa launches powerful new space telescope to explore mysteries of the Universe",
+        "title": "'A giant leap forward': Nasa launches powerful new space telescope",
         "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
         "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
         "source": "BBC News",
@@ -148,7 +148,7 @@
       {
         "title": "Jason Arday accuser given three-month teaching ban but can continue research",
         "url": "https://www.theguardian.com/uk-news/2026/aug/30/nathan-cofnas-jason-arday-accuser-teaching-ban-research",
-        "description": "Nathan Cofnas allowed to resume Ghent University work, as US ambassador claims credit for lifting of suspensionProf Jason Arday’s accuser Nathan Cofnas has been barred from teaching on Ghent Univer...",
+        "description": "Nathan Cofnas told by Ghent University to work remotely as US ambassador claims credit for lifting of suspension Prof Jason Arday’s accuser Nathan Cofnas has been barred from teaching on Ghent Univ...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Nonsensical housing policy from Reform | Brief letters",
+        "url": "https://www.theguardian.com/politics/2026/aug/30/nonsensical-housing-policy-from-reform",
+        "description": "Foreign-born citizens | A heartwarming visitor | United States of Trump | What’s in a name? | Against the oddsOur first child was born in Singapore, 30 years ago, through no fault of their own. As ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "‘An act of resistance’: holdout homes in the US – in pictures",
         "url": "https://www.theguardian.com/artanddesign/gallery/2026/aug/26/baltimore-holdout-homes-ben-marcin-in-pictures",
         "description": "Ben Marcin’s stunning photographs show lone houses, derelict homes and makeshift camps that stand as epitaphs to past lives and offer insight into how Americans on the margins live Continue reading...",
@@ -181,16 +188,16 @@
         "description": "Spectrum Building leaseholders awaiting payouts after freeholder, Arinium, went bankrupt shortly after 2024 blazeSarah Williams vividly remembers the night in 2016 when she camped overnight in a ca...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Government lays out housing plans but Burnham backtracks on social renting pledge – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/aug/25/housing-plans-andy-burnham-social-renting-pledge-ukraine-reform-tories-rupert-lowe-uk-politics-latest",
-        "description": "£10bn for housing with 60% social renting is at odds with PM’s previous call for programme to be spent entirely on social homesMinisters are looking at “a range of support” for vulnerable household...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Eight killed and others missing after ferry capsizes off northern Cyprus",
+        "url": "https://www.bbc.co.uk/news/articles/c770jyd4l7lo?at_medium=RSS&at_campaign=rss",
+        "description": "A search and rescue operation is under way after a ferry carrying nearly 270 people turns over after leaving port.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Iceland votes against restarting EU membership talks",
         "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
@@ -202,13 +209,6 @@
         "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
         "url": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
         "description": "Five others in their twenties were injured after shots were fired at a techno event near Zurich.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Canada installs large Lake Ontario sign in latest jab at US",
-        "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
-        "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
         "source": "BBC News",
         "category": "foreign_policy"
       }
