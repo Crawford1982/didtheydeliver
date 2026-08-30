@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-08-30T11:17:29.498106+00:00",
+  "fetched_at": "2026-08-30T16:04:35.718911+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "What is Burnham doing to the early prison release scheme and why?",
+        "url": "https://www.theguardian.com/society/2026/aug/30/early-prison-release-scheme-changes-backlash",
+        "description": "Offences including manslaughter have been excluded from changes to sentencing rules amid an overcrowding crisisGrooming gang perpetrators and killers including those responsible for PC Andrew Harpe...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Andy Burnham pledge to end indefinite prison terms ‘a step towards healing’",
+        "url": "https://www.theguardian.com/society/2026/aug/30/andy-burnham-end-indefinite-jail-terms-ipp",
+        "description": "Campaigners welcome plan to bring IPP sentences to a close but say the move is long overdueCampaigners have hailed Andy Burnham’s pledge to bring an end to indefinite jail terms as “a day that thou...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK asks banks for feelgood stories about keeping out dirty money",
         "url": "https://www.theguardian.com/business/2026/aug/30/treasury-city-real-life-proof-blocking-dirty-money",
         "description": "City firms tapped for case studies to try to convince global watchdog that London has cleaned up its actThe government is asking bankers and lawyers to provide feelgood stories about how they block...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "PC Andrew Harper’s killers will stay in prison as Burnham changes early release scheme",
-        "url": "https://www.theguardian.com/politics/2026/aug/30/pc-andrew-harper-killers-excluded-early-release-scheme",
-        "description": "PM says anyone convicted of unlawful killing, including all forms of manslaughter, will be excluded from the schemePC Andrew Harper’s killers will remain behind bars after Andy Burnham announced ch...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "James Cleverly resigns from shadow cabinet to run for mayor of London",
-        "url": "https://www.theguardian.com/politics/2026/aug/29/james-cleverly-resigns-conservative-shadow-cabinet-london-mayor",
-        "description": "Shadow minister for housing, communities and local government to resign with immediate effectJames Cleverly has resigned from the shadow cabinet to run for mayor of London.The Tory heavyweight, who...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Flooding devastated swathes of Indiana but response is hampered by politics",
+        "url": "https://www.theguardian.com/us-news/2026/aug/30/indiana-flooding-emergency-response",
+        "description": "Record inundations wrecked homes and took seven lives but Trump has not approved emergency aid and the state has cut funds for environmental agenciesIt’s been 10 days since the floodwater receded f...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Climate crisis could be destabilising mountain areas like Nepal, experts warn",
         "url": "https://www.theguardian.com/world/2026/aug/27/climate-crisis-mountain-areas-glaciers-nepal-tibet",
         "description": "Unusual heat this year may have melted ice and thawed bonds that hold glaciers in place – leading to catastropheNepal-Tibet flash flood – latest updatesWhat caused the flash flood in Nepal and Tibe...",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "One of east coast’s largest datacenters accused of ‘violating federal law’",
-        "url": "https://www.theguardian.com/environment/2026/aug/27/new-jersey-vineland-datacenter-permits",
-        "description": "Thermal drone footage shows a Microsoft-backed AI datacenter powering its operations with dozens of unpermitted generatorsThe largest planned AI datacenter in New Jersey is being accused of violati...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "The race to stop England running out of water",
-        "url": "https://www.bbc.co.uk/news/articles/clyrv84yd9ko?at_medium=RSS&at_campaign=rss",
-        "description": "Who is to blame for the summer drought, and can England future-proof its water supplies?",
+        "title": "Nasa launches powerful new space telescope to explore mysteries of the Universe",
+        "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
+        "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Jason Arday accuser given three-month teaching ban but can continue research",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/30/nathan-cofnas-jason-arday-accuser-teaching-ban-research",
+        "description": "Nathan Cofnas allowed to resume Ghent University work, as US ambassador claims credit for lifting of suspensionProf Jason Arday’s accuser Nathan Cofnas has been barred from teaching on Ghent Univer...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Meet the gen Zers finding job opportunities teaching English abroad",
         "url": "https://www.theguardian.com/money/2026/aug/30/young-americans-teaching-abroad",
@@ -156,13 +163,6 @@
         "title": "Exeter University approves deal with Saudi Arabia to train military officers and officials",
         "url": "https://www.theguardian.com/education/2026/aug/29/exeter-university-approves-deal-with-saudi-arabia-to-train-military-officers-and-officials",
         "description": "In move that could generate millions, Exeter academics to deliver MA at National Defense University in RiyadhThe University of Exeter has approved plans for a “formal partnership” with Saudi Arabia...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘In walked this big bundle of energy’: the day Dolly Parton came to Rotherham",
-        "url": "https://www.theguardian.com/music/2026/aug/29/dolly-parton-rotherham-visit-imagination-library-launch",
-        "description": "Country star came to South Yorkshire town in 2007 for UK launch of the Imagination Library, her book donation schemeShane Jarman was up a ladder decorating a Christmas tree at the school where he w...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-        "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+        "title": "Iceland votes against restarting EU membership talks",
+        "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+        "description": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume accession talks.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Iceland votes against restarting talks on joining EU",
-        "url": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-        "description": "Broadcaster RUV reports that 52.8% of voters rejected the government's proposal to resume talks.",
+        "title": "Canada installs large Lake Ontario sign in latest jab at US",
+        "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+        "description": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
         "source": "BBC News",
         "category": "foreign_policy"
       }
