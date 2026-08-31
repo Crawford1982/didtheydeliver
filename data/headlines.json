@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-08-31T12:44:58.963157+00:00",
+  "fetched_at": "2026-08-31T22:28:28.309644+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Ministers consider closing social mobility watchdog as part of planned shake-up",
+        "title": "More public control is the way to grow UK economy, Burnham to tell MPs",
+        "url": "https://www.theguardian.com/politics/2026/aug/31/andy-burnham-commons-more-public-ownership-only-way-to-grow-uk-economy",
+        "description": "Exclusive: Prime minister wants to ‘bring back hope’ by tackling cost of living as MPs call for electoral reformAndy Burnham will drive home his pledge to bring more essential services back into pu...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Andrew Griffith and Tom Tugendhat join Badenoch’s top team in Tory reshuffle",
+        "url": "https://www.theguardian.com/politics/2026/aug/31/kemi-badenoch-reshuffle-shadow-cabinet-patel-cleverly-resignations",
+        "description": "Conservative leader sacks shadow chancellor Mel Stride and shadow foreign secretary Priti PatelConservative reshuffle: who’s who in Kemi Badenoch’s top team?Kemi Badenoch sacked her shadow chancell...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK social mobility watchdog could be axed as ministers plan shake-up",
         "url": "https://www.theguardian.com/society/2026/aug/31/ministers-consider-closing-social-mobility-watchdog-as-part-of-planned-shake-up",
-        "description": "Exclusive: Labour MPs believe SMC has become ineffective and its work ‘should be a core function of government’Ministers are considering a shake-up of the government’s social mobility watchdog that...",
+        "description": "Exclusive: Labour MPs believe Gordon Brown-era SMC has become ineffective and its work ‘should be a core function of government’Ministers are considering a shake-up of the government’s social mobil...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "The London office, the empty boxes and the £1bn tax loophole",
-        "url": "https://www.theguardian.com/business/2026/aug/31/the-london-office-the-empty-boxes-and-the-1bn-tax-loophole",
-        "description": "Exclusive: How a court case over an unoccupied office block could end a widely used tax avoidance schemeFrom the outside, the seven-storey building at 2 America Square looks like any other office b...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Cross-party talks needed to tackle climate crisis, say Lib Dems",
-        "url": "https://www.theguardian.com/environment/2026/aug/31/talks-el-nino-climate-crisis-lib-dems-andy-burnham",
-        "description": "Andy Burnham urged to seek consensus over response to extreme heat and forthcoming ‘super El Niño’Andy Burnham should call a cross-party meeting to discuss the UK’s response to worsening extreme we...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Patel to be replaced by Tugendhat as shadow foreign secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cn5d7ry053eo?at_medium=RSS&at_campaign=rss",
-        "description": "Kemi Badenoch is expected to carry out a wider reshuffle of her front bench team following high-profile departures.",
+        "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
+        "url": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
+        "description": "Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Iran’s economy in crisis as US launches new sanctions campaign",
+        "url": "https://www.theguardian.com/world/2026/aug/31/iran-economy-crisis-usa-launches-sanctions-inflation-trump",
+        "description": "Trump’s Operation Economic Outcast is expected to push many Iranians into deeper poverty as food inflation soarsFor many Iranians, the new US sanctions campaign, called Operation Economic Outcast, ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "As US-Canada tensions flare, who’s calling the shots in Trump’s trade team?",
         "url": "https://www.theguardian.com/us-news/2026/aug/31/trump-trade-officials-tariffs-canada",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "OnlyFans and AI training: why gen Z doesn’t care where our money comes from | Alice Lassman",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/31/gen-z-stability-homeownership-onlyfans-ai",
-        "description": "With traditional goals such as stability and homeownership feeling out of reach, young people are focused on the presentBy now, we all know the shape of financial nihilism: the throw-your-money-at-...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "'My parents won't lend me £10k but helped my brother': When families play financial favourites",
-        "url": "https://www.bbc.co.uk/news/articles/cx279dml00ro?at_medium=RSS&at_campaign=rss",
-        "description": "So-called financial favouritism can cause jealousy and resentment long into adulthood. Here is how experts say you can avoid it",
+        "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
+        "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
+        "description": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "NHS to offer free high-street cholesterol tests in England",
-        "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
-        "description": "Checks at pharmacies for people aged 40 to 84 are aimed at identifying those at risk of heart attack or strokeThe NHS in England is to offer free finger-prick blood tests for cholesterol on the hig...",
+        "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
+        "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+        "description": "Technology trained on millions of routine ECGs could fast-track high-risk patients for treatmentDoctors have developed a “superhuman” AI tool that can spot heart disease in less than two seconds.Th...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "ADHD and autism costs in England ‘running out of control’, NHS leaders warn",
-        "url": "https://www.theguardian.com/society/2026/aug/28/adhd-autism-costs-england-running-out-of-control-nhs-alliance",
-        "description": "Soaring demand for services has led to tenfold increase in spending in a year in some areas, says NHS AllianceNHS leaders have warned that the costs of meeting soaring demand for attention deficit ...",
+        "title": "NHS to offer free high-street cholesterol tests in England",
+        "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
+        "description": "Checks at pharmacies for people aged 40 to 84 are aimed at identifying those at risk of heart attack or strokeThe NHS in England is to offer free finger-prick blood tests for cholesterol on the hig...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,28 +93,35 @@
     ],
     "immigration": [
       {
+        "title": "British family pleads with French authorities to release body of relative who died in Channel",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/31/british-family-plead-with-french-authorities-to-release-body-of-relative-who-died-in-the-channel",
+        "description": "Jasmeet Wadhwa, who fled Taliban persecution in Afghanistan, lost his life while trying to reach UK in AprilA British family is pleading with French authorities to release the body of a relative th...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Burnham’s bumpy ride ahead: PM’s in-tray full of dilemmas as parliament returns",
+        "url": "https://www.theguardian.com/politics/2026/aug/31/andy-burnham-in-tray-parliament-return",
+        "description": "Labour leader faces tough decisions on issues such as North Sea drilling, electoral reform and defence spendingAfter a relatively cheery summer in which he announced a range of eye-catching cost of...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Nonsensical housing policy from Reform | Brief letters",
         "url": "https://www.theguardian.com/politics/2026/aug/30/nonsensical-housing-policy-from-reform",
         "description": "Foreign-born citizens | A heartwarming visitor | United States of Trump | What’s in a name? | Against the oddsOur first child was born in Singapore, 30 years ago, through no fault of their own. As ...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "The battle over RAF Barnham: how ominous anti-asylum protests engulfed a small Norfolk town",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/29/the-battle-over-raf-barnham-how-ominous-anti-asylum-protests-engulfed-a-small-norfolk-town",
-        "description": "Thetford has a welcoming history. So why have there been so many demonstrations this summer over plans to house asylum seekers at a nearby military base – as well as nights of violent disorder?‘I d...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "TalkTV under fire for not disclosing reporter’s ties to Reform UK in Channel crossing film",
-        "url": "https://www.theguardian.com/media/2026/aug/28/talktv-journalist-small-boat-crossing-reform-member-christian-drogan",
-        "description": "Christian Drogan’s Invading Britain shows former builder turned journalist trying to travel from France to England in small boatRupert Murdoch’s online channel TalkTV is facing criticism after it d...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "How intense rains in the Grand Canyon turned into a deadly disaster",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes",
+        "description": "Flash flooding in Arizona tourist destination was likely triggered by compounding climate factors, such as drought and warming in Pacific OceanRemote Grand Canyon lodge hit by deadly flash flood bo...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Cross-party talks needed to tackle climate crisis, say Lib Dems",
         "url": "https://www.theguardian.com/environment/2026/aug/31/talks-el-nino-climate-crisis-lib-dems-andy-burnham",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Flooding devastated swathes of Indiana but response is hampered by politics",
-        "url": "https://www.theguardian.com/us-news/2026/aug/30/indiana-flooding-emergency-response",
-        "description": "Record inundations wrecked homes and took seven lives but Trump has not approved emergency aid and the state has cut funds for environmental agenciesIt’s been 10 days since the floodwater receded f...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "'A giant leap forward': Nasa launches powerful new space telescope",
         "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
         "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Smelling test: children need education in sniffing aromas, scientist says",
+        "url": "https://www.theguardian.com/science/2026/aug/31/children-education-sniffing-aromas-scientist",
+        "description": "Exclusive: Dr Will Tullett says better understanding of scents can improve wellbeing and perception of the worldChildren need a better education in sniffing aromas, a leading historian of smells ha...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "French high schools rush to put Macron’s phone ban into force",
         "url": "https://www.theguardian.com/world/2026/aug/31/french-high-schools-phone-ban-macron",
@@ -156,13 +163,6 @@
         "title": "Jason Arday accuser given three-month teaching ban but can continue research",
         "url": "https://www.theguardian.com/uk-news/2026/aug/30/nathan-cofnas-jason-arday-accuser-teaching-ban-research",
         "description": "Nathan Cofnas told by Ghent University to work remotely as US ambassador claims credit for lifting of suspension Prof Jason Arday’s accuser Nathan Cofnas has been barred from teaching on Ghent Univ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Meet the gen Zers finding job opportunities teaching English abroad",
-        "url": "https://www.theguardian.com/money/2026/aug/30/young-americans-teaching-abroad",
-        "description": "Some young people are teaching in countries like South Korea as education funding is gutted and recent grads face a tough job market in their own countriesA year ago, Arianna Marie, 25, was struggl...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "US and Iran trade strikes for first time in weeks",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-        "description": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+        "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+        "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+        "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
+        "url": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
+        "description": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Man arrested after Swiss rave shooting that killed woman",
         "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
         "description": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "South African airline defends low-altitude aerial stunt over packed stadium",
-        "url": "https://www.bbc.co.uk/news/articles/c3rew8jqny5o?at_medium=RSS&at_campaign=rss",
-        "description": "Airlink says the manoeuvre with two planes in close formation involved careful and precise planning.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
