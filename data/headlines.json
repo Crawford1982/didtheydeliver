@@ -1,67 +1,74 @@
 {
-  "fetched_at": "2026-09-01T11:07:58.614978+00:00",
+  "fetched_at": "2026-09-01T16:04:42.101674+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham chairs cabinet meeting before first statement to MPs as prime minister – UK politics live",
+        "title": "Burnham promises to bring ‘substantial change’ as he gives first Commons address as prime minister – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
-        "description": "PM will tell Commons he wants to unlock ‘positivity’ after a summer of policy announcements and improved poll ratingsYesterday Kemi Badenoch announced a reshuffle, replacing Mel Stride with Andrew ...",
+        "description": "PM says he has a ‘clear diagnosis of what has gone wrong’ with UK, and pays tribute to Keir Starmer after his predecessor quit parliamentMy colleague Richard Partington, the Guardian’s senior econo...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Almost half of terrorism arrests in Great Britain since 9/11 have been in past year",
-        "url": "https://www.theguardian.com/politics/2026/sep/01/almost-half-of-terrorism-arrests-in-great-britain-since-911-have-been-in-past-year",
-        "description": "Increase coincides with proscription of Palestine Action last year which has led to thousands of arrests for allegedly supporting the protest groupAlmost half of all terrorism arrests in Great Brit...",
+        "title": "UK long-term borrowing costs could halve chancellor’s budget headroom",
+        "url": "https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high",
+        "description": "Yield on 30-year gilts highest since 1998 as rout triggered by global factors underlines tricky backdrop John Healey facesBusiness live – latest updatesThe chancellor’s headroom against Labour’s fi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Any ideas, anyone? Healey asks for budget pitches from apprentices and IT staff",
-        "url": "https://www.theguardian.com/politics/2026/sep/01/john-healey-invites-october-budget-ideas-from-treasury-staff-of-all-levels",
-        "description": "Chancellor opens up brainstorming to Treasury staff of all levels, and says some will be asked to pitch to him in personUK politics live – latest updatesJohn Healey has asked junior Treasury staff ...",
+        "title": "Keir Starmer to stand down as MP to focus on world affairs",
+        "url": "https://www.theguardian.com/politics/2026/sep/01/keir-starmer-to-stand-down-as-mp",
+        "description": "Former PM says it is right time to go, which will trigger byelection that Greens’ Zack Polanski could targetUK politics live – latest updatesKeir Starmer is to quit as the MP for Holborn and St Pan...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham to tell MPs optimism at heart of his vision for UK",
-        "url": "https://www.bbc.co.uk/news/articles/c99dyjk7mpyo?at_medium=RSS&at_campaign=rss",
-        "description": "He will promise to \"unlock a feeling of positivity and possibility\" in every part of the country.",
+        "title": "Keir Starmer announces he is standing down as MP",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
+        "description": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Burnham chairs cabinet meeting before first statement to MPs as prime minister – UK politics live",
+        "title": "Burnham promises to bring ‘substantial change’ as he gives first Commons address as prime minister – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
-        "description": "PM will tell Commons he wants to unlock ‘positivity’ after a summer of policy announcements and improved poll ratingsMy colleague Richard Partington, the Guardian’s senior economics correspondent, ...",
+        "description": "PM says he has a ‘clear diagnosis of what has gone wrong’ with UK, and pays tribute to Keir Starmer after his predecessor quit parliamentMy colleague Richard Partington, the Guardian’s senior econo...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "UK long-term borrowing costs hit 28-year high",
+        "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
+        "description": "Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insultsUS politics live – latest updatesMark Carney has rebuked Donald Trump’s administration...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK long-term borrowing costs could halve chancellor’s budget headroom",
         "url": "https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high",
-        "description": "Yield on 30-year government bonds jumps to 5.88%, the highest since 1998, in bond rout triggered by global factorsBusiness live – latest updatesThe UK government’s long-term borrowing costs jumped ...",
+        "description": "Yield on 30-year gilts highest since 1998 as rout triggered by global factors underlines tricky backdrop John Healey facesBusiness live – latest updatesThe chancellor’s headroom against Labour’s fi...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Price rises gather pace in UK shops amid higher energy costs",
-        "url": "https://www.theguardian.com/business/2026/sep/01/price-rises-gather-pace-in-uk-shops-higher-energy-costs",
-        "description": "In-store inflation rises to an annual 1.5% in August, according to a survey for the British Retail ConsortiumThe pace of price rises in UK shops rose to its highest level in two years in August, a ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Shein valued at $26bn after long-awaited stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
-        "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
+        "title": "UK long-term borrowing costs highest since 1998 ahead of October Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c8d39vq779no?at_medium=RSS&at_campaign=rss",
+        "description": "Higher borrowing costs have piled fresh pressure on Andy Burnham ahead of his first Budget.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Gaps in NHS end-of-life care ‘denying ill children chance to die at home’",
+        "url": "https://www.theguardian.com/society/2026/sep/01/nhs-at-home-end-of-life-care-children-england",
+        "description": "Campaigners say some care boards in England flouting their legal duty, resulting in ‘cruel’ postcode lotterySeriously ill children are being denied the chance to die at home because the NHS in many...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
         "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "NHS to offer free high-street cholesterol tests in England",
-        "url": "https://www.theguardian.com/society/2026/aug/31/nhs-free-cholesterol-tests-pharmacies-stroke-heart-attack",
-        "description": "Checks at pharmacies for people aged 40 to 84 are aimed at identifying those at risk of heart attack or strokeThe NHS in England is to offer free finger-prick blood tests for cholesterol on the hig...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Flu vaccine rollout begins as NHS regroups from 'busiest summer'",
         "url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
         "description": "This year's jab has a few tweaks, including changes to better combat last year's Super-K strain.",
@@ -93,16 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "British family pleads with French authorities to release body of relative who died in Channel",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/31/british-family-plead-with-french-authorities-to-release-body-of-relative-who-died-in-the-channel",
-        "description": "Jasmeet Wadhwa, who fled Taliban persecution in Afghanistan, lost his life while trying to reach UK in AprilA British family is pleading with French authorities to release the body of a relative th...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Burnham chairs cabinet meeting before first statement to MPs as prime minister – UK politics live",
+        "title": "Burnham promises to bring ‘substantial change’ as he gives first Commons address as prime minister – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
-        "description": "PM will tell Commons he wants to unlock ‘positivity’ after a summer of policy announcements and improved poll ratingsMy colleague Richard Partington, the Guardian’s senior economics correspondent, ...",
+        "description": "PM says he has a ‘clear diagnosis of what has gone wrong’ with UK, and pays tribute to Keir Starmer after his predecessor quit parliamentMy colleague Richard Partington, the Guardian’s senior econo...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -112,39 +105,53 @@
         "description": "Labour leader faces tough decisions on issues such as North Sea drilling, electoral reform and defence spendingAfter a relatively cheery summer in which he announced a range of eye-catching cost of...",
         "source": "The Guardian",
         "category": "immigration"
+      },
+      {
+        "title": "British family pleads with French authorities to release body of relative who died in Channel",
+        "url": "https://www.theguardian.com/uk-news/2026/aug/31/british-family-plead-with-french-authorities-to-release-body-of-relative-who-died-in-the-channel",
+        "description": "Jasmeet Wadhwa, who fled Taliban persecution in Afghanistan, lost his life while trying to reach UK in AprilA British family is pleading with French authorities to release the body of a relative th...",
+        "source": "The Guardian",
+        "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Nepal-Tibet floods: warning signs visible before glacier collapse, report says, as death toll passes 1,000 – latest updates",
+        "title": "Nepal-Tibet floods: millions at risk from glacial floods in Himalayas in years to come, UN warns, as death toll passes 1,000 – latest updates",
         "url": "https://www.theguardian.com/world/live/2026/sep/01/nepal-tibet-floods-death-toll-rescue-hydropower-tunnels-china-latest-updates",
-        "description": "Scientists say better early-warning system could have saved lives, as rescue efforts for the 4,500 still missing continueLok Bahadur Chhetri, spokesperson for Nepal’s foreign ministry, has been hol...",
+        "description": "‘Technology cannot move fast enough to prevent loss’, official says, as rescue efforts for the 4,500 still missing continueNepal last week turned down foreign ​involvement in general search and res...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Summer of 2026 was UK’s hottest on record, Met Office says",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/01/summer-2026-uk-hottest-on-record-provisional-met-office-data",
+        "description": "Meteorologists say mean average temperature of 16.5C was made 130 times more likely by climate crisisThis year’s summer was the UK’s hottest on record, according to provisional data, and the Met Of...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
         "title": "How intense rains in the Grand Canyon turned into a deadly disaster",
         "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes",
-        "description": "Flash flooding in Arizona tourist destination was likely triggered by compounding climate factors, such as drought and warming in Pacific OceanRemote Grand Canyon lodge hit by deadly flash flood bo...",
+        "description": "Flash flooding in Arizona tourist destination was probably triggered by compounding climate factors, such as drought and warming in Pacific OceanRemote Grand Canyon lodge hit by deadly flash flood ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Cross-party talks needed to tackle climate crisis, say Lib Dems",
-        "url": "https://www.theguardian.com/environment/2026/aug/31/talks-el-nino-climate-crisis-lib-dems-andy-burnham",
-        "description": "Andy Burnham urged to seek consensus over response to extreme heat and forthcoming ‘super El Niño’Andy Burnham should call a cross-party meeting to discuss the UK’s response to worsening extreme we...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Family fear for missing hydropower worker after Nepal flood",
-        "url": "https://www.bbc.co.uk/news/articles/c1kxmvm39nyo?at_medium=RSS&at_campaign=rss",
-        "description": "Jit Bahadur Chaudhary was working at the hydropower site when the flood hit on Wednesday.",
+        "title": "More hosepipe bans in force as drought declared - is your area affected?",
+        "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
+        "description": "About 30 million people have been placed under hosepipe bans due to higher demand and low rainfall.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Autistic boy who took replica knife to school has exclusion quashed by high court",
+        "url": "https://www.theguardian.com/education/2026/sep/01/autistic-boy-replica-knife-school-exclusion-quashed-high-court",
+        "description": "Boy’s mother says she hopes case will help others, as judge says exclusion should be ‘a tool of last resort’The mother of a 10-year-old autistic boy who had his permanent exclusion from a primary s...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘Alarm bells were going off’: parents tell of ordeal at Send school closed down after abuse allegations",
         "url": "https://www.theguardian.com/education/2026/sep/01/parents-tell-of-ordeal-at-send-school-closed-down-abuse",
@@ -156,13 +163,6 @@
         "title": "‘A huge learning curve’: apprentices on the benefits and pitfalls of vocational training",
         "url": "https://www.theguardian.com/education/2026/sep/01/apprenticeships-apprentices-young-people-vocational-training",
         "description": "While many young people have found jobs and built careers, some have struggled to complete their coursesThe crisis in the youth employment market, with almost a million young people not in educatio...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "UK houses near top state secondary schools cost £40,000 more, research reveals",
-        "url": "https://www.theguardian.com/money/2026/sep/01/uk-houses-near-top-state-secondary-schools-cost-40000-more",
-        "description": "Premium of nearly 10% paid by housebuyers comparable with cost of a cheaper private school over seven yearsA house near a top state secondary school costs an extra £40,000 on average, according to ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Germany says Russia behind Leipzig airport drone attack",
+        "url": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+        "description": "A drone carrying an explosive device was discovered at the airport close to Ukrainian cargo planes on 4 August.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
         "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
         "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
@@ -202,13 +209,6 @@
         "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
         "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
         "description": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Russian attack hits rail workers in new deadly strikes on Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zmdgry3do?at_medium=RSS&at_campaign=rss",
-        "description": "Ukrainian officials say 20 people, including two children, were injured in the capital and the wider region.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
