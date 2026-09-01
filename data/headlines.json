@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-09-01T16:04:42.101674+00:00",
+  "fetched_at": "2026-09-01T20:34:47.748139+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham promises to bring ‘substantial change’ as he gives first Commons address as prime minister – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
-        "description": "PM says he has a ‘clear diagnosis of what has gone wrong’ with UK, and pays tribute to Keir Starmer after his predecessor quit parliamentMy colleague Richard Partington, the Guardian’s senior econo...",
+        "title": "Farage faces questions over his claim of facing second standards investigation",
+        "url": "https://www.theguardian.com/politics/2026/sep/01/nigel-farage-questions-claim-second-standards-investigation",
+        "description": "Reform leader said inquiry had been widened but watchdog is not believed to have decided whether to do soNigel Farage is facing questions about why he claimed his finances were the subject of a sec...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK long-term borrowing costs could halve chancellor’s budget headroom",
-        "url": "https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high",
-        "description": "Yield on 30-year gilts highest since 1998 as rout triggered by global factors underlines tricky backdrop John Healey facesBusiness live – latest updatesThe chancellor’s headroom against Labour’s fi...",
+        "title": "Burnham blames Brexit and Thatcher for ‘wrong turns’ in first Commons speech as PM",
+        "url": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm",
+        "description": "The prime minister said Britain needed to be brutally honest about the mistakes of the last 40 years of UK politicsAndy Burnham has blamed Brexit and Margaret Thatcher for a decade of low growth in...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Keir Starmer to stand down as MP to focus on world affairs",
-        "url": "https://www.theguardian.com/politics/2026/sep/01/keir-starmer-to-stand-down-as-mp",
-        "description": "Former PM says it is right time to go, which will trigger byelection that Greens’ Zack Polanski could targetUK politics live – latest updatesKeir Starmer is to quit as the MP for Holborn and St Pan...",
+        "title": "Ed Miliband promises ‘comprehensive reset’ of UK policy toward Israel",
+        "url": "https://www.theguardian.com/politics/2026/sep/01/ed-miliband-promises-reset-of-uk-policy-toward-israel",
+        "description": "Foreign secretary tells MPs he will try to stop illegal settlements carving up the West BankEd Miliband has promised to “reset” Britain’s policy on Israel, saying he will try to stop British compan...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Keir Starmer announces he is standing down as MP",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy4258kgyo?at_medium=RSS&at_campaign=rss",
-        "description": "The move will trigger a by-election to replace the former prime minister in his London constituency.",
+        "title": "Burnham promises more devolution and public control of essential services",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z528rdp6o?at_medium=RSS&at_campaign=rss",
+        "description": "Tory leader Kemi Badenoch said Burnham was offering \"more government control, more taxes and more politicians\", as he addressed MPs for the first time as PM.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Burnham promises to bring ‘substantial change’ as he gives first Commons address as prime minister – UK politics live",
+        "title": "The Guardian view on the global bond shock: Andy Burnham should take note | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-the-global-bond-shock-andy-burnham-should-take-note",
+        "description": "Japan’s collision with Donald Trump reveals the dilemma facing Britain: economic independence is becoming more necessary – and more tricky to achieve“In the midst of every crisis lies great opportu...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Burnham says Brexit brought ‘decade of low growth’ in first Commons address as prime minister – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
-        "description": "PM says he has a ‘clear diagnosis of what has gone wrong’ with UK, and pays tribute to Keir Starmer after his predecessor quit parliamentMy colleague Richard Partington, the Guardian’s senior econo...",
+        "description": "This liveblog is now closed. Read the Guardian’s report of today’s political news hereMy colleague Richard Partington, the Guardian’s senior economics correspondent, grew up, like Andy Burnham, in ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -43,13 +50,6 @@
         "title": "Mark Carney tells US to ‘start being serious’ amid escalating trade war",
         "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-mark-carney-trade-war-canada",
         "description": "Canadian PM is set to retaliate against tariffs levied by Donald Trump and criticized US officials over insultsUS politics live – latest updatesMark Carney has rebuked Donald Trump’s administration...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK long-term borrowing costs could halve chancellor’s budget headroom",
-        "url": "https://www.theguardian.com/business/2026/sep/01/uk-gilt-yield-long-term-borrowing-costs-28-year-high",
-        "description": "Yield on 30-year gilts highest since 1998 as rout triggered by global factors underlines tricky backdrop John Healey facesBusiness live – latest updatesThe chancellor’s headroom against Labour’s fi...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "‘Superhuman’ AI tool spots heart disease in less than 2 seconds",
-        "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
-        "description": "Technology trained on millions of routine ECGs could fast-track high-risk patients for treatmentDoctors have developed a “superhuman” AI tool that can spot heart disease in less than two seconds.Th...",
+        "title": "Swinney sticks with pledge to cap prices on basic foods in Scotland",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/01/john-swinney-snp-prices-cap-food-scotland",
+        "description": "First minister sets out his government’s agenda and defends policy described by industry groups as a ‘potty gimmick’John Swinney insisted on Tuesday he still planned to introduce a legally binding ...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Doctors’ AI scribes get names of drugs and diagnoses wrong, NHS watchdog warns",
-        "url": "https://www.theguardian.com/society/2026/aug/31/doctors-ai-scribes-get-names-of-drugs-and-diagnoses-wrong-nhs-watchdog-warns",
-        "description": "Exclusive: Patients identify errors in consultation transcripts that are missed by GPs, Healthwatch England findsAI technology that listens to and transcribes patients’ consultations with doctors c...",
+        "title": "Assisted dying, palliative care and patient choice | Letters",
+        "url": "https://www.theguardian.com/society/2026/sep/01/assisted-dying-palliative-care-and-patient-choice",
+        "description": "Readers respond to an article by Dr Zubir Ahmed, who argued that better palliative care should be prioritised before assisted dying is legalisedI work as a renal physician, including on a transplan...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,9 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "Burnham promises to bring ‘substantial change’ as he gives first Commons address as prime minister – UK politics live",
+        "title": "Burnham says Brexit brought ‘decade of low growth’ in first Commons address as prime minister – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
-        "description": "PM says he has a ‘clear diagnosis of what has gone wrong’ with UK, and pays tribute to Keir Starmer after his predecessor quit parliamentMy colleague Richard Partington, the Guardian’s senior econo...",
+        "description": "This liveblog is now closed. Read the Guardian’s report of today’s political news hereMy colleague Richard Partington, the Guardian’s senior economics correspondent, grew up, like Andy Burnham, in ...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,7 +116,7 @@
     ],
     "climate": [
       {
-        "title": "Nepal-Tibet floods: millions at risk from glacial floods in Himalayas in years to come, UN warns, as death toll passes 1,000 – latest updates",
+        "title": "Nepal-Tibet floods: millions at risk from glacial floods in Himalayas in years to come, UN warns, as death toll passes 1,000 – as it happened",
         "url": "https://www.theguardian.com/world/live/2026/sep/01/nepal-tibet-floods-death-toll-rescue-hydropower-tunnels-china-latest-updates",
         "description": "‘Technology cannot move fast enough to prevent loss’, official says, as rescue efforts for the 4,500 still missing continueNepal last week turned down foreign ​involvement in general search and res...",
         "source": "The Guardian",
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "More hosepipe bans in force as drought declared - is your area affected?",
-        "url": "https://www.bbc.co.uk/news/articles/crk661074ejo?at_medium=RSS&at_campaign=rss",
-        "description": "About 30 million people have been placed under hosepipe bans due to higher demand and low rainfall.",
+        "title": "How a small island in Canada appeared, vanished, and was found again",
+        "url": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss",
+        "description": "Officials in British Columbia say the floating island drifted towards the shoreline of a local lake. But its origins remain a mystery.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "The Guardian view on loneliness: the decline in friendship leaves gen Z exposed | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-loneliness-the-decline-in-friendship-leaves-gen-z-exposed",
+        "description": "Problems with housing, jobs and technology have dented young people’s confidence in the future and each otherHope, Raye told a crowd at Reading festival on Saturday, was the theme of a set inspired...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Nimbys can’t stand in the way of Labour’s legacy: a 21st-century new town boom | Polly Toynbee",
         "url": "https://www.theguardian.com/commentisfree/2026/sep/01/new-towns-labour-legacy-nimbys-enfield-tories-greens-sadiq-khan",
         "description": "Which do Enfield’s Tories and Greens value more – a golf course or thousands of new homes? It’s a question of political valuesNew towns will again be a lasting Labour legacy, just as in the eras of...",
@@ -179,13 +186,6 @@
         "title": "More and more undergrads are living at home. That’s a crying shame – here’s why | Rohan Sathyamoorthy",
         "url": "https://www.theguardian.com/commentisfree/2026/aug/31/undergraduates-living-at-home-rental-cost-adult-life",
         "description": "Spiralling rental costs have made living with parents the only option for some students. That fails to prepare them for the realities of adult lifeIf the headlines are to be believed, no one should...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Rejoining the EU, Burnham’s donors and the bedroom tax: Politics Weekly answers your questions – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/aug/31/rejoining-eu-bedroom-tax-andy-burnham-political-donors-politics-weekly-answers-your-questions-podcast",
-        "description": "Will the UK ever rejoin the EU? Who is funding Andy Burnham? And will the bedroom tax be scrapped? In a special episode, Kiran Stacey and Peter Walker answer some of your questionsPlease keep sendi...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
-        "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
-        "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
+        "title": "US launches more strikes on Iran as state media reports explosions",
+        "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+        "description": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Nepal death toll crosses 1,000 as rescuers race to find workers trapped in mud-filled tunnels",
-        "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands are still missing as Chinese state media report the official number of fatalities in Tibet at 16.",
+        "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",
+        "url": "https://www.bbc.co.uk/news/articles/c2e074nn8eko?at_medium=RSS&at_campaign=rss",
+        "description": "As of August, the number forced to return this year from Pakistan and Iran had reached another million.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
