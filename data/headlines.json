@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T22:28:28.309644+00:00",
+  "fetched_at": "2026-09-01T03:40:13.209110+00:00",
   "headlines": {
     "government": [
       {
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Mel Stride and Priti Patel replaced in major Tory reshuffle",
-        "url": "https://www.bbc.co.uk/news/articles/cp8026xlm35o?at_medium=RSS&at_campaign=rss",
-        "description": "Conservative leader Kemi Badenoch is shaking up her top team ahead of the party's conference in October.",
+        "title": "Burnham to face Parliament as prime minister for first time",
+        "url": "https://www.bbc.co.uk/news/articles/c99dyjk7mpyo?at_medium=RSS&at_campaign=rss",
+        "description": "This may well be the point when his honeymoon period as PM ends and the hard work begins, Damian Grammaticas writes.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "AI could cause global economic downturn, Andrew Bailey warns G20",
-        "url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss",
-        "description": "The governor of the Bank of England warned of AI's “volatility” caused by energy shocks from the US-Iran war.",
+        "title": "Shein shares slide in long-awaited stock market debut",
+        "url": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
+        "description": "The firm's Hong Kong listing on Tuesday comes after a years-long quest to sell shares in New York and London.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "NHS bosses warn of chaos in ADHD and autism care",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zgpynwdjo?at_medium=RSS&at_campaign=rss",
-        "description": "Costs are spiralling out of control as unregulated private providers capitalise on demand, say managers.",
+        "title": "New super flu vaccine rollout begins as NHS regroups from 'busiest summer'",
+        "url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
+        "description": "This year's jab has a few tweaks, including changes to better combat the Super-K strain.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "'A giant leap forward': Nasa launches powerful new space telescope",
-        "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-        "description": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
+        "title": "Summer 2026 expected to be declared UK's hottest on record",
+        "url": "https://www.bbc.co.uk/weather/articles/c99dypl3jgmo?at_medium=RSS&at_campaign=rss",
+        "description": "Met Office figures due on Tuesday are likely to show that the previous record, set in 2025, has been broken after an unprecedented summer of persistent heat.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "UK houses near top state secondary schools cost £40,000 more, research reveals",
+        "url": "https://www.theguardian.com/money/2026/sep/01/uk-houses-near-top-state-secondary-schools-cost-40000-more",
+        "description": "Premium of nearly 10% paid by housebuyers comparable with cost of a cheaper private school over seven yearsA house near a top state secondary school costs an extra £40,000 on average, according to ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Smelling test: children need education in sniffing aromas, scientist says",
         "url": "https://www.theguardian.com/science/2026/aug/31/children-education-sniffing-aromas-scientist",
@@ -156,13 +163,6 @@
         "title": "French high schools rush to put Macron’s phone ban into force",
         "url": "https://www.theguardian.com/world/2026/aug/31/french-high-schools-phone-ban-macron",
         "description": "Unions say ban will take time to enact, while president also wants under-15s social media ban as key legacyFrench high schools are rushing to put in place a ban on mobile phones this week as Emmanu...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Jason Arday accuser given three-month teaching ban but can continue research",
-        "url": "https://www.theguardian.com/uk-news/2026/aug/30/nathan-cofnas-jason-arday-accuser-teaching-ban-research",
-        "description": "Nathan Cofnas told by Ghent University to work remotely as US ambassador claims credit for lifting of suspension Prof Jason Arday’s accuser Nathan Cofnas has been barred from teaching on Ghent Univ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
+        "url": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
+        "description": "BBC presenter Anoushka Mutanda-Dougherty describes what it was like when Duane \"Keffe D\" Davis was found guilty of murdering the famous rapper.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
         "url": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
         "description": "Rescuers have resorted to explosives as they struggle to reach trapped workers, as the flooding death toll reaches 939.",
@@ -202,13 +209,6 @@
         "title": "US singer D4vd's celebrity lawyers withdraw from murder case",
         "url": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
         "description": "The singer, 21, will be now represented by a public defender in the murder trial of 14-year-old Celeste Rivas Hernandez. He has pleaded not guilty.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Man arrested after Swiss rave shooting that killed woman",
-        "url": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
-        "description": "A 22-year-old Italian woman was killed and several injured at a techno rave in Aarau.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
