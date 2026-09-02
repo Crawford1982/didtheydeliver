@@ -1,9 +1,16 @@
 {
-  "fetched_at": "2026-09-01T20:34:47.748139+00:00",
+  "fetched_at": "2026-09-02T02:58:45.375331+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Farage faces questions over his claim of facing second standards investigation",
+        "title": "Fund defence spending from tax rise on middle earners, thinktank tells Healey",
+        "url": "https://www.theguardian.com/politics/2026/sep/02/fund-defence-spending-from-tax-rise-on-middle-earners-thinktank-tells-healey",
+        "description": "Resolution Foundation argues that UK’s internationally low ‘tax wedge’ must rise to pay for defence ambitionsThe chancellor, John Healey, must be prepared to raise taxes for middle earners if he wa...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Farage faces questions over his claim of second standards investigation",
         "url": "https://www.theguardian.com/politics/2026/sep/01/nigel-farage-questions-claim-second-standards-investigation",
         "description": "Reform leader said inquiry had been widened but watchdog is not believed to have decided whether to do soNigel Farage is facing questions about why he claimed his finances were the subject of a sec...",
         "source": "The Guardian",
@@ -13,13 +20,6 @@
         "title": "Burnham blames Brexit and Thatcher for ‘wrong turns’ in first Commons speech as PM",
         "url": "https://www.theguardian.com/politics/2026/sep/01/burnham-promises-to-bring-optimism-and-substantial-change-in-first-commons-speech-as-pm",
         "description": "The prime minister said Britain needed to be brutally honest about the mistakes of the last 40 years of UK politicsAndy Burnham has blamed Brexit and Margaret Thatcher for a decade of low growth in...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Ed Miliband promises ‘comprehensive reset’ of UK policy toward Israel",
-        "url": "https://www.theguardian.com/politics/2026/sep/01/ed-miliband-promises-reset-of-uk-policy-toward-israel",
-        "description": "Foreign secretary tells MPs he will try to stop illegal settlements carving up the West BankEd Miliband has promised to “reset” Britain’s policy on Israel, saying he will try to stop British compan...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Flu vaccine rollout begins as NHS regroups from 'busiest summer'",
-        "url": "https://www.bbc.co.uk/news/articles/c8d3myrgdd1o?at_medium=RSS&at_campaign=rss",
-        "description": "This year's jab has a few tweaks, including changes to better combat last year's Super-K strain.",
+        "title": "Families hit by long waits for dementia diagnosis",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyp2n1e75o?at_medium=RSS&at_campaign=rss",
+        "description": "Hundreds of families say they have had to wait months or even years for a dementia diagnosis for a loved one.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "How a small island in Canada appeared, vanished, and was found again",
-        "url": "https://www.bbc.co.uk/news/articles/cgk5jk6nkxzo?at_medium=RSS&at_campaign=rss",
-        "description": "Officials in British Columbia say the floating island drifted towards the shoreline of a local lake. But its origins remain a mystery.",
+        "title": "Watch: Astronauts set out on rare all-female spacewalk",
+        "url": "https://www.bbc.co.uk/news/videos/c89jyxqvjq0o?at_medium=RSS&at_campaign=rss",
+        "description": "For the sixth time in history, a team of two women completed a spacewalk outside the International Space Station.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,9 +199,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US launches more strikes on Iran as state media reports explosions",
+        "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
         "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-        "description": "US Central Command accused Iran of targeting commercial shipping and American service members deployed in the region.",
+        "description": "Iranian news agencies said retaliatory missile and drone attacks on US targets had begun.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
