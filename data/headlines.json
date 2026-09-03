@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-09-03T10:42:23.035309+00:00",
+  "fetched_at": "2026-09-03T15:48:34.654553+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Kemi Badenoch pledges to raise defence spending by £10bn by cutting welfare bill – UK politics live",
+        "title": "Labour condemns Reform’s plan for £100bn in cuts as ‘half-baked’ and ‘incredibly reckless’ – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates",
-        "description": "The Labour party says the Conservatives have used ‘dodgy’ costings, which are not credibleThe Electoral Commission has released political donation figures for the second quarter of 2026. They show ...",
+        "description": "Labour chair says uch cuts ‘could mean vital public services like hospitals, schools and law enforcement are put at risk’The Electoral Commission has released political donation figures for the sec...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Green party leader Zack Polanski seeks to stand in byelection for Keir Starmer seat",
-        "url": "https://www.theguardian.com/politics/2026/sep/03/zack-polanski-stand-keir-starmer-seat-green-party-candidate",
-        "description": "Polanski says he will ‘stand up for people struggling to pay their bills’ if he becomes MP for Holborn and St PancrasUK politics live – latest updatesZack Polanski will seek to stand as a candidate...",
+        "title": "Kemi Badenoch condemns Reform UK’s ‘authoritarian’ press bans",
+        "url": "https://www.theguardian.com/politics/2026/sep/03/kemi-badenoch-farage-state-power-reform",
+        "description": "Tory leader says Nigel Farage’s party would seek to abuse state power, as she also defends her housing benefit plansReform UK’s decision to ban some journalists from its conference shows that Nigel...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
-        "url": "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
-        "description": "PM will aim to centre talks with French president on key foreign policy issues such as Iran, smuggling gangs and EU relationsAndy Burnham will begin the process of courting European leaders when he...",
+        "title": "Reform UK gets another £4m from crypto billionaire pardoned by Donald Trump",
+        "url": "https://www.theguardian.com/politics/2026/sep/03/reform-uk-crypto-billionaire-ben-delo-pardoned-trump",
+        "description": "Ben Delo, who was convicted in 2022 for failure to apply anti-money laundering controls, is party’s second biggest donorReform UK has been given a further £4m from the British crypto billionaire Be...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Zack Polanski says he'll run for former PM Starmer's seat in by-election",
-        "url": "https://www.bbc.co.uk/news/articles/cge41ee40vwo?at_medium=RSS&at_campaign=rss",
-        "description": "The Green Party leader intends to run in the Holborn and St Pancras seat following Sir Keir Starmer's resignation as MP.",
+        "title": "Burnham and Macron discuss small boats and bringing UK closer to Europe",
+        "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
+        "description": "The leaders also discuss Ukraine and the Middle East in Burnham's first bilateral talks in Downing Street.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Bond market turmoil eases across Europe as oil price falls – business live",
+        "title": "Bond market turmoil eases across Europe; UK service sector growth jumps – business live",
         "url": "https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates",
         "description": "Rolling coverage of the latet economic and financial newsOther European government borrowing costs are dipping this morning too.The yield on 10-year German bunds is down 1.5bps to 3.36%, while Fren...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Yen soars as Bank of Japan tipped to raise interest rates",
+        "url": "https://www.theguardian.com/business/2026/sep/03/yen-soars-bank-of-japan-tipped-to-raise-interest-rates",
+        "description": "Jump lifts currency to highest level against dollar in a month, while global markets remain jitteryBusiness live – latest updatesThe Japanese yen has soared by more than 2% against the dollar amid ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "China’s demise was gleefully predicted by the west – meanwhile, it built an AI revolution | Larry Elliott",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/03/china-demise-predicted-west-ai-revolution",
-        "description": "Free AI models that are as good as the investment-hungry US versions will disrupt global markets, and offer Britain a lessonAlmost from the moment it began, the end of the Chinese economic miracle ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
-        "url": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
-        "description": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
+        "title": "Households warned gas price spike could pile fresh pressure on energy bills",
+        "url": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
+        "description": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -100,21 +100,28 @@
         "category": "immigration"
       },
       {
-        "title": "Kemi Badenoch pledges to raise defence spending by £10bn by cutting welfare bill – UK politics live",
+        "title": "Labour condemns Reform’s plan for £100bn in cuts as ‘half-baked’ and ‘incredibly reckless’ – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/03/andy-burnham-emmanuel-macron-zack-polanski-latest-news-updates",
-        "description": "The Labour party says the Conservatives have used ‘dodgy’ costings, which are not credibleThe Electoral Commission has released political donation figures for the second quarter of 2026. They show ...",
+        "description": "Labour chair says uch cuts ‘could mean vital public services like hospitals, schools and law enforcement are put at risk’The Electoral Commission has released political donation figures for the sec...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Burnham says Brexit brought ‘decade of low growth’ in first Commons address as prime minister – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/01/andy-burnham-statement-commons-prison-release-farage-healey-defence-latest-news-updates",
-        "description": "This liveblog is now closed. Read the Guardian’s report of today’s political news hereMy colleague Richard Partington, the Guardian’s senior economics correspondent, grew up, like Andy Burnham, in ...",
+        "title": "Care workers and others fleeing UK modern slavery win visa reprieve",
+        "url": "https://www.theguardian.com/world/2026/sep/03/care-workers-fleeing-uk-modern-slavery-win-visa-reprieve",
+        "description": "Exclusive: Home Office concedes skilled workers abused by sponsors can change employer and complete visa termUK politics live – latest updatesCare workers, chefs and others in danger of losing thei...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "BoM forecasts strongest El Niño on record as research points to ‘alarming’ climate change influence",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/04/bom-forecasts-strongest-el-nino-on-record-as-research-points-to-alarming-climate-change-influence",
+        "description": "Bureau of Meteorology suggests El Niño has already broken records, with Pacific ocean temperature change exceeding 2C in six monthsFollow our Australia news live blog for latest updatesSign up for ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "‘Supersizing before our eyes’: UN warns of record El Niño approaching",
         "url": "https://www.theguardian.com/environment/2026/sep/03/el-nino-supersizing-before-our-eyes-united-nations",
@@ -130,39 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "Australia’s new environmental protection agency approves coal project, angering climate groups",
-        "url": "https://www.theguardian.com/environment/2026/sep/03/saraji-qld-bhp-bma-coal-project-approved-2055-angering-climate-groups",
-        "description": "Queensland open-cut Saraji mine will be able to keep digging until 2055 as Anthony Albanese denies tensions with Pacific leaders over fossil fuelsFollow our Australia news live blog for latest upda...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Stormy autumn, cold winter - how might El Niño affect the UK weather?",
-        "url": "https://www.bbc.co.uk/weather/articles/cd0x17r4j0yo?at_medium=RSS&at_campaign=rss",
-        "description": "This year's El Niño is expected to be the strongest in living memory and could lead to a range of impacts of the UK - including a stormy autumn.",
+        "title": "How the brain of a fly may help explain human behaviour",
+        "url": "https://www.bbc.co.uk/news/articles/cqjkd2ylq1yo?at_medium=RSS&at_campaign=rss",
+        "description": "Comparing the brains of male and female flies may transform our understanding of how genes shape behaviour, including ours.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Teenager in Wales given detention sentence for stabbing teacher in head",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/03/teenager-wales-sentenced-youth-detention-stabbing-attack-teacher",
+        "description": "Judge voices concern about possible copycat incidents after boy, 16, found guilty over attack at school in PembrokeshireA judge has expressed concern over possible copycat attacks on school staff a...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Women are giving their partners the ‘Illiterate Boyfriend’ test: ‘Do your best to pronounce these words’",
+        "url": "https://www.theguardian.com/technology/2026/sep/03/boyfriend-literacy-intelligence-test",
+        "description": "People online are distressed at men butchering words such as ‘hyperbole’ and ‘hors d’oeuvres’ – highlighting a gender reversal in ‘intelligence gaps’There are common non-negotiables we look for in ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "‘Internal exclusion’ of England secondary school students almost triples in three years",
         "url": "https://www.theguardian.com/education/2026/sep/03/proportion-of-secondary-school-students-in-england-placed-in-internal-exclusion-almost-triples-in-three-years",
         "description": "Exclusive: New data shows poorer pupils and those with Send are disproportionately affected by the measureThe proportion of secondary school students in England removed from class and placed in “in...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Autistic boy who took replica knife to school has exclusion quashed by high court",
-        "url": "https://www.theguardian.com/education/2026/sep/01/autistic-boy-replica-knife-school-exclusion-quashed-high-court",
-        "description": "Boy’s mother says she hopes case will help others, as judge says exclusion should be ‘a tool of last resort’The mother of a 10-year-old autistic boy who had his permanent exclusion from a primary s...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘Alarm bells were going off’: parents tell of ordeal at Send school closed down after abuse allegations",
-        "url": "https://www.theguardian.com/education/2026/sep/01/parents-tell-of-ordeal-at-send-school-closed-down-abuse",
-        "description": "Annette and Kevin Maxwell say children with special needs have become moneymaking tool for private companiesAnnette and Kevin Maxwell were nervous about sending their son Jonah to a residential hom...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Feminist activist and journalist Gloria Steinem dies at 92",
-        "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-        "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+        "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
+        "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
+        "description": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Channel smuggling gangs resort to 'mega-dinghies' as crackdown limits small boat supply",
-        "url": "https://www.bbc.co.uk/news/articles/ce3rn93de9eo?at_medium=RSS&at_campaign=rss",
-        "description": "Once-rival criminal groups are being forced to work together because of a shortage of small boats, a BBC investigation has found.",
+        "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
+        "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
+        "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
         "source": "BBC News",
         "category": "foreign_policy"
       }
