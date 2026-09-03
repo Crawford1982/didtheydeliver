@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-09-02T20:30:55.532986+00:00",
+  "fetched_at": "2026-09-03T03:01:05.788849+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Andy Burnham targets migrant crisis ahead of Macron’s visit to No 10",
+        "url": "https://www.theguardian.com/politics/2026/sep/02/andy-burnham-migrant-crisis-macron-downing-street",
+        "description": "PM will aim to centre talks with French president on key foreign policy issues such as Iran, smuggling gangs and EU relationsAndy Burnham will begin the process of courting European leaders when he...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Burnham to crack down on UK mega-donors influencing politics",
         "url": "https://www.theguardian.com/politics/2026/sep/02/new-uk-taskforce-will-examine-influence-of-political-mega-donors",
@@ -17,21 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Burnham tries to calm bond market fears as sell-off threatens crucial first budget",
-        "url": "https://www.theguardian.com/business/2026/sep/02/burnham-tries-to-calm-bond-market-fears-as-sell-off-threatens-budget",
-        "description": "Prime minister promises his government will make decisions ‘grounded in fiscal responsibility’Andy Burnham moved to calm volatile bond markets on Wednesday as surging borrowing costs threatened to ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham pressed on economy at first PMQs as UK borrowing costs rise",
+        "title": "Burnham pressed on economy at first PMQs as borrowing costs surge",
         "url": "https://www.bbc.co.uk/news/articles/cn9wv7pene2o?at_medium=RSS&at_campaign=rss",
-        "description": "Burnham said he had already cut taxes, including VAT on energy bills and hospitality business rates.",
+        "description": "The PM said his government would be \"grounded in fiscal responsibility\" as he faced Kemi Badenoch at Prime Minister's Questions for the first time.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Dutch central bank moves 86 tonnes of gold to UK from US and Canada, citing ‘geopolitical unrest’",
+        "url": "https://www.theguardian.com/world/2026/sep/03/netherlands-gold-dutch-central-bank-uk-us-and-canada-geopolitical-unrest",
+        "description": "Bank says gold reserves held in London could be traded more easily and the move will allow it to respond more rapidly in a ‘crisis situation’The Dutch central bank says it has moved 86 tonnes of it...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "The Guardian view on Kemi Badenoch and the economy: a plan stuck in the Tory comfort zone | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/sep/02/the-guardian-view-on-kemi-badenoch-and-the-economy-a-plan-stuck-in-the-tory-comfort-zone",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "UK politics: Andy Burnham pressed on borrowing costs and spending at first PMQs – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
-        "description": "Burnham faced questions from Kemi Badenoch and other MPs amid speculation over budgetIn the news release to mark the first anniversary of his election as the Green party’s leader, Zack Polanski hig...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Faisal Islam: Why bond market wildfire is keeping world leaders up at night",
-        "url": "https://www.bbc.co.uk/news/articles/c0rez9zegj5o?at_medium=RSS&at_campaign=rss",
-        "description": "Huge AI spending plans and the ongoing war in Iran are driving up borrowing costs around the world.",
+        "title": "B&Q and Five Guys among firms that paid staff below minimum wage",
+        "url": "https://www.bbc.co.uk/news/articles/c39mv4vm7exo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 600 companies underpaid staff, with £4m returned to workers, according to the government.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "Australia’s new environmental protection agency approves coal project, angering climate groups",
+        "url": "https://www.theguardian.com/environment/2026/sep/03/saraji-qld-bhp-bma-coal-project-approved-2055-angering-climate-groups",
+        "description": "Queensland open-cut Saraji mine will be able to keep digging until 2055 as Anthony Albanese denies tensions with Pacific leaders over fossil fuelsFollow our Australia news live blog for latest upda...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
+        "url": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
+        "description": "Oil consumption plummets and EV sales soar as analysts say demand may not fully return even if crude price fallsChina’s carbon dioxide emissions fell by 1% after the outbreak of the US-Israeli war ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "UK government does not know what datacentres are being used for, FoI request shows",
         "url": "https://www.theguardian.com/uk-news/2026/sep/02/uk-datacentres-ai-boom-foi-environment",
         "description": "Lack of information raises fears over environmental impact of the AI boomThe UK government does not know what the country’s datacentres are being used for despite fears over the growing environment...",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Barclays faces complaint over backing for power plant near world’s largest mangrove forest",
-        "url": "https://www.theguardian.com/global-development/2026/sep/02/bangladesh-india-barclays-bank-legal-complaint-backing-polluting-rampal-power-plant-sundarbans",
-        "description": "Bangladeshi complainants allege Rampal power station’s pollution and climate risks threaten the Sunderbans, a world heritage siteBarclays Bank is facing a formal complaint over its financial links ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Wednesday briefing: ​What’s behind the global backlash against datacentres?",
-        "url": "https://www.theguardian.com/world/2026/sep/02/wednesday-briefing-whats-behind-the-global-backlash-against-datacentres",
-        "description": "In today’s newsletter: Communities from Scotland to India are pushing back against datacentres, warning they threaten energy supplies and the climateGood morning. This summer, datacentres have beco...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Will your name be the next UK storm?",
-        "url": "https://www.bbc.co.uk/news/videos/ckgxzyrk7x7o?at_medium=RSS&at_campaign=rss",
-        "description": "The storm name list for the next year is out. Will your name be on it?",
+        "title": "Widow whose husband died after falling into slurry pit warns of pressure on farmers",
+        "url": "https://www.bbc.co.uk/news/articles/cn9wv8l15ezo?at_medium=RSS&at_campaign=rss",
+        "description": "Margaret Owen says \"things are getting worse\" after a rise in deaths of workers on British farms.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians",
-        "url": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-        "description": "Iranian media reports two children were among those killed when shrapnel hit a home. Iran then launched missiles and drones at US targets in the Middle East.",
+        "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+        "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
-        "description": "The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.",
+        "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+        "url": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+        "description": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
