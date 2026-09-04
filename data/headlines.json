@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-09-04T03:00:16.737197+00:00",
+  "fetched_at": "2026-09-04T10:37:28.696793+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Sadiq Khan agrees to have his texts and emails searched in Palantir legal battle",
-        "url": "https://www.theguardian.com/politics/2026/sep/03/sadiq-khan-agrees-have-texts-emails-searched-palantir-legal-battle",
-        "description": "US tech company has sued London mayor after he prevented it from working with Metropolitan policeSadiq Khan has agreed for his text messages and emails to be searched as part of a legal battle with...",
+        "title": "Farage says Reform has ‘broken no laws’ after party suspends officials over donations sting – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/04/reform-uk-donations-nigel-farage-james-orr-dan-jukes-channel-4-investigation-conference-jordan-bardella-latest-news-updates",
+        "description": "James Orr and Dan Jukes, aides to Nigel Farage, stepped down after an investigation by Channel 4British ministers have hit back after the Argentinian president said “winds of change” favourable to ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform officials ‘plotted to break law on foreign donations’ in undercover film",
-        "url": "https://www.theguardian.com/politics/2026/sep/03/reform-officials-plotted-to-break-law-on-foreign-donations-in-undercover-film",
-        "description": "Investigation broadcast by Channel 4 News shows man posing as ‘impermissible donor’ paying for polling that helped ReformNigel Farage is facing fresh criticism on the eve of the Reform UK party con...",
+        "title": "Reform UK suspends two senior officials after undercover report on donations",
+        "url": "https://www.theguardian.com/politics/2026/sep/04/nigel-farage-aides-step-down-reform-uk-investigation-political-donation-rules-breach",
+        "description": "Revelations are further blow to Nigel Farage before conference speech, with Labour reporting party to policeReform has suspended two senior officials after they were filmed in an undercover investi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "We’re prepared to change the law to reform water industry, says Angela Eagle",
-        "url": "https://www.theguardian.com/business/2026/sep/03/were-prepared-to-change-the-law-to-reform-water-industry-says-angela-eagle",
-        "description": "Exclusive: New environment secretary insists ‘nothing is off the table’ in dealing with ailing Thames WaterBritain’s insolvency laws cannot deal with the aggressive behaviour shown by the companies...",
+        "title": "Jackdaw gasfield set to be approved by ministers this month, sources say",
+        "url": "https://www.theguardian.com/environment/2026/sep/04/jackdaw-gasfield-set-to-be-approved-by-ministers-this-month-sources-say",
+        "description": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfieldUK politics live – latest updatesBusiness live – latest updatesMinisters ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Farage senior aide filmed suggesting way to avoid donations law",
-        "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
-        "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
+        "title": "Two Reform officials step down after undercover donations report",
+        "url": "https://www.bbc.co.uk/news/articles/c86xj5z7x61o?at_medium=RSS&at_campaign=rss",
+        "description": "Reform says Dan Jukes and James Orr have left their roles as it launches an investigation into the report.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Shares in Falklands oil explorers plunge as Argentina threatens sanctions; heatwave drives up food prices – business live",
+        "url": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsIt’s official, UK car sales jumped last month.New car registrations rose by 13.7% to 94,236 units in August, the Society of Motor Manufactu...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "UK mortgage borrowers brace for rate jump amid global bond sell-off",
         "url": "https://www.theguardian.com/money/2026/sep/03/uk-mortgage-borrowers-brace-for-rate-jump-global-bond-sell-off",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "Bond market turmoil eases, as Bank of England chief economist argues for interest rate rise – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/sep/03/uk-mortgage-rates-set-to-rise-bond-sell-off-borrowing-costs-latest-news-updates",
-        "description": "Rolling coverage of the latet economic and financial newsOther European government borrowing costs are dipping this morning too.The yield on 10-year German bunds is down 1.5bps to 3.36%, while Fren...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
         "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
         "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "The body snatchers: how a young Nigerian man was lured to London in an organ-trafficking plot – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/sep/04/the-body-snatchers-how-a-young-nigerian-man-was-lured-to-london-in-an-organ-trafficking-plot-podcast",
+        "description": "Daniel was working at a market in Lagos when he was given the chance to start anew in the UK. He had no idea what was expected of him in returnBy Alexis Okeowo. Read by Nneka OkoyeRead the text ver...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "An autism or ADHD diagnosis without access to treatment is a hollow outcome | Letter",
         "url": "https://www.theguardian.com/society/2026/sep/02/an-autism-or-adhd-diagnosis-without-access-to-treatment-is-a-hollow-outcome",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "‘I want to live’: the disabled people unable to go abroad because of care funding refusal",
-        "url": "https://www.theguardian.com/world/2026/sep/02/i-want-to-live-the-disabled-people-unable-to-go-abroad-because-of-care-funding-refusal",
-        "description": "Campaigners say care users face a postcode lottery for support overseas – despite no extra cost to taxpayerDisabled people are being blocked from travelling abroad by NHS care boards and local coun...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Transplanted pig kidney works in US man's body for record 271 days",
         "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
         "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
@@ -93,9 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "‘I would rather die than return to France’: the brutal reality of the UK’s one in, one out scheme",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/03/uk-one-in-one-out-scheme-iran-friends-channel-france",
-        "description": "Aso and Baran fled Iran, crossed the Channel together and were both returned to France. After risking their lives to reach Britain again, the friends found themselves facing very different fatesAt ...",
+        "title": "Drones, teargas, riot squads: why has the UK gone to war against asylum seekers already fleeing conflict? | Diane Taylor",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/04/drones-teargas-riot-squads-uk-war-asylum-seekers-burnham-macron",
+        "description": "Burnham and Macron have committed to going further in the crackdown on French beaches. But little is being done to offer refugees safe alternative routesGarang*, 18, is one of thousands of refugees...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "Jackdaw gasfield set to be approved by ministers this month, sources say",
+        "url": "https://www.theguardian.com/environment/2026/sep/04/jackdaw-gasfield-set-to-be-approved-by-ministers-this-month-sources-say",
+        "description": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfieldUK politics live – latest updatesBusiness live – latest updatesMinisters ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Australian ski resorts to close up to a month early due to global heating and El Niño",
+        "url": "https://www.theguardian.com/environment/2026/sep/04/australian-ski-resorts-to-close-up-to-a-month-early-due-to-global-heating-and-el-nino",
+        "description": "‘Challenging’ weather conditions and lack of snowfall are being blamed after a winter that broke multiple heat recordsSign up for climate and environment editor Adam Morton’s free Clear Air newslet...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Minister tells Brits to stock up on days of supplies after ‘supersize’ El Niño warning",
         "url": "https://www.theguardian.com/environment/2026/sep/03/angela-eagle-uk-stock-up-supplies-el-nino-warning",
         "description": "Exclusive: Angela Eagle urges UK citizens to be ‘a bit more resilient’ as they plan for national emergenciesBritish people have been urged to have enough food and water on hand to survive a few day...",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "BoM forecasts strongest El Niño on record as research points to ‘alarming’ climate change influence",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/04/bom-forecasts-strongest-el-nino-on-record-as-research-points-to-alarming-climate-change-influence",
-        "description": "Bureau of Meteorology suggests El Niño has already broken records, with Pacific Ocean temperature change exceeding 2C in six monthsFollow our Australia news live blog for latest updatesSign up for ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘Supersizing before our eyes’: UN warns of record El Niño approaching",
-        "url": "https://www.theguardian.com/environment/2026/sep/03/el-nino-supersizing-before-our-eyes-united-nations",
-        "description": "Event is likely to be largest in at least 1,000 years and will pile extra heat into a world already in a climate crisisThe El Niño climate phenomenon is “supersizing before our eyes”, the UN has sa...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'Miracle' eagle with broken wing spotted back above Scottish coast",
-        "url": "https://www.bbc.co.uk/news/articles/crerw2nj81zo?at_medium=RSS&at_campaign=rss",
-        "description": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast.",
+        "title": "Is a whale fossil the leftovers of a Bronze Age Sunday roast?",
+        "url": "https://www.bbc.co.uk/news/articles/cly4zkpvl4wo?at_medium=RSS&at_campaign=rss",
+        "description": "A 10-year-old boy was out looking for fossils along the shore in Islandmagee when he spotted the back of the skull.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
+        "url": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
+        "description": "From searching for a buried tunnel entrance to blowing up rocks the size of cars, rescuers had to surmount multiple challenges to reach survivors.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
+        "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+        "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
         "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
         "description": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Argentine leader says oil firms working off Falklands face sanctions",
-        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
-        "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US investigating if missile hit Iran wedding, Vance says",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-        "description": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
