@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-09-03T20:31:25.342665+00:00",
+  "fetched_at": "2026-09-04T03:00:16.737197+00:00",
   "headlines": {
     "government": [
       {
+        "title": "Sadiq Khan agrees to have his texts and emails searched in Palantir legal battle",
+        "url": "https://www.theguardian.com/politics/2026/sep/03/sadiq-khan-agrees-have-texts-emails-searched-palantir-legal-battle",
+        "description": "US tech company has sued London mayor after he prevented it from working with Metropolitan policeSadiq Khan has agreed for his text messages and emails to be searched as part of a legal battle with...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Reform officials ‘plotted to break law on foreign donations’ in undercover film",
         "url": "https://www.theguardian.com/politics/2026/sep/03/reform-officials-plotted-to-break-law-on-foreign-donations-in-undercover-film",
-        "description": "Investigation broadcast by Channel 4 shows man posing as ‘impermissible donor’ paying for polling that helped Reform Nigel Farage is facing fresh criticism on the eve of the Reform UK party confere...",
+        "description": "Investigation broadcast by Channel 4 News shows man posing as ‘impermissible donor’ paying for polling that helped ReformNigel Farage is facing fresh criticism on the eve of the Reform UK party con...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Minister tells Brits to stock up on days of supplies after ‘supersize’ El Niño warning",
-        "url": "https://www.theguardian.com/environment/2026/sep/03/angela-eagle-uk-stock-up-supplies-el-nino-warning",
-        "description": "Exclusive: Angela Eagle urges people to be ‘a bit more resilient’ as she tells UK citizens to plan for national emergenciesBritish people have been urged to have enough food and water on hand to su...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham and Macron agree to scale up action on small boats",
-        "url": "https://www.bbc.co.uk/news/articles/c62ezg7gkzwo?at_medium=RSS&at_campaign=rss",
-        "description": "The leaders also discussed Ukraine and \"the UK's drive to get closer to Europe\", No 10 says.",
+        "title": "Farage senior aide filmed suggesting way to avoid donations law",
+        "url": "https://www.bbc.co.uk/news/articles/cr50ddzl97qo?at_medium=RSS&at_campaign=rss",
+        "description": "A film broadcast by Channel 4 shows senior Reform UK figures discussing donations with an undercover reporter.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Households warned gas price spike could pile fresh pressure on energy bills",
-        "url": "https://www.bbc.co.uk/news/articles/cm274mwxy1vo?at_medium=RSS&at_campaign=rss",
-        "description": "Experts warn low storage levels could push up gas prices further, leaving households with higher bills.",
+        "title": "Controversial Jackdaw gas field set to be approved in weeks, sources say",
+        "url": "https://www.bbc.co.uk/news/articles/cj9xe09jz4eo?at_medium=RSS&at_campaign=rss",
+        "description": "The government is set to give the go-ahead for the gas field off the coast of Aberdeen, the BBC understands.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Children as young as six going to A&E in mental health crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cn5d2r0zqvdo?at_medium=RSS&at_campaign=rss",
-        "description": "NHS emergency departments are seeing more cases of self-harm, eating disorders and emotional distress in young people.",
+        "title": "Transplanted pig kidney works in US man's body for record 271 days",
+        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
+        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -118,14 +118,14 @@
       {
         "title": "Minister tells Brits to stock up on days of supplies after ‘supersize’ El Niño warning",
         "url": "https://www.theguardian.com/environment/2026/sep/03/angela-eagle-uk-stock-up-supplies-el-nino-warning",
-        "description": "Exclusive: Angela Eagle urges people to be ‘a bit more resilient’ as she tells UK citizens to plan for national emergenciesBritish people have been urged to have enough food and water on hand to su...",
+        "description": "Exclusive: Angela Eagle urges UK citizens to be ‘a bit more resilient’ as they plan for national emergenciesBritish people have been urged to have enough food and water on hand to survive a few day...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
         "title": "BoM forecasts strongest El Niño on record as research points to ‘alarming’ climate change influence",
         "url": "https://www.theguardian.com/australia-news/2026/sep/04/bom-forecasts-strongest-el-nino-on-record-as-research-points-to-alarming-climate-change-influence",
-        "description": "Bureau of Meteorology suggests El Niño has already broken records, with Pacific ocean temperature change exceeding 2C in six monthsFollow our Australia news live blog for latest updatesSign up for ...",
+        "description": "Bureau of Meteorology suggests El Niño has already broken records, with Pacific Ocean temperature change exceeding 2C in six monthsFollow our Australia news live blog for latest updatesSign up for ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "‘So scary’: massive hail and torrential rain causes chaos in Toronto",
-        "url": "https://www.bbc.co.uk/news/videos/cgl7x04k3yyo?at_medium=RSS&at_campaign=rss",
-        "description": "Videos shared from across the region showed streets overwhelmed by rain and hailstones falling in a matter of minutes.",
+        "title": "'Miracle' eagle with broken wing spotted back above Scottish coast",
+        "url": "https://www.bbc.co.uk/news/articles/crerw2nj81zo?at_medium=RSS&at_campaign=rss",
+        "description": "A sea eagle that confounded experts by surviving with a broken wing has been spotted back above Scotland's west coast.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "UN warns of 'supersized' El Niño as countries prepare for impact",
-        "url": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
-        "description": "The WMO has warned that the natural weather phenomenon could bring disruption to global economies.",
+        "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
+        "url": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
+        "description": "The defence lawyer is upset after the judge decides not to remove a holdout in the triple murder case.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
-        "url": "https://www.bbc.co.uk/news/articles/clyqw44w142o?at_medium=RSS&at_campaign=rss",
-        "description": "Millions of people have been exposed to the smog, with more than 12,000 children suffering respiratory issues.",
+        "title": "Argentine leader says oil firms working off Falklands face sanctions",
+        "url": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+        "description": "Javier Milei reiterates his country's claim on the British overseas territory, saying the \"winds of change\" favour it.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-        "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-        "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
+        "title": "US investigating if missile hit Iran wedding, Vance says",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
+        "description": "The Iranian Red Crescent Society (IRCS) said shrapnel from a missile hit the ceremony and killed four people on Tuesday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
