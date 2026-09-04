@@ -1,39 +1,46 @@
 {
-  "fetched_at": "2026-09-04T15:47:10.907037+00:00",
+  "fetched_at": "2026-09-04T20:17:44.108212+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reform suspends two officials over donations sting as Farage admits their comments ‘don’t look good’ – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/04/reform-uk-donations-nigel-farage-james-orr-dan-jukes-channel-4-investigation-conference-jordan-bardella-latest-news-updates",
-        "description": "James Orr and Dan Jukes, aides to Nigel Farage, stepped down after an investigation by Channel 4 NewsBritish ministers have hit back after the Argentinian president said “winds of change” favourabl...",
+        "title": "Farage seeks to shore up damaged leadership as scandal engulfs Reform conference",
+        "url": "https://www.theguardian.com/politics/2026/sep/04/nigel-farage-seeks-shore-up-damaged-reform-leadership-scandal-engulfs-party-conference",
+        "description": "Splits emerge within party after resignation of officials reported to police for apparent plot to evade donations lawNigel Farage sought to shore up his damaged leadership on Friday as he attempted...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "What is the latest finance scandal facing Reform UK?",
-        "url": "https://www.theguardian.com/politics/2026/sep/04/what-latest-finance-scandal-reform-uk",
-        "description": "Nigel Farage’s party has been referred to the police by Labour and the Lib Dems for potential breaches of the law UK politics live – latest updatesNigel Farage is facing yet another finance scandal...",
+        "title": "Reform donations scandal: is this the final blow for Farage? – The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/sep/04/reform-donations-scandal-is-this-the-final-blow-for-farage",
+        "description": "Reform UK has suspended two senior officials after they were filmed in an undercover operation appearing to attempt to get around electoral laws on foreign donations. The sting, by Channel 4 News a...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Populism poses serious challenge to independent central banks, Bailey says",
-        "url": "https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey",
-        "description": "Bank of England governor says central bankers must explain decisions or risk being seen as ‘unrepresentative elite’The governor of the Bank of England has said the rise of populist politicians pres...",
+        "title": "Cambridge University examines conduct of academic suspended by Reform UK",
+        "url": "https://www.theguardian.com/politics/2026/sep/04/cambridge-university-probing-conduct-of-academic-suspended-by-reform-uk",
+        "description": "James Orr, an associate professor, was shown in Channel 4 News footage apparently trying to sidestep electoral lawCambridge University has said it is examining the conduct of James Orr, its associa...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Two Reform officials step down after undercover donations report",
-        "url": "https://www.bbc.co.uk/news/articles/c86xj5z7x61o?at_medium=RSS&at_campaign=rss",
-        "description": "Reform says Dan Jukes and James Orr have left their roles as it launches an investigation into the report.",
+        "title": "Farage threatens to overhaul Lords and judges to meet his pledges",
+        "url": "https://www.bbc.co.uk/news/articles/clyeq5jvd2po?at_medium=RSS&at_campaign=rss",
+        "description": "The Reform UK leader promises to deliver on key priorities in the first 100 days of government, if the party wins power.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "US jobs report smashes forecasts; shares in Falklands oil explorers plunge as Argentina threatens sanctions – business live",
+        "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
+        "url": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
+        "description": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequencesWhen Donald Trump was asked recently about the threat of rising interest rates on U...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "US jobs report smashes forecasts; shares in Falklands oil explorers plunge as Argentina threatens sanctions – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial news, as US economy adds 162,000 new jobs in AugustUS added 162,000 jobs in August, with unemployment rate holding steadyIt’s official, UK car ...",
         "source": "The Guardian",
@@ -43,13 +50,6 @@
         "title": "Populism poses serious challenge to independent central banks, Bailey says",
         "url": "https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey",
         "description": "Bank of England governor says central bankers must explain decisions or risk being seen as ‘unrepresentative elite’The governor of the Bank of England has said the rise of populist politicians pres...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US added 162,000 jobs in August, with unemployment rate holding steady",
-        "url": "https://www.theguardian.com/business/2026/sep/04/august-economy-jobs-report",
-        "description": "Number of new jobs being added has been fluctuating, with private companies adding 38,000 jobs in AugustThe US economy added 162,000 jobs in August, an uptick after a sluggish summer for the labor ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Nigerians die after inhaling toxic fumes during alleged pipeline theft, community group says",
+        "title": "At least 37 killed by toxic fumes during alleged petrol theft in Nigeria, reports say",
         "url": "https://www.bbc.co.uk/news/articles/cde024l10dyo?at_medium=RSS&at_campaign=rss",
-        "description": "The authorities are yet to determine an official death toll, but some reports say at least 37 are dead.",
+        "description": "An environmental group says those who died are suspected of stealing petrol from a pipeline in Nigeria's Rivers State.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Cambridge University asks former chief crown prosecutor to open Arday review",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/04/cambridge-university-nazir-afzal-to-lead-first-part-jason-arday-review",
+        "description": "Nazir Afzal to focus in review’s first stage on support given to professor in immediate period before his deathThe University of Cambridge has asked Nazir Afzal, a former chief crown prosecutor for...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Even high school reporters are facing censorship now",
         "url": "https://www.theguardian.com/law/ng-interactive/2026/sep/04/high-school-journalism-splc",
@@ -156,13 +163,6 @@
         "title": "Schools in England face checks to root out unhealthy lunches",
         "url": "https://www.theguardian.com/education/2026/sep/03/schools-england-checks-to-root-out-unhealthy-lunches",
         "description": "Ministers draw up inspection regime to enforce rules limiting sugar, fat and saltSchools could be reprimanded if they serve food containing too much fat, salt or sugar under new checks to ensure pu...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Higher education regulator apologises for imposing £585,000 fine on university",
-        "url": "https://www.theguardian.com/education/2026/sep/03/higher-education-regulator-ofs-university-sussex-fine",
-        "description": "Office for Students made decision to punish University of Sussex with fine last year after claiming it breached free speech regulationsEngland’s higher education regulator has apologised for a stri...",
         "source": "The Guardian",
         "category": "education"
       }
