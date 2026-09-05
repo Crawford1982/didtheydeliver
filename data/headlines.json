@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-09-05T14:37:18.855817+00:00",
+  "fetched_at": "2026-09-05T19:57:13.081113+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Protester attacked at Reform conference considering coming forward after police appeal – UK politics live",
+        "title": "Farage brushes aside Reform controversies in closing conference speech – UK politics as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
-        "description": "Activist group behind protests says individual shown in widely-circulated video is considering police appeal for her to come forward No real mention by Anderson of the problems that overshadowed ev...",
+        "description": "‘Sometimes we will get things wrong and get a bit of a kicking for it,’ party leader tells gathering in Birmingham No real mention by Anderson of the problems that overshadowed events yesterday. He...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "‘I wasn’t even listening,’ Farage says of donations scandal meeting",
+        "url": "https://www.theguardian.com/politics/2026/sep/05/i-wasnt-even-listening-farage-says-of-donations-scandal-meeting",
+        "description": "Reform UK leader maintains innocence in overseas funding controversy on last day of party conferenceUK politics liveNigel Farage has claimed that he “wasn’t even listening” during a meeting at the ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,14 +24,7 @@
         "category": "government"
       },
       {
-        "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
-        "description": "Anwar, who lives in Glasgow, says Home Office refused visa application despite Maryam having cancerA man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would s...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Nigel Farage tells BBC he 'wasn't listening' to foreign donor talks filmed undercover",
+        "title": "Nigel Farage tells BBC he 'wasn't listening' during foreign donor talks filmed undercover",
         "url": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
         "description": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
         "source": "BBC News",
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Catastrophic dangers await Burnham’s push for English devolution | Phillip Inman",
+        "url": "https://www.theguardian.com/politics/2026/sep/05/catastrophic-dangers-await-burnhams-push-english-devolution",
+        "description": "Like France, the UK has always been centralised – and imposing a new political structure brings huge risksDevolution in England is going to be messy and slow, and brings with it huge risks that And...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "‘The chancellor is in a bind’: is No 11 at odds with Burnham’s big vision?",
         "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-andy-burnham-labour-economics",
@@ -43,13 +50,6 @@
         "title": "John Healey warns of tough first budget as Middle East war puts pressure on economy",
         "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-warns-of-tough-first-budget-as-middle-east-war-puts-pressure-on-economy",
         "description": "Chancellor says he wants to ensure country has ‘buffer’ against uncertainty as global bond yields hit 18-year highThe chancellor has indicated that the UK will face a tough budget next month due to...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
-        "url": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
-        "description": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequencesWhen Donald Trump was asked recently about the threat of rising interest rates on U...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -86,7 +86,7 @@
       {
         "title": "How hunger for a new weight-loss drug is feeding an industry of fakes",
         "url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
-        "description": "Counterfeit versions of a drug which is still in clinical trials are flooding the black market.",
+        "description": "Dupes of retatrutide are flooding the black market, but the drug is yet to be approved by regulators.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+        "title": "US envoys meet Putin in Moscow for Ukraine talks",
         "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
-        "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+        "description": "Footage shows Vladimir Putin greeting Steve Witkoff and Jared Kushner, before saying the current situation \"is not so easy\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "US hits three Iranian oil tankers after saying its warships were targeted",
+        "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
+        "description": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
         "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
         "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "At least two dead in blast at Bolivia military barracks",
-        "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-        "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
