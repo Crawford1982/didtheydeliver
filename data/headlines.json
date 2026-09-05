@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T20:17:44.108212+00:00",
+  "fetched_at": "2026-09-05T03:01:56.791281+00:00",
   "headlines": {
     "government": [
       {
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Transplanted pig kidney works in US man's body for record 271 days",
-        "url": "https://www.bbc.co.uk/news/articles/c305qn2jeggo?at_medium=RSS&at_campaign=rss",
-        "description": "A man has lived for a record nine months with a transplanted pig kidney while waiting for a human transplant.",
+        "title": "How the hunger for a new weight loss drug is feeding an industry of fakes",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
+        "description": "Counterfeit versions of a drug which is still in clinical trials are flooding the black market.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,9 +116,16 @@
     ],
     "climate": [
       {
+        "title": "Sydney set to hit 33C in warmest start to spring since mid-1800s, while snow forecast in southern NSW",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
+        "description": "A total fire ban is in place for greater Sydney with extreme fire danger exacerbated by hot and windy conditionsGet our breaking news email, free app or daily news podcastSummer heat is due to arri...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Jackdaw gasfield set to be approved by ministers this month, sources say",
         "url": "https://www.theguardian.com/environment/2026/sep/04/jackdaw-gasfield-set-to-be-approved-by-ministers-this-month-sources-say",
-        "description": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfieldUK politics live – latest updatesBusiness live – latest updatesMinisters ...",
+        "description": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfieldMinisters are poised to approve a controversial new gasfield in the North...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Minister tells Brits to stock up on days of supplies after ‘supersize’ El Niño warning",
-        "url": "https://www.theguardian.com/environment/2026/sep/03/angela-eagle-uk-stock-up-supplies-el-nino-warning",
-        "description": "Exclusive: Angela Eagle urges UK citizens to be ‘a bit more resilient’ as they plan for national emergenciesBritish people have been urged to have enough food and water on hand to survive a few day...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "At least 37 killed by toxic fumes during alleged petrol theft in Nigeria, reports say",
-        "url": "https://www.bbc.co.uk/news/articles/cde024l10dyo?at_medium=RSS&at_campaign=rss",
-        "description": "An environmental group says those who died are suspected of stealing petrol from a pipeline in Nigeria's Rivers State.",
+        "title": "Ancient cave art discovery suggests first known humans in Ireland walked over from Wales",
+        "url": "https://www.bbc.co.uk/news/articles/c5y75dl0jpko?at_medium=RSS&at_campaign=rss",
+        "description": "During the most recent Ice Age, researchers believe there was a \"lost land bridge\" between Wales and Ireland.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
+        "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
+        "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+        "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
         "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
         "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
-        "url": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
-        "description": "There are still hundreds of workers trapped in a network of tunnels that run along the Trishuli river.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
-        "url": "https://www.bbc.co.uk/news/articles/cn45jg3zlz4o?at_medium=RSS&at_campaign=rss",
-        "description": "The comments come as Argentinian president Javier Milei says the \"winds of change\" favoured his country's claim on the British overseas territory.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
