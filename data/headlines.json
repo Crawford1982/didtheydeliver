@@ -1,55 +1,55 @@
 {
-  "fetched_at": "2026-09-05T09:58:53.086358+00:00",
+  "fetched_at": "2026-09-05T14:37:18.855817+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Farage and Jenrick to speak on final day of Reform conference marred by scandal and protests – UK politics live",
+        "title": "Protester attacked at Reform conference considering coming forward after police appeal – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/05/nigel-farage-robert-jenrick-reform-uk-politics-latest-news-updates",
-        "description": "Farage, who had earlier suspended two close aides, had his keynote speech interrupted multiple times by protesters on FridayMorning, and welcome to our UK politics blog. Reform UK’s annual conferen...",
+        "description": "Activist group behind protests says individual shown in widely-circulated video is considering police appeal for her to come forward No real mention by Anderson of the problems that overshadowed ev...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
-        "url": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
-        "description": "Scale of deportations made public for first time amid criticism of hardline approach to UK citizensSweden has confirmed 458 British citizens have been deported or forcibly removed by police since B...",
+        "title": "John Healey warns of tough first budget as Middle East war puts pressure on economy",
+        "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-warns-of-tough-first-budget-as-middle-east-war-puts-pressure-on-economy",
+        "description": "Chancellor says he wants to ensure country has ‘buffer’ against uncertainty as global bond yields hit 18-year highThe chancellor has indicated that the UK will face a tough budget next month due to...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "The two-year trail of financial controversy dogging Reform and Farage",
-        "url": "https://www.theguardian.com/politics/2026/sep/05/allegations-reform-uk-finances-nigel-farage",
-        "description": "Six claims the party has faced – from an undisclosed £5m gift to an alleged plot to bypass election lawsAs Reform UK’s annual conference unfolded in Birmingham, the party was once again facing heig...",
+        "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
+        "description": "Anwar, who lives in Glasgow, says Home Office refused visa application despite Maryam having cancerA man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would s...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform promises to increase tax-free personal allowance to £15,000",
-        "url": "https://www.bbc.co.uk/news/articles/cgk5g51xk57o?at_medium=RSS&at_campaign=rss",
-        "description": "The party says the tax cut will be paid for by reducing public spending by £80bn.",
+        "title": "Nigel Farage tells BBC he 'wasn't listening' to foreign donor talks filmed undercover",
+        "url": "https://www.bbc.co.uk/news/articles/c0qxgn7q1vdo?at_medium=RSS&at_campaign=rss",
+        "description": "The Reform leader also told the BBC's Laura Kuenssberg that his family are \"begging\" him to leave his job.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "‘The chancellor is in a bind’: is No 11 at odds with Burnham’s big vision?",
+        "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-andy-burnham-labour-economics",
+        "description": "MPs applaud PM’s ambition and optimism but John Healey has yet to show he can match leader’s radical perspectiveUntil now, Andy Burnham has been a lucky prime minister. In office for just over six ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "John Healey warns of tough first budget as Middle East war puts pressure on economy",
+        "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-warns-of-tough-first-budget-as-middle-east-war-puts-pressure-on-economy",
+        "description": "Chancellor says he wants to ensure country has ‘buffer’ against uncertainty as global bond yields hit 18-year highThe chancellor has indicated that the UK will face a tough budget next month due to...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects?",
         "url": "https://www.theguardian.com/business/2026/sep/04/instability-in-global-bond-markets-rising-knock-on-effects",
         "description": "From mortgages to inflation, concerns about the public finances of major economies have wide-reaching consequencesWhen Donald Trump was asked recently about the threat of rising interest rates on U...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US jobs report smashes forecasts; shares in Falklands oil explorers plunge as Argentina threatens sanctions – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/sep/04/uk-car-sales-rise-food-prices-bank-of-england-us-jobs-repost-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial news, as US economy adds 162,000 new jobs in AugustUS added 162,000 jobs in August, with unemployment rate holding steadyIt’s official, UK car ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Populism poses serious challenge to independent central banks, Bailey says",
-        "url": "https://www.theguardian.com/business/2026/sep/04/populism-serious-challenge-independence-central-banks-andrew-bailey",
-        "description": "Bank of England governor says central bankers must explain decisions or risk being seen as ‘unrepresentative elite’The governor of the Bank of England has said the rise of populist politicians pres...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented",
+        "url": "https://www.theguardian.com/society/2026/sep/05/alzheimers-trial-drug-dementia",
+        "description": "Healthy middle-aged people deemed to be at higher risk of developing condition among those eligible to participatePeople without memory loss will be offered an experimental Alzheimer’s drug that co...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "The body snatchers: how a young Nigerian man was lured to London in an organ-trafficking plot – podcast",
         "url": "https://www.theguardian.com/news/audio/2026/sep/04/the-body-snatchers-how-a-young-nigerian-man-was-lured-to-london-in-an-organ-trafficking-plot-podcast",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "Free cholesterol tests on the NHS are great – but here’s the five-point health MOT I’d really like to see | Devi Sridhar",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/02/nhs-free-cholesterol-tests-health-symptom",
-        "description": "You could be walking around symptom-free and not know you’re pre-diabetic, living with hypertension or at a high risk of a heart attackProf Devi Sridhar is chair of global public health at the Univ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "How hunger for a new weight-loss drug is feeding an industry of fakes",
         "url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
         "description": "Counterfeit versions of a drug which is still in clinical trials are flooding the black market.",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
+        "description": "Anwar, who lives in Glasgow, says Home Office refused visa application despite Maryam having cancerA man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would s...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
         "url": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
@@ -105,16 +112,16 @@
         "description": "A scandal-besieged Reform still has a loyal base that won’t budge. That should free up the PM to deliver some home truthsDespite the bright start to Andy Burnham’s premiership, and Reform UK’s sudd...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Drones, teargas, riot squads: why has the UK gone to war against asylum seekers already fleeing conflict? | Diane Taylor",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/04/drones-teargas-riot-squads-uk-war-asylum-seekers-burnham-macron",
-        "description": "Burnham and Macron have committed to going further in the crackdown on French beaches. But little is being done to offer refugees safe alternative routesGarang*, 18, is one of thousands of refugees...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Reform continues to cast doubt on climate science. Do its supporters agree?",
+        "url": "https://www.theguardian.com/politics/2026/sep/05/reform-continues-to-cast-doubt-on-climate-science-do-its-supporters-agree",
+        "description": "Climate scepticism is common at the Reform party conference, but many also criticise Labour for failing to protect Britons from hot weatherOn the second day of the Reform UK conference, in the wake...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Sydney reaches 33C in potentially warmest start to spring since mid-1800s, while snow forecast in southern NSW",
         "url": "https://www.theguardian.com/australia-news/2026/sep/05/sydney-set-to-hit-33c-in-warmest-start-to-spring-since-mid-1800s-while-snow-forecast-in-southern-nsw",
@@ -126,13 +133,6 @@
         "title": "Beekeepers warn of Asian hornet threat and call for UK awareness campaign",
         "url": "https://www.theguardian.com/environment/2026/sep/05/beekeepers-asian-hornet-threat-uk-awareness-campaign",
         "description": "Experts say invasive species are creating ‘pollinator deserts’ and could have serious impact on food securityBritish beekeepers have called for a national awareness campaign about the impact of Asi...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Jackdaw gasfield set to be approved by ministers this month, sources say",
-        "url": "https://www.theguardian.com/environment/2026/sep/04/jackdaw-gasfield-set-to-be-approved-by-ministers-this-month-sources-say",
-        "description": "Energy secretary could recommend new North Sea drilling next week, as ministers also consider approval for Rosebank oilfieldMinisters are poised to approve a controversial new gasfield in the North...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+        "description": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Mistrial declared in Lindsay Clancy murder case, after jury deadlocks",
         "url": "https://www.bbc.co.uk/news/articles/cpwlrj2je1po?at_medium=RSS&at_campaign=rss",
         "description": "The mistrial now puts the murder case - and Clancy's future - in limbo as to whether she will be held criminally liable in the deaths of her three kids.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-        "url": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-        "description": "Steve Witkoff and Jared Kushner have led President Donald Trump's efforts to end the Russia-Ukraine war - but talks have stalled.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
-        "url": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-        "description": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+        "title": "At least two dead in blast at Bolivia military barracks",
+        "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+        "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
