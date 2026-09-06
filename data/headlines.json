@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-06T14:57:34.177122+00:00",
+  "fetched_at": "2026-09-06T20:00:47.331511+00:00",
   "headlines": {
     "government": [
       {
@@ -33,23 +33,23 @@
     ],
     "economy": [
       {
+        "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
+        "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
+        "description": "Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reservesChina will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore u...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "That sound you hear is not the world ending – it’s liberalism being monstered | Waleed Aly",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/07/waleed-aly-time-of-monsters-future-liberalism-essay",
+        "description": "It turns out most of us no longer believe in progress. And when that happens, it quickly becomes a crisis for societies like oursGet our breaking news email, free app or daily news podcastDepending...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Air conditioners are our best bet in the fight against extreme heat – whether we like it or not",
         "url": "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access",
         "description": "Global AC demand will inevitably accelerate as the world continues to warm amid the climate crisisThe greenest campaigners against climate change have long suffered from a crippling shortcoming: th...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Burnham talks of radical change, but Treasury mood music says otherwise",
-        "url": "https://www.theguardian.com/business/2026/sep/06/burnham-talks-of-radical-change-but-treasury-mood-music-says-otherwise",
-        "description": "Bond market volatility means John Healey will have to take tough decisions, soon, if he wants to meet spending pledgesIn John Healey’s bright Treasury office, overlooking St James’s Park, the artwo...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Catastrophic dangers await Burnham’s push for English devolution | Phillip Inman",
-        "url": "https://www.theguardian.com/politics/2026/sep/05/catastrophic-dangers-await-burnhams-push-english-devolution",
-        "description": "Like France, the UK has always been centralised – and imposing a new political structure brings huge risksDevolution in England is going to be messy and slow, and brings with it huge risks that And...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -146,28 +146,35 @@
     ],
     "education": [
       {
+        "title": "‘Powerful example’: minister looks to Essex school for blueprint to transform Send provision",
+        "url": "https://www.theguardian.com/education/2026/sep/06/minister-looks-to-essex-school-blueprint-transform-send-provision",
+        "description": "Georgia Gould says moving system towards inclusion will mean parents ‘don’t need to fight’ for support in futurePupils with Send plans in England likely to double in rush for supportGeorgia Gould i...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Pupils with Send plans in England likely to double to one in 10 in rush for support",
+        "url": "https://www.theguardian.com/education/2026/sep/06/schools-england-report-surge-send-applications",
+        "description": "Schools and councils express financial concerns as EHCP applications surge before potential change in provision‘Powerful example’: minister looks to Essex school for blueprint to transform Send pro...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "The student loan scam looking to dupe already anxious students",
         "url": "https://www.theguardian.com/money/2026/sep/06/student-loan-scam-maintenance-funds-dupe-students",
         "description": "Scammers hope to siphon off some of the £2.6bn in student maintenance funds paid out each SeptemberYou are about to start university and can’t wait but then you receive a worrying text message. It ...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "‘Bold, brilliant, thrilling’: leading authors on the novels every school should teach",
-        "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/05/bold-brilliant-thrilling-leading-authors-on-the-novels-every-school-should-teach",
-        "description": "A new term, a new PM … time for a new English curriculum? We ask writers from Ben Okri to Samantha Harvey to pick books that will inspire a lifelong love of readingFor the first time ever, we have ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "All eyes on Saxony-Anhalt – what will AfD do if it wins German state poll?",
-        "url": "https://www.theguardian.com/world/2026/sep/05/saxony-anhalt-far-right-afd-plans-german-state-poll",
-        "description": "Sunday’s election could bring in Germany’s first far-right state government since the Nazi eraGermany is embarking on a crucial election period this month, with three key state polls that could mar...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Rejecting the new town in Enfield isn’t nimbyism | Letter",
+        "url": "https://www.theguardian.com/society/2026/sep/06/rejecting-the-new-town-in-enfield-isnt-nimbyism",
+        "description": "The risks of building on the green belt include increased flooding, loss of access to nature and high car-dependency, writes Kathrin SpinnlerPolly Toynbee’s article about the proposed new town in E...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Tell us: have you given up on trying to buy your first home?",
         "url": "https://www.theguardian.com/society/2026/sep/03/tell-us-have-you-given-up-on-trying-to-buy-your-first-home",
@@ -181,34 +188,27 @@
         "description": "Problems with housing, jobs and technology have dented young people’s confidence in the future and each otherHope, Raye told a crowd at Reading festival on Saturday, was the theme of a set inspired...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Nimbys can’t stand in the way of Labour’s legacy: a 21st-century new town boom | Polly Toynbee",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/01/new-towns-labour-legacy-nimbys-enfield-tories-greens-sadiq-khan",
-        "description": "Which do Enfield’s Tories and Greens value more – a golf course or thousands of new homes? It’s a question of political valuesNew towns will again be a lasting Labour legacy, just as in the eras of...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
+        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
         "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-        "description": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
+        "description": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+        "title": "German far-right set for big win in eastern state, projections show",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
         "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Dozens feared trapped in collapsed building in Delhi",
-        "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-        "description": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
+        "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
