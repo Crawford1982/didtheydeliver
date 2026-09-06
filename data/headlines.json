@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-06T10:17:28.471912+00:00",
+  "fetched_at": "2026-09-06T14:57:34.177122+00:00",
   "headlines": {
     "government": [
       {
+        "title": "Black-clad Dover vigilantes will return if police do not act, say campaigners",
+        "url": "https://www.theguardian.com/politics/2026/sep/06/black-clad-dover-protesters-condemned-for-dressing-up-in-costumes-by-minister",
+        "description": "Far-right linked group able to mobilise at scale due to police ‘inaction’, says founder of Hope Not HateThe group of masked, black-clad vigilantes who blockaded roads in Dover could repeat the disr...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Undercover report on donations ‘looks bad’ for Reform, admits Nigel Farage – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/06/nigel-farage-reform-uk-donations-undercover-investigation-latest-news-updates",
+        "description": "The Reform UK leader is under pressure after senior aides appeared to plot how to bypass electoral laws on foreign donationsSagal Abdi-Wali arrived in Camden as a child refugee from Somalia. She ha...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "Zia Yusuf’s post about Camden council leader is ‘straightforward racism’, says minister",
         "url": "https://www.theguardian.com/politics/2026/sep/06/zia-yusuf-reform-uk-post-camden-council-leader-sagal-abdi-wali",
-        "description": "Reform UK’s home affairs spokesperson has faced criticism within party after post about Sagal Abdi-Wali, a former child refugeeLabour has accused Reform’s Zia Yusuf of “straightforward racism” afte...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Undercover report on donations ‘looks bad’ for Reform, admits Nigel Farage – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/06/nigel-farage-reform-uk-donations-undercover-investigation-latest-news-updates",
-        "description": "The Reform UK leader is under pressure after senior aides appeared to plot how to bypass electoral laws on foreign donationsJavier Milei’s threats to the Falkland Islands make it even more importan...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Falklands row shows urgent need to commit to 3% target, says Labour defence committee chair",
-        "url": "https://www.theguardian.com/politics/2026/sep/06/falklands-row-raise-defence-spending-tan-dhesi-labour",
-        "description": "Exclusive: Tan Dhesi says Argentinian threats make it more crucial than ever that PM increase defence spendingJavier Milei’s threats to the Falkland Islands make it even more important that Andy Bu...",
+        "description": "Senior Reform UK figure has faced criticism within party after post about Sagal Abdi-Wali, a former child refugeeLabour has accused Reform’s Zia Yusuf of “straightforward racism” after he suggested...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Air conditioners are our best bet in the fight against extreme heat – whether we like it or not",
+        "url": "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access",
+        "description": "Global AC demand will inevitably accelerate as the world continues to warm amid the climate crisisThe greenest campaigners against climate change have long suffered from a crippling shortcoming: th...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Burnham talks of radical change, but Treasury mood music says otherwise",
         "url": "https://www.theguardian.com/business/2026/sep/06/burnham-talks-of-radical-change-but-treasury-mood-music-says-otherwise",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "‘The chancellor is in a bind’: is No 11 at odds with Burnham’s big vision?",
-        "url": "https://www.theguardian.com/politics/2026/sep/05/john-healey-andy-burnham-labour-economics",
-        "description": "MPs applaud PM’s ambition and optimism but John Healey has yet to show he can match leader’s radical perspectiveUntil now, Andy Burnham has been a lucky prime minister. In office for just over six ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Stock up on food to prepare for extreme weather, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/cp931m8n3p5o?at_medium=RSS&at_campaign=rss",
-        "description": "Dame Angela Eagle warns the weather event could lead to extreme storms this winter.",
+        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
+        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
+        "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
+        "title": "Black-clad Dover vigilantes will return if police do not act, say campaigners",
+        "url": "https://www.theguardian.com/politics/2026/sep/06/black-clad-dover-protesters-condemned-for-dressing-up-in-costumes-by-minister",
+        "description": "Far-right linked group able to mobilise at scale due to police ‘inaction’, says founder of Hope Not HateThe group of masked, black-clad vigilantes who blockaded roads in Dover could repeat the disr...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Sir Andrew Nicol obituary",
+        "url": "https://www.theguardian.com/law/2026/sep/06/sir-andrew-nicol-obituary",
+        "description": "Barrister and judge with one of the finest minds available to immigrants and journalists in peril in the courtsSir Andrew Nicol, who has died aged 75, did much to enhance the defence of civil liber...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
         "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
         "description": "Anwar, who lives in Glasgow, says Home Office refused visa application despite Maryam having cancerA man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would s...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Sweden confirms 458 Britons deported or forcibly removed since Brexit",
-        "url": "https://www.theguardian.com/politics/2026/sep/05/sweden-britons-deportations-brexit",
-        "description": "Scale of deportations made public for first time amid criticism of hardline approach to UK citizensSweden has confirmed 458 British citizens have been deported or forcibly removed by police since B...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "The pressure on Burnham to appease the right is huge. But now is the time to step out of Reform’s shadow | Andy Beckett",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/05/andy-burnham-reform-uk-labour-rightwing-voters",
-        "description": "A scandal-besieged Reform still has a loyal base that won’t budge. That should free up the PM to deliver some home truthsDespite the bright start to Andy Burnham’s premiership, and Reform UK’s sudd...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "US envoys set for Ukraine talks after meeting Putin in Russia",
+        "title": "US envoys meet Zelensky in Ukraine after talks with Putin in Russia",
         "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-        "description": "It will be the first trip by Steve Witkoff and Jared Kushner, Trump's top negotiators, to Kyiv.",
+        "description": "Steve Witkoff and Jared Kushner are holding talks in Kyiv, in their first visit to Ukraine since Russia's full-scale invasion.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-        "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-        "description": "The US says it hit three Iranian oil tankers, while Iran says it targeted three US-linked ships.",
+        "title": "Volcano eruption leaves 150,000 passengers stranded in Indonesia",
+        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
+        "description": "More than 150,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "TV presenter among 12 sentenced to death in Egypt drugs case",
-        "url": "https://www.bbc.co.uk/news/articles/c5y7gk9knnlo?at_medium=RSS&at_campaign=rss",
-        "description": "Sarah Khalifa is best known for her TV programme Mission Impossible which dealt with crime issues.",
+        "title": "Dozens feared trapped in collapsed building in Delhi",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
+        "description": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
