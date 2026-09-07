@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-07T02:59:35.695763+00:00",
+  "fetched_at": "2026-09-07T11:37:45.818525+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Hundreds of far-right protesters descend on Portsmouth after small boat arrival",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival",
-        "description": "Influencer livestreams event calling for men to travel to port to block coaches carrying asylum seekers from leavingHundreds of far-right activists have descended on Portsmouth, where a small boat ...",
+        "title": "Being ‘true to Labour’s values’ means controlling spending, says Healey – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
+        "description": "Chancellor says there’s ‘nothing progressive’ about government spending £1 in every ten on debt interestChancellor to argue UK economy can ‘turn corner’ despite bond market turmoilHealey says Andy ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Black-clad Dover vigilantes will return if police do not act, say campaigners",
-        "url": "https://www.theguardian.com/politics/2026/sep/06/black-clad-dover-protesters-condemned-for-dressing-up-in-costumes-by-minister",
-        "description": "Far-right linked group able to mobilise at scale due to police ‘inaction’, says founder of Hope Not HateThe group of masked, black-clad vigilantes who blockaded roads in Dover could repeat the disr...",
+        "title": "Labour’s new powers for water customers are a ‘stitch-up’, say campaigners",
+        "url": "https://www.theguardian.com/business/2026/sep/07/labour-new-powers-water-companies-consumer-stitch-up",
+        "description": "Exclusive: Documents reveal water firms have been allowed to advise on how they wish to be held to accountLabour’s new powers for customers to hold water companies to account are a “stitch-up”, cam...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Undercover report on donations ‘looks bad’ for Reform, admits Nigel Farage – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/06/nigel-farage-reform-uk-donations-undercover-investigation-latest-news-updates",
-        "description": "The Reform UK leader is under pressure after senior aides appeared to plot how to bypass electoral laws on foreign donationsSagal Abdi-Wali arrived in Camden as a child refugee from Somalia. She ha...",
+        "title": "Ministers condemn ‘thuggish’ far-right activists after Portsmouth unrest",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/07/ministers-condemn-far-right-activists-portsmouth-asylum-seekers",
+        "description": "Hundreds of men, some wearing balaclavas, attempted to prevent asylum seekers being transported for processingUK politics live – latest updatesThe government has condemned the “thuggish and intimid...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "Being ‘true to Labour’s values’ means controlling spending, says Healey – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
+        "description": "Chancellor says there’s ‘nothing progressive’ about government spending £1 in every ten on debt interestChancellor to argue UK economy can ‘turn corner’ despite bond market turmoilHealey says Andy ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK cost of living squeeze tightens as mortgage rates rise ; JLR announces 4,000 job cuts – business live",
+        "url": "https://www.theguardian.com/business/live/2026/sep/07/uk-house-prices-fall-subdued-market-jlr-job-cuts-shares-oil-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsUK house prices fall for first time in nearly three years, says LloydsThe rise in mortgage rates could cool demand in the UK housing market...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth",
         "url": "https://www.theguardian.com/world/2026/sep/06/china-prepares-40bn-stimulus-for-financial-sector-amid-fears-over-sluggish-growth",
         "description": "Beijing wants banks and insurers to bolster investment in stock market as it helps to replenish cash reservesChina will inject $54bn (£40bn) into its financial sector as Beijing attempts to shore u...",
@@ -40,46 +54,32 @@
         "category": "economy"
       },
       {
-        "title": "That sound you hear is not the world ending – it’s liberalism being monstered | Waleed Aly",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/07/waleed-aly-time-of-monsters-future-liberalism-essay",
-        "description": "It turns out most of us no longer believe in progress. And when that happens, it quickly becomes a crisis for societies like oursGet our breaking news email, free app or daily news podcastDepending...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Air conditioners are our best bet in the fight against extreme heat – whether we like it or not",
-        "url": "https://www.theguardian.com/environment/2026/sep/06/climate-crisis-air-conditioning-access",
-        "description": "Global AC demand will inevitably accelerate as the world continues to warm amid the climate crisisThe greenest campaigners against climate change have long suffered from a crippling shortcoming: th...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
-        "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
-        "description": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
+        "title": "Jaguar Land Rover to cut 4,000 jobs over next two years",
+        "url": "https://www.bbc.co.uk/news/articles/c36lx560jjko?at_medium=RSS&at_campaign=rss",
+        "description": "The cuts come as the carmaker struggles with Chinese competition, US tariffs, and the transition to electric vehicles.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
+        "title": "‘I felt robbed’: bereaved parents hope for answers from Sussex maternity review",
+        "url": "https://www.theguardian.com/society/2026/sep/07/bereaved-parents-evidence-independent-review-sussex-maternity-donna-ockenden",
+        "description": "Review led by Donna Ockenden launches after campaign by families and media investigation into deaths at NHS trustSusan Cacciacarro was almost 37 weeks pregnant with her daughter Chiara when she wok...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "UK’s biggest private hospital firm Spire agrees £1bn takeover by hedge fund",
+        "url": "https://www.theguardian.com/business/2026/sep/07/uk-private-hospital-spire-healthcare-takeover-hedge-fund-toscafund-nhs",
+        "description": "Toscafund, founded by City figure known as ‘the Rottweiler’, signs deal amid fears over creeping privatisation of NHSBusiness live – latest updatesBritain’s biggest private hospital operator has ag...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Almost 75% of A&E staff in UK face violence or aggression daily or weekly",
         "url": "https://www.theguardian.com/society/2026/sep/07/nhs-a-and-e-staff-violence-aggression-survey",
         "description": "Survey finds long waiting times and overcrowding have made abuse ‘routine’ part of working on hospital frontlineNearly three-quarters of A&E staff experience violence or aggression daily or weekly,...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented",
-        "url": "https://www.theguardian.com/society/2026/sep/05/alzheimers-trial-drug-dementia",
-        "description": "Healthy middle-aged people deemed to be at higher risk of developing condition among those eligible to participatePeople without memory loss will be offered an experimental Alzheimer’s drug that co...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "The body snatchers: how a young Nigerian man was lured to London in an organ-trafficking plot – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/sep/04/the-body-snatchers-how-a-young-nigerian-man-was-lured-to-london-in-an-organ-trafficking-plot-podcast",
-        "description": "Daniel was working at a market in Lagos when he was given the chance to start anew in the UK. He had no idea what was expected of him in returnBy Alexis Okeowo. Read by Nneka OkoyeRead the text ver...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
-        "title": "Hundreds of far-right protesters descend on Portsmouth after small boat arrival",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival",
-        "description": "Influencer livestreams event calling for men to travel to port to block coaches carrying asylum seekers from leavingHundreds of far-right activists have descended on Portsmouth, where a small boat ...",
+        "title": "Being ‘true to Labour’s values’ means controlling spending, says Healey – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
+        "description": "Chancellor says there’s ‘nothing progressive’ about government spending £1 in every ten on debt interestChancellor to argue UK economy can ‘turn corner’ despite bond market turmoilHealey says Andy ...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Black-clad Dover vigilantes will return if police do not act, say campaigners",
-        "url": "https://www.theguardian.com/politics/2026/sep/06/black-clad-dover-protesters-condemned-for-dressing-up-in-costumes-by-minister",
-        "description": "Far-right linked group able to mobilise at scale due to police ‘inaction’, says founder of Hope Not HateThe group of masked, black-clad vigilantes who blockaded roads in Dover could repeat the disr...",
+        "title": "What is Patriot Platform, the far-right group that descended on Dover and Portsmouth?",
+        "url": "https://www.theguardian.com/politics/2026/sep/07/patriot-platform-far-right-group-dover-portsmouth",
+        "description": "Campaign groups say the anti-migrant collective, which gathers together a series of local groups, is home to a host of violent criminalsHundreds of masked and hooded anti-migrant activists descende...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Sir Andrew Nicol obituary",
-        "url": "https://www.theguardian.com/law/2026/sep/06/sir-andrew-nicol-obituary",
-        "description": "Barrister and judge with one of the finest minds available to immigrants and journalists in peril in the courtsSir Andrew Nicol, who has died aged 75, did much to enhance the defence of civil liber...",
+        "title": "Riot police clash with far-right protesters in Portsmouth – video",
+        "url": "https://www.theguardian.com/world/video/2026/sep/07/riot-police-clash-with-far-right-protesters-in-portsmouth-video",
+        "description": "Hundreds of far-right protesters have clashed with riot police in Portsmouth, after a boat carrying 140 asylum seekers was intercepted and brought ashore. It is thought to be the first time such a ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,25 +137,25 @@
         "category": "climate"
       },
       {
-        "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
-        "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
-        "description": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
+        "title": "Pioneering fossil hunter recognised with blue plaque",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zx1v8ye3o?at_medium=RSS&at_campaign=rss",
+        "description": "Dorothea Bate discovered the dwarf elephant and the myotragus, an extinct goat-like antelope.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
-        "title": "‘Powerful example’: minister looks to Essex school for blueprint to transform Send provision",
-        "url": "https://www.theguardian.com/education/2026/sep/06/minister-looks-to-essex-school-blueprint-transform-send-provision",
-        "description": "Georgia Gould says moving system towards inclusion will mean parents ‘don’t need to fight’ for support in futurePupils with Send plans in England likely to double in rush for supportGeorgia Gould i...",
+        "title": "Pupils with Send plans in England likely to double to one in 10 in rush for support",
+        "url": "https://www.theguardian.com/education/2026/sep/06/schools-england-report-surge-send-applications",
+        "description": "Schools and councils express financial concerns as EHCP applications surge before potential change in provision‘Powerful example’: minister looks to Essex school for blueprint to transform Send pro...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Pupils with Send plans in England likely to double to one in 10 in rush for support",
-        "url": "https://www.theguardian.com/education/2026/sep/06/schools-england-report-surge-send-applications",
-        "description": "Schools and councils express financial concerns as EHCP applications surge before potential change in provision‘Powerful example’: minister looks to Essex school for blueprint to transform Send pro...",
+        "title": "‘Powerful example’: minister looks to Essex school for blueprint to transform Send provision",
+        "url": "https://www.theguardian.com/education/2026/sep/06/minister-looks-to-essex-school-blueprint-transform-send-provision",
+        "description": "Georgia Gould says moving system towards inclusion will mean parents ‘don’t need to fight’ for support in futurePupils with Send plans in England likely to double in rush for supportGeorgia Gould i...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "England’s housing courts at breaking point as renters battle no-fault evictions",
+        "url": "https://www.theguardian.com/society/2026/sep/07/englands-housing-courts-at-breaking-point-as-renters-battle-no-fault-evictions",
+        "description": "Courts said to be ‘overloaded’ as landlords sell properties and tenants with nowhere to go try to delay evictionsIt is a Wednesday afternoon at Stratford housing court, and every seat in the waitin...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Rejecting the new town in Enfield isn’t nimbyism | Letter",
         "url": "https://www.theguardian.com/society/2026/sep/06/rejecting-the-new-town-in-enfield-isnt-nimbyism",
         "description": "The risks of building on the green belt include increased flooding, loss of access to nature and high car-dependency, writes Kathrin SpinnlerPolly Toynbee’s article about the proposed new town in E...",
@@ -181,34 +188,27 @@
         "description": "We’d like to hear from people in the UK who have abandoned or delayed plans to get on the property ladderUK house prices rose for the first time in four months in August, while mortgage approvals f...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "The Guardian view on loneliness: the decline in friendship leaves gen Z exposed | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/01/the-guardian-view-on-loneliness-the-decline-in-friendship-leaves-gen-z-exposed",
-        "description": "Problems with housing, jobs and technology have dented young people’s confidence in the future and each otherHope, Raye told a crowd at Reading festival on Saturday, was the theme of a set inspired...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-        "description": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
+        "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+        "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
+        "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
-        "description": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+        "title": "Israeli strikes in southern Lebanese village kill nine",
+        "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
+        "description": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
-        "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-        "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+        "title": "New videos of man in 9/11 lawsuit reveal extremist links",
+        "url": "https://www.bbc.co.uk/news/articles/cr4vn1e207go?at_medium=RSS&at_campaign=rss",
+        "description": "The footage and other evidence the FBI failed to share undermine Omar al-Bayoumi's 25 years of denials.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
