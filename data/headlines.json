@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-09-06T20:00:47.331511+00:00",
+  "fetched_at": "2026-09-07T02:59:35.695763+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Hundreds of far-right protesters descend on Portsmouth after small boat arrival",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival",
+        "description": "Influencer livestreams event calling for men to travel to port to block coaches carrying asylum seekers from leavingHundreds of far-right activists have descended on Portsmouth, where a small boat ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Black-clad Dover vigilantes will return if police do not act, say campaigners",
         "url": "https://www.theguardian.com/politics/2026/sep/06/black-clad-dover-protesters-condemned-for-dressing-up-in-costumes-by-minister",
@@ -13,13 +20,6 @@
         "title": "Undercover report on donations ‘looks bad’ for Reform, admits Nigel Farage – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/06/nigel-farage-reform-uk-donations-undercover-investigation-latest-news-updates",
         "description": "The Reform UK leader is under pressure after senior aides appeared to plot how to bypass electoral laws on foreign donationsSagal Abdi-Wali arrived in Camden as a child refugee from Somalia. She ha...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Zia Yusuf’s post about Camden council leader is ‘straightforward racism’, says minister",
-        "url": "https://www.theguardian.com/politics/2026/sep/06/zia-yusuf-reform-uk-post-camden-council-leader-sagal-abdi-wali",
-        "description": "Senior Reform UK figure has faced criticism within party after post about Sagal Abdi-Wali, a former child refugeeLabour has accused Reform’s Zia Yusuf of “straightforward racism” after he suggested...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Minister to meet Jaguar Land Rover boss as thousands of job cuts expected",
-        "url": "https://www.bbc.co.uk/news/articles/crer948xq00o?at_medium=RSS&at_campaign=rss",
-        "description": "The company is struggling with the impact of tariffs as well as the fallout from a major cyber attack last year.",
+        "title": "Chancellor to say UK economy 'turning a corner' despite debt concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cgjqg450w28o?at_medium=RSS&at_campaign=rss",
+        "description": "John Healey will detail plans to spread growth more widely across the UK, ahead of his first Budget.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Almost 75% of A&E staff in UK face violence or aggression daily or weekly",
+        "url": "https://www.theguardian.com/society/2026/sep/07/nhs-a-and-e-staff-violence-aggression-survey",
+        "description": "Survey finds long waiting times and overcrowding have made abuse ‘routine’ part of working on hospital frontlineNearly three-quarters of A&E staff experience violence or aggression daily or weekly,...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Alzheimer’s trial to test drug on people without symptoms to see if it can be prevented",
         "url": "https://www.theguardian.com/society/2026/sep/05/alzheimers-trial-drug-dementia",
@@ -77,21 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "An autism or ADHD diagnosis without access to treatment is a hollow outcome | Letter",
-        "url": "https://www.theguardian.com/society/2026/sep/02/an-autism-or-adhd-diagnosis-without-access-to-treatment-is-a-hollow-outcome",
-        "description": "Helen Macdonald responds to a report by the parliamentary and health service ombudsmanThe parliamentary and health service ombudsman’s findings are stark and sadly familiar (Autism and ADHD care co...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "How hunger for a new weight-loss drug is feeding an industry of fakes",
-        "url": "https://www.bbc.co.uk/news/articles/cwyz7lrwqdyo?at_medium=RSS&at_campaign=rss",
-        "description": "Dupes of retatrutide are flooding the black market, but the drug is yet to be approved by regulators.",
+        "title": "BBC News presenter reveals she has blood cancer",
+        "url": "https://www.bbc.co.uk/news/articles/cx2zkyl7kwyo?at_medium=RSS&at_campaign=rss",
+        "description": "Maryam Moshiri tells the BBC she wanted to reveal her diagnosis to raise awareness about the cancer.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Hundreds of far-right protesters descend on Portsmouth after small boat arrival",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/06/far-right-protesters-descend-on-portsmouth-after-small-boat-arrival",
+        "description": "Influencer livestreams event calling for men to travel to port to block coaches carrying asylum seekers from leavingHundreds of far-right activists have descended on Portsmouth, where a small boat ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Black-clad Dover vigilantes will return if police do not act, say campaigners",
         "url": "https://www.theguardian.com/politics/2026/sep/06/black-clad-dover-protesters-condemned-for-dressing-up-in-costumes-by-minister",
@@ -103,13 +110,6 @@
         "title": "Sir Andrew Nicol obituary",
         "url": "https://www.theguardian.com/law/2026/sep/06/sir-andrew-nicol-obituary",
         "description": "Barrister and judge with one of the finest minds available to immigrants and journalists in peril in the courtsSir Andrew Nicol, who has died aged 75, did much to enhance the defence of civil liber...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Gaza refugee says sister-in-law ‘would be alive’ if Home Office had let her come to UK",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/05/gaza-refugee-visa-refusal-home-office",
-        "description": "Anwar, who lives in Glasgow, says Home Office refused visa application despite Maryam having cancerA man living in the UK has said he believes his sister-in-law who died from cancer in Gaza would s...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
-        "url": "https://www.bbc.co.uk/news/articles/cm274p8m88lo?at_medium=RSS&at_campaign=rss",
-        "description": "Are people going to have to increasingly accept more delays and diversions as the effects of climate change intensify?",
+        "title": "The volunteers risking their lives to defuse Indonesia's wildfire 'carbon bombs'",
+        "url": "https://www.bbc.co.uk/news/articles/c1kx4lgy4z4o?at_medium=RSS&at_campaign=rss",
+        "description": "Peat fires in Borneo are releasing ancient stores of carbon - and sending a toxic smog across South East Asia.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+        "description": "Germany's AfD hails a \"historic result\" and is projected to win 44% of the vote in Saxony-Anhalt, far ahead of the conservatives on 17%.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Five dead after Amazon cargo plane crashes at Miami airport",
+        "url": "https://www.bbc.co.uk/news/articles/c0e3p1j7n3ro?at_medium=RSS&at_campaign=rss",
+        "description": "Five people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
         "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-        "description": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "German far-right set for big win in eastern state, projections show",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-        "description": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-        "url": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
-        "description": "More than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
+        "description": "There was no announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
