@@ -1,48 +1,41 @@
 {
-  "fetched_at": "2026-09-08T10:37:05.057354+00:00",
+  "fetched_at": "2026-09-08T16:00:46.401130+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK plan to sanction illegal Israeli settlements draws criticism from US, Israel and British MPs – UK politics live",
+        "title": "Israel to close UK consulate in Jerusalem after sanctions against illegal settlements – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
-        "description": "UK to reassert support for Palestinian rights and a two-state solution in move drawing widespread criticismUK to adopt tougher stance on Israel with illegal settlements trade banThe Liberal Democra...",
+        "description": "Foreign minister, Gideon Saar, claims UK ‘systemically working against the state of Israel’ as MPs including Jeremy Corbyn are also banned from countryUK accuses Israeli ‘terrorists’ of ethnic clea...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Low turnout threatens Commons vote on assisted dying, say MPs",
-        "url": "https://www.theguardian.com/society/2026/sep/08/low-turnout-threatens-commons-vote-on-assisted-dying-say-mps",
-        "description": "Backers seek support for second attempt to get law through House of Lords after ‘undemocratic’ rejection last yearMPs on both sides of the assisted dying debate have voiced fears about turnout affe...",
+        "title": "UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government backing",
+        "url": "https://www.theguardian.com/world/2026/sep/08/uk-accuses-israeli-terrorists-ethnic-cleansing-west-bank-government-backing",
+        "description": "In strongest condemnation ever by UK government, Ed Miliband announces sweeping sanctions on trade with Israeli settlementsUK politics live – latest updatesIsraeli “terrorists” are conducting ethni...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK to adopt tougher stance on Israel with illegal settlements trade ban",
-        "url": "https://www.theguardian.com/politics/2026/sep/07/ed-miliband-reset-uk-relations-israel-palestine",
-        "description": "Ed Miliband to reassert support for Palestinian rights and a two-state solution in move fiercely criticised by US and IsraelEd Miliband will announce a broad reset of the UK’s relations with Israel...",
+        "title": "UK commits £100m to bolster Ukraine’s air defences over winter",
+        "url": "https://www.theguardian.com/politics/2026/sep/08/uk-commits-100m-bolster-ukraine-air-defences-russia-war",
+        "description": "Package of military equipment includes Patriot missiles, supplies of which have dwindled amid Russian attacksThe UK has committed £100m to boost Ukraine’s air defences over winter by buying a packa...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK government expected to announce restrictions on trade with West Bank settlements",
-        "url": "https://www.bbc.co.uk/news/articles/c4grdjnle22o?at_medium=RSS&at_campaign=rss",
-        "description": "Foreign Secretary Ed Miliband is set to outline the proposals today, in a move which could prompt Israel to retaliate.",
+        "title": "Reform UK would ban full-face coverings in public",
+        "url": "https://www.bbc.co.uk/news/articles/c8d36dmmzzlo?at_medium=RSS&at_campaign=rss",
+        "description": "It comes after masked men gathered in Dover to protest against small boat crossings.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "John Healey backs growth but says Labour must be honest on spending",
-        "url": "https://www.theguardian.com/business/2026/sep/07/john-healey-growth-labour-spending-raise-taxes",
-        "description": "Chancellor ducks questions on whether he will have to raise taxes but says he will stick firmly to fiscal rulesJohn Healey has said boosting economic growth will be his defining mission as chancell...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil price approaches $100 a barrel after Saudi oil facilities attacked; UK mortgage rates highest since June – business live",
+        "title": "Recovery from UK flight disruption ‘will take some time’ after almost 300 flight cancellations – business live",
         "url": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
-        "description": "Saudi authorities said operations at some energy facilities have been attacked ‌by Yemen’s Iran-aligned Houthis Gas prices are rising this morning, putting pressure on European countries who need t...",
+        "description": "National Air Traffic Services apologise for technical issue disrupting departures today, which Flightradar24 say has caused nearly 300 cancellations Air traffic control issue causes flight delays a...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +47,16 @@
         "category": "economy"
       },
       {
-        "title": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-        "url": "https://www.bbc.co.uk/news/articles/c0m39g7xzevo?at_medium=RSS&at_campaign=rss",
-        "description": "Arm Holding's chief executive Rene Haas says artificial intelligence will find a solution to the disease.",
+        "title": "Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
+        "description": "Sarah Jones tells MPs ‘those responsible should expect to face the consequences’Healey says Andy Burnham set out in his statement to MPs last week what he thought had gone wrongThe fundamentals of ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Borrowers expecting mortgage rates to drop have hopes dashed",
+        "url": "https://www.bbc.co.uk/news/articles/c770v7y63r0o?at_medium=RSS&at_campaign=rss",
+        "description": "Major lenders have raised rates on new deals in recent days, leaving many borrowers needing to make a decision.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,32 +84,32 @@
         "category": "nhs"
       },
       {
-        "title": "A&E did not get the basics right - my son's life was ruined at 32",
-        "url": "https://www.bbc.co.uk/news/articles/cqlw0ke2v97o?at_medium=RSS&at_campaign=rss",
-        "description": "Oli's experience is one of a growing number of clinical negligence claims being made in England, BBC analysis shows.",
+        "title": "Public opposed to disability benefit cuts, major survey suggests",
+        "url": "https://www.bbc.co.uk/news/articles/c4grdk95vgno?at_medium=RSS&at_campaign=rss",
+        "description": "Around 7% of those polled wanted disability benefit cuts, according to the latest British Social Attitudes survey.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
+        "title": "Police were told night before Dover unrest that far-right agitators had converged on village",
+        "url": "https://www.theguardian.com/world/2026/sep/08/kent-police-dover-unrest-far-right-village",
+        "description": "Details passed to Kent police after far-right activists heard in pub boasting about going to to Dover to ‘attack Muslims’Police were told the night before far-right agitators blocked roads into Dov...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Fourteen men go on trial in Paris over deadliest small-boat Channel crossing",
+        "url": "https://www.theguardian.com/world/2026/sep/08/paris-trial-deadliest-channel-small-boat-crossing",
+        "description": "Sinking of inflatable dinghy in 2021 resulted in 31 people dead or missing, including a seven-year-old childFourteen men have gone on trial in Paris over the deaths of at least 31 people in the wor...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "‘Army of Christian patriots’: how a black-clad vigilante group swarmed Portsmouth",
         "url": "https://www.theguardian.com/politics/ng-interactive/2026/sep/08/how-a-black-clad-christian-vigilante-group-swarmed-portsmouth",
         "description": "Daniel Thomas has spent months trying to unify the UK’s disparate far right to form a disciplined anti-migrant forceJust a few days ago, Daniel “Tommo” Thomas let a group of fellow far-right sympat...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Police used batons and pepper spray on far-right protesters in Portsmouth unrest",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/07/police-used-batons-and-pepper-spray-on-far-right-protesters-in-portsmouth-unrest",
-        "description": "Minister condemns groups behind Hampshire disorder and says officers were injured as they repelled ‘aggression’Batons and synthetic pepper spray were used to repel hundreds of masked, black-clad vi...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Policing minister makes statement on ‘intimidating and thuggish’ anti-migrant protests – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/07/uk-politics-live-john-healey-economy-portsmouth-immigration-protests-latest-news-updates",
-        "description": "Sarah Jones tells MPs ‘those responsible should expect to face the consequences’Healey says Andy Burnham set out in his statement to MPs last week what he thought had gone wrongThe fundamentals of ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
-        "title": "England’s teenagers outperform peers in most countries in maths, reading and science",
-        "url": "https://www.theguardian.com/education/2026/sep/08/england-teenagers-outperform-peers-in-most-countries-in-maths-reading-and-science",
-        "description": "OECD test sees results dip in almost all member nations and warns of ‘digital distractions’ eroding academic skills England’s teenagers are outperforming their peers in most countries in maths, rea...",
+        "title": "Israel to close UK consulate in Jerusalem after sanctions against illegal settlements – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
+        "description": "Foreign minister, Gideon Saar, claims UK ‘systemically working against the state of Israel’ as MPs including Jeremy Corbyn are also banned from countryUK accuses Israeli ‘terrorists’ of ethnic clea...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Australia’s classroom disruption among worst in world, prompting calls for ‘digital detox’",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/08/australia-pisa-2025-test-score-results-national-decline-reading-maths",
-        "description": "Public school students are the equivalent of two and a half years behind their independent peers, as global report shows decline in reading and mathsGet our breaking news email, free app or daily n...",
+        "title": "Want to borrow a dinosaur fossil? Try California’s one-of-a-kind taxidermy lending library",
+        "url": "https://www.theguardian.com/us-news/2026/sep/08/san-diego-taxidermy-museum",
+        "description": "A natural history museum lets residents take home 1,400 specimens, from bobcats and beetles to snakes in jarsOn a hot afternoon in August, I walked out of the San Diego Natural History Museum carry...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Pupils with Send plans in England likely to double to one in 10 in rush for support",
-        "url": "https://www.theguardian.com/education/2026/sep/06/schools-england-report-surge-send-applications",
-        "description": "Schools and councils express financial concerns as EHCP applications surge before potential change in provision‘Powerful example’: minister looks to Essex school for blueprint to transform Send pro...",
+        "title": "Students are suffering from US colleges’ shaky finances. Trump policies are making everything worse",
+        "url": "https://www.theguardian.com/education/2026/sep/08/us-colleges-financial-trouble-trump-policies",
+        "description": "Many four-year colleges will resort to laying off faculty, cutting services and increasing prices amid financial stressNalia Mutz started her freshman year at the University of Lynchburg in 2022 kn...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
+        "title": "Carney says US trade war 'will come at a cost' as Canada strikes back on tariffs",
         "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-        "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
+        "description": "Canada's levies - as high as 50% - will apply to nearly $20bn of US products, from steel to T-shirts.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Eiffel Tower shut by staff protest after female workers moved for religious visit",
-        "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-        "description": "An investigation will be launched into the incident, which left female employees \"humiliated\", a union representative says.",
+        "title": "Four Renoir paintings worth millions stolen in French museum heist",
+        "url": "https://www.bbc.co.uk/news/articles/c70drp0pyw2o?at_medium=RSS&at_campaign=rss",
+        "description": "It is the latest in a string of high-profile art thefts in Europe that has again put the security of museums and galleries in the spotlight.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
-        "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
-        "description": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+        "title": "Argentina to file criminal case against oil company operating in Falklands",
+        "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
+        "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
