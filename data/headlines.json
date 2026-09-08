@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-07T21:08:04.272484+00:00",
+  "fetched_at": "2026-09-08T03:09:24.214660+00:00",
   "headlines": {
     "government": [
       {
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Next wins key appeal to overturn £30m equal pay ruling",
-        "url": "https://www.bbc.co.uk/news/articles/c05r61rqe4yo?at_medium=RSS&at_campaign=rss",
-        "description": "A judge ruled Next can pay warehouse workers more because it is harder to recruit and retain them.",
+        "title": "'I performed on stage to get my first job' - the firms turning recruitment into competitions",
+        "url": "https://www.bbc.co.uk/news/articles/cgk43mn42g7o?at_medium=RSS&at_campaign=rss",
+        "description": "Applicants have to pitch their ideas on stage in front of a panel of judges and an audience. But is this exciting or unfair?",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
-        "title": "French winemakers forecast 30-year low harvest after severe drought and heat",
-        "url": "https://www.theguardian.com/world/2026/sep/07/french-winemakers-forecast-30-year-low-harvest-after-severe-drought-and-heat",
-        "description": "Estimates suggest drop in production with vineyards also concerned ‘smoke taint’ from wildfires may affect qualityFrench vineyards hit by severe drought and heatwaves are expected to report a 30-ye...",
+        "title": "Nepal says big polluters must ‘wake up’ as it calls for climate compensation over flood disaster",
+        "url": "https://www.theguardian.com/world/2026/sep/08/nepal-floods-climate-compensation",
+        "description": "Foreign minister Shisir Khanal tells the Guardian the world’s biggest economies need to help Nepal, which contributes less than 0.1% of global greenhouse gas emissions Nepal is demanding $20m in cl...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Record strength El Niño could mean bigger supermarket bills for Australians, experts warn",
-        "url": "https://www.theguardian.com/business/2026/sep/08/record-strength-el-nino-could-mean-bigger-supermarket-bills-for-australians-experts-warn",
-        "description": "Predicted hot and dry weather in growing areas in eastern Australia identified as ‘one of the key issues’ that will affect food prices over next 12 monthsGet our breaking news email, free app or da...",
+        "title": "Global move away from oil could lead to conflict and migration, experts say",
+        "url": "https://www.theguardian.com/environment/2026/sep/08/global-move-away-from-oil-could-lead-to-conflict-and-migration-experts-say",
+        "description": "Researchers urge governments to help worst afflicted countries, such as Nigeria and Algeria, which rely on oil revenues for public servicesConflict, migration and economic upheaval will accompany t...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Heatwaves and wildfires are setting back air quality improvements, UN finds",
-        "url": "https://www.theguardian.com/environment/2026/sep/07/heatwaves-wildfires-setting-back-air-quality-improvements-un-finds",
-        "description": "WMO report details extreme weather events causing climatic feedback loop with serious health consequencesBig increases in wildfires and heatwaves supercharged by the climate crisis are hindering im...",
+        "title": "Cities in Great Britain most vulnerable to extreme heat revealed",
+        "url": "https://www.theguardian.com/environment/2026/sep/08/cities-great-britain-most-vulnerable-extreme-heat-revealed",
+        "description": "OS index examines which ‘urban heat islands’ suffer the most – and which cope the best with rising temperaturesPortsmouth, Leicester, Exeter, Bristol and Nottingham will be among the cities that wa...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+        "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+        "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Palestinian parents fear for children's lives at school as settler attacks grow",
+        "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+        "description": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
         "url": "https://www.bbc.co.uk/news/articles/cpd0113082eo?at_medium=RSS&at_campaign=rss",
         "description": "The far-right party is trying to form a government in the state after falling three seats short of a majority.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić",
-        "url": "https://www.bbc.co.uk/news/articles/cn5dkk7yw74o?at_medium=RSS&at_campaign=rss",
-        "description": "Mladić was jailed for genocide during the 1990s Bosnian war and the EU warned Serbia not to glorify the convicted war criminal.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Israeli strikes in southern Lebanese village kill 12",
-        "url": "https://www.bbc.co.uk/news/articles/c5yl96vz0edo?at_medium=RSS&at_campaign=rss",
-        "description": "Lebanon says a recent Israeli escalation is jeopardising a US-brokered ceasefire meant to end the conflict between Israel and Hezbollah.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
