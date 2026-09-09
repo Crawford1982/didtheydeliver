@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-09T15:57:53.336631+00:00",
+  "fetched_at": "2026-09-09T20:26:45.283230+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reform UK says it will ‘fully cooperate’ with Met after inquiry launched into alleged overseas donations – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
-        "description": "Party denies wrongdoing after Scotland Yard confirms it is investigating allegations broadcast by Channel 4 after undercover stingAlex Burghart, the deputy Tory leader, was giving interviews this m...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "Met police launch inquiry into alleged overseas donations to Reform UK",
         "url": "https://www.theguardian.com/politics/2026/sep/09/met-police-launch-inquiry-into-alleged-overseas-donations-to-reform-uk",
-        "description": "Scotland Yard confirms it is investigating allegations broadcast by Channel 4 after undercover stingUK politics live – latest updatesThe Met police will investigate allegations that Reform UK broke...",
+        "description": "Scotland Yard confirms it is investigating allegations broadcast by Channel 4 News after undercover stingThe financial scandal around Reform UK has deepened as police expanded their investigation i...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Polanski calls for report on ecosystem collapse to be published in full",
-        "url": "https://www.theguardian.com/politics/2026/sep/09/zack-polanski-calls-report-ecosystem-collapse-published-greens",
-        "description": "Green leader says ministers must stop ‘hiding the truth’ about threat to UK security from climate and nature crisisZack Polanski has challenged Andy Burnham’s government to publish an unredacted ve...",
+        "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
+        "url": "https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements",
+        "description": "Spiritual leaders stress diversity of views within Jewish community and warn against inaction on settler violence‘It’s a good start’: prominent Israelis welcome UK sanctionsProminent British rabbis...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Reform UK says it will ‘fully cooperate’ with Met after inquiry launched into alleged overseas donations – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
+        "description": "Party denies wrongdoing after Scotland Yard confirms it is investigating allegations broadcast by Channel 4 after undercover stingAlex Burghart, the deputy Tory leader, was giving interviews this m...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "Bond market rebuffs US treasury’s plan to buy back $6bn in government debt",
+        "url": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
+        "description": "Scott Bessent made announcement on Wednesday as bond yields rose to highest point since 2008 financial crisisUS politics live – latest updatesThe US treasury moved to cut the cost of borrowing on W...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "The global causes of UK bond market blues | Letter",
+        "url": "https://www.theguardian.com/business/2026/sep/09/the-global-causes-of-uk-bond-market-blues",
+        "description": "Most media outlets portray current economic pressures as a specifically British problem. That’s not the case, writes Neil KinnockI recall that from the Cameron/Osborne government, and for years aft...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "EU unveils ‘buy European’ public procurement rules to counter China",
         "url": "https://www.theguardian.com/world/2026/sep/09/eu-buy-european-public-procurement-rules-china-goods-services",
         "description": "Authorities and public bodies to be urged to buy goods and services from Europe, but without binding quotasEuropean authorities will be encouraged to buy more domestic goods and services when they ...",
@@ -40,30 +54,16 @@
         "category": "economy"
       },
       {
-        "title": "Electronic shelf labels likely to cost jobs and drive up grocery prices, US report warns",
-        "url": "https://www.theguardian.com/us-news/2026/sep/09/electronic-shelf-labels-grocery",
-        "description": "AFL-CIO calls for ban on such labels to protect consumers and workers from surveillance pricing and job cutsThe universal adoption of electronic shelf labels in grocery stores across the US could c...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Ministers to put white working-class people in UK at heart of new equalities unit",
-        "url": "https://www.theguardian.com/inequality/2026/sep/09/ministers-to-put-white-working-class-people-in-uk-at-heart-of-new-equalities-unit",
-        "description": "Bridget Phillipson to announce creation of unit which will make class a key part of its equalities agendaUK politics live – latest updatesThe government is putting class at the heart of its equalit...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Learner drivers still forced to wait months to book tests",
-        "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
-        "description": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
+        "title": "Air traffic failure was avoidable, says transport secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
+        "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "Reform UK says it will ‘fully cooperate’ with Met after inquiry launched into alleged overseas donations – UK politics live",
+        "title": "Reform UK says it will ‘fully cooperate’ with Met after inquiry launched into alleged overseas donations – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
         "description": "Party denies wrongdoing after Scotland Yard confirms it is investigating allegations broadcast by Channel 4 after undercover stingAlex Burghart, the deputy Tory leader, was giving interviews this m...",
         "source": "The Guardian",
@@ -93,30 +93,37 @@
     ],
     "immigration": [
       {
-        "title": "‘Their boat was sinking’: RNLI vows to keep rescuing asylum seekers despite attacks",
+        "title": "Police working to protect RNLI in Dorset amid opposition to small boat rescues",
         "url": "https://www.theguardian.com/world/2026/sep/09/their-boat-was-sinking-rnli-vows-to-keep-rescuing-asylum-seekers-despite-attacks",
-        "description": "Charity emphasises small boat rescues are tiny part of its work and speaks out after volunteers abused by far right The lifeboat charity RNLI has vowed to continue to rescue asylum seekers in the C...",
+        "description": "Charity vows to keep helping asylum seekers in Channel despite rightwing abuse as protesters gather outside HQThree police forces on the south coast of England are working to protect lifeboat volun...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "RNLI boss condemns recent abuse directed at its volunteers - video",
-        "url": "https://www.theguardian.com/world/video/2026/sep/09/rnli-boss-far-right-abuse-volunteers-video",
-        "description": "The Royal National Lifeboat Institution's chief executive, Peter Sparkes, has addressed deliberate misinformation circulating about the organisation's purpose and lifesaving work after far-right ag...",
+        "title": "Ella Baron on the abuse of RNLI volunteers in Portsmouth – cartoon",
+        "url": "https://www.theguardian.com/commentisfree/picture/2026/sep/09/ella-baron-abuse-rnli-portsmouth-cartoon",
+        "description": "Continue reading...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Far-right port protests: police told to improve intelligence gathering",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/08/far-right-port-protests-police-intelligence-gathering-dover-portsmouth",
-        "description": "Whitehall officials ask why laws meant to clamp down on mask wearing at demonstrations were not usedPolice have been told by the government they expect better intelligence gathering after masked fa...",
+        "title": "Reform UK says it will ‘fully cooperate’ with Met after inquiry launched into alleged overseas donations – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
+        "description": "Party denies wrongdoing after Scotland Yard confirms it is investigating allegations broadcast by Channel 4 after undercover stingAlex Burghart, the deputy Tory leader, was giving interviews this m...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Reform UK says it will ‘fully cooperate’ with Met after inquiry launched into alleged overseas donations – UK politics live",
+        "title": "Cities in Great Britain most vulnerable to extreme heat revealed",
+        "url": "https://www.theguardian.com/environment/2026/sep/08/cities-great-britain-most-vulnerable-extreme-heat-revealed",
+        "description": "OS index examines which ‘urban heat islands’ suffer the most – and which cope the best with rising temperaturesPortsmouth, Leicester, Exeter, Bristol and Nottingham will be among the cities that wa...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Reform UK says it will ‘fully cooperate’ with Met after inquiry launched into alleged overseas donations – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
         "description": "Party denies wrongdoing after Scotland Yard confirms it is investigating allegations broadcast by Channel 4 after undercover stingAlex Burghart, the deputy Tory leader, was giving interviews this m...",
         "source": "The Guardian",
@@ -126,13 +133,6 @@
         "title": "Peter’s farm is on ‘flood country’. As Australia’s sea levels rise, safe land is vanishing and costs are huge",
         "url": "https://www.theguardian.com/environment/2026/sep/10/peters-farm-is-on-flood-country-as-australias-sea-levels-rise-safe-land-is-vanishing-and-costs-are-huge",
         "description": "Climate Council forecasts more than 267,000 coastal properties will be damaged by flooding by 2100, costing hundreds of billions of dollarsGet our breaking news email, free app or daily news podcas...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Polanski calls for report on ecosystem collapse to be published in full",
-        "url": "https://www.theguardian.com/politics/2026/sep/09/zack-polanski-calls-report-ecosystem-collapse-published-greens",
-        "description": "Green leader says ministers must stop ‘hiding the truth’ about threat to UK security from climate and nature crisisZack Polanski has challenged Andy Burnham’s government to publish an unredacted ve...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
-        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-        "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+        "title": "Google picks Finland for its largest single investment in Europe",
+        "url": "https://www.bbc.co.uk/news/articles/c8r6y4me2g6o?at_medium=RSS&at_campaign=rss",
+        "description": "The US tech giant says the €13bn data centre project will create tens of thousands of jobs.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
-        "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-        "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+        "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
         "source": "BBC News",
         "category": "foreign_policy"
       }
