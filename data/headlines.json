@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-09-09T03:11:29.912506+00:00",
+  "fetched_at": "2026-09-09T10:47:23.692645+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Inside Reform UK – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/sep/09/inside-reform-uk-podcast",
-        "description": "Today in Focus heads to the embattled 2026 Reform UK Conference to find out where the party may head nextFor months, Reform UK’s momentum has stalled – beset by financial scandals, falling poll num...",
+        "title": "Miliband defends sanctions on Israeli settlements and pushes back against chief rabbi’s criticism – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
+        "description": "UK foreign secretary ‘regrets’ Israel’s response to ban on trade with illegal settlements but ‘proud’ of his actionsUK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with government ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Far-right port protests: police told to improve intelligence gathering",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/08/far-right-port-protests-police-intelligence-gathering-dover-portsmouth",
-        "description": "Whitehall officials ask why laws meant to clamp down on mask wearing at demonstrations were not usedPolice have been told by the government they expect better intelligence gathering after masked fa...",
+        "title": "Reform insists National Rally agreed migrant policy after backlash in France",
+        "url": "https://www.theguardian.com/world/2026/sep/09/reform-uk-national-rally-migrants-deal-farage-bardella",
+        "description": "Critics say agreement between Nigel Farage and Jordan Bardella to return migrants to France goes against France’s ‘interests and sovereignty’Reform UK has insisted its deal with France’s far-right ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham says Britain will ‘continue to act in support of our values’ after UK launches sanctions on Israel – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
-        "description": "Israel’s foreign minister, Gideon Saar, earlier claimed that the UK was ‘systemically working against the state of Israel’ UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with gove...",
+        "title": "Polanski calls for report on ecosystem collapse to be published in full",
+        "url": "https://www.theguardian.com/politics/2026/sep/09/zack-polanski-calls-report-ecosystem-collapse-published-greens",
+        "description": "Green leader says ministers must stop ‘hiding the truth’ about threat to UK security from climate and nature crisisZack Polanski will challenge Andy Burnham’s government to publish an unredacted ve...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-        "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+        "title": "Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions",
+        "url": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss",
+        "description": "It is hoped that coordinated action minimises the blowback to any one country from Israel or America, our political editor writes.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Ministers to put white working-class people in UK at heart of new equalities unit",
+        "url": "https://www.theguardian.com/inequality/2026/sep/09/ministers-to-put-white-working-class-people-in-uk-at-heart-of-new-equalities-unit",
+        "description": "Bridget Phillipson to announce creation of unit which will make class a key part of its equalities agendaUK politics live – latest updatesThe government is putting class at the heart of its equalit...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "More than 600 UK flights cancelled after air traffic control ‘technical issue’ – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/sep/08/oil-price-approaches-100-a-barrel-saudi-attacks-bank-of-england-latest-news-updates",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "‘Trust deficit’: Why India’s economic data has sparked a furore",
-        "url": "https://www.theguardian.com/world/2026/sep/07/why-indias-economic-data-faces-a-trust-deficit",
-        "description": "India’s statistical system once commanded respect, and its data on economic and social indicators was considered rigorous – that appears to have eroded• Don’t get This is India delivered to your in...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-        "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-        "description": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+        "title": "Learner drivers still waiting 20 weeks to book tests",
+        "url": "https://www.bbc.co.uk/news/articles/cx2z421xe0zo?at_medium=RSS&at_campaign=rss",
+        "description": "The Driver and Vehicle Standards Agency had been given a target to reduce average wait times to seven weeks.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Polanski calls for report on ecosystem collapse to be published in full",
+        "url": "https://www.theguardian.com/politics/2026/sep/09/zack-polanski-calls-report-ecosystem-collapse-published-greens",
+        "description": "Green leader says ministers must stop ‘hiding the truth’ about threat to UK security from climate and nature crisisZack Polanski will challenge Andy Burnham’s government to publish an unredacted ve...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Nepal says big polluters must ‘wake up’ as it calls for climate compensation over flood disaster",
         "url": "https://www.theguardian.com/world/2026/sep/08/nepal-floods-climate-compensation",
         "description": "Foreign minister Shisir Khanal tells the Guardian the world’s biggest economies need to help Nepal, which contributes less than 0.1% of global greenhouse gas emissions Nepal is demanding $20m in cl...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Cities in Great Britain most vulnerable to extreme heat revealed",
-        "url": "https://www.theguardian.com/environment/2026/sep/08/cities-great-britain-most-vulnerable-extreme-heat-revealed",
-        "description": "OS index examines which ‘urban heat islands’ suffer the most – and which cope the best with rising temperaturesPortsmouth, Leicester, Exeter, Bristol and Nottingham will be among the cities that wa...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii",
         "url": "https://www.bbc.co.uk/news/videos/c2079ne1xx6o?at_medium=RSS&at_campaign=rss",
         "description": "The storm brought damaging winds and torrential rain to parts of the island on Monday and Tuesday, triggering concerns about flash flooding and mudslides.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Babies born to anaemic mothers have smaller brains, study finds",
+        "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
+        "description": "Key regions of the brain linked to movement, learning and emotions were affected and may lead to cognitive problems Babies born to mothers with anaemia have smaller brains, particularly in key regi...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Burnham says Britain will ‘continue to act in support of our values’ after UK launches sanctions on Israel – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
@@ -156,13 +163,6 @@
         "title": "Want to borrow a dinosaur fossil? Try California’s one-of-a-kind taxidermy lending library",
         "url": "https://www.theguardian.com/us-news/2026/sep/08/san-diego-taxidermy-museum",
         "description": "A natural history museum lets residents take home 1,400 specimens, from bobcats and beetles to snakes in jarsOn a hot afternoon in August, I walked out of the San Diego Natural History Museum carry...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Students are suffering from US colleges’ shaky finances. Trump policies are making everything worse",
-        "url": "https://www.theguardian.com/education/2026/sep/08/us-colleges-financial-trouble-trump-policies",
-        "description": "Many four-year colleges will resort to laying off faculty, cutting services and increasing prices amid financial stressNalia Mutz started her freshman year at the University of Lynchburg in 2022 kn...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-        "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
-        "description": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+        "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+        "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
-        "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-        "description": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
+        "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
         "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-        "description": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+        "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Tycoon to pay ex-wife $1.87bn in record South Korea divorce settlement",
+        "url": "https://www.bbc.co.uk/news/articles/c05re9qg09ro?at_medium=RSS&at_campaign=rss",
+        "description": "The billion dollar payout marks the largest divorce settlement in the country's history.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
