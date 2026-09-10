@@ -1,30 +1,30 @@
 {
-  "fetched_at": "2026-09-10T10:39:25.258177+00:00",
+  "fetched_at": "2026-09-10T15:51:17.685200+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Hospitality industry fears jobs at risk from plan to give mayors powers to impose ‘tourist tax’",
+        "title": "Visitor levy powers should be in place by March 2028 in England, ministers say – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/10/andy-burnham-hospitality-row-mayors-tourism-tax-levy-regional-mayors-education-ukraine-russia-latest-news-updates",
-        "description": "The sector is concerned by reports that there won’t be a cap on the levy that can be imposed by mayorsKemi Badenoch made her claim about her policies not being likely to increase homelessness (see ...",
+        "description": "Downing Street gives more details of plan, saying it would be charged as a percentage of accommodation costs, not a flat feeTourists in England face nightly levy on hotel and Airbnb stays under new...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Tourists in England face nightly levy on hotel and Airbnb stays under new plans",
-        "url": "https://www.theguardian.com/business/2026/sep/10/england-nightly-levy-hotel-airbnb-stays-tourist-tax-plans",
-        "description": "Labelled a tourist tax, proposals would give mayors power to decide how revenue raised should be investedUK politics live – latest updatesHolidaymakers will face a nightly levy on hotel and Airbnb-...",
+        "title": "MPs on both sides urge Commons not to take ‘extraordinary risk’ of forcing through assisted dying bill",
+        "url": "https://www.theguardian.com/society/2026/sep/10/mps-commons-extraordinary-risk-forcing-through-assisted-dying-bill",
+        "description": "Labour MPs Gareth Snell and Meg Hillier say Lords must be allowed to fulfil duty in scrutinising bill on serious public issueUK politics live – latest updatesMPs who voted for and against assisted ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "JP Morgan boss meets Burnham and Healey to warn against bank tax rise",
-        "url": "https://www.theguardian.com/business/2026/sep/09/jp-morgan-boss-jamie-dimon-to-warn-uk-chancellor-against-bank-tax-hike",
-        "description": "Jamie Dimon tells UK politicians before October budget that investment could be at risk, it is understoodJamie Dimon, chief executive of the largest US bank, JP Morgan, is understood to have warned...",
+        "title": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
+        "url": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions",
+        "description": "Record demand for A&E units, ambulance services and NHS 111 shows extreme heat having unprecedented impact on health, experts sayThe NHS came under its most intense strain ever as a result of the s...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "England's mayors to be given power to introduce tourist tax",
+        "title": "England's mayors to get power to impose tourist tax",
         "url": "https://www.bbc.co.uk/news/articles/c3wjnv3z8nxo?at_medium=RSS&at_campaign=rss",
         "description": "Hospitality leaders warn the uncapped levy would risk jobs and push prices up for families holidaying in England.",
         "source": "BBC News",
@@ -33,16 +33,16 @@
     ],
     "economy": [
       {
-        "title": "Trouble in US bond market could mean higher prices are here to stay",
-        "url": "https://www.theguardian.com/business/2026/sep/10/bond-market-higher-costs",
-        "description": "Concerns over rising inflation, continuing war with Iran, and the US’s record national debt have shaken the market Americans who have been grappling with the higher cost of living over the last few...",
+        "title": "John Lewis losses widen to £124m as shopper confidence dips",
+        "url": "https://www.theguardian.com/business/2026/sep/10/john-lewis-losses-double-shopper-confidence-weakens-waitrose",
+        "description": "Retailer says first half was a tougher market than it expected, though Waitrose grew salesBusiness live – latest updatesLosses at the owner of John Lewis and Waitrose widened by more than 40% in th...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "John Lewis losses widen to £124m as shopper confidence dips",
-        "url": "https://www.theguardian.com/business/2026/sep/10/john-lewis-losses-double-shopper-confidence-weakens-waitrose",
-        "description": "Retailer says higher costs also hit first-half figures as group pursues its turnaround plan, though Waitrose grew salesBusiness live – latest updatesLosses at the owner of John Lewis and Waitrose w...",
+        "title": "Trouble in US bond market could mean higher prices are here to stay",
+        "url": "https://www.theguardian.com/business/2026/sep/10/bond-market-higher-costs",
+        "description": "Concerns over rising inflation, continuing war with Iran, and the US’s record national debt have shaken the market Americans who have been grappling with the higher cost of living over the last few...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Primark finally set to launch home deliveries",
-        "url": "https://www.bbc.co.uk/news/articles/c89jdl0j5x4o?at_medium=RSS&at_campaign=rss",
-        "description": "The retailer launches the service four years after making its first foray into internet shopping.",
+        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
+        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
+        "url": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions",
+        "description": "Record demand for A&E units, ambulance services and NHS 111 shows extreme heat having unprecedented impact on health, experts sayThe NHS came under its most intense strain ever as a result of the s...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Reform UK says it will ‘fully cooperate’ with Met after inquiry launched into alleged overseas donations – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "AI transcriptions are no time-saving measure for doctors | Letters",
-        "url": "https://www.theguardian.com/society/2026/sep/07/ai-transcriptions-are-no-time-saving-measure-for-doctors",
-        "description": "Dr Mary Gibbs says there are a number of problems with AI, particularly its tendency to misunderstand, as Debbie Cameron can attestI am an out-of-hours GP, and I am glad to see a news report on thi...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
         "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
         "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "RNLI steps up security after abuse by far-right agitators over small boat rescues",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/10/rnli-steps-up-security-after-attacks-by-far-right-agitators-over-small-boat-rescues",
+        "description": "Volunteers told to consider not wearing charity-branded clothing and to shut lifeboat stations if they feel in dangerPolice working to protect RNLI in DorsetThe RNLI is increasing security after a ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Applicants for UK citizenship charged more than five times the admin cost",
         "url": "https://www.theguardian.com/uk-news/2026/sep/10/applicants-for-uk-citizenship-charged-more-than-five-times-the-admin-cost",
@@ -105,41 +112,34 @@
         "description": "Paul Nowak says changes to immigration rules risk overstretching social care and fuelling far-right sentimentAndy Burnham must overhaul Shabana Mahmood’s migration reforms or risk overstretching so...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Police working to protect RNLI in Dorset amid opposition to small boat rescues",
-        "url": "https://www.theguardian.com/world/2026/sep/09/their-boat-was-sinking-rnli-vows-to-keep-rescuing-asylum-seekers-despite-attacks",
-        "description": "Charity vows to keep helping asylum seekers in Channel despite rightwing abuse as protesters gather outside HQThree police forces on the south coast of England are working to protect lifeboat volun...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Climate ‘feedback loops’ could worsen global warming by 30%, study finds",
-        "url": "https://www.theguardian.com/environment/2026/sep/10/climate-feedback-loops-global-warming-study",
-        "description": "Emissions of planet-heating methane and CO2 from natural sources are worsening the climate crisis, paper saysRising global temperatures caused by the burning of fossil fuels are transforming the wo...",
+        "title": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
+        "url": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions",
+        "description": "Record demand for A&E units, ambulance services and NHS 111 shows extreme heat having unprecedented impact on health, experts sayThe NHS came under its most intense strain ever as a result of the s...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "August was joint-hottest month ever recorded globally",
+        "title": "English winemakers expect ‘vintage year’ after record-breaking summer heat",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/10/english-winemakers-vintage-grapes-harvest-heatwave",
+        "description": "Hot weather means sweeter grapes, but outlook gloomier for beermakers, as drought diminishes barley harvestEnglish sparkling winemakers expect their earliest grape harvest and a “vintage year” afte...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "World must reject climate culture wars or face economic ruin, says UN’s Stiell",
         "url": "https://www.theguardian.com/environment/2026/sep/10/august-joint-hottest-month-recorded-globally",
-        "description": "Temperatures reached 1.65C above preindustrial levels, months before El Niño system reaches full strengthAugust was the joint-hottest month ever recorded around the world, with global temperatures ...",
+        "description": "Warning by United Nations climate chief comes as EU data shows August 2026 was joint hottest month everAttempts to stoke a climate crisis culture war must be rejected or the world will face economi...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Cities in Great Britain most vulnerable to extreme heat revealed",
-        "url": "https://www.theguardian.com/environment/2026/sep/08/cities-great-britain-most-vulnerable-extreme-heat-revealed",
-        "description": "OS index examines which ‘urban heat islands’ suffer the most – and which cope the best with rising temperaturesPortsmouth, Leicester, Exeter, Bristol and Nottingham will be among the cities that wa...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "August joint-hottest month on record as climate change and El Niño drive heat",
-        "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
-        "description": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
+        "title": "August joint hottest month on record globally",
+        "url": "https://www.bbc.co.uk/news/videos/ckgw3ngep09o?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Weather Presenter Simon King explains the figures.",
         "source": "BBC News",
         "category": "climate"
       }
