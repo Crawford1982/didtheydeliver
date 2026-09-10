@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-09T20:26:45.283230+00:00",
+  "fetched_at": "2026-09-10T03:11:07.261216+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "UK chancellor urged to remove £100k childcare ‘cliff edge’ prompting parents to cut work hours",
+        "url": "https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours",
+        "description": "Critics say threshold pushes higher-paid staff to cut back on work and often mothers to stop working to avoid losing entitlementJohn Healey has been urged to fix the £100,000 childcare “cliff edge”...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Labour picks former child refugee to stand in byelection for Starmer’s seat",
+        "url": "https://www.theguardian.com/politics/2026/sep/09/former-child-refugee-selected-as-labour-candidate-in-byelection-for-starmers-old-seat",
+        "description": "Sagal Abdi-Wali, who came from Somalia in the 1990s, likely to face Zack Polanski in Holborn and St Pancras contestA former child refugee who became the leader of Camden council has been selected t...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Met police launch inquiry into alleged overseas donations to Reform UK",
         "url": "https://www.theguardian.com/politics/2026/sep/09/met-police-launch-inquiry-into-alleged-overseas-donations-to-reform-uk",
         "description": "Scotland Yard confirms it is investigating allegations broadcast by Channel 4 News after undercover stingThe financial scandal around Reform UK has deepened as police expanded their investigation i...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Senior UK rabbis come out in support of sanctions on Israeli settlements",
-        "url": "https://www.theguardian.com/politics/2026/sep/09/senior-uk-rabbis-come-out-in-support-of-sanctions-on-israeli-settlements",
-        "description": "Spiritual leaders stress diversity of views within Jewish community and warn against inaction on settler violence‘It’s a good start’: prominent Israelis welcome UK sanctionsProminent British rabbis...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform UK says it will ‘fully cooperate’ with Met after inquiry launched into alleged overseas donations – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
-        "description": "Party denies wrongdoing after Scotland Yard confirms it is investigating allegations broadcast by Channel 4 after undercover stingAlex Burghart, the deputy Tory leader, was giving interviews this m...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "UK chancellor urged to remove £100k childcare ‘cliff edge’ prompting parents to cut work hours",
+        "url": "https://www.theguardian.com/society/2026/sep/10/uk-chancellor-urged-to-remove-100k-childcare-cliff-edge-prompting-parents-to-cut-work-hours",
+        "description": "Critics say threshold pushes higher-paid staff to cut back on work and often mothers to stop working to avoid losing entitlementJohn Healey has been urged to fix the £100,000 childcare “cliff edge”...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Bond market rebuffs US treasury’s plan to buy back $6bn in government debt",
         "url": "https://www.theguardian.com/business/2026/sep/09/treasury-bond-buyback",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "EU unveils ‘buy European’ public procurement rules to counter China",
-        "url": "https://www.theguardian.com/world/2026/sep/09/eu-buy-european-public-procurement-rules-china-goods-services",
-        "description": "Authorities and public bodies to be urged to buy goods and services from Europe, but without binding quotasEuropean authorities will be encouraged to buy more domestic goods and services when they ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Air traffic failure was avoidable, says transport secretary",
-        "url": "https://www.bbc.co.uk/news/articles/c5y42v5n05do?at_medium=RSS&at_campaign=rss",
-        "description": "Heidi Alexander orders an investigation into the glitch that caused more than 2,000 flight cancellations.",
+        "title": "The one thing you need to do to succeed - according to top bosses",
+        "url": "https://www.bbc.co.uk/news/articles/cn5dew594n6o?at_medium=RSS&at_campaign=rss",
+        "description": "What makes someone stand out in a crowded workplace? Six business leaders tell us what they look for.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Very hot drinks may damage the food pipe and increase cancer risk",
-        "url": "https://www.bbc.co.uk/news/articles/ce3r77d9n90o?at_medium=RSS&at_campaign=rss",
-        "description": "Steaming hot liquid can damage the cell lining on the way down to the stomach, experts say.",
+        "title": "UK needs new laws for AI in healthcare, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&at_campaign=rss",
+        "description": "The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "August was joint-hottest month ever recorded globally",
+        "url": "https://www.theguardian.com/environment/2026/sep/10/august-joint-hottest-month-recorded-globally",
+        "description": "Temperatures reached 1.65C above preindustrial levels, months before El Niño system reaches full strengthAugust was the joint-hottest month ever recorded around the world, with global temperatures ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Cities in Great Britain most vulnerable to extreme heat revealed",
         "url": "https://www.theguardian.com/environment/2026/sep/08/cities-great-britain-most-vulnerable-extreme-heat-revealed",
         "description": "OS index examines which ‘urban heat islands’ suffer the most – and which cope the best with rising temperaturesPortsmouth, Leicester, Exeter, Bristol and Nottingham will be among the cities that wa...",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Peter’s farm is on ‘flood country’. As Australia’s sea levels rise, safe land is vanishing and costs are huge",
-        "url": "https://www.theguardian.com/environment/2026/sep/10/peters-farm-is-on-flood-country-as-australias-sea-levels-rise-safe-land-is-vanishing-and-costs-are-huge",
-        "description": "Climate Council forecasts more than 267,000 coastal properties will be damaged by flooding by 2100, costing hundreds of billions of dollarsGet our breaking news email, free app or daily news podcas...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Watch: Downed trees and flooding as Hurricane Lowell batters western Hawaii",
-        "url": "https://www.bbc.co.uk/news/videos/c2079ne1xx6o?at_medium=RSS&at_campaign=rss",
-        "description": "The storm brought damaging winds and torrential rain to parts of the island on Monday and Tuesday, triggering concerns about flash flooding and mudslides.",
+        "title": "August was joint hottest month on record, says European climate agency",
+        "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
+        "description": "Climate change and the rising influence of El Niño saw August reach the record for warmest month.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Teachers say holidays in term can be worth more than time in school",
+        "url": "https://www.theguardian.com/education/2026/sep/10/teachers-say-holidays-in-term-can-be-worth-more-than-time-in-school",
+        "description": "School staff tell focus groups they believe school system in England and Wales cannot deal with attendance crisisTeachers have so little belief in the importance of pupils’ full school attendance t...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Babies born to anaemic mothers have smaller brains, study finds",
         "url": "https://www.theguardian.com/global-development/2026/sep/09/babies-born-to-anaemic-mothers-have-smaller-brains-study-finds",
@@ -156,13 +163,6 @@
         "title": "Burnham says Britain will ‘continue to act in support of our values’ after UK launches sanctions on Israel – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/08/uk-us-trade-israel-sanctions-labour-ed-miliband-farage-latest-news-updates",
         "description": "Israel’s foreign minister, Gideon Saar, earlier claimed that the UK was ‘systemically working against the state of Israel’ UK accuses Israeli ‘terrorists’ of ethnic cleansing in West Bank with gove...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Want to borrow a dinosaur fossil? Try California’s one-of-a-kind taxidermy lending library",
-        "url": "https://www.theguardian.com/us-news/2026/sep/08/san-diego-taxidermy-museum",
-        "description": "A natural history museum lets residents take home 1,400 specimens, from bobcats and beetles to snakes in jarsOn a hot afternoon in August, I walked out of the San Diego Natural History Museum carry...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-        "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-        "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
+        "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
+        "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
+        "description": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
