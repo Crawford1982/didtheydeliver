@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-11T10:38:42.066395+00:00",
+  "fetched_at": "2026-09-11T15:53:43.573857+00:00",
   "headlines": {
     "government": [
       {
-        "title": "MPs to vote again on assisted dying as bill returns to parliament – UK politics live",
+        "title": "MPs reject assisted dying bill after tense debate – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/11/assisted-dying-vote-uk-politics-latest-news-labour-andy-burnham",
-        "description": "Bill would allow terminally ill adults with less than six months to live to end their lives, after the approval of a panel of expertsWhile the debate continues, we have a comment from Sam Royston, ...",
+        "description": "The bill would have allowed terminally ill adults with less than six months to live to end their lives, after the approval of a panel of expertsMPs vote against legalising assisted dying in England...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Greens select Zack Polanski to run in Holborn and St Pancras byelection",
-        "url": "https://www.theguardian.com/politics/2026/sep/11/zack-polanski-selected-green-party-holborn-st-pancras-byelection",
-        "description": "Leader has said Greens are underdogs in race for Keir Starmer’s former seat but he is confident they can beat LabourZack Polanski, the Green party leader, has been selected as its candidate for the...",
+        "title": "MPs vote against legalising assisted dying in England and Wales",
+        "url": "https://www.theguardian.com/society/2026/sep/11/mps-vote-against-legalising-assisted-dying-in-england-and-wales",
+        "description": "Bill fails at second reading despite near-identical legislation being approved by Commons in last parliamentUK politics live – latest updatesA bill to permit assisted dying in England and Wales has...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Pressure grows on Burnham to commit to increasing statutory paternity leave",
-        "url": "https://www.theguardian.com/money/2026/sep/11/mps-urge-andy-burnham-increase-statutory-paternity-leave-uk",
-        "description": "Exclusive: Calls from Labour grow as 105 MPs write to PM urging ‘obvious’ step to alleviate cost of living crisisAndy Burnham is coming under increasing pressure from his own MPs to commit to impro...",
+        "title": "How did your MP vote on the reintroduced assisted dying bill?",
+        "url": "https://www.theguardian.com/politics/ng-interactive/2026/sep/11/how-did-your-mp-vote-on-the-reintroduced-assisted-dying-bill",
+        "description": "MPs today voted not to approve the assisted dying bill at its second reading. The bill, which was brought back to the Commons after being blocked in the Lords, would have allowed terminally ill peo...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,9 @@
     ],
     "economy": [
       {
-        "title": "Oil price drops on hopes for Hormuz meeting between Iran and Gulf states; four UK interest rate hikes expected by next summer – business live",
+        "title": "Gasoline prices drive up US monthly inflation; four UK interest rate hikes expected by next summer – business live",
         "url": "https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial news, as energy prices fall and the UK economy beats expectationsUK economy unexpectedly grows 0.4% in July boosted by AIDigging into today’s G...",
+        "description": "US monthly inflation rate rises to 0.4% in August, though annual rate unchanged at 3.4% and core inflation dips a littleUK economy unexpectedly grows 0.4% in July boosted by AIDigging into today’s ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "AI boom helps drive surprise UK growth in July",
-        "url": "https://www.bbc.co.uk/news/articles/cq5xjlvn71lo?at_medium=RSS&at_campaign=rss",
-        "description": "The economy expanded by 0.4%, official figures show, whereas analysts had predicted no growth.",
+        "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
+        "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
+        "description": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,18 +84,25 @@
         "category": "nhs"
       },
       {
-        "title": "'My cancer spread while I waited months for surgery': The cost of England's cancer wait times",
-        "url": "https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&at_campaign=rss",
-        "description": "Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.",
+        "title": "Assisted dying: How laws differ around the world",
+        "url": "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo?at_medium=RSS&at_campaign=rss",
+        "description": "About 400 million people have access to some form of assisted dying - what are the policies of other countries?",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
-        "title": "RNLI steps up security after abuse by far-right agitators over small boat rescues",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/10/rnli-steps-up-security-after-attacks-by-far-right-agitators-over-small-boat-rescues",
-        "description": "Volunteers told to consider not wearing charity-branded clothing and to shut lifeboat stations if they feel in dangerPolice working to protect RNLI in DorsetThe RNLI is increasing security after a ...",
+        "title": "Hundreds of asylum seekers removed from UK to France have disappeared, say NGOs",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/11/asylum-seekers-removed-uk-to-france-disappeared-children-one-in-one-out",
+        "description": "Rights groups say those missing after being deported under one in, one out deal include dozens of age-disputed childrenUK politics live – latest updatesHundreds of asylum seekers including at least...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "RNLI reports ‘significant’ donations boost after being targeted by far right over small boats",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/11/rnli-charity-reports-donations-boost-far-right-small-boats",
+        "description": "Charity condemns ‘disgraceful’ intimidation and insists it will continue core purpose of saving lives at seaUK politics live – latest updatesThe Royal National Lifeboat Institution (RNLI) has had a...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -103,13 +110,6 @@
         "title": "Reform UK beset by internal row over response to Dover and Portsmouth protests",
         "url": "https://www.theguardian.com/politics/2026/sep/11/reform-uk-beset-by-internal-row-over-response-to-dover-and-portsmouth-protests",
         "description": "Nigel Farage said demonstrators in balaclavas were ‘horrible’, but others in the party defend them as ‘brave, passionate patriots’Nigel Farage’s condemnation of the masked men whose blockade of Dov...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Applicants for UK citizenship charged more than five times the admin cost",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/10/applicants-for-uk-citizenship-charged-more-than-five-times-the-admin-cost",
-        "description": "Fee of £1,709 compares with an estimated administrative cost of just £324, according to Home Office dataPeople applying to become British citizens are charged more than five times the amount it cos...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "How Ron DeSantis politicized Florida’s higher education by placing his loyalists at the top",
+        "url": "https://www.theguardian.com/us-news/2026/sep/11/ron-desantis-florida-higher-education-takeover",
+        "description": "Term-limited, hard-right governor instituted an ideological infiltration of universities by placing allies in powerful postsIn fewer than four months’ time, Ron DeSantis, Florida’s hard-right gover...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Pupils missed 15m hours of school time during UK’s June heatwave, study finds",
         "url": "https://www.theguardian.com/education/2026/sep/11/pupils-lost-teaching-time-uk-june-heatwave-school-closures",
         "description": "At least 760,000 children in England and Wales missed lessons as more than 1,700 schools closed or finished earlyThe gruelling heatwave that hit the UK in June caused pupils to miss more than 15m h...",
@@ -158,16 +165,16 @@
         "description": "Visitors got a first glimpse of the medieval artefact after it went on display at the British Museum in LondonOn the day Bayeux tapestry tickets were released, Megan Stockwell was at the beach. She...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Many teachers disagree with hardline attendance policies, report suggests",
-        "url": "https://www.theguardian.com/education/2026/sep/10/teachers-say-holidays-in-term-can-be-worth-more-than-time-in-school",
-        "description": "Staff at schools in England say enforcement is ‘relentless’ and occasional holiday less worrying than disengagementTeachers have so little belief in the importance of pupils’ full school attendance...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Facing a UK housing dilemma? Send us your questions",
+        "url": "https://www.theguardian.com/money/2026/sep/11/facing-a-uk-housing-dilemma-send-us-your-questions",
+        "description": "From renting and troublesome landlords to buying or selling a home, send us your UK housing questionsAre you dealing with a problem with your landlord or tenancy, wondering about buying or selling ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "San Francisco mayor declares rent emergency as housing costs soar amid AI boom",
         "url": "https://www.theguardian.com/us-news/2026/sep/10/san-francisco-mayor-declares-rent-emergency",
@@ -181,23 +188,9 @@
         "description": "Courts said to be ‘overloaded’ as landlords sell properties and tenants with nowhere to go try to delay evictionsIt is a Wednesday afternoon at Stratford housing court, and every seat in the waitin...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Rejecting the new town in Enfield isn’t nimbyism | Letter",
-        "url": "https://www.theguardian.com/society/2026/sep/06/rejecting-the-new-town-in-enfield-isnt-nimbyism",
-        "description": "The risks of building on the green belt include increased flooding, loss of access to nature and high car-dependency, writes Kathrin SpinnlerPolly Toynbee’s article about the proposed new town in E...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
-      {
-        "title": "Five killed and 67 injured in Russian strike on shopping centre, Ukraine says",
-        "url": "https://www.bbc.co.uk/news/articles/cpvelrmp1vmo?at_medium=RSS&at_campaign=rss",
-        "description": "The attack in Pavlohrad city centre was the third Russian strike on a mall within days, local media report.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
       {
         "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
         "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
@@ -209,6 +202,13 @@
         "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
         "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
         "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Israel says it has destroyed major underground Hezbollah base",
+        "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
+        "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
