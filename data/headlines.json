@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-09-10T20:26:21.000626+00:00",
+  "fetched_at": "2026-09-11T03:06:51.813477+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Ed Stone to elder statesman: the making of Ed Miliband – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/sep/11/ed-stone-to-elder-statesman-the-making-of-ed-miliband-podcast",
+        "description": "The UK foreign secretary has drawn rage and respect after announcing trade sanctions on Israeli settlers. Heather Stewart explains how – and why – Ed Miliband got toughThis time just over a decade ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Esther Rantzen now ‘too physically fragile’ to end her life in Switzerland",
         "url": "https://www.theguardian.com/uk-news/2026/sep/10/esther-rantzen-now-too-physically-fragile-to-end-her-life-in-switzerland",
@@ -13,13 +20,6 @@
         "title": "Ministers face backlash from hospitality industry over ‘tourist tax’ plans",
         "url": "https://www.theguardian.com/business/2026/sep/10/england-nightly-levy-hotel-airbnb-stays-tourist-tax-plans",
         "description": "Many mayors welcome power to impose tourist tax but industry warns of ‘irreparable harm’ and job lossesMinisters are facing a backlash from the hospitality industry after they announced mayors in E...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Shabana Mahmood urges police to curb far-right, anti-migrant protests",
-        "url": "https://www.theguardian.com/politics/2026/sep/10/shabana-mahmood-home-secretary-police-curb-far-right-anti-migrant-protests",
-        "description": "Home secretary tells officers to make ‘full use’ of their powers after masked vigilantes cause weekend of chaosShabana Mahmood has urged police to curb the activities of far-right, anti-migrant gro...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Oil, gas and borrowing costs surge as fears over Middle East escalate",
-        "url": "https://www.bbc.co.uk/news/articles/c5y48rz2nddo?at_medium=RSS&at_campaign=rss",
-        "description": "The price of oil jumps to $105 a barrel amid signs the Iran war will not be resolved quickly.",
+        "title": "I asked my husband to pay into my pension when we had a child - here's why",
+        "url": "https://www.bbc.co.uk/news/articles/cde02k65427o?at_medium=RSS&at_campaign=rss",
+        "description": "Molly and Taylor Haylett explain the changes to how they managed their finances when they started a family.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "August joint hottest month on record globally",
-        "url": "https://www.bbc.co.uk/news/videos/ckgw3ngep09o?at_medium=RSS&at_campaign=rss",
-        "description": "BBC Weather Presenter Simon King explains the figures.",
+        "title": "New hurricane season record as 'historic' El Niño leaves Atlantic eerily quiet",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyzq4538j3o?at_medium=RSS&at_campaign=rss",
+        "description": "The Atlantic hurricane season has reached its climatological peak, but a strong El Niño means no hurricanes have formed this year.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "San Francisco mayor declares rent emergency as housing costs soar amid AI boom",
+        "url": "https://www.theguardian.com/us-news/2026/sep/10/san-francisco-mayor-declares-rent-emergency",
+        "description": "Median rent for one-bedroom apartment in city tops $4,495 with a national median of $1,900San Francisco’s mayor, Daniel Lurie, declared a rent emergency on Thursday, proposing reforms aimed at curb...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "England’s housing courts at breaking point as renters battle no-fault evictions",
         "url": "https://www.theguardian.com/society/2026/sep/07/englands-housing-courts-at-breaking-point-as-renters-battle-no-fault-evictions",
         "description": "Courts said to be ‘overloaded’ as landlords sell properties and tenants with nowhere to go try to delay evictionsIt is a Wednesday afternoon at Stratford housing court, and every seat in the waitin...",
@@ -179,13 +186,6 @@
         "title": "Rejecting the new town in Enfield isn’t nimbyism | Letter",
         "url": "https://www.theguardian.com/society/2026/sep/06/rejecting-the-new-town-in-enfield-isnt-nimbyism",
         "description": "The risks of building on the green belt include increased flooding, loss of access to nature and high car-dependency, writes Kathrin SpinnlerPolly Toynbee’s article about the proposed new town in E...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Tell us: have you given up on trying to buy your first home?",
-        "url": "https://www.theguardian.com/society/2026/sep/03/tell-us-have-you-given-up-on-trying-to-buy-your-first-home",
-        "description": "We’d like to hear from people in the UK who have abandoned or delayed plans to get on the property ladderUK house prices rose for the first time in four months in August, while mortgage approvals f...",
         "source": "The Guardian",
         "category": "housing"
       }
