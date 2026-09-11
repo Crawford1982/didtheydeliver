@@ -1,39 +1,39 @@
 {
-  "fetched_at": "2026-09-11T15:53:43.573857+00:00",
+  "fetched_at": "2026-09-11T20:28:18.000989+00:00",
   "headlines": {
     "government": [
       {
-        "title": "MPs reject assisted dying bill after tense debate – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/11/assisted-dying-vote-uk-politics-latest-news-labour-andy-burnham",
-        "description": "The bill would have allowed terminally ill adults with less than six months to live to end their lives, after the approval of a panel of expertsMPs vote against legalising assisted dying in England...",
+        "title": "Northern Ireland schools must give girls option to wear trousers from next year",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/11/northern-ireland-schools-girls-trousers-uniform",
+        "description": "DUP education minister accused of dragging feet before revising guidelines on uniformSchools in Northern Ireland must give girls the choice to wear trousers as part of their uniforms as well as for...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings",
+        "url": "https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi",
+        "description": "Letter from 70 MPs and peers follows Anthropic employee’s claim new technology could wipe out humansAI could kill all humans in next decade, warn experts: but how seriously should we take them?More...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "MPs vote against legalising assisted dying in England and Wales",
         "url": "https://www.theguardian.com/society/2026/sep/11/mps-vote-against-legalising-assisted-dying-in-england-and-wales",
-        "description": "Bill fails at second reading despite near-identical legislation being approved by Commons in last parliamentUK politics live – latest updatesA bill to permit assisted dying in England and Wales has...",
+        "description": "Bill’s failure in Commons sparks anger among its supporters after Lords blocked earlier legislationA renewed attempt to legalise assisted dying has been voted down by MPs in a decision that is like...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "How did your MP vote on the reintroduced assisted dying bill?",
-        "url": "https://www.theguardian.com/politics/ng-interactive/2026/sep/11/how-did-your-mp-vote-on-the-reintroduced-assisted-dying-bill",
-        "description": "MPs today voted not to approve the assisted dying bill at its second reading. The bill, which was brought back to the Commons after being blocked in the Lords, would have allowed terminally ill peo...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Polanski selected as Green Party candidate for Starmer's former seat",
-        "url": "https://www.bbc.co.uk/news/articles/cqxvzpg82yvo?at_medium=RSS&at_campaign=rss",
-        "description": "The Green Party leader said the party is the \"underdog\" in Holborn and St Pancras but \"can win\".",
+        "title": "MPs vote against fresh attempt to legalise assisted dying",
+        "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
+        "description": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Gasoline prices drive up US monthly inflation; four UK interest rate hikes expected by next summer – business live",
+        "title": "Gasoline prices drive up US monthly inflation; four UK interest rate hikes expected by next summer – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates",
         "description": "US monthly inflation rate rises to 0.4% in August, though annual rate unchanged at 3.4% and core inflation dips a littleUK economy unexpectedly grows 0.4% in July boosted by AIDigging into today’s ...",
         "source": "The Guardian",
@@ -84,32 +84,32 @@
         "category": "nhs"
       },
       {
-        "title": "Assisted dying: How laws differ around the world",
-        "url": "https://www.bbc.co.uk/news/articles/c1dpwg1lq9yo?at_medium=RSS&at_campaign=rss",
-        "description": "About 400 million people have access to some form of assisted dying - what are the policies of other countries?",
+        "title": "Running costs of vaccine damage scheme more than double amount paid to victims",
+        "url": "https://www.bbc.co.uk/news/articles/cj06762qegmo?at_medium=RSS&at_campaign=rss",
+        "description": "The cost of administration and medical checks has now topped £83m, according to new figures.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
-        "title": "Hundreds of asylum seekers removed from UK to France have disappeared, say NGOs",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/11/asylum-seekers-removed-uk-to-france-disappeared-children-one-in-one-out",
-        "description": "Rights groups say those missing after being deported under one in, one out deal include dozens of age-disputed childrenUK politics live – latest updatesHundreds of asylum seekers including at least...",
+        "title": "‘They’re lifesavers’: the Birmingham clinic giving hope to traumatised asylum seekers",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/11/theyre-lifesavers-the-birmingham-clinic-giving-hope-to-traumatised-asylum-seekers",
+        "description": "MSF-run centre offering intensive psychological care has received more than 350 referrals since opening last year Azad*, an asylum seeker from Iran, recounts his story in a gentle and mild manner, ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
+        "url": "https://www.theguardian.com/world/2026/sep/11/sweden-brexit-hardline-migration-policy-britons-eu",
+        "description": "Sweden has ordered more Britons, including vulnerable people, to leave post-Brexit than any other EU countryHe arrived with nothing other than the clothes he wore that morning. Hours later he was b...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
         "title": "RNLI reports ‘significant’ donations boost after being targeted by far right over small boats",
         "url": "https://www.theguardian.com/uk-news/2026/sep/11/rnli-charity-reports-donations-boost-far-right-small-boats",
-        "description": "Charity condemns ‘disgraceful’ intimidation and insists it will continue core purpose of saving lives at seaUK politics live – latest updatesThe Royal National Lifeboat Institution (RNLI) has had a...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Reform UK beset by internal row over response to Dover and Portsmouth protests",
-        "url": "https://www.theguardian.com/politics/2026/sep/11/reform-uk-beset-by-internal-row-over-response-to-dover-and-portsmouth-protests",
-        "description": "Nigel Farage said demonstrators in balaclavas were ‘horrible’, but others in the party defend them as ‘brave, passionate patriots’Nigel Farage’s condemnation of the masked men whose blockade of Dov...",
+        "description": "Charity condemns ‘disgraceful’ intimidation and insists it will continue core purpose of saving lives at seaThe Royal National Lifeboat Institution (RNLI) has had a “significant” boost in donations...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
+        "title": "Northern Ireland schools must give girls option to wear trousers from next year",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/11/northern-ireland-schools-girls-trousers-uniform",
+        "description": "DUP education minister accused of dragging feet before revising guidelines on uniformSchools in Northern Ireland must give girls the choice to wear trousers as part of their uniforms as well as for...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Mail on Sunday ends up funding state school scholarship via payout to MP",
+        "url": "https://www.theguardian.com/education/2026/sep/11/mail-on-sunday-funds-state-school-scholarship-via-payout-to-mp",
+        "description": "Labour’s Catherine Atkinson says she will give students £5,000 paid to her by  paper that falsely accused her of concealing private school educationA new scholarship supporting state-educated stude...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "How Ron DeSantis politicized Florida’s higher education by placing his loyalists at the top",
         "url": "https://www.theguardian.com/us-news/2026/sep/11/ron-desantis-florida-higher-education-takeover",
-        "description": "Term-limited, hard-right governor instituted an ideological infiltration of universities by placing allies in powerful postsIn fewer than four months’ time, Ron DeSantis, Florida’s hard-right gover...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Pupils missed 15m hours of school time during UK’s June heatwave, study finds",
-        "url": "https://www.theguardian.com/education/2026/sep/11/pupils-lost-teaching-time-uk-june-heatwave-school-closures",
-        "description": "At least 760,000 children in England and Wales missed lessons as more than 1,700 schools closed or finished earlyThe gruelling heatwave that hit the UK in June caused pupils to miss more than 15m h...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Francophiles, Norman outfits and broken threads: visitors see Bayeux tapestry in UK for first time",
-        "url": "https://www.theguardian.com/world/2026/sep/10/visitors-bayeux-tapestry-exhibition-london-british-museum",
-        "description": "Visitors got a first glimpse of the medieval artefact after it went on display at the British Museum in LondonOn the day Bayeux tapestry tickets were released, Megan Stockwell was at the beach. She...",
+        "description": "Term-limited, hard-right governor instituted an ideological infiltration of universities by placing allies in powerful postsIn less than four months’ time, Ron DeSantis, Florida’s hard-right govern...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-        "url": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
-        "description": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+        "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+        "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Hong Kong's Tiananmen activists sentenced to up to seven years in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyvk2djk4o?at_medium=RSS&at_campaign=rss",
-        "description": "Hong Kong used to be one of the only places in Chinese territory where people could gather to mark the 1989 crackdown.",
+        "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
+        "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
+        "description": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
