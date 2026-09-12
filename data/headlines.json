@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-09-11T20:28:18.000989+00:00",
+  "fetched_at": "2026-09-12T03:13:13.601518+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Reform UK given record £36m donation by British crypto billionaire",
+        "url": "https://www.theguardian.com/politics/2026/sep/11/reform-uk-given-record-36m-donation-by-british-crypto-billionaire",
+        "description": "Ben Delo was convicted in US for failing to implement adequate anti-money laundering controls but pardoned by TrumpReform UK has been given a record £36m donation by Ben Delo, a British cryptocurre...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Northern Ireland schools must give girls option to wear trousers from next year",
         "url": "https://www.theguardian.com/uk-news/2026/sep/11/northern-ireland-schools-girls-trousers-uniform",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "MPs vote against legalising assisted dying in England and Wales",
-        "url": "https://www.theguardian.com/society/2026/sep/11/mps-vote-against-legalising-assisted-dying-in-england-and-wales",
-        "description": "Bill’s failure in Commons sparks anger among its supporters after Lords blocked earlier legislationA renewed attempt to legalise assisted dying has been voted down by MPs in a decision that is like...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "MPs vote against fresh attempt to legalise assisted dying",
-        "url": "https://www.bbc.co.uk/news/articles/c17j91jenr8o?at_medium=RSS&at_campaign=rss",
-        "description": "The proposed law sought to introduce one of the biggest societal changes in recent years.",
+        "title": "Reform receives record £36m donation from crypto billionaire",
+        "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
+        "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
         "source": "BBC News",
         "category": "government"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Sheen says he was snubbed by FM over pollution claims",
-        "url": "https://www.bbc.co.uk/news/videos/cm2q8pp8epro?at_medium=RSS&at_campaign=rss",
-        "description": "The actor urged MPs to back a national testing programme to make sure historic toxic dump sites were safe.",
+        "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
+        "url": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
+        "description": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-        "url": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-        "description": "Princess Astrid \"represented the Royal House in a warm and dutiful manner\", the new king, Haakon VIII, said in a tribute to his aunt.",
+        "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
+        "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
+        "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Israel says it has destroyed major underground Hezbollah base",
-        "url": "https://www.bbc.co.uk/news/articles/c4gl92lw8vpo?at_medium=RSS&at_campaign=rss",
-        "description": "The powerful blast registered as the equivalent of a magnitude 4.1 earthquake, according to the US Geological Survey.",
+        "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+        "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+        "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
