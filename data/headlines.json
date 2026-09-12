@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T03:13:13.601518+00:00",
+  "fetched_at": "2026-09-12T10:07:44.620150+00:00",
   "headlines": {
     "government": [
       {
@@ -33,6 +33,13 @@
     ],
     "economy": [
       {
+        "title": "‘Costing billions’: is the pensions triple lock a lifeline or simply unaffordable?",
+        "url": "https://www.theguardian.com/business/2026/sep/12/state-pensions-triple-lock-budget",
+        "description": "With the budget looming, arguments rage over whether ministers should scrap a pledge popular with millionsThere were fresh calls this week for the state pension “triple lock” to be ditched as debat...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Gasoline prices drive up US monthly inflation; four UK interest rate hikes expected by next summer – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/sep/11/uk-gdp-report-economy-july-bonds-pound-ftse-john-healey-latest-news-updates",
         "description": "US monthly inflation rate rises to 0.4% in August, though annual rate unchanged at 3.4% and core inflation dips a littleUK economy unexpectedly grows 0.4% in July boosted by AIDigging into today’s ...",
@@ -43,13 +50,6 @@
         "title": "‘Just worry upon worry’: Europe faces a bleak winter as supply shock pushes factories to the brink",
         "url": "https://www.theguardian.com/business/2026/sep/11/just-worry-upon-worry-europe-faces-a-bleak-winter-as-supply-shock-pushes-factories-to-the-brink",
         "description": "From Shropshire to Hamburg, depleting reserves and spiralling costs are spawning a continent-wide energy crisisBridgnorth Aluminium has faced down Brexit, Covid and repeated energy shocks in recent...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK economy unexpectedly grows 0.4% in July boosted by AI",
-        "url": "https://www.theguardian.com/business/2026/sep/11/uk-economy-defies-forecasts-with-surprise-04-growth-in-july",
-        "description": "Welcome boost for chancellor with unexpected rise put down to rapid growth of AI in services sector outweighing Iran war fallout The UK economy grew in July as the rapid expansion of AI appeared to...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "From black-clad agitators to an appeal for ‘Tommo’s Mum’: an unsettling week with the Patriot Platform",
+        "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/12/from-black-clad-agitators-to-an-appeal-for-tommos-mum-an-unsettling-week-with-the-patriot-platform",
+        "description": "A militaristic operation with features of influencer culture, the new anti-migrant movement seems to show a shift in tactics and rhetoricShortly after 7am last Saturday in the English coastal town ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "‘They’re lifesavers’: the Birmingham clinic giving hope to traumatised asylum seekers",
         "url": "https://www.theguardian.com/uk-news/2026/sep/11/theyre-lifesavers-the-birmingham-clinic-giving-hope-to-traumatised-asylum-seekers",
         "description": "MSF-run centre offering intensive psychological care has received more than 350 referrals since opening last year Azad*, an asylum seeker from Iran, recounts his story in a gentle and mild manner, ...",
@@ -103,13 +110,6 @@
         "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
         "url": "https://www.theguardian.com/world/2026/sep/11/sweden-brexit-hardline-migration-policy-britons-eu",
         "description": "Sweden has ordered more Britons, including vulnerable people, to leave post-Brexit than any other EU countryHe arrived with nothing other than the clothes he wore that morning. Hours later he was b...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "RNLI reports ‘significant’ donations boost after being targeted by far right over small boats",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/11/rnli-charity-reports-donations-boost-far-right-small-boats",
-        "description": "Charity condemns ‘disgraceful’ intimidation and insists it will continue core purpose of saving lives at seaThe Royal National Lifeboat Institution (RNLI) has had a “significant” boost in donations...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
-        "title": "Northern Ireland schools must give girls option to wear trousers from next year",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/11/northern-ireland-schools-girls-trousers-uniform",
-        "description": "DUP education minister accused of dragging feet before revising guidelines on uniformSchools in Northern Ireland must give girls the choice to wear trousers as part of their uniforms as well as for...",
+        "title": "AI may be denting computer science graduates’ job prospects, UK data shows",
+        "url": "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
+        "description": "Economics graduates also appear to be affected as demand for them falls in well-paid roles in financeAI may be warping the job prospects for students in the previously high-demand subjects of compu...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Mail on Sunday ends up funding state school scholarship via payout to MP",
-        "url": "https://www.theguardian.com/education/2026/sep/11/mail-on-sunday-funds-state-school-scholarship-via-payout-to-mp",
-        "description": "Labour’s Catherine Atkinson says she will give students £5,000 paid to her by  paper that falsely accused her of concealing private school educationA new scholarship supporting state-educated stude...",
+        "title": "Best UK universities for animation & game design – league table",
+        "url": "https://www.theguardian.com/education/ng-interactive/2026/sep/12/best-uk-universities-for-animation-game-design-league-table",
+        "description": "Learn how to design, write and engineer interactive experiences. Includes 2D, 3D and stop motion Continue reading...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "How Ron DeSantis politicized Florida’s higher education by placing his loyalists at the top",
-        "url": "https://www.theguardian.com/us-news/2026/sep/11/ron-desantis-florida-higher-education-takeover",
-        "description": "Term-limited, hard-right governor instituted an ideological infiltration of universities by placing allies in powerful postsIn less than four months’ time, Ron DeSantis, Florida’s hard-right govern...",
+        "title": "Best UK universities for architecture – league table",
+        "url": "https://www.theguardian.com/education/ng-interactive/2026/sep/12/best-uk-universities-for-architecture-league-table",
+        "description": "Design and creation of buildings. Involves the study of the sciences, humanities and fine and applied arts Continue reading...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-        "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-        "description": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+        "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+        "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+        "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "US and Ireland's relationship 'stronger than ever'",
+        "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
+        "description": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
         "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
         "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
-        "url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
-        "description": "Access to the burnt-out boat has been slowed by toxic fumes and lingering heat, the country's coast guard says.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
