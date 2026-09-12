@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-09-12T15:00:27.245251+00:00",
+  "fetched_at": "2026-09-12T20:12:14.765049+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Christopher Harborne matches £36m Reform donation of Ben Delo",
-        "url": "https://www.theguardian.com/politics/2026/sep/12/christopher-harborne-matches-36m-reform-donation-of-ben-zelo",
-        "description": "Party leader, Nigel Farage, ‘humbled’ by contributions from billionaires as Harborne addresses ‘media speculation’The cryptocurrency tycoon Christopher Harborne has given £36m to Reform UK, matchin...",
+        "title": "Portsmouth experiences second weekend of anti-immigration protests",
+        "url": "https://www.theguardian.com/politics/2026/sep/12/portsmouth-experiences-second-weekend-of-anti-immigration-protests",
+        "description": "Rightwing activists faced a heavy police presence and counter-demonstrations  to their march against small boat crossingsTwo men and a teenage boy have been arrested in Portsmouth at a far-right pr...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "Donald Trump says he would ‘love’ to see united Ireland",
         "url": "https://www.theguardian.com/us-news/2026/sep/12/donald-trump-says-he-would-love-to-see-united-ireland",
-        "description": "US president say on visit to republic that unification will happen eventually so ‘may as well happen now’• Trump’s visit to Ireland – live updatesDonald Trump has said he would “love” to see a unit...",
+        "description": "US president says on visit to republic that unification will happen eventually so ‘may as well happen now’Donald Trump has said he would “love” to see a united Ireland and that it “may as well happ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform UK given record £36m donation by British crypto billionaire",
-        "url": "https://www.theguardian.com/politics/2026/sep/11/reform-uk-given-record-36m-donation-by-british-crypto-billionaire",
-        "description": "Ben Delo was convicted in US for failing to implement adequate anti-money laundering controls but pardoned by TrumpReform UK has been given a record £36m donation by Ben Delo, a British cryptocurre...",
+        "title": "Number of UK anti-migrant vigilante groups surges in last 18 months",
+        "url": "https://www.theguardian.com/world/2026/sep/12/number-of-uk-anti-migrant-vigilante-groups-surges-in-last-18-months",
+        "description": "Exclusive: Many ‘use community protection as a cover for racist thuggery’, raising concerns about fresh disorderAt least 28 anti-migrant vigilante groups have formed in the UK in the last 18 months...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "Reform receives second £36m donation in two days as crypto investor matches record",
         "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
-        "description": "Christopher Harborne says he has equalled a donation from Ben Delo - the single largest gift to a UK political party.",
+        "description": "The party says the money will allow it to fight the next election on a \"level playing field\", while rivals have renewed calls for donations from individuals to be capped.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "‘Small price to pay’: The young homeowners welcoming falling house prices even as it hurts them",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/13/homeowners-welcoming-falling-house-prices-affordability-crisis-australia",
+        "description": "Some buyers say they are ready to absorb the fallout of housing weakness if it means boosting home ownership across the boardGet our breaking news email, free app or daily news podcastFalling prope...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "‘Costing billions’: is the pensions triple lock a lifeline or simply unaffordable?",
         "url": "https://www.theguardian.com/business/2026/sep/12/state-pensions-triple-lock-budget",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "‘Just worry upon worry’: Europe faces a bleak winter as supply shock pushes factories to the brink",
-        "url": "https://www.theguardian.com/business/2026/sep/11/just-worry-upon-worry-europe-faces-a-bleak-winter-as-supply-shock-pushes-factories-to-the-brink",
-        "description": "From Shropshire to Hamburg, depleting reserves and spiralling costs are spawning a continent-wide energy crisisBridgnorth Aluminium has faced down Brexit, Covid and repeated energy shocks in recent...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Ryanair boss O'Leary defends 'high-fare rapists' airlines remarks",
-        "url": "https://www.bbc.co.uk/news/articles/c5yejw9pjjyo?at_medium=RSS&at_campaign=rss",
-        "description": "O'Leary has said airline passengers \"can't afford to fly with the high-fare rapists around Europe\".",
+        "title": "US prices remain high as fuel costs squeeze household budgets",
+        "url": "https://www.bbc.co.uk/news/articles/cly41rdkrleo?at_medium=RSS&at_campaign=rss",
+        "description": "Prices in the US rose 3.4% in the 12 months to August,  according to the latest official report on inflation.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Running costs of vaccine damage scheme more than double amount paid to victims",
-        "url": "https://www.bbc.co.uk/news/articles/cj06762qegmo?at_medium=RSS&at_campaign=rss",
-        "description": "The cost of administration and medical checks has now topped £83m, according to new figures.",
+        "title": "Fire at nursing home in Chile kills 16 residents",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zpp20w77o?at_medium=RSS&at_campaign=rss",
+        "description": "Ten people were evacuated from the home in Araucanía region in central Chile.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -100,16 +100,16 @@
         "category": "immigration"
       },
       {
-        "title": "‘They’re lifesavers’: the Birmingham clinic giving hope to traumatised asylum seekers",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/11/theyre-lifesavers-the-birmingham-clinic-giving-hope-to-traumatised-asylum-seekers",
-        "description": "MSF-run centre offering intensive psychological care has received more than 350 referrals since opening last year Azad*, an asylum seeker from Iran, recounts his story in a gentle and mild manner, ...",
+        "title": "Anti-migrant rally and counter-protesters face off in Portsmouth – video",
+        "url": "https://www.theguardian.com/world/video/2026/sep/12/anti-migrant-rally-and-counter-protesters-face-off-in-portsmouth-video",
+        "description": "Several hundred anti-immigration protesters faced off with counter-protesters in the centre of Portsmouth on Saturday, as the southern English port city found itself at the heart of Britain’s incre...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "‘Absurd, hardline calls’: questions over Sweden’s post-Brexit migration policy",
-        "url": "https://www.theguardian.com/world/2026/sep/11/sweden-brexit-hardline-migration-policy-britons-eu",
-        "description": "Sweden has ordered more Britons, including vulnerable people, to leave post-Brexit than any other EU countryHe arrived with nothing other than the clothes he wore that morning. Hours later he was b...",
+        "title": "Portsmouth experiences second weekend of anti-immigration protests",
+        "url": "https://www.theguardian.com/politics/2026/sep/12/portsmouth-experiences-second-weekend-of-anti-immigration-protests",
+        "description": "Rightwing activists faced a heavy police presence and counter-demonstrations  to their march against small boat crossingsTwo men and a teenage boy have been arrested in Portsmouth at a far-right pr...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "description": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
         "url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
         "description": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
@@ -202,13 +209,6 @@
         "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
         "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
         "description": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "French officials investigate if 'malicious act' caused train derailment",
-        "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
-        "description": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
