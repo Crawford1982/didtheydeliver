@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-09-12T10:07:44.620150+00:00",
+  "fetched_at": "2026-09-12T15:00:27.245251+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Christopher Harborne matches £36m Reform donation of Ben Delo",
+        "url": "https://www.theguardian.com/politics/2026/sep/12/christopher-harborne-matches-36m-reform-donation-of-ben-zelo",
+        "description": "Party leader, Nigel Farage, ‘humbled’ by contributions from billionaires as Harborne addresses ‘media speculation’The cryptocurrency tycoon Christopher Harborne has given £36m to Reform UK, matchin...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Donald Trump says he would ‘love’ to see united Ireland",
+        "url": "https://www.theguardian.com/us-news/2026/sep/12/donald-trump-says-he-would-love-to-see-united-ireland",
+        "description": "US president say on visit to republic that unification will happen eventually so ‘may as well happen now’• Trump’s visit to Ireland – live updatesDonald Trump has said he would “love” to see a unit...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Reform UK given record £36m donation by British crypto billionaire",
         "url": "https://www.theguardian.com/politics/2026/sep/11/reform-uk-given-record-36m-donation-by-british-crypto-billionaire",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Northern Ireland schools must give girls option to wear trousers from next year",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/11/northern-ireland-schools-girls-trousers-uniform",
-        "description": "DUP education minister accused of dragging feet before revising guidelines on uniformSchools in Northern Ireland must give girls the choice to wear trousers as part of their uniforms as well as for...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK lawmakers urge Burnham to back ban on superintelligent AI after chilling warnings",
-        "url": "https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi",
-        "description": "Letter from 70 MPs and peers follows Anthropic employee’s claim new technology could wipe out humansAI could kill all humans in next decade, warn experts: but how seriously should we take them?More...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform receives record £36m donation from crypto billionaire",
-        "url": "https://www.bbc.co.uk/news/articles/c3v4zvyde15o?at_medium=RSS&at_campaign=rss",
-        "description": "Ben Delo's donation, the biggest single sum ever given to a political party in the UK, comes amid scrutiny of Reform's finances.",
+        "title": "Reform receives second £36m donation in two days as crypto investor matches record",
+        "url": "https://www.bbc.co.uk/news/articles/clye9nldd7do?at_medium=RSS&at_campaign=rss",
+        "description": "Christopher Harborne says he has equalled a donation from Ben Delo - the single largest gift to a UK political party.",
         "source": "BBC News",
         "category": "government"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Heatwaves hit the Sunday roast: why the RHS says cauliflower is off the menu",
+        "url": "https://www.theguardian.com/environment/2026/sep/12/heatwaves-hit-sunday-roast-rhs-cauliflower-off-menu",
+        "description": "Charity urges gardeners in England to swap thirsty brassicas for drought-tolerant cropsThey are an integral part of the British Sunday roast – but cauliflowers are now going to be off the menu, acc...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
         "url": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions",
         "description": "Record demand for A&E units, ambulance services and NHS 111 shows extreme heat having unprecedented impact on health, experts sayThe NHS came under its most intense strain ever as a result of the s...",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "World must reject climate culture wars or face economic ruin, says UN’s Stiell",
-        "url": "https://www.theguardian.com/environment/2026/sep/10/august-joint-hottest-month-recorded-globally",
-        "description": "Warning by United Nations climate chief comes as EU data shows August 2026 was joint hottest month everAttempts to stoke a climate crisis culture war must be rejected or the world will face economi...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Battle to save the tiny, gooey snail only found in one lake in the UK",
-        "url": "https://www.bbc.co.uk/news/articles/c1j4ngr05l8o?at_medium=RSS&at_campaign=rss",
-        "description": "Once prevalent across the UK, this mollusc is now only found in one lake in Wales.",
+        "title": "Record heatwaves in France set to make champagne stronger",
+        "url": "https://www.bbc.co.uk/news/articles/cvgydvrlep1o?at_medium=RSS&at_campaign=rss",
+        "description": "Winemakers can produce bubbly up to 15% ABV following an unusual harvest that produced sweeter grapes.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Revealed: the university courses students regret – and those they don’t",
+        "url": "https://www.theguardian.com/education/2026/sep/12/graduate-survey-many-regret-subject-choices-hindsight",
+        "description": "We looked at graduates’ satisfaction levels after leaving university – and while most were happy, up to a third wish they’d picked a different subjectGloomy headlines might claim that a degree is l...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "AI may be denting computer science graduates’ job prospects, UK data shows",
         "url": "https://www.theguardian.com/education/2026/sep/12/ai-computer-science-graduates-job-prospects-uk-data",
@@ -156,13 +163,6 @@
         "title": "Best UK universities for animation & game design – league table",
         "url": "https://www.theguardian.com/education/ng-interactive/2026/sep/12/best-uk-universities-for-animation-game-design-league-table",
         "description": "Learn how to design, write and engineer interactive experiences. Includes 2D, 3D and stop motion Continue reading...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Best UK universities for architecture – league table",
-        "url": "https://www.theguardian.com/education/ng-interactive/2026/sep/12/best-uk-universities-for-architecture-league-table",
-        "description": "Design and creation of buildings. Involves the study of the sciences, humanities and fine and applied arts Continue reading...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US and Ireland's relationship 'stronger than ever'",
+        "title": "A united Ireland would be 'fantastic' says Trump during Irish visit",
         "url": "https://www.bbc.co.uk/news/articles/cy0zvx15rywo?at_medium=RSS&at_campaign=rss",
-        "description": "Trump is holding meetings in Dublin before attending the Irish Open golf tournament in Doonbeg, County Clare.",
+        "description": "Trump made the comments during a meeting with Irish leader Micheál Martin, but Downing Street says it will \"stick to the Good Friday Agreement\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
-        "url": "https://www.bbc.co.uk/news/articles/c39mr81j2j1o?at_medium=RSS&at_campaign=rss",
-        "description": "Denise Cosco testified against the powerful 'Ndrangheta clan and her own father over the murder of her mother in Italy.",
+        "title": "French officials investigate if 'malicious act' caused train derailment",
+        "url": "https://www.bbc.co.uk/news/articles/c33kp533nn6o?at_medium=RSS&at_campaign=rss",
+        "description": "Officials say a rail fragment was found on the tracks after Friday's crash of a passenger train that left 44 people injured.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
