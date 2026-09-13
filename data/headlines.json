@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-09-13T15:38:35.658426+00:00",
+  "fetched_at": "2026-09-13T20:20:51.852703+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reform’s Robert Jenrick ‘very confident’ £72m donations are ‘perfectly legal’ – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/13/reform-uk-nigel-farage-robert-jenrick-christopher-harborne-ben-delo-donations-funding-anthropic-ai-uk-politics-latest-news-updates",
-        "description": "Party’s economic spokesperson says donations are a ‘breakthrough moment’ as Labour’s Angela Rayner warns of possible retrospective actionReform UK’s £72m donations may be caught by new bill, Rayner...",
+        "title": "Trade unions, MPs and donors urge Burnham to revisit party funding rules",
+        "url": "https://www.theguardian.com/politics/2026/sep/13/reform-uk-donations-new-bill-retrospective-effect-angela-rayner",
+        "description": "PM has so far declined to insert curbs on UK-based donors, despite £72m donations from billionaires to Reform UKTrade unions, MPs and donors have urged the government to look again at party funding...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Director who oversaw Grenfell cost-cutting given senior council housing role",
-        "url": "https://www.theguardian.com/society/2026/sep/13/grenfell-fire-director-laura-johnson-barnet-council-housing",
-        "description": "Fire survivors and bereaved urge Barnet Group to ‘reconsider’ appointment of Laura Johnson, who pushed for cheaper contractorGrenfell survivors and bereaved relatives have criticised the “outrageou...",
+        "title": "Donald Trump doubles down on support for united Ireland",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/13/donald-trump-doubles-down-on-support-for-united-ireland",
+        "description": "US president says ‘many people agree’ with his view on unification, brushing off Andy Burnham’s opposition to referendumDonald Trump has reiterated his support for Irish unification and brushed off...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Only slim chance target of building 1.5m homes in England will be met, minister says",
-        "url": "https://www.theguardian.com/society/2026/sep/13/slim-chance-government-target-building-homes",
-        "description": "Angela Rayner says manifesto pledge is not being dropped but focus is now on building council housesUK politics live – latest updatesThe government is unlikely to meet its target of building 1.5m h...",
+        "title": "Leaders at Celtic summit to affirm right to seek independence from UK",
+        "url": "https://www.theguardian.com/politics/2026/sep/13/first-ministers-to-affirm-right-to-seek-independence-from-the-uk",
+        "description": "Call for constitutional change in Northern Ireland, Scotland and Wales likely to challenge Burnham’s devolution agendaThe first ministers of Wales, Scotland and Northern Ireland are to affirm their...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform's £72m donations 'entirely in line with law', Jenrick says",
+        "title": "Reform confident it won't need to repay any of £72m under proposed new donor rules",
         "url": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
-        "description": "The government is trying to change the law on donations to UK political parties from British expats.",
+        "description": "Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would have \"to return that money\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "The Guardian view on the government’s corporate reforms: entrenching neoliberalism, not ending it | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it",
+        "description": "A recent consultation on corporate reporting prizes the interests of shareholders over society. It’s a step in the wrong directionThe question of what corporations are for is deeply political. In a...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
         "url": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
@@ -43,13 +50,6 @@
         "title": "AI will transform capitalism – but how?",
         "url": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
         "description": "Technology is going to drastically reshape the economy, and it’s within our power to decide what that looks likeThe idea that autonomous, thinking machines may one day destroy property, hierarchy a...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "George Osborne calls for UK to rejoin EU customs union and boost trade",
-        "url": "https://www.theguardian.com/business/2026/sep/13/george-osborne-calls-for-uk-to-rejoin-eu-customs-union-and-boost-trade",
-        "description": "Ex-Tory chancellor says economy has ‘fallen off a cliff’ since Brexit but rejoining union could be ‘quite simple’The former chancellor George Osborne said Britain’s economy had “fallen off a cliff”...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
+        "title": "A painful truth about post-Brexit immigration | Letters",
+        "url": "https://www.theguardian.com/politics/2026/sep/13/a-painful-truth-about-post-brexit-immigration",
+        "description": "While the media rightly highlights the harsh treatment of UK citizens abroad, the UK Home Office is quietly inflicting similar cruelty, says Vera-Lynn WatsonYour report (Wife of British man at risk...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Police release images of six men sought after violent disorder in Portsmouth",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/13/hampshire-police-release-images-six-men-violent-disorder-portsmouth",
+        "description": "Hampshire and Isle of Wight force says it wants to speak to men in connection with anti-migrant unrest that left seven officers injuredPolice have released images of six men they would like to spea...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Dover unrest exposes serious flaws in Britain’s handling of far-right extremism",
         "url": "https://www.theguardian.com/politics/2026/sep/13/dover-unrest-britain-far-right-extremism",
         "description": "Authorities were caught off guard by the disruption, which they labelled a ‘protest’ despite mass intimidation tacticsTo anybody watching the videos of a group of masked men, all wearing black, des...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Female asylum seekers report being sexually assaulted by British men",
-        "url": "https://www.theguardian.com/society/2026/sep/13/female-asylum-seekers-report-rapes-sexual-assaults-by-british-men",
-        "description": "Women say they are wary of pursuing criminal prosecution of rapes, for fear of having their asylum claims refusedFemale asylum seekers are reporting rapes and sexual assaults by British men but man...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Anti-migrant rally and counter-protesters face off in Portsmouth – video",
-        "url": "https://www.theguardian.com/world/video/2026/sep/12/anti-migrant-rally-and-counter-protesters-face-off-in-portsmouth-video",
-        "description": "Several hundred anti-immigration protesters faced off with counter-protesters in the centre of Portsmouth on Saturday, as the southern English port city found itself at the heart of Britain’s incre...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -162,7 +162,7 @@
       {
         "title": "UK government to offer clearer guidance on student loans after repayment row",
         "url": "https://www.theguardian.com/money/2026/sep/13/student-loans-repayments-university-students-guidance",
-        "description": "Criticism of three-year threshold repayment freeze prompts update to guidance warning terms and conditions could changeUniversity students taking out student loans are to be warned that the terms a...",
+        "description": "Criticism of three-year threshold repayment freeze in England prompts update to guidance warning terms and conditions could changeUniversity students taking out student loans in England are to be w...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -176,9 +176,9 @@
         "category": "housing"
       },
       {
-        "title": "Only slim chance target of building 1.5m homes in England will be met, minister says",
+        "title": "Only slim chance target of 1.5m new homes in England will be met, Angela Rayner says",
         "url": "https://www.theguardian.com/society/2026/sep/13/slim-chance-government-target-building-homes",
-        "description": "Angela Rayner says manifesto pledge is not being dropped but focus is now on building council housesUK politics live – latest updatesThe government is unlikely to meet its target of building 1.5m h...",
+        "description": "Minister says manifesto pledge is not being dropped but focus is now on building council housesUK politics live – latest updatesThe government is unlikely to meet its target of building 1.5m homes ...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-        "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
+        "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
+        "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Iran war reshapes Brics ties but also exposes divisions",
-        "url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss",
-        "description": "Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.",
+        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+        "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Six dead, 130 missing after Indonesian ferry capsizes in Java Sea",
-        "url": "https://www.bbc.co.uk/news/articles/cvgykzgljlyo?at_medium=RSS&at_campaign=rss",
-        "description": "Ships and helicopters are searching for those missing from the Virgo Transport 8 ship, which had encountered bad weather.",
+        "title": "Questions mount over what an AI 'slowdown' would look like",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+        "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
