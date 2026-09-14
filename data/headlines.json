@@ -1,48 +1,48 @@
 {
-  "fetched_at": "2026-09-14T11:51:46.587243+00:00",
+  "fetched_at": "2026-09-14T17:44:02.207494+00:00",
   "headlines": {
     "government": [
       {
-        "title": "TUC leader calls for ban on crypto donations and says Reform’s £72m shows democracy ‘in crisis’ - UK politics live",
+        "title": "UK politics: Farage hints that Reform’s £72m donations may not be legal under new elections bill - as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates",
-        "description": "Paul Nowak says the donations to Reform UK suggest that Nigel Farage is a ‘politician for sale’Paul Nowak, the TUC general secretary, has said that the two donations worth a total of £72m to Reform...",
+        "description": "In an interview about the donations, he said they are compliant with the law ‘today’Andy Burnham has cancelled engagements today and tomorrow following the death of his father Roy, who was sufferin...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK MPs and Lords call for new laws to tackle AI threat to human rights",
-        "url": "https://www.theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords",
-        "description": "Warning follows series of safety incidents, with committee saying threats include public face-scanning and deepfakesUK politics live – latest updatesBritish lawmakers are demanding more restriction...",
+        "title": "Unions intervene on political funding as TUC chief warns ‘super-rich’ threaten democracy",
+        "url": "https://www.theguardian.com/politics/2026/sep/14/uk-unions-split-over-party-donations-cap-as-tuc-chief-says-super-rich-corrupting-politics",
+        "description": "UK union leaders meet on Monday to discuss possible support for a domestic cap on political donationsUK politics live – latest updatesTrade unions are set to launch an intervention on Tuesday on po...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform declines to say if £72m donors returned to UK within 12-month limit",
-        "url": "https://www.theguardian.com/politics/2026/sep/14/reform-donors-uk-time-limit-richard-tice",
-        "description": "Richard Tice says contributions are legally compliant after author of review into overseas donations says rules will be applied retrospectivelyReform UK’s deputy leader has declined to say when two...",
+        "title": "Government moves to nationalise Speciality Steel UK to protect 1,300 jobs",
+        "url": "https://www.theguardian.com/business/2026/sep/14/government-nationalise-speciality-steel-uk-jobs-ssuk",
+        "description": "Firm, once part of Sanjeev Gupta’s empire, fell into administration last year but has failed to find buyerBusiness news – live updatesOne of Britain’s steelworks is to come into public ownership af...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Donations law changes to be debated after Reform's £72m windfall",
-        "url": "https://www.bbc.co.uk/news/articles/cvgyjn9pdeeo?at_medium=RSS&at_campaign=rss",
-        "description": "The government is seeking to change the law on donations to UK political parties from British expats.",
+        "title": "Burnham cancels engagements after death of father",
+        "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
+        "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "European tech stocks hit six-week low as calls for AI slowdown worry investors – business live",
-        "url": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsAI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ developmentAI CEOs say they need to slow the pace of development. B...",
+        "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
+        "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+        "description": "Soaring oil prices of above $108 a barrel after Houthi attacks on Saudi infrastructure stoke inflation fears  US government borrowing costs have risen to 5% for the first time since 2023 as soaring...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
-        "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-        "description": "Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab straitBusiness news – live updatesOil prices have climbed above $108 a barrel aft...",
+        "title": "UK government moves to acquire Speciality Steel UK; AI stocks hit by calls for slowdown – as it happened",
+        "url": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsAI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ developmentAI CEOs say they need to slow the pace of development. B...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,14 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "Petrol and diesel prices hit highest since 2022",
-        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
-        "description": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
+        "title": "Government set to nationalise troubled steel firm",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
+        "description": "Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "If looks could kill, I’d be in real trouble | Brief letters",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/14/if-looks-could-kill-id-be-in-real-trouble",
+        "description": "Default facial expressions | Coffee thermometer | Quitting Britain | Nominative determinism delightsAdrian Chiles is lucky that his face is merely “miserable” (I’ve spent my whole life looking mise...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "There’s a surprisingly simple reason for England’s high antidepressant use: lots of people need them | Dean Burnett",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/14/england-record-antidepressant-use-gp-guidelines-overprescribing",
+        "description": "The idea that GPs are ignoring guidelines and ‘overprescribing’ doesn’t hold water. Instead, look to our social and economic crisesDean Burnett is a doctor of neuroscience A new NHS report has reve...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
         "url": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions",
@@ -70,51 +84,44 @@
         "category": "nhs"
       },
       {
-        "title": "Reform UK says it will ‘fully cooperate’ with Met after inquiry launched into alleged overseas donations – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/09/uk-israel-west-bank-ed-miliband-andy-burnham-uk-politics-latest-news-updates",
-        "description": "Party denies wrongdoing after Scotland Yard confirms it is investigating allegations broadcast by Channel 4 after undercover stingAlex Burghart, the deputy Tory leader, was giving interviews this m...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "The Guardian view on skin cancer: fear the heat of the sun | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/07/the-guardian-view-on-skin-cancer-fear-the-heat-of-the-sun",
-        "description": "With melanoma cases rising, the UK must learn from public health campaigns elsewhereNew climate risks bring with them new health risks. An exceptionally warm and dry summer in Europe meant that out...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "The Pitt is up for 25 Emmys - but the show's biggest fans are real-life doctors",
-        "url": "https://www.bbc.co.uk/news/articles/clyqx0e175ko?at_medium=RSS&at_campaign=rss",
-        "description": "Those in the medical profession say the HBO Max show about a US hospital emergency room is the most realistic medical drama yet.",
+        "title": "Staff slept while patient killed at NHS mental health unit",
+        "url": "https://www.bbc.co.uk/news/articles/c750vqp1wlxo?at_medium=RSS&at_campaign=rss",
+        "description": "Inquest hears how Rolando Torres-Pena, 22, was able to strangle and kill Hugo Flint-Cahan on a hospital ward in east London.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
+        "title": "‘Signs of violence’: asylum seekers arriving in France injured after being deported from UK",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/14/asylum-seekers-removed-uk-france-injured-one-in-one-out",
+        "description": "French health service documents injuries including fractures and bruising after detention and return under ‘one in one out’ schemeMultiple injuries including bruising and fractures have been docume...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "If looks could kill, I’d be in real trouble | Brief letters",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/14/if-looks-could-kill-id-be-in-real-trouble",
+        "description": "Default facial expressions | Coffee thermometer | Quitting Britain | Nominative determinism delightsAdrian Chiles is lucky that his face is merely “miserable” (I’ve spent my whole life looking mise...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "A painful truth about post-Brexit immigration | Letters",
         "url": "https://www.theguardian.com/politics/2026/sep/13/a-painful-truth-about-post-brexit-immigration",
         "description": "While the media rightly highlights the harsh treatment of UK citizens abroad, the UK Home Office is quietly inflicting similar cruelty, says Vera-Lynn WatsonYour report (Wife of British man at risk...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Police release images of six men sought after violent disorder in Portsmouth",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/13/hampshire-police-release-images-six-men-violent-disorder-portsmouth",
-        "description": "Hampshire and Isle of Wight force says it wants to speak to men in connection with anti-migrant unrest that left seven officers injuredPolice have released images of six men they would like to spea...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Dover unrest exposes serious flaws in Britain’s handling of far-right extremism",
-        "url": "https://www.theguardian.com/politics/2026/sep/13/dover-unrest-britain-far-right-extremism",
-        "description": "Authorities were caught off guard by the disruption, which they labelled a ‘protest’ despite mass intimidation tacticsTo anybody watching the videos of a group of masked men, all wearing black, des...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Trump’s EPA reportedly ⁠poised to axe carbon pollution rules for power plants",
+        "url": "https://www.theguardian.com/environment/2026/sep/14/trump-epa-repeal-pollution-standards-power-plants",
+        "description": "Advocates and experts describe the Trump administration’s climate rollbacks as gifts to polluters at expense of planetThe US Environmental Protection Agency (EPA) is ⁠poised to formally repeal carb...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
         "url": "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
-        "url": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions",
-        "description": "Record demand for A&E units, ambulance services and NHS 111 shows extreme heat having unprecedented impact on health, experts sayThe NHS came under its most intense strain ever as a result of the s...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
-        "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
-        "description": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
+        "title": "Flash flooding interrupts half-marathon, submerges cars",
+        "url": "https://www.bbc.co.uk/news/videos/cqdj48mpw8mro?at_medium=RSS&at_campaign=rss",
+        "description": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Queensland homeless man shot with Taser after being given move-on order to make way for kite festival",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/15/queensland-homeless-man-shot-with-taser-after-being-given-move-on-order-to-make-way-for-kite-festival-ntwnfb",
+        "description": "Exclusive: Advocate says homeless clearances should be halted after man is hospitalised during confrontation in Brisbane parkGet our breaking news email, free app or daily news podcastA homeless ma...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Director who oversaw Grenfell cost-cutting given senior council housing role",
         "url": "https://www.theguardian.com/society/2026/sep/13/grenfell-fire-director-laura-johnson-barnet-council-housing",
         "description": "Fire survivors and bereaved urge Barnet Group to ‘reconsider’ appointment of Laura Johnson, who pushed for cheaper contractorGrenfell survivors and bereaved relatives have criticised the “outrageou...",
@@ -181,20 +188,13 @@
         "description": "Minister says manifesto pledge is not being dropped but focus is now on building council housesUK politics live – latest updatesThe government is unlikely to meet its target of building 1.5m homes ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Facing a UK housing dilemma? Send us your questions",
-        "url": "https://www.theguardian.com/money/2026/sep/11/facing-a-uk-housing-dilemma-send-us-your-questions",
-        "description": "From renting and troublesome landlords to buying or selling a home, send us your UK housing questionsAre you dealing with a problem with your landlord or tenancy, wondering about buying or selling ...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
         "title": "China criticises idea it is in 'malicious competition' over AI",
         "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-        "description": "It follows the Anthropic CEO 's calls for a slowdown in AI development, in a way that China doesn't pull ahead.",
+        "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Thousands demand end to violence in Mexican cartel hotspot",
-        "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
-        "description": "The city has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+        "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
+        "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
+        "description": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
