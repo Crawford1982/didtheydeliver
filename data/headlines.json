@@ -1,38 +1,52 @@
 {
-  "fetched_at": "2026-09-14T03:28:40.603166+00:00",
+  "fetched_at": "2026-09-14T11:51:46.587243+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Hospitality industry urges Andy Burnham to lay out VAT cut plans",
-        "url": "https://www.theguardian.com/business/2026/sep/14/hospitality-industry-andy-burnham-vat-reduction",
-        "description": "More than 800 businesses ask PM to make good on pledge, or risk more closures and job lossesHundreds of UK hospitality businesses, backed by celebrity chefs including Angela Hartnett and Heston Blu...",
+        "title": "TUC leader calls for ban on crypto donations and says Reform’s £72m shows democracy ‘in crisis’ - UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates",
+        "description": "Paul Nowak says the donations to Reform UK suggest that Nigel Farage is a ‘politician for sale’Paul Nowak, the TUC general secretary, has said that the two donations worth a total of £72m to Reform...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "‘Sweat the asset’: new development minister plots path to make UK aid count",
-        "url": "https://www.theguardian.com/politics/2026/sep/13/sweat-the-asset-new-development-minister-plots-path-to-make-uk-aid-count",
-        "description": "Kirsty McNeill reaffirms Labour’s 0.7% of GDP pledge and promises value for money to allay voter concernsThe development minister, Kirsty McNeill, has declared herself “a huge believer in aid”, as ...",
+        "title": "UK MPs and Lords call for new laws to tackle AI threat to human rights",
+        "url": "https://www.theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords",
+        "description": "Warning follows series of safety incidents, with committee saying threats include public face-scanning and deepfakesUK politics live – latest updatesBritish lawmakers are demanding more restriction...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham to host entrepreneurs and local mayors at No 10 on Monday",
-        "url": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
-        "description": "Prime minister vows to ‘reindustrialise Britain’ through new partnership with business The prime minister is to host business leaders, entrepreneurs and local mayors at Downing Street on Monday to ...",
+        "title": "Reform declines to say if £72m donors returned to UK within 12-month limit",
+        "url": "https://www.theguardian.com/politics/2026/sep/14/reform-donors-uk-time-limit-richard-tice",
+        "description": "Richard Tice says contributions are legally compliant after author of review into overseas donations says rules will be applied retrospectivelyReform UK’s deputy leader has declined to say when two...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Committee calls for bill to address AI threat to human rights",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
-        "description": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
+        "title": "Donations law changes to be debated after Reform's £72m windfall",
+        "url": "https://www.bbc.co.uk/news/articles/cvgyjn9pdeeo?at_medium=RSS&at_campaign=rss",
+        "description": "The government is seeking to change the law on donations to UK political parties from British expats.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "European tech stocks hit six-week low as calls for AI slowdown worry investors – business live",
+        "url": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsAI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ developmentAI CEOs say they need to slow the pace of development. B...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Oil prices rise after drone attacks shut down Saudi Arabia’s East-West pipeline",
+        "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
+        "description": "Price spike comes as rebel Houthis in Yemen target oil infrastructure and capture strategic island in Bab al-Mandab straitBusiness news – live updatesOil prices have climbed above $108 a barrel aft...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Andy Burnham to host entrepreneurs and local mayors at No 10 on Monday",
         "url": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
         "description": "Prime minister vows to ‘reindustrialise Britain’ through new partnership with business The prime minister is to host business leaders, entrepreneurs and local mayors at Downing Street on Monday to ...",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "The Guardian view on the government’s corporate reforms: entrenching neoliberalism, not ending it | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it",
-        "description": "A recent consultation on corporate reporting prizes the interests of shareholders over society. It’s a step in the wrong directionThe question of what corporations are for is deeply political. In a...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Surging inflation puts interest rates back in focus as policymakers meet in Japan, US and UK",
-        "url": "https://www.theguardian.com/business/2026/sep/13/interest-rates-predicted-rise-us-uk-inflation-fears",
-        "description": "Iran war and turbulent global bond markets add to pressure as rate decisions loom this week in major western economiesEconomics viewpoint: perilous UK economic conditions trace back to TrumpCentral...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Gloomy forecast for tenants as rent rises set to speed up",
-        "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
-        "description": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
+        "title": "Petrol and diesel prices hit highest since 2022",
+        "url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss",
+        "description": "The cost of filling up a vehicle has rebounded, according to the RAC, as oil prices remain elevated.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
+        "url": "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
+        "description": "But their habitat is threatened by bottom trawling in the region and Trump’s plan to expand seafloor miningScientists have discovered nine new deep-sea sponge species off Alaska, offering new insig...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Heatwaves hit the Sunday roast: why the RHS says cauliflower is off the menu",
         "url": "https://www.theguardian.com/environment/2026/sep/12/heatwaves-hit-sunday-roast-rhs-cauliflower-off-menu",
         "description": "Charity urges gardeners in England to swap thirsty brassicas for drought-tolerant cropsThey are an integral part of the British Sunday roast – but cauliflowers are now going to be off the menu, acc...",
@@ -130,39 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "English winemakers expect ‘vintage year’ after record-breaking summer heat",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/10/english-winemakers-vintage-grapes-harvest-heatwave",
-        "description": "Hot weather means sweeter grapes, but outlook gloomier for beermakers, as drought diminishes barley harvestEnglish sparkling winemakers expect their earliest grape harvest and a “vintage year” afte...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
-        "url": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
-        "description": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities.",
+        "title": "Zambians warned not to eat dead wildlife after anthrax kills dozens of animals",
+        "url": "https://www.bbc.co.uk/news/articles/ce8en6v3601o?at_medium=RSS&at_campaign=rss",
+        "description": "At least 12 people are being treated for anthrax after eating infected meat from wildlife carcasses.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Your dream university bedroom: how to get that Insta glow-up",
+        "url": "https://www.theguardian.com/education/2026/sep/14/dream-uni-bedroom-insta-glow-up",
+        "description": "You’re going to spend a lot of time in your uni room – so don’t just dump your boxes and run. Here’s how to make that space work for youUni means many hours cramming in the library and equally as m...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Can you futureproof your career by choosing an AI-resistant degree?",
+        "url": "https://www.theguardian.com/education/2026/sep/14/futureproof-your-career-by-choosing-an-ai-resistant-degree",
+        "description": "Humans will have to compete with AI-powered virtual employees in the near future. Here are our tips for the last human holdoutsFutureproofing your career with an AI-resistant degree is a tough ask,...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Researchers hope powerful new microscope will reveal ‘root cause’ of incurable bowel disease",
         "url": "https://www.theguardian.com/society/2026/sep/14/new-microscope-discovery-hopes-incurable-inflammatory-bowel-disease-crohns-science-treatment",
         "description": "No run-of-the-mill tech, ‘Curie’ operates at 10 times the resolution of conventional microscopy and could spur discoveries leading to new treatmentThe number of young people living with debilitatin...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘The show choir definitely helped me’: the dos and don’ts of joining student societies",
-        "url": "https://www.theguardian.com/education/2026/sep/13/dos-and-donts-of-joining-student-societies-show-choir",
-        "description": "Signing up for university clubs and societies is a surefire way to meet like-minded people, boosting your social life and your CV at a strokeClubs and societies are a huge part of student life, tho...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘Really helpful’: the AI bootcamps aimed at addressing UK youth unemployment",
-        "url": "https://www.theguardian.com/technology/2026/sep/13/ai-bootcamps-uk-youth-unemployment-neets-preston",
-        "description": "Pilot project in Preston comes with apprenticeship offer for Neets at end of three-week courseIn a youth centre opposite Preston bus station, the UK government is trying to address two of the great...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "China criticises idea it is in 'malicious competition' over AI",
+        "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
+        "description": "It follows the Anthropic CEO 's calls for a slowdown in AI development, in a way that China doesn't pull ahead.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
         "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-        "description": "The former UK PM said \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+        "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump downplays warnings of AI risks, citing rivalry with China",
-        "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Questions mount over what an AI 'slowdown' would look like",
-        "url": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-        "description": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+        "title": "Thousands demand end to violence in Mexican cartel hotspot",
+        "url": "https://www.bbc.co.uk/news/articles/cde06rxw5g6o?at_medium=RSS&at_campaign=rss",
+        "description": "The city has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
