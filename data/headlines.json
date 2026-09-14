@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-09-14T17:44:02.207494+00:00",
+  "fetched_at": "2026-09-14T21:30:24.393884+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK politics: Farage hints that Reform’s £72m donations may not be legal under new elections bill - as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/14/reform-uk-political-donations-cap-richard-tice-ben-delo-christopher-harborne-latest-news-updates",
-        "description": "In an interview about the donations, he said they are compliant with the law ‘today’Andy Burnham has cancelled engagements today and tomorrow following the death of his father Roy, who was sufferin...",
+        "title": "New special envoy for Britons detained overseas warns of limits of role",
+        "url": "https://www.theguardian.com/politics/2026/sep/14/new-special-envoy-for-britons-detained-overseas-warns-of-limits-of-role",
+        "description": "Alistair Burt speaks candidly about difficulties of tackling complex cases as families express concern over mandateThe special envoy for British citizens detained overseas has spoken about the diff...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Unions intervene on political funding as TUC chief warns ‘super-rich’ threaten democracy",
-        "url": "https://www.theguardian.com/politics/2026/sep/14/uk-unions-split-over-party-donations-cap-as-tuc-chief-says-super-rich-corrupting-politics",
-        "description": "UK union leaders meet on Monday to discuss possible support for a domestic cap on political donationsUK politics live – latest updatesTrade unions are set to launch an intervention on Tuesday on po...",
+        "title": "Amendment to bill in Lords could test legality of £72m Reform donations",
+        "url": "https://www.theguardian.com/politics/2026/sep/14/amendment-to-bill-in-lords-could-test-legality-of-72m-reform-donations",
+        "description": "Plans to strengthen legislation already going through parliament might mean donors having to meet stricter UK residence requirementsAndy Burnham’s government could thwart Reform’s unprecedented £72...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Government moves to nationalise Speciality Steel UK to protect 1,300 jobs",
-        "url": "https://www.theguardian.com/business/2026/sep/14/government-nationalise-speciality-steel-uk-jobs-ssuk",
-        "description": "Firm, once part of Sanjeev Gupta’s empire, fell into administration last year but has failed to find buyerBusiness news – live updatesOne of Britain’s steelworks is to come into public ownership af...",
+        "title": "Will the £72m of donations to Reform UK be allowed?",
+        "url": "https://www.theguardian.com/politics/2026/sep/14/will-donations-to-reform-uk-be-allowed-crypto-billionaires",
+        "description": "Key questions surrounding the huge sums donated by crypto billionaires Christopher Harborne and Ben DeloReform UK announced over the weekend the two biggest single political donations in British hi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham cancels engagements after death of father",
-        "url": "https://www.bbc.co.uk/news/articles/c68xkddgnd47o?at_medium=RSS&at_campaign=rss",
-        "description": "Burnham has previously said his father did not know he had become prime minister due to his Alzheimer's.",
+        "title": "Farage says £72m donations are compliant 'with the law today'",
+        "url": "https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&at_campaign=rss",
+        "description": "Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25 March 2026.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Government set to nationalise troubled steel firm",
-        "url": "https://www.bbc.co.uk/news/articles/cm9w47ngje9no?at_medium=RSS&at_campaign=rss",
-        "description": "Production at SSUK sites in South Yorkshire and the West Midlands was paused earlier this year.",
+        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+        "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
+        "description": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Staff slept while patient killed at NHS mental health unit",
-        "url": "https://www.bbc.co.uk/news/articles/c750vqp1wlxo?at_medium=RSS&at_campaign=rss",
-        "description": "Inquest hears how Rolando Torres-Pena, 22, was able to strangle and kill Hugo Flint-Cahan on a hospital ward in east London.",
+        "title": "The Pitt is up for 25 Emmys - but the show's biggest fans are real-life doctors",
+        "url": "https://www.bbc.co.uk/news/articles/clyqx0e175ko?at_medium=RSS&at_campaign=rss",
+        "description": "Those in the medical profession say the HBO Max show about a US hospital emergency room is the most realistic medical drama yet.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,9 +116,16 @@
     ],
     "climate": [
       {
-        "title": "Trump’s EPA reportedly ⁠poised to axe carbon pollution rules for power plants",
+        "title": "US ends limits on coal and gas plant emissions, removing key tool to battle climate crisis",
         "url": "https://www.theguardian.com/environment/2026/sep/14/trump-epa-repeal-pollution-standards-power-plants",
-        "description": "Advocates and experts describe the Trump administration’s climate rollbacks as gifts to polluters at expense of planetThe US Environmental Protection Agency (EPA) is ⁠poised to formally repeal carb...",
+        "description": "Trump’s EPA strips itself of regulation ability, gutting Clean Air Act in what experts say is a gift to planet pollutersOn the heels of the hottest summer ever recorded in the US, the Trump adminis...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "US ‘super-emitters’ of planet heating methane identified by satellite analysis",
+        "url": "https://www.theguardian.com/environment/2026/sep/14/us-companies-methane-pollution-rankings",
+        "description": "Energy Transfer, whose CEO is a major Trump donor, named as biggest single methane producer in new rankingsDown a short gravel track in a largely nondescript corner of Louisiana sits a gas processi...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Heatwaves hit the Sunday roast: why the RHS says cauliflower is off the menu",
-        "url": "https://www.theguardian.com/environment/2026/sep/12/heatwaves-hit-sunday-roast-rhs-cauliflower-off-menu",
-        "description": "Charity urges gardeners in England to swap thirsty brassicas for drought-tolerant cropsThey are an integral part of the British Sunday roast – but cauliflowers are now going to be off the menu, acc...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Flash flooding interrupts half-marathon, submerges cars",
-        "url": "https://www.bbc.co.uk/news/videos/cqdj48mpw8mro?at_medium=RSS&at_campaign=rss",
-        "description": "Parts of New York, New Jersey and Connecticut were hit by flash flooding, leading to water rescues, stranded motorists and half-marathon runners battling the floodwaters.",
+        "title": "US scraps limits on emissions from coal and gas power plants",
+        "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
+        "description": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
         "source": "BBC News",
         "category": "climate"
       }
