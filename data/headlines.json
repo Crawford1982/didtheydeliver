@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-09-13T20:20:51.852703+00:00",
+  "fetched_at": "2026-09-14T03:28:40.603166+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Trade unions, MPs and donors urge Burnham to revisit party funding rules",
-        "url": "https://www.theguardian.com/politics/2026/sep/13/reform-uk-donations-new-bill-retrospective-effect-angela-rayner",
-        "description": "PM has so far declined to insert curbs on UK-based donors, despite £72m donations from billionaires to Reform UKTrade unions, MPs and donors have urged the government to look again at party funding...",
+        "title": "Hospitality industry urges Andy Burnham to lay out VAT cut plans",
+        "url": "https://www.theguardian.com/business/2026/sep/14/hospitality-industry-andy-burnham-vat-reduction",
+        "description": "More than 800 businesses ask PM to make good on pledge, or risk more closures and job lossesHundreds of UK hospitality businesses, backed by celebrity chefs including Angela Hartnett and Heston Blu...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Donald Trump doubles down on support for united Ireland",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/13/donald-trump-doubles-down-on-support-for-united-ireland",
-        "description": "US president says ‘many people agree’ with his view on unification, brushing off Andy Burnham’s opposition to referendumDonald Trump has reiterated his support for Irish unification and brushed off...",
+        "title": "‘Sweat the asset’: new development minister plots path to make UK aid count",
+        "url": "https://www.theguardian.com/politics/2026/sep/13/sweat-the-asset-new-development-minister-plots-path-to-make-uk-aid-count",
+        "description": "Kirsty McNeill reaffirms Labour’s 0.7% of GDP pledge and promises value for money to allay voter concernsThe development minister, Kirsty McNeill, has declared herself “a huge believer in aid”, as ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Leaders at Celtic summit to affirm right to seek independence from UK",
-        "url": "https://www.theguardian.com/politics/2026/sep/13/first-ministers-to-affirm-right-to-seek-independence-from-the-uk",
-        "description": "Call for constitutional change in Northern Ireland, Scotland and Wales likely to challenge Burnham’s devolution agendaThe first ministers of Wales, Scotland and Northern Ireland are to affirm their...",
+        "title": "Andy Burnham to host entrepreneurs and local mayors at No 10 on Monday",
+        "url": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
+        "description": "Prime minister vows to ‘reindustrialise Britain’ through new partnership with business The prime minister is to host business leaders, entrepreneurs and local mayors at Downing Street on Monday to ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform confident it won't need to repay any of £72m under proposed new donor rules",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss",
-        "description": "Housing Secretary Angela Rayner says rule changes on donations from UK expats would apply retrospectively and anyone not complying with them would have \"to return that money\".",
+        "title": "Committee calls for bill to address AI threat to human rights",
+        "url": "https://www.bbc.co.uk/news/articles/cwyzvgj70y4o?at_medium=RSS&at_campaign=rss",
+        "description": "A cross-party group of MPs and peers identifies human rights risks that existing laws appear not to cover.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Andy Burnham to host entrepreneurs and local mayors at No 10 on Monday",
+        "url": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
+        "description": "Prime minister vows to ‘reindustrialise Britain’ through new partnership with business The prime minister is to host business leaders, entrepreneurs and local mayors at Downing Street on Monday to ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "The Guardian view on the government’s corporate reforms: entrenching neoliberalism, not ending it | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/sep/13/the-guardian-view-on-the-governments-corporate-reforms-entrenching-neoliberalism-not-ending-it",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "AI will transform capitalism – but how?",
-        "url": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
-        "description": "Technology is going to drastically reshape the economy, and it’s within our power to decide what that looks likeThe idea that autonomous, thinking machines may one day destroy property, hierarchy a...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-        "description": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+        "title": "Gloomy forecast for tenants as rent rises set to speed up",
+        "url": "https://www.bbc.co.uk/news/articles/c4gqjv476qeo?at_medium=RSS&at_campaign=rss",
+        "description": "The cost of renting is expected to rise by 4% or 5% a year by December, according to property website Zoopla.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Some dentists say more young people are grinding their teeth - are you one of them?",
-        "url": "https://www.bbc.co.uk/news/articles/ckgwe8dk6z6o?at_medium=RSS&at_campaign=rss",
-        "description": "Millions of us do it, though few of us realise we do - but getting the right treatment can be life-changing.",
+        "title": "The Pitt is up for 25 Emmys - but the show's biggest fans are real-life doctors",
+        "url": "https://www.bbc.co.uk/news/articles/clyqx0e175ko?at_medium=RSS&at_campaign=rss",
+        "description": "Those in the medical profession say the HBO Max show about a US hospital emergency room is the most realistic medical drama yet.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Summer wildfires caused catastrophic hidden damage, scientists warn",
-        "url": "https://www.bbc.co.uk/news/articles/cn07rzrq244o?at_medium=RSS&at_campaign=rss",
-        "description": "Bangor University researchers say the scale of damage is far greater than what is immediately visible.",
+        "title": "The Himalayas are melting faster - and India's economy is 'at risk'",
+        "url": "https://www.bbc.co.uk/news/articles/crm9ezvwjpno?at_medium=RSS&at_campaign=rss",
+        "description": "A new report warns Himalayan glaciers are melting faster, threatening India’s water, economy and communities.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Researchers hope powerful new microscope will reveal ‘root cause’ of incurable bowel disease",
+        "url": "https://www.theguardian.com/society/2026/sep/14/new-microscope-discovery-hopes-incurable-inflammatory-bowel-disease-crohns-science-treatment",
+        "description": "No run-of-the-mill tech, ‘Curie’ operates at 10 times the resolution of conventional microscopy and could spur discoveries leading to new treatmentThe number of young people living with debilitatin...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘The show choir definitely helped me’: the dos and don’ts of joining student societies",
         "url": "https://www.theguardian.com/education/2026/sep/13/dos-and-donts-of-joining-student-societies-show-choir",
@@ -156,13 +163,6 @@
         "title": "‘Really helpful’: the AI bootcamps aimed at addressing UK youth unemployment",
         "url": "https://www.theguardian.com/technology/2026/sep/13/ai-bootcamps-uk-youth-unemployment-neets-preston",
         "description": "Pilot project in Preston comes with apprenticeship offer for Neets at end of three-week courseIn a youth centre opposite Preston bus station, the UK government is trying to address two of the great...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "UK government to offer clearer guidance on student loans after repayment row",
-        "url": "https://www.theguardian.com/money/2026/sep/13/student-loans-repayments-university-students-guidance",
-        "description": "Criticism of three-year threshold repayment freeze in England prompts update to guidance warning terms and conditions could changeUniversity students taking out student loans in England are to be w...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -201,7 +201,7 @@
       {
         "title": "Trump downplays warnings of AI risks, citing rivalry with China",
         "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-        "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
+        "description": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
