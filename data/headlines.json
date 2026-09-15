@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-09-14T21:30:24.393884+00:00",
+  "fetched_at": "2026-09-15T03:29:56.129204+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Why crypto-billionaires love Reform – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/sep/15/why-crypto-billionaires-love-reform-podcast",
+        "description": "Reform UK have just been showered with £72m in donations by billionaires. What does that money buy and what will the party do with it? Peter Walker explainsOn Friday Ben Delo, a 42-year-old busines...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "New special envoy for Britons detained overseas warns of limits of role",
         "url": "https://www.theguardian.com/politics/2026/sep/14/new-special-envoy-for-britons-detained-overseas-warns-of-limits-of-role",
@@ -10,16 +17,9 @@
         "category": "government"
       },
       {
-        "title": "Amendment to bill in Lords could test legality of £72m Reform donations",
+        "title": "Ministers seek law change to make £72m donations to Reform illegal",
         "url": "https://www.theguardian.com/politics/2026/sep/14/amendment-to-bill-in-lords-could-test-legality-of-72m-reform-donations",
         "description": "Plans to strengthen legislation already going through parliament might mean donors having to meet stricter UK residence requirementsAndy Burnham’s government could thwart Reform’s unprecedented £72...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Will the £72m of donations to Reform UK be allowed?",
-        "url": "https://www.theguardian.com/politics/2026/sep/14/will-donations-to-reform-uk-be-allowed-crypto-billionaires",
-        "description": "Key questions surrounding the huge sums donated by crypto billionaires Christopher Harborne and Ben DeloReform UK announced over the weekend the two biggest single political donations in British hi...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
+        "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
+        "description": "Latest daily reductions will further choke one of the world’s most important shipping lanesThe Panama canal plans to again cut maritime traffic due to worsening drought caused by the El Niño climat...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
         "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Andy Burnham to host entrepreneurs and local mayors at No 10 on Monday",
-        "url": "https://www.theguardian.com/politics/2026/sep/13/andy-burnham-host-business-leaders-local-mayors-no-10",
-        "description": "Prime minister vows to ‘reindustrialise Britain’ through new partnership with business The prime minister is to host business leaders, entrepreneurs and local mayors at Downing Street on Monday to ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder says",
+        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-        "description": "Jack Clark says \"most labs have different ways of being able to pull the plug\", but says this may need to be a requirement.",
+        "description": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
         "source": "BBC News",
         "category": "economy"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "US scraps limits on emissions from coal and gas power plants",
-        "url": "https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss",
-        "description": "The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.",
+        "title": "Mass nesting brings swarms of turtles to Mexican beach",
+        "url": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -171,7 +171,7 @@
       {
         "title": "Queensland homeless man shot with Taser after being given move-on order to make way for kite festival",
         "url": "https://www.theguardian.com/australia-news/2026/sep/15/queensland-homeless-man-shot-with-taser-after-being-given-move-on-order-to-make-way-for-kite-festival-ntwnfb",
-        "description": "Exclusive: Advocate says homeless clearances should be halted after man is hospitalised during confrontation in Brisbane parkGet our breaking news email, free app or daily news podcastA homeless ma...",
+        "description": "Exclusive: Advocate says homeless clearances should be halted after man is hospitalised during confrontation in Brisbane parkFollow our Australia news live blog for latest updatesGet our breaking n...",
         "source": "The Guardian",
         "category": "housing"
       },
