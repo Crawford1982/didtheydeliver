@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-09-15T03:29:56.129204+00:00",
+  "fetched_at": "2026-09-15T11:07:15.681870+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Why crypto-billionaires love Reform – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/sep/15/why-crypto-billionaires-love-reform-podcast",
-        "description": "Reform UK have just been showered with £72m in donations by billionaires. What does that money buy and what will the party do with it? Peter Walker explainsOn Friday Ben Delo, a 42-year-old busines...",
+        "title": "UK trade unions warn against ‘Americanisation of our politics’ from big political donations",
+        "url": "https://www.theguardian.com/politics/2026/sep/15/trade-unions-americanisation-politics-political-donations-reform-uk",
+        "description": "Bosses call union funding ‘cleanest money in politics’ as they stop short of backing cap after Reform UK given £72mUK politics live – latest updatesTrade unions have stopped short of backing a cap ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "New special envoy for Britons detained overseas warns of limits of role",
-        "url": "https://www.theguardian.com/politics/2026/sep/14/new-special-envoy-for-britons-detained-overseas-warns-of-limits-of-role",
-        "description": "Alistair Burt speaks candidly about difficulties of tackling complex cases as families express concern over mandateThe special envoy for British citizens detained overseas has spoken about the diff...",
+        "title": "TUC warns of danger of ‘out of control political spending’ but stops short of backing caps on donations –  UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/15/nigel-farage-reform-labour-party-funding-donations-unions-funding-72m-christopher-harborne-ai-louise-haigh-tuc-andy-burnham-uk-politics-latest-news-updates",
+        "description": "Union statement comes after Nigel Farage says a Reform UK government would stop unions funding Labour if they block £72m donations to his partyThe Liberal Democrats have said that they will try to ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Ministers seek law change to make £72m donations to Reform illegal",
-        "url": "https://www.theguardian.com/politics/2026/sep/14/amendment-to-bill-in-lords-could-test-legality-of-72m-reform-donations",
-        "description": "Plans to strengthen legislation already going through parliament might mean donors having to meet stricter UK residence requirementsAndy Burnham’s government could thwart Reform’s unprecedented £72...",
+        "title": "Jaguar Land Rover in talks to sell Defender to Nato countries",
+        "url": "https://www.theguardian.com/business/2026/sep/15/jaguar-land-rover-sell-defender-nato-jlr",
+        "description": "Carmaker builds on relationship with British armed forces by seeking to cash in on Europe’s rearmament drive Business live – latest updatesJaguar Land Rover is in talks with Nato countries about se...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Farage says £72m donations are compliant 'with the law today'",
-        "url": "https://www.bbc.co.uk/news/articles/c623xee9dkdyo?at_medium=RSS&at_campaign=rss",
-        "description": "Ministers are seeking to put a £100,000 annual cap on donations from British expats, backdated to 25 March 2026.",
+        "title": "Political donors could face tougher residency rules",
+        "url": "https://www.bbc.co.uk/news/articles/cw3d7mv5v72ro?at_medium=RSS&at_campaign=rss",
+        "description": "It comes after Reform received donations totalling £72m from two British crypto-billionaires who have both recently lived abroad.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "UK state pension set to top £13,000 a year as wage growth slows to 3.9%",
+        "url": "https://www.theguardian.com/business/2026/sep/15/uk-pay-growth-interest-rates-unemployment-inflation-oil-price",
+        "description": "Workers face inflation squeeze fuelled by Iran war, as Bank of England prepares for interest rates decisionBusiness live – latest updatesWage growth in the UK has slowed as workers come under press...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Bank of England urged to slow or halt bond-selling to slash UK borrowing costs",
+        "url": "https://www.theguardian.com/business/2026/sep/15/bank-of-england-bond-selling-cut-uk-borrowing-costs-john-healey",
+        "description": "Economists urge John Healey to press Bank to change policy that is costing the exchequer billions of poundsEconomists have urged the chancellor, John Healey, to press the Bank of England to slow do...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Panama canal traffic to be cut again as drought from El Niño worsens",
         "url": "https://www.theguardian.com/world/2026/sep/15/panama-canal-traffic-cut-trade-drought-el-nino",
@@ -40,46 +54,32 @@
         "category": "economy"
       },
       {
-        "title": "US borrowing costs hit 5% for first time since 2023 amid bond sell-off",
-        "url": "https://www.theguardian.com/business/2026/sep/14/oil-prices-rise-drone-attacks-saudi-arabia-east-west-pipeline",
-        "description": "Soaring oil prices of above $108 a barrel after Houthi attacks on Saudi infrastructure stoke inflation fears  US government borrowing costs have risen to 5% for the first time since 2023 as soaring...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK government moves to acquire Speciality Steel UK; AI stocks hit by calls for slowdown – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/sep/14/ai-stocks-fall-development-slowdown-anthropic-openai-investors-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsAI-linked stocks fall after tech bosses call for slowdown in ‘reckless’ developmentAI CEOs say they need to slow the pace of development. B...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cqgk5e2j0gg8o?at_medium=RSS&at_campaign=rss",
-        "description": "US President Donald Trump dismisses calls to slow the development of AI, saying that claims of it \"taking over the World\" are a \"HOAX\".",
+        "title": "State pension likely to top £13,000 a year as UK wage growth slows to 3.9%",
+        "url": "https://www.bbc.co.uk/news/articles/c2l8v7l0djqo?at_medium=RSS&at_campaign=rss",
+        "description": "The rise has reignited the debate about the state pension's long-term affordability and generational fairness.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "If looks could kill, I’d be in real trouble | Brief letters",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/sep/14/if-looks-could-kill-id-be-in-real-trouble",
-        "description": "Default facial expressions | Coffee thermometer | Quitting Britain | Nominative determinism delightsAdrian Chiles is lucky that his face is merely “miserable” (I’ve spent my whole life looking mise...",
+        "title": "One in five black, Asian and minority ethnic NHS managers in England plan to quit amid racism, report finds",
+        "url": "https://www.theguardian.com/society/2026/sep/15/bame-nhs-managers-england-quit-racism-report",
+        "description": "Health service faces exodus as almost four-fifths of BAME managers surveyed reported racism, exclusion and barriers to career progressionThe NHS in England is facing an exodus of minority ethnic ma...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "There’s a surprisingly simple reason for England’s high antidepressant use: lots of people need them | Dean Burnett",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/14/england-record-antidepressant-use-gp-guidelines-overprescribing",
-        "description": "The idea that GPs are ignoring guidelines and ‘overprescribing’ doesn’t hold water. Instead, look to our social and economic crisesDean Burnett is a doctor of neuroscience A new NHS report has reve...",
+        "title": "Make NHS and military uniforms in UK, fashion firms urge Burnham",
+        "url": "https://www.theguardian.com/business/2026/sep/15/nhs-mod-uniforms-uk-fashion-firms-andy-burnham",
+        "description": "More than 1,200 people, including Ben Fogle, sign letter saying domestic contracts will help preserve UK manufacturingBusiness live – latest updatesLondon fashion week is only days away, but one in...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "NHS reports busiest ever summer as heatwaves drive up hospital admissions",
-        "url": "https://www.theguardian.com/society/2026/sep/10/nhs-busiest-ever-summer-heatwaves-hospital-admissions",
-        "description": "Record demand for A&E units, ambulance services and NHS 111 shows extreme heat having unprecedented impact on health, experts sayThe NHS came under its most intense strain ever as a result of the s...",
+        "title": "Lucy Letby: will final report express view on nurse’s guilt and could it affect her case?",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/15/lucy-letby-public-inquiry-thirlwall-report",
+        "description": "Final report from Lady Justice Thirlwall’s wide-ranging inquiry to be published on TuesdayLady Justice Thirlwall’s report from the Lucy Letby inquiry will be published on Tuesday after public and p...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -100,21 +100,28 @@
         "category": "immigration"
       },
       {
+        "title": "Stories in Gaza documentary pulled by BBC still need to be aired, director says",
+        "url": "https://www.theguardian.com/media/2026/sep/15/stories-gaza-documentary-pulled-bbc-need-aired-director-says",
+        "description": "Exclusive: Jamie Roberts admits ‘serious mistake’ with Gaza: How to Survive a Warzone, as he speaks ahead of new film on UK far rightThe stories told in the controversial BBC documentary Gaza: How ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "If looks could kill, I’d be in real trouble | Brief letters",
         "url": "https://www.theguardian.com/lifeandstyle/2026/sep/14/if-looks-could-kill-id-be-in-real-trouble",
         "description": "Default facial expressions | Coffee thermometer | Quitting Britain | Nominative determinism delightsAdrian Chiles is lucky that his face is merely “miserable” (I’ve spent my whole life looking mise...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "A painful truth about post-Brexit immigration | Letters",
-        "url": "https://www.theguardian.com/politics/2026/sep/13/a-painful-truth-about-post-brexit-immigration",
-        "description": "While the media rightly highlights the harsh treatment of UK citizens abroad, the UK Home Office is quietly inflicting similar cruelty, says Vera-Lynn WatsonYour report (Wife of British man at risk...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "‘It’s really taking off’: hedge revival as farmers rediscover ancient tools",
+        "url": "https://www.theguardian.com/environment/2026/sep/15/conservation-gateway-drug-farmers-embrace-ancient-craft-of-hedge-laying",
+        "description": "Grant applications in England surge as interest grows in habitat that captures carbon and helps reduce flood riskThe ancient craft of hedge laying is experiencing a strong revival as farmers use te...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "US ends limits on coal and gas plant emissions, removing key tool to battle climate crisis",
         "url": "https://www.theguardian.com/environment/2026/sep/14/trump-epa-repeal-pollution-standards-power-plants",
@@ -130,44 +137,44 @@
         "category": "climate"
       },
       {
-        "title": "Scientists find nine new sponge species in glimpse of Alaska’s deep-sea diversity",
-        "url": "https://www.theguardian.com/us-news/2026/sep/14/deep-sea-sponges-discovery-mining-fishing",
-        "description": "But their habitat is threatened by bottom trawling in the region and Trump’s plan to expand seafloor miningScientists have discovered nine new deep-sea sponge species off Alaska, offering new insig...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Mass nesting brings swarms of turtles to Mexican beach",
-        "url": "https://www.bbc.co.uk/news/videos/cm4gkvk7wzkpo?at_medium=RSS&at_campaign=rss",
-        "description": "Thousands of turtles arrived at La Escobilla beach in Oaxaca within 48 hours, sanctuary officials said.",
+        "title": "Will El Niño bring winter snow to the UK?",
+        "url": "https://www.bbc.co.uk/news/videos/cred7xze25ndo?at_medium=RSS&at_campaign=rss",
+        "description": "Will El Niño bring winter snow to the UK? Matt Taylor looks ahead to the autumn and winter months.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
-        "title": "Your dream university bedroom: how to get that Insta glow-up",
-        "url": "https://www.theguardian.com/education/2026/sep/14/dream-uni-bedroom-insta-glow-up",
-        "description": "You’re going to spend a lot of time in your uni room – so don’t just dump your boxes and run. Here’s how to make that space work for youUni means many hours cramming in the library and equally as m...",
+        "title": "‘Just be aware of what you’re spending’: budget hints for students",
+        "url": "https://www.theguardian.com/education/2026/sep/15/budget-hints-for-students-spending",
+        "description": "The cost of living crisis hits students hard. Planning ahead and some self-discipline will help, alongside a sharp eye for a bargain and, if you’re eligible, a bursaryLike late-night study sessions...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Can you futureproof your career by choosing an AI-resistant degree?",
-        "url": "https://www.theguardian.com/education/2026/sep/14/futureproof-your-career-by-choosing-an-ai-resistant-degree",
-        "description": "Humans will have to compete with AI-powered virtual employees in the near future. Here are our tips for the last human holdoutsFutureproofing your career with an AI-resistant degree is a tough ask,...",
+        "title": "Parents seek out school uniform deals, cutting average spend to £54.53",
+        "url": "https://www.theguardian.com/business/2026/sep/15/school-uniform-deals-spend-grocery-inflation",
+        "description": "Overall grocery inflation rises to 2.3%, as Ocado and Lidl gain market shareBusiness live – latest updatesParents and carers spent 12.5% less on school uniform in the run-up to the start of this ac...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Researchers hope powerful new microscope will reveal ‘root cause’ of incurable bowel disease",
-        "url": "https://www.theguardian.com/society/2026/sep/14/new-microscope-discovery-hopes-incurable-inflammatory-bowel-disease-crohns-science-treatment",
-        "description": "No run-of-the-mill tech, ‘Curie’ operates at 10 times the resolution of conventional microscopy and could spur discoveries leading to new treatmentThe number of young people living with debilitatin...",
+        "title": "Career focus and a community campus: how the University of Birmingham got its mojo back",
+        "url": "https://www.theguardian.com/education/2026/sep/15/career-focus-community-campus-university-of-birmingham",
+        "description": "The university is one of the big success stories in higher education, with soaring student satisfaction levels and exam results. What’s the secret of its success?The Covid pandemic upended almost e...",
         "source": "The Guardian",
         "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Help-to-buy scheme delivered ‘very high value for money,’ review finds",
+        "url": "https://www.theguardian.com/money/2026/sep/15/help-to-buy-scheme-delivered-very-high-value-for-money-review-finds",
+        "description": "Exclusive: George Osborne’s programme to reduce costs for first-time buyers delivered £25bn in social value in UK last yearGeorge Osborne’s scheme to reduce costs for first-time buyers represented ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Queensland homeless man shot with Taser after being given move-on order to make way for kite festival",
         "url": "https://www.theguardian.com/australia-news/2026/sep/15/queensland-homeless-man-shot-with-taser-after-being-given-move-on-order-to-make-way-for-kite-festival-ntwnfb",
@@ -181,34 +188,27 @@
         "description": "Fire survivors and bereaved urge Barnet Group to ‘reconsider’ appointment of Laura Johnson, who pushed for cheaper contractorGrenfell survivors and bereaved relatives have criticised the “outrageou...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Only slim chance target of 1.5m new homes in England will be met, Angela Rayner says",
-        "url": "https://www.theguardian.com/society/2026/sep/13/slim-chance-government-target-building-homes",
-        "description": "Minister says manifesto pledge is not being dropped but focus is now on building council housesUK politics live – latest updatesThe government is unlikely to meet its target of building 1.5m homes ...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "China criticises idea it is in 'malicious competition' over AI",
-        "url": "https://www.bbc.co.uk/news/articles/cn8me133119o?at_medium=RSS&at_campaign=rss",
-        "description": "It follows the Anthropic CEO's calls for a slowdown in AI development - but in a way that prevents China from pulling ahead in the race.",
+        "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
+        "url": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president's comments come after Anthropic co-founder Jack Clark told the BBC an AI \"kill switch\" may need to be mandatory.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
-        "url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
-        "description": "The former UK PM said: \"I don't know what warped logic drove Putin to blow up a stationary Ukrainian locomotive on the Polish border this morning\".",
+        "title": "AI regulation faces political deadlock as calls grow for Congress to act",
+        "url": "https://www.bbc.co.uk/news/articles/ck20989806e9o?at_medium=RSS&at_campaign=rss",
+        "description": "With Trump opposed and Congress divided, new safety legislation on AI is unlikely to pass anytime soon despite mounting pressure.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Swedish left-wing bloc narrowly ahead with election too close to call",
-        "url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
-        "description": "With more than 90% of ballots processed early on Monday, the left-wing bloc was in front by approximately 20,000 votes.",
+        "title": "Denmark says Russian warship fired flares at military helicopter",
+        "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
+        "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
