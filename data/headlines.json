@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T20:52:50.833537+00:00",
+  "fetched_at": "2026-09-16T03:25:36.322115+00:00",
   "headlines": {
     "government": [
       {
@@ -19,14 +19,14 @@
       {
         "title": "Louise Haigh: UK must heed warnings from AI experts",
         "url": "https://www.theguardian.com/technology/2026/sep/15/uk-must-heed-warnings-from-ai-experts-minister-louise-haigh",
-        "description": "First secretary warns of ‘huge risks’ of technology as PM is urged to use next year’s G20 to drive global regulationMinisters must “heed the warnings” from industry leaders about the threat posed b...",
+        "description": "First secretary warns of ‘huge risks’ of technology as PM is urged to use next year’s G20 to drive global regulation Ministers must “heed the warnings” from industry leaders about the threat posed ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Dan Thomas resigns as Reform Wales leader after arrest on suspicion of assault",
-        "url": "https://www.bbc.co.uk/news/articles/cqde0xkgpy2xo?at_medium=RSS&at_campaign=rss",
-        "description": "Thomas said he has done nothing wrong as Gwent Police confirms arrest on suspicion of assault.",
+        "title": "UK in talks about joining global defence bank led by Canada",
+        "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+        "description": "Supporters of the scheme say the bank would enable governments to get cheaper loans to spend on defence projects.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "US borrowing costs hit highest level since 2007",
-        "url": "https://www.bbc.co.uk/news/articles/cw804154z90ko?at_medium=RSS&at_campaign=rss",
-        "description": "The effective interest rate on US government bonds over 10 years, known as the 10-year Treasury yield, has risen as high as 5.04% but has eased back since.",
+        "title": "Complaints to watchdog about water firms jump 84%",
+        "url": "https://www.bbc.co.uk/news/articles/cjy5z9l0395ro?at_medium=RSS&at_campaign=rss",
+        "description": "Many complaints were about affordability, after customers saw steep hikes to bills.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Letby hospital consultant says inquiry makes for grim reading",
+        "title": "Letby doctor says inquiry 'grim reading' and he wishes 'we had been brave enough to follow suspicions'",
         "url": "https://www.bbc.co.uk/news/articles/cm3eqdv90977o?at_medium=RSS&at_campaign=rss",
-        "description": "The Thirlwall Inquiry finds some babies could have been saved if action had been taken earlier.",
+        "description": "Consultant Dr John Gibbs worked at the hospital during the period in 2015 to 2016 when Letby murdered seven babies.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "What weapon could the US have put into space?",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
-        "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
+        "title": "Third Heathrow runway should only go ahead if airlines pay for cleaner flying, say advisers",
+        "url": "https://www.bbc.co.uk/news/articles/c607lxnvn7r4o?at_medium=RSS&at_campaign=rss",
+        "description": "The government's climate advisers say Heathrow's third runway cannot be approved under current climate policies.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "All support acts on Ed Sheeran's US tour quit after Macklemore dropped",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgyn49y4l7o?at_medium=RSS&at_campaign=rss",
+        "description": "The star said he was not responsible for Macklemore being dropped from the line-up after he made pro-Palestinian statements on stage.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Denmark says Russian warship fired flares at military helicopter",
         "url": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
         "description": "The Danish prime minister has accused Russia of \"reckless\" behaviour, while the Kremlin is yet to comment.",
@@ -202,13 +209,6 @@
         "title": "What weapon could the US have put into space?",
         "url": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
         "description": "The announcement by the US points to a developing field of modern warfare in the Earth's orbit.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Suspected sabotage causes major Netherlands rail disruption",
-        "url": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
-        "description": "Trains were cancelled or delayed on Tuesday after objects were found on tracks at multiple locations.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
