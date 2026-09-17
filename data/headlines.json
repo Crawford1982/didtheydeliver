@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-16T20:53:17.449443+00:00",
+  "fetched_at": "2026-09-17T03:31:28.719331+00:00",
   "headlines": {
     "government": [
       {
-        "title": "‘Made in Europe’ laws could derail UK plans for reset with EU",
+        "title": "‘Made in Europe’ law threatens UK plans for reset with EU",
         "url": "https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans",
-        "description": "Government sources say legislation aimed at China poses a risk to British businesses and must be addressedThe UK government’s EU reset summit could be delayed again unless the EU agrees to include ...",
+        "description": "Government sources say legislation aimed at China poses a risk to British businesses and must be addressedThe UK government’s EU reset summit will be delayed again unless the bloc agrees to discuss...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "Nato leader warns of ‘most dangerous and complex security environment in a generation’",
         "url": "https://www.theguardian.com/world/2026/sep/16/nato-leader-warns-of-most-dangerous-and-complex-security-environment-in-a-generation",
-        "description": "Mark Rutte asked UK and Europe to ‘provide the hard power Nato needs’ in face of geopolitical uncertaintyNato needs “more UK and more Europe” to deal with the most dangerous security environment fa...",
+        "description": "Mark Rutte asks UK and Europe to ‘provide hard power Nato needs’ in face of geopolitical uncertaintyNato needs “more UK and more Europe” to deal with the most dangerous security environment faced b...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Greens just four points behind Labour in urban areas, poll reveals",
-        "url": "https://www.theguardian.com/politics/2026/sep/16/green-party-four-points-behind-labour-urban-constituencies",
-        "description": "Exclusive: UK’s Green parties could take 40 seats if result replicated at next election, according to Labour-linked thinktankThe Greens are just four points behind Labour in urban constituencies ac...",
+        "title": "Planning permission for new Scottish AI datacentres suspended for up to a year",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/16/datacentres-scotland-environmental-assessments-ai-boom",
+        "description": "MSPs vote for strict environmental impact assessments and will delay decisions until national strategy is developedHolyrood has voted to pause planning applications for all new AI datacentres for u...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "IMF urges Australian government to cut spending as another interest rate hike looms",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/17/imf-downgrades-australian-economic-forecast-amid-fears-of-interest-rate-hike",
+        "description": "Warning comes as forecast for nation’s economic growth downgraded amid concerns over rising debt and inflationFollow our Australia news live blog for latest updatesGet our breaking news email, free...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Burnham warns of ‘difficult decisions’ in budget as inflation rises to 3.1%",
         "url": "https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Reform-linked thinktank ‘to call for big tax cuts for the rich’",
-        "url": "https://www.theguardian.com/politics/2026/sep/16/reform-thinktank-tax-cuts-rich-centre-for-a-better-britain",
-        "description": "Centre for a Better Britain will urge abolishing inheritance tax and phasing out capital gains tax, report saysA thinktank linked to Nigel Farage’s Reform UK is preparing an influential policy plan...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Petrol and diesel price rises push UK inflation higher",
-        "url": "https://www.bbc.co.uk/news/articles/cv2dw7lw4rkpo?at_medium=RSS&at_campaign=rss",
-        "description": "Summer holidays and disruption to global oil supplies by the Middle East conflict stoked price growth.",
+        "title": "Interest rates hold expected but Bank of England facing tough choices",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,14 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "Burnham thanks well-wishers following his father's death",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgy53k49lgo?at_medium=RSS&at_campaign=rss",
-        "description": "All opposition leaders sent condolences to Burnham as he cancelled engagements earlier this week.",
+        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
+        "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
+        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "England ’Til I Die review – a chilling portrait of a town turning on its neighbours",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/16/england-til-i-die-review-channel-4",
+        "description": "Film-maker Jamie Roberts follows a Sussex man’s journey into the far right. If it wasn’t so horrific, parts could feel like they’d been written by Chris MorrisStanding in the street shouting virule...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "English far-right extremist who discussed killing Jews, Muslims and migrants is jailed",
         "url": "https://www.theguardian.com/uk-news/2026/sep/16/ivan-jennings-stafford-jailed-far-right-terrorism",
@@ -105,16 +112,16 @@
         "description": "Exclusive: UK’s Green parties could take 40 seats if result replicated at next election, according to Labour-linked thinktankThe Greens are just four points behind Labour in urban constituencies ac...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Nicola Jennings on the proposal to house asylum seekers in Oxfordshire – cartoon",
-        "url": "https://www.theguardian.com/commentisfree/picture/2026/sep/16/nicola-jennings-on-the-proposal-to-house-asylum-seekers-in-oxfordshire-cartoon",
-        "description": "Continue reading...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Climate crisis likely behind devastating Nepal-Tibet floods that killed more than 1,300, first study finds",
+        "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
+        "description": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in AugustClimate breakdown probably weakened the glacier that collapsed causing catastrophic floods ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Airlines should pay for CO2 removal if Heathrow expands, say climate advisers",
         "url": "https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers",
@@ -126,13 +133,6 @@
         "title": "Expect even more potholes on UK roads after summer heatwaves, says RAC",
         "url": "https://www.theguardian.com/uk-news/2026/sep/16/expect-more-potholes-uk-roads-summer-heatwaves-rac",
         "description": "Extreme weather has made brittle road surfaces more likely to crack, increasing strain on infrastructureThe UK’s dilapidated roads are expected to get even worse, with motorists warned to expect a ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Bristol becomes first British city to ban advertisements for fast fashion",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/15/bristol-first-uk-city-to-ban-fast-fashion-adverts",
-        "description": "Green-run council also curbing ads for airlines, cruises, fossil fuels and SUVs on its billboards and bus sheltersBristol has become the first British city to impose a ban on the advertising of fas...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "US interest rates raised for first time in three years",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
+        "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Snapchat willing to enact time limits for teens, boss tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+        "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Photos show widespread damage at US sites from Iranian attacks",
         "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
         "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "EU chief backs plan for Canada to become 'associate member'",
-        "url": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-        "description": "Canada is seeking closer ties with EU after a breakdown in relations with the US and its president Donald Trump.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-        "description": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
