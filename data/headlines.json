@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-09-17T03:31:28.719331+00:00",
+  "fetched_at": "2026-09-17T10:59:57.432112+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Tories challenge chancellor to rule out tax rises in budget as Badenoch labelled ‘embarrassment’ for Bank of England gaffe – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates",
+        "description": "The Conservatives want to brand Burnham’s administration as a ‘traditional tax and spend socialist government’Andrew Griffith has delivered his speech, and he is now taking questions.Q: You want th...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Peers call for UK to enact tobacco-style ban on gambling advertising",
+        "url": "https://www.theguardian.com/society/2026/sep/17/peers-call-for-uk-to-enact-tobacco-style-ban-gambling-advertising",
+        "description": "Lords’ report faces criticism from lobby groups after suggesting ban would be ‘most effective’ way to reduce public harmsThe UK should introduce a ban on almost all gambling advertising to protect ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "‘Made in Europe’ law threatens UK plans for reset with EU",
         "url": "https://www.theguardian.com/world/2026/sep/16/made-in-europe-laws-could-derail-uk-eu-reset-plans",
@@ -10,46 +24,32 @@
         "category": "government"
       },
       {
-        "title": "Nato leader warns of ‘most dangerous and complex security environment in a generation’",
-        "url": "https://www.theguardian.com/world/2026/sep/16/nato-leader-warns-of-most-dangerous-and-complex-security-environment-in-a-generation",
-        "description": "Mark Rutte asks UK and Europe to ‘provide hard power Nato needs’ in face of geopolitical uncertaintyNato needs “more UK and more Europe” to deal with the most dangerous security environment faced b...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Planning permission for new Scottish AI datacentres suspended for up to a year",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/16/datacentres-scotland-environmental-assessments-ai-boom",
-        "description": "MSPs vote for strict environmental impact assessments and will delay decisions until national strategy is developedHolyrood has voted to pause planning applications for all new AI datacentres for u...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham rejects 'tax and spend socialist' comments",
-        "url": "https://www.bbc.co.uk/news/articles/cqr7dj1e34z9o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister insists he is prepared to take \"difficult decisions\" at next month's Budget.",
+        "title": "Interest rates hold expected but Bank of England facing tough choices",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
+        "description": "Forecasts of further rises in the inflation rate mean some analysts expect the Bank to act by the end of the year.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "UK mortgage rate hits highest since 2023 as Bank of England prepares to announce interest rate decision – business live",
+        "url": "https://www.theguardian.com/business/live/2026/sep/17/bank-of-england-interest-rates-bond-buying-qt-stock-market-ftse-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsBank of England urged to slow or halt bond-selling to slash UK borrowing costsThe Guardian view on the Bank of England’s £120bn bill: power...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "‘I feel invisible’: over-50s reveal harsh realities of trying to get a job",
+        "url": "https://www.theguardian.com/money/2026/sep/17/over-50s-reveal-trying-to-get-a-job-applications-interviews",
+        "description": "Readers describe feelings of rejection after submitting hundreds of applications but getting a handful of interviewsHundreds of job applications, exhausting searches and relentless rejection – the ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "IMF urges Australian government to cut spending as another interest rate hike looms",
         "url": "https://www.theguardian.com/australia-news/2026/sep/17/imf-downgrades-australian-economic-forecast-amid-fears-of-interest-rate-hike",
         "description": "Warning comes as forecast for nation’s economic growth downgraded amid concerns over rising debt and inflationFollow our Australia news live blog for latest updatesGet our breaking news email, free...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Burnham warns of ‘difficult decisions’ in budget as inflation rises to 3.1%",
-        "url": "https://www.theguardian.com/business/2026/sep/16/uk-inflation-rises-pressure-on-households-bank-of-england-interest-rates",
-        "description": "PM rejects claim he leads a ‘tax-and-spend’ government, as Bank of England prepares for interest rates decisionAndy Burnham has said “difficult decisions” will need to be taken in next month’s budg...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK rents accelerate as London house prices fall, and inflation rises to 3.1% – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/sep/16/uk-inflation-expected-to-have-risen-in-august-as-cost-of-living-squeeze-tightens-business-live",
-        "description": "Soaring motor fuel costs have pushed UK inflation to a five-month high in AugustFull story: UK inflation rises to 3.1% as motor fuel prices jump by almost a quarterWorryingly, the cost of goods pro...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -63,23 +63,23 @@
     ],
     "nhs": [
       {
-        "title": "Doctors, not cameras, save babies in intensive care | Brief letters",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/16/doctors-not-cameras-save-babies-in-intensive-care",
-        "description": "Lucy Letby case | At one’s peak | Leaving the debate | Cut from the same cloth | End of the odyssey | A word’s worthRe the Thirlwall report on the Lucy Letby case (Thirlwall report: what did it say...",
+        "title": "‘A really scary place for children’: English hospitals have chronic lack of health play staff",
+        "url": "https://www.theguardian.com/society/2026/sep/17/a-really-scary-place-for-children-english-hospitals-have-chronic-lack-of-health-play-staff",
+        "description": "Analysis finds only 955 play professionals supporting 21 million child hospital admissions, leaving many traumatised for lifeChildren in English hospital with serious illnesses are being exposed to...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "The Letby inquiry report makes one thing crystal clear: too much NHS management is scandalously poor | Tom Dolphin",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/16/thirlwall-inquiry-lucy-letby-report-nhs-management",
-        "description": "Non-medical managers are the only safety-critical part of the service that do not have a regulator. Lady Justice Thirlwall says that must change. So do weTom Dolphin is chair of the British Medical...",
+        "title": "Women in England with incurable breast cancer to get life-extending drug on NHS",
+        "url": "https://www.theguardian.com/society/2026/sep/17/women-england-incurable-breast-cancer-life-extending-drug-enhertu-nhs",
+        "description": "Thousands with HER2-low advanced breast cancer will have access to Enhertu after ministers strike deal on priceThousands of women in England with incurable breast cancer will get access to a life-e...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Thirlwall inquiry has left biggest questions around the Letby case unanswered",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/15/thirlwall-inquiry-left-biggest-questions-lucy-letby-case-unanswered",
-        "description": "Decision not to pause proceedings means £18m report does not engage with concerns over former nurse’s convictionJust two months before Lady Justice Kathryn Thirlwall opened her inquiry into events ...",
+        "title": "UK politics: Burnham says budget will be ‘challenging’ and denies he is just ‘tax and spend socialist’ – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/16/lisa-nandy-x-andy-burnham-labour-reform-uk-politics-latest-news-updates",
+        "description": "PM responds to criticism from former Bank of England chief economistWes Streeting, the defence secretary, has posted this on social media ahead of Andy Burnham’s meeting with the Nato secretary gen...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,35 +116,42 @@
     ],
     "climate": [
       {
-        "title": "Climate crisis likely behind devastating Nepal-Tibet floods that killed more than 1,300, first study finds",
+        "title": "Tories challenge chancellor to rule out tax rises in budget as Badenoch labelled ‘embarrassment’ for Bank of England gaffe – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates",
+        "description": "The Conservatives want to brand Burnham’s administration as a ‘traditional tax and spend socialist government’Andrew Griffith has delivered his speech, and he is now taking questions.Q: You want th...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "2025 was among driest years on record for world’s rivers, study finds",
+        "url": "https://www.theguardian.com/environment/2026/sep/17/2025-driest-years-worlds-rivers-study-finds",
+        "description": "Analysis of global resources reveals depletion in world’s water savings bank to 42% below normal levels last yearRivers across the world experienced one of their driest years in more than three dec...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Climate crisis probably weakened glacier that caused devastating Nepal-Tibet floods, first study finds",
         "url": "https://www.theguardian.com/science/2026/sep/17/climate-crisis-likely-behind-deadly-nepal-tibet-floods",
         "description": "Scientists say global heating was a destabilising factor in collapse of 200,000 sq metre glacier in AugustClimate breakdown probably weakened the glacier that collapsed causing catastrophic floods ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Airlines should pay for CO2 removal if Heathrow expands, say climate advisers",
-        "url": "https://www.theguardian.com/environment/2026/sep/16/heathrow-airport-should-pay-co2-removal-expand-climate-advisers",
-        "description": "Climate Change Committee says government cannot expand airport without requiring aviation industry to clean up its emissions Heathrow airport should be allowed to expand only if airlines pay for th...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Expect even more potholes on UK roads after summer heatwaves, says RAC",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/16/expect-more-potholes-uk-roads-summer-heatwaves-rac",
-        "description": "Extreme weather has made brittle road surfaces more likely to crack, increasing strain on infrastructureThe UK’s dilapidated roads are expected to get even worse, with motorists warned to expect a ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Part-human part-mouse brain developed in science breakthrough",
-        "url": "https://www.bbc.co.uk/news/articles/c60m3k28j81mo?at_medium=RSS&at_campaign=rss",
-        "description": "Researchers at Stanford University genetically altered mice to be able to receive and function with human brain cells.",
+        "title": "The farmer who turned to singing after bovine TB silenced his fields",
+        "url": "https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&at_campaign=rss",
+        "description": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Bad Apples review – Saoirse Ronan’s suffering teacher best thing about school horror-satire",
+        "url": "https://www.theguardian.com/film/2026/sep/17/bad-apples-review-saoirse-ronans-suffering-teacher-best-thing-about-school-horror-satire",
+        "description": "Ronan plays a teacher who finds a way to deal with a disruptive pupil in Jonatan Etzler’s implausible film, but it’s not shocking or funny enoughHere is a strange, heavy-handed and unpersuasive bla...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Union claims victory as ministers agree to fully fund pay rise for teachers in England",
         "url": "https://www.theguardian.com/education/2026/sep/16/teachers-pay-rise-england-funding-national-education-union",
@@ -156,13 +163,6 @@
         "title": "‘It sits at the meeting point of science and the humanities’: should you study psychology?",
         "url": "https://www.theguardian.com/education/2026/sep/16/should-you-study-psychology-meeting-point-science-humanities",
         "description": "Psychology has become one of the most popular courses at university. That’s no surprise as the insights it gives to our behaviour can help in a huge variety of careersFor Niamh Mulcahy, 21, graduat...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Students in Gaza ‘devastated’ after plan for them to study in Belgium fails",
-        "url": "https://www.theguardian.com/world/2026/sep/16/gaza-students-devastated-belgium-university-scholarships",
-        "description": "Belgian government unable to agree on evacuation of 13 students to take up scholarships at universitiesStudents who are unable to leave Gaza and take up scholarships at Belgian universities have sa...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "US interest rates raised for first time in three years",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-        "description": "Rates were hiked in a unanimous decision despite fierce opposition from President Donald Trump, who had called for a cut.",
+        "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+        "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+        "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Snapchat willing to enact time limits for teens, boss tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-        "description": "Evan Spiegel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+        "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+        "url": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+        "description": "Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it \"may be conscious\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Photos show widespread damage at US sites from Iranian attacks",
-        "url": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-        "description": "A wrecked air force plane and destroyed buildings are among the images obtained by the BBC's partner CBS News.",
+        "title": "Ninth woman's body found as South African police investigate string of deaths",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
+        "description": "South Africa police have cautioned against assuming that all the killings are linked but many women are afraid.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
