@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-09-17T16:16:21.494011+00:00",
+  "fetched_at": "2026-09-17T20:57:30.468390+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Nato head: Britain must show ‘credible path’ of annual defence budget increases",
+        "url": "https://www.theguardian.com/world/2026/sep/17/nato-head-britain-must-show-credible-path-of-annual-defence-budget-increases",
+        "description": "Mark Rutte said Britain will need to steadily increase defence spending to meet Nato target of 3.5% of GDP by 2035Britain needs to show “a credible path” of annual increases in its defence budgets ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Greens urge Zack Polanski to take stance on proposed policy declaring ‘Zionism is racism’",
+        "url": "https://www.theguardian.com/politics/2026/sep/17/greens-push-zack-polanski-to-take-stance-on-proposed-policy-declaring-zionism-is-racism",
+        "description": "Exclusive: The Green leader has not spoken publicly about the motion, which is likely to be debated at the party’s conference in OctoberThe Greens are pushing Zack Polanski to take a stance on a po...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Khan addresses Polanski in Urdu at London assembly, mocking Green leader’s byelection video – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Tax the middle earners! Will the PM do it? – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/sep/17/tax-the-middle-earners-will-the-pm-do-it-podcast",
-        "description": "Former Bank of England economist Andy Haldane said the markets regarded this government as ‘a pretty traditional tax and spend socialist government with better TikTok videos’. Harsh criticism or tr...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Former student of suspended Reform official ‘reopens case’ against University of Cambridge",
-        "url": "https://www.theguardian.com/education/2026/sep/17/james-orr-reform-cambridge-university-student",
-        "description": "Cambridge previously paid £5,000 compensation after an investigation partially upheld allegations against Dr James OrrA former student of James Orr who was found to have been bullied by the suspend...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Interest rates held but Bank signals rise if energy prices stay high",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-        "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+        "title": "UK needs 'credible path' on defence spending, says Nato chief",
+        "url": "https://www.bbc.co.uk/news/articles/cm0e35pwje2do?at_medium=RSS&at_campaign=rss",
+        "description": "Mark Rutte tells the BBC that UK ministers accept the need to make yearly steps to up spending.",
         "source": "BBC News",
         "category": "government"
       }
@@ -49,7 +49,7 @@
       {
         "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
         "url": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
-        "description": "Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that meansEurope live – latest updates Mark Carney received a rapturous reception in the Europ...",
+        "description": "Although Mark Carney welcomed offer to become bloc’s first associate member, no one seems to know what that meansEurope live – latest updatesMark Carney received a rapturous reception in the Europe...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "New hope for breast cancer patients as life-extending drug now on NHS in England",
-        "url": "https://www.bbc.co.uk/news/articles/c60qx4v825glo?at_medium=RSS&at_campaign=rss",
-        "description": "Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available.",
+        "title": "Andy Burnham urged to set dementia waiting-time target",
+        "url": "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
+        "description": "An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "The farmer who turned to singing after bovine TB silenced his fields",
-        "url": "https://www.bbc.co.uk/news/articles/c58jd32wgwk4o?at_medium=RSS&at_campaign=rss",
-        "description": "Dairy farmer Mervyn Kelso struggled with the sadness of the empty fields when he lost his entire herd to bovine TB.",
+        "title": "Repeat offender fined for searching for gold in protected river",
+        "url": "https://www.bbc.co.uk/news/articles/c620lz12d1l7o?at_medium=RSS&at_campaign=rss",
+        "description": "Brian Wright, 68, from Henley-upon-Thames, was caught gold panning on a protected river in north Wales.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-        "description": "Austin Tice’s abduction was approved by Syria’s former leader Bashar al-Assad, a source claims.",
+        "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+        "description": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
