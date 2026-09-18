@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-18T15:51:55.997641+00:00",
+  "fetched_at": "2026-09-18T20:25:24.854327+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reform donor Ben Delo loaned £350k to academic found to have engaged in online bullying",
+        "title": "Polanski request to postpone Greens’ conference to focus on byelection refused by party",
+        "url": "https://www.theguardian.com/politics/2026/sep/18/zack-polanski-request-postpone-greens-conference-byelection-refused",
+        "description": "Exclusive: Leader understood to have wanted to concentrate on Holborn and St Pancras campaign in London but executive committee voted against planZack Polanski requested that the Greens’ ruling exe...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Reform donor Ben Delo loaned £350k to academic later found to have engaged in online bullying",
         "url": "https://www.theguardian.com/politics/2026/sep/18/reform-donor-ben-delo-loaned-350k-academic-online-bullying",
         "description": "Judge said Nina Power and her friend’s social media posts had ‘the whiff of threat and antisemitism’Reform UK’s new mega-donor Ben Delo gave a £350,000 loan to a conservative writer fighting a lega...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham urged by opposition parties to follow Macron and act with more urgency on Russian threat – UK politics live",
+        "title": "Burnham urged by opposition parties to follow Macron and act with more urgency on Russian threat – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/18/andy-burnham-ireland-john-healey-eu-made-in-europe-plan-uk-politics-latest-updates-news",
         "description": "French president Emmanuel Macron earlier said he put measures in place to protect the country’s critical infrastructureMicheál Martin, the taoiseach (Irish PM), thanked Andy Burnham for his stance ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Poorest countries hit hardest by UK aid cuts under Keir Starmer government, new figures reveal",
-        "url": "https://www.theguardian.com/global-development/2026/sep/18/poorest-countries-hit-hardest-by-uk-aid-cuts-under-keir-starmer-government-new-figures-reveal",
-        "description": "Aid to lower-income countries fell by almost 7%, while higher-income countries saw their share of Britain’s aid budget increaseThe world’s poorest countries were worst hit by British aid cuts under...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,7 +33,7 @@
     ],
     "economy": [
       {
-        "title": "UK air traffic control chaos that cancelled more than 2,000 flights caused by software defect, report finds – business live",
+        "title": "Software defect blamed for UK air traffic control chaos; FTSE 100’s worst day since July; Volkswagen cuts outlook – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial newsUK airport disruption: what are your rights if you have been affected?Britons are increasingly worried about the climate emergency, and job...",
         "source": "The Guardian",
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Flight chaos caused by 'millisecond' software defect, report says",
-        "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
-        "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
+        "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
+        "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
+        "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,7 +93,7 @@
     ],
     "immigration": [
       {
-        "title": "Burnham urged by opposition parties to follow Macron and act with more urgency on Russian threat – UK politics live",
+        "title": "Burnham urged by opposition parties to follow Macron and act with more urgency on Russian threat – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/18/andy-burnham-ireland-john-healey-eu-made-in-europe-plan-uk-politics-latest-updates-news",
         "description": "French president Emmanuel Macron earlier said he put measures in place to protect the country’s critical infrastructureMicheál Martin, the taoiseach (Irish PM), thanked Andy Burnham for his stance ...",
         "source": "The Guardian",
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Three dead and eight injured in Philippines school shooting",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-        "description": "The gunman is among the dead in what is the third school shooting in the country since June.",
+        "title": "Donald Trump says he is banning CNN and Politico from White House",
+        "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president has had a tense and fiery relationship with the US media since returning to office.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Police begin operation to move migrants from Ceuta beaches",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
-        "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
+        "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
+        "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
+        "description": "Records in 2024 show the venue had a surplus of millions of dollars once  contributions and grants had been factored in.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
