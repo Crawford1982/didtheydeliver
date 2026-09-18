@@ -1,48 +1,41 @@
 {
-  "fetched_at": "2026-09-18T10:36:25.283924+00:00",
+  "fetched_at": "2026-09-18T15:51:55.997641+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham hosts Ireland’s taoiseach as he bids for UK exemptions from EU’s ‘Made in Europe’ plan – UK politics live",
+        "title": "Reform donor Ben Delo loaned £350k to academic found to have engaged in online bullying",
+        "url": "https://www.theguardian.com/politics/2026/sep/18/reform-donor-ben-delo-loaned-350k-academic-online-bullying",
+        "description": "Judge said Nina Power and her friend’s social media posts had ‘the whiff of threat and antisemitism’Reform UK’s new mega-donor Ben Delo gave a £350,000 loan to a conservative writer fighting a lega...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham urged by opposition parties to follow Macron and act with more urgency on Russian threat – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/18/andy-burnham-ireland-john-healey-eu-made-in-europe-plan-uk-politics-latest-updates-news",
-        "description": "It is the first time the PM has used No 10 North to host an overseas visitThe UK Youth Parliament is at risk of being scrapped as its funding has not been confirmed beyond March 2027, the Press Ass...",
+        "description": "French president Emmanuel Macron earlier said he put measures in place to protect the country’s critical infrastructureMicheál Martin, the taoiseach (Irish PM), thanked Andy Burnham for his stance ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "‘Outright racist’ Daniel Thomas will face full force of law over any crimes, says home secretary",
-        "url": "https://www.theguardian.com/politics/2026/sep/18/daniel-thomas-shabana-mahmood-far-right-extremism-asylum-sites",
-        "description": "Shabana Mahmood says she wants to distinguish between far-right extremism and legitimate local concerns over asylum sitesShabana Mahmood has described the anti-asylum activist Daniel Thomas as “a f...",
+        "title": "Poorest countries hit hardest by UK aid cuts under Keir Starmer government, new figures reveal",
+        "url": "https://www.theguardian.com/global-development/2026/sep/18/poorest-countries-hit-hardest-by-uk-aid-cuts-under-keir-starmer-government-new-figures-reveal",
+        "description": "Aid to lower-income countries fell by almost 7%, while higher-income countries saw their share of Britain’s aid budget increaseThe world’s poorest countries were worst hit by British aid cuts under...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Former Labour deputy leader Tom Watson joins Palantir",
-        "url": "https://www.theguardian.com/politics/2026/sep/18/former-labour-deputy-leader-tom-watson-joins-palantir",
-        "description": "Peer takes full-time position at the controversial company as it fends off pressure from both Andy Burnham’s government and Sadiq KhanAnother former government minister has been hired by a controve...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Badenoch says she is instructing lawyers to challenge government after Tory-run council's 94% tax hike",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gq87ed6n3o?at_medium=RSS&at_campaign=rss",
-        "description": "A row is growing over Wandsworth Council's rise, which the local authority is blaming on government funding cuts.",
+        "title": "Ireland's relationship with UK under Burnham off to 'very good start'",
+        "url": "https://www.bbc.co.uk/news/articles/cked7zjq57n5o?at_medium=RSS&at_campaign=rss",
+        "description": "The visit came days after US President Donald Trump made comments about supporting a \"unified Ireland\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Burnham’s talk of ‘breathing space’ at odds with reality of future Bank rate rises",
-        "url": "https://www.theguardian.com/business/2026/sep/17/andy-burnham-bank-interest-rate-rises-inflation",
-        "description": "PM’s push to cut cost of living threatened by rising inflation and government borrowing costs as geopolitics hit homeBank of England holds interest ratesThe Bank is shaking up its bond sales – why ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Japan raises interest rates to 31-year high as central bankers fight inflation; retail sales rise in Great Britain – business live",
+        "title": "UK air traffic control chaos that cancelled more than 2,000 flights caused by software defect, report finds – business live",
         "url": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsBritons are increasingly worried about the climate emergency, and job security.New data from the Office for National Statistics shows:The p...",
+        "description": "Rolling coverage of the latest economic and financial newsUK airport disruption: what are your rights if you have been affected?Britons are increasingly worried about the climate emergency, and job...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +47,16 @@
         "category": "economy"
       },
       {
-        "title": "We bought our £242,000 home without a deposit - here's how",
-        "url": "https://www.bbc.co.uk/news/articles/cvj64w204y58o?at_medium=RSS&at_campaign=rss",
-        "description": "The share of UK mortgages with smaller deposits is the highest it's been since 2008. The BBC spoke to borrowers about how they manage the risks.",
+        "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+        "url": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
+        "description": "Some experts worry factors affecting wheat exports could push global food prices even higher than they are nowWheat prices are at their highest level in three years, which means farmer Merrill Niel...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Flight chaos caused by 'millisecond' software defect, report says",
+        "url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss",
+        "description": "The failure led to more than 2,000 flights being cancelled and hundreds of thousands of passengers affected.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,6 +70,13 @@
         "category": "nhs"
       },
       {
+        "title": "Disabled people need right to travel abroad, say UK MPs amid ‘ridiculous’ restrictions row",
+        "url": "https://www.theguardian.com/world/2026/sep/18/disabled-people-uk-need-right-travel-abroad-ridiculous-restrictions",
+        "description": "Outcry over ‘brazenly discriminatory’ funding practices among NHS care boards and local councils, with wide variations in rulesOpinion: An effective ban on disabled people leaving Britain? We will ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "We are paying a high price for a university education | Letters",
         "url": "https://www.theguardian.com/education/2026/sep/17/we-are-paying-a-high-price-for-a-university-education",
         "description": "Readers respond to an article by Zoe Williams in which she argues that university has become a scamHaving read Zoe Williams’ article on student loans (Why has university become such a scam?, 14 Sep...",
@@ -77,21 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "Plan to limit NHS diagnoses of ADHD attacked as ‘rationing’ healthcare",
-        "url": "https://www.theguardian.com/society/2026/sep/17/plan-limit-number-nhs-patients-diagnosed-adhd-rationing-healthcare",
-        "description": "Review expected to say patients in England should be ‘triaged’ and offered support without formal diagnosisProposals to limit the number of patients being formally diagnosed with attention deficit ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Andy Burnham urged to set dementia waiting-time target",
-        "url": "https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&at_campaign=rss",
-        "description": "An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.",
+        "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
+        "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
+        "description": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Burnham urged by opposition parties to follow Macron and act with more urgency on Russian threat – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/18/andy-burnham-ireland-john-healey-eu-made-in-europe-plan-uk-politics-latest-updates-news",
+        "description": "French president Emmanuel Macron earlier said he put measures in place to protect the country’s critical infrastructureMicheál Martin, the taoiseach (Irish PM), thanked Andy Burnham for his stance ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "‘Outright racist’ Daniel Thomas will face full force of law over any crimes, says home secretary",
         "url": "https://www.theguardian.com/politics/2026/sep/18/daniel-thomas-shabana-mahmood-far-right-extremism-asylum-sites",
@@ -105,46 +112,46 @@
         "description": "RNLI facility had been targeted by activists trying to stop asylum seekers landing in boats from the ChannelA lifeboat station on the south coast of England near the spot where far-right activists ...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "England ’Til I Die review – a chilling portrait of a town turning on its neighbours",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/16/england-til-i-die-review-channel-4",
-        "description": "Film-maker Jamie Roberts follows a Sussex man’s journey into the far right. If it wasn’t so horrific, parts could feel like they’d been written by Chris MorrisStanding in the street shouting virule...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Khan addresses Polanski in Urdu at London assembly, mocking Green leader’s byelection video – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates",
-        "description": "This blog is now closedAndrew Griffith has delivered his speech, and he is now taking questions.Q: You want the government to pause the making tax digital programme. Is that an admission that the l...",
+        "title": "Alleged underworld supporters and unfounded health claims: One Nation rolls out more Victorian election candidates",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/19/one-nation-victorian-election-candidates-michael-piastrino-elita-dabrowski-ben-lucas-ntwnfb",
+        "description": "Party has unveiled a steady stream of contenders for state election, including a former councillor who lost his licence for drink-drivingGet our new political email, free app or daily news podcastC...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Andy Burnham: UK must fully commit to reaching net zero by 2050",
-        "url": "https://www.theguardian.com/environment/2026/sep/17/andy-burnham-uk-must-fully-commit-to-reaching-net-zero-by-2050",
-        "description": "Exclusive: PM, who is facing pressure over whether to approve North Sea oil and gasfields, makes strongest comments yet on issueBritish people understand the climate crisis threat. Today I’m empowe...",
+        "title": "Drone footage shows severe drought hitting river in Brazil – video",
+        "url": "https://www.theguardian.com/world/video/2026/sep/18/drone-footage-shows-severe-drought-hitting-brazils-northern-river-video",
+        "description": "Drone footage from 17 September shows the Araguaia River drying up, as severe drought grips parts of Brazil. The country is preparing for potential El Niño impacts in late 2026-27, with the Tocanti...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "2025 was among driest years on record for world’s rivers, study finds",
-        "url": "https://www.theguardian.com/environment/2026/sep/17/2025-driest-years-worlds-rivers-study-finds",
-        "description": "Analysis of global resources reveals depletion in world’s water savings bank to 42% below normal levels last yearRivers across the world experienced one of their driest years in more than three dec...",
+        "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
+        "url": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
+        "description": "Some experts worry factors affecting wheat exports could push global food prices even higher than they are nowWheat prices are at their highest level in three years, which means farmer Merrill Niel...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "See tiny organisms on show in microscopic video competition",
-        "url": "https://www.bbc.co.uk/news/videos/cr209jz45vn4o?at_medium=RSS&at_campaign=rss",
-        "description": "The winning video features tiny hair-like structures, called cilia, in the airways of a child with a rare genetic disease.",
+        "title": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
+        "url": "https://www.bbc.co.uk/news/articles/cke87n51563po?at_medium=RSS&at_campaign=rss",
+        "description": "Michael Sheen said his meeting with the first minister was \"early days but that's really encouraging\".",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Singapore is paying people to read books – can it fix the reading crisis?",
+        "url": "https://www.theguardian.com/books/2026/sep/18/singapore-paid-reading-scheme",
+        "description": "A government scheme is giving citizens cash for spending time with a good book. We ask behavioural scientists, along with The Anxious Generation author and psychologist Jonathan Haidt, whether it’l...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘It was a mess. I had to do something’: the personal struggle that inspired rap star Giggs to start a special needs school",
         "url": "https://www.theguardian.com/music/2026/sep/18/giggs-opens-send-school-in-kent-education-music-ehcp-provision",
@@ -156,13 +163,6 @@
         "title": "Former student of suspended Reform official ‘reopens case’ against University of Cambridge",
         "url": "https://www.theguardian.com/education/2026/sep/17/james-orr-reform-cambridge-university-student",
         "description": "Cambridge previously paid £5,000 compensation after an investigation partially upheld allegations against Dr James OrrA former student of James Orr who was found to have been bullied by the suspend...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Bad Apples review – Saoirse Ronan’s suffering teacher best thing about school horror-satire",
-        "url": "https://www.theguardian.com/film/2026/sep/17/bad-apples-review-saoirse-ronans-suffering-teacher-best-thing-about-school-horror-satire",
-        "description": "Ronan plays a teacher who finds a way to deal with a disruptive pupil in Jonatan Etzler’s implausible film, but it’s not shocking or funny enoughHere is a strange, heavy-handed and unpersuasive bla...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Russian hybrid attacks against Europe intensifying, says Macron",
+        "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
+        "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Three dead and eight injured in Philippines school shooting",
         "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
         "description": "The gunman is among the dead in what is the third school shooting in the country since June.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "At least 16 killed in attack on mosque in Pakistan",
-        "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss",
-        "description": "A vehicle loaded with explosives rammed into a mosque building during Friday prayers, a senior police official told the BBC.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Canada welcomes EU proposal to become 'associate member'",
-        "url": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
-        "description": "Canadian Prime Minister Mark Carney said a Canada-EU alliance would create a \"beacon for other democracies\".",
+        "title": "Police begin operation to move migrants from Ceuta beaches",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss",
+        "description": "Police reportedly fired into the air on Friday morning as they struggled to contain crowds jostling to secure a place at the tented site.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
