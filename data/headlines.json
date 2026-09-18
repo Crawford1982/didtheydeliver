@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-17T20:57:30.468390+00:00",
+  "fetched_at": "2026-09-18T03:17:29.202147+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "‘Outright racist’ activist Daniel Thomas will face ‘full force of law’ over any crimes, says home secretary",
+        "url": "https://www.theguardian.com/politics/2026/sep/18/daniel-thomas-shabana-mahmood-far-right-extremism-asylum-sites",
+        "description": "Shabana Mahmood says she wants to distinguish between far-right extremism and legitimate local concerns over asylum sitesShabana Mahmood has described the anti-asylum activist Daniel Thomas as “a f...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Find a credible plan for British Steel, ministers told as ‘startling’ costs soar",
+        "url": "https://www.theguardian.com/business/2026/sep/18/british-steel-mps-labour-spending-watchdog-pac",
+        "description": "Government spending watchdog warns of price of keeping publicly owned firm in businessLabour has been urged to lay out a credible plan for the future of British Steel, as the government spending wa...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Nato head: Britain must show ‘credible path’ of annual defence budget increases",
         "url": "https://www.theguardian.com/world/2026/sep/17/nato-head-britain-must-show-credible-path-of-annual-defence-budget-increases",
         "description": "Mark Rutte said Britain will need to steadily increase defence spending to meet Nato target of 3.5% of GDP by 2035Britain needs to show “a credible path” of annual increases in its defence budgets ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Greens urge Zack Polanski to take stance on proposed policy declaring ‘Zionism is racism’",
-        "url": "https://www.theguardian.com/politics/2026/sep/17/greens-push-zack-polanski-to-take-stance-on-proposed-policy-declaring-zionism-is-racism",
-        "description": "Exclusive: The Green leader has not spoken publicly about the motion, which is likely to be debated at the party’s conference in OctoberThe Greens are pushing Zack Polanski to take a stance on a po...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Khan addresses Polanski in Urdu at London assembly, mocking Green leader’s byelection video – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/17/conservatives-badenoch-griffiths-healey-burnham-tax-rises-budget-economy-bank-of-england-latest-uk-politics-news-updates",
-        "description": "This blog is now closedAndrew Griffith has delivered his speech, and he is now taking questions.Q: You want the government to pause the making tax digital programme. Is that an admission that the l...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Interest rates held but Bank signals rise if energy prices stay high",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&at_campaign=rss",
-        "description": "Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.",
+        "title": "Healey to ask EU finance ministers to let UK into industry scheme",
+        "url": "https://www.bbc.co.uk/news/articles/cr6240ej07ejo?at_medium=RSS&at_campaign=rss",
+        "description": "The chancellor wants the Made in Europe programme to deepen ties with the UK \"rather than erecting new barriers\".",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "‘Outright racist’ activist Daniel Thomas will face ‘full force of law’ over any crimes, says home secretary",
+        "url": "https://www.theguardian.com/politics/2026/sep/18/daniel-thomas-shabana-mahmood-far-right-extremism-asylum-sites",
+        "description": "Shabana Mahmood says she wants to distinguish between far-right extremism and legitimate local concerns over asylum sitesShabana Mahmood has described the anti-asylum activist Daniel Thomas as “a f...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Lifeboat station in Portsmouth forced to temporarily shut after far-right action",
         "url": "https://www.theguardian.com/uk-news/2026/sep/17/lifeboat-station-portsmouth-temporarily-shut-after-far-right-action",
         "description": "RNLI facility had been targeted by activists trying to stop asylum seekers landing in boats from the ChannelA lifeboat station on the south coast of England near the spot where far-right activists ...",
@@ -103,13 +110,6 @@
         "title": "England ’Til I Die review – a chilling portrait of a town turning on its neighbours",
         "url": "https://www.theguardian.com/tv-and-radio/2026/sep/16/england-til-i-die-review-channel-4",
         "description": "Film-maker Jamie Roberts follows a Sussex man’s journey into the far right. If it wasn’t so horrific, parts could feel like they’d been written by Chris MorrisStanding in the street shouting virule...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "English far-right extremist who discussed killing Jews, Muslims and migrants is jailed",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/16/ivan-jennings-stafford-jailed-far-right-terrorism",
-        "description": "Ivan Jennings, 46, sentenced to five years after pleading guilty to encouraging terrorism on social mediaA rightwing extremist who discussed poisoning Jews and Muslims and called for the killing of...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Repeat offender fined for searching for gold in protected river",
-        "url": "https://www.bbc.co.uk/news/articles/c620lz12d1l7o?at_medium=RSS&at_campaign=rss",
-        "description": "Brian Wright, 68, from Henley-upon-Thames, was caught gold panning on a protected river in north Wales.",
+        "title": "See tiny organisms on show in microscopic video competition",
+        "url": "https://www.bbc.co.uk/news/videos/cr209jz45vn4o?at_medium=RSS&at_campaign=rss",
+        "description": "The winning video features tiny hair-like structures, called cilia, in the airways of a child with a rare genetic disease.",
         "source": "BBC News",
         "category": "climate"
       }
