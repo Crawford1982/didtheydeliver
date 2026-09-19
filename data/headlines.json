@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T20:25:24.854327+00:00",
+  "fetched_at": "2026-09-19T03:13:35.712176+00:00",
   "headlines": {
     "government": [
       {
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Michael Sheen's 'constructive' meeting with first minister over toxic dumping claims",
-        "url": "https://www.bbc.co.uk/news/articles/cke87n51563po?at_medium=RSS&at_campaign=rss",
-        "description": "Michael Sheen said his meeting with the first minister was \"early days but that's really encouraging\".",
+        "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
+        "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "US and Denmark reach deal over Greenland after Trump annexation threats",
+        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+        "description": "Trump said the agreement will give the US \"permanent control over security, and all other needs, in Greenland\", though specifics haven't been confirmed by Danish officials.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Russian hybrid attacks against Europe intensifying, says Macron",
         "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
         "description": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Donald Trump says he is banning CNN and Politico from White House",
+        "title": "Trump says he is banning CNN and Politico from White House",
         "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president has had a tense and fiery relationship with the US media since returning to office.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Is the Kennedy Center losing 'hundreds of millions of dollars'?",
-        "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss",
-        "description": "Records in 2024 show the venue had a surplus of millions of dollars once  contributions and grants had been factored in.",
+        "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
