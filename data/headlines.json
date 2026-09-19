@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-09-19T15:23:41.968861+00:00",
+  "fetched_at": "2026-09-19T20:04:32.595329+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "UK politics increasingly funded by billionaires as mega-donations surge",
+        "url": "https://www.theguardian.com/politics/2026/sep/19/uk-politics-increasingly-funded-by-billionaires-as-mega-donations-surge",
+        "description": "Exclusive: A total £179m has been donated by wealthy individuals since 2019, research revealsBritish politics is increasingly being funded by individual billionaires with a wave of mega-donations h...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Small boat arrivals are ‘wealthy men’ who do not deserve help, says Reform’s Danny Kruger",
         "url": "https://www.theguardian.com/politics/2026/sep/19/small-boats-wealthy-men-reform-danny-kruger",
@@ -13,13 +20,6 @@
         "title": "Scottish Labour’s new leader backs Rosebank and Jackdaw oil and gasfields",
         "url": "https://www.theguardian.com/politics/2026/sep/19/michael-marra-elected-as-scottish-labour-leader",
         "description": "Michael Marra supports development of the North Sea sites, calling for a ‘more rational’ approach to energy policyScottish Labour’s new leader Michael Marra has backed the development of the Roseba...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform UK activists squabble over Farage’s plan for £72m donations",
-        "url": "https://www.theguardian.com/politics/2026/sep/19/reform-uk-activists-farage-spending-plan-party-donations",
-        "description": "Crypto billionaires’ £72m will be used to hire campaign managers and professional staff in target constituenciesFor Nigel Farage, the £72m lavished last week on his party by the crypto billionaire ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "‘I would be happy if prices came down’: the older Australians wanting house prices to fall for their kids’ sake",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/20/house-prices-housing-crisis-older-younger-generations-australia",
+        "description": "Parents and grandparents who bought their first home with ease are hoping the slide in affordability can be reversed for the sake of the younger generationGet our breaking news email, free app or d...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Students scramble for accommodation after provider goes bust in Dundee",
         "url": "https://www.theguardian.com/education/2026/sep/19/scottish-students-accommodation-dundee-university-housing-schemes",
         "description": "Case highlights severe financial strain on sector across UK as string of university housing schemes failAre you having problems with your accommodation provider?Nearly 70 students in Dundee have be...",
@@ -179,13 +186,6 @@
         "title": "Stephen Ashman on the difficulties facing first-time homebuyers – cartoon",
         "url": "https://www.theguardian.com/commentisfree/picture/2026/sep/19/stephen-ashman-difficulties-facing-first-time-homebuyers-cartoon-housing",
         "description": "Continue reading...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "‘Cost of housing’ crunch looms for low-income families, warns Resolution Foundation",
-        "url": "https://www.theguardian.com/business/2026/sep/19/cost-of-housing-crunch-looms-for-low-income-families-warns-resolution-foundation",
-        "description": "Thinktank calls on chancellor to end housing allowance freeze with typical two-bedroom household facing £158 week shortfall amid rent risesMore than 1.1 million low-income families in rented homes ...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Trump says he is banning CNN and Politico from White House",
-        "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president has had a tense and fiery relationship with the US media throughout his political career.",
+        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Google's Gemini AI hacked three companies in security test",
-        "url": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
-        "description": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+        "title": "Journalists denied White House access after Trump banned some media outlets",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
+        "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
