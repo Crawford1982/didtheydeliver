@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-20T10:39:52.966046+00:00",
+  "fetched_at": "2026-09-20T15:28:55.265103+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Victoria Starmer models clothes at London fashion week show",
+        "url": "https://www.theguardian.com/fashion/2026/sep/20/victoria-starmer-clothes-london-fashion-week-show-edeline-lee",
+        "description": "Wife of former PM takes part in designer Edeline Lee’s show inspired by the Greek myth of SisyphusVictoria Starmer has taken part in a London fashion week show, in one of her first public appearanc...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Meta launches legal challenge against UK media regulator over Online Safety Act",
+        "url": "https://www.theguardian.com/media/2026/sep/20/meta-legal-challenge-uk-media-regulator-ofcom-online-safety-act",
+        "description": "Action against Ofcom comes as social media companies are being accused of using courts to slow down implementationMeta has launched a fresh legal challenge against Britain’s media regulator in the ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
         "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
         "description": "Bridget Phillipson says Burnham’s past criticisms of US president not an issue as PM prepares to meet Trump at UNNext month’s budget will be made more difficult by Donald Trump’s war with Iran, one...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Victims say Home Office attempt to curtail spycops inquiry will result in a ‘cover-up’",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/20/victims-say-home-office-attempt-to-curtail-spycops-inquiry-will-result-in-a-cover-up",
-        "description": "Shabana Mahmood is concerned about length and £144m cost of inquiry into intrusive police surveillanceVictims of intrusive police surveillance have accused the government of seeking to cut short th...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Chiltern Railways enters public ownership in Labour nationalisation push",
-        "url": "https://www.theguardian.com/business/2026/sep/20/chiltern-railways-enters-public-ownership-labour-nationalisation",
-        "description": "Operator that runs services between London Marylebone and Birmingham is sixth to be nationalised since 2025Chiltern Railways has become the latest train operator to enter public ownership as the go...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Ed Davey calls for immediate 10p cut to fuel duty",
-        "url": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
+        "title": "Billionaire Man United owner loses moral high ground after tax exile, Labour chair says",
+        "url": "https://www.bbc.co.uk/news/articles/cm0rexrwjj1vo?at_medium=RSS&at_campaign=rss",
+        "description": "The billionaire businessman told the BBC he has lost confidence in the UK due to a combination of high taxes and high immigration.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Adults with severe mental illness die 15 to 20 years earlier from diseases such as cancer",
+        "url": "https://www.theguardian.com/society/2026/sep/20/adults-severe-mental-illness-more-likely-die-earlier-diseases-cancer-nhs-data",
+        "description": "Exclusive: Stark health inequalities in terms of deaths before age of 75, NHS data revealsAdults with severe mental illness are nearly five times more likely than their peers to die from serious ph...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Thousands of pregnant women in England are reporting domestic abuse. Midwives are struggling to cope",
         "url": "https://www.theguardian.com/society/2026/sep/20/thousands-of-pregnant-women-in-england-are-reporting-domestic-abuse-midwives-are-struggling-to-cope",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "Disabled people need right to travel abroad, say UK MPs amid ‘ridiculous’ restrictions row",
-        "url": "https://www.theguardian.com/world/2026/sep/18/disabled-people-uk-need-right-travel-abroad-ridiculous-restrictions",
-        "description": "Outcry over ‘brazenly discriminatory’ funding practices among NHS care boards and local councils, with wide variations in rulesOpinion: An effective ban on disabled people leaving Britain? We will ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
         "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
         "description": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "RNLI warns supporters their personal information may have been hacked",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/20/rnli-warns-supporters-personal-information-hacked",
+        "description": "Data raid comes amid targeting of lifeboat charity by far-right agitators who object to migrant boat rescuesSupporters of the Royal National Lifeboat Institution have been warned that their persona...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Don’t discount Reform because it's had a bad year. In our angry, fragile democracy, anything can happen | John Harris",
         "url": "https://www.theguardian.com/commentisfree/2026/sep/20/discount-reform-bad-year-angry-fragile-democracy-nigel-farage-labour",
@@ -103,13 +110,6 @@
         "title": "Farage says he wants to ‘hijack’ Trump’s ICE czar to help secure UK border",
         "url": "https://www.theguardian.com/politics/2026/sep/20/farage-says-he-wants-to-hijack-trumps-ice-czar-to-help-secure-uk-border",
         "description": "Reform leader also tells US event Europe should have ‘more sensible view’ of president’s administrationNigel Farage has said he wants to “hijack” Donald Trump’s hardline ICE adviser and bring him t...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Small boat arrivals are ‘wealthy men’ who do not deserve help, says Reform’s Danny Kruger",
-        "url": "https://www.theguardian.com/politics/2026/sep/19/small-boats-wealthy-men-reform-danny-kruger",
-        "description": "The fact that some migrants pay people smugglers thousands of pounds makes them well off, MP claimsAsylum seekers who arrive on small boats across the Channel are “wealthy men” who do not deserve t...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
         "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-        "description": "A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the \"unprecedented attack\".",
+        "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
