@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-19T20:04:32.595329+00:00",
+  "fetched_at": "2026-09-20T03:30:35.550939+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Kemi Badenoch accuses Andy Burnham of ‘fiddling while Europe risks burning’",
+        "url": "https://www.theguardian.com/politics/2026/sep/20/kemi-badenoch-accuses-andy-burnham-fiddling-europe-risks-burning",
+        "description": "Tory leader claims prime minister is avoiding difficult decisions as she urges him to increase defence spending Kemi Badenoch has accused Andy Burnham of “fiddling while Europe is at risk of burnin...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Ed Davey takes aim at Reform and Elon Musk as Lib Dem conference begins",
+        "url": "https://www.theguardian.com/politics/2026/sep/19/ed-davey-takes-aim-at-reform-and-elon-musk-as-lib-dem-conference-begins",
+        "description": "Leader says party ‘won’t give up the fight’ to defeat ‘nasty populism’ in first-day speech to delegates in BrightonThe Liberal Democrats’ leader, Sir Ed Davey, took aim at Nigel Farage and Elon Mus...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK politics increasingly funded by billionaires as mega-donations surge",
         "url": "https://www.theguardian.com/politics/2026/sep/19/uk-politics-increasingly-funded-by-billionaires-as-mega-donations-surge",
         "description": "Exclusive: A total £179m has been donated by wealthy individuals since 2019, research revealsBritish politics is increasingly being funded by individual billionaires with a wave of mega-donations h...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Small boat arrivals are ‘wealthy men’ who do not deserve help, says Reform’s Danny Kruger",
-        "url": "https://www.theguardian.com/politics/2026/sep/19/small-boats-wealthy-men-reform-danny-kruger",
-        "description": "The fact that some migrants pay people smugglers thousands of pounds makes them well off, MP claimsAsylum seekers who arrive on small boats across the Channel are “wealthy men” who do not deserve t...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Scottish Labour’s new leader backs Rosebank and Jackdaw oil and gasfields",
-        "url": "https://www.theguardian.com/politics/2026/sep/19/michael-marra-elected-as-scottish-labour-leader",
-        "description": "Michael Marra supports development of the North Sea sites, calling for a ‘more rational’ approach to energy policyScottish Labour’s new leader Michael Marra has backed the development of the Roseba...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "When a beloved tree began withering away, locals suspected a killer in their midst",
-        "url": "https://www.bbc.co.uk/news/articles/cw5yl228lvzlo?at_medium=RSS&at_campaign=rss",
-        "description": "A neighbourhood’s fight to save a cherished ginkgo pits them against an unlikely foe.",
+        "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+        "description": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -171,7 +171,7 @@
       {
         "title": "‘I would be happy if prices came down’: the older Australians wanting house prices to fall for their kids’ sake",
         "url": "https://www.theguardian.com/australia-news/2026/sep/20/house-prices-housing-crisis-older-younger-generations-australia",
-        "description": "Parents and grandparents who bought their first home with ease are hoping the slide in affordability can be reversed for the sake of the younger generationGet our breaking news email, free app or d...",
+        "description": "Parents and grandparents who bought their first home with ease are hoping the slide in affordability can be reversed for the sake of the younger generationFollow our Australia news live blog for la...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
+        "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
         "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
         "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "description": "The King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Journalists denied White House access after Trump banned some media outlets",
-        "url": "https://www.bbc.co.uk/news/articles/cj4gklz9dxplo?at_medium=RSS&at_campaign=rss",
-        "description": "CNN, MS NOW and Politico reporters' White House press badges were confiscated, the outlets reported.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
