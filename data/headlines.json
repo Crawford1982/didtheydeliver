@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-20T15:28:55.265103+00:00",
+  "fetched_at": "2026-09-20T20:21:01.744904+00:00",
   "headlines": {
     "government": [
-      {
-        "title": "Victoria Starmer models clothes at London fashion week show",
-        "url": "https://www.theguardian.com/fashion/2026/sep/20/victoria-starmer-clothes-london-fashion-week-show-edeline-lee",
-        "description": "Wife of former PM takes part in designer Edeline Lee’s show inspired by the Greek myth of SisyphusVictoria Starmer has taken part in a London fashion week show, in one of her first public appearanc...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Meta launches legal challenge against UK media regulator over Online Safety Act",
-        "url": "https://www.theguardian.com/media/2026/sep/20/meta-legal-challenge-uk-media-regulator-ofcom-online-safety-act",
-        "description": "Action against Ofcom comes as social media companies are being accused of using courts to slow down implementationMeta has launched a fresh legal challenge against Britain’s media regulator in the ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
       {
         "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
         "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
         "description": "Bridget Phillipson says Burnham’s past criticisms of US president not an issue as PM prepares to meet Trump at UNNext month’s budget will be made more difficult by Donald Trump’s war with Iran, one...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Lib Dems use conference to set out £2bn plan to cut fuel duty",
+        "url": "https://www.theguardian.com/politics/2026/sep/20/lib-dems-use-conference-to-set-out-2bn-plan-to-cut-fuel-duty",
+        "description": "Ed Davey’s party made a series of proposals as concern grows among members that voters don’t know what its policies are or what it stands forThe Liberal Democrats have used their conference to unve...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Victoria Starmer models clothes at London fashion week show",
+        "url": "https://www.theguardian.com/fashion/2026/sep/20/victoria-starmer-clothes-london-fashion-week-show-edeline-lee",
+        "description": "Wife of former PM takes part in designer Edeline Lee’s show inspired by the Greek myth of SisyphusVictoria Starmer has taken part in a London fashion week show, in one of her first public appearanc...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+        "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
         "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
         "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
@@ -202,13 +209,6 @@
         "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
         "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
         "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "German elections under way which could decide fate of Chancellor Merz",
-        "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
-        "description": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
