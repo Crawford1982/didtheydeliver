@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-09-20T03:30:35.550939+00:00",
+  "fetched_at": "2026-09-20T10:39:52.966046+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Kemi Badenoch accuses Andy Burnham of ‘fiddling while Europe risks burning’",
-        "url": "https://www.theguardian.com/politics/2026/sep/20/kemi-badenoch-accuses-andy-burnham-fiddling-europe-risks-burning",
-        "description": "Tory leader claims prime minister is avoiding difficult decisions as she urges him to increase defence spending Kemi Badenoch has accused Andy Burnham of “fiddling while Europe is at risk of burnin...",
+        "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
+        "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
+        "description": "Bridget Phillipson says Burnham’s past criticisms of US president not an issue as PM prepares to meet Trump at UNNext month’s budget will be made more difficult by Donald Trump’s war with Iran, one...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Ed Davey takes aim at Reform and Elon Musk as Lib Dem conference begins",
-        "url": "https://www.theguardian.com/politics/2026/sep/19/ed-davey-takes-aim-at-reform-and-elon-musk-as-lib-dem-conference-begins",
-        "description": "Leader says party ‘won’t give up the fight’ to defeat ‘nasty populism’ in first-day speech to delegates in BrightonThe Liberal Democrats’ leader, Sir Ed Davey, took aim at Nigel Farage and Elon Mus...",
+        "title": "Victims say Home Office attempt to curtail spycops inquiry will result in a ‘cover-up’",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/20/victims-say-home-office-attempt-to-curtail-spycops-inquiry-will-result-in-a-cover-up",
+        "description": "Shabana Mahmood is concerned about length and £144m cost of inquiry into intrusive police surveillanceVictims of intrusive police surveillance have accused the government of seeking to cut short th...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK politics increasingly funded by billionaires as mega-donations surge",
-        "url": "https://www.theguardian.com/politics/2026/sep/19/uk-politics-increasingly-funded-by-billionaires-as-mega-donations-surge",
-        "description": "Exclusive: A total £179m has been donated by wealthy individuals since 2019, research revealsBritish politics is increasingly being funded by individual billionaires with a wave of mega-donations h...",
+        "title": "Chiltern Railways enters public ownership in Labour nationalisation push",
+        "url": "https://www.theguardian.com/business/2026/sep/20/chiltern-railways-enters-public-ownership-labour-nationalisation",
+        "description": "Operator that runs services between London Marylebone and Birmingham is sixth to be nationalised since 2025Chiltern Railways has become the latest train operator to enter public ownership as the go...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Davey says Lib Dems are 'firewall against Farage' as conference begins",
-        "url": "https://www.bbc.co.uk/news/articles/cq8jdkmgn7n1o?at_medium=RSS&at_campaign=rss",
-        "description": "Lib Dem leader Ed Davey claimed the party was aiming to beat its 2024 record of 72 MPs in any snap election.",
+        "title": "Ed Davey calls for immediate 10p cut to fuel duty",
+        "url": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
+        "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
+        "description": "Bridget Phillipson says Burnham’s past criticisms of US president not an issue as PM prepares to meet Trump at UNNext month’s budget will be made more difficult by Donald Trump’s war with Iran, one...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Are global stock markets heading for a crash?",
+        "url": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
+        "description": "Economies thrown into renewed turmoil as AI debt, Iran war and soaring government bond yields fuel alarmAt the height of the summer, the mood was optimistic in the world’s financial capitals. Power...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Software defect blamed for UK air traffic control chaos; FTSE 100’s worst day since July; Volkswagen cuts outlook – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
@@ -40,28 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Retail sales bounce back in Great Britain amid brighter signs for economy",
-        "url": "https://www.theguardian.com/business/2026/sep/18/retail-sales-bounce-back-across-great-britain",
-        "description": "Latest data to defy economic gloom shows 0.5% rise boosted by purchases of sports items, aircon units and fans during heatwavesBusiness live – latest updatesRetail sales across Great Britain unexpe...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
-        "url": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
-        "description": "Some experts worry factors affecting wheat exports could push global food prices even higher than they are nowWheat prices are at their highest level in three years, which means farmer Merrill Niel...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "'We simply don't know' - JP Morgan struggling to forecast oil prices due to Trump's war with Iran",
-        "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss",
-        "description": "The bank said it \"assumed\" there would be economic red lines, like oil at $100 a barrel, that the US would be unwilling the cross.",
+        "title": "Ed Davey calls for immediate 10p cut to fuel duty",
+        "url": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Thousands of pregnant women in England are reporting domestic abuse. Midwives are struggling to cope",
+        "url": "https://www.theguardian.com/society/2026/sep/20/thousands-of-pregnant-women-in-england-are-reporting-domestic-abuse-midwives-are-struggling-to-cope",
+        "description": "Exclusive: Analysis ‘lays bare’ something midwives already know from their day-to-day workAbout 20,000 disclosures of domestic abuse are estimated to be made to maternity services in England every ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "After 20 years of my school dinners campaign, I’m a happy man. At last, we’re going to feed kids properly | Jamie Oliver",
         "url": "https://www.theguardian.com/commentisfree/2026/sep/19/school-dinners-campaign-children-government-announcement-food-standards",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "Twenty women had breasts removed unnecessarily during NHS cancer care",
-        "url": "https://www.theguardian.com/society/2026/sep/18/women-breasts-removed-unnecessarily-cancer-treatment-county-durham-darlington-nhs-trust",
-        "description": "Patients among hundreds who suffered harm at County Durham and Darlington foundation trust’s breast unitTwenty women had their breasts removed unnecessarily while being treated for cancer at an NHS...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Lindsay Clancy holdout juror says he had no doubt she deliberately killed her children",
         "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss",
         "description": "It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.",
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
+        "title": "Don’t discount Reform because it's had a bad year. In our angry, fragile democracy, anything can happen | John Harris",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/20/discount-reform-bad-year-angry-fragile-democracy-nigel-farage-labour",
+        "description": "Nigel Farage’s tactics are to play up the anxiety and resentment that people feel. Labour’s job is simple: to offer hope and changeDespite the energised start Andy Burnham has made as prime ministe...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Farage says he wants to ‘hijack’ Trump’s ICE czar to help secure UK border",
+        "url": "https://www.theguardian.com/politics/2026/sep/20/farage-says-he-wants-to-hijack-trumps-ice-czar-to-help-secure-uk-border",
+        "description": "Reform leader also tells US event Europe should have ‘more sensible view’ of president’s administrationNigel Farage has said he wants to “hijack” Donald Trump’s hardline ICE adviser and bring him t...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Small boat arrivals are ‘wealthy men’ who do not deserve help, says Reform’s Danny Kruger",
         "url": "https://www.theguardian.com/politics/2026/sep/19/small-boats-wealthy-men-reform-danny-kruger",
         "description": "The fact that some migrants pay people smugglers thousands of pounds makes them well off, MP claimsAsylum seekers who arrive on small boats across the Channel are “wealthy men” who do not deserve t...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Unease in ‘newly independent’ Piddington as world media and Danny Tommo descend",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/19/unease-in-newly-independent-piddington-as-world-media-and-danny-tommo-descend",
-        "description": "As villagers take stock following symbolic vote, some fear far-right weaponisation of asylum dispute and influx of ‘masked people like in Dover’The first significant event in the newly independent ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Burnham urged by opposition parties to follow Macron and act with more urgency on Russian threat – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/18/andy-burnham-ireland-john-healey-eu-made-in-europe-plan-uk-politics-latest-updates-news",
-        "description": "French president Emmanuel Macron earlier said he put measures in place to protect the country’s critical infrastructureMicheál Martin, the taoiseach (Irish PM), thanked Andy Burnham for his stance ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
-        "title": "Students scramble for accommodation after provider goes bust in Dundee",
+        "title": "Ms Rachel, the controversial queen of toddler TV: ‘My goal isn’t to be the most liked. It’s to help kids and speak the truth’",
+        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/20/ms-rachel-the-queen-of-toddler-tv-interview",
+        "description": "Her catchy videos have racked up billions of views, but Rachel Accurso’s statements on everything from Gaza to LGBTQ rights have caused a stir. She talks about screen time, song fatigue and specula...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Water your plants and get an eye mask: 48 life rules every student – and adult – needs to know",
+        "url": "https://www.theguardian.com/education/2026/sep/20/fresher-university-48-life-rules",
+        "description": "If you’re a fresher, this may be the first time you’ve ever lived away from home. So how should you socialise, feed yourself and look after your health?You don’t realise until you leave home just h...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Students scramble for accommodation after owner goes bust in Dundee",
         "url": "https://www.theguardian.com/education/2026/sep/19/scottish-students-accommodation-dundee-university-housing-schemes",
         "description": "Case highlights severe financial strain on sector across UK as string of university housing schemes failAre you having problems with your accommodation provider?Nearly 70 students in Dundee have be...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "European education powerhouses rocked by falling scores in global study",
-        "url": "https://www.theguardian.com/education/2026/sep/19/european-education-powerhouses-rocked-falling-pisa-scores-global-study-france-germany-netherlands-finland",
-        "description": "France and Germany among countries with low Pisa scores, which show how well 15-year-olds use school learning in lifeFrance’s were its worst ever. Germany’s, too. In the Netherlands, results also t...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Singapore is paying people to read books – can it fix the reading crisis?",
-        "url": "https://www.theguardian.com/books/2026/sep/18/singapore-paid-reading-scheme",
-        "description": "A government scheme is giving citizens cash for spending time with a good book. We ask behavioural scientists, along with The Anxious Generation author and psychologist Jonathan Haidt, whether it’l...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -176,7 +176,7 @@
         "category": "housing"
       },
       {
-        "title": "Students scramble for accommodation after provider goes bust in Dundee",
+        "title": "Students scramble for accommodation after owner goes bust in Dundee",
         "url": "https://www.theguardian.com/education/2026/sep/19/scottish-students-accommodation-dundee-university-housing-schemes",
         "description": "Case highlights severe financial strain on sector across UK as string of university housing schemes failAre you having problems with your accommodation provider?Nearly 70 students in Dundee have be...",
         "source": "The Guardian",
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Ed Sheeran admits 'mistakes' as he addresses Macklemore controversy at Philadelphia show",
+        "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
+        "description": "A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the \"unprecedented attack\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
         "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-        "description": "The mega-star spoke about Israel and Gaza at his first concert since rapper Macklemore was removed from his tour.",
+        "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-        "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-        "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-        "description": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+        "title": "German elections under way which could decide fate of Chancellor Merz",
+        "url": "https://www.bbc.co.uk/news/articles/cme8xj6g2ny7o?at_medium=RSS&at_campaign=rss",
+        "description": "The chancellor is facing intense political pressure which will increase if his party struggles in Sunday's polls.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
