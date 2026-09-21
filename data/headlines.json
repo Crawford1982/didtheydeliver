@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-09-21T03:25:44.079906+00:00",
+  "fetched_at": "2026-09-21T12:02:54.043532+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Infected blood victims and their relatives are left struggling to claim compensation",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/21/infected-blood-victims-and-relatives-struggle-to-claim-compensation",
+        "description": "Claimants are asked to dig out decades-old medical records to prove they qualify despite inquiry’s recommendationsSuzanne Morgan will never forget the day her mother died. It was nine months after ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Farage names new leader for Reform UK in Wales after predecessor arrested – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/21/ed-davey-liberal-democrats-party-conference-brighton-labour-conservatives-andy-burnham-kemi-badenoch-nigel-farage-reform-uk-politics-latest-news",
+        "description": "Helen Jenner will be party’s new head in Senedd as Farage says Dan Thomas’s arrest was a ‘bump in the road’Ben Quinn is a Guardian political correspondent.Nigel Farage has unveiled Helen Jenner as ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Lib Dems propose big tech levy to fund £250m online crime agency",
         "url": "https://www.theguardian.com/politics/2026/sep/20/lib-dems-use-conference-to-set-out-2bn-plan-to-cut-fuel-duty",
@@ -10,53 +24,39 @@
         "category": "government"
       },
       {
-        "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
-        "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
-        "description": "Bridget Phillipson says Burnham’s past criticisms of US president not an issue as PM prepares to meet Trump at UNNext month’s budget will be made more difficult by Donald Trump’s war with Iran, one...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Victoria Starmer models clothes at London fashion week show",
-        "url": "https://www.theguardian.com/fashion/2026/sep/20/victoria-starmer-clothes-london-fashion-week-show-edeline-lee",
-        "description": "Wife of former PM takes part in designer Edeline Lee’s show inspired by the Greek myth of SisyphusVictoria Starmer has taken part in a London fashion week show, in one of her first public appearanc...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Ed Davey calls for immediate 10p cut to fuel duty",
-        "url": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
+        "title": "Lib Dems call for one-to-one midwife care during childbirth",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gr8pde059o?at_medium=RSS&at_campaign=rss",
+        "description": "Sir Ed Davey pledged to spend £600m a year on maternity services if the Lib Dems were in government.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK minister warns of impact of Trump’s Iran war on next month’s budget",
-        "url": "https://www.theguardian.com/politics/2026/sep/20/uk-budget-made-harder-donald-trump-war-iran-bridget-phillipson-andy-burnham",
-        "description": "Bridget Phillipson says Burnham’s past criticisms of US president not an issue as PM prepares to meet Trump at UNNext month’s budget will be made more difficult by Donald Trump’s war with Iran, one...",
+        "title": "Fears over interest rate rise and jobs send UK consumer confidence to three-year low",
+        "url": "https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget",
+        "description": "Blow to John Healey before budget as UK households face ‘notable strain’ on their financesBusiness live – latest updatesFears of a steep rise in mortgage payments and increasing job insecurity have...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Are global stock markets heading for a crash?",
-        "url": "https://www.theguardian.com/business/ng-interactive/2026/sep/20/stock-market-crash-government-bond-yields",
-        "description": "Economies thrown into renewed turmoil as AI debt, Iran war and soaring government bond yields fuel alarmAt the height of the summer, the mood was optimistic in the world’s financial capitals. Power...",
+        "title": "All the signs say another financial crisis is coming. Here’s why we need to prepare for it now | Larry Elliott",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/21/financial-crisis-ai-oil-market-2008-crash-disruption",
+        "description": "War, AI disruption and markets in turmoil: the warnings are all there. But lessons from the 2008 crash could help us Continue reading...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Software defect blamed for UK air traffic control chaos; FTSE 100’s worst day since July; Volkswagen cuts outlook – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/sep/18/japan-raises-interest-rates-central-bankers-fight-inflation-gb-retail-sales-rise-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsUK airport disruption: what are your rights if you have been affected?Britons are increasingly worried about the climate emergency, and job...",
+        "title": "UK urged to strengthen financial muscle of national wealth fund to aid economy",
+        "url": "https://www.theguardian.com/business/2026/sep/21/uk-urged-to-strengthen-financial-muscle-of-national-wealth-fund-to-aid-economy",
+        "description": "Unions, thinktanks and others say overhaul could provide investment Britain needsUnions, thinktanks, environmental groups and charities have come together to call on ministers to boost the financia...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Nvidia boss rejects AI extinction fears as 'doomsday narratives'",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ye7p13jg7o?at_medium=RSS&at_campaign=rss",
-        "description": "Jensen Huang's comments come after warnings from AI researchers that the technology could lead to human extinction.",
+        "title": "What are my rights if my flight is cancelled or delayed?",
+        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
+        "description": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,9 +70,9 @@
         "category": "nhs"
       },
       {
-        "title": "Thousands of pregnant women in England are reporting domestic abuse. Midwives are struggling to cope",
+        "title": "About 20,000 women a year tell midwives they are domestic violence victims",
         "url": "https://www.theguardian.com/society/2026/sep/20/thousands-of-pregnant-women-in-england-are-reporting-domestic-abuse-midwives-are-struggling-to-cope",
-        "description": "Exclusive: Analysis ‘lays bare’ something midwives already know from their day-to-day workAbout 20,000 disclosures of domestic abuse are estimated to be made to maternity services in England every ...",
+        "description": "Exclusive: Midwifery leaders call for more support and training as analysis reveals scale of disclosuresAbout 20,000 disclosures of domestic abuse are estimated to be made to maternity services in ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Smart beds and motion sensors - is this the future of dementia care?",
-        "url": "https://www.bbc.co.uk/news/articles/c3056d456gro?at_medium=RSS&at_campaign=rss",
-        "description": "Jyoti and Bharat Patel are testing dementia technology including sensors in socks, their bed and around the house.",
+        "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
+        "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
+        "description": "Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Babies ‘will face almost twice as much’ extreme fire weather in Europe than great-grandparents",
+        "url": "https://www.theguardian.com/world/2026/sep/21/babies-extreme-fire-weather-europe-great-grandparents",
+        "description": "Children born after 2025 will experience three more years of brutally fire-conducive weather as global heating intensifiesEuropean babies will face almost twice as much extreme fire weather as thei...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Alleged underworld supporters and unfounded health claims: One Nation rolls out more Victorian election candidates",
         "url": "https://www.theguardian.com/australia-news/2026/sep/19/one-nation-victorian-election-candidates-michael-piastrino-elita-dabrowski-ben-lucas-ntwnfb",
         "description": "Party has unveiled a steady stream of contenders for state election, including a former councillor who lost his licence for drink-drivingGet our new political email, free app or daily news podcastC...",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "US wheat farmers navigate uncertainty amid drought and geopolitical chaos",
-        "url": "https://www.theguardian.com/business/2026/sep/18/wheat-farmers-drought-geopolitics",
-        "description": "Some experts worry factors affecting wheat exports could push global food prices even higher than they are nowWheat prices are at their highest level in three years, which means farmer Merrill Niel...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "What food items should you stock up on in case of an emergency?",
-        "url": "https://www.bbc.co.uk/news/articles/c20veglyjp8o?at_medium=RSS&at_campaign=rss",
-        "description": "Extreme weather may be changing the way we need to shop, with the UK government urging people to stock up on canned goods.",
+        "title": "Which emergency foods should you stock up on?",
+        "url": "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Annabel Rackham shares some dos and don'ts, following government advice in case of food supply chain disruption.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "New Ofsted inspection regime is damaging our health, headteachers say",
+        "url": "https://www.theguardian.com/education/2026/sep/21/ofsted-inspections-are-damaging-our-health-say-headteachers",
+        "description": "School leaders’ union says new system is worse than one it replaced and has left members  feeling overwhelmedHeadteachers in England want Ofsted to stop grading their schools, saying its new inspec...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Ms Rachel, the controversial queen of toddler TV: ‘My goal isn’t to be the most liked. It’s to help kids and speak the truth’",
         "url": "https://www.theguardian.com/tv-and-radio/2026/sep/20/ms-rachel-the-queen-of-toddler-tv-interview",
@@ -156,13 +163,6 @@
         "title": "Water your plants and get an eye mask: 48 life rules every student – and adult – needs to know",
         "url": "https://www.theguardian.com/education/2026/sep/20/fresher-university-48-life-rules",
         "description": "If you’re a fresher, this may be the first time you’ve ever lived away from home. So how should you socialise, feed yourself and look after your health?You don’t realise until you leave home just h...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Students scramble for accommodation after owner goes bust in Dundee",
-        "url": "https://www.theguardian.com/education/2026/sep/19/scottish-students-accommodation-dundee-university-housing-schemes",
-        "description": "Case highlights severe financial strain on sector across UK as string of university housing schemes failAre you having problems with your accommodation provider?Nearly 70 students in Dundee have be...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
-        "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-        "description": "Moscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
+        "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
+        "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
+        "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
-        "url": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
-        "description": "The singer spoke about Israel and Gaza after Macklemore was dropped from his tour for making pro-Palestinian remarks on stage.",
+        "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+        "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+        "description": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
         "source": "BBC News",
         "category": "foreign_policy"
       }
