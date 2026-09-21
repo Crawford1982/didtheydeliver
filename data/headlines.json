@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-09-21T12:02:54.043532+00:00",
+  "fetched_at": "2026-09-21T21:42:38.966884+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Infected blood victims and their relatives are left struggling to claim compensation",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/21/infected-blood-victims-and-relatives-struggle-to-claim-compensation",
-        "description": "Claimants are asked to dig out decades-old medical records to prove they qualify despite inquiry’s recommendationsSuzanne Morgan will never forget the day her mother died. It was nine months after ...",
+        "title": "Lib Dems reject ‘discriminatory and unworkable’ EHRC guidance on transgender people",
+        "url": "https://www.theguardian.com/politics/2026/sep/21/lib-dems-reject-ruling-transgender-people-brighton-conference",
+        "description": "Motion passed at party conference calls for new approach to implementing ruling that legal definition of a woman is based on biological sex onlyThe Liberal Democrats have rejected official guidance...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Farage names new leader for Reform UK in Wales after predecessor arrested – UK politics live",
+        "title": "Helen Jenner unveiled as Reform UK’s new leader in Wales after arrest of Dan Thomas",
+        "url": "https://www.theguardian.com/politics/2026/sep/21/helen-jenner-reform-uk-new-leader-wales-dan-thomas-arrest",
+        "description": "Nigel Farage dismisses loss of previous leader as ‘bump in the road’ and says party will ‘carry on as if nothing has happened’Nigel Farage dismissed the loss of Reform UK’s leader in Wales last wee...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK politics: New leader of Reform UK in Wales named after defeating rival by just two votes – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/21/ed-davey-liberal-democrats-party-conference-brighton-labour-conservatives-andy-burnham-kemi-badenoch-nigel-farage-reform-uk-politics-latest-news",
-        "description": "Helen Jenner will be party’s new head in Senedd as Farage says Dan Thomas’s arrest was a ‘bump in the road’Ben Quinn is a Guardian political correspondent.Nigel Farage has unveiled Helen Jenner as ...",
+        "description": "Helen Jenner will be party’s new head in Senedd after a narrow victory over Jason O’ConnellHere are some more lines from Max Wilkinson’s speech to the Lib Dem conference this morning.Wilkinson, the...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Lib Dems propose big tech levy to fund £250m online crime agency",
-        "url": "https://www.theguardian.com/politics/2026/sep/20/lib-dems-use-conference-to-set-out-2bn-plan-to-cut-fuel-duty",
-        "description": "Proposal one of many at conference responding to concern voters unaware of party’s policies or what it stands forThe Liberal Democrats say they will tax big tech to finance a new online crime agenc...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Lib Dems call for one-to-one midwife care during childbirth",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gr8pde059o?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Ed Davey pledged to spend £600m a year on maternity services if the Lib Dems were in government.",
+        "title": "UK to provide Saudi Arabia with 'defensive' military support, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says \"defensive air-to-air refuelling\" is to be provided following a request from Saudi Arabia, after it faced attacks from the Houthis in Yemen.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "What are my rights if my flight is cancelled or delayed?",
-        "url": "https://www.bbc.co.uk/news/articles/c9qxnyengdjo?at_medium=RSS&at_campaign=rss",
-        "description": "Flights are affected again owing to air traffic control problems, so what are your rights if you're affected?",
+        "title": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjr1qepr8o?at_medium=RSS&at_campaign=rss",
+        "description": "The deal includes an agreement to produce 30 films a year, or Paramount will be forced to sell off parts of its company.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Lucy Letby, the NHS and the rise of managerialism | Letters",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/21/lucy-letby-the-nhs-and-the-rise-of-managerialism",
+        "description": "Pete Dorey believes most public services are thoroughly over-managed, Michael Barrett says whistleblowing policies are essential. Plus letters from Frances Kirkham and Jenny WebbTom Dolphin’s excel...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Adults with severe mental illness die 15 to 20 years earlier from diseases such as cancer",
         "url": "https://www.theguardian.com/society/2026/sep/20/adults-severe-mental-illness-more-likely-die-earlier-diseases-cancer-nhs-data",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "After 20 years of my school dinners campaign, I’m a happy man. At last, we’re going to feed kids properly | Jamie Oliver",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/19/school-dinners-campaign-children-government-announcement-food-standards",
-        "description": "This week’s government announcement on school food standards is huge. It’s based on common sense and science. Beautiful!More than 20 years ago, when I started the campaign and TV series School Dinn...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Young people aren't snowflakes - mental distress is rising, says head of official review",
-        "url": "https://www.bbc.co.uk/news/articles/cqzrz0z4plk1o?at_medium=RSS&at_campaign=rss",
-        "description": "Speaking exclusively to the BBC, Prof Peter Fonagy says being young is much harder now than it was.",
+        "title": "'Other generations just buried it' - Youths share their mental health concerns",
+        "url": "https://www.bbc.co.uk/news/videos/ck1wx2z55nwyo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Catherine Burns spoke to some young mental health ambassadors who called for an increase in mental health support.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,30 +116,30 @@
     ],
     "climate": [
       {
-        "title": "Babies ‘will face almost twice as much’ extreme fire weather in Europe than great-grandparents",
-        "url": "https://www.theguardian.com/world/2026/sep/21/babies-extreme-fire-weather-europe-great-grandparents",
-        "description": "Children born after 2025 will experience three more years of brutally fire-conducive weather as global heating intensifiesEuropean babies will face almost twice as much extreme fire weather as thei...",
+        "title": "World leaders address climate crisis before UN meet amid record-breaking El-Niño",
+        "url": "https://www.theguardian.com/environment/2026/sep/21/world-leaders-climate-crisis-el-nino",
+        "description": "Prime ministers of Australia and Iceland discuss effects on their countries even as some shy away in face of war and inflationWorld political leaders are descending on New York for the UN general a...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Alleged underworld supporters and unfounded health claims: One Nation rolls out more Victorian election candidates",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/19/one-nation-victorian-election-candidates-michael-piastrino-elita-dabrowski-ben-lucas-ntwnfb",
-        "description": "Party has unveiled a steady stream of contenders for state election, including a former councillor who lost his licence for drink-drivingGet our new political email, free app or daily news podcastC...",
+        "title": "No avoiding the cost of inaction on climate, Anthony Albanese says in New York",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/21/no-avoiding-the-cost-of-inaction-on-climate-anthony-albanese-says-in-new-york",
+        "description": "Before United Nations meeting, prime minister says Australians knows the impact of global heating as well as anyoneAustralia understands the dangers of global warming and the urgency of climate act...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Drone footage shows severe drought hitting river in Brazil – video",
-        "url": "https://www.theguardian.com/world/video/2026/sep/18/drone-footage-shows-severe-drought-hitting-brazils-northern-river-video",
-        "description": "Drone footage from 17 September shows the Araguaia River drying up, as severe drought grips parts of Brazil. The country is preparing for potential El Niño impacts in late 2026-27, with the Tocanti...",
+        "title": "Wildlife will be affected by current drought for years to come, UK government says",
+        "url": "https://www.theguardian.com/environment/2026/sep/21/wildlife-drought-uk-environmental-incidents",
+        "description": "The number of potentially damaging environmental incidents triggered by this year’s hot and dry weather has surpassed that of 2025Wildlife in England and Wales will be affected by the current droug...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Which emergency foods should you stock up on?",
-        "url": "https://www.bbc.co.uk/news/videos/ckly58lmy2gvo?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC's Annabel Rackham shares some dos and don'ts, following government advice in case of food supply chain disruption.",
+        "title": "Typhoon Dujuan tracking close to Tokyo triggers rare evacuation alert",
+        "url": "https://www.bbc.co.uk/news/videos/ckjrxpqxx2v3o?at_medium=RSS&at_campaign=rss",
+        "description": "More than 1.9 million people are under evacuation orders as Typhoon Dujuan batters Japan.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Awaab’s law is not working, say social housing tenants stuck in mouldy homes",
+        "url": "https://www.theguardian.com/society/2026/sep/21/awaabs-law-not-working-social-housing-tenants-mouldy-homes-england",
+        "description": "Residents say new legislation in England forcing landlords to fix dangerous hazards is not improving conditionsSarah Killick has been battling problems in her social home for months, including moul...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "‘I would be happy if prices came down’: the older Australians wanting house prices to fall for their kids’ sake",
         "url": "https://www.theguardian.com/australia-news/2026/sep/20/house-prices-housing-crisis-older-younger-generations-australia",
         "description": "Parents and grandparents who bought their first home with ease are hoping the slide in affordability can be reversed for the sake of the younger generationFollow our Australia news live blog for la...",
@@ -181,34 +188,27 @@
         "description": "Case highlights severe financial strain on sector across UK as string of university housing schemes failAre you having problems with your accommodation provider?Nearly 70 students in Dundee have be...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Stephen Ashman on the difficulties facing first-time homebuyers – cartoon",
-        "url": "https://www.theguardian.com/commentisfree/picture/2026/sep/19/stephen-ashman-difficulties-facing-first-time-homebuyers-cartoon-housing",
-        "description": "Continue reading...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-        "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
-        "description": "Exit polls show damaging losses for Merz's centre-right CDU party in the state of Mecklenburg-Vorpommern and Berlin.",
+        "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
-        "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
-        "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+        "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
         "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-        "description": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
+        "description": "Major US networks later suspended White House TV coverage of Trump as he heads to New York for the UN summit.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
+        "url": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
+        "description": "The chancellor has come under increasing pressure after resounding state election defeats, but says the results \"go far beyond my own person\"",
         "source": "BBC News",
         "category": "foreign_policy"
       }
