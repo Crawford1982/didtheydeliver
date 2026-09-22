@@ -1,62 +1,62 @@
 {
-  "fetched_at": "2026-09-22T10:59:25.151866+00:00",
+  "fetched_at": "2026-09-22T16:18:46.327723+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK not ‘on the slide’, Burnham to tell UN as he gears up for first meeting with Trump – UK politics live",
+        "title": "Davey says far right in Britain now better funded and supported than in the past – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/22/andy-burnham-donald-trump-un-general-assembly-uk-politics-latest-news",
-        "description": "Burnham is heading to New York for the United Nations general assemblyAt the end of last week Andy Burnham was criticised by Kemi Badenoch and Nigel Farage for allegedly not responding to the threa...",
+        "description": "Lib Dem leader tells party conference that ‘something big and dangerous is happening in our country’If Andy Burnham wanted to inject some edge into his meeting with Donald Trump later (which he doe...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham does not rule out Brexit reversal being in next Labour manifesto",
-        "url": "https://www.theguardian.com/politics/2026/sep/22/andy-burnham-fails-rule-out-brexit-reversal-next-labour-manifesto",
-        "description": "PM says immediate focus is on rebuilding bridges with EU as he prepares for first meeting with Ursula von der LeyenAndy Burnham has opened the door to fighting the next election on the UK rejoining...",
+        "title": "Nick Clegg could make £30m windfall from datacentre startup Nscale flotation",
+        "url": "https://www.theguardian.com/business/2026/sep/22/nick-clegg-30m-windfall-datacentre-flotation-nscale",
+        "description": "The former UK deputy prime minister is a board member of the UK-based  company and owns 917,000 sharesNick Clegg could make approximately $40m (£30m) from the planned float of Nscale as the UK-base...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "UK borrows £18bn in August, putting pressure on Healey before budget",
         "url": "https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets",
-        "description": "Higher-than-expected figure will make chancellor’s aim of calming jittery bond markets more difficultBusiness live – latest updatesThe UK government borrowed a higher-than-expected £18.3bn last mon...",
+        "description": "Some economists say it is now ‘inevitable’ that chancellor will need to raise taxes in the budget next monthBusiness live – latest updatesThe UK government borrowed a higher-than-expected £18.3bn l...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK to help refuel Saudi jets countering Houthi attacks",
-        "url": "https://www.bbc.co.uk/news/articles/cqlykpe4dk0yo?at_medium=RSS&at_campaign=rss",
-        "description": "The UK says it will provide air-to-air refuelling for \"defensive\" operations following a request from Saudi Arabia.",
+        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
+        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
+        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Fears over interest rate rise and jobs send UK consumer confidence to three-year low",
-        "url": "https://www.theguardian.com/business/2026/sep/21/interest-rate-rise-jobs-uk-consumer-confidence-budget",
-        "description": "Blow to John Healey before budget as UK households face ‘notable strain’ on their financesFears of a steep rise in mortgage payments and increasing job insecurity have sent UK consumer confidence t...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Oil falls below $100 a barrel on reports Iran ‘makes strait of Hormuz offer’; UK government borrowing paints ‘dismal picture’ – business live",
+        "title": "Oil falls below $100 a barrel; UK government borrowing paints ‘dismal picture’ as bond vigilantes assemble – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
-        "description": "The rising cost of servicing the UK national debt pushed up borrowing last monthHow much ‘headroom’ might John Healey still have to keep within the government’s fiscal rules?That’s the question dog...",
+        "description": "The rising cost of servicing the UK national debt pushed up borrowing last month, while oil is dropping, and M&G holds Bond Vigilantes Forum in LondonHow much ‘headroom’ might John Healey still hav...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
         "title": "UK borrows £18bn in August, putting pressure on Healey before budget",
         "url": "https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets",
-        "description": "Higher-than-expected figure will make chancellor’s aim of calming jittery bond markets more difficultBusiness live – latest updatesThe UK government borrowed a higher-than-expected £18.3bn last mon...",
+        "description": "Some economists say it is now ‘inevitable’ that chancellor will need to raise taxes in the budget next monthBusiness live – latest updatesThe UK government borrowed a higher-than-expected £18.3bn l...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Sir Jim Ratcliffe's Ineos to mothball three major chemical sites in Hull",
+        "title": "EU spends three times more on imports from China than bloc exports there",
+        "url": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
+        "description": "Study shows trade deficit ran at more than €1bn a day in July, days before Xi Jinping’s summit with Donald TrumpBusiness live – latest updatesConsumers and businesses in the EU are spending three t...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
         "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-        "description": "The wholesale price of natural gas has almost doubled in the UK and Europe since July.",
+        "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,30 +116,30 @@
     ],
     "climate": [
       {
-        "title": "Tropics will be among last places to benefit if global greenhouse gas emissions cut to net zero",
+        "title": "Superpowers cannot solve world’s problems, UN chief says in final general assembly address",
+        "url": "https://www.theguardian.com/world/2026/sep/22/un-chief-antonio-guterres-final-general-assembly-address",
+        "description": "António Guterres says humanity faces unprecedented convergence of threats but mechanisms for collective action are under growing strainThe world’s fault lines have turned from cracks into canyons a...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Wasp spider seen in north of England latest ‘climate refugee’ amid global heating",
+        "url": "https://www.theguardian.com/environment/2026/sep/22/wasp-spider-climate-refugee-north-of-england",
+        "description": "The Argiope bruennichi, spotted in Cheshire for first time, part of worrying trend that could threaten native speciesShe is an unlikely harbinger of the climate emergency: a venomous black and yell...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Poorer nations will be among the last to benefit if global emissions cut to net zero",
         "url": "https://www.theguardian.com/environment/2026/sep/22/climate-inequality-tropics-among-last-places-to-benefit-net-zero",
         "description": "Scientists found unequal impact of the climate crisis would not be reversed even if implicit goal of the 2015 Paris agreement is achievedThe unequal impact of the climate crisis on the world’s poor...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "‘Negligent’ to talk about long term risks to Australia without examining cost of climate crisis, experts say",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/22/intergenerational-report-underplays-effect-climate-crisis-on-australia-future-2066",
-        "description": "One academic says federal government’s intergenerational report, a snapshot of life in 2066, ignores the economic damage on the horizonFollow our Australia news live blog for latest updatesGet our ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘Short on substance’: Albanese urges climate action on world stage – but advocates say Australia failing on fossil fuels",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/21/no-avoiding-the-cost-of-inaction-on-climate-anthony-albanese-says-in-new-york",
-        "description": "Prime minister says ‘climate security is the new national security’ in keynote speech in New YorkFollow our Australia news live blog for latest updatesSign up for climate and environment editor Ada...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Inside Scotland's wildcat HQ",
-        "url": "https://www.bbc.co.uk/news/videos/ckq6312dq0qjo?at_medium=RSS&at_campaign=rss",
-        "description": "The Saving Wildcats partnership is keeping an eye on the latest wildcats being bred in captivity for release into the Cairngorms.",
+        "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+        "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Major US outlets boycott shared Trump coverage in protest at media ban",
-        "url": "https://www.bbc.co.uk/news/articles/cje3rezd92y3o?at_medium=RSS&at_campaign=rss",
-        "description": "Regular coverage of the president has been disrupted after he banned CNN, MS NOW and Politico from the White House.",
+        "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+        "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
-        "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-        "description": "The G7 also condemns \"in the strongest terms\" Houthi attacks on Saudi Arabia, saying that the escalation in fighting in Yemen jeopardises global energy security.",
+        "title": "Developing El Niño becomes strongest on record weeks before expected peak",
+        "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
+        "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
