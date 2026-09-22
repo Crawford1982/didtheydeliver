@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-09-22T16:18:46.327723+00:00",
+  "fetched_at": "2026-09-22T20:54:18.612467+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Davey says far right in Britain now better funded and supported than in the past – UK politics live",
+        "title": "Trump praises relations with Burnham despite tensions over AI and Iran",
+        "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-says-relations-better-with-burnham-than-starmer-after-first-face-to-face-meeting",
+        "description": "US president calls UK prime minister ‘a natural businessperson’ as leaders meet at UN assembly in New YorkDonald Trump has asserted his relationship with the UK is “more up” with Andy Burnham than ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK politics: Trump says he has a better UK relationship with Burnham as PM – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/22/andy-burnham-donald-trump-un-general-assembly-uk-politics-latest-news",
-        "description": "Lib Dem leader tells party conference that ‘something big and dangerous is happening in our country’If Andy Burnham wanted to inject some edge into his meeting with Donald Trump later (which he doe...",
+        "description": "US president says Burnham will be ‘a great PM’ in friendly first meeting on the sidelines of UN General Assembly but makes jibe at StarmerIf Andy Burnham wanted to inject some edge into his meeting...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Nick Clegg could make £30m windfall from datacentre startup Nscale flotation",
-        "url": "https://www.theguardian.com/business/2026/sep/22/nick-clegg-30m-windfall-datacentre-flotation-nscale",
-        "description": "The former UK deputy prime minister is a board member of the UK-based  company and owns 917,000 sharesNick Clegg could make approximately $40m (£30m) from the planned float of Nscale as the UK-base...",
+        "title": "Donald Trump praises ‘natural businessperson’ Andy Burnham after first meeting",
+        "url": "https://www.theguardian.com/politics/2026/sep/22/donald-trump-praises-natual-businessman-andy-burnham-after-first-meeting",
+        "description": "US president says British PM has a ‘lot of assets on his side’ as pair meet at UN in New YorkDonald Trump has praised Andy Burnham as a “natural businessperson” and said the UK was “more up” than u...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK borrows £18bn in August, putting pressure on Healey before budget",
-        "url": "https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets",
-        "description": "Some economists say it is now ‘inevitable’ that chancellor will need to raise taxes in the budget next monthBusiness live – latest updatesThe UK government borrowed a higher-than-expected £18.3bn l...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Davey promises tax cuts for millions if UK rejoins EU single market",
-        "url": "https://www.bbc.co.uk/news/articles/cj62e1wrpx73o?at_medium=RSS&at_campaign=rss",
-        "description": "The Lib Dem leader vows to raise tax thresholds if he becomes PM, in a speech to his party conference.",
+        "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
+        "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
+        "description": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
         "source": "BBC News",
         "category": "government"
       }
@@ -42,14 +42,14 @@
       {
         "title": "UK borrows £18bn in August, putting pressure on Healey before budget",
         "url": "https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets",
-        "description": "Some economists say it is now ‘inevitable’ that chancellor will need to raise taxes in the budget next monthBusiness live – latest updatesThe UK government borrowed a higher-than-expected £18.3bn l...",
+        "description": "Some economists say it is now ‘inevitable’ that chancellor will need to raise taxes in the budget next monthThe UK government borrowed a higher-than-expected £18.3bn last month, increasing the pres...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
         "title": "EU spends three times more on imports from China than bloc exports there",
         "url": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
-        "description": "Study shows trade deficit ran at more than €1bn a day in July, days before Xi Jinping’s summit with Donald TrumpBusiness live – latest updatesConsumers and businesses in the EU are spending three t...",
+        "description": "Days before Xi Jinping’s summit with Donald Trump, new study shows trade deficit ran at more than €1bn daily in JulyConsumers and businesses in the EU are spending three times more on Chinese impor...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -63,9 +63,16 @@
     ],
     "nhs": [
       {
-        "title": "Martha’s rule to be expanded to every A&E in England",
-        "url": "https://www.theguardian.com/society/2026/sep/22/marthas-rule-expanded-nhs-england",
-        "description": "System gives patients, loved ones and health workers the right to ask for a second opinion on careMartha’s rule, which lets NHS patients, staff and relatives request a review of their care, is bein...",
+        "title": "Minority ethnic NHS staff pay a heavy price for speaking up about patient safety | Letter",
+        "url": "https://www.theguardian.com/society/2026/sep/22/minority-ethnic-nhs-staff-pay-a-heavy-price-for-speaking-up-about-patient-safety",
+        "description": "Providing psychological safety to Black, Asian and ethnic minority staff so they can raise concerns about patient care without fear would save lives, write Dr Jennifer Creese, Dr Joy Spiliopoulos a...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Sex-based discrimination in medicine costs lives | Letters",
+        "url": "https://www.theguardian.com/society/2026/sep/22/sex-based-discrimination-in-medicine-costs-lives",
+        "description": "Readers respond to an article on women being less likely than men to be offered active treatment for the same conditionsAs head of pharmacovigilance at a clinical trials technology company, I was n...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -73,13 +80,6 @@
         "title": "Young people’s Pip claims for ADHD and autism ‘rising fastest in affluent areas’",
         "url": "https://www.theguardian.com/society/2026/sep/22/england-affluent-areas-young-people-adhd-autism-pip-claims",
         "description": "Experts say trend across England probably reflects swifter access to diagnoses as wealthier families go privateSome of the most affluent areas of England have had the sharpest rises in the proporti...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Cut NHS red tape and boost productivity to prevent 20,000 early deaths a year in England, report urges",
-        "url": "https://www.theguardian.com/politics/2026/sep/22/nhs-health-england-wales-red-tape",
-        "description": "Changes could save £33bn and result in average of four extra years of good health for people, report saysThe NHS in England could prevent 20,000 deaths and save £33bn a year by cutting red tape and...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-        "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
+        "title": "US to build two military bases in Greenland under new deal with Denmark",
+        "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
+        "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Lithuania ready to 'fight back' but has evacuation plans in face of Russia threats, PM tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/ck5yw8npxzrlo?at_medium=RSS&at_campaign=rss",
-        "description": "Sinkevičius told BBC Newsnight Lithuanians feel \"constantly threatened\" by Moscow, but the nation was prepared to \"fight back\" if attacked.",
+        "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
+        "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
