@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-09-22T20:54:18.612467+00:00",
+  "fetched_at": "2026-09-23T03:25:39.002835+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Far-right activist Daniel Thomas slashes dinghy in Channel with blade while rescue worker onboard",
+        "url": "https://www.theguardian.com/world/2026/sep/22/far-right-activist-daniel-thomas-slashes-dinghy-with-blade-while-rescue-worker-onboard",
+        "description": "Thomas called followers to disrupt arrival of asylum seekers in Gosport, but Border Force instead transported them to DoverCharities have condemned footage of far-right activist Daniel Thomas using...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "England’s mayors should face greater scrutiny as powers expand, thinktank says",
+        "url": "https://www.theguardian.com/politics/2026/sep/23/england-mayors-greater-scrutiny-powers-expand-thinktank",
+        "description": "IPPR North says one bad decision could derail devolution agenda as regions gain control of billions in fundingEngland’s mayors should face much greater official scrutiny to avoid Andy Burnham’s dev...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Trump praises relations with Burnham despite tensions over AI and Iran",
         "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-says-relations-better-with-burnham-than-starmer-after-first-face-to-face-meeting",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "UK politics: Trump says he has a better UK relationship with Burnham as PM – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/22/andy-burnham-donald-trump-un-general-assembly-uk-politics-latest-news",
-        "description": "US president says Burnham will be ‘a great PM’ in friendly first meeting on the sidelines of UN General Assembly but makes jibe at StarmerIf Andy Burnham wanted to inject some edge into his meeting...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Donald Trump praises ‘natural businessperson’ Andy Burnham after first meeting",
-        "url": "https://www.theguardian.com/politics/2026/sep/22/donald-trump-praises-natual-businessman-andy-burnham-after-first-meeting",
-        "description": "US president says British PM has a ‘lot of assets on his side’ as pair meet at UN in New YorkDonald Trump has praised Andy Burnham as a “natural businessperson” and said the UK was “more up” than u...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Trump says he can do business with Burnham but criticises 'terrible' Chagos deal",
-        "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
-        "description": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base.",
+        "title": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss",
+        "description": "The UK could act as \"an honest broker\" on AI and other global challenges, the prime minister tells world leaders at the UN.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Sir Jim Ratcliffe suspends production at key UK plants blaming high gas prices",
-        "url": "https://www.bbc.co.uk/news/articles/cw305ynd69n6o?at_medium=RSS&at_campaign=rss",
-        "description": "Ineos said natural gas in the UK is twelve times more expensive than in the US.",
+        "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
+        "description": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,6 +70,13 @@
         "category": "nhs"
       },
       {
+        "title": "UK doctors develop non-invasive test for womb cancer in women bleeding after menopause",
+        "url": "https://www.theguardian.com/society/2026/sep/22/uk-doctors-simple-test-detect-womb-cancer-women-bleeding-menopause",
+        "description": "Test using urine and vaginal fluid samples raises hopes thousands of lower-risk women could be spared internal ultrasounds and hysteroscopiesDoctors have developed a simple test that could help rul...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Sex-based discrimination in medicine costs lives | Letters",
         "url": "https://www.theguardian.com/society/2026/sep/22/sex-based-discrimination-in-medicine-costs-lives",
         "description": "Readers respond to an article on women being less likely than men to be offered active treatment for the same conditionsAs head of pharmacovigilance at a clinical trials technology company, I was n...",
@@ -77,21 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "Young people’s Pip claims for ADHD and autism ‘rising fastest in affluent areas’",
-        "url": "https://www.theguardian.com/society/2026/sep/22/england-affluent-areas-young-people-adhd-autism-pip-claims",
-        "description": "Experts say trend across England probably reflects swifter access to diagnoses as wealthier families go privateSome of the most affluent areas of England have had the sharpest rises in the proporti...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Martha's Rule rolled out at every A&E department in England",
-        "url": "https://www.bbc.co.uk/news/articles/c6lyep7l7qppo?at_medium=RSS&at_campaign=rss",
-        "description": "The rule is named after 13-year-old Martha Mills, whose family's concerns about her care were not listened to before her death.",
+        "title": "Child ketamine users getting bladder damage describe 'peeing a jellyfish'",
+        "url": "https://www.bbc.co.uk/news/articles/cqgk52ln68xvo?at_medium=RSS&at_campaign=rss",
+        "description": "Doctors running the UK's first and only dedicated NHS clinic for children with ketamine bladder say they are seeing patients as young as 13.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Far-right activist Daniel Thomas slashes dinghy in Channel with blade while rescue worker onboard",
+        "url": "https://www.theguardian.com/world/2026/sep/22/far-right-activist-daniel-thomas-slashes-dinghy-with-blade-while-rescue-worker-onboard",
+        "description": "Thomas called followers to disrupt arrival of asylum seekers in Gosport, but Border Force instead transported them to DoverCharities have condemned footage of far-right activist Daniel Thomas using...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "UK politics: New leader of Reform UK in Wales named after defeating rival by just two votes – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/sep/21/ed-davey-liberal-democrats-party-conference-brighton-labour-conservatives-andy-burnham-kemi-badenoch-nigel-farage-reform-uk-politics-latest-news",
@@ -105,16 +112,16 @@
         "description": "Data raid comes amid targeting of lifeboat charity by far-right agitators who object to migrant boat rescuesSupporters of the Royal National Lifeboat Institution have been warned that their persona...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Don’t discount Reform because it's had a bad year. In our angry, fragile democracy, anything can happen | John Harris",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/20/discount-reform-bad-year-angry-fragile-democracy-nigel-farage-labour",
-        "description": "Nigel Farage’s tactics are to play up the anxiety and resentment that people feel. Labour’s job is simple: to offer hope and changeDespite the energised start Andy Burnham has made as prime ministe...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Outgoing UN chief says polluters have treated atmosphere like an ‘open sewer’",
+        "url": "https://www.theguardian.com/environment/2026/sep/22/un-antonio-guterres-climate-polluters",
+        "description": "António Guterres laments world leaders’ inaction and says oil and gas firms ‘must pay’ for climate devastationFor one last time, António Guterres tried to fix the world’s gaze upon the dangerously ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Superpowers cannot solve world’s problems, UN chief says in final general assembly address",
         "url": "https://www.theguardian.com/world/2026/sep/22/un-chief-antonio-guterres-final-general-assembly-address",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Poorer nations will be among the last to benefit if global emissions cut to net zero",
-        "url": "https://www.theguardian.com/environment/2026/sep/22/climate-inequality-tropics-among-last-places-to-benefit-net-zero",
-        "description": "Scientists found unequal impact of the climate crisis would not be reversed even if implicit goal of the 2015 Paris agreement is achievedThe unequal impact of the climate crisis on the world’s poor...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-        "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-        "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
+        "title": "India is producing more green energy - but wasting a lot of it",
+        "url": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
+        "description": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Pay rent, eat or keep warm? Growing numbers face hard choices as housing benefit gap grows",
+        "url": "https://www.theguardian.com/business/2026/sep/23/pay-rent-eat-or-keep-warm-growing-numbers-face-hard-choices-as-housing-benefit-gap-grows",
+        "description": "Wirral mother among renters turning to food banks as gap between a two-bed and housing benefit hits £158 a month – rising to as much as £324 in LondonDo you prioritise paying the rent, putting food...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "‘Addiction is not only caused by weak will’: how a talking pigeon got Czechia to face up to its alcohol problem",
         "url": "https://www.theguardian.com/film/2026/sep/22/czech-documentary-homelessness-pepa-lubojacki-if-pigeons-turned-to-gold",
         "description": "Director Pepa Lubojacki’s heartbreaking film chronicles the lives of her brother as he struggles with drink and homelessness – and her own shame in the face of societal prejudiceCzech film-maker Pe...",
@@ -181,34 +188,27 @@
         "description": "Residents say new legislation in England forcing landlords to fix dangerous hazards is not improving conditionsSarah Killick has been battling problems in her social home for months, including moul...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "‘I would be happy if prices came down’: the older Australians wanting house prices to fall for their kids’ sake",
-        "url": "https://www.theguardian.com/australia-news/2026/sep/20/house-prices-housing-crisis-older-younger-generations-australia",
-        "description": "Parents and grandparents who bought their first home with ease are hoping the slide in affordability can be reversed for the sake of the younger generationFollow our Australia news live blog for la...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
+        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
+        "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
+        "description": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Burnham expects to find 'common ground' with Trump in first meeting",
+        "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
+        "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "US to build two military bases in Greenland under new deal with Denmark",
         "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
         "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Sri Lanka court convicts 15 men over deadly Easter Sunday bombings",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7z275yx65o?at_medium=RSS&at_campaign=rss",
-        "description": "Three churches and three luxury hotels were targeted in the 2019 attacks which killed 270.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Developing El Niño becomes strongest on record weeks before expected peak",
-        "url": "https://www.bbc.co.uk/weather/articles/cmvgy4nv9d62o?at_medium=RSS&at_campaign=rss",
-        "description": "Scientists say the developing El Niño is now the strongest on record with weather impacts already being felt around the world.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
