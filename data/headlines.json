@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-09-23T03:25:39.002835+00:00",
+  "fetched_at": "2026-09-23T10:48:20.078694+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Far-right activist Daniel Thomas slashes dinghy in Channel with blade while rescue worker onboard",
-        "url": "https://www.theguardian.com/world/2026/sep/22/far-right-activist-daniel-thomas-slashes-dinghy-with-blade-while-rescue-worker-onboard",
-        "description": "Thomas called followers to disrupt arrival of asylum seekers in Gosport, but Border Force instead transported them to DoverCharities have condemned footage of far-right activist Daniel Thomas using...",
+        "title": "Streeting confirms annual £100m payments to Mauritius on hold while Chagos Islands deal is reviewed – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
+        "description": "Tories say deal should be fully scrapped after it was criticised by Donald Trump during his meeting with Andy BurnhamThe Conservatives have urged Andy Burnham to fully drop the proposed Chagos Isla...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "England’s mayors should face greater scrutiny as powers expand, thinktank says",
-        "url": "https://www.theguardian.com/politics/2026/sep/23/england-mayors-greater-scrutiny-powers-expand-thinktank",
-        "description": "IPPR North says one bad decision could derail devolution agenda as regions gain control of billions in fundingEngland’s mayors should face much greater official scrutiny to avoid Andy Burnham’s dev...",
+        "title": "UK to launch military squadron to protect satellites in space",
+        "url": "https://www.theguardian.com/politics/2026/sep/23/uk-raf-military-squadron-protect-satellites-in-space",
+        "description": "New RAF unit will warn of incoming missile attacks, and support offensive and defensive operationsA new military unit dedicated to defending satellites, protecting services people need on Earth and...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Trump praises relations with Burnham despite tensions over AI and Iran",
-        "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-says-relations-better-with-burnham-than-starmer-after-first-face-to-face-meeting",
-        "description": "US president calls UK prime minister ‘a natural businessperson’ as leaders meet at UN assembly in New YorkDonald Trump has asserted his relationship with the UK is “more up” with Andy Burnham than ...",
+        "title": "London buses in decline? Why public transport in global cities is slowing to a crawl – visualised",
+        "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/23/london-buses-in-terminal-decline-why-public-transport-in-global-cities-is-slowing-to-a-crawl-visualised",
+        "description": "As experts fear for future of UK capital’s bus network, some commuters are giving up entirely. London is not alone – with worrying implications for the poorest in societyExperts warn that slower bu...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK to fight Russian disinformation and push new global AI standards, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/c6rerlq99w30o?at_medium=RSS&at_campaign=rss",
-        "description": "The UK could act as \"an honest broker\" on AI and other global challenges, the prime minister tells world leaders at the UN.",
+        "title": "UK to review Chagos Islands deal over lack of US support, Streeting tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/ck3wjy3pdwdno?at_medium=RSS&at_campaign=rss",
+        "description": "Defence Secretary Wes Streeting has confirmed the review after Donald Trump told Andy Burnham the deal was \"terrible\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "OECD: global economy more resilient to Iran war than expected",
+        "url": "https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war",
+        "description": "Paris-based body warns that economic growth is heavily dependent on durable resolution to conflictBusiness live – latest updatesThe global economy has withstood the strains of the Iran war better t...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Critics of UK government’s economic forecaster are ‘shooting the messenger’, say MPs",
+        "url": "https://www.theguardian.com/business/2026/sep/23/obr-treasury-committee-shooting-messenger-mps-economic-forecaster-uk",
+        "description": "Treasury committee rejects calls for fundamental reform of independent watchdog the Office for Budget ResponsibilityAttacks on the government’s independent economic forecaster from left and right o...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Oil falls below $100 a barrel; UK government borrowing paints ‘dismal picture’ as bond vigilantes assemble – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/sep/22/uk-government-borrowing-august-fiscal-straightjacket-john-healey-bonds-latest-news-updates",
@@ -40,32 +54,18 @@
         "category": "economy"
       },
       {
-        "title": "UK borrows £18bn in August, putting pressure on Healey before budget",
-        "url": "https://www.theguardian.com/business/2026/sep/22/uk-government-borrowing-john-healey-budget-bond-markets",
-        "description": "Some economists say it is now ‘inevitable’ that chancellor will need to raise taxes in the budget next monthThe UK government borrowed a higher-than-expected £18.3bn last month, increasing the pres...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "EU spends three times more on imports from China than bloc exports there",
-        "url": "https://www.theguardian.com/business/2026/sep/22/eu-imports-china-exports-trade-deficit-xi-jinping-donald-trump",
-        "description": "Days before Xi Jinping’s summit with Donald Trump, new study shows trade deficit ran at more than €1bn daily in JulyConsumers and businesses in the EU are spending three times more on Chinese impor...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
-        "description": "Auto executives across Europe hope rearmament can help them flex their industrial muscles once more.",
+        "title": "Off sick? You need to phone your boss, back-to-work tsar says",
+        "url": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss",
+        "description": "Relying on text and email means sick workers disengaged and were less likely to work again, says Sir Charlie Mayfield.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "Minority ethnic NHS staff pay a heavy price for speaking up about patient safety | Letter",
-        "url": "https://www.theguardian.com/society/2026/sep/22/minority-ethnic-nhs-staff-pay-a-heavy-price-for-speaking-up-about-patient-safety",
-        "description": "Providing psychological safety to Black, Asian and ethnic minority staff so they can raise concerns about patient care without fear would save lives, write Dr Jennifer Creese, Dr Joy Spiliopoulos a...",
+        "title": "‘Ghost patient’ policy wrongly removing at-risk people from GP lists, doctors say",
+        "url": "https://www.theguardian.com/society/2026/sep/23/nhs-england-ghost-patient-policy-wrongly-removing-vulnerable-people",
+        "description": "NHS England initiative to reduce cut-off period to three months ‘disproportionately affecting’ most deprived areasAn NHS policy to remove “ghost patients” from GP lists is inadvertently leaving som...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -86,7 +86,7 @@
       {
         "title": "Child ketamine users getting bladder damage describe 'peeing a jellyfish'",
         "url": "https://www.bbc.co.uk/news/articles/cqgk52ln68xvo?at_medium=RSS&at_campaign=rss",
-        "description": "Doctors running the UK's first and only dedicated NHS clinic for children with ketamine bladder say they are seeing patients as young as 13.",
+        "description": "Doctors running a dedicated NHS clinic for children with ketamine bladder say they are seeing patients as young as 13.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,30 +116,30 @@
     ],
     "climate": [
       {
-        "title": "Outgoing UN chief says polluters have treated atmosphere like an ‘open sewer’",
-        "url": "https://www.theguardian.com/environment/2026/sep/22/un-antonio-guterres-climate-polluters",
-        "description": "António Guterres laments world leaders’ inaction and says oil and gas firms ‘must pay’ for climate devastationFor one last time, António Guterres tried to fix the world’s gaze upon the dangerously ...",
+        "title": "Angus Taylor pledges to repeal swathe of climate policies, saying ‘Australia has done its bit’",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/23/angus-taylor-pledges-to-repeal-swathe-of-climate-policies-saying-australia-has-done-its-bit",
+        "description": "Several measures were previously introduced or supported by Coalition, prompting claim Liberals and Nationals would ‘let climate change rip’Follow our Australia news live blog for latest updatesGet...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Superpowers cannot solve world’s problems, UN chief says in final general assembly address",
-        "url": "https://www.theguardian.com/world/2026/sep/22/un-chief-antonio-guterres-final-general-assembly-address",
-        "description": "António Guterres says humanity faces unprecedented convergence of threats but mechanisms for collective action are under growing strainThe world’s fault lines have turned from cracks into canyons a...",
+        "title": "Fears mount that next UN chief will downgrade climate action",
+        "url": "https://www.theguardian.com/world/2026/sep/23/fears-mount-that-next-un-chief-will-downgrade-climate-action",
+        "description": "Experts say some of António Guterres’s possible successors could be ‘disastrous’ for efforts to tackle crisisFears are mounting that the next UN secretary general will downgrade the priority of the...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Wasp spider seen in north of England latest ‘climate refugee’ amid global heating",
-        "url": "https://www.theguardian.com/environment/2026/sep/22/wasp-spider-climate-refugee-north-of-england",
-        "description": "The Argiope bruennichi, spotted in Cheshire for first time, part of worrying trend that could threaten native speciesShe is an unlikely harbinger of the climate emergency: a venomous black and yell...",
+        "title": "Huge El Niño projected to cause 450,000 deaths in next six months",
+        "url": "https://www.theguardian.com/environment/2026/sep/23/el-nino-450000-extra-deaths-six-months",
+        "description": "New report predicts a heavy toll from Nigeria to the US – and comes on top of existing impacts of the climate crisisMore than 450,000 people are projected to die from the additional heat brought by...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "India is producing more green energy - but wasting a lot of it",
-        "url": "https://www.bbc.co.uk/news/articles/c8xkvzlz0x4o?at_medium=RSS&at_campaign=rss",
-        "description": "India has rapidly decarbonised electricity generation, but its gains are tempered by transmission shortages.",
+        "title": "Farmers' fury as race for £233m funding compared to 'scramble for Oasis tickets'",
+        "url": "https://www.bbc.co.uk/news/articles/c3pwlejxrd7do?at_medium=RSS&at_campaign=rss",
+        "description": "Farmers fear they may not be able to carry out environmental work because they lost out on funding.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump threatens to 'annihilate' Iran in UN speech as officials from both countries meet on sidelines",
-        "url": "https://www.bbc.co.uk/news/articles/c52e0ywl9pr7o?at_medium=RSS&at_campaign=rss",
-        "description": "In his address, the US president pondered whether a peace deal would be agreed or whether he would have to take extreme action against Iran.",
+        "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+        "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+        "description": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Burnham expects to find 'common ground' with Trump in first meeting",
-        "url": "https://www.bbc.co.uk/news/articles/cqevwpmvpekeo?at_medium=RSS&at_campaign=rss",
-        "description": "In New York, the prime minister will also deliver a speech to the UN General Assembly expected to be focused on AI.",
+        "title": "Reports of violence against women in Gaza surge, UN agency finds",
+        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+        "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US to build two military bases in Greenland under new deal with Denmark",
-        "url": "https://www.bbc.co.uk/news/articles/c9dr74g32g8go?at_medium=RSS&at_campaign=rss",
-        "description": "The defence deal signed at the UN General Assembly also re-affirms Denmark's sovereignty over its semi-autonomous Arctic territory.",
+        "title": "Eleven killed in mass shooting at house in South Africa",
+        "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
+        "description": "One of those killed is believed to be a pregnant woman, police said.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
