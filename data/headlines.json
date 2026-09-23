@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-23T10:48:20.078694+00:00",
+  "fetched_at": "2026-09-23T16:08:33.918657+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Streeting confirms annual £100m payments to Mauritius on hold while Chagos Islands deal is reviewed – UK politics live",
+        "title": "Has Burnham proved he can handle Trump? - The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/sep/23/has-burnham-proved-he-can-handle-trump-the-latest",
+        "description": "Andy Burnham has navigated his way through a first high-stakes meeting with Donald Trump at the UN general assembly in New York. The prime minister’s aides were delighted with how the meeting went,...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "PM’s new anti-disinformation unit gets cross-party backing, as Farage declares it an attack on free speech – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/23/andy-burnham-labour-anti-disinformation-uk-politics-latest-news-updates",
-        "description": "Tories say deal should be fully scrapped after it was criticised by Donald Trump during his meeting with Andy BurnhamThe Conservatives have urged Andy Burnham to fully drop the proposed Chagos Isla...",
+        "description": "Farage referred to the new unit and said Burnham was setting it up ‘using the excuse that Russia wants to interfere with elections’The former Labour minister leading the government’s review into yo...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK to launch military squadron to protect satellites in space",
-        "url": "https://www.theguardian.com/politics/2026/sep/23/uk-raf-military-squadron-protect-satellites-in-space",
-        "description": "New RAF unit will warn of incoming missile attacks, and support offensive and defensive operationsA new military unit dedicated to defending satellites, protecting services people need on Earth and...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "London buses in decline? Why public transport in global cities is slowing to a crawl – visualised",
-        "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/23/london-buses-in-terminal-decline-why-public-transport-in-global-cities-is-slowing-to-a-crawl-visualised",
-        "description": "As experts fear for future of UK capital’s bus network, some commuters are giving up entirely. London is not alone – with worrying implications for the poorest in societyExperts warn that slower bu...",
+        "title": "Six arrested after anti-migrant protest at Gosport marina",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/23/six-arrested-after-anti-migrant-protest-at-marina-in-hampshire",
+        "description": "Heeding calls from far-right activist Daniel Thomas, hundreds of protesters turned out in HampshireSix people have been arrested after anti-migrant protesters gathered at a marina in Hampshire in t...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,9 @@
     ],
     "economy": [
       {
-        "title": "OECD: global economy more resilient to Iran war than expected",
+        "title": "Three international bodies warn of risks of rising debt and soaring borrowing in major economies",
         "url": "https://www.theguardian.com/business/2026/sep/23/oecd-global-economy-resilient-iran-war",
-        "description": "Paris-based body warns that economic growth is heavily dependent on durable resolution to conflictBusiness live – latest updatesThe global economy has withstood the strains of the Iran war better t...",
+        "description": "IIF highlights challenges facing US, France, UK and Japan, while OECD and IMF also voice global concernsBusiness live – latest updatesThree heavyweight international bodies have issued stark warnin...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Off sick? You need to phone your boss, back-to-work tsar says",
-        "url": "https://www.bbc.co.uk/news/articles/cq0lry248y2zo?at_medium=RSS&at_campaign=rss",
-        "description": "Relying on text and email means sick workers disengaged and were less likely to work again, says Sir Charlie Mayfield.",
+        "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
+        "description": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,7 +84,7 @@
         "category": "nhs"
       },
       {
-        "title": "Child ketamine users getting bladder damage describe 'peeing a jellyfish'",
+        "title": "Children as young as 13 are getting ketamine bladder damage",
         "url": "https://www.bbc.co.uk/news/articles/cqgk52ln68xvo?at_medium=RSS&at_campaign=rss",
         "description": "Doctors running a dedicated NHS clinic for children with ketamine bladder say they are seeing patients as young as 13.",
         "source": "BBC News",
@@ -93,28 +93,35 @@
     ],
     "immigration": [
       {
+        "title": "Six arrested after anti-migrant protest at Gosport marina",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/23/six-arrested-after-anti-migrant-protest-at-marina-in-hampshire",
+        "description": "Heeding calls from far-right activist Daniel Thomas, hundreds of protesters turned out in HampshireSix people have been arrested after anti-migrant protesters gathered at a marina in Hampshire in t...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Britain’s far-right violence comes to us direct from the 1970s. But so does the solution | Taj Ali",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/23/britain-anti-racism-asian-youth-movements-1970s-far-right-violence",
+        "description": "Young men punched in the street, mosques attacked: Britain badly needs an anti-racist uprising. Let 70s Asian youth movements provide the inspirationThere it was: a pool of blood spreading across t...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Far-right activist Daniel Thomas slashes dinghy in Channel with blade while rescue worker onboard",
         "url": "https://www.theguardian.com/world/2026/sep/22/far-right-activist-daniel-thomas-slashes-dinghy-with-blade-while-rescue-worker-onboard",
         "description": "Thomas called followers to disrupt arrival of asylum seekers in Gosport, but Border Force instead transported them to DoverCharities have condemned footage of far-right activist Daniel Thomas using...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "UK politics: New leader of Reform UK in Wales named after defeating rival by just two votes – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/21/ed-davey-liberal-democrats-party-conference-brighton-labour-conservatives-andy-burnham-kemi-badenoch-nigel-farage-reform-uk-politics-latest-news",
-        "description": "Helen Jenner will be party’s new head in Senedd after a narrow victory over Jason O’ConnellHere are some more lines from Max Wilkinson’s speech to the Lib Dem conference this morning.Wilkinson, the...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "RNLI warns supporters their personal information may have been hacked",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/20/rnli-warns-supporters-personal-information-hacked",
-        "description": "Data raid comes amid targeting of lifeboat charity by far-right agitators who object to migrant boat rescuesSupporters of the Royal National Lifeboat Institution have been warned that their persona...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "UK to join EU ocean science scheme to better predict extreme weather events",
+        "url": "https://www.theguardian.com/environment/2026/sep/23/britain-to-join-eu-global-ocean-monitoring-system-oceaneye",
+        "description": "Cooperation on OceanEye, which aims to create ‘real-time’ model of world’s oceans, comes amid efforts to boost EU tiesUK politics live – latest updatesEurope live – latest updatesBritain is to join...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Angus Taylor pledges to repeal swathe of climate policies, saying ‘Australia has done its bit’",
         "url": "https://www.theguardian.com/australia-news/2026/sep/23/angus-taylor-pledges-to-repeal-swathe-of-climate-policies-saying-australia-has-done-its-bit",
@@ -126,13 +133,6 @@
         "title": "Fears mount that next UN chief will downgrade climate action",
         "url": "https://www.theguardian.com/world/2026/sep/23/fears-mount-that-next-un-chief-will-downgrade-climate-action",
         "description": "Experts say some of António Guterres’s possible successors could be ‘disastrous’ for efforts to tackle crisisFears are mounting that the next UN secretary general will downgrade the priority of the...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Huge El Niño projected to cause 450,000 deaths in next six months",
-        "url": "https://www.theguardian.com/environment/2026/sep/23/el-nino-450000-extra-deaths-six-months",
-        "description": "New report predicts a heavy toll from Nigeria to the US – and comes on top of existing impacts of the climate crisisMore than 450,000 people are projected to die from the additional heat brought by...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-        "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
-        "description": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
+        "title": "White House rolling out red carpet for historic Xi Jinping visit",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9w410v3vzo?at_medium=RSS&at_campaign=rss",
+        "description": "Trump and Xi are expected to discuss a range of issues from trade to AI during the latter's multi-day visit to Washington.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Reports of violence against women in Gaza surge, UN agency finds",
-        "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-        "description": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
+        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+        "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
+        "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Eleven killed in mass shooting at house in South Africa",
-        "url": "https://www.bbc.co.uk/news/articles/crgjqxzl097eo?at_medium=RSS&at_campaign=rss",
-        "description": "One of those killed is believed to be a pregnant woman, police said.",
+        "title": "Dramatic eviction of woman aged 87 highlights Spain's housing shortage",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy55lm8z1o?at_medium=RSS&at_campaign=rss",
+        "description": "The tenant of the flat in Madrid, Maricarmen, was unable to pay the rent set by the firm which recently bought it.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
