@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-24T16:32:07.445031+00:00",
+  "fetched_at": "2026-09-24T21:09:41.173310+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Londoners get £3bn a year subsidy because structure of council tax biased against north, says thinktank – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/24/labour-reform-conservatives-yougov-mrp-poll-burnham-badenoch-farage-blair-brexit-latest-news-updates",
-        "description": "Resolution Foundation says households outside London are paying hundreds of pounds a year more in council tax than they would be under a fair systemTim Shipman has written about what will be coming...",
+        "title": "Ed Miliband meets Iran’s foreign minister as Tehran gives US ultimatum on strait of Hormuz",
+        "url": "https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz",
+        "description": "Senior Iranian officials say Washington has four to five days to respond to its conditions for reopening the strait The UK foreign secretary, Ed Miliband, has met his Iranian counterpart, Abbas Ara...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Ukrainians in UK fear cut to funds for Homes for Ukraine hosts could make them homeless",
+        "title": "Ukrainians in UK fear homelessness over host scheme funding cuts",
         "url": "https://www.theguardian.com/world/2026/sep/24/uk-homes-for-ukraine-funding-cut-homeless",
-        "description": "Monthly ‘thank you’ payments for people hosting refugees in their homes will be cut from  £350 to £100 from next yearUkrainian refugees in the UK fear they could be left homeless after the governme...",
+        "description": "Monthly ‘thank you’ payments for people hosting refugees to be cut from £350 to £100 from next yearUkrainian refugees in the UK fear they could be left homeless after the government quietly axed 70...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "What really happened in the room with Burnham and Trump – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/sep/24/what-really-happened-andy-burnham-trump-podcast",
-        "description": "Pippa Crerar had a front row seat for the PM’s first meeting with Donald Trump. What really happened during that 12-minute press conference? And as the Labour conference kicks off this weekend, she...",
+        "title": "France says EU’s ‘Made in Europe’ law should not include the UK",
+        "url": "https://www.theguardian.com/world/2026/sep/24/france-says-eus-made-in-europe-law-should-not-include-the-uk",
+        "description": "‘If you’re not in the internal market, you don’t get the same protection,’ says French minister of policy designed to curb Chinese competitionFrance is leading a push to exclude the UK from the EU’...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,23 +33,23 @@
     ],
     "economy": [
       {
+        "title": "Oil price rise creates more pressure on UK policymakers before budget",
+        "url": "https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
+        "description": "Treasury sources concede ‘less room’ for manoeuvre as global bond selloff also hikes government’s borrowing costsInternational bodies warn of rising debt and borrowing risksBurnham stands by claim ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "US mortgage rates top 7% for first time in 20 months",
+        "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market",
+        "description": "Increase comes after Fed decision to raise interest rates, as Americans struggle with high prices and stagnant wagesUS mortgage rates surpassed 7% for the first time since January 2025, according t...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "UK interest rate rise ‘increasingly likely’ with high energy prices; inflation fears hit bonds – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
         "description": "BoE deputy governor cites risks from energy prices, as US 30-year bond yields hits highest since 2004Newsflash: A Bank of England deputy governor is warning that interest rates will be raised, if n...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "‘You can’t just bet everything on exports’: as its gas runs out, is Bolivia doomed to repeat history?",
-        "url": "https://www.theguardian.com/global-development/2026/sep/24/fossil-gas-runs-out-bolivia-poverty-inflation",
-        "description": "A fossil gas boom that lifted millions out of poverty has collapsed and inflation is rising – but not everyone believes selling gold and soya is the answerOnce hailed as the “energy heart of South ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Global bond sell-off piles new pressure on UK borrowing costs before budget",
-        "url": "https://www.theguardian.com/business/2026/sep/24/global-bond-sell-off-pressures-uk-borrowing-costs-budget",
-        "description": "Rising cost of 10-year gilt to near 19-year high hikes upfront cost of government investment and limits chancellor’s room for manoeuvreBusiness live – latest updatesInternational bodies warn of ris...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "NHS bodies in England impose two-year minimum wait for ADHD and autism assessments",
+        "url": "https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments",
+        "description": "Patient groups decry ‘scandalous’ delays as four integrated care boards take step due to soaring demand for diagnosesNHS bodies are forcing people with suspected attention deficit hyperactivity dis...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "From idealists to struggling sceptics: how Labour’s majority depends on five progressive voter types – in charts",
         "url": "https://www.theguardian.com/politics/2026/sep/24/labour-majority-five-progressive-voter-types-charts",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "‘Ghost patient’ policy wrongly removing at-risk people from GP lists, doctors say",
-        "url": "https://www.theguardian.com/society/2026/sep/23/nhs-england-ghost-patient-policy-wrongly-removing-vulnerable-people",
-        "description": "NHS England initiative to reduce cut-off period to three months ‘disproportionately affecting’ most deprived areasAn NHS policy to remove “ghost patients” from GP lists is inadvertently leaving som...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "NHS staff investigated over access to dead teenager's medical records",
         "url": "https://www.bbc.co.uk/news/articles/cm207yn1124zo?at_medium=RSS&at_campaign=rss",
         "description": "Oliver McGowan, who died in 2016, may have had his medical records accessed inappropriately after his death by NHS staff in Bristol.",
@@ -93,9 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "Ukrainians in UK fear cut to funds for Homes for Ukraine hosts could make them homeless",
+        "title": "Ukrainians in UK fear homelessness over host scheme funding cuts",
         "url": "https://www.theguardian.com/world/2026/sep/24/uk-homes-for-ukraine-funding-cut-homeless",
-        "description": "Monthly ‘thank you’ payments for people hosting refugees in their homes will be cut from  £350 to £100 from next yearUkrainian refugees in the UK fear they could be left homeless after the governme...",
+        "description": "Monthly ‘thank you’ payments for people hosting refugees to be cut from £350 to £100 from next yearUkrainian refugees in the UK fear they could be left homeless after the government quietly axed 70...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -194,21 +194,21 @@
       {
         "title": "White House restores access to media outlets banned by Trump after judge's order",
         "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-        "description": "CNN and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+        "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-        "description": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
+        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
+        "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-        "url": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-        "description": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
+        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
+        "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
+        "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
         "source": "BBC News",
         "category": "foreign_policy"
       }
