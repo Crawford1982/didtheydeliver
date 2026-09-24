@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-23T21:06:13.997108+00:00",
+  "fetched_at": "2026-09-24T03:15:04.183307+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK defence contractors to offer 40,000 apprenticeships, placements and jobs",
-        "url": "https://www.theguardian.com/education/2026/sep/23/uk-defence-contractors-40000-apprenticeships-work-placements-jobs-wes-streeting",
-        "description": "Wes Streeting says he leads a ‘ministry for growth’ as Labour seeks to show more defence spending will create UK jobsDefence contractors have promised to create 40,000 apprenticeships, work experie...",
+        "title": "Tony Blair says Britain should work towards rejoining EU in next 10 years",
+        "url": "https://www.theguardian.com/politics/2026/sep/24/tony-blair-britain-rejoin-eu-next-10-years-brexit",
+        "description": "Andy Burnham under pressure to revisit Brexit as poll suggests pledge to rejoin could boost Labour’s electoral chancesBritain should work towards rejoining the EU in the next decade, Tony Blair has...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Milei threatens at UN that Argentina will take ‘matters into our own hands’ on Falklands",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/23/argentina-president-attacks-un-over-inaction-on-falkland-islands-sovereignty",
-        "description": "Argentinian president accuses United Nations of being filled with ‘parasites’ in bellicose general assembly speechJavier Milei has condemned the UN as he warned that Argentina would take “matters i...",
+        "title": "Tories target universal credit claimants in plan condemned as ‘fast track to poverty’",
+        "url": "https://www.theguardian.com/politics/2026/sep/23/tories-target-universal-credit-claimants-plan-condemned-fast-track-to-poverty",
+        "description": "Proposals aim to push people into work, but charities say families are still paying price of austerity cuts and rise in cost of livingPeople claiming universal credit (UC) would have their payments...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK shares findings of damning climate crisis national security report suppressed under Starmer",
-        "url": "https://www.theguardian.com/environment/2026/sep/23/uk-climate-crisis-national-security-report-suppressed-starmer-ed-miliband",
-        "description": "El Niño poses critical threat to nations’ defences, says Ed Miliband in presentation to global foreign ministersThe UK has warned countries around the world that the climate and nature crises and t...",
+        "title": "Pupils to be offered vocational GCSEs in radical shake-up of system in England",
+        "url": "https://www.theguardian.com/education/2026/sep/23/vocational-gcse-radical-shake-up-education-system-england",
+        "description": "Courses such as finance and construction form part of PM’s push for education ‘that offers a path for everybody’Teenagers are to be offered a range of new vocational GCSEs under a radical shake-up ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Trump reveals millions of dollars' worth of share deals in big tech and AI",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3kxpp8lezo?at_medium=RSS&at_campaign=rss",
-        "description": "Stock in major firms such as Microsoft, Nvidia and SpaceX was bought and sold on behalf of the US president.",
+        "title": "'Proteinflation': Meet the people paying up to £100 for a bag of protein",
+        "url": "https://www.bbc.co.uk/news/articles/cm93e2gz8y41o?at_medium=RSS&at_campaign=rss",
+        "description": "Consumers are feeling the squeeze from the rising price of protein.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Barrecore and Boom Cycle owner suddenly shuts studios",
-        "url": "https://www.bbc.co.uk/news/articles/ckzdzeedmqm4o?at_medium=RSS&at_campaign=rss",
-        "description": "Common Bond has emailed customers announcing its locations were closed \"until further notice\".",
+        "title": "'Make women feel seen': Why the Dutch have a new word for labia",
+        "url": "https://www.bbc.co.uk/news/articles/cn4klprmr0go?at_medium=RSS&at_campaign=rss",
+        "description": "Campaigners hope the new words will lead to less body shaming and more sex positivity.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "In historic first, tropical turtles spotted nesting on California beaches",
+        "url": "https://www.theguardian.com/us-news/2026/sep/23/sea-turtle-nesting-california-beaches",
+        "description": "What caused the turtles to begin nesting farther north than usual is the ‘million dollar question’A sea turtle crawled out of the surf in southern California last weekend around sunset and started ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "UK shares findings of damning climate crisis national security report suppressed under Starmer",
         "url": "https://www.theguardian.com/environment/2026/sep/23/uk-climate-crisis-national-security-report-suppressed-starmer-ed-miliband",
         "description": "El Niño poses critical threat to nations’ defences, says Ed Miliband in presentation to global foreign ministersThe UK has warned countries around the world that the climate and nature crises and t...",
@@ -130,39 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "UK to join EU ocean science scheme to better predict extreme weather events",
-        "url": "https://www.theguardian.com/environment/2026/sep/23/britain-to-join-eu-global-ocean-monitoring-system-oceaneye",
-        "description": "Cooperation on OceanEye, which aims to create ‘real-time’ model of world’s oceans, comes amid efforts to boost EU tiesBritain is to join a major new ocean science programme, led by the EU, to bette...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Blood tests find high level of cancer-causing forever chemical in residents near factory",
-        "url": "https://www.bbc.co.uk/news/articles/cjly4rv0q3l0o?at_medium=RSS&at_campaign=rss",
-        "description": "People living near a major chemical factory in Lancashire are told they could be at risk of serious health conditions.",
+        "title": "'Perfect storm' could lead to rubbish piling up on Scotland's streets, experts warn",
+        "url": "https://www.bbc.co.uk/news/articles/cqlymw74g20ro?at_medium=RSS&at_campaign=rss",
+        "description": "There are warnings over a combination of significantly reduced landfill space and a breakdown of Glasgow's main incinerator.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Pupils to be offered vocational GCSEs in radical shake-up of system in England",
+        "url": "https://www.theguardian.com/education/2026/sep/23/vocational-gcse-radical-shake-up-education-system-england",
+        "description": "Courses such as finance and construction form part of PM’s push for education ‘that offers a path for everybody’Teenagers are to be offered a range of new vocational GCSEs under a radical shake-up ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "UK defence contractors to offer 40,000 apprenticeships, placements and jobs",
+        "url": "https://www.theguardian.com/education/2026/sep/23/uk-defence-contractors-40000-apprenticeships-work-placements-jobs-wes-streeting",
+        "description": "Wes Streeting says he leads a ‘ministry for growth’ as Labour seeks to show more defence spending will create UK jobs Defence contractors have promised to create 40,000 apprenticeships, work experi...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "New Ofsted inspection regime is damaging our health, headteachers say",
         "url": "https://www.theguardian.com/education/2026/sep/21/ofsted-inspections-are-damaging-our-health-say-headteachers",
         "description": "School leaders’ union says new system is worse than one it replaced and has left members  feeling overwhelmedHeadteachers in England want Ofsted to stop grading their schools, saying its new inspec...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Ms Rachel, the controversial queen of toddler TV: ‘My goal isn’t to be the most liked. It’s to help kids and speak the truth’",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/sep/20/ms-rachel-the-queen-of-toddler-tv-interview",
-        "description": "Her catchy videos have racked up billions of views, but Rachel Accurso’s statements on everything from Gaza to LGBTQ rights have caused a stir. She talks about screen time, song fatigue and specula...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Water your plants and get an eye mask: 48 life rules every student – and adult – needs to know",
-        "url": "https://www.theguardian.com/education/2026/sep/20/fresher-university-48-life-rules",
-        "description": "If you’re a fresher, this may be the first time you’ve ever lived away from home. So how should you socialise, feed yourself and look after your health?You don’t realise until you leave home just h...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
+        "url": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+        "description": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+        "description": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Iran's president tells Trump it will never 'bend the knee'",
         "url": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
         "description": "Masoud Pezeshkian's defiant speech to the UN comes after the US president threatened to \"annihilate\" Iran if a peace deal is not agreed soon.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-        "url": "https://www.bbc.co.uk/news/articles/cry8zwwq21pxo?at_medium=RSS&at_campaign=rss",
-        "description": "The local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-        "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-        "description": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
