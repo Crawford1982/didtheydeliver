@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-09-25T03:32:33.650512+00:00",
+  "fetched_at": "2026-09-25T11:11:58.085431+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Polanski heckled at Jewish community hustings after saying that Zionism is a form of racism – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates",
+        "description": "The Green leader, who is Jewish, made the remarks as part of his campaign in the Holborn and St Pancras byelectionRichard Osley, the editor of the Camden New Journal, was at the hustings last night...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Marina Hyde on Trump, tech bros and Taylor Swift - podcast",
         "url": "https://www.theguardian.com/news/audio/2026/sep/25/marina-hyde-trump-tech-bros-taylor-swift-time-alive-podcast",
@@ -10,23 +17,16 @@
         "category": "government"
       },
       {
-        "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days",
-        "url": "https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz",
-        "description": "Country says US must lift sanctions on its oil exports and end the war on all fronts, including in LebanonIran said it has told Donald Trump it is willing to open the strait of Hormuz in six days, ...",
+        "title": "‘Devastating’: council rejects Frome residents’ bid for regeneration project",
+        "url": "https://www.theguardian.com/society/2026/sep/25/council-rejects-frome-residents-bid-regeneration-project-mayday-saxonvale",
+        "description": "Locals raised £1m for Mayday Saxonvale scheme involving homes and park but Somerset officials agreed deal with London-based real estate companyA bold bid by residents of a progressive town in the E...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Ukrainians in UK fear homelessness over host scheme funding cuts",
-        "url": "https://www.theguardian.com/world/2026/sep/24/uk-homes-for-ukraine-funding-cut-homeless",
-        "description": "Monthly ‘thank you’ payments for people hosting refugees to be cut from £350 to £100 from next yearUkrainian refugees in the UK fear they could be left homeless after the government quietly axed 70...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "No 'switch' to stop small boats, Lucy Powell tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cv5yj679jw10o?at_medium=RSS&at_campaign=rss",
-        "description": "Labour's deputy leader was speaking to BBC local radio ahead of the party's annual conference",
+        "title": "New policies, election speculation: What to expect from Burnham's first Labour conference as PM",
+        "url": "https://www.bbc.co.uk/news/articles/crz9z7y2ky0go?at_medium=RSS&at_campaign=rss",
+        "description": "Andy Burnham is under pressure to deliver a compelling vision for the country as he steps from the sidelines on to the main stage.",
         "source": "BBC News",
         "category": "government"
       }
@@ -40,6 +40,13 @@
         "category": "economy"
       },
       {
+        "title": "Iran war drives UK diesel price to near record high, and makes interest rate rise ‘hard to avoid’ – business live",
+        "url": "https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates",
+        "description": "Bank of England governor Andrew Bailey says persistently high oil and gas prices would make it hard to resist pressure to raise interest ratesCapital gains tax: how it works, and the pros and cons ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "US mortgage rates top 7% for first time in 20 months",
         "url": "https://www.theguardian.com/business/2026/sep/24/mortgage-rates-housing-market",
         "description": "Increase comes after Fed decision to raise interest rates, as Americans struggle with high prices and stagnant wagesUS mortgage rates surpassed 7% for the first time since January 2025, according t...",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "UK interest rate rise ‘increasingly likely’ with high energy prices; inflation fears hit bonds – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/sep/24/global-bond-sell-off-us-economy-fears-stock-markets-ftse-dollar-pound-latest-news-updates",
-        "description": "BoE deputy governor cites risks from energy prices, as US 30-year bond yields hits highest since 2004Newsflash: A Bank of England deputy governor is warning that interest rates will be raised, if n...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "'We're all broke': Would you chase a friend for £5?",
-        "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
-        "description": "What's the smallest amount of money you would ask a friend to pay you back?",
+        "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+        "url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+        "description": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -65,7 +65,14 @@
       {
         "title": "NHS bodies in England impose two-year minimum wait for ADHD and autism assessments",
         "url": "https://www.theguardian.com/society/2026/sep/24/nhs-integrated-care-boards-england-two-year-waiting-times-adhd-autism-assessments",
-        "description": "Patient groups decry ‘scandalous’ delays as four integrated care boards take step due to soaring demand for diagnosesNHS bodies are forcing people with suspected attention deficit hyperactivity dis...",
+        "description": "Patient groups decry ‘scandalous’ delays as four integrated care boards take step due to soaring demand for diagnoses• Two-year waiting times highlight NHS struggle with rise in ADHD and autism awa...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Two-year waiting times highlight NHS struggle with rise in ADHD and autism awareness",
+        "url": "https://www.theguardian.com/society/2026/sep/25/two-year-nhs-waiting-times-reveal-struggle-rise-adhd-autism-awareness",
+        "description": "Assessment bottlenecks have knock-on effects, with delays in medical help and access to specialist support• NHS bodies in England impose two-year minimum wait for ADHD and autism assessmentsThat NH...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -73,13 +80,6 @@
         "title": "From idealists to struggling sceptics: how Labour’s majority depends on five progressive voter types – in charts",
         "url": "https://www.theguardian.com/politics/2026/sep/24/labour-majority-five-progressive-voter-types-charts",
         "description": "Analysis reveals groups with sharply contrasting priorities – and who has drifted the most from Labour towards Greens and Reform• Tactical voting at next election could push Reform into fourth plac...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Abandoned, dismissed and gaslighted: there is no excuse for the way ME sufferers have been betrayed | George Monbiot",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/24/abandoned-dismissed-and-gaslighted-me-sufferers-betrayed",
-        "description": "Changes in guidance and science seem to have little impact on millions of devastated lives. It’s a shocking social crisis playing out behind closed doorsI’ve spent my working life covering neglecte...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Friday briefing: How a ​grassroots ​film ​is ​turning ​climate anxiety ​into ​action",
+        "url": "https://www.theguardian.com/world/2026/sep/25/friday-briefing-how-a-grassroots-film-is-turning-climate-anxiety-into-action",
+        "description": "In today’s newsletter: The People’s Emergency Briefing delivers a stark warning about ​o​ur future in a warming world. ​B​ut sharing difficult truths collectively​ shows us that there is still hope...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "In historic first, tropical turtles spotted nesting on California beaches",
         "url": "https://www.theguardian.com/us-news/2026/sep/23/sea-turtle-nesting-california-beaches",
         "description": "What caused the turtles to begin nesting farther north than usual is the ‘million dollar question’A sea turtle crawled out of the surf in southern California last weekend around sunset and started ...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Germany pledges to phase out fossil fuels for first time with target of 2045",
-        "url": "https://www.theguardian.com/environment/2026/sep/23/germany-commits-for-first-time-to-phasing-out-fossil-fuels-by-2045",
-        "description": "Campaigners say plan marks notable shift away from oil and gas as previously pledges were only for carbon neutralityEurope’s biggest economy, Germany, has committed to phasing out fossil fuels by 2...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
-        "url": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
-        "description": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
+        "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
+        "url": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
+        "description": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Berlin’s new political star is offering something all of Europe needs – hope and housing | Fatma Aydemir",
+        "url": "https://www.theguardian.com/commentisfree/2026/sep/25/berlin-political-star-europe-hope-housing-germany",
+        "description": "Elif Eralp wants lower rents and more public housing. It’s not rocket science but mainstream parties still don’t get why they are failingHope is a fragile thing. You can only hold on to it as long ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Londoners get £3bn a year subsidy because structure of council tax biased against north, says thinktank – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/24/labour-reform-conservatives-yougov-mrp-poll-burnham-badenoch-farage-blair-brexit-latest-news-updates",
         "description": "Resolution Foundation says households outside London are paying hundreds of pounds a year more in council tax than they would be under a fair systemTim Shipman has written about what will be coming...",
@@ -181,34 +188,27 @@
         "description": "Group shrinks ambitions from 20,000 to just 12,000 homes a year in an attempt to balance the booksThe entire housebuilding sector is in a funk, grumbling about energy prices, the cost of labour, re...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Labour’s last chance? The people shaping Andy Burnham’s grand plans for Britain",
-        "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/24/labours-last-chance-the-people-shaping-andy-burnhams-grand-plans-for-britain",
-        "description": "The new prime minister has declared he wants to end 40 years of neoliberalism. But is he really prepared to be that radical?In May 2025, when Keir Starmer was still prime minister, Labour politicia...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
+        "title": "Trump and Xi exchange warm words at state dinner but little progress on key issues",
+        "url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
+        "description": "Despite diplomatic niceties and gifts, little was shared on substantial issues separating the leaders.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
+        "url": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
+        "description": "China wanted progress on trade, technology and Taiwan - but hasn't got as much as it would have hoped for.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
         "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
         "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-        "description": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Hundreds of thousands expected in Paris for Pope's visit",
-        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-        "description": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
