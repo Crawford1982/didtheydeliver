@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-09-24T21:09:41.173310+00:00",
+  "fetched_at": "2026-09-25T03:32:33.650512+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Ed Miliband meets Iran’s foreign minister as Tehran gives US ultimatum on strait of Hormuz",
+        "title": "Marina Hyde on Trump, tech bros and Taylor Swift - podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/sep/25/marina-hyde-trump-tech-bros-taylor-swift-time-alive-podcast",
+        "description": "Guardian columnist Marina Hyde on the release of her new book What a Time to be Alive!“I think increasingly the way to survive the news is to say things like: ‘I find it fascinating from a human be...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Iran awaiting response from Trump on proposal to open strait of Hormuz in six days",
         "url": "https://www.theguardian.com/world/2026/sep/24/ed-miliband-meets-iran-foreign-minister-us-ultimatum-strait-hormuz",
-        "description": "Senior Iranian officials say Washington has four to five days to respond to its conditions for reopening the strait The UK foreign secretary, Ed Miliband, has met his Iranian counterpart, Abbas Ara...",
+        "description": "Country says US must lift sanctions on its oil exports and end the war on all fronts, including in LebanonIran said it has told Donald Trump it is willing to open the strait of Hormuz in six days, ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -13,13 +20,6 @@
         "title": "Ukrainians in UK fear homelessness over host scheme funding cuts",
         "url": "https://www.theguardian.com/world/2026/sep/24/uk-homes-for-ukraine-funding-cut-homeless",
         "description": "Monthly ‘thank you’ payments for people hosting refugees to be cut from £350 to £100 from next yearUkrainian refugees in the UK fear they could be left homeless after the government quietly axed 70...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "France says EU’s ‘Made in Europe’ law should not include the UK",
-        "url": "https://www.theguardian.com/world/2026/sep/24/france-says-eus-made-in-europe-law-should-not-include-the-uk",
-        "description": "‘If you’re not in the internal market, you don’t get the same protection,’ says French minister of policy designed to curb Chinese competitionFrance is leading a push to exclude the UK from the EU’...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Reported assaults on Britain's rail services rise by more than a third",
-        "url": "https://www.bbc.co.uk/news/articles/c6z0z5dz884lo?at_medium=RSS&at_campaign=rss",
-        "description": "Recorded incidents of violence and harassment against passengers and rail workers showed a sharp increase in the year to March.",
+        "title": "'We're all broke': Would you chase a friend for £5?",
+        "url": "https://www.bbc.co.uk/news/articles/cmly439q4y27o?at_medium=RSS&at_campaign=rss",
+        "description": "What's the smallest amount of money you would ask a friend to pay you back?",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "NHS staff investigated over access to dead teenager's medical records",
-        "url": "https://www.bbc.co.uk/news/articles/cm207yn1124zo?at_medium=RSS&at_campaign=rss",
-        "description": "Oliver McGowan, who died in 2016, may have had his medical records accessed inappropriately after his death by NHS staff in Bristol.",
+        "title": "Treadmills to deadlifts: Why Gen Z are swapping cardio for strength training",
+        "url": "https://www.bbc.co.uk/news/articles/crlyqg2q3p10o?at_medium=RSS&at_campaign=rss",
+        "description": "Gyms are booming, solitary cardio is out - how workouts are changing.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Elephants use medicinal plants to treat themselves, researchers find",
-        "url": "https://www.bbc.co.uk/news/articles/cv1j4yr6j2p0o?at_medium=RSS&at_campaign=rss",
-        "description": "African elephants use dozens of different medicinal plants to treat themselves and their families when they are sick, research reveals.",
+        "title": "Just how hot and dry was your summer? Use our postcode lookup to find out",
+        "url": "https://www.bbc.co.uk/news/articles/cy9zvw47v90o?at_medium=RSS&at_campaign=rss",
+        "description": "Most of us experienced drought and heatwaves - but temperatures and rainfall were not the same everywhere.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "White House restores access to media outlets banned by Trump after judge's order",
+        "title": "Netanyahu defends Israeli military action as delegates walk out before UN speech",
+        "url": "https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo?at_medium=RSS&at_campaign=rss",
+        "description": "The Israeli leader labels those who left his speech at the UN General Assembly as \"moral cowards\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Media outlets banned by Trump denied access to White House dinner despite judge's order",
         "url": "https://www.bbc.co.uk/news/articles/cqe8ek7608mlo?at_medium=RSS&at_campaign=rss",
-        "description": "CNN, Politico and MS NOW were allowed back into the White House after some of their staff were earlier turned away.",
+        "description": "CNN and MS NOW said reporters were denied access to covering White House arrivals for a state dinner, despite a judge ruling their passes must be restored.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
-        "url": "https://www.bbc.co.uk/news/articles/cr3eqk15ld14o?at_medium=RSS&at_campaign=rss",
-        "description": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Four civilians killed in Pakistani strikes in Afghanistan, Taliban says",
-        "url": "https://www.bbc.co.uk/news/articles/cm86xn0nnw58o?at_medium=RSS&at_campaign=rss",
-        "description": "Pakistan says it struck 10 targets, adding the strikes were \"strictly limited to identified military objectives\".",
+        "title": "Hundreds of thousands expected in Paris for Pope's visit",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
+        "description": "The highpoint of his time in Paris will be a giant Mass attended by more than half a million people.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
