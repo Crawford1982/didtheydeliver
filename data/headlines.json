@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-26T10:50:48.727824+00:00",
+  "fetched_at": "2026-09-26T15:49:21.312145+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Angela Rayner stands by attack on care worker visa reforms ahead of Labour conference",
+        "url": "https://www.theguardian.com/politics/2026/sep/26/angela-rayner-care-worker-visa-reforms-labour-conference",
+        "description": "Housing secretary says Home Office moved goalposts with ‘disruptive’ change to permanent residence rulesAngela Rayner has stood by her criticism of Home Office reforms that would make it harder for...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Work intensifying on UK laws to stamp out concert ticket touts, say sources",
+        "url": "https://www.theguardian.com/business/2026/sep/26/work-intensifying-uk-laws-stamp-out-concert-ticket-touts",
+        "description": "Artists including Tinie Tempah and the Smiths’ drummer Mike Joyce ramp up pressure on government to keep its pledge to outlaw for-profit resalesThe government has stepped up work on new laws to sto...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Severely disabled young people should get fast-track access to benefits, Milburn says",
         "url": "https://www.theguardian.com/society/2026/sep/26/severely-disabled-young-people-fast-track-benefits-milburn",
         "description": "Alan Milburn said 16- to 24-year-olds with most complex needs should not have to keep proving they cannot workYoung people whose complex disabilities mean they have little prospect of getting a pai...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour must reunite progressive voters to win the next election, says Lucy Powell",
-        "url": "https://www.theguardian.com/politics/2026/sep/26/labour-must-reunite-progressive-voters-to-win-the-next-election-says-lucy-powell",
-        "description": "The deputy leader wants the party to take advantage of a split on the right and not be embarrassed to show its valuesLabour must “reunite the progressive voter coalition” if it is to take advantage...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "The tricky tests awaiting Andy Burnham after Labour conference",
-        "url": "https://www.theguardian.com/politics/2026/sep/26/andy-burnham-tricky-labour-conference-budget-eu-oil",
-        "description": "From a difficult economic landscape to decisions on oil and gas drilling, welfare spending and the Chagos Islands, we look at what’s on the horizonAndy Burnham is riding high ahead of the Labour pa...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,13 @@
     ],
     "economy": [
       {
+        "title": "‘It’s just getting worse’: anger in Maine over Trump’s trade war with close neighbor Canada",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/26/maine-voters-canada-trump-trade-war",
+        "description": "President’s tariffs have hurt fishers, loggers and others in a state with deep bonds to Canada – will voters show their displeasure in the midterms?It was an ideal summer to cut trees.The weather i...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "The Guardian view on Trump and Xi: a show of friendship, but no real attempt to address the tensions | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/sep/25/the-guardian-view-on-trump-and-xi-a-show-of-friendship-but-no-real-attempt-to-address-the-tensions",
         "description": "The Chinese leader’s visit to Washington appears to have done nothing to shift the stalemate in bilateral relations Within days, two high-profile Chinese visitors will arrive in the US – envoys of ...",
@@ -43,13 +50,6 @@
         "title": "Healey appoints Labour manifesto writer, adding to election speculation",
         "url": "https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury",
         "description": "Exclusive: Economist Ravinder Athwal, who worked in Keir Starmer’s team, is poached from Flint GlobalRavinder Athwal, the economist who wrote Labour’s 2024 manifesto, is taking on a senior role as ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Iran war drives UK diesel price to near record high, and makes interest rate rise ‘hard to avoid’ – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/sep/25/uk-consumer-confidence-burnham-bounce-bank-of-england-oil-inflation-stock-markets-bonds-latest-news-updates",
-        "description": "Bank of England governor Andrew Bailey says persistently high oil and gas prices would make it hard to resist pressure to raise interest ratesCapital gains tax: how it works, and the pros and cons ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Angela Rayner stands by attack on care worker visa reforms ahead of Labour conference",
+        "url": "https://www.theguardian.com/politics/2026/sep/26/angela-rayner-care-worker-visa-reforms-labour-conference",
+        "description": "Housing secretary says Home Office moved goalposts with ‘disruptive’ change to permanent residence rulesAngela Rayner has stood by her criticism of Home Office reforms that would make it harder for...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Ukrainians in UK fear homelessness over host scheme funding cuts",
         "url": "https://www.theguardian.com/world/2026/sep/24/uk-homes-for-ukraine-funding-cut-homeless",
         "description": "Monthly ‘thank you’ payments for people hosting refugees to be cut from £350 to £100 from next yearUkrainian refugees in the UK fear they could be left homeless after the government quietly axed 70...",
@@ -103,13 +110,6 @@
         "title": "Londoners get £3bn a year subsidy because structure of council tax biased against north, says thinktank – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/sep/24/labour-reform-conservatives-yougov-mrp-poll-burnham-badenoch-farage-blair-brexit-latest-news-updates",
         "description": "Resolution Foundation says households outside London are paying hundreds of pounds a year more in council tax than they would be under a fair systemTim Shipman has written about what will be coming...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "‘It sent a message’: anti-migrant feeling pervades Hampshire town where hundreds protested",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/23/anti-migrant-feeling-pervades-hampshire-town-where-hundreds-protested",
-        "description": "Far-right posters go up around Gosport, but some residents say there’s ‘another side’ to life in the townAlan Dale was in two minds as he gazed across at Portsmouth harbour in the late September su...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Huge crowds greet Pope in Paris for open-air Mass",
+        "url": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
+        "description": "More than half a million people are expected to attend the event in the heart of the French capital.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
         "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
         "description": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "OpenAI bots meddled with multiple US government agency sites",
-        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Bangkok roads submerged as flood disaster declared",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
-        "description": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
+        "title": "British national among six dead in building explosion close to Acropolis in Athens",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
+        "description": "Four Americans and a Greek national are among those killed in a suspected gas explosion, officials said.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
