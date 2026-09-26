@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T21:06:39.058105+00:00",
+  "fetched_at": "2026-09-26T03:37:55.870240+00:00",
   "headlines": {
     "government": [
       {
@@ -118,7 +118,7 @@
       {
         "title": "‘Robust little’ vessel begins treacherous 22,000km journey around Antarctica in the name of climate science",
         "url": "https://www.theguardian.com/environment/2026/sep/26/saildrone-unmanned-hurricane-proof-ship-antarctica-climate-hobart",
-        "description": "Powered by sun and wind, the uncrewed vehicle will collect data to help Australian scientists better understand how oceans absorb emissionsA small uncrewed vessel has embarked on a lap around Antar...",
+        "description": "Powered by sun and wind, the uncrewed vehicle will collect data to help Australian scientists better understand how oceans absorb emissionsGet our breaking news email, free app or daily news podcas...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "What are my children exposed to? Why I want testing for cancer-causing chemicals",
-        "url": "https://www.bbc.co.uk/news/articles/cw05rym38gdqo?at_medium=RSS&at_campaign=rss",
-        "description": "People living near a lagoon branded \"a shame on Britain\" want to be tested for cancer-causing PCBs.",
+        "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
+        "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+        "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+        "description": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "description": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
         "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
         "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Special agents' blood and urine test results stolen in FBI hack",
-        "url": "https://www.bbc.co.uk/news/articles/cw62me2vlj07o?at_medium=RSS&at_campaign=rss",
-        "description": "Experts say the hack could leave agents vulnerable to scams, blackmail and targeted attacks.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Pope warns against 'losing humanity' to AI machines",
-        "url": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
-        "description": "The pontiff delivered the warning on the first day of his trip to France on Friday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
