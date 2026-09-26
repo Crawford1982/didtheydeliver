@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-09-26T03:37:55.870240+00:00",
+  "fetched_at": "2026-09-26T10:50:48.727824+00:00",
   "headlines": {
     "government": [
       {
-        "title": "No general election before 2029, Andy Burnham says",
-        "url": "https://www.theguardian.com/politics/2026/sep/25/no-snap-election-before-2029-andy-burnham-says",
-        "description": "Prime minister quashes speculation that Labour’s revival in the polls could prompt early contestAndy Burnham has said he will not call a general election before 2029, after days of speculation that...",
+        "title": "Severely disabled young people should get fast-track access to benefits, Milburn says",
+        "url": "https://www.theguardian.com/society/2026/sep/26/severely-disabled-young-people-fast-track-benefits-milburn",
+        "description": "Alan Milburn said 16- to 24-year-olds with most complex needs should not have to keep proving they cannot workYoung people whose complex disabilities mean they have little prospect of getting a pai...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Healey appoints Labour manifesto writer, adding to election speculation",
-        "url": "https://www.theguardian.com/politics/2026/sep/25/labour-appoints-manifesto-writer-ravinder-athwal-treasury",
-        "description": "Exclusive: Economist Ravinder Athwal, who worked in Keir Starmer’s team, is poached from Flint GlobalRavinder Athwal, the economist who wrote Labour’s 2024 manifesto, is taking on a senior role as ...",
+        "title": "Labour must reunite progressive voters to win the next election, says Lucy Powell",
+        "url": "https://www.theguardian.com/politics/2026/sep/26/labour-must-reunite-progressive-voters-to-win-the-next-election-says-lucy-powell",
+        "description": "The deputy leader wants the party to take advantage of a split on the right and not be embarrassed to show its valuesLabour must “reunite the progressive voter coalition” if it is to take advantage...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour rejects Declassified journalists from party conference for third year – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/25/zack-polanski-zionism-hustings-byelection-green-party-ed-miliband-iran-unga-latest-news-updates",
-        "description": "The media organisation reports that three of its journalists were denied media passesA record £66m of emergency security funding was issued by the Home Office for mosques and related community site...",
+        "title": "The tricky tests awaiting Andy Burnham after Labour conference",
+        "url": "https://www.theguardian.com/politics/2026/sep/26/andy-burnham-tricky-labour-conference-budget-eu-oil",
+        "description": "From a difficult economic landscape to decisions on oil and gas drilling, welfare spending and the Chagos Islands, we look at what’s on the horizonAndy Burnham is riding high ahead of the Labour pa...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "I'm not tempted to call an early election, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\".",
+        "title": "Rayner criticises visa rule proposals ahead of Labour conference",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2zz035q99o?at_medium=RSS&at_campaign=rss",
+        "description": "The housing secretary says the government's plans to change wait times for permanent residency are unfair because they \"change the goalposts\".",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Sir David Beckham nets £38.5m after World Cup ad deals",
-        "url": "https://www.bbc.co.uk/news/articles/crkgww5j0yzwo?at_medium=RSS&at_campaign=rss",
-        "description": "His stake in DRJB Holdings has entitled him to almost half of its £85.5m in dividend payments.",
+        "title": "OpenAI bots meddled with multiple US government agency sites",
+        "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
+        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -137,32 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "The treasured 'eternal snow' on this tropical island is about to disappear forever",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ydvww0erdo?at_medium=RSS&at_campaign=rss",
-        "description": "Climate change is transforming Papua's snowy peaks, which hold scientific value and spiritual significance.",
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+        "description": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Schoolchildren without smartphones penalised with higher bus fares",
+        "url": "https://www.theguardian.com/money/2026/sep/26/schoolchildren-smartphones-higher-bus-fares-england",
+        "description": "Despite guidance keeping mobile phones out of England’s schools, cheaper travel may only be available via an appSchoolchildren who do not own smartphones face paying hundreds of pounds extra in ann...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "‘They accepted the money but didn’t take care of my child’: what Luna Wong’s death reveals about the treatment of international students in the UK",
+        "url": "https://www.theguardian.com/society/2026/sep/26/luna-wong-hong-kong-death-reveals-treatment-international-students-uk",
+        "description": "When her parents waved her off to study in England they hoped it would be a fresh start the 16-year-old needed after struggling with her mental health in Hong Kong. Instead, 10 months later, she wa...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Trump administration guts data collection on US education as math and reading scores plummet",
         "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/25/student-math-reading-test-scores",
         "description": "National Center for Education Statistics, which collects critical data to guide policy on learning, was decimated after Doge canceled crucial contractsAs reading and math scores fall to their lowes...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Londoners get £3bn a year subsidy because structure of council tax biased against north, says thinktank – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/24/labour-reform-conservatives-yougov-mrp-poll-burnham-badenoch-farage-blair-brexit-latest-news-updates",
-        "description": "Resolution Foundation says households outside London are paying hundreds of pounds a year more in council tax than they would be under a fair systemTim Shipman has written about what will be coming...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Did you sit vocational qualifications in the past and more recently in England? We would like to hear from you",
-        "url": "https://www.theguardian.com/education/2026/sep/24/did-you-sit-vocational-qualifications-in-the-past-and-more-recently-in-england-we-would-like-to-hear-from-you",
-        "description": "How did you find them? Were they helpful in getting you to the next stage in your education or in securing a job?Teenagers are to be offered new vocational GCSEs in England, marking the biggest cha...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -194,21 +194,21 @@
       {
         "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
         "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-        "description": "Asked about the Iranian offer, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+        "description": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
         "title": "OpenAI bots meddled with multiple US government agency sites",
         "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-        "description": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
+        "description": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
-        "description": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+        "title": "Bangkok roads submerged as flood disaster declared",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss",
+        "description": "An emergency has been declared across the capital of Thailand as days of heavy rain leave the city inundated.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
