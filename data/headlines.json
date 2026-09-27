@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-27T16:25:56.480702+00:00",
+  "fetched_at": "2026-09-27T20:54:40.649240+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK politics live: Burnham says he wants to fight next election on plan for new taxes to pay for free social care in England",
+        "title": "Andy Burnham to fight next election with plan for NHS-style care service",
+        "url": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-election-nhs-style-care-service-labour-conference",
+        "description": "PM says he is willing to expend political capital to bring in universal service for England funded by ‘everybody’Analysis: can Labour hang on to Burnham bounce?Andy Burnham will fight the next elec...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK to open new refugee resettlement routes for Afghan women and Palestinians",
+        "url": "https://www.theguardian.com/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians",
+        "description": "Exclusive: Move by Shabana Mahmood comes after closure of Afghan scheme last year but experts say numbers too small to deter Channel crossingsUK politics live – latest updatesShabana Mahmood will a...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK politics live: Pat McFadden tells Labour activists they should not defend benefits system ‘status quo’ because it ‘writes off’ claimants",
         "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
-        "description": "PM appears to be anticipating criticism of reforms that he will set out on Tuesday at the Labour party conference‘I can deliver’: Burnham pledges radical change on eve of Labour conferenceKuenssber...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham dodges questions on Heathrow third runway as project faces four-year delay",
-        "url": "https://www.theguardian.com/environment/2026/sep/27/burham-dodges-questions-heathrow-third-runway-delay",
-        "description": "Airport chiefs say 2035 operations deadline unachievable as critics say new delay makes case for project ‘even more dubious’Plans for a third runway at Heathrow are once again up in the air after t...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Tense standoff over loyalist march in Portadown as protesters block route",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route",
-        "description": "Sinn Féin leaders join those on streets opposing decision to allow Garvaghy Road parade for first time since 1998Portadown march: latest updatesHundreds of protesters spent the day blocking the rou...",
+        "description": "Work and pensions secretary says the current system is flawed because it consigns too many people to a life on benefits when they would be better off working‘I can deliver’: Burnham pledges radical...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,9 +63,9 @@
     ],
     "nhs": [
       {
-        "title": "UK politics live: Burnham says he wants to fight next election on plan for new taxes to pay for free social care in England",
+        "title": "UK politics live: Pat McFadden tells Labour activists they should not defend benefits system ‘status quo’ because it ‘writes off’ claimants",
         "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
-        "description": "PM appears to be anticipating criticism of reforms that he will set out on Tuesday at the Labour party conference‘I can deliver’: Burnham pledges radical change on eve of Labour conferenceKuenssber...",
+        "description": "Work and pensions secretary says the current system is flawed because it consigns too many people to a life on benefits when they would be better off working‘I can deliver’: Burnham pledges radical...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
-        "title": "UK politics live: Burnham says he wants to fight next election on plan for new taxes to pay for free social care in England",
+        "title": "UK to open new refugee resettlement routes for Afghan women and Palestinians",
+        "url": "https://www.theguardian.com/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians",
+        "description": "Exclusive: Move by Shabana Mahmood comes after closure of Afghan scheme last year but experts say numbers too small to deter Channel crossingsUK politics live – latest updatesShabana Mahmood will a...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Facing up to the threat that Reform poses to our democracy | Letters",
+        "url": "https://www.theguardian.com/politics/2026/sep/27/facing-up-to-the-threat-that-reform-poses-to-our-democracy",
+        "description": "Readers respond to an article by John Harris in which he urges Labour to offer hope and change John Harris writes: “Reform is apparently in deep trouble, yet also still in with a serious chance. Ho...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "UK politics live: Pat McFadden tells Labour activists they should not defend benefits system ‘status quo’ because it ‘writes off’ claimants",
         "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
-        "description": "PM appears to be anticipating criticism of reforms that he will set out on Tuesday at the Labour party conference‘I can deliver’: Burnham pledges radical change on eve of Labour conferenceKuenssber...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "‘We’ve done everything by the book’: EU citizens left in limbo after UK government strips post-Brexit residency status",
-        "url": "https://www.theguardian.com/politics/2026/sep/27/eu-citizens-home-office-strips-post-brexit-residency-status",
-        "description": "Home Office faces legal action after 1,473 people living in UK before Brexit told settled status was granted in errorThe Home Office faces legal action over a policy to strip residency rights from ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Angela Rayner stands by attack on care worker visa reforms ahead of Labour conference",
-        "url": "https://www.theguardian.com/politics/2026/sep/26/angela-rayner-care-worker-visa-reforms-labour-conference",
-        "description": "Housing secretary says Home Office moved goalposts with ‘disruptive’ change to permanent residence rulesAngela Rayner has stood by her criticism of Home Office reforms that would make it harder for...",
+        "description": "Work and pensions secretary says the current system is flawed because it consigns too many people to a life on benefits when they would be better off working‘I can deliver’: Burnham pledges radical...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Killer Christa Pike is to be executed within days, but her defence say she's a victim too",
-        "url": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-        "description": "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today.",
+        "title": "Embattled Serbian president resigns, paving way for early elections",
+        "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
+        "description": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
