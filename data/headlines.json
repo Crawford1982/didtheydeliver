@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-27T20:54:40.649240+00:00",
+  "fetched_at": "2026-09-28T03:46:23.786944+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Protesters disperse after blocking route for loyalist march in Portadown",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/27/tense-standoff-loyalist-march-portadown-protesters-block-route",
+        "description": "Talks expected on Monday after Sinn Féin leaders join those on streets opposing decision to allow Orange Order parade for first time since 1998Hundreds of protesters spent the day blocking the rout...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Failure to protect free speech could cost Labour votes at next election, says Liberty",
+        "url": "https://www.theguardian.com/world/2026/sep/28/protect-free-speech-labour-liberty-poll",
+        "description": "Polling for rights group shows issue is concern for voters and many feel recent policies have had negative effect Free speech will be a big concern for voters at the next general election, with the...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Andy Burnham to fight next election with plan for NHS-style care service",
         "url": "https://www.theguardian.com/politics/2026/sep/27/andy-burnham-election-nhs-style-care-service-labour-conference",
         "description": "PM says he is willing to expend political capital to bring in universal service for England funded by ‘everybody’Analysis: can Labour hang on to Burnham bounce?Andy Burnham will fight the next elec...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK to open new refugee resettlement routes for Afghan women and Palestinians",
-        "url": "https://www.theguardian.com/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians",
-        "description": "Exclusive: Move by Shabana Mahmood comes after closure of Afghan scheme last year but experts say numbers too small to deter Channel crossingsUK politics live – latest updatesShabana Mahmood will a...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK politics live: Pat McFadden tells Labour activists they should not defend benefits system ‘status quo’ because it ‘writes off’ claimants",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/27/uk-politics-live-labour-party-conference-andy-burnham-angela-rayner-latest-news-updates",
-        "description": "Work and pensions secretary says the current system is flawed because it consigns too many people to a life on benefits when they would be better off working‘I can deliver’: Burnham pledges radical...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Andy Burnham refuses to back third runway at Heathrow",
-        "url": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost £33bn",
+        "title": "Healey to promise 'new age of industrialisation' for UK in conference speech",
+        "url": "https://www.bbc.co.uk/news/articles/cjdx53edkglgo?at_medium=RSS&at_campaign=rss",
+        "description": "The chancellor will unveil policies aimed at boosting British shipbuilding in his speech to Labour's annual conference on Monday.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -95,7 +95,7 @@
       {
         "title": "UK to open new refugee resettlement routes for Afghan women and Palestinians",
         "url": "https://www.theguardian.com/politics/2026/sep/27/shabana-mahmood-uk-refugee-resettlement-scheme-afghan-women-girls-palestinians",
-        "description": "Exclusive: Move by Shabana Mahmood comes after closure of Afghan scheme last year but experts say numbers too small to deter Channel crossingsUK politics live – latest updatesShabana Mahmood will a...",
+        "description": "Exclusive: Move by Shabana Mahmood comes after closure of Afghan scheme last year but experts say numbers too small to deter Channel crossingsShabana Mahmood will announce a new legal route for ref...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Father and son crowned Sheep Dog World Trial champions",
-        "url": "https://www.bbc.co.uk/news/articles/c6lyq0l4qjklo?at_medium=RSS&at_campaign=rss",
-        "description": "David and Jack Howells say they \"never in million years\" thought they would win the double.",
+        "title": "Late September warmth before wind and rain returns this week",
+        "url": "https://www.bbc.co.uk/weather/articles/c8wyzzyxed3zo?at_medium=RSS&at_campaign=rss",
+        "description": "Temperatures remain above the average at the start of the week but wetter conditions are on the way for some",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,16 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-        "url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-        "description": "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Two mass shootings in South Africa leave 27 dead",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ywnp075d1o?at_medium=RSS&at_campaign=rss",
-        "description": "The two attacks hours apart come as the country struggles to stop high levels of gang-related armed violence.",
+        "title": "Inside Yemen's front-line city as Houthis battle for control",
+        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+        "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -209,6 +202,13 @@
         "title": "Embattled Serbian president resigns, paving way for early elections",
         "url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss",
         "description": "Aleksandar Vučić's administration has been dogged by prolonged protests over allegations of corruption.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Two bodies found after avalanche hits Himalayan climbing group",
+        "url": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
+        "description": "Rescuers are looking for at least 10 Nepalese people who were preparing to take climbers up the Himlung Himal peak.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
