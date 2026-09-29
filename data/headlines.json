@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T22:56:52.129450+00:00",
+  "fetched_at": "2026-09-29T04:21:15.565916+00:00",
   "headlines": {
     "government": [
       {
@@ -24,14 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-        "description": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs.",
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "The RBA is expected to hike interest rates. Use our loan calculator to check how it could affect you",
+        "url": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
+        "description": "It would be the fourth hike this year, adding to the cost of monthly mortgage repaymentsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news pod...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Foie gras, live dolphins and toasters: China and US cut reciprocal tariffs on $30bn each of goods",
         "url": "https://www.theguardian.com/business/2026/sep/28/china-and-us-cut-reciprocal-tariffs",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Healey signals welfare reform push and new apprenticeships scheme",
-        "url": "https://www.theguardian.com/politics/2026/sep/28/john-healey-fiscal-rules-budget-hope",
-        "description": "Chancellor sets out measures to support jobs and growth in conference speech but vows fiscal discipline in budgetAnalysis: Healey offers upbeat vision but little light on how to pay for itAverage p...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK tries to stop Trump's diesel export ban",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
-        "description": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports.",
+        "title": "Burnham to unveil public body to invest in electricity grid",
+        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister will say he wants to reduce energy costs in his first conference speech as Labour leader.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Watch: Starship splashdown ends in fireball",
-        "url": "https://www.bbc.co.uk/news/videos/c6j9xkdvrd94o?at_medium=RSS&at_campaign=rss",
-        "description": "The mission was supposed to last 10 hours, but SpaceX announced it was ending after 90 minutes.",
+        "title": "Hurricane Polo unleashes threatening winds as it approaches Mexico",
+        "url": "https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&at_campaign=rss",
+        "description": "The category-three storm is expected to make landfall of north of Cabo San Lucas, a popular tourist area, on the Mexican peninsula of Baja California Sur.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -176,39 +176,39 @@
         "category": "housing"
       },
       {
-        "title": "Shabana Mahmood says Labour party wants to create ‘fairness in our immigration system’ – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
-        "description": "She says a lack of fairness can make ‘people turn inwards’Healey vows to stick to fiscal rules in budget built on hopeLisa O’Carroll is a senior Guardian correspondent.The head of the SDLP, Claire ...",
+        "title": "‘It keeps growing’: the tent camp that stands against Spain’s housing crisis",
+        "url": "https://www.theguardian.com/world/2026/sep/29/spain-madrid-tent-camp-housing-crisis",
+        "description": "An encampment is sprawling across Puerta del Sol plaza in central Madrid in protest against the ‘rentier economy’Wielding a broom and dustpan, Marta García, 60, darted past the edges of tents, swee...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Burnham has a battle plan, with social care the flagship. Risks lie ahead, but Labour now travels in hope | Polly Toynbee",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/28/andy-burnham-labour-plan-social-care-hope",
-        "description": "Here in Liverpool, the PM’s ambition for the party – and the country – is evident. There should be no complacency, but also no fearHis ambition is big enough to see from space as he promises the “b...",
+        "title": "Shabana Mahmood says Labour party wants to create ‘fairness in our immigration system’ – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/28/labour-party-conference-healey-economy-streeting-miliband-andy-burnham-latest-news-updates",
+        "description": "She says a lack of fairness can make ‘people turn inwards’Healey vows to stick to fiscal rules in budget built on hopeLisa O’Carroll is a senior Guardian correspondent.The head of the SDLP, Claire ...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Inside Yemen's front-line city as Houthis battle for control",
-        "url": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
-        "description": "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers.",
+        "title": "OpenAI scraps rollout of new model over safety concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+        "description": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Seoul summons Ukraine envoy over North Korean prisoner-of-war row",
-        "url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss",
-        "description": "Last week Zelensky revealed Ukraine had sent two captured North Koreans to South Korea - which Seoul says was meant to be a secret.",
+        "title": "Evicted Spanish pensioner can move back home, lawyer says",
+        "url": "https://www.bbc.co.uk/news/articles/cmkg8qgy9d9lo?at_medium=RSS&at_campaign=rss",
+        "description": "The eviction of Maricarmen Abascal, 87, prompted large-scale protests across Spain.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Twelve women have been killed in one part of South Africa since July. Here's what we know so far",
-        "url": "https://www.bbc.co.uk/news/articles/c6m27dprvzv7o?at_medium=RSS&at_campaign=rss",
-        "description": "South African President Cyril Ramaphosa says the murders are a \"stain on our national conscience\".",
+        "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
+        "description": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
