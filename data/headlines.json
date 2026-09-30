@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-09-30T17:48:26.212292+00:00",
+  "fetched_at": "2026-09-30T21:53:12.123135+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Talks to end Garvaghy Road dispute in doubt after Orange Order criticises deal",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/30/garvaghy-road-march-talks-tantalisingly-close-to-resolution-says-minister",
+        "description": "Spokesperson says group will ‘not surrender’ to Drumcree parade proposal put forward by Northern Ireland secretaryTalks to end the Drumcree parade dispute are on a knife-edge after Jamie Bryson, th...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "No 10 gathering evidence on public support for UK rejoining EU",
+        "url": "https://www.theguardian.com/politics/2026/sep/30/no-10-gathering-evidence-public-support-rejoining-eu-reversing-brexit",
+        "description": "Senior Downing Street officials reach out to thinktanks and pollsters as they look to test backing for reversing BrexitSenior Downing Street officials have been reaching out to thinktanks and polls...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Macron says ‘welcome back’ to Burnham suggestion UK could rejoin EU",
         "url": "https://www.theguardian.com/world/2026/sep/30/macron-welcome-back-burnham-suggestion-uk-could-rejoin-eu",
         "description": "French president, speaking alongside Spanish counterpart Pedro Sánchez, says EU bid would be good news for UK and EuropeansUK politics live – latest updatesThe French president, Emmanuel Macron, ha...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK income growth revised upwards as markets hail ‘resilient’ economy",
-        "url": "https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons",
-        "description": "Boost for John Healey before budget as GDP figure shows UK economy grew faster than first estimated in second quarterBusiness live – latest updatesUK household income grew at a stronger pace than p...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "How could Great Britain look under proportional representation? See the results for your area",
-        "url": "https://www.theguardian.com/politics/ng-interactive/2026/sep/30/how-could-britain-look-under-proportional-representation-see-the-results-for-your-area",
-        "description": "These visualisations from exclusive polling modelling show how the UK parliament could change under different voting systemsNew analysis produced exclusively for the Guardian reveals how different ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -40,16 +40,16 @@
         "category": "economy"
       },
       {
-        "title": "Economic growth in UK and US revised higher; diesel on brink of £2 a litre for first time – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates",
-        "description": "Second-quarter GDP growth on both sides of the Atlantic was stronger than first estimatedThis morning’s upgrade to UK growth in April-June is a boost to Andy Burnham, analysts say, even though he d...",
+        "title": "Brisbane and Sydney hit hardest by falling house prices as 5.2% shaved from property values nationwide",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
+        "description": "Cotality data shows median house prices fell in September as interest rates hit borrowing capacityFollow our Australia news live blog for latest updatesGet our breaking news email, free app or dail...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Good news in US inflation report boosts chances Fed won’t hike rates",
-        "url": "https://www.theguardian.com/business/2026/sep/30/inflation-report-interest-rates-fed",
-        "description": "Traders see about a 35% chance of an October rate hike, down from ​about 45% following White House pressureGood economic news boosted Wall Street’s main indexes on Wednesday, as a softer-than-antic...",
+        "title": "Federal Reserve watchdog finds no criminal violations for building renovation cost overruns",
+        "url": "https://www.theguardian.com/business/2026/sep/30/federal-reserve-watchdog-building-renovation",
+        "description": "Trump criticized $2.4bn rehab amid attempts to pressure then Fed chair Jerome Powell into lowering interest ratesAn internal watchdog said the Federal Reserve mismanaged costs associated with a $2....",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -153,9 +153,9 @@
         "category": "education"
       },
       {
-        "title": "MI5 issues spy alert to UK universities over Chinese front company stealing research",
+        "title": "MI5 warns UK universities over ‘theft of tech secrets by Chinese front company’",
         "url": "https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities",
-        "description": "Security service says academics should stop taking grants from and working with firm backed by China’s intelligence serviceMI5 China alert will send chill through UK’s cash-strapped universitiesChi...",
+        "description": "Security service says academics should stop working with and taking grants from firm backed by Chinese intelligenceMI5 China alert will send chill through UK’s cash-strapped universitiesMI5 has iss...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -194,7 +194,7 @@
       {
         "title": "What we know about stabbing on Flydubai flight to Israel",
         "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-        "description": "The captain and first officer were injured, and one pilot has been arrested, officials say.",
+        "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
