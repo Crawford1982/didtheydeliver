@@ -1,18 +1,11 @@
 {
-  "fetched_at": "2026-09-30T04:04:39.150676+00:00",
+  "fetched_at": "2026-09-30T11:57:06.489321+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Andy Burnham’s big bold leap - podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/sep/30/andy-burnhams-big-bold-leap-podcast",
-        "description": "Helen Pidd reports from the Labour conference in Liverpool as Andy Burnham lays out his grand plans as prime minister. With deputy political editor Jessica Elgot Continue reading...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham gambles on radical progressive plan to help Britain ‘rise again’",
-        "url": "https://www.theguardian.com/politics/2026/sep/29/andy-burnham-vows-long-term-relationship-eu-labour-conference-speech",
-        "description": "PM accepts some of his plan could be difficult and admits he ‘may pay a political price’Analysis: PM’s promises will take time to come goodKey takeaways from Burnham’s conference speechAndy Burnham...",
+        "title": "Voters back Burnham’s plan to cut back triple lock to fund social care reform by 48% to 28%, poll suggests – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/sep/30/andy-burnham-eu-brexit-rejoin-customs-union-fuel-duty-budget-latest-news-updates",
+        "description": "The data suggest Burnham may be able to win the argument with the public amid lobbying effortsAndy Burnham has suggested that it would not be legitimate for a party to form a majority government wi...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -24,32 +17,39 @@
         "category": "government"
       },
       {
-        "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
-        "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
-        "description": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK.",
+        "title": "Mediation over Drumcree parade is ‘dead in the water’, say nationalists",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/30/drumcree-parade-mediation-dead-in-the-water-say-nationalists",
+        "description": "Northern Ireland secretary holding talks with both sides as Garvaghy Road group launches fresh legal challengeUK politics live – latest updatesTalks to break the deadlock over the controversial Dru...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Move to rejoin EU among options for UK, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "UK economic growth revised higher; diesel on brink of £2 a litre for first time – business live",
+        "url": "https://www.theguardian.com/business/live/2026/sep/30/uk-economy-growth-revised-up-stock-markets-greggs-job-cuts-energy-prices-latest-news-updates",
+        "description": "UK cements its place as fastest-growing G7 country so far this yearThis morning’s upgrade to UK growth in April-June is a boost to Andy Burnham, analysts say, even though he didn’t take office unti...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Inflation leaps to 4% stoking fears of fifth interest rate hike before Christmas",
+        "url": "https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas",
+        "description": "Jim Chalmers says ‘higher global oil prices flowing through to oil prices in Australia’ are to blame for inflation rising from 3.5%Follow our Australia news live blog for latest updatesGet our brea...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "The Standard of Living review – Rory Kinnear has bags of charm as Bloomsbury economist Keynes",
         "url": "https://www.theguardian.com/stage/2026/sep/30/the-standard-of-living-review-rory-kinnear-theatre-royal-haymarket-london-james-graham-nicholas-hytner",
         "description": "Theatre Royal Haymarket, LondonJames Graham’s high-wire writing brings economic theory to life and connects it with art and fulfilment in this polished, ravishingly staged story of John Maynard Key...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK government pays highest interest rate on 10-year debt since 1999 at bond auction – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsNewsflash: the number of mortgages approved by UK lenders has fallen to its lowest level since the end of 2023.Just 54,918 new home loans w...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "‘Visible and engaged’: Burnham in listening mode with businesses at Labour party conference",
-        "url": "https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises",
-        "description": "PM reassures firms and chancellor vows help on costs – but unease remains over possible budget tax risesBusiness live – latest updatesA year ago Andy Burnham had a tough business reception at Labou...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -84,14 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "Hidden habits that make your social anxiety worse - and how to break them",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gl1yllg6po?at_medium=RSS&at_campaign=rss",
-        "description": "Social anxiety is more common than many think. Here's what you need to know about the condition.",
+        "title": "Family told to call locksmith over mental health fears",
+        "url": "https://www.bbc.co.uk/news/articles/cwe9eyj4gpgzo?at_medium=RSS&at_campaign=rss",
+        "description": "A force should have flagged mental health services after a family called about their son, IOPC says.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "UK-France ‘one in one out’ deal to expire on Thursday, say sources",
+        "url": "https://www.theguardian.com/uk-news/2026/sep/30/uk-france-one-in-one-out-deal-to-expire-on-thursday-say-sources",
+        "description": "Deal aimed at deterring small boat arrivals set to end as talks stall over French demand for EU-wide schemeUK politics live – latest updatesThe UK government’s “one in one out” deal with France, wh...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Cutting immigration to the UK means billions less for the Treasury. Can the country really afford that? | Zoe Williams",
         "url": "https://www.theguardian.com/commentisfree/2026/sep/29/cutting-uk-immigration-means-billions-less-for-the-treasury",
@@ -105,46 +112,46 @@
         "description": "She says a lack of fairness can make ‘people turn inwards’Healey vows to stick to fiscal rules in budget built on hopeLisa O’Carroll is a senior Guardian correspondent.The head of the SDLP, Claire ...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Shabana Mahmood hints she could water down plans on leave to remain",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/28/shabana-mahmood-hints-water-down-care-worker-visa-plans",
-        "description": "Home secretary under pressure over changes that would make it harder for foreign workers to claim permanent residenceShabana Mahmood has signalled she could water down her plans to make it harder f...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
+        "title": "Half a million trees to be planted in England in three years, says government",
+        "url": "https://www.theguardian.com/environment/2026/sep/30/half-million-trees-planted-england-three-years-angela-eagle",
+        "description": "Exclusive: Environment secretary Angela Eagle to make pledge as part of efforts to protect against extreme weatherHalf a million trees will be planted across England in the next three years to prot...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "World’s oceans absorbed record heat equal to 40 times annual global energy use",
+        "url": "https://www.theguardian.com/environment/2026/sep/30/worlds-seas-warmed-23-zettajoules-2025",
+        "description": "The injection of thermal energy comes amid an increasing rise in sea levels and continuing acidificationA record-breaking 23 zettajoules of heat was sunk into the world’s seas last year, leaving oc...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Antarctic winter sea ice falls to third-lowest level on record as scientists warn of ‘now problem’",
         "url": "https://www.theguardian.com/world/2026/sep/30/antarctic-winter-sea-ice-falls-to-third-lowest-level-on-record-as-scientists-warn-of-now-problem",
-        "description": "Coverage levels fall a million square kilometres short of the long-term average, with global heating likely driving lossesFollow our Australia news live blog for latest updatesGet our breaking news...",
+        "description": "Coverage levels fall a million square kilometres short of the long-term average, with global heating likely driving lossesAntarctica’s winter sea ice has peaked at its third-lowest level on record,...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "‘It’s just cruel’: US households hit by surge in electricity shutoffs amid record hot summer",
-        "url": "https://www.theguardian.com/environment/2026/sep/29/electricity-disconnected-record-heat",
-        "description": "Utility disconnections were up 28% in 10 states in July 2026 – the hottest month ever recorded in the US – compared with July 2024, data showsA record hot summer collided unhappily with rising ener...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Samuel Alito steps aside in a major climate case amid scrutiny over oil stock holdings",
-        "url": "https://www.theguardian.com/us-news/2026/sep/28/samuel-alito-supreme-court-oil-climate-case",
-        "description": "Decision from conservative justice comes before court hears case on whether fossil-fuel firms deceived US publicSupreme court justice Samuel Alito recused himself on Monday from a major climate-cha...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
-        "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
-        "description": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river.",
+        "title": "Orionid meteor shower to streak across night sky this week",
+        "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+        "description": "The Orionid meteor shower peaks in October as Earth passes through debris left behind by Halley’s Comet.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Edinburgh joins UK universities heading for strikes as cuts spread through entire sector",
+        "url": "https://www.theguardian.com/education/2026/sep/30/edinburgh-joins-uk-universities-dundee-nottingham-heading-for-strikes-cuts-through-sector",
+        "description": "Students at Edinburgh, Dundee and Nottingham face a term without any teaching as sector struggles with rising financial uncertaintyWelcome classes for students at the University of Edinburgh this y...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "High screen time can hurt children’s learning and language skills, study suggests",
         "url": "https://www.theguardian.com/society/2026/sep/28/high-screen-usage-in-children-linked-to-poorer-outcomes-major-study-suggests",
@@ -156,13 +163,6 @@
         "title": "Teachers at Euan Blair firm report ‘horrendous stress’ after AI used to rate their work",
         "url": "https://www.theguardian.com/technology/2026/sep/28/teachers-euan-blair-firm-report-horrendous-stress-ai-used-to-rate-their-work",
         "description": "Exclusive: Instructors at tech training company Multiverse hit out at ‘remorseless’ and ‘unnerving’ monitoring systemTeachers at Euan Blair’s £1.6bn tech training company, Multiverse, have blown th...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "‘It’s like the Scottish Upper East Side’: shame and snobbery as American students blamed for St Andrews classism",
-        "url": "https://www.theguardian.com/education/2026/sep/27/st-andrews-university-class-divide-american-students",
-        "description": "Online comments reflect class tensions at Scottish university between those from lower-income families and wealthier US undergraduatesWhen Sophie Rose Jenkins announced she would not return to St A...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+        "url": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+        "description": "At least six people were killed and 33 others injured across the country in the overnight attacks, local authorities reported.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+        "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+        "description": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Chinese AI tool told researchers how to make bioweapons",
         "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
         "description": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-        "description": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "South Korea demands apology from Pyongyang for landmine blasts that injured three",
-        "url": "https://www.bbc.co.uk/news/articles/cwj3dkvpm4e7o?at_medium=RSS&at_campaign=rss",
-        "description": "Blasts in the Demilitarised Zone (DMZ) injured three South Korean personnel earlier this month.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
