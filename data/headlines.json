@@ -1,48 +1,41 @@
 {
-  "fetched_at": "2026-10-01T12:28:40.392262+00:00",
+  "fetched_at": "2026-10-01T22:21:33.475540+00:00",
   "headlines": {
     "government": [
       {
-        "title": "‘Thank you Andy Burnham’: prisoners react as they begin to leave under early release scheme – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/01/universal-credit-benefits-welfare-conservatives-kemi-badenoch-andy-burnham-labour-latest-news-updates",
-        "description": "Hundreds of prisoners are being released early today across England and Wales in attempt to ease overcrowdingJust as a reminder of why prisoners are being released early, here is an explainer by Ja...",
+        "title": "UK airlines to be banned from charging parents to sit with children",
+        "url": "https://www.theguardian.com/business/2026/oct/01/uk-airlines-to-be-banned-from-charging-parents-to-sit-with-children",
+        "description": "Planned rule change forms part of Burnham’s bid to crack down on the ‘little charges that add up’Airlines will be blocked from charging parents extra to sit with their children on planes, according...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Prisoners thank Andy Burnham as they leave jail in first wave of early releases",
-        "url": "https://www.theguardian.com/society/2026/oct/01/prisoners-thank-andy-burnham-leave-jail-early-releases",
-        "description": "Seven hundred offenders from dozens of prisons in England and Wales expected to be freed on ThursdayEnver Solomon: Releasing prisoners won’t solve the crisis in English and Welsh jails. Here’s what...",
+        "title": "Key disability benefit for young people may be axed under major welfare changes",
+        "url": "https://www.theguardian.com/politics/2026/oct/01/welfare-changes-under-debate-disability-benefit-young-people-uk",
+        "description": "Exclusive: Plan under discussion involves intensive support to help young people into employmentMinisters are working up sweeping plans for welfare changes including scrapping a key disability bene...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
-        "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
-        "description": "Fears that US deficit is unsustainable drive Britain’s 30-year bond yield to level not seen since 1998Business live – latest updatesThe turmoil in global bond markets has intensified amid fears the...",
+        "title": "Labour figures uneasy about Healey’s ‘underpowered’ approach to budget",
+        "url": "https://www.theguardian.com/politics/2026/oct/01/labour-unease-healey-budget",
+        "description": "Chancellor faces global volatility and soaring energy costs as some insiders worry lack of clarity could trigger fresh market shockSenior Labour figures are privately voicing unease about John Heal...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
-        "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
-        "description": "The party says it would bring in new work requirements for young people claiming Universal Credit.",
+        "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
+        "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK income growth revised upwards as markets hail ‘resilient’ economy",
-        "url": "https://www.theguardian.com/business/2026/sep/30/uk-income-growth-john-healey-budget-gdp-ons",
-        "description": "Boost for John Healey before budget as GDP figure shows UK economy grew faster than first estimated in second quarterUK household income grew at a stronger pace than previously estimated during the...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Global bond sell-off intensifies, as UK long-term borrowing costs pass 6%",
+        "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
         "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
-        "description": "Fears that US deficit is unsustainable drive Britain’s 30-year bond yield to level not seen since 1998Business live – latest updatesThe turmoil in global bond markets has intensified amid fears the...",
+        "description": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998Business live – latest updatesThe global bond sell-off intensified on Thursday, dr...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,32 +47,39 @@
         "category": "economy"
       },
       {
-        "title": "AI boom could trigger market shocks, Bank of England boss warns",
-        "url": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-        "description": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+        "title": "Property prices are plunging in almost every capital city across Australia – see how your suburb rates",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/01/brisbane-sydney-hit-hardest-by-falling-house-prices",
+        "description": "Cotality data shows median house prices fell in September as interest rates hit borrowing capacityFollow our Australia news live blog for latest updatesGet our breaking news email, free app or dail...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
+        "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
+        "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "Charity threatens legal action over two-year NHS wait for ADHD and autism assessments",
-        "url": "https://www.theguardian.com/society/2026/oct/01/adhd-uk-two-year-wait-nhs-autism-west-yorkshire-icb-legal-action",
-        "description": "Exclusive: ADHD UK may seek judicial review of West Yorkshire NHS integrated care board’s ‘unlawful’ policyADHD UK has threatened legal action against an NHS organisation over its decision to impos...",
+        "title": "It’s cruel to delay ADHD and autism assessments for children | Letter",
+        "url": "https://www.theguardian.com/society/2026/oct/01/its-cruel-to-delay-adhd-and-autism-assessments-for-children",
+        "description": "Anna Bird says the decision by some NHS integrated care boards to impose a two-year minimum wait is harmful to young people and their familiesBlocking assessments of children with neurodivergent co...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Ben Jennings on Andy Burnham’s pledge to overhaul social care – cartoon",
-        "url": "https://www.theguardian.com/commentisfree/picture/2026/sep/30/ben-jennings-andy-burnham-pledge-social-care-cartoon",
-        "description": "Continue reading...",
+        "title": "Flipping public opinion on the triple lock was Burnham magic – he’ll need more of it to see his social care plans through | Polly Toynbee",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/01/andy-burnham-public-opinion-triple-lock-social-care",
+        "description": "Rebuilding a complex and broken system into one that’s fair for all, and in the face of steely opposition: that will be the PM’s real challengeHere is rare clearcut proof of the power of political ...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "More than 44,000 file legal objections to Palantir NHS platform handling their data",
-        "url": "https://www.theguardian.com/technology/2026/sep/30/legal-objections-palantir-nhs-platform-handling-data",
-        "description": "Exclusive: Campaign comes amid backlash against tech company’s involvement with Israeli military and Trump’s ICE crackdownUK politics live – latest updatesTens of thousands of people have formally ...",
+        "title": "Specialist services are vital to help people with ME/CFS | Letter",
+        "url": "https://www.theguardian.com/society/2026/oct/01/specialist-services-are-vital-to-help-people-with-me-cfs",
+        "description": "Readers respond to George Monbiot’s article about how those with myalgic encephalomyelitis, or chronic fatigue syndrome, have been failed by the health systemGeorge Monbiot (Abandoned, dismissed an...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Why is the UK-France ‘one in, one out’ migration deal being scrapped?",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/01/why-uk-france-one-in-one-out-migration-deal-being-scrapped",
+        "description": "Agreement expected to end on Thursday after running for 423 days, during which it has been beset by problemsUK politics live – latest updatesThe UK government’s “one in, one out” deal with France, ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "It was the most welcoming town in Britain. Why has Crowborough become so divided?",
         "url": "https://www.theguardian.com/uk-news/2026/oct/01/crowborough-divided-immigration-asylum-seekers",
         "description": "In 2022, they opened their arms to Ukrainian refugees. But this year, the arrival of more than 300 asylum seekers has split the community. Can the rift be healed?It’s Sunday morning and in the East...",
@@ -105,16 +112,16 @@
         "description": "Seven others found guilty of lesser charges in connection to incident in 2021 when inflatable dinghy sank killing at least 27 people with four more still missing A Paris court has jailed six ⁠men f...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "UK-France ‘one in one out’ deal to expire on Thursday, say sources",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/30/uk-france-one-in-one-out-deal-to-expire-on-thursday-say-sources",
-        "description": "Deal aimed at deterring small boat arrivals set to end as talks stall over French demand for EU-wide schemeUK politics live – latest updatesThe UK government’s “one in one out” deal with France, wh...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Matt Kean warns climate crisis ‘isn’t someone else’s problem’ as largest coal project in NSW history greenlit",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/02/hunter-valley-operations-coal-mine-extension-nsw",
+        "description": "Exclusive: Climate Change Authority chair says planning commission did not account for climate-related economic damage in NSWFollow our Australia news live blog for latest updatesSign up for climat...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Think more rain means more river water? Not necessarily",
         "url": "https://www.theguardian.com/news/2026/oct/01/rivers-water-rain-study",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "New UK gas and oil projects are a ‘no-brainer’, says EDF boss",
-        "url": "https://www.theguardian.com/business/2026/sep/30/uk-gas-and-oil-climate-crisis-energy-edf-boss",
-        "description": "Developing North Sea fields does not contradict net zero goals, according to Simone RossiNew oil and gas projects are a “no-brainer” that pose “no contradiction” to the net zero agenda, according t...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "The rare Bog Grass Moth found in nature reserve for first time",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gqnnm4ymdo?at_medium=RSS&at_campaign=rss",
-        "description": "Experts called it a \"special surprise\" to find an \"incredibly sparse moth\" in this habitat.",
+        "title": "Prince of Wales tells villagers 'holistic' approach is needed to tackle flooding",
+        "url": "https://www.bbc.co.uk/news/articles/cm1j4j9lxp49o?at_medium=RSS&at_campaign=rss",
+        "description": "Prince William visits residents of Skenfrith, Monmouthshire, who have faced four floods in six years.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting",
+        "url": "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting",
+        "description": "About 900 demonstrations, blockades and related incidents under way outside high schools around the countryA fast-growing protest by high-school students over long hours, teacher shortages and deca...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Extra Geography review – a wickedly funny lesson in sex, class and female friendship",
         "url": "https://www.theguardian.com/film/2026/oct/01/extra-geography-review-a-wickedly-funny-lesson-in-sex-class-and-female-friendship",
@@ -156,13 +163,6 @@
         "title": "MI5 China alert will send chill through UK’s cash-strapped universities",
         "url": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing",
         "description": "Institutions have for years turned to China for funding opportunities but national security concerns are mountingMI5 issues spy alert to UK universities over Chinese front company stealing research...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "MI5 warns UK universities over ‘theft of tech secrets by Chinese front company’",
-        "url": "https://www.theguardian.com/uk-news/2026/sep/30/mi5-issues-spy-alert-over-body-linked-chinese-state-stealing-vital-uk-research-universities",
-        "description": "Security service says academics should stop working with and taking grants from firm backed by Chinese intelligenceMI5 China alert will send chill through UK’s cash-strapped universitiesMI5 has iss...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "US death row inmate survives execution attempt after two lethal injections",
-        "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-        "description": "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital.",
+        "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
+        "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
+        "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-        "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-        "description": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
+        "title": "What happened in the failed execution of Christa Pike - and what next?",
+        "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+        "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "What we know about stabbing on Flydubai flight to Israel",
-        "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-        "description": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+        "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+        "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
         "source": "BBC News",
         "category": "foreign_policy"
       }
