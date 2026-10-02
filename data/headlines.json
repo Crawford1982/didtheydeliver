@@ -1,74 +1,67 @@
 {
-  "fetched_at": "2026-10-02T11:54:57.610111+00:00",
+  "fetched_at": "2026-10-02T17:30:08.086669+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Polanski says Greens ‘have turned hope into electoral wins’ ahead of conference speech – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/02/zack-polanski-green-party-conference-speech-kemi-badenoch-andy-burnham-general-election-latest-news-updates",
-        "description": "The Green party is holding its largest-ever conference, while its leader runs as a candidate in the Holborn and St Pancras byelectionZack Polanski also insisted his authority as leader of the Green...",
+        "title": "Burnham to pass law scrapping pension triple lock before next election",
+        "url": "https://www.theguardian.com/politics/2026/oct/02/burnham-law-pension-triple-lock",
+        "description": "Guarantee will remain until 2030 but MPs will vote on changes during this parliament, government saysAndy Burnham will pass legislation to scrap the state pension triple lock in this parliament, ev...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "England school inspections to be overhauled again after barrage of complaints",
+        "url": "https://www.theguardian.com/education/2026/oct/02/school-inspections-england-ofsted-overhaul-complaints",
+        "description": "Exclusive: Education secretary sends Ofsted back to ‘drawing board’ as teachers raise serious concerns about new systemSchool inspections in England will be overhauled for the second time in a year...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "Polanski says he does not need to win ‘50/50’ byelection to stay Green leader",
         "url": "https://www.theguardian.com/politics/2026/oct/02/polanski-green-leader-authority-byelection-holborn-pancras",
-        "description": "Exclusive: Party leader says outcome of ‘knife edge’ vote in Keir Starmer’s former seat will not affect his positionUK politics live – latest updatesZack Polanski has said his authority as leader o...",
+        "description": "Exclusive: Party leader says outcome of ‘knife-edge’ vote in Keir Starmer’s former seat will not affect his positionZack Polanski has said his authority as leader of the Green party of England and ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Drumcree talks break up without agreement on fifth day of standoff",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/02/drumcree-talks-no-agreement-northern-ireland",
-        "description": "Dispute over march will go to legal appeal on Monday after talks hosted by Northern Ireland secretary endTalks aimed at resolving the Drumcree parade dispute have broken up without agreement, with ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Zack Polanski to call for three-year cap on private rent rises",
-        "url": "https://www.bbc.co.uk/news/articles/cq74e4jg9leno?at_medium=RSS&at_campaign=rss",
-        "description": "In his speech to his party's conference, the Green leader will frame housing as a key issue of generational fairness.",
+        "title": "Greens can move Labour in the right direction, says Polanski",
+        "url": "https://www.bbc.co.uk/news/articles/cmx239469krpo?at_medium=RSS&at_campaign=rss",
+        "description": "The Green leader tells his autumn conference that a vote for his party can force changes from Andy Burnham.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Diesel hits £2 a litre for first time; eurozone inflation rate surges to 3.8% – business live",
+        "title": "John Maynard Keynes: the cultured economist who governments turn to in a crisis",
+        "url": "https://www.theguardian.com/business/2026/oct/02/john-maynard-keynes-the-cultured-economist-who-governments-turn-to-in-a-crisis",
+        "description": "A new play about the art-loving Bloomsbury Group member speaks of the enduring battle of ideas with his free-market rival Friedrich HayekThe sound of guns from the advancing German armies could be ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Nasdaq hits record high after weaker-than-expected US jobs report – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsUK diesel price hits record high of £2 a litreCore inflation in the eurozone also inched up last month.Inflation, excluding energy, food, a...",
+        "description": "US economy only added 29,000 jobs in September, which might deter the Federal Reserve from raising interest ratesUS added just 29,000 jobs in September in sharp drop from last month’s gainsCore inf...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "UK diesel price hits record high of £2 a litre",
-        "url": "https://www.theguardian.com/money/2026/oct/02/uk-diesel-price-record-high-iran-war-oil",
-        "description": "Motorists and small businesses struggle with costs as Iran war drives up cost of oil worldwide‘Half my day’s pay goes to filling up my car’Business live – latest updatesBritish motorists face more ...",
+        "title": "US added just 29,000 jobs in September in sharp drop from last month’s gains",
+        "url": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report",
+        "description": "Final jobs report before the midterm elections also shows the US unemployment rate rose slightly to 4.2%US employers added just 29,000 jobs in September, a sharp drop from last month’s gains, and u...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "US borrowing costs hit 24-year high as global bond sell-off intensifies",
-        "url": "https://www.theguardian.com/business/2026/oct/01/global-bond-sell-off-uk-long-term-borrowing-costs-us-bond-yield",
-        "description": "Fears that US deficit is unsustainable also drive UK 30-year bond yields briefly above 6% for first time since 1998Business live – latest updatesThe global bond sell-off intensified on Thursday, dr...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "'It could cost me £10k but I need the money now': Why Gen Z are opting out of pensions",
-        "url": "https://www.bbc.co.uk/news/articles/c68xk0ndqz8jo?at_medium=RSS&at_campaign=rss",
-        "description": "A growing number of people are opting out of these schemes due to cost-of-living pressures.",
+        "title": "US jobs market sees sharp slowdown ahead of midterm elections",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+        "description": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
-      {
-        "title": "It’s cruel to delay ADHD and autism assessments for children | Letter",
-        "url": "https://www.theguardian.com/society/2026/oct/01/its-cruel-to-delay-adhd-and-autism-assessments-for-children",
-        "description": "Anna Bird says the decision by some NHS integrated care boards to impose a two-year minimum wait is harmful to young people and their familiesBlocking assessments of children with neurodivergent co...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
       {
         "title": "Flipping public opinion on the triple lock was Burnham magic – he’ll need more of it to see his social care plans through | Polly Toynbee",
         "url": "https://www.theguardian.com/commentisfree/2026/oct/01/andy-burnham-public-opinion-triple-lock-social-care",
@@ -80,6 +73,13 @@
         "title": "Specialist services are vital to help people with ME/CFS | Letter",
         "url": "https://www.theguardian.com/society/2026/oct/01/specialist-services-are-vital-to-help-people-with-me-cfs",
         "description": "Readers respond to George Monbiot’s article about how those with myalgic encephalomyelitis, or chronic fatigue syndrome, have been failed by the health systemGeorge Monbiot (Abandoned, dismissed an...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "It’s cruel to delay ADHD and autism assessments for children | Letter",
+        "url": "https://www.theguardian.com/society/2026/oct/01/its-cruel-to-delay-adhd-and-autism-assessments-for-children",
+        "description": "Anna Bird says the decision by some NHS integrated care boards to impose a two-year minimum wait is harmful to young people and their familiesBlocking assessments of children with neurodivergent co...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -137,32 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "How to see the Orionid meteor shower from Friday",
-        "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
-        "description": "Friday sees the start of the Orionid meteor shower as Earth passes through debris left behind by Halley’s Comet. It peaks later in October.",
+        "title": "How to move 1,300 plants for Kew's Palm House mega makeover",
+        "url": "https://www.bbc.co.uk/news/videos/c914d43gg2zdo?at_medium=RSS&at_campaign=rss",
+        "description": "The world-famous Palm House at the Royal Botanic Gardens Kew in London is about to undergo a massive makeover.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "‘My GCSEs were exhausting’: Patrick McCabe’s success reveals the limits of Send tech",
+        "url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
+        "description": "It took 16-year-old from Cheshire, who has cerebral palsy, four months to complete his seven examsPatrick McCabe is instantly recognisable in the early autumn sunshine, his wheelchair surrounded by...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "England school inspections to be overhauled again after barrage of complaints",
+        "url": "https://www.theguardian.com/education/2026/oct/02/school-inspections-england-ofsted-overhaul-complaints",
+        "description": "Exclusive: Education secretary sends Ofsted back to ‘drawing board’ as teachers raise serious concerns about new systemSchool inspections in England will be overhauled for the second time in a year...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting",
         "url": "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting",
         "description": "About 900 demonstrations, blockades and related incidents under way outside high schools around the countryA fast-growing protest by high-school students over long hours, teacher shortages and deca...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Extra Geography review – a wickedly funny lesson in sex, class and female friendship",
-        "url": "https://www.theguardian.com/film/2026/oct/01/extra-geography-review-a-wickedly-funny-lesson-in-sex-class-and-female-friendship",
-        "description": "A boarding-school escapade becomes a wonderfully acted coming-of-age comedy, as two best friends find their world threatened by desire and adulthoodRose Tremain’s autobiographical short story, insp...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "MI5 China alert will send chill through UK’s cash-strapped universities",
-        "url": "https://www.theguardian.com/education/2026/sep/30/mi5-china-alert-uk-universities-funding-financing",
-        "description": "Institutions have for years turned to China for funding opportunities but national security concerns are mountingMI5 issues spy alert to UK universities over Chinese front company stealing research...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -176,39 +176,39 @@
         "category": "housing"
       },
       {
-        "title": "How Europe’s housing crisis is fuelling a new movement",
-        "url": "https://www.theguardian.com/world/2026/sep/30/how-europes-housing-crisis-is-fuelling-a-new-movement",
-        "description": "As soaring rents and house prices across Europe​ feed into the political discourse, campaigners believe they have a rare opportunity to force housing to the top of the agenda• Don’t get This Is Eur...",
+        "title": "Spanish right wing votes down housing crisis plans as protest movement grows",
+        "url": "https://www.theguardian.com/world/2026/oct/02/spanish-right-wing-votes-down-housing-crisis-plans-protest-movement-grows",
+        "description": "Opposition lawmakers join forces to defeat proposals made by Socialist-led coalition after eviction of 87-year-oldRightwing lawmakers in Spain have joined forces to reject emergency measures put fo...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "It shouldn’t take the eviction of an 87-year-old to get Spain’s housing crisis fixed | María Ramírez",
-        "url": "https://www.theguardian.com/commentisfree/2026/sep/30/it-shouldnt-take-the-eviction-of-an-87-year-old-to-get-spains-housing-crisis-fixed",
-        "description": "Pédro Sanchez is an admirer of Zohran Mamdani. It’s time Spanish politicians emulated the New York mayor’s relentless focus on affordable homesMaricarmen Abascal is a determined woman who uses a wh...",
+        "title": "How Europe’s housing crisis is fuelling a new movement",
+        "url": "https://www.theguardian.com/world/2026/sep/30/how-europes-housing-crisis-is-fuelling-a-new-movement",
+        "description": "As soaring rents and house prices across Europe​ feed into the political discourse, campaigners believe they have a rare opportunity to force housing to the top of the agenda• Don’t get This Is Eur...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
+        "title": "Riot police clash with students as education protests rage in France",
+        "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+        "description": "More than 600 schools have faced disruption as protests over standards and lack of teachers continue.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Woman at centre of Cornell rape inquiry was 'failed' by officials, says New York governor",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg04718lr9o?at_medium=RSS&at_campaign=rss",
+        "description": "The woman, known as Jane Doe, alleges she was raped by seven students at a fraternity house at the university in 2024.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
         "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
         "description": "Capt Smit Machchhar tells Indian Prime Minister Narendra Modi he opened the cockpit door to let others in during the attack.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-        "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-        "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "A 'dark cloud' and 'dismal' mood: How it feels on Cornell campus right now",
-        "url": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
-        "description": "Students tell the BBC that the tension on campus has become palpable since allegations from 2024 resurfaced.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
