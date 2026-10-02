@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T22:21:33.475540+00:00",
+  "fetched_at": "2026-10-02T04:09:37.912471+00:00",
   "headlines": {
     "government": [
       {
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "What's gone wrong at Nike? How the world's sportswear giant lost its mojo",
-        "url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss",
-        "description": "Several self-inflicted mistakes have cost the biggest sportswear brand on the planet in recent years.",
+        "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+        "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Inside India's forest villages, where a dangerous mix of crises led to 32 child deaths",
-        "url": "https://www.bbc.co.uk/news/articles/cmn9wr84v1qno?at_medium=RSS&at_campaign=rss",
-        "description": "At least 32 children have died in India's Balaghat district since May amid outbreaks of measles and malaria.",
+        "title": "Coroner warns of risk of future deaths at mental health unit where patient was killed",
+        "url": "https://www.bbc.co.uk/news/articles/cqn747k6pem0o?at_medium=RSS&at_campaign=rss",
+        "description": "Hugo Flint-Cahan, 34, was fatally attacked by Rolando Torres-Pena, 22, at a mental health trust in east London.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
+        "title": "May heatwaves, deaths, ruined harvests: study of Europe’s summer paints grim picture for the future",
+        "url": "https://www.theguardian.com/environment/2026/oct/02/may-heatwaves-deaths-ruined-harvests-study-of-europes-summer-paints-grim-picture-for-the-future",
+        "description": "EU Copernicus report shows surface air temperatures from June to August were 2.5C above decadal averageThe scorching heat that persistently baked western Europe this summer was the worst on record,...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "US states and cities sue over Trump EPA’s repeal of emissions rules",
+        "url": "https://www.theguardian.com/environment/2026/oct/01/us-states-cities-trump-epa-climate-emissions",
+        "description": "Democratic-led coalition says gutting key protections will set US back decades and worsen climate crisisStates and cities sued the Trump administration on Thursday for repealing rules that limit pl...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Matt Kean warns climate crisis ‘isn’t someone else’s problem’ as largest coal project in NSW history greenlit",
         "url": "https://www.theguardian.com/australia-news/2026/oct/02/hunter-valley-operations-coal-mine-extension-nsw",
         "description": "Exclusive: Climate Change Authority chair says planning commission did not account for climate-related economic damage in NSWFollow our Australia news live blog for latest updatesSign up for climat...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Think more rain means more river water? Not necessarily",
-        "url": "https://www.theguardian.com/news/2026/oct/01/rivers-water-rain-study",
-        "description": "Some rivers are receiving more rain than before but have lower water flow, according to a studyMore rain and snow equals more water in rivers, right? Not necessarily. A new study shows that, despit...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘Explosion of melt rates’: 20% of Swiss glaciers lost in five years",
-        "url": "https://www.theguardian.com/environment/2026/oct/01/switzerland-glacier-loss-fossil-fuel-pollution-europe",
-        "description": "Alpine regions in Europe experiencing extreme glacier collapse due to heat-trapping effects of fossil fuel pollutionSwitzerland has lost almost one-fifth of its ice in just five years, research has...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+        "description": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
         "url": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
         "description": "Pike’s lawyers have asked for her death sentence to be commuted following the botched execution.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "What happened in the failed execution of Christa Pike - and what next?",
-        "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-        "description": "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-        "description": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+        "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
+        "url": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
+        "description": "The governor said she'd lost faith in prosecutors overseeing the case and handed it over to New York Attorney General Letitia James.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
