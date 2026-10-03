@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T21:50:21.908229+00:00",
+  "fetched_at": "2026-10-03T03:52:34.421076+00:00",
   "headlines": {
     "government": [
       {
@@ -40,6 +40,13 @@
         "category": "economy"
       },
       {
+        "title": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
+        "url": "https://www.theguardian.com/business/2026/oct/02/doj-fed-chair-jerome-powell-investigation",
+        "description": "Kevin Warsh’s predecessor had been investigated over cost overruns related to central bank renovation projectThe US ⁠justice department is not reopening a criminal investigation into former Federal...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Nasdaq hits record high after weaker-than-expected US jobs report – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/oct/02/french-bond-sell-off-euro-crisis-cuts-tax-rises-eurozone-inflation-us-jobs-report-latest-news-updates",
         "description": "US economy only added 29,000 jobs in September, which might deter the Federal Reserve from raising interest ratesUS added just 29,000 jobs in September in sharp drop from last month’s gainsCore inf...",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "US added just 29,000 jobs in September in sharp drop from last month’s gains",
-        "url": "https://www.theguardian.com/business/2026/oct/02/september-jobs-report",
-        "description": "Final jobs report before the midterm elections also shows the US unemployment rate rose slightly to 4.2%US employers added just 29,000 jobs in September, a sharp drop from last month’s gains, and u...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
         "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-        "description": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+        "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Bangkok at breaking point as floods turn streets into stagnant lakes",
+        "url": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
+        "description": "With 40 dead and a disaster declared across all 50 city districts, experts warn extreme flooding will only worsen across south-east AsiaBangkok is used to absorbing the sudden afternoon downpours t...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "May heatwaves, deaths, ruined harvests: study of Europe’s summer paints grim picture for the future",
         "url": "https://www.theguardian.com/environment/2026/oct/02/may-heatwaves-deaths-ruined-harvests-study-of-europes-summer-paints-grim-picture-for-the-future",
         "description": "EU Copernicus report shows surface air temperatures from June to August were 2.5C above decadal averageThe scorching heat that persistently baked western Europe this summer was the worst on record,...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Matt Kean warns climate crisis ‘isn’t someone else’s problem’ as largest coal project in NSW history greenlit",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/02/hunter-valley-operations-coal-mine-extension-nsw",
-        "description": "Exclusive: Climate Change Authority chair says planning commission did not account for climate-related economic damage in NSWFollow our Australia news live blog for latest updatesSign up for climat...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Hawaii's iconic 550-year-old Hōlei Sea Arch collapses",
-        "url": "https://www.bbc.co.uk/news/articles/crd6dy4xepgyo?at_medium=RSS&at_campaign=rss",
-        "description": "The lava rock formation protruding from the rocky cliffs of Volcanoes National Park crumbled some time last weekend.",
+        "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
+        "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
+        "description": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -194,14 +194,7 @@
       {
         "title": "G7 to release 100 million barrels of oil and diesel after Trump export ban threat",
         "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-        "description": "The coordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Riot police clash with students as education protests rage in France",
-        "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-        "description": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+        "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -209,6 +202,13 @@
         "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
         "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
         "description": "As of Thursday night, Pike remained critically ill and is being treated at a hospital in Nashville, Tennessee.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+        "description": "A lawyer for Jane Doe says she is \"not doing well\" amid attempts to uncover her identity.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
