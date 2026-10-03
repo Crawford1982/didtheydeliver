@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-10-03T11:08:10.850206+00:00",
+  "fetched_at": "2026-10-03T15:44:35.009521+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Greens would nationalise Thames and SE Water without paying compensation, says deputy leader – UK politics live",
+        "title": "Tories plan to extend cuts beyond £47bn previously pledged, leak reveals",
+        "url": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+        "description": "Exclusive: Shadow chancellor Andrew Griffith told party members last year he had discussed making further savings if they win next electionThe Conservatives are planning to make sweeping cuts beyon...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Greens would nationalise Thames and SE Water without paying compensation, says deputy leader – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/oct/03/green-party-conference-zack-polanski-uk-politics-latest-news-updates-labour-conservatives-reform",
-        "description": "Rachel Millward tells Brighton conference: ‘Forget compensation for shareholders and creditors, these are insolvent companies’Ali says Britain is a multiracial, multicultural democracy that needs t...",
+        "description": "This live blog is now closed, you can find more of our UK political coverage hereAli says Britain is a multiracial, multicultural democracy that needs to protect “everyone’s equal right to belong.”...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,38 +24,31 @@
         "category": "government"
       },
       {
-        "title": "'There’s no such thing as democracy': Yanis Varoufakis | Radical Thinking with Aditya Chakrabortty – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/oct/03/theres-no-such-thing-as-democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty-podcast",
-        "description": "Who is really in charge – the people or the markets? In the first episode of Radical Thinking, a new series from the Guardian, senior economics commentator Aditya Chakrabortty speaks to the former ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Widdecombe suspect charged with planning terror act against Farage",
-        "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
-        "description": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\".",
+        "title": "Greens would offer two-year jobs to unemployed under-24s",
+        "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
+        "description": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "John Maynard Keynes: the cultured economist who governments turn to in a crisis",
-        "url": "https://www.theguardian.com/business/2026/oct/02/john-maynard-keynes-the-cultured-economist-who-governments-turn-to-in-a-crisis",
-        "description": "A new play about the art-loving Bloomsbury Group member speaks of the enduring battle of ideas with his free-market rival Friedrich HayekThe sound of guns from the advancing German armies could be ...",
+        "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
+        "url": "https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs",
+        "description": "In the NHS as in the private sector, the measure of success should be customer satisfaction and not just box-tickingAndy Burnham said he wanted to “rewire” the economy. Then he seemed to slam on th...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Tories plan to extend cuts beyond £47bn previously pledged, leak reveals",
+        "url": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
+        "description": "Exclusive: Shadow chancellor Andrew Griffith told party members last year he had discussed making further savings if they win next electionThe Conservatives are planning to make sweeping cuts beyon...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
         "title": "‘There’s no such thing as democracy’: Yanis Varoufakis | Radical Thinking with Aditya Chakrabortty – podcast",
         "url": "https://www.theguardian.com/news/audio/2026/oct/03/democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty-podcast",
-        "description": "Who is really in charge – the people or the markets? In the first episode of Radical Thinking, a new series from the Guardian, senior economics commentator Aditya Chakrabortty speaks to the former ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "'There’s no such thing as democracy': Yanis Varoufakis | Radical Thinking with Aditya Chakrabortty – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/oct/03/theres-no-such-thing-as-democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty-podcast",
         "description": "Who is really in charge – the people or the markets? In the first episode of Radical Thinking, a new series from the Guardian, senior economics commentator Aditya Chakrabortty speaks to the former ...",
         "source": "The Guardian",
         "category": "economy"
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
+        "url": "https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs",
+        "description": "In the NHS as in the private sector, the measure of success should be customer satisfaction and not just box-tickingAndy Burnham said he wanted to “rewire” the economy. Then he seemed to slam on th...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Flipping public opinion on the triple lock was Burnham magic – he’ll need more of it to see his social care plans through | Polly Toynbee",
         "url": "https://www.theguardian.com/commentisfree/2026/oct/01/andy-burnham-public-opinion-triple-lock-social-care",
         "description": "Rebuilding a complex and broken system into one that’s fair for all, and in the face of steely opposition: that will be the PM’s real challengeHere is rare clearcut proof of the power of political ...",
@@ -73,13 +80,6 @@
         "title": "Specialist services are vital to help people with ME/CFS | Letter",
         "url": "https://www.theguardian.com/society/2026/oct/01/specialist-services-are-vital-to-help-people-with-me-cfs",
         "description": "Readers respond to George Monbiot’s article about how those with myalgic encephalomyelitis, or chronic fatigue syndrome, have been failed by the health systemGeorge Monbiot (Abandoned, dismissed an...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "It’s cruel to delay ADHD and autism assessments for children | Letter",
-        "url": "https://www.theguardian.com/society/2026/oct/01/its-cruel-to-delay-adhd-and-autism-assessments-for-children",
-        "description": "Anna Bird says the decision by some NHS integrated care boards to impose a two-year minimum wait is harmful to young people and their familiesBlocking assessments of children with neurodivergent co...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Southern California swelters as late-season heatwave smothers region",
+        "url": "https://www.theguardian.com/us-news/2026/oct/03/southern-california-late-season-heatwave",
+        "description": "Temperatures expected to hover around 100F in downtown LA and even hotter inland, raising concerns about wildfiresSouthern California faced scorching heatwaves this summer that made locals wonder w...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Worst ever outbreak of bluetongue hits British farms",
         "url": "https://www.theguardian.com/environment/2026/oct/03/bluetongue-hits-british-farmers",
         "description": "Climate crisis blamed as virus that originated in Africa spreads to livestock as far north as AberdeenshireBritish farmers are experiencing the worst bluetongue season on record, with the number of...",
@@ -126,13 +133,6 @@
         "title": "Bangkok at breaking point as floods turn streets into stagnant lakes",
         "url": "https://www.theguardian.com/world/2026/oct/03/bangkok-thailand-floods-breaking-point-stagnant-lakes",
         "description": "With 40 dead and a disaster declared across all 50 city districts, experts warn extreme flooding will only worsen across south-east AsiaBangkok is used to absorbing the sudden afternoon downpours t...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "May heatwaves, deaths, ruined harvests: study of Europe’s summer paints grim picture for the future",
-        "url": "https://www.theguardian.com/environment/2026/oct/02/may-heatwaves-deaths-ruined-harvests-study-of-europes-summer-paints-grim-picture-for-the-future",
-        "description": "EU Copernicus report shows surface air temperatures from June to August were 2.5C above decadal averageThe scorching heat that persistently baked western Europe this summer was the worst on record,...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,23 +169,23 @@
     ],
     "housing": [
       {
+        "title": "‘This can’t go on’: tens of thousands protest against housing crisis in Spain",
+        "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+        "description": "Demonstrators take to the streets of Madrid ⁠and other Spanish cities ⁠after ​new legislation fails to passTens of thousands of people have taken to the streets of Madrid ⁠and other Spanish cities ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "How an 87-year-old Spanish woman became the face of the fight for affordable housing – explainer",
+        "url": "https://www.theguardian.com/world/video/2026/oct/03/how-an-87-year-old-spanish-woman-became-the-face-of-the-fight-for-affordable-housing-explainer",
+        "description": "María del Carmen Abascal, 87, was evicted from her home, on a stretcher, after being given 30 minutes to gather her belongings.The Guardian's European community affairs correspondent, Ashifa Kassam...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "The American dream remains elusive in the valley that inspired East of Eden",
         "url": "https://www.theguardian.com/us-news/2026/oct/03/salinas-california-john-steinbeck",
         "description": "John Steinbeck’s hometown of Salinas is the least affordable city in the US for the middle class, a recent Brookings Institution analysis found Nestled between two mountain ranges at the crook of c...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Spanish right wing votes down housing crisis plans as protest movement grows",
-        "url": "https://www.theguardian.com/world/2026/oct/02/spanish-right-wing-votes-down-housing-crisis-plans-protest-movement-grows",
-        "description": "Opposition lawmakers join forces to defeat proposals made by Socialist-led coalition after eviction of 87-year-oldRightwing lawmakers in Spain have rejected emergency measures put forward to tackle...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "We would like to speak to homeless people in England living in temporary accommodation including B&Bs and hotels",
-        "url": "https://www.theguardian.com/society/2026/oct/02/homeless-people-england-temporary-accommodation-bbs-hotels",
-        "description": "How long have you been in this accommodation? What are the conditions like? Councils in England spent £2.93bn on temporary accommodation for homeless households between April 2025 and March 2026, r...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Russia strikes second major bridge in Kyiv, mayor says",
+        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-        "description": "The strike on Northern Bridge comes after repeat attacks on another major bridge in recent days.",
+        "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-        "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+        "title": "Protesters across Spain demand action over housing crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+        "description": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
