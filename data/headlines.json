@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-03T15:44:35.009521+00:00",
+  "fetched_at": "2026-10-03T20:36:24.690248+00:00",
   "headlines": {
     "government": [
       {
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Could El Niño mean there are no Atlantic hurricanes this year?",
-        "url": "https://www.bbc.co.uk/weather/articles/cwgkvyyg8115o?at_medium=RSS&at_campaign=rss",
-        "description": "For the first time in three decades there has not been a single Atlantic hurricane in September, normally the most active month.",
+        "title": "I'm a wildlife cameraman but 'special' rare sightings can still take me by surprise",
+        "url": "https://www.bbc.co.uk/news/articles/c6q8jly114j8o?at_medium=RSS&at_campaign=rss",
+        "description": "Wildlife cameraman Dan Abbot is caught off guard by a humpback whale, a rare sight in Welsh waters.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
+        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+        "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
         "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
         "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
@@ -202,13 +209,6 @@
         "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
         "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
         "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Protesters across Spain demand action over housing crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-        "description": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
