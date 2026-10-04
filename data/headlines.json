@@ -1,44 +1,37 @@
 {
-  "fetched_at": "2026-10-04T11:48:31.918219+00:00",
+  "fetched_at": "2026-10-04T16:27:59.251597+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Badenoch says Tories want policies ‘for everybody’ as she defends plan to let millionaires get free childcare – UK politics live",
+        "title": "Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’ – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
-        "description": "Conservative leader defends plan to extend free childcare to high earners, as Tory conference begins in Birmingham todayOn Friday the Times revealed that Katie Lam, the communities secretary, told ...",
+        "description": "Party formally adopts policy which equates Zionism with racism, as all Green party votes to adopt policy that equates Zionism with racismOn Friday the Times revealed that Katie Lam, the communities...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Court quashes block on mothers and children in Gaza joining families in UK",
-        "url": "https://www.theguardian.com/politics/2026/oct/04/court-quashes-block-on-mothers-and-children-in-gaza-joining-families-in-uk",
-        "description": "Immigration court judge finds Unsafe Journeys Policy was applied unlawfully to two familiesA decision by the Home Office to block mothers and children in Gaza from joining their families in the UK ...",
+        "title": "Green party votes to adopt policy that equates Zionism with racism",
+        "url": "https://www.theguardian.com/politics/2026/oct/04/green-party-votes-adopt-policy-zionism-racism",
+        "description": "Motion calling for single Palestinian state, which is opposed by most Green MPs and expected to be challenged, passes by 1,022 votes to 813UK politics live – latest updatesThe Greens in England and...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Jacob Rees-Mogg accuses Tucker Carlson of ‘verging on defending Hitler’",
-        "url": "https://www.theguardian.com/us-news/2026/oct/04/jacob-rees-mogg-tucker-carlson-adolf-hitler-second-world-war-uk-armed-forces-vladimir-putin",
-        "description": "Former Tory minister defends UK decision to enter war in podcast with US rightwinger and Putin sympathiserThe former Tory minister Jacob Rees-Mogg has found himself defending Britain’s decision to ...",
+        "title": "Nigel Farage questioned by standards commissioner over £5m gift",
+        "url": "https://www.theguardian.com/politics/2026/oct/04/nigel-farage-questioned-by-standards-commissioner-over-gift-reform-uk",
+        "description": "Reform UK leader was interviewed for half an hour last month over money from crypto billionaireNigel Farage has been interviewed by the standards commissioner for an investigation into whether he s...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Badenoch unveils plan to end £100,000 childcare 'cliff edge' ahead of Tory conference",
-        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
-        "description": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\".",
+        "title": "Green Party members back 'Zionism is racism' motion",
+        "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+        "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
-      {
-        "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
-        "url": "https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs",
-        "description": "In the NHS as in the private sector, the measure of success should be customer satisfaction and not just box-tickingAndy Burnham said he wanted to “rewire” the economy. Then he seemed to slam on th...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
       {
         "title": "Burnham’s plans for social care and its workers are admirable but changes must come quickly | Heather Stewart",
         "url": "https://www.theguardian.com/business/2026/oct/04/andy-burnham-plans-social-care-workers-changes",
@@ -50,6 +43,13 @@
         "title": "UK car industry faces ‘difficult trade-off’ between Chinese and EU markets",
         "url": "https://www.theguardian.com/business/2026/oct/04/uk-car-industry-trade-off-china-made-in-europe-laws",
         "description": "Britain under pressure to put tariffs on cheap Chinese vehicle imports ahead of protectionist trade measuresBritain’s car industry is grappling with a “difficult trade-off” between China and Europe...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
+        "url": "https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs",
+        "description": "In the NHS as in the private sector, the measure of success should be customer satisfaction and not just box-tickingAndy Burnham said he wanted to “rewire” the economy. Then he seemed to slam on th...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Court quashes block on mothers and children in Gaza joining families in UK",
+        "url": "https://www.theguardian.com/politics/2026/oct/04/court-quashes-block-on-mothers-and-children-in-gaza-joining-families-in-uk",
+        "description": "Immigration court judge finds ‘unsafe journeys’ policy was applied unlawfully to two familiesA decision by the Home Office to block mothers and children in Gaza from joining their families in the U...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Ninety years on, the lessons of the antifascist battle of Cable Street have never felt more relevant | Sarah Sackman",
         "url": "https://www.theguardian.com/commentisfree/2026/oct/04/ninety-years-antifascist-battle-cable-street-divide-fight-security",
         "description": "With sectarian forces increasingly seeking to divide us, we must come together to fight for security, fairness and toleranceSarah Sackman is the Labour MP for Finchley and Golders Green“No pasarán!...",
@@ -105,16 +112,16 @@
         "description": "Agreement expected to end on Thursday after running for 423 days, during which it has been beset by problemsUK politics live – latest updatesThe UK government’s “one in, one out” deal with France, ...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "It was the most welcoming town in Britain. Why has Crowborough become so divided?",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/01/crowborough-divided-immigration-asylum-seekers",
-        "description": "In 2022, they opened their arms to Ukrainian refugees. But this year, the arrival of more than 300 asylum seekers has split the community. Can the rift be healed?It’s Sunday morning and in the East...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Australia and Turkey criticised for hosting UN climate conference while embracing coal",
+        "url": "https://www.theguardian.com/environment/2026/oct/05/australia-and-turkey-criticised-for-hosting-un-climate-conference-while-embracing-coal",
+        "description": "Global campaign group 350.org urges Cop31 hosts to announce a coal phase-out date and national roadmaps to get off fossil fuelsSign up for climate and environment editor Adam Morton’s free Clear Ai...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Revealed: Government quietly dropped plan to prepare England for wildfires",
         "url": "https://www.theguardian.com/world/2026/oct/04/government-dropped-plan-england-countryside-wildfires",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Worst ever outbreak of bluetongue hits British farms",
-        "url": "https://www.theguardian.com/environment/2026/oct/03/bluetongue-hits-british-farmers",
-        "description": "Climate crisis blamed as virus that originated in Africa spreads to livestock as far north as AberdeenshireBritish farmers are experiencing the worst bluetongue season on record, with the number of...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Queen's University students blast off to US for Nasa robotics competition",
         "url": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss",
         "description": "The students will head to Florida to compete against university teams from Australia, India and the US.",
@@ -146,23 +146,23 @@
     ],
     "education": [
       {
-        "title": "‘Just like my big brothers’: boy with cerebral palsy passes GCSEs with eye-tracking technology",
-        "url": "https://www.theguardian.com/education/2026/oct/02/patrick-mccabe-success-cheshire-reveals-limits-send-tech",
-        "description": "Patrick McCabe’s herculean feat shows limits and possibilities of special educational needs and disabilities systemPatrick McCabe is instantly recognisable in the early autumn sunshine, his wheelch...",
+        "title": "Thousands of child-on-child sexual offences reported at schools in England and Wales",
+        "url": "https://www.theguardian.com/education/2026/oct/04/child-on-child-sexual-abuse-schools-england-and-wales",
+        "description": "Exclusive: Average of nearly five sexual crimes a day against under-13s were reported to police between 2021 and 2025From unwanted touching to rape: the scale of child-on-child abuse in English and...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "England school inspections to be overhauled again after barrage of complaints",
-        "url": "https://www.theguardian.com/education/2026/oct/02/school-inspections-england-ofsted-overhaul-complaints",
-        "description": "Exclusive: Education secretary sends Ofsted back to ‘drawing board’ as teachers raise serious concerns about new systemSchool inspections in England will be overhauled for the second time in a year...",
+        "title": "From unwanted touching to rape: the scale of child-on-child abuse in English and Welsh schools",
+        "url": "https://www.theguardian.com/education/2026/oct/04/children-schools-struggle-cope-sexual-abuse-england-wales",
+        "description": "Ten years after full extent of problem was revealed, Guardian investigation finds schools facing uphill battle amid rapid societal changesThousands of child-on-child sexual offences reported at sch...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "France school protests escalate into ‘urban violence’ as PM calls crisis cabinet meeting",
-        "url": "https://www.theguardian.com/world/2026/oct/01/france-school-protests-escalate-pm-crisis-cabinet-meeting",
-        "description": "About 900 demonstrations, blockades and related incidents under way outside high schools around the countryA fast-growing protest by high-school students over long hours, teacher shortages and deca...",
+        "title": "More than 1,200 Colorado students have earned a climate ‘seal’: ‘We’re the ones growing up in this world’",
+        "url": "https://www.theguardian.com/us-news/2026/oct/04/colorado-climate-high-school-students",
+        "description": "A statewide initiative pairs climate-focused coursework with community service – and is spreading to other statesAs a student at a high school not far from Denver’s main airport, Anthony Muñoz wond...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Australia investigating Flydubai co-pilot's links to country",
-        "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-        "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
+        "title": "Watch: What we know about Russian strikes on Kyiv bridges",
+        "url": "https://www.bbc.co.uk/news/videos/cmglwkyl9djyo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Ukraine correspondent Dan Johnson is near Kyiv's Northern Bridge, which has been hit for the second day in a row.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Tennessee prison chief to resign after Christa Pike's failed execution",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
-        "description": "Pike's lawyers said the failure \"goes far beyond any one person\". Pike is in critical condition after surviving two lethal injections.",
+        "title": "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+        "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+        "description": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
