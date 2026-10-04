@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-10-03T20:36:24.690248+00:00",
+  "fetched_at": "2026-10-04T04:24:17.111939+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Tories would expand free childcare to high earners, Badenoch says",
+        "url": "https://www.theguardian.com/politics/2026/oct/03/tories-plan-to-expand-free-childcare-to-high-earners-to-end-cliff-edge",
+        "description": "Kemi Badenoch says those earning more than £100,000 should not be discouraged from working moreThe Conservatives have unveiled a proposed £700m childcare giveaway for high earners ahead of their an...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Tories plan to extend cuts beyond £47bn previously pledged, leak reveals",
         "url": "https://www.theguardian.com/politics/2026/oct/03/conservatives-extend-cuts-andrew-griffith-leaked-comments",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "‘There’s no such thing as democracy’: Yanis Varoufakis | Radical Thinking with Aditya Chakrabortty – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/oct/03/democracy-yanis-varoufakis-radical-thinking-with-aditya-chakrabortty-podcast",
-        "description": "Who is really in charge – the people or the markets? In the first episode of Radical Thinking, a new series from the Guardian, senior economics commentator Aditya Chakrabortty speaks to the former ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Greens would offer two-year jobs to unemployed under-24s",
-        "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
-        "description": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\".",
+        "title": "Tories pledge to remove £100,000 childcare 'cliff edge'",
+        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
+        "description": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so.",
         "source": "BBC News",
         "category": "government"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
-        "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
-        "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+        "title": "Cornell president says university 'must do better' after frat house rape allegations",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
+        "description": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
-        "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
-        "description": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+        "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+        "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+        "description": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
