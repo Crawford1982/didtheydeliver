@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-10-04T20:53:07.461066+00:00",
+  "fetched_at": "2026-10-05T04:10:19.854604+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Tories to pledge to scrap Environment Agency and Natural England",
+        "url": "https://www.theguardian.com/politics/2026/oct/04/tories-scrap-environment-agency-natural-england-conservative-conference",
+        "description": "Shadow chancellor will also promise to scrap affordable homes regulations as part of strategy to refocus on growthThe Conservatives will announce a bonfire of regulations including abolishing affor...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Nearly all women arriving on small boats have been raped, says Shabana Mahmood",
         "url": "https://www.theguardian.com/uk-news/2026/oct/04/women-small-boats-raped-shabana-mahmood-asylum-migration",
@@ -17,14 +24,7 @@
         "category": "government"
       },
       {
-        "title": "As it happened: Israel condemns Green party passing ‘Zionism is racism’ as a ‘stain on history of UK’",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/04/conservatives-tories-conference-kemi-badenoch-james-cleverly-labour-jury-trials-green-party-zionism-uk-politics-latest-news-updates",
-        "description": "Party formally adopts policy which equates Zionism with racism, as all Green party votes to adopt policy that equates Zionism with racismOn Friday the Times revealed that Katie Lam, the communities...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Green Party members back 'Zionism is racism' motion",
+        "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
         "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
         "description": "The vote has caused divisions among figures at the top of the party at its conference in Brighton.",
         "source": "BBC News",
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
-        "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-        "description": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+        "title": "The job interview question you don't have to answer",
+        "url": "https://www.bbc.co.uk/news/articles/cje3r35p0qeno?at_medium=RSS&at_campaign=rss",
+        "description": "Experts explain what you should do if you are asked for your current salary during a job interview.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "British government ‘complacent about food as a national security matter’",
+        "url": "https://www.theguardian.com/business/2026/oct/05/british-government-food-national-security-crisis-shortages",
+        "description": "Experts say country does not have plan to feed people in a crisis and is unprepared for future shortagesBritain does not have a plan for how to feed people in a crisis and is unprepared for potenti...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Australia and Turkey criticised for hosting UN climate conference while embracing coal",
         "url": "https://www.theguardian.com/environment/2026/oct/05/australia-and-turkey-criticised-for-hosting-un-climate-conference-while-embracing-coal",
         "description": "Global campaign group 350.org urges Cop31 hosts to announce a coal phase-out date and national roadmaps to get off fossil fuelsSign up for climate and environment editor Adam Morton’s free Clear Ai...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Southern California swelters as late-season heatwave smothers region",
-        "url": "https://www.theguardian.com/us-news/2026/oct/03/southern-california-late-season-heatwave",
-        "description": "Temperatures expected to hover around 100F in downtown LA and even hotter inland, raising concerns about wildfiresSouthern California faced scorching heatwaves this summer that made locals wonder w...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Students blast off to US for Nasa robotics competition",
         "url": "https://www.bbc.co.uk/news/articles/cq20v0e7vjkgo?at_medium=RSS&at_campaign=rss",
         "description": "The students will head to Florida to compete against university teams from Australia, India and the US.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Children’s books with Black main characters down 8% in a year, study shows",
+        "url": "https://www.theguardian.com/books/2026/oct/05/childrens-books-with-black-main-characters-down-study-uk",
+        "description": "Only 150 of 2,189 titles published in UK for young children last year focused on minority ethnic, disabled or neurodivergent charactersThe number of children’s books featuring Black main characters...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Thousands of child-on-child sexual offences reported at schools in England and Wales",
         "url": "https://www.theguardian.com/education/2026/oct/04/child-on-child-sexual-abuse-schools-england-and-wales",
@@ -158,16 +165,16 @@
         "description": "Ten years after full extent of problem was revealed, Guardian investigation finds schools facing uphill battle amid rapid societal changesThousands of child-on-child sexual offences reported at sch...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "More than 1,200 Colorado students have earned a climate ‘seal’: ‘We’re the ones growing up in this world’",
-        "url": "https://www.theguardian.com/us-news/2026/oct/04/colorado-climate-high-school-students",
-        "description": "A statewide initiative pairs climate-focused coursework with community service – and is spreading to other statesAs a student at a high school not far from Denver’s main airport, Anthony Muñoz wond...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Tories to pledge to scrap Environment Agency and Natural England",
+        "url": "https://www.theguardian.com/politics/2026/oct/04/tories-scrap-environment-agency-natural-england-conservative-conference",
+        "description": "Shadow chancellor will also promise to scrap affordable homes regulations as part of strategy to refocus on growthThe Conservatives will announce a bonfire of regulations including abolishing affor...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "The Guardian view on trapped leaseholders: Labour must keep its promise to set them free | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/oct/04/the-guardian-view-on-trapped-leaseholders-labour-must-keep-its-promise-to-set-them-free",
@@ -179,13 +186,6 @@
         "title": "‘This can’t go on’: tens of thousands protest against housing crisis in Spain",
         "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
         "description": "Demonstrators take to the streets of Madrid ⁠and other Spanish cities ⁠after ​new legislation fails to passTens of thousands of people have taken to the streets of Madrid ⁠and other Spanish cities ...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "How an 87-year-old Spanish woman became the face of the fight for affordable housing – explainer",
-        "url": "https://www.theguardian.com/world/video/2026/oct/03/how-an-87-year-old-spanish-woman-became-the-face-of-the-fight-for-affordable-housing-explainer",
-        "description": "María del Carmen Abascal, 87, was evicted from her home, on a stretcher, after being given 30 minutes to gather her belongings.The Guardian's European community affairs correspondent, Ashifa Kassam...",
         "source": "The Guardian",
         "category": "housing"
       }
