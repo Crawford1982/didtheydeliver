@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-10-05T13:39:36.479562+00:00",
+  "fetched_at": "2026-10-05T23:45:31.424795+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Why Kemi Badenoch embraces being the leader of the ‘nasty party’ – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/oct/05/kemi-badenoch-conservative-leader-nasty-party-podcast",
-        "description": "Kemi Badenoch is kicking off Conservative party conference with a little bounce in her step and her personal poll ratings improved. But critics will say that as she embraces the nasty party accusat...",
+        "title": "Jeffrey Archer, former Conservative politician and novelist, dies aged 86",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/05/jeffrey-archer-former-conservative-politician-and-novelist-dies-aged-86",
+        "description": "Publisher says author died peacefully at home ‘between writing sessions’Jeffrey Archer, the bestselling author and former MP whose political career ended in disgrace when he was imprisoned for perj...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "No 10 insists RAF Fairford is safe after US withdraws its bombers – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
-        "description": "Downing Street offered more details about the redeployment of US bombers from the British airbaseYesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of water (“0% strengt...",
+        "title": "Conservatives propose £10bn ‘Britannia Shield’ inspired by Israel’s Iron Dome",
+        "url": "https://www.theguardian.com/politics/2026/oct/05/conservatives-britannia-shield-israel-iron-dome",
+        "description": "Party to unveil plans for one of UK’s ‘most significant military programmes since the cold war’ The Conservatives will announce plans to build a £10bn British “Iron Dome” similar to Israel’s air an...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Head of Jewish Greens says she may leave party over ‘Zionism is racism’ vote",
-        "url": "https://www.theguardian.com/politics/2026/oct/05/head-of-jewish-greens-says-she-may-leave-party-over-zionism-is-racism-vote",
-        "description": "Vivien Lichtenstein says she believes motion is unhelpful as anger grows over Zack Polanski’s absence for voteUK politics live – latest updatesThe head of the Jewish Greens has said she may leave t...",
+        "title": "Green party of England and Wales facing international ostracism over ‘Zionism is racism’ vote",
+        "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-england-wales-zionism-racism-vote-europe-germany",
+        "description": "European Green party says motion goes against its policy, with German Green co-leader calling it ‘intolerable and unacceptable’Zack Polanski may rue lack of leadership when Greens needed him to act...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "description": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham.",
+        "title": "Tories pledge £10bn 'Britannia Shield' air defence system",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "description": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Average five-year mortgage rate hits 6% for first time in three years",
-        "url": "https://www.bbc.co.uk/news/articles/c8r4yxpry5e9o?at_medium=RSS&at_campaign=rss",
-        "description": "The cost of a new fixed-rate mortgage has been rising in recent weeks as lenders face higher costs.",
+        "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
+        "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
+        "description": "A growing number of parents are opening retirement funds for their children.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Medicine shortages will result if drug prices are driven too low | Letter",
+        "url": "https://www.theguardian.com/business/2026/oct/05/medicine-shortages-will-result-if-drug-prices-are-driven-too-low",
+        "description": "Amanda Cole says the government needs to weigh the cost of medicines against the damage that a shortage can cause to the NHS and patientsWithout decisive government action, the reported medicine sh...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Good palliative care and assisted dying can go hand in hand | Letters",
         "url": "https://www.theguardian.com/society/2026/oct/04/good-palliative-care-and-assisted-dying-can-go-hand-in-hand",
@@ -73,13 +80,6 @@
         "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
         "url": "https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs",
         "description": "In the NHS as in the private sector, the measure of success should be customer satisfaction and not just box-tickingAndy Burnham said he wanted to “rewire” the economy. Then he seemed to slam on th...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Flipping public opinion on the triple lock was Burnham magic – he’ll need more of it to see his social care plans through | Polly Toynbee",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/01/andy-burnham-public-opinion-triple-lock-social-care",
-        "description": "Rebuilding a complex and broken system into one that’s fair for all, and in the face of steely opposition: that will be the PM’s real challengeHere is rare clearcut proof of the power of political ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -100,25 +100,32 @@
         "category": "immigration"
       },
       {
-        "title": "Nearly all women arriving on small boats have been raped, says Shabana Mahmood",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/04/women-small-boats-raped-shabana-mahmood-asylum-migration",
-        "description": "Home secretary warns people traffickers will exploit asylum seekers because they decide who comes to the UKNearly all women who try to reach the UK in small boats from northern France have been rap...",
+        "title": "Tory shadow minister claims Luton has ‘no-go zones’ where ‘white people won’t go’",
+        "url": "https://www.theguardian.com/politics/2026/oct/05/tory-shadow-minister-luton-no-go-zones-white-people-blake-stephenson",
+        "description": "Blake Stephenson tells fringe meeting at Tory conference that the town is ‘a very dangerous place’ with ‘ghettoes’A shadow Conservative Home Office minister has claimed there are “no-go zones” in L...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Labour offers too litte, too late for Afghan women and girls | Letter",
-        "url": "https://www.theguardian.com/world/2026/oct/04/labour-offers-too-little-too-late-for-afghan-women-and-girls",
-        "description": "The home secretary’s language of ‘compassion’ and ‘international obligations’ is at odds with the party’s record in protecting vulnerable migrants, writes Eleanor LuxtonRegarding your article (UK t...",
+        "title": "Mel B ‘heartbroken’ by Windrush scandal victims’ fight for justice",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/05/mel-b-windrush-scandal-fight-for-justice-legal-support-commissioner",
+        "description": "Public figures back commissioner’s call for government commitment to funding legal support for those affectedThe singer and television personality Mel B has said she is “heartbroken” by the Windrus...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "No 10 insists RAF Fairford is safe after US withdraws its bombers – UK politics live",
+        "title": "US supreme court hears big oil’s bid to block climate damage lawsuits",
+        "url": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits",
+        "description": "How court will lean is unclear amid Suncor Energy and ExxonMobil’s attempt to stop lawsuits at state levelThe US supreme court began its new nine-month term hearing arguments on Monday in a major c...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Tory plan to cut energy efficiency rule for builders will cost new home owners £1,000 a year, says thinktank – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
-        "description": "Downing Street offered more details about the redeployment of US bombers from the British airbaseYesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of water (“0% strengt...",
+        "description": "A researcher at a climate change think tank says the Conservative policy would be a ‘disaster for first time buyers’Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -126,13 +133,6 @@
         "title": "Mixed start for pre-Cop as just two non-Pacific leaders accept Australian invitation to climate summit",
         "url": "https://www.theguardian.com/australia-news/2026/oct/05/mixed-start-for-pre-cop-as-just-two-non-pacific-leaders-accept-australian-invitation-to-climate-summit",
         "description": "Anthony Albanese joins about 4,000 people in Fiji for preparatory meeting for year-ending Cop31 UN climate summitSign up for climate and environment editor Adam Morton’s free Clear Air newsletter h...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Australia experiences second hottest September on record as El Niño and climate crisis combine",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/05/australia-weather-el-nino-climate-crisisseptember-record",
-        "description": "Alpine areas also experience record-breaking heat with snow depth recorded at zero in Kosciuszko national parkGet our breaking news email, free app or daily news podcastAustralia had its second hot...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Burnham urged to ‘end cycle of harm’ after scale of child-on-child sexual abuse revealed",
+        "url": "https://www.theguardian.com/society/2026/oct/05/burnham-urged-to-end-cycle-of-harm-after-scale-of-child-on-child-sexual-abuse-revealed",
+        "description": "Nearly 90 organisations write to PM urging him to take decisive action to end violence against women and girls• From unwanted touching to rape: the scale of child-on-child abuseA coalition of nearl...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Children’s books with Black main characters down 8% in a year, study shows",
         "url": "https://www.theguardian.com/books/2026/oct/05/childrens-books-with-black-main-characters-down-study-uk",
         "description": "Only 150 of 2,189 titles published in UK for young children last year focused on minority ethnic, disabled or neurodivergent charactersThe number of children’s books featuring Black main characters...",
@@ -158,20 +165,20 @@
         "description": "Exclusive: Average of nearly five sexual crimes a day against under-13s were reported to police between 2021 and 2025From unwanted touching to rape: the scale of child-on-child abuse in English and...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "From unwanted touching to rape: the scale of child-on-child abuse in English and Welsh schools",
-        "url": "https://www.theguardian.com/education/2026/oct/04/children-schools-struggle-cope-sexual-abuse-england-wales",
-        "description": "Ten years after full extent of problem was revealed, Guardian investigation finds schools facing uphill battle amid rapid societal changesThousands of child-on-child sexual offences reported at sch...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
       {
-        "title": "No 10 insists RAF Fairford is safe after US withdraws its bombers – UK politics live",
+        "title": "Tory plan to cut energy efficiency rule for builders will cost new home owners £1,000 a year, says thinktank – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
-        "description": "Downing Street offered more details about the redeployment of US bombers from the British airbaseYesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of water (“0% strengt...",
+        "description": "A researcher at a climate change think tank says the Conservative policy would be a ‘disaster for first time buyers’Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Peter and Maria were mourned by people who loved them. So how did they end up in unmarked communal graves?",
+        "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/06/nsw-unmarked-graves-communal-burial-plots-investigation",
+        "description": "Exclusive: Authorities are failing to notify family, friends and outreach workers before burying strangers in shared plots, a Guardian Australia investigation revealsHundreds of Australians, includ...",
         "source": "The Guardian",
         "category": "housing"
       },
@@ -181,20 +188,20 @@
         "description": "Cost of living crisis and drop in international students hits market for purpose-built accommodation“It was dead in the middle of summer, it was a shock,” says Nathalie Sriwiboonrattan. The fourth-...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Tories to pledge to scrap Environment Agency and Natural England",
-        "url": "https://www.theguardian.com/politics/2026/oct/04/tories-scrap-environment-agency-natural-england-conservative-conference",
-        "description": "Shadow chancellor will also promise to scrap affordable homes regulations as part of strategy to refocus on growthThe Conservatives will announce a bonfire of regulations including abolishing affor...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Spanish PM Sánchez calls early election after housing protests",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
-        "description": "Sánchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis.",
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+        "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "France braces for national day of school protests after injuries and mass arrests",
+        "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+        "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Flydubai co-pilot planned to crash plane into Tel Aviv airport or building, reports say",
         "url": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
         "description": "The Omani national was a \"lone wolf\" extremist, according to the reports.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-        "url": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-        "description": "The prefect of Pas-de-Calais says the 15-year-old's life is \"not in danger\" after the \"very serious\" incident.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
