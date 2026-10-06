@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-06T04:58:37.026359+00:00",
+  "fetched_at": "2026-10-06T12:46:42.372908+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Badenoch suggests Tories would not reverse Labour’s pensions triple lock legislation – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+        "description": "In his party conference speech last week, Andy Burnham said he wanted to change the triple lock uprating mechanism from 2030Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Badenoch denies ‘British Iron Dome’ plan – after Tories use phrase in press release",
+        "url": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
+        "description": "Tory leader says proposed ‘Britannia Shield’ would not be comparable to Israeli missile defence systemUK politics live – latest updatesKemi Badenoch has denied she compared a new air defence system...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Jeffrey Archer, former Conservative politician and novelist, dies aged 86",
         "url": "https://www.theguardian.com/uk-news/2026/oct/05/jeffrey-archer-former-conservative-politician-and-novelist-dies-aged-86",
         "description": "Publisher says author died peacefully at home ‘between writing sessions’Jeffrey Archer, the bestselling author and former MP whose political career ended in disgrace when he was imprisoned for perj...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Conservatives propose £10bn ‘Britannia Shield’ inspired by Israel’s Iron Dome",
-        "url": "https://www.theguardian.com/politics/2026/oct/05/conservatives-britannia-shield-israel-iron-dome",
-        "description": "Party to unveil plans for one of UK’s ‘most significant military programmes since the cold war’ The Conservatives will announce plans to build a £10bn British “Iron Dome” similar to Israel’s air an...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Green party of England and Wales facing international ostracism over ‘Zionism is racism’ vote",
-        "url": "https://www.theguardian.com/politics/2026/oct/05/green-party-england-wales-zionism-racism-vote-europe-germany",
-        "description": "European Green party says motion goes against its policy, with German Green co-leader calling it ‘intolerable and unacceptable’Zack Polanski may rue lack of leadership when Greens needed him to act...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "We're saving £100 a month into pensions for our toddler and baby - here's why",
-        "url": "https://www.bbc.co.uk/news/articles/cme3r9eq2w0lo?at_medium=RSS&at_campaign=rss",
-        "description": "A growing number of parents are opening retirement funds for their children.",
+        "title": "ASOS app users receive push notifications apparently sent by hackers",
+        "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
+        "description": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Nobel Prize awarded for revealing inner workings of the brain",
-        "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-        "description": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work.",
+        "title": "One million UK people who have never smoked are now vaping",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8ldgzj277o?at_medium=RSS&at_campaign=rss",
+        "description": "Latest statistics also show, for the second year in a row, more over-16s vape than smoke.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -100,21 +100,35 @@
         "category": "immigration"
       },
       {
+        "title": "‘Bully in every way’: domestic abuse survivors say ex-partners behind far-right UK street patrols",
+        "url": "https://www.theguardian.com/society/2026/oct/06/uk-domestic-abuse-survivors-ex-partners-behind-far-right-street-patrols",
+        "description": "Seven women share their stories to make people aware of patterns of violence behind anti-immigration street patrol movementDuring their relationship, Lisa’s ex-partner was controlling. He kept her ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Tory shadow minister claims Luton has ‘no-go zones’ where ‘white people won’t go’",
         "url": "https://www.theguardian.com/politics/2026/oct/05/tory-shadow-minister-luton-no-go-zones-white-people-blake-stephenson",
         "description": "Blake Stephenson tells fringe meeting at Tory conference that the town is ‘a very dangerous place’ with ‘ghettoes’A shadow Conservative Home Office minister has claimed there are “no-go zones” in L...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Mel B ‘heartbroken’ by Windrush scandal victims’ fight for justice",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/05/mel-b-windrush-scandal-fight-for-justice-legal-support-commissioner",
-        "description": "Public figures back commissioner’s call for government commitment to funding legal support for those affectedThe singer and television personality Mel B has said she is “heartbroken” by the Windrus...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Australia faces summer of extreme weather, Anthony Albanese warns at pre-Cop",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/06/agreement-to-transition-away-from-fossil-fuels-not-open-for-renegotiation-pacific-leader-tells-pre-cop",
+        "description": "Prime minister tells delegates in Tuvalu and Fiji that ‘super El Niño’ brewing in the Pacific shows climate change is ‘here right now’Anthony Albanese has warned Australia faces a hazardous summer,...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "US households pay 62% more for water than they did a decade ago, study finds",
+        "url": "https://www.theguardian.com/us-news/2026/oct/06/households-drinking-water-cost-study",
+        "description": "For-profit water corporations, federal cuts and climate crisis are ‘supercharging water rate hikes’, study co-author saysUS households are paying 62% more for drinking water than they did a decade ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "US supreme court hears big oil’s bid to block climate damage lawsuits",
         "url": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Tory plan to cut energy efficiency rule for builders will cost new home owners £1,000 a year, says thinktank – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
-        "description": "A researcher at a climate change think tank says the Conservative policy would be a ‘disaster for first time buyers’Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Mixed start for pre-Cop as just two non-Pacific leaders accept Australian invitation to climate summit",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/05/mixed-start-for-pre-cop-as-just-two-non-pacific-leaders-accept-australian-invitation-to-climate-summit",
-        "description": "Anthony Albanese joins about 4,000 people in Fiji for preparatory meeting for year-ending Cop31 UN climate summitSign up for climate and environment editor Adam Morton’s free Clear Air newsletter h...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Why are data centres such a big deal in Scotland?",
-        "url": "https://www.bbc.co.uk/news/articles/c6qxv55882z1o?at_medium=RSS&at_campaign=rss",
-        "description": "At least 23 huge data centres are planned in Scotland, causing significant concern for campaigners.",
+        "title": "'Ghost particles' from space telescope wins physics Nobel",
+        "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
+        "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Loss of green space could be issue that decides Holborn and St Pancras byelection",
+        "url": "https://www.theguardian.com/politics/2026/oct/06/holborn-st-pancras-byelection-green-spaces-hs2-housing-euston",
+        "description": "Labour could pay price for disappearance of parks and playgrounds around Euston stationWhen HS2 construction began around London’s Euston station in 2017 and people living nearby watched parks and ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Tory plan to cut energy efficiency rule for builders will cost new home owners £1,000 a year, says thinktank – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/oct/05/tory-party-conference-labour-reform-planning-economy-business-latest-news-updates",
         "description": "A researcher at a climate change think tank says the Conservative policy would be a ‘disaster for first time buyers’Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of...",
@@ -176,21 +183,21 @@
         "category": "housing"
       },
       {
-        "title": "Peter and Maria were mourned by people who loved them. So how did they end up in unmarked communal graves?",
+        "title": "Peter was buried in an unmarked communal grave. His friends and family say they didn’t know",
         "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/06/nsw-unmarked-graves-communal-burial-plots-investigation",
         "description": "Exclusive: Authorities are failing to notify family, friends and outreach workers before burying strangers in shared plots, a Guardian Australia investigation revealsHundreds of Australians, includ...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "‘I didn’t know what to do’: collapse of providers of high-end digs leaves students in shock",
-        "url": "https://www.theguardian.com/education/2026/oct/05/collapse-providers-high-end-student-accommodation",
-        "description": "Cost of living crisis and drop in international students hits market for purpose-built accommodation“It was dead in the middle of summer, it was a shock,” says Nathalie Sriwiboonrattan. The fourth-...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Former German spy chief arrested for espionage and treason",
+        "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
+        "description": "August Hanning is accused of obtaining classified information for a foreign power.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
         "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "France braces for national day of school protests after injuries and mass arrests",
-        "url": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
-        "description": "France prepares for a day of protests in support of students who’ve been demanding more investment in education.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-        "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
-        "description": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
+        "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+        "description": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
