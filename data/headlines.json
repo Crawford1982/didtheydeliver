@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-10-06T12:46:42.372908+00:00",
+  "fetched_at": "2026-10-06T22:21:10.699372+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Badenoch suggests Tories would not reverse Labour’s pensions triple lock legislation – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
-        "description": "In his party conference speech last week, Andy Burnham said he wanted to change the triple lock uprating mechanism from 2030Asked if she will propose tax cuts in her speech tomorrow, Badenoch tells...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Badenoch denies ‘British Iron Dome’ plan – after Tories use phrase in press release",
+        "title": "Badenoch denies plan for ‘British Iron Dome’ – after Tories use phrase in press release",
         "url": "https://www.theguardian.com/politics/2026/oct/06/badenoch-british-iron-dome-plan-tory-press-release",
-        "description": "Tory leader says proposed ‘Britannia Shield’ would not be comparable to Israeli missile defence systemUK politics live – latest updatesKemi Badenoch has denied she compared a new air defence system...",
+        "description": "Leader also says party is ‘not out of the woods’ and she would rather have another election than form coalition with Reform Kemi Badenoch has denied she compared a new air defence system proposed b...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Jeffrey Archer, former Conservative politician and novelist, dies aged 86",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/05/jeffrey-archer-former-conservative-politician-and-novelist-dies-aged-86",
-        "description": "Publisher says author died peacefully at home ‘between writing sessions’Jeffrey Archer, the bestselling author and former MP whose political career ended in disgrace when he was imprisoned for perj...",
+        "title": "Chancellor plans major intervention to help poorer UK households with rising energy bills",
+        "url": "https://www.theguardian.com/money/2026/oct/06/chancellor-plans-major-intervention-to-help-poorer-uk-households-with-rising-energy-bills",
+        "description": "Exclusive: Officials working on further radical changes that would change how much energy companies could charge customersJohn Healey is planning a major intervention to cut energy bills for poorer...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Author and former politician Jeffrey Archer dies aged 86",
-        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
-        "description": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month.",
+        "title": "Labour figures rule out working with Greens after ‘Zionism is racism’ vote",
+        "url": "https://www.theguardian.com/politics/2026/oct/06/labour-figures-rule-out-working-with-greens-after-zionism-is-racism-vote",
+        "description": "Minister says they could not see parties cooperating, while official says coalition should be formally ruled outSenior Labour party figures said it was very unlikely their party would cooperate wit...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
+        "description": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "ASOS app users receive push notifications apparently sent by hackers",
+        "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
         "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-        "description": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
+        "description": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,13 +93,6 @@
     ],
     "immigration": [
       {
-        "title": "Two people die trying to cross Channel as anti-migrant protesters clash with police in Gosport",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/05/anti-migrant-protesters-scuffle-police-gosport-channel-rescue",
-        "description": "French authorities say two men, one in his 30s and another in his 40s, died during overnight crossingUK politics live – latest updatesTwo people have died and two more have been injured trying to c...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
         "title": "‘Bully in every way’: domestic abuse survivors say ex-partners behind far-right UK street patrols",
         "url": "https://www.theguardian.com/society/2026/oct/06/uk-domestic-abuse-survivors-ex-partners-behind-far-right-street-patrols",
         "description": "Seven women share their stories to make people aware of patterns of violence behind anti-immigration street patrol movementDuring their relationship, Lisa’s ex-partner was controlling. He kept her ...",
@@ -110,6 +103,13 @@
         "title": "Tory shadow minister claims Luton has ‘no-go zones’ where ‘white people won’t go’",
         "url": "https://www.theguardian.com/politics/2026/oct/05/tory-shadow-minister-luton-no-go-zones-white-people-blake-stephenson",
         "description": "Blake Stephenson tells fringe meeting at Tory conference that the town is ‘a very dangerous place’ with ‘ghettoes’A shadow Conservative Home Office minister has claimed there are “no-go zones” in L...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Mel B ‘heartbroken’ by Windrush scandal victims’ fight for justice",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/05/mel-b-windrush-scandal-fight-for-justice-legal-support-commissioner",
+        "description": "Public figures back commissioner’s call for government commitment to funding legal support for those affectedThe singer and television personality Mel B has said she is “heartbroken” by the Windrus...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,28 +146,35 @@
     ],
     "education": [
       {
-        "title": "Burnham urged to ‘end cycle of harm’ after scale of child-on-child sexual abuse revealed",
-        "url": "https://www.theguardian.com/society/2026/oct/05/burnham-urged-to-end-cycle-of-harm-after-scale-of-child-on-child-sexual-abuse-revealed",
-        "description": "Nearly 90 organisations write to PM urging him to take decisive action to end violence against women and girls• From unwanted touching to rape: the scale of child-on-child abuseA coalition of nearl...",
+        "title": "Senior academics set out key questions Cambridge must answer over Jason Arday’s death",
+        "url": "https://www.theguardian.com/education/2026/oct/06/cambridge-university-academics-jason-arday-death-investigation-inadequate",
+        "description": "Letter from more than 40 signatories says university has backed away from promised thorough review of events before deathSenior Cambridge academics have criticised the university’s plans to investi...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Children’s books with Black main characters down 8% in a year, study shows",
-        "url": "https://www.theguardian.com/books/2026/oct/05/childrens-books-with-black-main-characters-down-study-uk",
-        "description": "Only 150 of 2,189 titles published in UK for young children last year focused on minority ethnic, disabled or neurodivergent charactersThe number of children’s books featuring Black main characters...",
+        "title": "Riot police fire teargas as 250,000 take part in schools protests across France",
+        "url": "https://www.theguardian.com/world/2026/oct/06/protests-schools-blockade-streets-france",
+        "description": "Officers also carry out baton charges as students, staff and parents march in cities including Paris, Marseille and Lyon Europe live – latest updatesPolice have fired teargas at ⁠protesters as more...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Thousands of child-on-child sexual offences reported at schools in England and Wales",
-        "url": "https://www.theguardian.com/education/2026/oct/04/child-on-child-sexual-abuse-schools-england-and-wales",
-        "description": "Exclusive: Average of nearly five sexual crimes a day against under-13s were reported to police between 2021 and 2025From unwanted touching to rape: the scale of child-on-child abuse in English and...",
+        "title": "Badenoch announces £2.3bn proposal to cut employer national insurance for young workers – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/oct/06/kemi-badenoch-conservatives-labour-reform-greens-uk-politics-latest-news",
+        "description": "The Conservative party leader said the party would halve employer national insurance on jobs worked by young peopleAsked if she will propose tax cuts in her speech tomorrow, Badenoch tells McCann t...",
         "source": "The Guardian",
         "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Reform MP raises concerns about second homes – then buys one for £800,000",
+        "url": "https://www.theguardian.com/politics/2026/oct/06/reform-sarah-pochin-second-homes-bought-800000",
+        "description": "Sarah Pochin bought Anglesey property two days after writing to minister about impact of second home ownership on rural communitiesA Reform UK MP bought an £800,000 second home on a picturesque Wel...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Loss of green space could be issue that decides Holborn and St Pancras byelection",
         "url": "https://www.theguardian.com/politics/2026/oct/06/holborn-st-pancras-byelection-green-spaces-hs2-housing-euston",
@@ -181,34 +188,27 @@
         "description": "A researcher at a climate change think tank says the Conservative policy would be a ‘disaster for first time buyers’Yesterday, as a gimmick, the Tories were handing out “Bottler Burnham” bottles of...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Peter was buried in an unmarked communal grave. His friends and family say they didn’t know",
-        "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/06/nsw-unmarked-graves-communal-burial-plots-investigation",
-        "description": "Exclusive: Authorities are failing to notify family, friends and outreach workers before burying strangers in shared plots, a Guardian Australia investigation revealsHundreds of Australians, includ...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
+        "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+        "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+        "description": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Tear gas in Paris and Marseille as school protests grow across France",
+        "url": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+        "description": "Crowds of mainly teenagers called for more resources for schools and an end to what they called police repression.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Former German spy chief arrested for espionage and treason",
         "url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
         "description": "August Hanning is accused of obtaining classified information for a foreign power.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-        "description": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-        "description": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
