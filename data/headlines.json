@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-06T22:21:10.699372+00:00",
+  "fetched_at": "2026-10-07T04:25:36.590885+00:00",
   "headlines": {
     "government": [
       {
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "EU negotiators head to China hoping to curb cheap imports of hybrid electric cars",
+        "url": "https://www.theguardian.com/business/2026/oct/07/eu-negotiators-head-to-china-hoping-to-curb-cheap-imports-of-hybrid-electric-cars",
+        "description": "Mood in trade talks said to have changed as EU member states harden demands for protection against Chinese importsEU trade negotiators are heading to China for two days of crunch talks aimed at sea...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Poland’s ‘solidarity’ push for EU energy resilience in face of Russian aggression",
+        "url": "https://www.theguardian.com/world/2026/oct/07/poland-solidarity-eu-energy-resilience-russian-aggression-economy",
+        "description": "In the second article in a series on the Polish economy, we look at how the country is forging closer ties with its neighboursTwo miles off the coast of Gdańsk, the white steel piles of Poland’s fi...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Average five-year fixed mortgage rate hits 6% for first time in three years",
         "url": "https://www.theguardian.com/money/2026/oct/05/five-year-fixed-mortgage-rate-banks-building-societies",
         "description": "Banks and building societies raise prices as turmoil in bond markets increases expectations of base rate riseThe average cost of a five-year fixed-rate mortgage has hit the 6% barrier for the first...",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "UK reviewing whether to impose tariffs on Chinese car imports to align with EU",
-        "url": "https://www.theguardian.com/business/2026/oct/05/uk-tariffs-chinese-car-imports-eu-manufacturing",
-        "description": "Move would strengthen Britain’s case to be included in new legislation to protect European manufacturingBusiness live – latest updatesThe UK is reviewing whether to impose tariffs on Chinese car im...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Euro falls to 17-month low against dollar amid French debt fears",
-        "url": "https://www.theguardian.com/business/2026/oct/05/euro-falls-dollar-amid-french-debt-cac-40-spain-eurozone",
-        "description": "France’s Cac 40 index slides as announcement of snap election in Spain also helps fuel eurozone uncertaintyBusiness live – latest updatesThe euro has slumped to the lowest level against the dollar ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-        "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-        "description": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
+        "title": "Incredible or catastrophic? Jaguar unveils its polarising electric car",
+        "url": "https://www.bbc.co.uk/news/articles/c6je50ydld31o?at_medium=RSS&at_campaign=rss",
+        "description": "Two years after JLR relaunched Jaguar into a blizzard of controversy, it has launched its new EV.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "One million UK people who have never smoked are now vaping",
-        "url": "https://www.bbc.co.uk/news/articles/cwe8ldgzj277o?at_medium=RSS&at_campaign=rss",
-        "description": "Latest statistics also show, for the second year in a row, more over-16s vape than smoke.",
+        "title": "'That nagging feeling of dread': Is 'hang-xiety' a real thing?",
+        "url": "https://www.bbc.co.uk/news/articles/c32l4nqx5wvko?at_medium=RSS&at_campaign=rss",
+        "description": "For some, a hangover can start an anxious spiral. We spoke to experts about the reasons why.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "Hunter Valley community group wins landmark high court climate change case over Mount Pleasant coalmine",
+        "url": "https://www.theguardian.com/environment/2026/oct/07/mount-pleasant-coalmine-case-high-court-climate-change-hunter-valley",
+        "description": "Ruling on Mount Pleasant coalmine shows ‘we cannot continue to dig up coal … and pretend the consequences have nothing to do with us’, group saysGet our breaking news email, free app or daily news ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "New Zealand greenhouse gas levels hit record highs threatening catastrophic glacier melts",
+        "url": "https://www.theguardian.com/world/2026/oct/07/new-zealand-greenhouse-gas-record-high-threatening-catastrophic-glacier-melts-climate",
+        "description": "Government report finds the country could be hit with more frequent and intense heatwaves, as well as damaging storms and cyclonesNew Zealand could be hit with more frequent and intense heatwaves a...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Australia faces summer of extreme weather, Anthony Albanese warns at pre-Cop",
         "url": "https://www.theguardian.com/australia-news/2026/oct/06/agreement-to-transition-away-from-fossil-fuels-not-open-for-renegotiation-pacific-leader-tells-pre-cop",
         "description": "Prime minister tells delegates in Tuvalu and Fiji that ‘super El Niño’ brewing in the Pacific shows climate change is ‘here right now’Anthony Albanese has warned Australia faces a hazardous summer,...",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "US households pay 62% more for water than they did a decade ago, study finds",
-        "url": "https://www.theguardian.com/us-news/2026/oct/06/households-drinking-water-cost-study",
-        "description": "For-profit water corporations, federal cuts and climate crisis are ‘supercharging water rate hikes’, study co-author saysUS households are paying 62% more for drinking water than they did a decade ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "US supreme court hears big oil’s bid to block climate damage lawsuits",
-        "url": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits",
-        "description": "How the court will lean is unclear amid Suncor Energy and ExxonMobil’s attempt to stop lawsuits at state levelThe US supreme court began its new nine-month term hearing arguments on Monday in a maj...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'Ghost particles' from space telescope wins physics Nobel",
-        "url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-        "description": "Belgian physicist Prof Francis Halzen has won for his pioneering work on an observatory that detects particles from space.",
+        "title": "A beautiful Himalayan bird is changing its voice due to human activity, research shows",
+        "url": "https://www.bbc.co.uk/news/articles/cq9868z88rexo?at_medium=RSS&at_campaign=rss",
+        "description": "A sharp increase in human activity is affecting the way the Himalayan monal lives and communicates, studies show.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -194,7 +194,7 @@
       {
         "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
         "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-        "description": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday.",
+        "description": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
