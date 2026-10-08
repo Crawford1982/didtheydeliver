@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T22:44:12.609731+00:00",
+  "fetched_at": "2026-10-08T04:36:43.832321+00:00",
   "headlines": {
     "government": [
       {
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Badenoch says Tories would scrap inheritance tax on family homes",
-        "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
-        "description": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat.",
+        "title": "Burnham to hold security talks with German chancellor in Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
+        "description": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Boots sold in £7bn deal to Canadian billionaire family",
-        "url": "https://www.bbc.co.uk/news/articles/cwly0jyk2vl5o?at_medium=RSS&at_campaign=rss",
-        "description": "The sale of the High Street chain was announced on Wednesday.",
+        "title": "'Come all the way' back to EU, French finance minister tells UK",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
+        "description": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "France’s teens versus the riot police – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/oct/08/frances-teens-versus-the-riot-police-podcast",
+        "description": "Angelique Chrisafis on the pupils and students who are taking to the streets and closing down schools in FranceThousands arrested, hundreds injured. It’s been a shocking week for France. Schools ha...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Family of student who took his own life say university ‘will be held to account’",
         "url": "https://www.theguardian.com/education/2026/oct/07/family-student-ethan-scott-brown-university-glasgow-accountable",
         "description": "Ethan Scott Brown died after being wrongly told he would not be eligible to graduate from the University of Glasgow The family of a student who took his own life after being wrongly told he would n...",
@@ -156,13 +163,6 @@
         "title": "Labour Send changes at risk as parents rush to secure support, say experts",
         "url": "https://www.theguardian.com/education/2026/oct/07/labour-send-reforms-ehcp-system-change-england",
         "description": "Overhaul of special education in England could unravel, thinktank finds, because of ‘use it before you lose it’ dynamicLabour’s flagship changes to special education in England are at risk of unrav...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Thatcherism via the Walkman: Stuart Hall’s British cultural studies preserved online",
-        "url": "https://www.theguardian.com/society/2026/oct/07/stuart-hall-british-culture-online-project",
-        "description": "Project lead says it celebrates ‘incredible contributions’ Jamaica-born sociologist made to Britain’s cultureWhether it was Thatcherism, populism or the story of the Sony Walkman, Stuart Hall was a...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+        "description": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Spanish pensioner whose eviction sparked nationwide protests dies, union says",
         "url": "https://www.bbc.co.uk/news/articles/c6e3x21ev9wwo?at_medium=RSS&at_campaign=rss",
         "description": "Maricarmen Abascal, 87, was forcibly removed on a stretcher from her apartment of more than 70 years in September.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
-        "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-        "description": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Israelis demand accountability over 7 October failures three years after attacks",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-        "description": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
+        "title": "France's school protests: what lies behind the anger",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
+        "description": "Students' blockades and marches spring from real grievances – and from France's habit of settling policy on the street.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
