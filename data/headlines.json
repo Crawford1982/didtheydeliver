@@ -1,18 +1,18 @@
 {
-  "fetched_at": "2026-10-08T12:50:42.812188+00:00",
+  "fetched_at": "2026-10-08T22:55:12.917421+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Polls open in Holborn and St Pancras byelection – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/08/holborn-st-pancras-byelection-labour-greens-zack-polanski-uk-politics-live-news-updates",
-        "description": "Voters choosing replacement for Keir Starmer, who announced he was standing down last monthThe UK’s military is too focused on global commitments at the expense of domestic defence, meaning the gov...",
+        "title": "Polls close in Holborn and St Pancras byelection as Labour hopes to retain seat",
+        "url": "https://www.theguardian.com/politics/2026/oct/08/polls-close-holborn-st-pancras-byelection-labour-greens",
+        "description": "Contest seen as test of Andy Burnham’s ability to unite Labour voters amid threat from Green party’s Zack PolanskiPolls have closed in the Holborn and St Pancras byelection, a contest seen as a tes...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK’s military needs to focus spending on domestic defence, not overseas missions – report",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/08/uk-military-domestic-defence-overseas-missions-thinktank-report",
-        "description": "Exclusive: Thinktank says Britain’s drive towards global commitments is symptom of ‘outdated foreign policy’The UK’s military is too focused on global commitments at the expense of domestic defence...",
+        "title": "What would make your life easier? Martin Lewis asks public for ‘small ideas’ to improve UK",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/08/martin-lewis-small-ideas-institute-public-improve-uk",
+        "description": "Finance expert launches Small Ideas Initiative to gather ‘practical, low-cost’ ideas to put before cross-party panelEvery day, people run into what the finance expert Martin Lewis calls “the life-p...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -24,14 +24,21 @@
         "category": "government"
       },
       {
-        "title": "UK and Germany will face threats together, says Burnham in Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
-        "description": "Ahead of a UK-EU summit next month, Burnham said he was committed to \"see if we can bring the UK closer to Europe\".",
+        "title": "Burnham calls on Polanski to reverse Green Party's Zionism motion",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister has intervened in the row over the motion passed by members at Green Party conference.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Send us your questions on how the US economy is shaping the midterm elections",
+        "url": "https://www.theguardian.com/business/2026/oct/08/economy-midterm-elections-tell-us",
+        "description": "Our business, labor and consumer rights reporters will answer your questions in a live Q&A on Thursday 15 OctoberThe US economy is top of voters’ minds ahead of the November midterms with food and ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Badenoch’s inheritance tax gambit makes no economic sense | Heather Stewart",
         "url": "https://www.theguardian.com/politics/2026/oct/07/badenochs-inheritance-tax-gambit-makes-no-economic-sense",
@@ -47,21 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Labour could oversee worst parliament on record for living standards, study warns",
-        "url": "https://www.theguardian.com/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis",
-        "description": "Energy and housing costs threaten biggest decline in modern times unless bold action taken, says thinktankSoaring energy and housing costs mean Labour is on course to preside over the worst parliam...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "'Come all the way' back to EU, French finance minister tells UK",
-        "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
-        "description": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world.",
+        "title": "Asos hackers took more personal details than first revealed, BBC finds",
+        "url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+        "description": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "The Guardian view on cancers in under-50s: the risks of obesity must be confronted | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/08/the-guardian-view-on-cancers-in-under-50s-the-risks-of-obesity-must-be-confronted",
+        "description": "More research into the troubling rise in early onset cancers is needed. But we already know that food is among the culpritsThe latest findings about the rise in cancers in people under 50, from the...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Medicine shortages will result if drug prices are driven too low | Letter",
         "url": "https://www.theguardian.com/business/2026/oct/05/medicine-shortages-will-result-if-drug-prices-are-driven-too-low",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Burnham must remember: more regulation is not the best way to improve public services | Phillip Inman",
-        "url": "https://www.theguardian.com/business/2026/oct/03/andy-burnham-regulation-public-services-nhs",
-        "description": "In the NHS as in the private sector, the measure of success should be customer satisfaction and not just box-tickingAndy Burnham said he wanted to “rewire” the economy. Then he seemed to slam on th...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "\"Ominous signs\" of winter pressures as NHS waiting list grows",
-        "url": "https://www.bbc.co.uk/news/articles/cxnv03e9nmp4o?at_medium=RSS&at_campaign=rss",
-        "description": "NHS winter pressures appear to be building already, with rises in waiting times for planned surgery.",
+        "title": "Harry says he 'slipped into depression' after leaving UK",
+        "url": "https://www.bbc.co.uk/news/articles/c623dv9n93evo?at_medium=RSS&at_campaign=rss",
+        "description": "The Duke of Sussex says he had an \"adrenaline crash\" while visiting Vancouver Island to \"get some space\".",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "First Hurricane of the Atlantic season due to hit the Gulf coast",
-        "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
-        "description": "El Niño has led to an eerily quiet season so far but the first Atlantic hurricane of the year is now set to impact the southern USA.",
+        "title": "BBC on Hurricane Isaias and its expected Gulf Coast landfall",
+        "url": "https://www.bbc.co.uk/news/videos/ckz65l2gne1po?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Weather's Chris Fawkes says the first hurricane of the 2026 Atlantic season could bring dangerous winds, storm surge and heavy rains to the Gulf Coast Friday.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Campaigners led by Chris Packham urge prime minister to rethink Send overhaul",
+        "url": "https://www.theguardian.com/education/2026/oct/08/campaigners-letter-send-reform-chris-packham-sally-phillips",
+        "description": "Exclusive: Letter to government says changes will unfairly remove legal protections for children in EnglandLetter: Legal rights must be retained for children with SendCampaigners are calling on And...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "University students say procrastination is biggest threat to their academic performance",
         "url": "https://www.theguardian.com/education/2026/oct/08/university-students-procrastination-biggest-threat-academic-performance",
@@ -158,57 +165,50 @@
         "description": "Angelique Chrisafis on the pupils and students who are taking to the streets and closing down schools in FranceThousands arrested, hundreds injured. It’s been a shocking week for France. Schools ha...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Family of student who took his own life say university ‘will be held to account’",
-        "url": "https://www.theguardian.com/education/2026/oct/07/family-student-ethan-scott-brown-university-glasgow-accountable",
-        "description": "Ethan Scott Brown died after being wrongly told he would not be eligible to graduate from the University of Glasgow The family of a student who took his own life after being wrongly told he would n...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
       {
-        "title": "Free land for those who will build on it. Is this the radical solution to the UK's social housing problem? | Phineas Harper",
+        "title": "An AI boom is sending San Francisco rents through the roof: ‘nowhere left for people to go’",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom",
+        "description": "According to city’s rent board, eviction notices are up 44% and tenants are on edge over landlords swooping in over their homesTo say that Maria Zamudio and her team have been busy lately would be ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "To reduce reoffending, prisoners need better support after release | Letter",
+        "url": "https://www.theguardian.com/society/2026/oct/08/to-reduce-reoffending-prisoners-need-better-support-after-release",
+        "description": "Pavan Dhaliwal responds to an article on the early release of prisoners. Plus a letter from a prison officer who works in a men’s open prisonRegarding your article (Prisoners thank Andy Burnham as ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Free land for those who will build social homes on it. Is this the radical solution to the UK’s housing problem? | Phineas Harper",
         "url": "https://www.theguardian.com/commentisfree/2026/oct/08/free-land-build-lewisham-council-london-social-housing-problem",
         "description": "A bold south London initiative to give land to community groups rather than private developers could transform the systemLewisham council, in southeast London, is developing ambitious plans to tran...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Labour could oversee worst parliament on record for living standards, study warns",
-        "url": "https://www.theguardian.com/business/2026/oct/07/labour-worst-parliament-living-standards-thinktank-analysis",
-        "description": "Energy and housing costs threaten biggest decline in modern times unless bold action taken, says thinktankSoaring energy and housing costs mean Labour is on course to preside over the worst parliam...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Couples would be able to leave £1m and family home exempt from inheritance tax under Tories, says Badenoch – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/07/kemi-badenoch-inheritance-tax-conservatives-tory-conference-labour-green-party-reform-latest-news-updates",
-        "description": "Conservative leader says proposed measures would halve the number of families paying inheritance taxChris Philp, the shadow home secretary, is speaking now at the conference. He described Nick Timo...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
+        "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "description": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Russian strike on buses kills at least 30, say officials, as deadly attacks on Ukraine surge",
         "url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine accused Russia of targeting the crowded bus in the frontline city to kill as many civilians as possible.",
+        "description": "Ukraine accused Russia of targeting two crowded vehicles in the front line city of Kramatorsk to kill as many civilians as possible.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-        "url": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
-        "description": "Bassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-        "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+        "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+        "description": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
