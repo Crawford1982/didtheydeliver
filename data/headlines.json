@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-10T04:25:51.578973+00:00",
+  "fetched_at": "2026-10-10T11:56:26.146691+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Northern Ireland secretary Chris Bryant bans Drumcree parade",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/09/northern-ireland-secretary-chris-bryant-bans-drumcree-parade",
-        "description": "Prospect of contentious Orange Order march through Garvaghy Road in Portadown has led to a nearly two-week standoffThe Northern Ireland secretary of state has banned the Drumcree parade after a 13-...",
+        "title": "Greens must avoid ‘capture by extremists and racists’, says party MP",
+        "url": "https://www.theguardian.com/politics/2026/oct/10/greens-must-avoid-capture-by-extremists-and-racists-ellie-chowns-zionism-racism",
+        "description": "Ellie Chowns says vote for ‘Zionism is racism’ policy by 0.4% of members shows party processes are not workingA Green Party MP has said she wants to make sure her party is not “vulnerable to captur...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Parties prepare for byelection in Farage seat amid speculation over £5m gift inquiry",
-        "url": "https://www.theguardian.com/politics/2026/oct/09/nigel-farage-byelection-clacton-seat-speculation-5m-gift-inquiry",
-        "description": "Tories said to be ready to fight in Clacton, with standards investigation rumoured to be nearing its endNigel Farage’s rivals are gearing up for a byelection in Clacton in the months ahead, amid sp...",
+        "title": "UK must not be beholden to foreign AI, says head of Alan Turing Institute",
+        "url": "https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson",
+        "description": "George Williamson says ‘national resilience’ is key focus of ATI amid US and China’s runaway leadership in fieldThe UK must not become dependent on foreign AI systems that can be switched off at sh...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour hails byelection win as return of leftwing voters after Starmer era",
-        "url": "https://www.theguardian.com/politics/2026/oct/09/labour-byelection-winning-back-voters-on-left-greens",
-        "description": "Party now polling 15 points above Greens, who had been ahead of Labour before Keir Starmer resigned as PMLabour is starting to win back voters on the left who became disillusioned under Keir Starme...",
+        "title": "‘Gaza is a moral tear in the universe’: Naomi Klein and Astra Taylor | Radical Thinking with Aditya Chakrabortty – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/oct/10/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking-with-aditya-chakrabortty-podcast",
+        "description": "Are we really living through ‘end times fascism’? Naomi Klein and Astra Taylor think so.In a new series from the Guardian, the pair speak to Radical Thinking with Aditya Chakrabortty in an extended...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,13 +33,6 @@
     ],
     "economy": [
       {
-        "title": "Send us your questions for economist Isabella Weber on inflation and affordability",
-        "url": "https://www.theguardian.com/business/2026/oct/09/send-us-your-questions-for-economist-isabella-weber-on-inflation-and-affordability",
-        "description": "First Edition newsletter will be hosting a reader Q&A with economist Isabella Weber, a leading voice on inflation, affordability and cost of living and now’s your chance to put your questions to he...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
         "url": "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades",
         "description": "Waves of protests expose debt crisis faced by French government, but political wrangling is stalling an escape plan. Is there a way out?Eight years have passed since rising fuel prices brought the ...",
@@ -50,6 +43,13 @@
         "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
         "description": "Brent crude prices fell on Friday as president Donald Trump promised not to attack Iran ahead of the US midterm elections in NovemberData storage firm Snowflake has said hack at Asos was not caused...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
+        "url": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
+        "description": "Commissioner Stéphane Séjourné says bloc will support 46 strategic projects including lithium and rare earths plantsThe EU is “pulling out all the stops” to fend off an imminent potential trade cri...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "UK accused of giving people of Gaza false hope over new refugee safe route",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/10/uk-gaza-refugee-resettlement-scheme-palestinians-home-office",
+        "description": "Only ‘very small number’ of people already in Lebanon or Jordan will be referred, says organisation running schemeThe Home Office is facing claims it gave false hope to the people of Gaza after it ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "‘Bully in every way’: domestic abuse survivors say ex-partners behind far-right UK street patrols",
         "url": "https://www.theguardian.com/society/2026/oct/06/uk-domestic-abuse-survivors-ex-partners-behind-far-right-street-patrols",
         "description": "Seven women share their stories to make people aware of patterns of violence behind anti-immigration street patrol movementDuring their relationship, Lisa’s ex-partner was controlling. He kept her ...",
@@ -105,16 +112,16 @@
         "description": "Blake Stephenson tells fringe meeting at Tory conference that the town is ‘a very dangerous place’ with ‘ghettoes’A shadow Conservative Home Office minister has claimed there are “no-go zones” in L...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Mel B ‘heartbroken’ by Windrush scandal victims’ fight for justice",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/05/mel-b-windrush-scandal-fight-for-justice-legal-support-commissioner",
-        "description": "Public figures back commissioner’s call for government commitment to funding legal support for those affectedThe singer and television personality Mel B has said she is “heartbroken” by the Windrus...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Dozens injured and buildings damaged as tornadoes hit Sicily",
+        "url": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
+        "description": "Marsala on island’s west coast badly affected after powerful storm approached from MediterraneanTwo tornadoes have struck the coastal town of Marsala in western Sicily, injuring dozens of people, d...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Climate crisis is coming to crush many of world’s best surf breaks, study warns",
         "url": "https://www.theguardian.com/environment/2026/oct/10/climate-crisis-putting-world-best-surf-breaks-at-risk",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Tories overstate net zero cost by nearly £500bn in apparent spreadsheet error",
-        "url": "https://www.theguardian.com/politics/2026/oct/09/tories-overstate-net-zero-cost-500bn-spreadsheet-error",
-        "description": "Exclusive: Badenoch’s flagship conference policy document cites £957bn estimate, twice the total in climate advisers’ dataKemi Badenoch’s flagship party conference policy document overestimated the...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+        "title": "Hurricane Isaias downgraded after making landfall in Florida",
         "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-        "description": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
+        "description": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Create new pre-apprenticeship scheme to close youth unemployment gap, says Milburn",
+        "url": "https://www.theguardian.com/education/2026/oct/10/pre-apprenticeship-scheme-landmark-alan-milburn-youth-jobs-crisis-report",
+        "description": "Exclusive: Former minister’s review warns that dramatic action is needed over huge drop in youth apprenticeship startsA national apprenticeship readiness scheme should be introduced in England to c...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Headteachers threaten strike ballots after losing confidence in Ofsted",
         "url": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
@@ -156,13 +163,6 @@
         "title": "French mayor teargassed after shielding student protesters from police – video",
         "url": "https://www.theguardian.com/world/video/2026/oct/09/french-mayor-teargassed-after-shielding-student-protesters-from-police-video",
         "description": "Saint-Denis's mayor, Bally Bagayoko, had to be evacuated from a protest in Paris after he was teargassed by police on Tuesday. He was marching with high-school students when they were confronted by...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Tell us: have you been affected by the strikes at Edinburgh, Dundee or Nottingham universities?",
-        "url": "https://www.theguardian.com/education/2026/oct/09/tell-us-affected-university-strikes-edinburgh-dundee-nottingham",
-        "description": "We would like to hear from students and staff about the impact of the strikesStudents at Edinburgh, Dundee and Nottingham face a term without any teaching due to staff strikes as the higher educati...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
-        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-        "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
+        "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
+        "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
+        "description": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
