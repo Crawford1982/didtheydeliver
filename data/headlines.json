@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-09T22:16:58.668640+00:00",
+  "fetched_at": "2026-10-10T04:25:51.578973+00:00",
   "headlines": {
     "government": [
       {
         "title": "Northern Ireland secretary Chris Bryant bans Drumcree parade",
         "url": "https://www.theguardian.com/uk-news/2026/oct/09/northern-ireland-secretary-chris-bryant-bans-drumcree-parade",
-        "description": "Prospect of contentious Orange Order march down Garvaghy Road has led to a two-week standoff in PortadownThe Northern Ireland secretary of state has banned the Drumcree parade after a 13-day impass...",
+        "description": "Prospect of contentious Orange Order march through Garvaghy Road in Portadown has led to a nearly two-week standoffThe Northern Ireland secretary of state has banned the Drumcree parade after a 13-...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -40,6 +40,13 @@
         "category": "economy"
       },
       {
+        "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
+        "url": "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades",
+        "description": "Waves of protests expose debt crisis faced by French government, but political wrangling is stalling an escape plan. Is there a way out?Eight years have passed since rising fuel prices brought the ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
         "description": "Brent crude prices fell on Friday as president Donald Trump promised not to attack Iran ahead of the US midterm elections in NovemberData storage firm Snowflake has said hack at Asos was not caused...",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
-        "url": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
-        "description": "Commissioner Stéphane Séjourné says bloc will support 46 strategic projects including lithium and rare earths plantsThe EU is “pulling out all the stops” to fend off an imminent potential trade cri...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Climate crisis is coming to crush many of world’s best surf breaks, study warns",
+        "url": "https://www.theguardian.com/environment/2026/oct/10/climate-crisis-putting-world-best-surf-breaks-at-risk",
+        "description": "Changing tide levels, shifting sands and hardened shorelines put waves at risk, affecting more than just surfersThe climate crisis is coming for some of the world’s greatest surf breaks, submerging...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
         "url": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
         "description": "‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in FijiWealthy countries should spend far more on dealing with the climate crisis than the 5% of GDP promi...",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "July 2026 was worst on record for wildfires in England, data shows",
-        "url": "https://www.theguardian.com/world/2026/oct/08/july-record-wildfires-england-data-shows",
-        "description": "Devastating blaze near Sizewell B nuclear power station in Suffolk among a record 624 wildfires in July this yearThis July was the worst on record for wildfires in England, provisional data shows, ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'People don't think recycling at work is part of their job description'",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8rn65yj2ko?at_medium=RSS&at_campaign=rss",
-        "description": "Unclear labelling as well as a lack of recycling facilities at work or in public-facing businesses is an issue.",
+        "title": "Life-threatening Hurricane Isaias makes landfall in Florida",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+        "description": "The storm took direct aim at Florida and is expected to impact Alabama, Georgia, and Louisiana.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Headteachers threaten strike ballots after losing confidence in Ofsted",
+        "url": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
+        "description": "Unions tell government to fix ‘overbearing mess’ of inspection regime and its impact on staff wellbeing – or risk industrial actionTensions between England’s headteachers and Ofsted are developing ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "French mayor teargassed after shielding student protesters from police – video",
         "url": "https://www.theguardian.com/world/video/2026/oct/09/french-mayor-teargassed-after-shielding-student-protesters-from-police-video",
@@ -156,13 +163,6 @@
         "title": "Tell us: have you been affected by the strikes at Edinburgh, Dundee or Nottingham universities?",
         "url": "https://www.theguardian.com/education/2026/oct/09/tell-us-affected-university-strikes-edinburgh-dundee-nottingham",
         "description": "We would like to hear from students and staff about the impact of the strikesStudents at Edinburgh, Dundee and Nottingham face a term without any teaching due to staff strikes as the higher educati...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "New Ofsted inspection regime damaging teachers, survey says",
-        "url": "https://www.theguardian.com/education/2026/oct/09/new-ofsted-inspection-regime-damaging-teachers-survey-says",
-        "description": "Nine in 10 school heads who responded say inspections still ‘negatively affected’ staff mental wellbeingSchool inspections in England continue to damage the mental wellbeing of teachers and senior ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended.",
+        "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+        "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+        "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
         "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
         "description": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "JD Vance casts doubt on firing squad execution and says he will not watch it",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r39nl3qzo?at_medium=RSS&at_campaign=rss",
-        "description": "The planned execution of Nidal Hasan by firing squad would be the first military execution in more than 60 years.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
