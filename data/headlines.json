@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T11:56:26.146691+00:00",
+  "fetched_at": "2026-10-10T17:05:19.899650+00:00",
   "headlines": {
     "government": [
       {
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
-        "url": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
-        "description": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\"",
+        "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
+        "url": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
+        "description": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion.",
         "source": "BBC News",
         "category": "government"
       }
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Hurricane Isaias downgraded after making landfall in Florida",
-        "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US.",
+        "title": "Hundreds protest over data centre plans",
+        "url": "https://www.bbc.co.uk/news/articles/cm78pwq47vp1o?at_medium=RSS&at_campaign=rss",
+        "description": "Placard-waving opponents highlight concerns about a data centre development on the local landscape.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Camden council was warned about paedophile nursery worker years before arrest",
+        "url": "https://www.theguardian.com/society/2026/oct/10/vincent-chan-paedophile-nursery-worker-camden-council-warning-years-before-arrest",
+        "description": "Vincent Chan went on to abuse children after being cleared of ‘significant concerns’ following council-overseen inquiryA paedophile nursery worker was cleared by an investigation overseen by a loca...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Create new pre-apprenticeship scheme to close youth unemployment gap, says Milburn",
         "url": "https://www.theguardian.com/education/2026/oct/10/pre-apprenticeship-scheme-landmark-alan-milburn-youth-jobs-crisis-report",
@@ -156,13 +163,6 @@
         "title": "Headteachers threaten strike ballots after losing confidence in Ofsted",
         "url": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
         "description": "Unions tell government to fix ‘overbearing mess’ of inspection regime and its impact on staff wellbeing – or risk industrial actionTensions between England’s headteachers and Ofsted are developing ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "French mayor teargassed after shielding student protesters from police – video",
-        "url": "https://www.theguardian.com/world/video/2026/oct/09/french-mayor-teargassed-after-shielding-student-protesters-from-police-video",
-        "description": "Saint-Denis's mayor, Bally Bagayoko, had to be evacuated from a protest in Paris after he was teargassed by police on Tuesday. He was marching with high-school students when they were confronted by...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+        "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Several injured in attack on airport in Saudi capital Riyadh",
+        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "description": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
         "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-        "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-        "description": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Three men found guilty of murdering Australian brothers and US friend in Mexico",
-        "url": "https://www.bbc.co.uk/news/articles/cj5ynwnye009o?at_medium=RSS&at_campaign=rss",
-        "description": "Jake and Callum Robinson and their friend Carter Rhoad were on a surf trip when they were killed in an apparent botched robbery.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
