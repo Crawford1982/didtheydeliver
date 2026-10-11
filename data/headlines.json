@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T21:10:55.569216+00:00",
+  "fetched_at": "2026-10-11T04:07:35.980095+00:00",
   "headlines": {
     "government": [
       {
@@ -33,6 +33,13 @@
     ],
     "economy": [
       {
+        "title": "Developing nations face triple shock from energy crisis, El Niño and borrowing costs, UN warns",
+        "url": "https://www.theguardian.com/business/2026/oct/11/developing-nations-triple-shock-energy-crisis-el-nino-borrowing-costs-un-warns",
+        "description": "UN’s development arm calls for urgent action as crises could ‘throw tens if not hundreds of millions back into poverty’Developing countries face a triple shock from the energy crisis, El Niño and s...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
         "url": "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades",
         "description": "Waves of protests expose debt crisis faced by French government, but political wrangling is stalling an escape plan. Is there a way out?Eight years have passed since rising fuel prices brought the ...",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "EU ‘pulling out all stops’ with minerals projects as it tries to avert China trade war",
-        "url": "https://www.theguardian.com/world/2026/oct/09/eu-pulling-out-all-stops-with-minerals-projects-as-it-tries-to-avert-china-trade-war",
-        "description": "Commissioner Stéphane Séjourné says bloc will support 46 strategic projects including lithium and rare earths plantsThe EU is “pulling out all the stops” to fend off an imminent potential trade cri...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
         "description": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "‘I get really upset when I visit’: the harsh reality of life in a high-security hospital in England",
+        "url": "https://www.theguardian.com/society/2026/oct/11/i-get-really-upset-when-i-visit-the-harsh-reality-of-life-in-a-high-security-hospital-in-england",
+        "description": "When the Southport killer Axel Rudakubana was transferred from a category A prison to Broadmoor hospital, many observers complained that he was getting off lightly. But these places are anything bu...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "NHS faces exodus of ADHD and autism services staff to private clinics",
         "url": "https://www.theguardian.com/society/2026/oct/09/nhs-exodus-adhd-autism-services-staff-private-clinics",
@@ -73,13 +80,6 @@
         "title": "Insurance model is no substitute for the NHS | Letter",
         "url": "https://www.theguardian.com/business/2026/oct/09/insurance-model-is-no-substitute-for-the-nhs",
         "description": "Susan Jones points out that an NHS-style system does not require either sales costs or shareholder profitsIn Dining across the divide (4 October), the young participant, Ted, is quoted as expressin...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Palantir’s Tom Watson says ‘mob rule’ must not dictate awarding of government contracts",
-        "url": "https://www.theguardian.com/technology/2026/oct/09/palantir-tom-watson-mob-rule-government-contracts",
-        "description": "Former Labour deputy leader says tech firm would work with a Reform UK government on immigration crackdownsTom Watson, the former Labour deputy leader who recently joined Palantir, has warned again...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
+        "url": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
+        "description": "Newly established commission identifies 17 catastrophic threats to human health but says ‘realistic route to act’ on each existsHumans could become extinct by the year 2100 due to malicious use of ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Dozens injured and buildings damaged as tornadoes hit Sicily",
         "url": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
         "description": "Marsala on island’s west coast badly affected after powerful storm approached from MediterraneanTwo tornadoes have struck the coastal town of Marsala in western Sicily, injuring dozens of people, d...",
@@ -126,13 +133,6 @@
         "title": "Climate crisis is coming to crush many of world’s best surf breaks, study warns",
         "url": "https://www.theguardian.com/environment/2026/oct/10/climate-crisis-putting-world-best-surf-breaks-at-risk",
         "description": "Changing tide levels, shifting sands and hardened shorelines put waves at risk, affecting more than just surfersThe climate crisis is coming for some of the world’s greatest surf breaks, submerging...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Cop31 host urges wealthy countries to spend ‘much more’ on climate than defence",
-        "url": "https://www.theguardian.com/environment/2026/oct/09/cop31-host-wealthy-countries-climate-crisis-spending-defence-nato",
-        "description": "‘The climate issue is the security issue,’ says Turkish minister at Pacific pre-Cop summit in FijiWealthy countries should spend far more on dealing with the climate crisis than the 5% of GDP promi...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-        "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
+        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "description": "Another 309 people were injured in an attack a Saudi-led military coalition called a \"war crime\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Several injured in attack on airport in Saudi capital Riyadh",
-        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-        "description": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+        "title": "Young men live in fear of being snatched off the streets and sold to Myanmar's army",
+        "url": "https://www.bbc.co.uk/news/articles/c680zlny0gk4o?at_medium=RSS&at_campaign=rss",
+        "description": "A desperate junta is in a war of attrition against ethnic militias and and civilian resistance.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
