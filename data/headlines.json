@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-10-11T04:07:35.980095+00:00",
+  "fetched_at": "2026-10-11T12:08:17.575463+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Greens must avoid ‘capture by extremists and racists’, says party MP",
-        "url": "https://www.theguardian.com/politics/2026/oct/10/greens-must-avoid-capture-by-extremists-and-racists-ellie-chowns-zionism-racism",
-        "description": "Ellie Chowns says vote for ‘Zionism is racism’ policy by 0.4% of members shows party processes are not workingA Green Party MP has said she wants to make sure her party is not “vulnerable to captur...",
+        "title": "Burnham faces questions over push to scrap photo ID voting requirement",
+        "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-faces-questions-electoral-system-changes-photo-id-voting",
+        "description": "Ministers reportedly seeking to halve time for Lords scrutiny of voting and donations changes amid election speculationAndy Burnham is facing questions over plans to speed up sweeping changes to Br...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK must not be beholden to foreign AI, says head of Alan Turing Institute",
-        "url": "https://www.theguardian.com/technology/2026/oct/10/uk-foreign-ai-head-alan-turing-institute-george-williamson",
-        "description": "George Williamson says ‘national resilience’ is key focus of ATI amid US and China’s runaway leadership in fieldThe UK must not become dependent on foreign AI systems that can be switched off at sh...",
+        "title": "Britain stands behind Zelenskyy, says Streeting after Trump’s call for new leader in Ukraine",
+        "url": "https://www.theguardian.com/politics/2026/oct/11/britain-stands-behind-zelenskyy-streeting-trump-ukraine",
+        "description": "Defence secretary backs Ukrainian president and says priority is to maintain western unity over Russia conflictBritain stands behind Volodymyr Zelenskyy, the defence secretary has said, after Donal...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "‘Gaza is a moral tear in the universe’: Naomi Klein and Astra Taylor | Radical Thinking with Aditya Chakrabortty – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/oct/10/gaza-is-a-moral-tear-in-the-universe-naomi-klein-and-astra-taylor-radical-thinking-with-aditya-chakrabortty-podcast",
-        "description": "Are we really living through ‘end times fascism’? Naomi Klein and Astra Taylor think so.In a new series from the Guardian, the pair speak to Radical Thinking with Aditya Chakrabortty in an extended...",
+        "title": "Surgeon faces deportation as Home Office revokes refugee status for Syrians",
+        "url": "https://www.theguardian.com/politics/2026/oct/11/surgeon-faces-deportation-syria-uk-home-office-revokes-refugee-status-syrians",
+        "description": "UK classifies Syria as safe to return to despite UN refugee body’s adviceA Syrian plastic surgeon is facing deportation from the UK after the Home Office revoked his refugee status, declaring it is...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
-        "url": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
-        "description": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion.",
+        "title": "UK does not support Trump's Russia diesel deal, says Streeting",
+        "url": "https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&at_campaign=rss",
+        "description": "The defence secretary says the US and its allies need to increase pressure on Vladimir Putin to end the war with Ukraine.",
         "source": "BBC News",
         "category": "government"
       }
@@ -40,16 +40,16 @@
         "category": "economy"
       },
       {
-        "title": "France’s dilemma: protesters demand spending as markets require fiscal restraint",
-        "url": "https://www.theguardian.com/world/2026/oct/10/france-caught-between-bond-markets-student-worker-blockades",
-        "description": "Waves of protests expose debt crisis faced by French government, but political wrangling is stalling an escape plan. Is there a way out?Eight years have passed since rising fuel prices brought the ...",
+        "title": "US’s Reagan-era economic promises return as Trump’s AI-fueled growth fantasy",
+        "url": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan",
+        "description": "‘Even if AI supercharged the economy, its impact on the government’s finances would be muted’Back through political history to the age of Ronald Reagan, Republicans have repeatedly promised the US ...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Oil prices fall as Trump pauses Iran attacks, China restarts fuel exports – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/oct/09/oil-prices-crude-brent-trump-iran-us-war-midterm-elections-stocks-bonds-business-live",
-        "description": "Brent crude prices fell on Friday as president Donald Trump promised not to attack Iran ahead of the US midterm elections in NovemberData storage firm Snowflake has said hack at Asos was not caused...",
+        "title": "Labour has got the message – developing nations suffer most from bond market turmoil | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/oct/11/labour-bond-market-turmoil-developing-nations-andy-burnham-brown-blair",
+        "description": "Just as Brown and Blair did in 2005, Andy Burnham aims to champion debt relief to help developing countriesDeveloping nations face triple shock, UN warnsFrom Washington to Paris, London to Tokyo, p...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,28 +93,35 @@
     ],
     "immigration": [
       {
-        "title": "UK accused of giving people of Gaza false hope over new refugee safe route",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/10/uk-gaza-refugee-resettlement-scheme-palestinians-home-office",
-        "description": "Only ‘very small number’ of people already in Lebanon or Jordan will be referred, says organisation running schemeThe Home Office is facing claims it gave false hope to the people of Gaza after it ...",
+        "title": "People smugglers are still profiting from small boats. Can the UK fix the crisis?",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/11/people-smugglers-profit-small-boats-can-uk-fix-crisis",
+        "description": "As ‘one in, one out’ scheme ends, refugees still want to cross the Channel despite French police aggression and hostile welcomesThe smuggler works quickly. Using a small shovel, he digs up a dinghy...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "‘Bully in every way’: domestic abuse survivors say ex-partners behind far-right UK street patrols",
-        "url": "https://www.theguardian.com/society/2026/oct/06/uk-domestic-abuse-survivors-ex-partners-behind-far-right-street-patrols",
-        "description": "Seven women share their stories to make people aware of patterns of violence behind anti-immigration street patrol movementDuring their relationship, Lisa’s ex-partner was controlling. He kept her ...",
+        "title": "Surgeon faces deportation as Home Office revokes refugee status for Syrians",
+        "url": "https://www.theguardian.com/politics/2026/oct/11/surgeon-faces-deportation-syria-uk-home-office-revokes-refugee-status-syrians",
+        "description": "UK classifies Syria as safe to return to despite UN refugee body’s adviceA Syrian plastic surgeon is facing deportation from the UK after the Home Office revoked his refugee status, declaring it is...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Tory shadow minister claims Luton has ‘no-go zones’ where ‘white people won’t go’",
-        "url": "https://www.theguardian.com/politics/2026/oct/05/tory-shadow-minister-luton-no-go-zones-white-people-blake-stephenson",
-        "description": "Blake Stephenson tells fringe meeting at Tory conference that the town is ‘a very dangerous place’ with ‘ghettoes’A shadow Conservative Home Office minister has claimed there are “no-go zones” in L...",
+        "title": "Christian nationalism in Britain driven by people who seldom go to church, says report",
+        "url": "https://www.theguardian.com/world/2026/oct/11/christian-nationalism-uk-far-right-people-rarely-go-to-church-report",
+        "description": "Research challenges the notion that the growing visibility of crosses and other symbols reflects a revival of Christianity Christian nationalism in Britain is being driven largely by people who rar...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "‘We need less point scoring’: What party conference season taught us about UK climate action",
+        "url": "https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour",
+        "description": "Tories plan to scrap low-carbon housebuilding, Greens back new nuclear reactors, and Labour put oil-drilling decisions on holdNew homes could be built without solar panels, heat pumps and high-grad...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
         "url": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Climate crisis is coming to crush many of world’s best surf breaks, study warns",
-        "url": "https://www.theguardian.com/environment/2026/oct/10/climate-crisis-putting-world-best-surf-breaks-at-risk",
-        "description": "Changing tide levels, shifting sands and hardened shorelines put waves at risk, affecting more than just surfersThe climate crisis is coming for some of the world’s greatest surf breaks, submerging...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
         "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
         "description": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone.",
@@ -146,28 +146,35 @@
     ],
     "education": [
       {
+        "title": "Retrofit schools and consider moving exams to beat extreme heat, says teaching union leader",
+        "url": "https://www.theguardian.com/education/2026/oct/11/schools-exams-extreme-heat-neu-daniel-kebede",
+        "description": "NEU’s Daniel Kebede says earlier start times and longer summer breaks may be needed to help pupils and teachersSchools should consider changing start and finish times, reordering holidays and movin...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "France’s other schools problem – the teens violently smashing up their old primaries: ‘They think it’s not worthy of respect – so they trash it’",
+        "url": "https://www.theguardian.com/world/2026/oct/11/france-violent-attacks-trashings-schools-teenagers",
+        "description": "The phenomenon of pupils wrecking equipment and setting fire to classrooms predates the current crisis. Is it rooted in poverty, social media peer pressure – or just plain boredom?Like most French ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Camden council was warned about paedophile nursery worker years before arrest",
         "url": "https://www.theguardian.com/society/2026/oct/10/vincent-chan-paedophile-nursery-worker-camden-council-warning-years-before-arrest",
         "description": "Vincent Chan went on to abuse children after being cleared of ‘significant concerns’ following council-overseen inquiryA paedophile nursery worker was cleared by an investigation overseen by a loca...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Create new pre-apprenticeship scheme to close youth unemployment gap, says Milburn",
-        "url": "https://www.theguardian.com/education/2026/oct/10/pre-apprenticeship-scheme-landmark-alan-milburn-youth-jobs-crisis-report",
-        "description": "Exclusive: Former minister’s review warns that dramatic action is needed over huge drop in youth apprenticeship startsA national apprenticeship readiness scheme should be introduced in England to c...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Headteachers threaten strike ballots after losing confidence in Ofsted",
-        "url": "https://www.theguardian.com/education/2026/oct/10/ofsted-strikes-head-teachers-confidence",
-        "description": "Unions tell government to fix ‘overbearing mess’ of inspection regime and its impact on staff wellbeing – or risk industrial actionTensions between England’s headteachers and Ofsted are developing ...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "‘We need less point scoring’: What party conference season taught us about UK climate action",
+        "url": "https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour",
+        "description": "Tories plan to scrap low-carbon housebuilding, Greens back new nuclear reactors, and Labour put oil-drilling decisions on holdNew homes could be built without solar panels, heat pumps and high-grad...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Labour chair of housing committee calls for urgent funds for affordable homes in England",
         "url": "https://www.theguardian.com/society/2026/oct/09/labour-social-affordable-housing-abena-oppong-asare-england",
@@ -181,13 +188,6 @@
         "description": "According to city’s rent board, eviction notices are up 44% and tenants are on edge over landlords swooping in over their homesTo say that Maria Zamudio and her team have been busy lately would be ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "To reduce reoffending, prisoners need better support after release | Letter",
-        "url": "https://www.theguardian.com/society/2026/oct/08/to-reduce-reoffending-prisoners-need-better-support-after-release",
-        "description": "Pavan Dhaliwal responds to an article on the early release of prisoners. Plus a letter from someone who works in a men’s open prisonRegarding your article (Prisoners thank Andy Burnham as they leav...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
@@ -199,9 +199,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-        "description": "Another 309 people were injured in an attack a Saudi-led military coalition called a \"war crime\".",
+        "title": "Pope Leo to have surgery after lump found on lung",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2dnngvw8xo?at_medium=RSS&at_campaign=rss",
+        "description": "The 71-year-old pontiff said the nodule was identified \"at a very early stage\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
