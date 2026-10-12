@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-11T21:30:07.770584+00:00",
+  "fetched_at": "2026-10-12T04:26:11.917535+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK spending pressures",
+        "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+        "description": "Thinktank’s influential pre-budget report urges key decisions to be made now and not put off until next yearJohn Healey has been warned by Britain’s leading tax and spending experts that his budget...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
+        "url": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
+        "description": "Kanishka Narayan to say Britain cannot rely entirely on tech companies amid rising global concern over AI dangersCompanies building the most advanced AI systems must increase safety efforts, the UK...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Andy Burnham says it is clear Russia interfered in Brexit referendum",
         "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-russia-interfered-brexit-vote",
         "description": "PM says he asked question upon entering No 10 but does not reveal who gave him ‘clear answer’ Russia meddledAndy Burnham has said it is clear Russia interfered in the Brexit referendum, after seeki...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Zack Polanski signals Green party overhaul after row over Zionism vote",
-        "url": "https://www.theguardian.com/politics/2026/oct/11/zack-polanski-signals-green-party-overhaul-after-row-over-zionism-vote",
-        "description": "Rapid growth means structures need to change and give leaders greater control, Polanski says in Guardian articleZack Polanski: How we’re transforming British politicsZack Polanski has signalled a p...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham faces questions over push to scrap photo ID voting requirement",
-        "url": "https://www.theguardian.com/politics/2026/oct/11/andy-burnham-faces-questions-electoral-system-changes-photo-id-voting",
-        "description": "Ministers reportedly seeking to halve time for Lords scrutiny of voting and donations changes amid election speculationAndy Burnham is facing questions over plans to speed up sweeping changes to Br...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,9 @@
     ],
     "economy": [
       {
-        "title": "Developing nations face triple shock from energy crisis, El Niño and borrowing costs, UN warns",
-        "url": "https://www.theguardian.com/business/2026/oct/11/developing-nations-triple-shock-energy-crisis-el-nino-borrowing-costs-un-warns",
-        "description": "UN’s development arm calls for urgent action as crises could ‘throw tens if not hundreds of millions back into poverty’Developing countries face a triple shock from the energy crisis, El Niño and s...",
+        "title": "IFS: budget will be ‘work of fiction’ without clear plan to cover UK spending pressures",
+        "url": "https://www.theguardian.com/business/2026/oct/12/ifs-budget-report-spending-pressures-tax-inflation-john-healey",
+        "description": "Thinktank’s influential pre-budget report urges key decisions to be made now and not put off until next yearJohn Healey has been warned by Britain’s leading tax and spending experts that his budget...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Citroen revives the 2CV for an electric age",
-        "url": "https://www.bbc.co.uk/news/articles/c620r33plgppo?at_medium=RSS&at_campaign=rss",
-        "description": "The French firm is reinventing the classic model as carmakers come under pressure from Chinese rivals.",
+        "title": "Iran war threatens Healey's Budget plans, think tank warns",
+        "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+        "description": "The impact of the Iran war poses significant risks for the government’s spending plans, the Institute for Fiscal Studies says.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Autism, ADHD and mental health review: What you need to know",
-        "url": "https://www.bbc.co.uk/news/articles/crn8wyl4n42yo?at_medium=RSS&at_campaign=rss",
-        "description": "It contains big lessons for the NHS, welfare, education and employment policies. What are the key takeaways?",
+        "title": "Childhood cancer symptoms can be easily missed - here's what to look out for",
+        "url": "https://www.bbc.co.uk/news/articles/cwm237z77dgyo?at_medium=RSS&at_campaign=rss",
+        "description": "Although rare, cancer is the leading cause of death from disease among children under 15 in the UK.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Total fire ban for Sydney, with 37C temperatures and risk of bushfires from ‘dry lightning’",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/12/total-fire-ban-sydney-extreme-weather-temperature-37c",
+        "description": "Thunderstorms coupled with hot and dry conditions mean ‘fire danger is going to be right up today’, Rural Fire Service saysFollow our Australia politics live blog for latest updatesGet our new poli...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "‘We need less point scoring’: What party conference season taught us about UK climate action",
         "url": "https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour",
         "description": "Tories plan to scrap low-carbon housebuilding, Greens back new nuclear reactors, and Labour put oil-drilling decisions on holdNew homes could be built without solar panels, heat pumps and high-grad...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Dozens injured and buildings damaged as tornadoes hit Sicily",
-        "url": "https://www.theguardian.com/world/2026/oct/10/tornado-hit-marsala-sicily-injuries-damage",
-        "description": "Marsala on island’s west coast badly affected after powerful storm approached from MediterraneanTwo tornadoes have struck the coastal town of Marsala in western Sicily, injuring dozens of people, d...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'Prepare for the unthinkable' warning over autumn flooding",
-        "url": "https://www.bbc.co.uk/news/articles/cm4g1pqyqzqwo?at_medium=RSS&at_campaign=rss",
-        "description": "Those living in flood-hit areas say they are worried, and have started preparing.",
+        "title": "Watch: Endangered orangutans released back into the wild after Borneo fires",
+        "url": "https://www.bbc.co.uk/news/videos/c6073z5rvrk3o?at_medium=RSS&at_campaign=rss",
+        "description": "The critically endangered apes were rescued from intense wildfires that destroyed their habitat in August and September.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Saudi capital airport hit by second Houthi strike in two days",
+        "title": "Trump's 'energy ceasefire' claim welcomed by Zelensky but Russia silent",
+        "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's leader says he will support such a truce if Moscow does, after initially expressing surprise at Donald Trump's announcement.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
         "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-        "description": "The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
+        "description": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Poland detains man suspected of planning assassination of PM Tusk",
         "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss",
         "description": "Police received credible information about possible attacks against Donald Tusk and his defence minister.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-        "url": "https://www.bbc.co.uk/news/articles/cqy43vrk8wv8o?at_medium=RSS&at_campaign=rss",
-        "description": "Neither Egypt nor Sudan has commented on the alleged strikes on an artisanal mining camp on Saturday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
