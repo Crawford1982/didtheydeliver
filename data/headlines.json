@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-10-14T16:34:35.368201+00:00",
+  "fetched_at": "2026-10-14T21:17:35.428069+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham tells Zelenskyy’s UK’s support for Ukraine ‘will not change’ – UK politics live",
+        "title": "Reform UK councillors and candidates filmed making racist and extreme comments",
+        "url": "https://www.theguardian.com/politics/2026/oct/14/reform-uk-councillors-and-candidates-filmed-making-racist-and-extreme-comments",
+        "description": "Party faces fresh crisis as three councillors quit after ITV undercover filming exposed violence, misogyny and racist viewsReform UK has been rocked by a fresh crisis after councillors and election...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham tells Zelenskyy’s UK’s support for Ukraine ‘will not change’ – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
-        "description": "Burnham said Zelenskyy was ‘prepared to sit down and discuss’ the energy ceasefire proposed by TrumpPMQs is about to start.Here is the list of MPs down to ask a question.After @genevieve_holl repor...",
+        "description": "Zelenskyy says he will be discussing intelligence sharing ‘difficulties’ and Starlink access with BurnhamPMQs is about to start.Here is the list of MPs down to ask a question.After @genevieve_holl ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Palantir and Sadiq Khan drop legal battle over Met contract",
-        "url": "https://www.theguardian.com/technology/2026/oct/14/palantir-and-sadiq-khan-drop-legal-battle-over-met-contract",
-        "description": "Dispute related to claims London mayor blocked US tech firm from £50m police deal because of concerns over its valuesPalantir and the London mayor, Sadiq Khan, have called off their legal fight ove...",
+        "title": "UK’s ‘incoherent’ approach to China plagued by lack of expertise, report says",
+        "url": "https://www.theguardian.com/politics/2026/oct/14/uks-incoherent-approach-to-china-plagued-by-a-lack-of-expertise-report-says",
+        "description": "International alliance of China-sceptic legislators warns of risks inherent in misjudging bilateral relationshipThe UK’s approach to China is “beset by incoherence” and plagued by a lack of senior ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Done family took £30m dividend from Betfred before warning of job cuts",
-        "url": "https://www.theguardian.com/society/2026/oct/14/done-family-dividend-betfred-job-cuts",
-        "description": "Money was withdrawn from gambling firm before founder warned chancellor against doubling machine games dutyThe billionaire Done family took a £30m dividend from their Betfred gambling empire, befor...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-        "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-        "description": "It comes as the prime minister meets President Zelensky at Downing Street.",
+        "title": "We are behind you and that will not change, PM tells Zelensky",
+        "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
+        "description": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Netflix to cut 1,000 jobs worldwide",
-        "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
-        "description": "The cuts - the steepest since 2022 - equates to around 6% of its total workforce worldwide.",
+        "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+        "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro?at_medium=RSS&at_campaign=rss",
+        "description": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Plan unveiled to increase share of land farmed organically in England to 10%",
+        "url": "https://www.theguardian.com/environment/2026/oct/14/land-farmed-organically-england-share-10-pc-2036-plan-food-climate",
+        "description": "Government says ambition for 2036 will be good for food and climate resilience, but concerns remain over fundingThe government has set an ambition to increase the share of English land farmed organ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
         "url": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
         "description": "Hundreds of people displaced in Bangka Belitung with conditions described as worst in a decade with wildlife also badly hitA forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed n...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Total fire ban for Sydney, with high temperatures and risk of bushfires from ‘dry lightning’",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/12/total-fire-ban-sydney-extreme-weather-temperature-37c",
-        "description": "Olympic Park records high of 35.2C after Rural Fire Service warned of high fire danger across cityGet our new political email, free app or daily news podcastA total fire ban was in place across gre...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Burnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly'",
         "url": "https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss",
         "description": "Conservative leader Kemi Badenoch has urged the prime minister to stop \"faffing about\" with the North Sea oil and gas fields.",
@@ -146,28 +146,35 @@
     ],
     "education": [
       {
+        "title": "Student protests in Albania turn violent as demonstrators clash with police",
+        "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
+        "description": "Government building and two banks set on fire as tens of thousands take to streets over education costs and corruptionTens of thousands of students have taken to the streets of Tirana, the Albanian...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "France’s class action: inside the 16 October Guardian Weekly",
+        "url": "https://www.theguardian.com/news/2026/oct/14/frances-class-action-inside-the-16-october-guardian-weekly",
+        "description": "What drove student protests? Plus: Duran Duran’s extraordinary world • Get the Guardian Weekly delivered to your home addressFrance has been rocked by huge youth protests in recent weeks over the s...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "‘Children are naturally drawn to beauty’: the head of the ‘Issey Miyake’ preschool on their pleated uniforms",
         "url": "https://www.theguardian.com/fashion/2026/oct/14/issey-miyake-montessori-school-designer",
         "description": "Ms Lam Montessori’s head of school reveals teachers wear a different Japanese designer after their chic clothes drew online envy“Does anyone know what the deal is Ms Lam Montessori … and why all th...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Stop making sense: focus on sounds to help learn a language, study suggests",
-        "url": "https://www.theguardian.com/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests",
-        "description": "Research shows that the best linguists process unfamiliar foreign speech sounds more like non-speech soundsIf you want to get really good at French, Arabic or Hungarian, don’t start with rote learn...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Bacon, eggs and Bowie: how year 12 English students tackled ‘human strength and vulnerability’ in HSC paper",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/13/hsc-first-exam-english-paper-2026",
-        "description": "Tens of thousands of high school students across New South Wales sit the first test of their final examsGet our breaking news email, free app or daily news podcast“How does the composer of your pre...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "The Guardian view on Spain’s snap election: high stakes for Europe as Pedro Sánchez gambles again | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/14/the-guardian-view-on-spains-snap-election-high-stakes-for-europe-as-pedro-sanchez-gambles-again",
+        "description": "The Spanish prime minister has been a lonely champion of progressive values in the EU. But the polls look ominous When it comes to risk-taking, Spain’s prime minister, Pedro Sánchez, has a formidab...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Build-it-yourself housing project was a huge success in 1970s Lewisham | Letters",
         "url": "https://www.theguardian.com/society/2026/oct/14/build-it-yourself-housing-project-was-a-huge-success-in-1970s-lewisham",
@@ -181,20 +188,20 @@
         "description": "Video posted online shows men entering home through unlocked door and claiming to be looking for paperworkA Home Office accommodation provider has launched an investigation after “English nationali...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Coastal erosion in England has claimed at least 183 homes in past 16 years",
-        "url": "https://www.theguardian.com/environment/2026/oct/13/coastal-erosion-england-homes-demolished",
-        "description": "Exclusive: Homes demolished along east coast after being deemed too vulnerable to live in, figures revealSeaside communities along the east coast of England have lost at least 183 homes to coastal ...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-        "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+        "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Student protesters attack government buildings in Tirana",
+        "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of students in Albania are calling for better university conditions and job prospects, but buildings have been set on fire in the unrest.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
         "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
         "description": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US inflation rises more than expected - here's what is happening with prices",
-        "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-        "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
