@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-10-13T22:17:54.080593+00:00",
+  "fetched_at": "2026-10-14T03:37:23.795650+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Cryptocurrency exchange founded by Reform donor Ben Delo sued for £20m",
+        "url": "https://www.theguardian.com/politics/2026/oct/14/cryptocurrency-exchange-founded-by-reform-donor-ben-delo-sued-for-20m",
+        "description": "Former investor alleges BitMEX sold products in UK despite not being regulated by Financial Conduct AuthorityA cryptocurrency exchange founded by the billionaire Reform UK donor Ben Delo is being s...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Burnham to host Zelenskyy at No 10 in show of ‘rock-solid’ support",
         "url": "https://www.theguardian.com/politics/2026/oct/13/burnham-to-host-zelenskyy-at-no-10-in-show-of-rock-solid-support",
@@ -13,13 +20,6 @@
         "title": "UK high street bosses urge chancellor to cut cost of employing young people",
         "url": "https://www.theguardian.com/business/2026/oct/13/uk-high-street-bosses-urge-chancellor-to-cut-cost-of-employing-young-people",
         "description": "Retailers call on John Healey to reduce national insurance contributions threshold in his first budgetSome of the UK’s biggest retailers and hospitality businesses, including Tesco, Costa Coffee an...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests",
-        "description": "Exclusive: Caution urged over Javier Milei government’s ‘red notice’ requests for arrest of individuals linked to oil projectBritain has appealed to Interpol to reject Argentina’s requests for the ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Three things we've learnt about the UK economy from the IMF",
-        "url": "https://www.bbc.co.uk/news/articles/cmly05l1g15yo?at_medium=RSS&at_campaign=rss",
-        "description": "The influential economics body has upgraded its UK growth forecast for this year, but risks remain.",
+        "title": "Royal Mail losing 400 postal workers a week, says union",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss",
+        "description": "The CWU says more posties are leaving since a new delivery system was brought in, that it claims is not working in hundreds of offices.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "More tea? How Scotland's crops of the future could be set to change",
-        "url": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
-        "description": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
+        "title": "Gales and heavy rain to impact UK as yellow wind warning issued",
+        "url": "https://www.bbc.co.uk/weather/articles/cxvgdq0jj8d2o?at_medium=RSS&at_campaign=rss",
+        "description": "The Met Office has issued a yellow warning for wind in north-west Scotland on Wednesday with 70mph gusts possible, as Ben Rich explains.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Stop making sense: focus on sounds to help learn a language, study suggests",
+        "url": "https://www.theguardian.com/science/2026/oct/14/focus-on-sounds-to-help-learn-a-language-study-suggests",
+        "description": "Research shows that the best linguists process unfamiliar foreign speech sounds more like non-speech soundsIf you want to get really good at French, Arabic or Hungarian, don’t start with rote learn...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Bacon, eggs and Bowie: how year 12 English students tackled ‘human strength and vulnerability’ in HSC paper",
         "url": "https://www.theguardian.com/australia-news/2026/oct/13/hsc-first-exam-english-paper-2026",
@@ -156,13 +163,6 @@
         "title": "English councils warn of ‘catastrophic’ Send debts forecast to hit £10bn by 2028",
         "url": "https://www.theguardian.com/education/2026/oct/13/english-councils-catastrophic-send-debts-forecast-2028",
         "description": "Surge in EHCP applications poses risk to public finances and may lead to deteriorating levels of supportCouncils are warning of potentially “catastrophic” debts, which are forecast to reach a recor...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Deadline review – shocking threat sends tremors through authoritarian school",
-        "url": "https://www.theguardian.com/film/2026/oct/12/deadline-review-shocking-threat-sends-tremors-through-authoritarian-school",
-        "description": "Set in a dystopian private academy rife with surveillance and cut-throat competition, Kiwi Chow’s gripping drama cements his status as an important film-makerFilmed in Taiwan and set entirely insid...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "MI5 chief warns of threats to UK from Russia, Iran and AI",
-        "url": "https://www.bbc.co.uk/news/articles/c60rl5vwpk02o?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Ken McCallum says operations to tackle terrorism and state threats are now roughly of an \"equal scale\".",
+        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+        "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+        "description": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
