@@ -1,67 +1,74 @@
 {
-  "fetched_at": "2026-10-14T11:13:44.420229+00:00",
+  "fetched_at": "2026-10-14T16:34:35.368201+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham faces Badenoch at PMQs – UK politics live",
+        "title": "Burnham tells Zelenskyy’s UK’s support for Ukraine ‘will not change’ – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/oct/14/pmqs-andy-burnham-kemi-badenoch-zelenskyy-uk-politics-latest-news",
-        "description": "Prime minister is taking questions from leader of the opposition and other MPsPMQs is about to start.Here is the list of MPs down to ask a question.After @genevieve_holl reported this last night, v...",
+        "description": "Burnham said Zelenskyy was ‘prepared to sit down and discuss’ the energy ceasefire proposed by TrumpPMQs is about to start.Here is the list of MPs down to ask a question.After @genevieve_holl repor...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Nigel Farage says charities that help asylum seekers get to UK should be prosecuted",
-        "url": "https://www.theguardian.com/politics/2026/oct/14/nigel-farage-charities-help-asylum-seekers-uk-prosecute",
-        "description": "Reform leader did not say who should be targeted but party figures have been critical of small boat rescues by RNLICharities and volunteers who help asylum seekers get to the UK should face potenti...",
+        "title": "Palantir and Sadiq Khan drop legal battle over Met contract",
+        "url": "https://www.theguardian.com/technology/2026/oct/14/palantir-and-sadiq-khan-drop-legal-battle-over-met-contract",
+        "description": "Dispute related to claims London mayor blocked US tech firm from £50m police deal because of concerns over its valuesPalantir and the London mayor, Sadiq Khan, have called off their legal fight ove...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Global financial system is failing developing countries, says Ed Miliband",
-        "url": "https://www.theguardian.com/politics/2026/oct/14/global-financial-system-is-failing-developing-countries-says-ed-miliband-world-bank",
-        "description": "UK foreign secretary will call for World Bank and others to help governments trapped by hefty borrowing costsThe foreign secretary, Ed Miliband, will claim the global financial system is failing de...",
+        "title": "Done family took £30m dividend from Betfred before warning of job cuts",
+        "url": "https://www.theguardian.com/society/2026/oct/14/done-family-dividend-betfred-job-cuts",
+        "description": "Money was withdrawn from gambling firm before founder warned chancellor against doubling machine games dutyThe billionaire Done family took a £30m dividend from their Betfred gambling empire, befor...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Zelensky and Burnham to meet in Downing Street",
+        "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
         "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky.",
+        "description": "It comes as the prime minister meets President Zelensky at Downing Street.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Threat of AI share crash puts world financial stability at risk, says IMF",
-        "url": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
-        "description": "High valuations and debt put sector in danger, while fund also warns on government borrowing and cyber-attacksIMF warns global economy ‘could soon test the limits of resilience’The threat of an AI ...",
+        "title": "The problem with living in a rich man’s world | Letters",
+        "url": "https://www.theguardian.com/news/2026/oct/14/the-problem-with-living-in-a-rich-mans-world",
+        "description": "David Redshaw and Fernando Quintana respond to reports of a billionaire exodus from BritainThe idea that the departure of the super-rich is a problem ignores a historical fact (Apparent exodus of s...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Diesel squeeze expected to continue into 2027 despite Trump’s deal with Russia – business live",
+        "title": "US inflation rose to 3.7% in September in blow to Republicans before midterms",
+        "url": "https://www.theguardian.com/business/2026/oct/14/inflation-numbers-september",
+        "description": "Final inflation report before voters go to polls comes amid widespread anger over cost of living under TrumpSend us your questions on how the US economy is shaping the midterm electionsRepublicans ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "‘Ugly’ jump in US inflation, driven by gasoline prices, in blow to Trump before midterm elections – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/oct/14/imf-rising-government-borrowing-costs-inflation-oil-stock-markets-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial news, including the IMF meeting in Thailand and the IEA’s new oil market reportGlobal financial system is failing developing countries, says Ed...",
+        "description": "Rolling coverage of the latest economic and financial news, including the IMF meeting in Thailand, the IEA’s new oil market report, and US inflationFull story: US inflation rose to 3.7% in Septembe...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Bank of England and IMF bosses warn of cyber threat to trust in financial system",
-        "url": "https://www.theguardian.com/business/2026/oct/14/bank-of-england-imf-bosses-warning-cyber-threat-to-trust",
-        "description": "Kristalina Georgieva says online fraud could lead people to opt out of system and turn to ‘shoeboxes under their bed’Business live – latest updatesThe heads of the Bank of England and the Internati...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o?at_medium=RSS&at_campaign=rss",
-        "description": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
+        "title": "Netflix to cut 1,000 jobs worldwide",
+        "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss",
+        "description": "The cuts - the steepest since 2022 - equates to around 6% of its total workforce worldwide.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "To unlock Britain’s innovation potential, Labour needs to think outside the box | Letters",
+        "url": "https://www.theguardian.com/education/2026/oct/14/to-unlock-britains-innovation-potential-labour-needs-to-think-outside-the-box",
+        "description": "Kate Fleming says the government must look beyond the models it rewards today, while Jenny Haigh says unlocking potential means recognising that creativity and science are partnersGordon Brown want...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "UK government apologises for past burials of stillborn babies in mass graves",
         "url": "https://www.theguardian.com/uk-news/2026/oct/14/uk-government-apologises-stillborn-babies-mass-graves",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "From the archive: ‘Voters are unhappier with the NHS than they’ve been for 30 years. As a GP, I feel the same’ – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/oct/14/from-the-archive-voters-are-unhappier-with-the-nhs-than-theyve-been-for-30-years-as-a-gp-i-feel-the-same-podcast",
-        "description": "We are raiding the Guardian long read archives to bring you some classic pieces from years past, with new introductions from the authorsThis week, from 2023: Even those at the top admit the NHS can...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Cut screen time in classrooms to avoid long-term health issues, clinicians urge",
         "url": "https://www.bbc.co.uk/news/articles/cq4g18prn4l4o?at_medium=RSS&at_campaign=rss",
         "description": "A group of clinicians warns technology use in English schools is driving a rise in health problems like short-sightedness.",
@@ -93,7 +93,14 @@
     ],
     "immigration": [
       {
-        "title": "Nigel Farage says charities that help asylum seekers get to UK should be prosecuted",
+        "title": "‘English nationalist’ content creators film themselves in asylum seekers’ house",
+        "url": "https://www.theguardian.com/media/2026/oct/14/content-creators-described-as-english-nationalist-film-themselves-in-asylum-seekers-house",
+        "description": "Video posted online shows men entering home through unlocked door and claiming to be looking for paperworkA Home Office accommodation provider has launched an investigation after “English nationali...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Nigel Farage says charities that help asylum seekers reach UK should be prosecuted",
         "url": "https://www.theguardian.com/politics/2026/oct/14/nigel-farage-charities-help-asylum-seekers-uk-prosecute",
         "description": "Reform leader did not say who should be targeted but party figures have been critical of small boat rescues by RNLICharities and volunteers who help asylum seekers get to the UK should face potenti...",
         "source": "The Guardian",
@@ -103,13 +110,6 @@
         "title": "Wednesday briefing: ​Why small boat crossings are here to stay ​",
         "url": "https://www.theguardian.com/world/2026/oct/14/wednesday-briefing-why-small-boat-crossings-are-here-to-stay",
         "description": "In today’s newsletter: The ​collapse of the UK’s ‘one in, one out’ asylum deal with France exposes the limits of border enforcement that did little to stop crossings, and only made them more danger...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Farage denies Reform would let troops shoot small boats after Jenrick’s ‘lethal force’ claim",
-        "url": "https://www.theguardian.com/politics/2026/oct/13/nigel-farage-reform-robert-jenrick-small-boats-royal-marines-lethal-force",
-        "description": "Farage’s intervention comes as Reform chair Zia Yusuf criticises ‘everybody’ in former Tory government that included Jenrick and Suella BravermanNigel Farage has denied that a Reform UK government ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,16 +137,16 @@
         "category": "climate"
       },
       {
-        "title": "More tea? How Scotland's crops of the future could be set to change",
-        "url": "https://www.bbc.co.uk/news/articles/cxdd80z9yjpqo?at_medium=RSS&at_campaign=rss",
-        "description": "Experts are examining the ways Scotland's farmers might diversify and adapt to a changing climate.",
+        "title": "Burnham - Rosebank and Jackdaw oil and gas decisions coming 'shortly'",
+        "url": "https://www.bbc.co.uk/news/articles/c92031m6knljo?at_medium=RSS&at_campaign=rss",
+        "description": "Conservative leader Kemi Badenoch has urged the prime minister to stop \"faffing about\" with the North Sea oil and gas fields.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
-        "title": "‘Children are naturally drawn to beauty’: the head of the ‘fake’ Issey Miyake preschool on their pleated uniforms",
+        "title": "‘Children are naturally drawn to beauty’: the head of the ‘Issey Miyake’ preschool on their pleated uniforms",
         "url": "https://www.theguardian.com/fashion/2026/oct/14/issey-miyake-montessori-school-designer",
         "description": "Ms Lam Montessori’s head of school reveals teachers wear a different Japanese designer after their chic clothes drew online envy“Does anyone know what the deal is Ms Lam Montessori … and why all th...",
         "source": "The Guardian",
@@ -169,46 +169,46 @@
     ],
     "housing": [
       {
+        "title": "Build-it-yourself housing project was a huge success in 1970s Lewisham | Letters",
+        "url": "https://www.theguardian.com/society/2026/oct/14/build-it-yourself-housing-project-was-a-huge-success-in-1970s-lewisham",
+        "description": "John Banks on the driving force behind a pioneering self-build project in the London borough. Plus a letter from Jonathan PearsonAn uplifting article by Phineas Harper about plans for self-build ho...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "‘English nationalist’ content creators film themselves in asylum seekers’ house",
+        "url": "https://www.theguardian.com/media/2026/oct/14/content-creators-described-as-english-nationalist-film-themselves-in-asylum-seekers-house",
+        "description": "Video posted online shows men entering home through unlocked door and claiming to be looking for paperworkA Home Office accommodation provider has launched an investigation after “English nationali...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Coastal erosion in England has claimed at least 183 homes in past 16 years",
         "url": "https://www.theguardian.com/environment/2026/oct/13/coastal-erosion-england-homes-demolished",
         "description": "Exclusive: Homes demolished along east coast after being deemed too vulnerable to live in, figures revealSeaside communities along the east coast of England have lost at least 183 homes to coastal ...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Ex-director who oversaw Grenfell cost-cutting leaves council housing role after backlash",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/12/former-grenfell-tower-housing-boss-laura-johnson-leaves-council-property-role-after-backlash",
-        "description": "Survivors had criticised ‘outrageous’ appointment of Laura Johnson to £150,000 job with Barnet GroupA housing director who oversaw cost cutting at Grenfell Tower before the fatal fire has left a £1...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "‘We need less point scoring’: What party conference season taught us about UK climate action",
-        "url": "https://www.theguardian.com/politics/2026/oct/11/party-conference-season-uk-climate-action-tories-greens-labour",
-        "description": "Tories plan to scrap low-carbon housebuilding, Greens back new nuclear reactors, and Labour put oil-drilling decisions on holdNew homes could be built without solar panels, heat pumps and high-grad...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
+        "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
         "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-        "description": "Critical energy infrastructure is hit, as Ukraine says speed restrictions of Elon Musk's Starlink are disrupting battlefield missions.",
+        "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-        "description": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+        "title": "Pope walking and recovering 'as expected' after surgery, doctors say",
+        "url": "https://www.bbc.co.uk/news/articles/cwx28r0zvm6lo?at_medium=RSS&at_campaign=rss",
+        "description": "The 71-year-old Pope was diagnosed with lung cancer after the 90-minute procedure on Tuesday.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-        "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-        "description": "Four years after the attacks, Serhii K is in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+        "title": "US inflation rises more than expected - here's what is happening with prices",
+        "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+        "description": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
