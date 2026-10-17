@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-17T14:58:54.529708+00:00",
+  "fetched_at": "2026-10-17T20:08:50.856069+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Briton threatened with deportation from Sweden over Brexit rules goes into hiding",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/17/we-are-in-hiding-briton-severe-health-issues-fears-deportation-sweden",
-        "description": "Mark Smith, who has severe health issues, says he was told three times he needed to do nothing in order to remain after BrexitA seriously ill British man living in Sweden has been forced into hidin...",
+        "title": "No action to be taken against wife of PM’s aide over Palestine Action post",
+        "url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
+        "description": "Tweet by Sarah Helm, wife of national security adviser Jonathan Powell, ‘does not meet criminal threshold’No further action will be taken against Sarah Helm, the wife of the prime minister’s nation...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Plan to make firms pay more to train older workers than youth apprentices in England",
-        "url": "https://www.theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england",
-        "description": "Exclusive: Ministers considering overhaul of apprenticeship funding scheme to tackle youth jobs crisisEmployers in England are to be forced to pay more to train an older worker than a youth apprent...",
+        "title": "Reform candidate filmed saying asylum seekers should be put in ‘concentration camps’",
+        "url": "https://www.theguardian.com/politics/2026/oct/17/reform-candidate-filmed-saying-asylum-seekers-should-be-put-in-concentration-camps",
+        "description": "Would-be MP recorded telling undercover reporter in ITV investigation that Muslims could not be British\n \n A would-be Reform UK MP told an undercover reporter that Muslims could not be British and ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
-        "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast",
-        "description": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible, the Spectator, he has helped shap...",
+        "title": "SNP says campaign for next referendum on independence ‘has already begun’",
+        "url": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
+        "description": "John Swinney tells party conference SNP will use ‘six-figure war chest’ to renew argument for leaving UKJohn Swinney has said that the second referendum campaign for Scottish independence “has alre...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,13 @@
     ],
     "economy": [
       {
+        "title": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
+        "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+        "description": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from ChinaThere is much to fear from artificial intelligence developed in China and hande...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "‘Countries are defying gravity’: how much longer can global economy resist chaos?",
         "url": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
         "description": "Sky-high oil prices and geopolitical turmoil have made less of a dent than feared … just don’t bank on it to lastInside the vast, glass-walled Queen Sirikit conference centre in Bangkok, the air-co...",
@@ -43,13 +50,6 @@
         "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
         "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast",
         "description": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible, the Spectator, he has helped shap...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Extreme heatwaves in Europe not changing Britons’ holiday plans, say travel bosses",
-        "url": "https://www.theguardian.com/business/2026/oct/16/extreme-heatwaves-in-europe-not-changing-brits-holiday-plans-say-travel-bosses",
-        "description": "Hot summer getaways are still popular – but tourism industry fears impact of rising jet fuel costs and squeezed household incomesAfter a year marked by extreme heat and war sending fuel prices skyw...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
+        "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
+        "description": "French government launches investigation into why cars funded by UK to prevent asylum seekers crossing Channel were used in school protestsFrench police have used 4x4 vehicles paid for by British t...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Home Office denies British baby living in Thailand chance to meet great-grandfather in UK",
         "url": "https://www.theguardian.com/politics/2026/oct/17/home-office-visa-british-baby-thailand-great-grandfather",
         "description": "British father would like to take his family to Lancashire to see ill relative but officials refused visa for his partner, a refugee from MyanmarThe Home Office has denied a great-grandfather from ...",
@@ -105,16 +112,16 @@
         "description": "‘Unfair’ immigration and asylum bill could fail to support sexual violence survivors, anti-slavery commissioner saysSurvivors of sexual violence could wrongly be denied recognition as victims of hu...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Eritrea accuses Shabana Mahmood of ‘political gimmick’ over visa ban threat",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/15/uk-threatens-to-ban-eritreans-over-returns-policy",
-        "description": "Home secretary says she will block all Eritreans from UK unless a returns deal is agreed for rejected asylum seekers and criminalsShabana Mahmood has been accused of launching a “perfunctory politi...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone",
+        "description": "Exclusive: Research confirms official advice about high-risk properties and warns worsening conditions will make more homes unsafeSign up for climate and environment editor Adam Morton’s free Clear...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Severe drought declared in six areas of England as reservoirs run low",
         "url": "https://www.theguardian.com/environment/2026/oct/15/severe-drought-declared-six-areas-england-public-water-supplies-threat",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Indonesia wildfire fuelled by El Niño razes almost 300 homes",
-        "url": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
-        "description": "Hundreds of people displaced in Bangka Belitung with conditions described as worst in a decade with wildlife also badly hitA forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed n...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Avian flu and costs among reasons for loss of captive birds at Castle Espie",
-        "url": "https://www.bbc.co.uk/news/articles/c6m24e1ln130o?at_medium=RSS&at_campaign=rss",
-        "description": "Difficulties in transporting animals since Brexit has contributed to the decline in the number of captive birds.",
+        "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
+        "description": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
         "source": "BBC News",
         "category": "climate"
       }
