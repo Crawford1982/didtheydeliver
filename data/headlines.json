@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-16T20:31:14.116878+00:00",
+  "fetched_at": "2026-10-17T03:04:23.791029+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Reform councillor resigns after being filmed making racist remarks",
+        "url": "https://www.theguardian.com/politics/2026/oct/16/reform-councillor-resigns-after-being-filmed-making-racist-remarks",
+        "description": "Alan Feeney, who sat on Solihull and Birmingham councils, said there was ‘no excuse’ for his comments Alan Feeney has resigned as a Reform councillor for Solihull and Birmingham after backlash over...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
+        "url": "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
+        "description": "Chancellor says government will study responses to public consultation, with airports being ‘big part of jobs and growth’John Healey has said there is a pro-growth case for going ahead with a third...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
         "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
         "description": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe packageNo 10 has left the door open to imposing tariffs on Chinese-made electric vehicles...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK national security adviser under pressure over wife’s comment on supporting Palestine Action",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/16/uk-national-security-adviser-jonathan-powell-sarah-helm-sally-rooney-palestine-action",
-        "description": "Author Sarah Helm, married to Jonathan Powell, wrote to back novelist Sally Rooney’s support of proscribed direct action groupThe UK’s national security adviser, Jonathan Powell, is under pressure ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Six-figure payout for senior civil servant sacked over Peter Mandelson vetting",
-        "url": "https://www.theguardian.com/politics/2026/oct/16/six-figure-payout-olly-robbins-sacked-peter-mandelson-vetting",
-        "description": "Former head of Foreign Office Olly Robbins applied for judicial review after Keir Starmer dismissed him in AprilOlly Robbins, the former head of the Foreign Office sacked by Keir Starmer over his r...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Russian man linked to deadly London hospitals hack arrested",
-        "url": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
-        "description": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
+        "title": "Pope pictured for first time since surgery and cancer diagnosis",
+        "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
+        "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Living with a stink? Technology might help",
-        "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-        "description": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+        "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+        "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
-        "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+        "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+        "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+        "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump denies limiting Ukraine access to Starlink network",
-        "url": "https://www.bbc.co.uk/news/articles/ckz65g34wyd8o?at_medium=RSS&at_campaign=rss",
-        "description": "Speed curbs limited Ukraine's defences against deadly Russian attacks on Tuesday night.",
+        "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+        "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+        "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
