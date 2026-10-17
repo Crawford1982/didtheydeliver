@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-10-17T10:10:18.998635+00:00",
+  "fetched_at": "2026-10-17T14:58:54.529708+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Briton threatened with deportation from Sweden over Brexit rules goes into hiding",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/17/we-are-in-hiding-briton-severe-health-issues-fears-deportation-sweden",
+        "description": "Mark Smith, who has severe health issues, says he was told three times he needed to do nothing in order to remain after BrexitA seriously ill British man living in Sweden has been forced into hidin...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Plan to make firms pay more to train older workers than youth apprentices in England",
         "url": "https://www.theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england",
@@ -17,13 +24,6 @@
         "category": "government"
       },
       {
-        "title": "Reform councillor resigns after being filmed making racist remarks",
-        "url": "https://www.theguardian.com/politics/2026/oct/16/reform-councillor-resigns-after-being-filmed-making-racist-remarks",
-        "description": "Alan Feeney, who sat on Solihull and Birmingham councils, said there was ‘no excuse’ for his comments Alan Feeney has resigned as a Reform councillor for Solihull and Birmingham after backlash over...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "Ex-top official Robbins reaches settlement with government over sacking",
         "url": "https://www.bbc.co.uk/news/articles/c64g18r402geo?at_medium=RSS&at_campaign=rss",
         "description": "Sir Olly Robbins was sacked as the top civil servant in the Foreign Office over the vetting of Lord Mandelson.",
@@ -33,7 +33,7 @@
     ],
     "economy": [
       {
-        "title": "‘Countries are defying gravity at all income levels’: how long can global economy resist chaos?",
+        "title": "‘Countries are defying gravity’: how much longer can global economy resist chaos?",
         "url": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
         "description": "Sky-high oil prices and geopolitical turmoil have made less of a dent than feared … just don’t bank on it to lastInside the vast, glass-walled Queen Sirikit conference centre in Bangkok, the air-co...",
         "source": "The Guardian",
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Pope pictured for first time since surgery and cancer diagnosis",
-        "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o?at_medium=RSS&at_campaign=rss",
-        "description": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+        "title": "Pope discharged from hospital days after lung cancer surgery",
+        "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+        "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "‘We’re not playing games’: Parents launch playground protests to fight school field sell-off",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off",
+        "description": "School looking to sell piece of open land beloved by people in Devon town to fund refurbishmentsOn Saturdays throughout autumn, residents of Totnes have met at a field on the banks of the River Dar...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Plan to make firms pay more to train older workers than youth apprentices in England",
         "url": "https://www.theguardian.com/business/2026/oct/17/make-firms-pay-more-train-older-workers-youth-apprentices-england",
         "description": "Exclusive: Ministers considering overhaul of apprenticeship funding scheme to tackle youth jobs crisisEmployers in England are to be forced to pay more to train an older worker than a youth apprent...",
@@ -156,13 +163,6 @@
         "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
         "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
         "description": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets, say researchers at University of TorontoAn Israeli advertising agency has been serving milli...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Student protests in Albania turn violent as demonstrators clash with police",
-        "url": "https://www.theguardian.com/world/2026/oct/14/student-protests-tirana-albania-police-clashes",
-        "description": "Dozens of people detained after government building and two banks set on fire  as tens of thousands march over education costs and corruptionTens of thousands of students have taken to the streets ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -199,7 +199,7 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+        "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
         "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
         "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
         "source": "BBC News",
