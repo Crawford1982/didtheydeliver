@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-10-18T15:23:50.119273+00:00",
+  "fetched_at": "2026-10-18T20:07:22.383206+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Manchester City owner’s £55m housing loan while Burnham was mayor investigated",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
-        "description": "Scrutiny committee looks into financing of Manchester Life project as PM promises ‘full transparency’A £55m loan to Manchester City’s Abu Dhabi owner will be investigated as part of a review into a...",
+        "title": "Cut benefits to fund work support for young people, says Neet review author Alan Milburn",
+        "url": "https://www.theguardian.com/society/2026/oct/18/cut-benefits-fund-employment-support-young-people-neet-review-author-alan-milburn",
+        "description": "Exclusive: Former health secretary says upfront investment in support is needed ‘if we are going to end the Neet crisis’Ministers should cut welfare spending to fund more employment support if it w...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
+        "url": "https://www.theguardian.com/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner",
+        "description": "UK home secretary’s meeting comes after PM said he wanted to rejoin European law enforcement databasesThe UK home secretary, Shabana Mahmood, will meet the EU’s home affairs commissioner on Monday ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -13,13 +20,6 @@
         "title": "Zack Polanski says application of Zionism is racist and no state has right to exist",
         "url": "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist",
         "description": "Green leader in England and Wales calls ‘debates about words’ unhelpful and denies recent motion was controversialZack Polanski has said Zionism in its current form is racist, that no country has a...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Aspiring Reform MP who said ‘you cannot be Muslim and British’ suspended",
-        "url": "https://www.theguardian.com/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
-        "description": "Jason Powell also backed concentration camps as Reform councillors talk of executing grooming gang membersAn aspiring Reform UK MP who advocated the use of concentration camps and said “you cannot ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,7 +63,7 @@
     ],
     "nhs": [
       {
-        "title": "New NHS England policy for trans people could have ‘a number of adverse impacts’, report finds",
+        "title": "NHS England policy for trans people could have ‘a number of adverse impacts’, report finds",
         "url": "https://www.theguardian.com/society/2026/oct/18/nhs-england-guidance-single-sex-wards-trans-people-adverse-impacts-report",
         "description": "Exclusive: rules on same-sex wards could lead to delays in care, discrimination and animosity between groups, finds internal assessmentTrans people could face delays and a greater risk of “corridor...",
         "source": "The Guardian",
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
+        "url": "https://www.theguardian.com/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner",
+        "description": "UK home secretary’s meeting comes after PM said he wanted to rejoin European law enforcement databasesThe UK home secretary, Shabana Mahmood, will meet the EU’s home affairs commissioner on Monday ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Aspiring Reform MP who said ‘you cannot be Muslim and British’ suspended",
         "url": "https://www.theguardian.com/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
         "description": "Jason Powell also backed concentration camps as Reform councillors talk of executing grooming gang membersAn aspiring Reform UK MP who advocated the use of concentration camps and said “you cannot ...",
@@ -103,13 +110,6 @@
         "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
         "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
         "description": "French government investigating why cars funded by UK to prevent asylum seekers crossing Channel were used in school protestsFrench police have used 4x4 vehicles paid for by British taxpayers to ch...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Home Office denies British baby living in Thailand chance to meet great-grandfather in UK",
-        "url": "https://www.theguardian.com/politics/2026/oct/17/home-office-visa-british-baby-thailand-great-grandfather",
-        "description": "British father would like to take his family to Lancashire to see ill relative but officials refused visa for his partner, a refugee from MyanmarThe Home Office has denied a great-grandfather from ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -139,7 +139,7 @@
       {
         "title": "Fuel leak spreads more than two miles along River Taff",
         "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
-        "description": "Public Health Wales advise people living nearby to shut their doors and windows due to the smell.",
+        "description": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-        "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-        "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+        "title": "Macron calls for calm in France and warns rioting must not escalate",
+        "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "description": "French President Emmanuel Macron made a national television address after rioting caused widespread damage.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-        "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+        "title": "What we know so far about deadly fire at Canadian military base",
+        "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+        "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
