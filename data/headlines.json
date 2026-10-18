@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-18T03:06:47.205163+00:00",
+  "fetched_at": "2026-10-18T10:25:57.354806+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Aspiring Reform MP who said ‘you cannot be Muslim and British’ suspended",
+        "url": "https://www.theguardian.com/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
+        "description": "Jason Powell also backed concentration camps as Reform councillors talk of executing grooming gang membersAn aspiring Reform UK MP who advocated the use of concentration camps and said “you cannot ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
+        "url": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
+        "description": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible the Spectator, he has helped shape...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Yvette Cooper pledges £140m to boost urgent care as NHS faces ‘tough’ winter",
         "url": "https://www.theguardian.com/society/2026/oct/18/yvette-cooper-140m-boost-urgent-care-nhs-tough-winter",
         "description": "Health secretary says government has been preparing early and will spend money on ambulances and A&E upgradesThe NHS faces a more challenging winter than normal, the health secretary has warned, as...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "No action to be taken against wife of PM’s aide over Palestine Action post",
-        "url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
-        "description": "Tweet by Sarah Helm, wife of national security adviser Jonathan Powell, ‘does not meet criminal threshold’No further action will be taken against Sarah Helm, the wife of the prime minister’s nation...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform candidate filmed saying asylum seekers should be put in ‘concentration camps’",
-        "url": "https://www.theguardian.com/politics/2026/oct/17/reform-candidate-filmed-saying-asylum-seekers-should-be-put-in-concentration-camps",
-        "description": "Would-be MP recorded telling undercover reporter in ITV investigation that Muslims could not be BritishA would-be Reform UK MP told an undercover reporter that Muslims could not be British and asyl...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "World Bank says ‘small AI’ could transform developing countries",
+        "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
+        "description": "Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decadesThe World Bank is urging developing countries to kickstart the creation of “small AI” model...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
+        "url": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
+        "description": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible the Spectator, he has helped shape...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
         "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
         "description": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from ChinaThere is much to fear from artificial intelligence developed in China and hande...",
@@ -40,28 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "‘Countries are defying gravity’: how much longer can global economy resist chaos?",
-        "url": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
-        "description": "Sky-high oil prices and geopolitical turmoil have made less of a dent than feared … just don’t bank on it to lastInside the vast, glass-walled Queen Sirikit conference centre in Bangkok, the air-co...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
-        "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast",
-        "description": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible, the Spectator, he has helped shap...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Banks expect to be hit with higher taxes in Budget",
-        "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-        "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+        "title": "There's a crackdown on sports piracy - but is it already out of control?",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
+        "description": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "NHS staff who wrongly accessed tiger victim’s records should be sacked, says Yvette Cooper",
+        "url": "https://www.theguardian.com/society/2026/oct/18/nhs-staff-tiger-william-chapman-records-yvette-cooper",
+        "description": "Health secretary says it is ‘total disgrace’ if staff looked up William Chapman, who died at Yorkshire Wildlife ParkNHS staff who inappropriately accessed the medical records of a man mauled to dea...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Yvette Cooper pledges £140m to boost urgent care as NHS faces ‘tough’ winter",
         "url": "https://www.theguardian.com/society/2026/oct/18/yvette-cooper-140m-boost-urgent-care-nhs-tough-winter",
@@ -77,21 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "Palantir patient data tech rejected by many NHS trusts in England",
-        "url": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
-        "description": "Exclusive: health bodies across country say controversial US firm’s data platform no better than systems already in useNHS organisations that care for millions of people in England are rejecting Pa...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Pope discharged from hospital days after lung cancer surgery",
-        "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-        "description": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+        "title": "Ending corridor care in hospitals for children will be a priority, says health secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Aspiring Reform MP who said ‘you cannot be Muslim and British’ suspended",
+        "url": "https://www.theguardian.com/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
+        "description": "Jason Powell also backed concentration camps as Reform councillors talk of executing grooming gang membersAn aspiring Reform UK MP who advocated the use of concentration camps and said “you cannot ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
         "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
@@ -103,13 +110,6 @@
         "title": "Home Office denies British baby living in Thailand chance to meet great-grandfather in UK",
         "url": "https://www.theguardian.com/politics/2026/oct/17/home-office-visa-british-baby-thailand-great-grandfather",
         "description": "British father would like to take his family to Lancashire to see ill relative but officials refused visa for his partner, a refugee from MyanmarThe Home Office has denied a great-grandfather from ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "UK law could deny Fayed accusers recognition as victims of human trafficking",
-        "url": "https://www.theguardian.com/law/2026/oct/16/fayed-abuse-accusers-could-be-denied-recognition-as-trafficking-victims-under-new-uk-law",
-        "description": "‘Unfair’ immigration and asylum bill could fail to support sexual violence survivors, anti-slavery commissioner saysSurvivors of sexual violence could wrongly be denied recognition as victims of hu...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Fast-moving California wildfire burns homes as people are ordered to leave",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgjnk8nw2wo?at_medium=RSS&at_campaign=rss",
-        "description": "Fanned by the fierce Santa Ana winds, the Norte Fire is one of 13 burning across the state.",
+        "title": "How to see the Orionid meteor shower",
+        "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
+        "description": "One of the best-known meteor showers peaks this week and will remain active until 7 November.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
-        "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
-        "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+        "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+        "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+        "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+        "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "European diplomats attacked by Israeli settlers in West Bank",
-        "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-        "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+        "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
