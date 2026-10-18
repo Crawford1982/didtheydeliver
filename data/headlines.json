@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-10-18T10:25:57.354806+00:00",
+  "fetched_at": "2026-10-18T15:23:50.119273+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Manchester City owner’s £55m housing loan while Burnham was mayor investigated",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
+        "description": "Scrutiny committee looks into financing of Manchester Life project as PM promises ‘full transparency’A £55m loan to Manchester City’s Abu Dhabi owner will be investigated as part of a review into a...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Zack Polanski says application of Zionism is racist and no state has right to exist",
+        "url": "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist",
+        "description": "Green leader in England and Wales calls ‘debates about words’ unhelpful and denies recent motion was controversialZack Polanski has said Zionism in its current form is racist, that no country has a...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Aspiring Reform MP who said ‘you cannot be Muslim and British’ suspended",
         "url": "https://www.theguardian.com/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
@@ -10,46 +24,32 @@
         "category": "government"
       },
       {
-        "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
-        "url": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
-        "description": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible the Spectator, he has helped shape...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Yvette Cooper pledges £140m to boost urgent care as NHS faces ‘tough’ winter",
-        "url": "https://www.theguardian.com/society/2026/oct/18/yvette-cooper-140m-boost-urgent-care-nhs-tough-winter",
-        "description": "Health secretary says government has been preparing early and will spend money on ambulances and A&E upgradesThe NHS faces a more challenging winter than normal, the health secretary has warned, as...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Ex-top official Robbins reaches settlement with government over sacking",
-        "url": "https://www.bbc.co.uk/news/articles/c64g18r402geo?at_medium=RSS&at_campaign=rss",
-        "description": "Sir Olly Robbins was sacked as the top civil servant in the Foreign Office over the vetting of Lord Mandelson.",
+        "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+        "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "Small business owners are doing OK – but will that help Trump overcome his low approval ratings?",
+        "url": "https://www.theguardian.com/business/2026/oct/18/small-business-owners-trump-economy",
+        "description": "Overall, economic sentiment for Trump is poor, but small businesses seem fairly confident, according to several surveysThere are 34m small businesses in the United States. They employ approximately...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "World leaders must wise up to threat of cyber-attacks or rogue fridges will be least of their worries | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system",
+        "description": "Global cooperation seems unlikely despite AI increasing the risk of digital fraud and the need to protect the financial systemRogue French fridges were an unlikely talking point for the world’s lea...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "World Bank says ‘small AI’ could transform developing countries",
         "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
         "description": "Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decadesThe World Bank is urging developing countries to kickstart the creation of “small AI” model...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty",
-        "url": "https://www.theguardian.com/news/audio/2026/oct/18/michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty",
-        "description": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible the Spectator, he has helped shape...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
-        "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
-        "description": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from ChinaThere is much to fear from artificial intelligence developed in China and hande...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -63,9 +63,16 @@
     ],
     "nhs": [
       {
+        "title": "New NHS England policy for trans people could have ‘a number of adverse impacts’, report finds",
+        "url": "https://www.theguardian.com/society/2026/oct/18/nhs-england-guidance-single-sex-wards-trans-people-adverse-impacts-report",
+        "description": "Exclusive: rules on same-sex wards could lead to delays in care, discrimination and animosity between groups, finds internal assessmentTrans people could face delays and a greater risk of “corridor...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "NHS staff who wrongly accessed tiger victim’s records should be sacked, says Yvette Cooper",
         "url": "https://www.theguardian.com/society/2026/oct/18/nhs-staff-tiger-william-chapman-records-yvette-cooper",
-        "description": "Health secretary says it is ‘total disgrace’ if staff looked up William Chapman, who died at Yorkshire Wildlife ParkNHS staff who inappropriately accessed the medical records of a man mauled to dea...",
+        "description": "Health secretary says inappropriately looking up details about William Chapman, who died at Yorkshire Wildlife Park, is ‘total disgrace’NHS staff who inappropriately accessed the medical records of...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -77,14 +84,7 @@
         "category": "nhs"
       },
       {
-        "title": "Fifteen NHS staff sacked after accessing medical records of Valdo Calocane victims",
-        "url": "https://www.theguardian.com/society/2026/oct/17/fifteen-nhs-staff-sacked-after-accessing-medical-records-of-valdo-calocane-victims",
-        "description": "Healthcare professionals retrieved files belonging to 19-year old students and a caretaker killed in Nottingham attackA total of 15 NHS staff have now been sacked after accessing medical records be...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Ending corridor care in hospitals for children will be a priority, says health secretary",
+        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
         "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
         "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
         "source": "BBC News",
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "How to see the Orionid meteor shower",
-        "url": "https://www.bbc.co.uk/weather/articles/c64gr18jrvx3o?at_medium=RSS&at_campaign=rss",
-        "description": "One of the best-known meteor showers peaks this week and will remain active until 7 November.",
+        "title": "Fuel leak spreads more than two miles along River Taff",
+        "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
+        "description": "Public Health Wales advise people living nearby to shut their doors and windows due to the smell.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Bristol Old Vic tackles arts ‘emergency’ by bringing the theatre into classrooms",
+        "url": "https://www.theguardian.com/stage/2026/oct/18/bristol-old-vic-arts-emergency-city-academy-theatre-plays-access",
+        "description": "Amid financial pressures on household and school budgets, the theatre company is expanding access with free plays Six young actors step into the spotlight as a reverent silence descends on the hall...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "‘We’re not playing games’: Parents launch playground protests to fight school field sell-off",
         "url": "https://www.theguardian.com/uk-news/2026/oct/17/were-not-playing-games-parents-launch-playground-protests-to-fight-school-field-sell-off",
@@ -158,16 +165,16 @@
         "description": "Exclusive: Ministers considering overhaul of apprenticeship funding scheme to tackle youth jobs crisisEmployers in England are to be forced to pay more to train an older worker than a youth apprent...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
-        "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
-        "description": "Discover-Tech’s Controlium software lets clients mass-profile internet users then covertly hack targets, say researchers at University of TorontoAn Israeli advertising agency has been serving milli...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Manchester City owner’s £55m housing loan while Burnham was mayor investigated",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
+        "description": "Scrutiny committee looks into financing of Manchester Life project as PM promises ‘full transparency’A £55m loan to Manchester City’s Abu Dhabi owner will be investigated as part of a review into a...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Country diary: The challenge of making a thatched roof pine-marten proof | Tom Allan",
         "url": "https://www.theguardian.com/environment/2026/oct/17/country-diary-the-challenge-of-making-a-thatched-roof-pine-marten-proof",
@@ -181,27 +188,20 @@
         "description": "Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for allThe trouble with economists, Isabella Weber believes, is...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "They asked for 80 homes – she gave them 157! Council-housing miracle named Britain’s best new building",
-        "url": "https://www.theguardian.com/artanddesign/2026/oct/15/council-housing-miracle-lion-green-road-croydon-riba-stirling-prize-best-new-building",
-        "description": "Rising from bluebell woodlands and framed by rolling hills, this cluster of pink and brown brick towers in Croydon is a bittersweet winner of the prestigious RIBA Stirling prizeIf Andy Burnham is l...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
         "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
         "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-        "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+        "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-        "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+        "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+        "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
+        "description": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
