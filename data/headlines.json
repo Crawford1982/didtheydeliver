@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-10-17T20:08:50.856069+00:00",
+  "fetched_at": "2026-10-18T03:06:47.205163+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Yvette Cooper pledges £140m to boost urgent care as NHS faces ‘tough’ winter",
+        "url": "https://www.theguardian.com/society/2026/oct/18/yvette-cooper-140m-boost-urgent-care-nhs-tough-winter",
+        "description": "Health secretary says government has been preparing early and will spend money on ambulances and A&E upgradesThe NHS faces a more challenging winter than normal, the health secretary has warned, as...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "No action to be taken against wife of PM’s aide over Palestine Action post",
         "url": "https://www.theguardian.com/politics/2026/oct/17/sarah-helm-jonathan-powell-palestine-action",
@@ -12,14 +19,7 @@
       {
         "title": "Reform candidate filmed saying asylum seekers should be put in ‘concentration camps’",
         "url": "https://www.theguardian.com/politics/2026/oct/17/reform-candidate-filmed-saying-asylum-seekers-should-be-put-in-concentration-camps",
-        "description": "Would-be MP recorded telling undercover reporter in ITV investigation that Muslims could not be British\n \n A would-be Reform UK MP told an undercover reporter that Muslims could not be British and ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "SNP says campaign for next referendum on independence ‘has already begun’",
-        "url": "https://www.theguardian.com/politics/2026/oct/17/snp-campaign-second-referendum-independence-john-swinney",
-        "description": "John Swinney tells party conference SNP will use ‘six-figure war chest’ to renew argument for leaving UKJohn Swinney has said that the second referendum campaign for Scottish independence “has alre...",
+        "description": "Would-be MP recorded telling undercover reporter in ITV investigation that Muslims could not be BritishA would-be Reform UK MP told an undercover reporter that Muslims could not be British and asyl...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,23 +63,23 @@
     ],
     "nhs": [
       {
+        "title": "Yvette Cooper pledges £140m to boost urgent care as NHS faces ‘tough’ winter",
+        "url": "https://www.theguardian.com/society/2026/oct/18/yvette-cooper-140m-boost-urgent-care-nhs-tough-winter",
+        "description": "Health secretary says government has been preparing early and will spend money on ambulances and A&E upgradesThe NHS faces a more challenging winter than normal, the health secretary has warned, as...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Fifteen NHS staff sacked after accessing medical records of Valdo Calocane victims",
+        "url": "https://www.theguardian.com/society/2026/oct/17/fifteen-nhs-staff-sacked-after-accessing-medical-records-of-valdo-calocane-victims",
+        "description": "Healthcare professionals retrieved files belonging to 19-year old students and a caretaker killed in Nottingham attackA total of 15 NHS staff have now been sacked after accessing medical records be...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Palantir patient data tech rejected by many NHS trusts in England",
         "url": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
         "description": "Exclusive: health bodies across country say controversial US firm’s data platform no better than systems already in useNHS organisations that care for millions of people in England are rejecting Pa...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "The Letby case inquiry will lead to more blame and suspicion in the NHS – and patients will be less safe | Mark McDonald",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/17/lucy-letby-public-inquiry-nhs-patients-medics",
-        "description": "I fear for what comes next because medics must be able to ask questions, raise concerns and admit mistakes. A defensive staff is dangerous for everyoneMark McDonald is a barrister representing Lucy...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "NHS staff investigated over potential accessing of tiger victim’s records",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/16/nhs-staff-investigated-over-alleged-accessing-of-tiger-victims-records",
-        "description": "Yorkshire ambulance service says workers may have accessed or attempted to access information ‘without legitimate reason’NHS staff may have accessed the medical records of a man killed by a tiger a...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -95,7 +95,7 @@
       {
         "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
         "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
-        "description": "French government launches investigation into why cars funded by UK to prevent asylum seekers crossing Channel were used in school protestsFrench police have used 4x4 vehicles paid for by British t...",
+        "description": "French government investigating why cars funded by UK to prevent asylum seekers crossing Channel were used in school protestsFrench police have used 4x4 vehicles paid for by British taxpayers to ch...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,7 +116,7 @@
     ],
     "climate": [
       {
-        "title": "Almost all NSW homes destroyed in black summer bushfires were within 100 metres of flammable vegetation",
+        "title": "Most NSW homes destroyed in black summer bushfires were within 100 metres of vegetation",
         "url": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone",
         "description": "Exclusive: Research confirms official advice about high-risk properties and warns worsening conditions will make more homes unsafeSign up for climate and environment editor Adam Morton’s free Clear...",
         "source": "The Guardian",
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+        "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+        "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-        "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-        "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Three men jailed for 158 years each for murdering Australian and US surfers in Mexico",
-        "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
-        "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
+        "title": "European diplomats attacked by Israeli settlers in West Bank",
+        "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+        "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
