@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-18T20:07:22.383206+00:00",
+  "fetched_at": "2026-10-19T03:20:35.482007+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
+        "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
+        "description": "Premium paid over French counterparts has risen to almost £30 a megawatt hour, analysis by lobby group findsBritish steelmakers have been pushed further behind European rivals on electricity costs ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Andy Burnham launches campaign against ‘headphone dodgers’ on public transport",
+        "url": "https://www.theguardian.com/politics/2026/oct/19/andy-burnham-launches-campaign-against-headphone-dodgers-on-public-transport",
+        "description": "Passengers urged to ‘share the carriage, not the noise’ as guidance sets out £100 penalties for nuisance behaviourAndy Burnham has announced a crackdown on “headphone dodgers” who play loud music o...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Cut benefits to fund work support for young people, says Neet review author Alan Milburn",
         "url": "https://www.theguardian.com/society/2026/oct/18/cut-benefits-fund-employment-support-young-people-neet-review-author-alan-milburn",
         "description": "Exclusive: Former health secretary says upfront investment in support is needed ‘if we are going to end the Neet crisis’Ministers should cut welfare spending to fund more employment support if it w...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
-        "url": "https://www.theguardian.com/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner",
-        "description": "UK home secretary’s meeting comes after PM said he wanted to rejoin European law enforcement databasesThe UK home secretary, Shabana Mahmood, will meet the EU’s home affairs commissioner on Monday ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Zack Polanski says application of Zionism is racist and no state has right to exist",
-        "url": "https://www.theguardian.com/politics/2026/oct/18/greens-zack-polanski-application-zionism-racist-no-state-right-to-exist",
-        "description": "Green leader in England and Wales calls ‘debates about words’ unhelpful and denies recent motion was controversialZack Polanski has said Zionism in its current form is racist, that no country has a...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "There's a crackdown on sports piracy - but is it already out of control?",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&at_campaign=rss",
-        "description": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+        "title": "Microsoft pulls out of UK's largest AI data centre",
+        "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
+        "description": "Tech firm Nscale says it is still committed to building the site in Essex.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-        "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Fuel leak spreads more than two miles along River Taff",
-        "url": "https://www.bbc.co.uk/news/articles/c8vgxnp5w6vzo?at_medium=RSS&at_campaign=rss",
-        "description": "Public Health Wales advises people living nearby to shut their doors and windows due to the smell.",
+        "title": "BBC visits wildfire front in haze-choked Indonesia",
+        "url": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-        "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-        "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Macron calls for calm in France and warns rioting must not escalate",
+        "title": "Macron calls for 'calm and order' after riots across France",
         "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-        "description": "French President Emmanuel Macron made a national television address after rioting caused widespread damage.",
+        "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "What we know so far about deadly fire at Canadian military base",
-        "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-        "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+        "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+        "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+        "description": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Major fire at Canada military base leaves four dead, dozens injured",
+        "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+        "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
         "source": "BBC News",
         "category": "foreign_policy"
       }
