@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-10-19T03:20:35.482007+00:00",
+  "fetched_at": "2026-10-19T12:11:12.407337+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Electricity costs put UK steelmakers in worst position in three years against EU rivals",
-        "url": "https://www.theguardian.com/business/2026/oct/19/electricity-costs-uk-steelmakers-worst-position-three-years-eu-rivals",
-        "description": "Premium paid over French counterparts has risen to almost £30 a megawatt hour, analysis by lobby group findsBritish steelmakers have been pushed further behind European rivals on electricity costs ...",
+        "title": "No 10: Hegseth ‘wrong’ to say most non-US Nato soldiers didn’t fight in Afghanistan – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
+        "description": "Downing Street delivered a rare rebuke to a senior member of Donald Trump’s administrationAsked why the Lib Dems were opposed to a third runway at Heathrow when they professed to be in favour of gr...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Andy Burnham launches campaign against ‘headphone dodgers’ on public transport",
-        "url": "https://www.theguardian.com/politics/2026/oct/19/andy-burnham-launches-campaign-against-headphone-dodgers-on-public-transport",
-        "description": "Passengers urged to ‘share the carriage, not the noise’ as guidance sets out £100 penalties for nuisance behaviourAndy Burnham has announced a crackdown on “headphone dodgers” who play loud music o...",
+        "title": "Burnham urged to launch inquiry into unequal health impacts of air pollution",
+        "url": "https://www.theguardian.com/environment/2026/oct/19/andy-burnham-government-inquiry-unequal-health-impacts-air-pollution",
+        "description": "Letter from 150 scientists, MPs and activists calls for action to protect lower-income and minority-ethnic communitiesThe government must hold an inquiry into the unequal impacts of air pollution, ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Cut benefits to fund work support for young people, says Neet review author Alan Milburn",
-        "url": "https://www.theguardian.com/society/2026/oct/18/cut-benefits-fund-employment-support-young-people-neet-review-author-alan-milburn",
-        "description": "Exclusive: Former health secretary says upfront investment in support is needed ‘if we are going to end the Neet crisis’Ministers should cut welfare spending to fund more employment support if it w...",
+        "title": "Profit warnings from UK-listed firms at highest level in two years as Iran war drives up costs",
+        "url": "https://www.theguardian.com/business/2026/oct/19/profit-warnings-from-uk-listed-firms-at-highest-level-in-two-years-as-iran-war-drives-up-costs",
+        "description": "Consultancy says companies quoted on London stock market issued 65 in three months to end of SeptemberThe number of profit warnings from UK-listed companies has risen to the highest level in two ye...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-        "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
-        "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+        "title": "PM says youth unemployment is a 'catastrophe and a moral failure'",
+        "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
+        "description": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "China’s economy grows faster than forecast after AI boom boosts exports",
+        "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports",
+        "description": "Third-quarter GDP up by 4.5% compared with last year as industrial output is buoyed by electronics demandBusiness live – latest updatesRoaring exports lifted China’s economic growth in the third qu...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "France hit by debt sell-off as protests unnerve investors",
+        "url": "https://www.theguardian.com/world/2026/oct/19/france-hit-by-debt-sell-off-as-protests-unnerve-investors",
+        "description": "Difference between French and German 10-year borrowing costs widens after violence breaks outBusiness live – latest updatesFrance has been hit by a fresh wave of selling in its bond and stock marke...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Small business owners are doing OK – but will that help Trump overcome his low approval ratings?",
         "url": "https://www.theguardian.com/business/2026/oct/18/small-business-owners-trump-economy",
@@ -40,28 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "World leaders must wise up to threat of cyber-attacks or rogue fridges will be least of their worries | Heather Stewart",
-        "url": "https://www.theguardian.com/business/2026/oct/18/world-leaders-threat-cyber-attacks-rogue-fridges-financial-system",
-        "description": "Global cooperation seems unlikely despite AI increasing the risk of digital fraud and the need to protect the financial systemRogue French fridges were an unlikely talking point for the world’s lea...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "World Bank says ‘small AI’ could transform developing countries",
-        "url": "https://www.theguardian.com/technology/2026/oct/18/world-bank-artificial-intelligence-developing-economies",
-        "description": "Bank’s chief knowledge officer says the tech could speed up economic development from centuries to decadesThe World Bank is urging developing countries to kickstart the creation of “small AI” model...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Microsoft pulls out of UK's largest AI data centre",
-        "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo?at_medium=RSS&at_campaign=rss",
-        "description": "Tech firm Nscale says it is still committed to building the site in Essex.",
+        "title": "Home sellers cut asking prices on 3,000 properties a day",
+        "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo?at_medium=RSS&at_campaign=rss",
+        "description": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Why are some NHS maternity units facing closure?",
+        "url": "https://www.theguardian.com/society/2026/oct/19/why-are-some-nhs-maternity-units-facing-closure",
+        "description": "Merging units could improve safety, says NHS leader, but leave women in rural and coastal areas travelling further to give birthUp to 20 maternity units in England may have to shut, NHS leader warn...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Up to 20 maternity units in England may have to shut, NHS leader warns",
+        "url": "https://www.theguardian.com/society/2026/oct/19/up-to-20-maternity-units-england-shut-nhs-warning-matthew-hopkins",
+        "description": "Exclusive: NHS Alliance’s acute care director says centralisation of services ‘inevitable’ to ensure safe careWhy are some NHS maternity units facing closure?Up to 20 maternity units in England wil...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "NHS England policy for trans people could have ‘a number of adverse impacts’, report finds",
         "url": "https://www.theguardian.com/society/2026/oct/18/nhs-england-guidance-single-sex-wards-trans-people-adverse-impacts-report",
@@ -70,51 +84,44 @@
         "category": "nhs"
       },
       {
-        "title": "NHS staff who wrongly accessed tiger victim’s records should be sacked, says Yvette Cooper",
-        "url": "https://www.theguardian.com/society/2026/oct/18/nhs-staff-tiger-william-chapman-records-yvette-cooper",
-        "description": "Health secretary says inappropriately looking up details about William Chapman, who died at Yorkshire Wildlife Park, is ‘total disgrace’NHS staff who inappropriately accessed the medical records of...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Yvette Cooper pledges £140m to boost urgent care as NHS faces ‘tough’ winter",
-        "url": "https://www.theguardian.com/society/2026/oct/18/yvette-cooper-140m-boost-urgent-care-nhs-tough-winter",
-        "description": "Health secretary says government has been preparing early and will spend money on ambulances and A&E upgradesThe NHS faces a more challenging winter than normal, the health secretary has warned, as...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
-        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+        "title": "NHS bosses say smaller maternity units may have to close",
+        "url": "https://www.bbc.co.uk/news/articles/cm040rgv7wz4o?at_medium=RSS&at_campaign=rss",
+        "description": "The NHS Alliance said \"difficult decisions\" lie ahead and some maternity services may have to be consolidated.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
+        "title": "After the ITV exposé, see Reform’s fixation with ‘hate preachers’ as the stinking hypocrisy it really is | Owen Jones",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/19/reform-itv-hate-preachers-far-right-extremism-nigel-farage",
+        "description": "Far-right extremism and rhetoric is coming from activists and unvetted councillors, but party leaders who peddle fear and rage can’t escape blameWho are the hate preachers radicalising rightwing ex...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Tony Hall has lived in the UK for 50 years. Why is the Home Office trying to deport him?",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/19/tony-hall-has-lived-in-the-uk-for-50-years-why-is-the-home-office-trying-to-deport-him",
+        "description": "He arrived in the UK aged 12, but for the last 14 years Hall has been under threat of being sent back to Barbados – a country he doesn’t remember and where he has no surviving relativesWhen Tony Ha...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Shabana Mahmood to hold talks with EU over law enforcement cooperation",
         "url": "https://www.theguardian.com/politics/2026/oct/18/shabana-mahmood-talks-eu-law-enforcement-cooperation-magnus-brunner",
         "description": "UK home secretary’s meeting comes after PM said he wanted to rejoin European law enforcement databasesThe UK home secretary, Shabana Mahmood, will meet the EU’s home affairs commissioner on Monday ...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Aspiring Reform MP who said ‘you cannot be Muslim and British’ suspended",
-        "url": "https://www.theguardian.com/politics/2026/oct/18/aspiring-reform-mp-cannot-be-muslim-and-british-suspended",
-        "description": "Jason Powell also backed concentration camps as Reform councillors talk of executing grooming gang membersAn aspiring Reform UK MP who advocated the use of concentration camps and said “you cannot ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Revealed: French police used UK-funded 4x4 vehicles to charge student protesters",
-        "url": "https://www.theguardian.com/world/2026/oct/17/french-police-uk-funded-4x4-vehicle-ram-student-protesters",
-        "description": "French government investigating why cars funded by UK to prevent asylum seekers crossing Channel were used in school protestsFrench police have used 4x4 vehicles paid for by British taxpayers to ch...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Tap water no longer drinkable in Norwegian town as climate-related thawing releases heavy metals",
+        "url": "https://www.theguardian.com/environment/2026/oct/19/tap-water-no-longer-drinkable-norwegian-town-climate-related-thawing-heavy-metals-arctic-longyearbyen-svalbard",
+        "description": "Warning for other Arctic communities as residents told not to use water in Longyearbyen in Svalbard, one of the fastest-warming places in the worldResidents of a remote town in Norway that is in on...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Most NSW homes destroyed in black summer bushfires were within 100 metres of vegetation",
         "url": "https://www.theguardian.com/australia-news/2026/oct/18/nsw-homes-destroyed-in-black-summer-bushfires-in-high-risk-buffer-zone",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Plan unveiled to increase share of land farmed organically in England to 10%",
-        "url": "https://www.theguardian.com/environment/2026/oct/14/land-farmed-organically-england-share-10-pc-2036-plan-food-climate",
-        "description": "Government says ambition for 2036 will be good for food and climate resilience, but concerns remain over fundingThe government has set an ambition to increase the share of English land farmed organ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "BBC visits wildfire front in haze-choked Indonesia",
-        "url": "https://www.bbc.co.uk/news/videos/cm9wzye55j4xo?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC is in central Kalimantan, where a toxic haze fuelled by wildfires is choking millions of residents.",
+        "title": "Mission set to blast off for Mars to grab a piece of its moon",
+        "url": "https://www.bbc.co.uk/news/articles/cmvgxvkv54w1o?at_medium=RSS&at_campaign=rss",
+        "description": "A spacecraft is set to launch on an ambitious mission to bring 10g of Martian moon dust back to Earth.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,46 +169,46 @@
     ],
     "housing": [
       {
-        "title": "Manchester City owner’s £55m housing loan while Burnham was mayor investigated",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/18/manchester-city-owners-55m-housing-loan-while-burnham-was-mayor-investigated",
-        "description": "Scrutiny committee looks into financing of Manchester Life project as PM promises ‘full transparency’A £55m loan to Manchester City’s Abu Dhabi owner will be investigated as part of a review into a...",
+        "title": "‘We’re living in darkness’: six years of scaffolding, still no post-Grenfell cladding",
+        "url": "https://www.theguardian.com/society/2026/oct/19/london-tower-residents-fear-disaster-post-grenfell-scaffolding",
+        "description": "Building safety regulator delays leave London tower block beset by security and vandalism problemsIt’s a sunny day with bright blue skies in north London, but you wouldn’t know that in Natasha Dyet...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Country diary: The challenge of making a thatched roof pine-marten proof | Tom Allan",
-        "url": "https://www.theguardian.com/environment/2026/oct/17/country-diary-the-challenge-of-making-a-thatched-roof-pine-marten-proof",
-        "description": "Glenisla, Angus: Damage by squirrels is common; the mustelid less so. Still, as a local told me, ‘you cannae blame them wanting somewhere to live’That the thatch is thick with moss and crusted with...",
+        "title": "Blue for poor, yellow for posh: the London maps exposing centuries of terrible housing",
+        "url": "https://www.theguardian.com/artanddesign/2026/oct/19/a-place-to-call-home-senate-house-london-charles-booth-maps-london-housing",
+        "description": "From rent strikes to squatting, a new show reveals how people have managed to keep a roof over their head in London – and the mould and astronomical rents that persistCharles Booth’s pioneering pov...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "‘People’s dignity, and democracy, is at stake’: meet the economist ditching ideology for reality",
-        "url": "https://www.theguardian.com/business/2026/oct/16/isabella-weber-anti-fascist-economics",
-        "description": "Exclusive: Isabella Weber prescribes a common-sense solution to poverty, inequality and fascism – making life’s essentials affordable for allThe trouble with economists, Isabella Weber believes, is...",
+        "title": "The housing crisis is now global. It shows just how undemocratic our nations have become  | Leilani Farha",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/19/housing-crisis-global-democracy-nations-financial-sector",
+        "description": "When we can’t even afford to rent or buy somewhere to live, we have to ask: did we give the financial sector too much power?Leilani Farha is the former UN special rapporteur on adequate housingIn t...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Macron calls for 'calm and order' after riots across France",
-        "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
-        "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+        "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+        "description": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
-        "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
-        "description": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+        "title": "Kenya pastor accused of ordering parents to starve their children to death faces verdict",
+        "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+        "description": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Major fire at Canada military base leaves four dead, dozens injured",
-        "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
-        "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+        "title": "Funding shortages force World Food Programme to cut aid to Gaza",
+        "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
+        "description": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
