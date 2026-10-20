@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-10-20T16:22:31.425386+00:00",
+  "fetched_at": "2026-10-20T21:15:48.417906+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Former Bank of England chief economist says Tory growth policies ‘far more likely to succeed’ than Labour’s – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-        "description": "Andy Haldane writes that Conservative economic plans would be best for growth ahead of Healey budgetBadenoch says Britain needs tax cuts.We need to get out of the way of job creators who make our c...",
+        "title": "What would the approval of the Jackdaw gasfield mean?",
+        "url": "https://www.theguardian.com/business/2026/oct/20/what-does-the-approval-of-the-jackdaw-gasfield-mean",
+        "description": "Decision would have implications for household energy bills, the UK economy and the climate crisisJackdaw North Sea gasfield to get go-ahead in blow to climate campaignersAbout four years and six e...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Senior Reform official cast doubt over legality of huge donations",
+        "url": "https://www.theguardian.com/politics/2026/oct/20/senior-reform-official-cast-doubt-legality-huge-donations-james-orr",
+        "description": "Exclusive: Admission from James Orr to undercover reporter came three months before party was given £72mA senior Reform UK official raised questions about whether major donations from billionaire b...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,23 +24,16 @@
         "category": "government"
       },
       {
-        "title": "UK government failures led to Covid spreading ‘like wildfire’ in care homes, inquiry finds",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-government-failures-led-to-covid-spreading-like-wildfire-in-care-homes-inquiry-finds",
-        "description": "Inquiry chair says failure to advise care homes to isolate people discharged from hospital was ‘significant oversight’• UK politics live – latest updatesThe care sector was “an afterthought” during...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-        "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+        "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+        "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Google Cloud outage: problems fixed for ‘most‘ customers, as regulators push for details – latest updates",
+        "title": "Google Cloud outage: problems fixed for ‘most‘ customers, as regulators push for details – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
         "description": "Google apologises after power issue causes a major Cloud outage in its London region today that led to problems at banks, Revolut, and court video camerasGoogle cloud failure hits millions as UK co...",
         "source": "The Guardian",
@@ -54,32 +54,32 @@
         "category": "economy"
       },
       {
-        "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-        "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-        "description": "The government increased taxes on online casino and sports betting in last year's Budget.",
+        "title": "Google resolves cloud outage affecting UK banks and websites",
+        "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+        "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
+        "title": "Baby who died from meningitis may have been saved if tested sooner, inquest finds",
+        "url": "https://www.theguardian.com/society/2026/oct/20/baby-who-died-from-meningitis-may-have-been-saved-if-tested-sooner-inquest-finds",
+        "description": "Five-month-old Esta High died at Leeds General Infirmary in November 2023 after doctors put her symptoms down to Covid-19A baby girl who died from meningitis may have been saved if doctors had test...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "The Guardian view on Covid-19 and care homes: the inquiry’s scathing verdict must be heeded | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/20/the-guardian-view-on-covid-19-and-care-homes-the-inquirys-scathing-verdict-must-be-heeded",
+        "description": "The government did not throw a ‘protective ring’ around social care, and vulnerable people were left exposedThe families of the 43,000 care home residents in the UK whose deaths between March 2020 ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Ban ‘intrusive’ cameras in England’s mental health wards, say bereaved families",
         "url": "https://www.theguardian.com/society/2026/oct/20/ban-intrusive-cameras-mental-health-wards-england-bereaved-families",
         "description": "Lawyers tell inquiry that patients’ lives are at stake through improper use of Oxevision system for most vulnerableFamilies bereaved by the misuse of an “intrusive” camera monitoring system for vul...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "UK government failures led to Covid spreading ‘like wildfire’ in care homes, inquiry finds",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-government-failures-led-to-covid-spreading-like-wildfire-in-care-homes-inquiry-finds",
-        "description": "Inquiry chair says failure to advise care homes to isolate people discharged from hospital was ‘significant oversight’• UK politics live – latest updatesThe care sector was “an afterthought” during...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Public support for founding principles of NHS is falling across UK population",
-        "url": "https://www.theguardian.com/society/2026/oct/20/public-support-founding-principles-nhs-falling-across-uk-population",
-        "description": "Rise in economic hardship and changes in attitudes towards migration could explain drop in support, experts sayPublic support for the NHS’s founding principles – that it is free to use, available t...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Jackdaw North Sea gasfield to get go-ahead in blow to climate campaigners",
+        "url": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
+        "description": "Move signals Andy Burnham’s commitment to North Sea industry but threatens to undermine Labour’s green credentials• What does the approval of the Jackdaw gasfield mean?The Jackdaw gasfield will be ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Melting Ron DeSantis statue unveiled to call out his inaction on climate crisis",
         "url": "https://www.theguardian.com/us-news/2026/oct/19/melting-ron-desantis-statue-climate-crisis",
         "description": "Florida governor has consistently opposed any legislation to curb planet-heating emissions, calling it a ‘radical climate agenda’A life-sized statue of Ron DeSantis, the Florida governor, was unvei...",
@@ -130,13 +137,6 @@
         "category": "climate"
       },
       {
-        "title": "Tap water no longer drinkable in Norwegian village as climate-related thawing releases heavy metals",
-        "url": "https://www.theguardian.com/environment/2026/oct/19/tap-water-no-longer-drinkable-norwegian-town-climate-related-thawing-heavy-metals-arctic-longyearbyen-svalbard",
-        "description": "Warning for other Arctic communities as residents told not to use water in Longyearbyen in Svalbard, one of the world’s fastest-warming placesResidents of a remote village in Norway that is in one ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "Huge fin whale filmed off Welsh coast",
         "url": "https://www.bbc.co.uk/news/videos/cxly491v6p7yo?at_medium=RSS&at_campaign=rss",
         "description": "Rhys Morgan captured footage of the world's second-largest whale species  lunge feeding on his drone.",
@@ -145,6 +145,13 @@
       }
     ],
     "education": [
+      {
+        "title": "Schools in England must recognise antisemitism as distinct category of harm, report says",
+        "url": "https://www.theguardian.com/news/2026/oct/20/schools-in-england-must-recognise-antisemitism-as-distinct-category-of-harm-report-says",
+        "description": "Government expected to accept recommendations of review, which found three in five Jewish students had experienced prejudiceSchools and colleges in England will be expected to take a tougher stance...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Foamy war? St Andrews students play out modern take on ancient ritual",
         "url": "https://www.theguardian.com/education/2026/oct/19/st-andrews-university-scotland-students-raisin-monday-foam-war",
@@ -156,13 +163,6 @@
         "title": "Youth services in parts of England in state of emergency, children’s commissioner says",
         "url": "https://www.theguardian.com/society/2026/oct/19/children-services-state-of-emergency-hardest-places-england",
         "description": "Rachel de Souza names Middlesbrough and Hounslow among hardest places in which to grow up and says some children are being ‘radically failed’Services for children in parts of England are in a “stat...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Bristol Old Vic tackles arts ‘emergency’ by bringing the theatre into classrooms",
-        "url": "https://www.theguardian.com/stage/2026/oct/18/bristol-old-vic-arts-emergency-city-academy-theatre-plays-access",
-        "description": "Amid financial pressures on household and school budgets, the theatre company is expanding access with free plays Six young actors step into the spotlight as a reverent silence descends on the hall...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
-        "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
-        "description": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
+        "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,7 +206,7 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+        "title": "Man charged with attack on Australia MP to face court",
         "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
         "description": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
         "source": "BBC News",
