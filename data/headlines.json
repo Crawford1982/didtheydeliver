@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-20T10:56:52.771524+00:00",
+  "fetched_at": "2026-10-20T16:22:31.425386+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Badenoch says Tories would prioritise cutting taxes for businesses over individuals – UK politics live",
+        "title": "Former Bank of England chief economist says Tory growth policies ‘far more likely to succeed’ than Labour’s – UK politics live",
         "url": "https://www.theguardian.com/politics/live/2026/oct/20/kemi-badenoch-john-healey-capital-gains-tax-budget-covid-inquiry-care-homes-uk-politics-latest-news",
-        "description": "Conservative leader also called for benefit spending to be cut to fund rise in defence budgetBadenoch says Britain needs tax cuts.We need to get out of the way of job creators who make our country ...",
+        "description": "Andy Haldane writes that Conservative economic plans would be best for growth ahead of Healey budgetBadenoch says Britain needs tax cuts.We need to get out of the way of job creators who make our c...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Ex-Greens co-leader urges council groups to reject Zionism policy",
-        "url": "https://www.theguardian.com/politics/2026/oct/20/greens-adrian-ramsay-council-groups-reject-zionism-racism-policy",
-        "description": "Exclusive: Adrian Ramsay calls conference motion a distraction and says councillors should maintain coalitions where possibleUK politics live – latest updatesAdrian Ramsay, the former co-leader of ...",
+        "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
+        "description": "RAF Typhoon fighters to fly defensive missions over cities and infrastructure in extension of UK support for RiyadhRAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
-        "url": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
-        "description": "Latest ONS data presents mixed picture amid slump in job vacancies and analysts warning labour market is ‘running on idle’Business live – news updatesHealey to reject calls to raise CGT in budgetUn...",
+        "title": "UK government failures led to Covid spreading ‘like wildfire’ in care homes, inquiry finds",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-government-failures-led-to-covid-spreading-like-wildfire-in-care-homes-inquiry-finds",
+        "description": "Inquiry chair says failure to advise care homes to isolate people discharged from hospital was ‘significant oversight’• UK politics live – latest updatesThe care sector was “an afterthought” during...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,9 +33,9 @@
     ],
     "economy": [
       {
-        "title": "Google Cloud outage: Revolut suffers service disruption as bank customers report problems – business live",
+        "title": "Google Cloud outage: problems fixed for ‘most‘ customers, as regulators push for details – latest updates",
         "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial news, as Google suffers a  a major Cloud outage in its London region this morningThe pound has rallied after Britain’s unemployment rate fell u...",
+        "description": "Google apologises after power issue causes a major Cloud outage in its London region today that led to problems at banks, Revolut, and court video camerasGoogle cloud failure hits millions as UK co...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -54,14 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "Jobless rate falls but small firms cut back hiring",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-        "description": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+        "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+        "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
+        "description": "The government increased taxes on online casino and sports betting in last year's Budget.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Ban ‘intrusive’ cameras in England’s mental health wards, say bereaved families",
+        "url": "https://www.theguardian.com/society/2026/oct/20/ban-intrusive-cameras-mental-health-wards-england-bereaved-families",
+        "description": "Lawyers tell inquiry that patients’ lives are at stake through improper use of Oxevision system for most vulnerableFamilies bereaved by the misuse of an “intrusive” camera monitoring system for vul...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "UK government failures led to Covid spreading ‘like wildfire’ in care homes, inquiry finds",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-government-failures-led-to-covid-spreading-like-wildfire-in-care-homes-inquiry-finds",
+        "description": "Inquiry chair says failure to advise care homes to isolate people discharged from hospital was ‘significant oversight’• UK politics live – latest updatesThe care sector was “an afterthought” during...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Public support for founding principles of NHS is falling across UK population",
         "url": "https://www.theguardian.com/society/2026/oct/20/public-support-founding-principles-nhs-falling-across-uk-population",
@@ -70,23 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Funding social care is a collective responsibility | Letters",
-        "url": "https://www.theguardian.com/society/2026/oct/19/funding-social-care-is-a-collective-responsibility",
-        "description": "Roger Steer says the solution is to adopt the NHS model, Janet Dubé suggests an audit, while Sally Byers says language that respects people living with dementia is crucialPolly Toynbee asks a seemi...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Why are some NHS maternity units facing closure?",
-        "url": "https://www.theguardian.com/society/2026/oct/19/why-are-some-nhs-maternity-units-facing-closure",
-        "description": "Merging units could improve safety, says NHS leader, but leave women in rural and coastal areas travelling further to give birthUp to 20 maternity units in England may have to shut, NHS leader warn...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Can a simple photo of your face reveal how ill you are?",
-        "url": "https://www.bbc.co.uk/news/articles/c6lyexv93pkdo?at_medium=RSS&at_campaign=rss",
-        "description": "AI may help doctors judge how ill a patient is using a single photograph of their face, say US researchers.",
+        "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+        "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -130,16 +130,16 @@
         "category": "climate"
       },
       {
-        "title": "Tap water no longer drinkable in Norwegian town as climate-related thawing releases heavy metals",
+        "title": "Tap water no longer drinkable in Norwegian village as climate-related thawing releases heavy metals",
         "url": "https://www.theguardian.com/environment/2026/oct/19/tap-water-no-longer-drinkable-norwegian-town-climate-related-thawing-heavy-metals-arctic-longyearbyen-svalbard",
-        "description": "Warning for other Arctic communities as residents told not to use water in Longyearbyen in Svalbard, one of the fastest-warming places in the worldResidents of a remote town in Norway that is in on...",
+        "description": "Warning for other Arctic communities as residents told not to use water in Longyearbyen in Svalbard, one of the world’s fastest-warming placesResidents of a remote village in Norway that is in one ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Storm Austen to bring severe gales to UK as weather warning issued",
-        "url": "https://www.bbc.co.uk/weather/articles/c9rkyjzgp6kdo?at_medium=RSS&at_campaign=rss",
-        "description": "The first named storm of the season - Austen - will bring damaging winds and heavy rain to parts of the UK on Friday.",
+        "title": "Huge fin whale filmed off Welsh coast",
+        "url": "https://www.bbc.co.uk/news/videos/cxly491v6p7yo?at_medium=RSS&at_campaign=rss",
+        "description": "Rhys Morgan captured footage of the world's second-largest whale species  lunge feeding on his drone.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,46 +169,46 @@
     ],
     "housing": [
       {
+        "title": "‘Big business’: little-known court system in Louisiana churns out thousands of evictions – and millions in fees for judges",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-peace-courts-evictions-fees",
+        "description": "Guardian investigation: Louisiana’s justice of the peace court system may violate tenants’ constitutional rights as eviction fees boost judges’ incomes  Continue reading...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Key findings from the Guardian’s investigation of Louisiana’s justice of the peace courts",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-the-peace-courts-key-findings",
+        "description": "The system allows judges to boost their modest salaries, with one judge earning more than $400,000 in 2025 Continue reading...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Stop ‘cash to trash’ housebuilding in Norfolk Broads, says Labour MP",
         "url": "https://www.theguardian.com/environment/2026/oct/19/stop-cash-for-trash-housebuilding-norfolk-broads-labour-mp-chris-hinchcliffe",
         "description": "Exclusive: Chris Hinchliff urges environment watchdog to block rules that will allow almost 16,000 new homes in one of UK’s most protected areasThe environment watchdog is being urged to intervene ...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Blue for poor, yellow for posh: the London maps exposing centuries of terrible housing",
-        "url": "https://www.theguardian.com/artanddesign/2026/oct/19/a-place-to-call-home-senate-house-london-charles-booth-maps-london-housing",
-        "description": "From rent strikes to squatting, a new show reveals how people have managed to keep a roof over their head in London – and the mould and astronomical rents that persistCharles Booth’s pioneering pov...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "‘We’re living in darkness’: six years of scaffolding, still no post-Grenfell cladding",
-        "url": "https://www.theguardian.com/society/2026/oct/19/london-tower-residents-fear-disaster-post-grenfell-scaffolding",
-        "description": "Building safety regulator delays leave London tower block beset by security and vandalism problemsIt’s a sunny day with bright blue skies in north London, but you wouldn’t know that in Natasha Dyet...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Suspect arrested after historic town hall set alight during disorder - French media",
-        "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
-        "description": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+        "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+        "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss",
+        "description": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Seventh day of violent clashes between Albanian protesters and police",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-        "description": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.",
+        "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
+        "description": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Canadian tourist found guilty of animal cruelty after stealing Las Vegas flamingo from enclosure",
-        "url": "https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss",
-        "description": "The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.",
+        "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+        "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+        "description": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
