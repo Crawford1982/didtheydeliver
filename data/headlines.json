@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-10-21T03:23:36.974923+00:00",
+  "fetched_at": "2026-10-21T11:12:00.158318+00:00",
   "headlines": {
     "government": [
       {
-        "title": "What does the UK’s approval of the Jackdaw gasfield mean?",
-        "url": "https://www.theguardian.com/business/2026/oct/20/what-does-the-approval-of-the-jackdaw-gasfield-mean",
-        "description": "Decision has implications for household energy bills, the UK economy and the climate crisisAndy Burnham faces climate revolt after approval of North Sea gas drillingAbout four years and six energy ...",
+        "title": "Burnham faces Badenoch at PMQs after Jackdaw gasfield approved – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
+        "description": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government saidHere is an explainer by Jill Ambrose about the Jackdaw decision.But environmental gr...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Senior Reform official cast doubt over legality of huge donations",
-        "url": "https://www.theguardian.com/politics/2026/oct/20/senior-reform-official-cast-doubt-legality-huge-donations-james-orr",
-        "description": "Exclusive: Admission from James Orr to undercover reporter came three months before party was given £72mA senior Reform UK official raised questions about whether major donations from billionaire b...",
+        "title": "Stratford International finally to have international trains in budget boost",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/21/stratford-internationalinternational-trains-budget-boost",
+        "description": "Sadiq Khan says upgrade will unlock station’s true potential and allow it to live up to its nameBusiness live – latest updatesStratford International train station in east London will receive fundi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK to deploy fighter jets to protect Saudi Arabia from Houthi attacks",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/20/uk-raf-typhoon-fighters-saudi-arabia-houthi-attacks",
-        "description": "RAF Typhoon fighters to fly defensive missions over cities and infrastructure in extension of UK support for RiyadhRAF Typhoon fighters are to be used in efforts to protect Saudi Arabia from attack...",
+        "title": "Cabinet split widens as minister refuses to back Shabana Mahmood’s immigration plans",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
+        "description": "Miatta Fahnbulleh avoids explicitly expressing support for 15-year path to permanent residency for foreign workersUK politics live – latest updatesA cabinet split over Shabana Mahmood’s immigration...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK government to make Jackdaw gas field announcement",
-        "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-        "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+        "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
+        "url": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
+        "description": "Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "UK inflation rises by more than expected to 3.5% as war drives up fuel prices",
+        "url": "https://www.theguardian.com/business/2026/oct/21/inflation-rises-middle-east-conflict-drives-up-fuel-prices",
+        "description": "Increase in annual price growth in September comes amid fears rate will breach 4% next yearBusiness live – latest updatesUK inflation climbed by more than expected in September to 3.5% after a surg...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK government borrowing rises to £24.5bn as John Healey prepares for budget",
+        "url": "https://www.theguardian.com/business/2026/oct/21/uk-government-borrowing-rises-john-healey-budget",
+        "description": "Government paid £10.9bn in debt interest, the highest September figure since records beganBusiness live – latest updatesThe Treasury ran a higher than expected budget deficit of £24.5bn last month ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Google Cloud outage: problems fixed for ‘most‘ customers, as regulators push for details – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/oct/20/uk-unemployment-rate-pre-budget-boost-wages-vacancies-latest-news-updates",
@@ -40,32 +54,18 @@
         "category": "economy"
       },
       {
-        "title": "Excessive wealth, extreme emissions – and ecocide: what I learned at Europe’s big superyacht show",
-        "url": "https://www.theguardian.com/news/2026/oct/20/excessive-wealth-extreme-emissions-and-ecocide-what-i-learned-at-europes-big-superyacht-show",
-        "description": "These yachts are highly popular with the ‘super-bourgeoisie’ – and getting bigger. Can anything be done to stop them destroying our seas?Who knew? Apparently everyone did, apart from me: you don’t ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
-        "url": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
-        "description": "Latest ONS data presents mixed picture amid slump in job vacancies and analysts warning labour market is ‘running on idle’Healey to reject calls to raise CGT in budgetUnemployment in the UK has fal...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Elon Musk says Tesla-SpaceX merger being considered",
-        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-        "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+        "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+        "description": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "Baby who died from meningitis may have been saved if tested sooner, inquest finds",
+        "title": "Baby who died from meningitis might have been saved if tested sooner, inquest finds",
         "url": "https://www.theguardian.com/society/2026/oct/20/baby-who-died-from-meningitis-may-have-been-saved-if-tested-sooner-inquest-finds",
-        "description": "Five-month-old Esta High died at Leeds General Infirmary in November 2023 after doctors put her symptoms down to Covid-19A baby girl who died from meningitis may have been saved if doctors had test...",
+        "description": "Five-month-old Esta High died at Leeds General Infirmary in November 2023 after doctors put her symptoms down to Covid-19A baby girl who died from meningitis might have been saved if doctors had te...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,53 +93,53 @@
     ],
     "immigration": [
       {
+        "title": "Cabinet split widens as minister refuses to back Shabana Mahmood’s immigration plans",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
+        "description": "Miatta Fahnbulleh avoids explicitly expressing support for 15-year path to permanent residency for foreign workersUK politics live – latest updatesA cabinet split over Shabana Mahmood’s immigration...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Burnham faces Badenoch at PMQs after Jackdaw gasfield approved – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
+        "description": "The Jackdaw field will start supplying gas to homes and businesses from the end of the month, the government saidHere is an explainer by Jill Ambrose about the Jackdaw decision.But environmental gr...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Minister says Mahmood’s migration policy will ‘prolong integration’",
         "url": "https://www.theguardian.com/politics/2026/oct/19/migration-energy-secretary-mahmood-fahnbulleh",
         "description": "In now-removed post, Miatta Fahnbulleh criticised home secretary’s proposal to extend qualifying period for settlement in UKThe energy secretary, Miatta Fahnbulleh, appears to have criticised Shaba...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "No 10: Hegseth ‘wrong’ to say most non-US Nato soldiers didn’t fight in Afghanistan – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/19/andy-burnham-labour-children-welfare-neets-kemi-badenoch-conservatives-nigel-farage-reform-latest-news-updates",
-        "description": "Downing Street delivered a rare rebuke to a senior member of Donald Trump’s administrationAsked why the Lib Dems were opposed to a third runway at Heathrow when they professed to be in favour of gr...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "After the ITV exposé, see Reform’s fixation with ‘hate preachers’ as the stinking hypocrisy it really is | Owen Jones",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/19/reform-itv-hate-preachers-far-right-extremism-nigel-farage",
-        "description": "Far-right extremism and rhetoric is coming from activists and unvetted councillors, but party leaders who peddle fear and rage can’t escape blameWho are the hate preachers radicalising rightwing ex...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Andy Burnham faces climate revolt after approval of North Sea gas drilling",
-        "url": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
-        "description": "Jackdaw gasfield announcement signals UK’s commitment to North Sea industry but undermines green credentialsWhat does the approval of the Jackdaw gasfield mean?The Jackdaw gasfield will be given th...",
+        "title": "US extreme weather survivors are a growing group – now they want to be a political force",
+        "url": "https://www.theguardian.com/us-news/2026/oct/21/extreme-weather-survivors-climate-crisis",
+        "description": "At a gathering in Texas, near where floods killed 136 people last year, survivors are united on the need for urgent actionIt may be a club none of its members actually want to be in, but the growin...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Melting Ron DeSantis statue unveiled to call out his inaction on climate crisis",
-        "url": "https://www.theguardian.com/us-news/2026/oct/19/melting-ron-desantis-statue-climate-crisis",
-        "description": "Florida governor has consistently opposed any legislation to curb planet-heating emissions, calling it a ‘radical climate agenda’A life-sized statue of Ron DeSantis, the Florida governor, was unvei...",
+        "title": "Climate campaigners condemn ‘maddening’ decision to approve Jackdaw gasfield",
+        "url": "https://www.theguardian.com/environment/2026/oct/21/jackdaw-gasfield-climate-campaigners-condemn-decision-north-sea-mining",
+        "description": "Critics say move will jeopardise climate targets, fail to cut cost of living and distract from need to decarbonise energyUK politics live – latest updatesClimate campaigners and green experts have ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "US disaster survivors still await at least $10bn in federal aid: ‘It’s devastating’",
-        "url": "https://www.theguardian.com/us-news/2026/oct/19/us-disaster-survivor-payouts-fema",
-        "description": "The last long-term federal recovery funds allocated for a major disaster were for Hurricane Milton, which hit in late 2024Survivors of extreme weather disasters across the US are facing long waits ...",
+        "title": "Wednesday briefing: ​Why has Jackdaw been approved in the middle of a climate crisis?",
+        "url": "https://www.theguardian.com/world/2026/oct/21/wednesday-briefing-why-has-jackdaw-been-approved-in-the-middle-of-a-climate-crisis",
+        "description": "In today’s newsletter: The government has approved drilling in the Jackdaw gas field despite fierce opposition and evidence against itGood morning. After weeks of speculation, the secretary of stat...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Huge fin whale filmed off Welsh coast",
-        "url": "https://www.bbc.co.uk/news/videos/cxly491v6p7yo?at_medium=RSS&at_campaign=rss",
-        "description": "Rhys Morgan captured footage of the world's second-largest whale species  lunge feeding on his drone.",
+        "title": "Amber warning issued as Storm Austen threatens UK with strong winds and heavy rain",
+        "url": "https://www.bbc.co.uk/weather/articles/c6m24ln2j43go?at_medium=RSS&at_campaign=rss",
+        "description": "The deep area of low pressure is expected to move close to the south of the UK early on Friday with south-west England set to bear the brunt.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,46 +169,46 @@
     ],
     "housing": [
       {
+        "title": "‘Sham tribunal’: one family’s battle with Louisiana’s ‘feudal’ eviction courts",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/louisiana-eviction-courts-system",
+        "description": "In rural Louisiana, eviction hearings are held at kitchen tables and other unorthodox venues – and many justices have little legal training Continue reading...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "How the Guardian reported on Louisiana’s justice of the peace courts",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/louisiana-justice-of-peace-courts-methodology",
+        "description": "Reporters scanned more than 11,000 pages and processed thousands of hand-written and often incomplete records Continue reading...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "‘Big business’: little-known court system in Louisiana churns out thousands of evictions – and millions in fees for judges",
         "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-peace-courts-evictions-fees",
         "description": "Guardian investigation: Louisiana’s justice of the peace court system may violate tenants’ constitutional rights as eviction fees boost judges’ incomes  Continue reading...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Key findings from the Guardian’s investigation of Louisiana’s justice of the peace courts",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-the-peace-courts-key-findings",
-        "description": "The system allows judges to boost their modest salaries, with one judge earning more than $400,000 in 2025 Continue reading...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Stop ‘cash to trash’ housebuilding in Norfolk Broads, says Labour MP",
-        "url": "https://www.theguardian.com/environment/2026/oct/19/stop-cash-for-trash-housebuilding-norfolk-broads-labour-mp-chris-hinchcliffe",
-        "description": "Exclusive: Chris Hinchliff urges environment watchdog to block rules that will allow almost 16,000 new homes in one of UK’s most protected areasThe environment watchdog is being urged to intervene ...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
-        "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+        "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
+        "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+        "description": "The former teacher has been released without any \"swap\" required, according to the president.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "France is divided over who to blame for and what to learn from weekend riots",
+        "title": "Trump and Zelensky appear at loggerheads despite new optimism",
+        "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+        "description": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
         "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
         "description": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Elon Musk says Tesla-SpaceX merger being considered",
-        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-        "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
