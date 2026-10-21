@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-20T21:15:48.417906+00:00",
+  "fetched_at": "2026-10-21T03:23:36.974923+00:00",
   "headlines": {
     "government": [
       {
-        "title": "What would the approval of the Jackdaw gasfield mean?",
+        "title": "What does the UK’s approval of the Jackdaw gasfield mean?",
         "url": "https://www.theguardian.com/business/2026/oct/20/what-does-the-approval-of-the-jackdaw-gasfield-mean",
-        "description": "Decision would have implications for household energy bills, the UK economy and the climate crisisJackdaw North Sea gasfield to get go-ahead in blow to climate campaignersAbout four years and six e...",
+        "description": "Decision has implications for household energy bills, the UK economy and the climate crisisAndy Burnham faces climate revolt after approval of North Sea gas drillingAbout four years and six energy ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -24,9 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
-        "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
-        "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+        "title": "UK government to make Jackdaw gas field announcement",
+        "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+        "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
         "source": "BBC News",
         "category": "government"
       }
@@ -49,14 +49,14 @@
       {
         "title": "Surprise drop in UK unemployment to 4.7% as John Healey’s first budget looms",
         "url": "https://www.theguardian.com/business/2026/oct/20/uk-unemployment-rate-surprise-drop",
-        "description": "Latest ONS data presents mixed picture amid slump in job vacancies and analysts warning labour market is ‘running on idle’Business live – news updatesHealey to reject calls to raise CGT in budgetUn...",
+        "description": "Latest ONS data presents mixed picture amid slump in job vacancies and analysts warning labour market is ‘running on idle’Healey to reject calls to raise CGT in budgetUnemployment in the UK has fal...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Google resolves cloud outage affecting UK banks and websites",
-        "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-        "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+        "title": "Elon Musk says Tesla-SpaceX merger being considered",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+        "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
-        "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
-        "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+        "title": "Tighter rules planned to protect people from cosmetic surgery that goes badly wrong",
+        "url": "https://www.bbc.co.uk/news/articles/c3x2wxnrpk78o?at_medium=RSS&at_campaign=rss",
+        "description": "There will be restrictions on who can carry out procedures and fines for those who flout the law, in England in 2027.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,9 +116,9 @@
     ],
     "climate": [
       {
-        "title": "Jackdaw North Sea gasfield to get go-ahead in blow to climate campaigners",
+        "title": "Andy Burnham faces climate revolt after approval of North Sea gas drilling",
         "url": "https://www.theguardian.com/environment/2026/oct/20/jackdaw-north-sea-gas-field-to-get-go-ahead-in-blow-to-climate-campaigners",
-        "description": "Move signals Andy Burnham’s commitment to North Sea industry but threatens to undermine Labour’s green credentials• What does the approval of the Jackdaw gasfield mean?The Jackdaw gasfield will be ...",
+        "description": "Jackdaw gasfield announcement signals UK’s commitment to North Sea industry but undermines green credentialsWhat does the approval of the Jackdaw gasfield mean?The Jackdaw gasfield will be given th...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -146,6 +146,13 @@
     ],
     "education": [
       {
+        "title": "Bad apple effect: study shows how people are influenced by rule-breaking of others",
+        "url": "https://www.theguardian.com/science/2026/oct/21/bad-apples-rule-breaking-study",
+        "description": "Research shows how seeing bigger violations by others can lead people to increase their own rule-breakingFrom politicians taking bribes to bullying and harassment in City firms, leaders have been q...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Schools in England must recognise antisemitism as distinct category of harm, report says",
         "url": "https://www.theguardian.com/news/2026/oct/20/schools-in-england-must-recognise-antisemitism-as-distinct-category-of-harm-report-says",
         "description": "Government expected to accept recommendations of review, which found three in five Jewish students had experienced prejudiceSchools and colleges in England will be expected to take a tougher stance...",
@@ -156,13 +163,6 @@
         "title": "Foamy war? St Andrews students play out modern take on ancient ritual",
         "url": "https://www.theguardian.com/education/2026/oct/19/st-andrews-university-scotland-students-raisin-monday-foam-war",
         "description": "Scottish university’s annual tradition once involved giving out raisins but fancy dress and shaving cream now in vogueNobody at the University of St Andrews in Scotland seems to remember how Raisin...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Youth services in parts of England in state of emergency, children’s commissioner says",
-        "url": "https://www.theguardian.com/society/2026/oct/19/children-services-state-of-emergency-hardest-places-england",
-        "description": "Rachel de Souza names Middlesbrough and Hounslow among hardest places in which to grow up and says some children are being ‘radically failed’Services for children in parts of England are in a “stat...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Marseille braces for more unrest after protests give way to 'apocalyptic' disorder",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss",
-        "description": "France's second city saw some of the worst violence as chaos gripped the country on Saturday.",
+        "title": "France is divided over who to blame for and what to learn from weekend riots",
+        "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+        "description": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Man charged with attack on Australia MP to face court",
-        "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-        "description": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+        "title": "Elon Musk says Tesla-SpaceX merger being considered",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+        "description": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
