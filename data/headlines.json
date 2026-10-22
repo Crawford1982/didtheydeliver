@@ -1,39 +1,39 @@
 {
-  "fetched_at": "2026-10-22T16:39:35.801806+00:00",
+  "fetched_at": "2026-10-22T21:12:29.294701+00:00",
   "headlines": {
     "government": [
       {
-        "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
-        "description": "Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has saidTell us: have you been affected by the PHP code flaw?The Office for N...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK must prepare for infrastructure attacks by hostile states, says Streeting",
+        "title": "Every Briton should stockpile water and food supplies, government advises",
         "url": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
-        "description": "Warning by defence secretary comes as he opens a tank gun barrel factory in the West MidlandsBusiness live – latest updatesThe defence secretary, Wes Streeting, has said Britain should prepare for ...",
+        "description": "Be Ready campaign aims to prepare UK for impact of climate crisis, technological dependency and threats by hostile stateEvery Briton is being urged to stock up to nine litres of bottled water and t...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Rosebank row: will Labour block the oilfield? – podcast",
-        "url": "https://www.theguardian.com/politics/audio/2026/oct/22/rosebank-row-will-labour-block-the-oilfield-podcast",
-        "description": "The government has given the go-ahead for the Jackdaw gasfield, but that was the easy part. The next big headache is the Rosebank oilfield. The energy secretary, Miatta Fahnbulleh, has indicated sh...",
+        "title": "Minister insists she backs migration policy after joking she couldn’t lie about supporting it",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
+        "description": "Miatta Fahnbulleh says reference to ‘awkward’ interview was meant to be lighthearted and self-deprecatingThe energy secretary has been forced to clarify that she backs Shabana Mahmood’s migration p...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK needs to be ready for emergencies and hostile acts, warns Streeting",
+        "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
+        "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
+        "description": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’Andy Burnham: We will make the net-zero transition work for BritainAndy Burnham has...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns",
         "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
-        "description": "The defence secretary warned the public and businesses needed to think about how they would cope with natural disasters and cyber attacks.",
+        "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – UK politics live",
+        "title": "‘No indications’ PHP code flaw has led to government systems being hacked, cyber security official says – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/oct/22/john-healey-chancellor-budget-red-tape-small-businsesses-jackdaw-oil-latest-news-updates",
         "description": "Some 32 government services are offline while work is carried out to address potential cybersecurity issues, a minister has saidTell us: have you been affected by the PHP code flaw?The Office for N...",
         "source": "The Guardian",
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "'I wasn't thinking straight' says five jobs civil servant",
-        "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-        "description": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "The Guardian view on England's north-south divide: Burnham must deliver more than devolution | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-englands-north-south-divide-burnham-must-deliver-more-than-devolution",
+        "description": "The prime minister promises to repair decades of regional damage. His government must redistribute wealth to close deadly inequalitiesAndy Burnham’s call to abandon “40 years of neoliberalism” rest...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "What would make neonatal units safer for babies? | Letters",
         "url": "https://www.theguardian.com/uk-news/2026/oct/22/what-would-make-neonatal-units-safer-for-babies",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "Thursday briefing: The crisis putting maternity units in England at risk of closure",
-        "url": "https://www.theguardian.com/world/2026/oct/22/thursday-briefing-the-crisis-putting-maternity-units-in-england-at-risk-of-closure",
-        "description": "In today’s newsletter: rising rates of C-sections, staff shortages and years of unresolved concerns are preventing some hospitals from delivering babies safely Good morning. Over the summer, doctor...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "First human case of Shamonda virus detected in France, officials say",
         "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
         "description": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "Minister insists she backs migration policy after joking she couldn’t lie about supporting it",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/22/energy-secretary-appears-to-u-turn-on-opposition-to-tougher-migration-rules",
+        "description": "Miatta Fahnbulleh says reference to ‘awkward’ interview was meant to be lighthearted and self-deprecatingThe energy secretary has been forced to clarify that she backs Shabana Mahmood’s migration p...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Shabana Mahmood urged to ‘read the room’ on Labour opposition to immigration policy",
         "url": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
@@ -105,16 +112,23 @@
         "description": "Zia Yusuf claims undercover investigation broke the law as broadcaster stands by its journalismHere is an explainer by Jill Ambrose about the Jackdaw decision.But environmental groups have condemne...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Home Office lifts deportation order for man, 62, who has lived in UK for 50 years",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/21/home-office-lifts-deportation-order-tony-hall-62-lived-uk-50-years",
-        "description": "Department drops efforts to return Tony Hall to Barbados, a country he left at 12 and where he has no living relatives The Home Office has lifted a deportation order handed to a 62-year-old man who...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Every Briton should stockpile water and food supplies, government advises",
+        "url": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
+        "description": "Be Ready campaign aims to prepare UK for impact of climate crisis, technological dependency and threats by hostile stateEvery Briton is being urged to stock up to nine litres of bottled water and t...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
+        "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
+        "description": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’Andy Burnham: We will make the net-zero transition work for BritainAndy Burnham has...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Indonesian students clash with police as protests over toxic haze escalate – video",
         "url": "https://www.theguardian.com/world/video/2026/oct/22/indonesia-students-clash-police-protests-toxic-haze-video",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Almost every shallow-water coral reef on the planet faces ecosystem collapse by 2075, UN advisors say",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/22/shallow-water-coral-reef-ecosystem-collapse-by-2075-un-advisors-say",
-        "description": "Assessment finds global heating is endangering 96% of coral reefs across 80 countries – a figure scientists say should serve as a ‘wake-up call’Sign up for climate and environment editor Adam Morto...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "US extreme weather survivors are a growing group – now they want to be a political force",
-        "url": "https://www.theguardian.com/us-news/2026/oct/21/extreme-weather-survivors-climate-crisis",
-        "description": "At a gathering in Texas, near where floods killed 136 people last year, survivors are united on the need for urgent actionIt may be a club none of its members actually want to be in, but the growin...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Weather warning in place ahead of Storm Boelo",
-        "url": "https://www.bbc.co.uk/news/articles/c83vqn2x54v1o?at_medium=RSS&at_campaign=rss",
-        "description": "A Met Office weather warning is in place from 18:00 BST on Saturday until 15:00 GMT on Sunday.",
+        "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
+        "url": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss",
+        "description": "Crews and control centre staff say the fires were relentless with many firefighters still off work injured.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Crowd of 50 beats foreigner to death in South Africa",
-        "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-        "description": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
+        "title": "Race to update services' computer systems after cyber-security flaw found",
+        "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+        "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "At least four dead after storm brings flooding to southern France",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynl4v4wgwo?at_medium=RSS&at_campaign=rss",
-        "description": "The deaths include two women found drowned in a cellar in the Bouches-du-Rhône region.",
+        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
+        "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
