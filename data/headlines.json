@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-21T21:16:02.919225+00:00",
+  "fetched_at": "2026-10-22T03:22:47.172465+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Former Tory election candidate suspended over contract killing claims",
-        "url": "https://www.theguardian.com/politics/2026/oct/21/former-tory-election-candidate-suspended-over-contract-killing-claims",
-        "description": "Jack Ross was filmed allegedly discussing with an undercover reporter violent options to deal with enemies A former Conservative election candidate has been suspended from the party after he was se...",
+        "title": "Are the Tories back? - podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/oct/22/are-the-tories-back-podcast",
+        "description": "Political correspondent Aletha Adu explores whether the Conservative party under Kemi Badenoch is about to become, once again, the UK’s leading party on the right. Send your comments and questions ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "‘Climate vandalism’: Jackdaw gasfield approval condemned - The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/oct/21/climate-vandalism-jackdaw-gasfield-approval-condemned-the-latest",
-        "description": "Climate campaigners have condemned the UK government’s decision to allow the drilling of the Jackdaw gasfield. Critics argue the move will put climate targets at risk, while failing to reduce energ...",
+        "title": "Aneurin Bevan’s personal security file was ‘remarkably tame’ – National Archives",
+        "url": "https://www.theguardian.com/politics/2026/oct/22/aneurin-bevans-personal-security-file-was-remarkably-tame-national-archives",
+        "description": "Some in UK’s security services questioned why Welsh Labour firebrand was of interestAneurin “Nye” Bevan, the Welsh Labour firebrand who spearheaded the creation of the NHS, was monitored by securit...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Shabana Mahmood urged to ‘read the room’ on Labour opposition to immigration policy",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/21/cabinet-split-shabana-mahmood-immigration-plans-labour-miatta-fahnbulleh",
-        "description": "No 10 declines to rule out watering down plans to extend waiting period for indefinite leave to remain as cabinet split widensShabana Mahmood has been urged to “read the room” on Labour opposition ...",
+        "title": "Royal Navy lacks resources to counter Russian threat in high north, MPs warn",
+        "url": "https://www.theguardian.com/politics/2026/oct/22/uk-risk-russian-aggression-lack-submarines-warships-mps-warn",
+        "description": "Committee cites shortfalls of submarines and warships and says ‘dramatic progress’ needed by end of decadeBritain risks failing to deter future Russian aggression in the high north beyond the UK be...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
-        "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
-        "description": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+        "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+        "description": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Pope does not need further treatment after lung cancer surgery",
-        "url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-        "description": "Test results have confirmed his diagnosis as a lung adenocarcinoma that was localised.",
+        "title": "'Betrayed by my body': The taboo health issue women are talking about on social media",
+        "url": "https://www.bbc.co.uk/news/articles/cwly3g0g371go?at_medium=RSS&at_campaign=rss",
+        "description": "Women are sharing their experiences with chronic urinary tract infections on social media in an effort to break the stigma surrounding UTIs.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Pupils who designed a badge sent to space meet NASA astronaut",
-        "url": "https://www.bbc.co.uk/news/articles/cq78pzl85nglo?at_medium=RSS&at_campaign=rss",
-        "description": "Frank Rubio is set to be in the crew for the Artemis III mission and previously spent a year in space.",
+        "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+        "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
         "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-        "description": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+        "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
         "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
         "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-        "description": "Russia's President Putin does not feel under pressure right now to end the war.",
+        "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
