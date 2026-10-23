@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-10-22T21:12:29.294701+00:00",
+  "fetched_at": "2026-10-23T03:27:46.556408+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
+        "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
+        "description": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’ Andy Burnham: We will make the net-zero transition work for BritainAndy Burnham ha...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Every Briton should stockpile water and food supplies, government advises",
         "url": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
-        "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
-        "description": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’Andy Burnham: We will make the net-zero transition work for BritainAndy Burnham has...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns",
-        "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
-        "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
+        "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister is hosting the UK's first wildfire summit to prepare for future blazes after a record summer 2026.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
-        "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
-        "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+        "title": "Grid operator says lights will stay on this winter after concerns",
+        "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+        "description": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Child health in England at risk from sharp rise in NHS waiting times, report says",
+        "url": "https://www.theguardian.com/society/2026/oct/23/child-health-england-at-risk-sharp-rise-nhs-waiting-times",
+        "description": "CQC research finds long delays are making  conditions harder to treat and highlights regional disparities in careThousands of children in England are experiencing some of the sharpest rises in wait...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "The Guardian view on England's north-south divide: Burnham must deliver more than devolution | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-englands-north-south-divide-burnham-must-deliver-more-than-devolution",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Storm names should tell a story or two | Brief letters",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/22/storm-names-should-tell-a-story-or-two",
-        "description": "Storm Austen | Interpreting Hokusai | NI for pensioners | Creative car names | Queue for the BayeuxI was delighted to see that the first storm of the season is called Austen (Report, 20 October). I...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "First human case of Shamonda virus detected in France, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/c6reyx1d9ge9o?at_medium=RSS&at_campaign=rss",
-        "description": "The disease, which usually affects cattle, has been identified in a patient who died in early October.",
+        "title": "Private care home investors a risk to public sector, regulator says",
+        "url": "https://www.bbc.co.uk/news/articles/cke8r6543gplo?at_medium=RSS&at_campaign=rss",
+        "description": "US investors are buying up UK care homes - a situation regulators say they are \"watching carefully\" in case it threatens plans for a National Care Service.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
+        "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
+        "description": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’ Andy Burnham: We will make the net-zero transition work for BritainAndy Burnham ha...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Burnham to reveal plans for AI unit to tackle wildfires after scorching summer",
+        "url": "https://www.theguardian.com/world/2026/oct/22/burnham-plans-ai-unit-spot-fight-fires-faster-record-breaking-summer-heat",
+        "description": "PM will also announce funding for specialised protective gear and the deployment of military aircraftThe UK government is to create an AI Cobra unit to spot wildfires after this year’s record-break...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Every Briton should stockpile water and food supplies, government advises",
         "url": "https://www.theguardian.com/politics/2026/oct/22/britain-prepare-infrastructure-attacks-hostile-states-wes-streeting",
         "description": "Be Ready campaign aims to prepare UK for impact of climate crisis, technological dependency and threats by hostile stateEvery Briton is being urged to stock up to nine litres of bottled water and t...",
@@ -123,23 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
-        "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
-        "description": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’Andy Burnham: We will make the net-zero transition work for BritainAndy Burnham has...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Indonesian students clash with police as protests over toxic haze escalate – video",
-        "url": "https://www.theguardian.com/world/video/2026/oct/22/indonesia-students-clash-police-protests-toxic-haze-video",
-        "description": "Students across Kalimantan and Sumatra took to the streets to demand government accountability for the wildfires and toxic haze blanketing the region. While Indonesia regularly battles wildfires in...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Firefighters and public 'knowingly put at risk' during summer wildfires",
-        "url": "https://www.bbc.co.uk/news/articles/cqvgjk3j0j9wo?at_medium=RSS&at_campaign=rss",
-        "description": "Crews and control centre staff say the fires were relentless with many firefighters still off work injured.",
+        "title": "Amber warning in place as Storm Austen hits parts of UK",
+        "url": "https://www.bbc.co.uk/weather/articles/cq8ezy256e42o?at_medium=RSS&at_campaign=rss",
+        "description": "Disruption to travel is likely as the season's first named storm brings a swathe of powerful winds to south-west England on Friday.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+        "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+        "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
         "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
         "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Race to update services' computer systems after cyber-security flaw found",
-        "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-        "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-        "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
