@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-10-23T11:02:34.197458+00:00",
+  "fetched_at": "2026-10-23T16:29:28.920710+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Andy Burnham warns of ‘winter of greater flooding’ – UK politics live",
+        "title": "Free Speech Union hit by internal allegations of racism and sexually inappropriate remarks",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/23/free-speech-union-allegations-racism-sexually-inappropriate-remarks",
+        "description": "Exclusive: Key figure in campaign group accused of saying she would ‘never hire a black person’, and second figure discussed Sydney Sweeney’s ‘assets’The Free Speech Union (FSU) is reeling from int...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK politics: Andy Burnham warns of ‘winter of greater flooding’ – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
         "description": "The prime minister said the government is having conversation about emergency preparednessA DUP minister has said he is confident MP Carla Lockhart will stay in the party despite leaving its main d...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Briton facing forced separation from baby son after Sweden orders his deportation",
-        "url": "https://www.theguardian.com/politics/2026/oct/23/briton-forced-separation-baby-son-sweden-deportation-brexit",
-        "description": "Exclusive: Photographer Simon Montgomery told ‘state’s interest in regulated immigration’ outweighs his family concernsUK politics live – latest updatesEurope live – latest updatesA British photogr...",
+        "title": "UK government to make unprecedented intervention in setting of water bills",
+        "url": "https://www.theguardian.com/business/2026/oct/23/ministers-water-companies-bills-investment",
+        "description": "Exclusive: Angela Eagle tells utility bosses next price review ‘must focus on value for money for customers’UK politics live – latest updatesMinisters will make an unprecedented intervention in wat...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "EU leaders to press Burnham to pay more towards Ukraine’s defence",
-        "url": "https://www.theguardian.com/world/2026/oct/23/eu-uk-summit-burnham-ukraine-defence",
-        "description": "Officials will call on UK to ‘step up’ financial support at Brussels summit – with post-Brexit issues also on agendaEU leaders will press Andy Burnham at a summit in Brussels to contribute more to ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Chancellor says he will cut 'pointless paperwork' to save businesses up to £800m",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss",
-        "description": "Ministers say the changes in regulations will reduce unnecessary bureaucracy.",
+        "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
+        "url": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo?at_medium=RSS&at_campaign=rss",
+        "description": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-        "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-        "description": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
+        "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+        "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
+        "description": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Wales plans to ban steel pylons as government launches consultation",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-        "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
+        "title": "Scotland to be hit with 80mph wind gusts as Storm Boelo alert upgraded to amber",
+        "url": "https://www.bbc.co.uk/news/articles/cwkgjz3dpyj6o?at_medium=RSS&at_campaign=rss",
+        "description": "It is due to be the second of two storms to hit Scotland over the weekend, with Storm Austen bringing heavy rain on Friday.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-        "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-        "description": "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown.",
+        "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+        "description": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+        "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+        "description": "Another 34 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
         "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-        "description": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
-        "url": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
-        "description": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
+        "description": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
