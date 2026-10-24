@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-24T03:22:24.980057+00:00",
+  "fetched_at": "2026-10-24T10:18:53.300949+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
+        "url": "https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice",
+        "description": "Government campaign recommends three days’ worth of stores for emergencies, but some are ahead of the gameDried foods, bottled water, medicine stocks and backup power banks: it could be the props c...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Most levelling up projects still unfinished years after funding allocated",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation",
+        "description": "Data released under freedom of information laws reveals hundreds of projects unfinished despite Tory promises on regional equality• Can a £5.8bn scheme help revive Grimsby and other town centres?Mo...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Reform UK braces for Farage standards verdict over undeclared £5m gift",
         "url": "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift",
         "description": "Party insiders say they expect initial verdict to be against leader and are preparing to appeal against adverse findingsNigel Farage’s Reform is braced for a negative report from the standards comm...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Free Speech Union hit by internal allegations of racism and sexually inappropriate remarks",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/23/free-speech-union-allegations-racism-sexually-inappropriate-remarks",
-        "description": "Exclusive: Key figure in campaign group accused of saying she would ‘never hire a black person’, and second figure discussed Sydney Sweeney’s ‘assets’The Free Speech Union (FSU) is reeling from int...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK politics: Andy Burnham warns of ‘winter of greater flooding’ – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/23/uk-warnings-stockpile-storm-austen-treasury-autumn-budget-latest-news-updates",
-        "description": "The prime minister said the government is having conversation about emergency preparednessA DUP minister has said he is confident MP Carla Lockhart will stay in the party despite leaving its main d...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
-        "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
-        "description": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
+        "title": "Wales plans to ban steel pylons as government launches consultation",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+        "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Deadly shooting near Paris is a 'racist terrorist attack', Macron says",
-        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-        "description": "One person is killed and five wounded in a series of attacks. The suspected gunman has been apprehended.",
+        "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+        "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+        "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-        "description": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+        "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
+        "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
+        "description": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
-        "url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
-        "description": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+        "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
+        "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
