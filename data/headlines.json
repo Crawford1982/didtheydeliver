@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-24T10:18:53.300949+00:00",
+  "fetched_at": "2026-10-24T15:24:29.652063+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "No unions, low taxes: why some of Britain’s top chefs are opening outposts in Gulf states",
+        "url": "https://www.theguardian.com/food/2026/oct/24/uk-tsunami-taxes-top-london-restaurants-expand-abroad",
+        "description": "Leading restaurateur says Gulf countries actively help businesses set up, while east Asia has a better work ethicSome of London’s top restaurants are opening branches in Dubai because of a “tax tsu...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Is London really the most-taxed city? Banks accused of cherrypicking data",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/24/banking-lobby-group-accused-cherry-picking-data-healey-tax-rise",
+        "description": "Lobby group’s figures, shared with John Healey, are misleading as they do not include major rival Paris, say campaignersA banking lobby group has been accused of cherrypicking data and trying to mi...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Tinned food, loo roll and power banks: the Brits following advice to stockpile",
         "url": "https://www.theguardian.com/society/2026/oct/24/tinned-food-loo-roll-power-banks-brits-stockpiling-government-advice",
         "description": "Government campaign recommends three days’ worth of stores for emergencies, but some are ahead of the gameDried foods, bottled water, medicine stocks and backup power banks: it could be the props c...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Most levelling up projects still unfinished years after funding allocated",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/24/most-conservative-party-levelling-up-projects-unfinished-funding-allocation",
-        "description": "Data released under freedom of information laws reveals hundreds of projects unfinished despite Tory promises on regional equality• Can a £5.8bn scheme help revive Grimsby and other town centres?Mo...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform UK braces for Farage standards verdict over undeclared £5m gift",
-        "url": "https://www.theguardian.com/politics/2026/oct/23/reform-braces-farage-standards-verdict-undeclared-5m-gift",
-        "description": "Party insiders say they expect initial verdict to be against leader and are preparing to appeal against adverse findingsNigel Farage’s Reform is braced for a negative report from the standards comm...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Wales plans to ban steel pylons as government launches consultation",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-        "description": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines.",
+        "title": "Trains cancelled and road warnings as Scotland prepares for Storm Boelo",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
+        "description": "Heavy rain and strong winds are expected during the second named storm to hit in two days, with gusts of up to 80mph forecast.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "My mother donated her body to science. I really wasn’t prepared for what came next",
+        "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/24/body-donation-science",
+        "description": "The process included a gala featuring medical students doing aerial yoga and singing Taylor Swift to donors’ families. In some way, it was absolutely perfectWhen my mother, Erin O’Connell, was diag...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "BBC News to axe education editor role in cost-cutting move",
         "url": "https://www.theguardian.com/media/2026/oct/22/bbc-news-to-axe-education-editor-role-in-cost-cutting-move",
@@ -156,13 +163,6 @@
         "title": "West End to get another lesson from The History Boys two decades on",
         "url": "https://www.theguardian.com/stage/2026/oct/22/west-end-alan-bennett-the-history-boys-nicholas-hytner-theatre",
         "description": "Nation’s favourite play makes London comeback amid renewed debate about future of humanities teachingThe History Boys is to return to the West End for the first time in two decades, with a warning ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "UK politics: Reform UK claims racism exposé has left some members ‘psychologically damaged’ as it reports ITV to police – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/21/jackdaw-gasfield-labour-andy-burnham-zack-polanski-uk-politics-latest-news",
-        "description": "Zia Yusuf claims undercover investigation broke the law as broadcaster stands by its journalismHere is an explainer by Jill Ambrose about the Jackdaw decision.But environmental groups have condemne...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+        "title": "Ukraine says Starlink connection 'now stable' after network limits",
+        "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+        "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
         "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
-        "description": "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+        "description": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",
         "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss",
         "description": "Kaylub Giamanco has been hailed as a hero for killing a teenager who fatally shot three children and a teacher.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-        "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-        "description": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
