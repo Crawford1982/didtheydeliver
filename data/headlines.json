@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-10-25T15:34:48.611543+00:00",
+  "fetched_at": "2026-10-25T20:23:34.542482+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Rayner backs Burnham call for debate on return to free movement with EU",
+        "title": "Cabinet ministers back Burnham’s call for debate on return to free movement with EU",
         "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
-        "description": "Cabinet minister says PM’s plea is ‘pragmatism’ but comments risk causing concern among some red wall MPsAndy Burnham’s call for the UK to consider a return to free movement with Europe has been ba...",
+        "description": "PM’s plea supported by Angela Rayner, Ed Miliband and business leaders, while some ‘red wall’ MPs voice concernAndy Burnham’s call for the UK to consider a return to free movement with Europe has b...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Sea bass: a fish by any other name | Brief letters",
+        "url": "https://www.theguardian.com/food/2026/oct/25/sea-bass-a-fish-by-any-other-name",
+        "description": "Sea bass names | Healthy NHS | Globe destroying | No pictures | Clean sweep from the 60sDicentrarchus labrax is properly called the European seabass in English (Letters, 20 October). Or sea bass; e...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Ethnic minorities in England less likely to get breast cancer diagnosis from routine screening",
         "url": "https://www.theguardian.com/society/2026/oct/25/ethnic-minorities-england-breast-cancer-screening-disparity",
         "description": "Exclusive: People from marginalised groups more likely to be diagnosed via urgent referral or in emergency setting, research finds People from minority ethnic backgrounds in England are up to a thi...",
@@ -73,13 +80,6 @@
         "title": "‘I can’t believe I get to see that’: One Born Every Minute is back for a 12th series",
         "url": "https://www.theguardian.com/tv-and-radio/2026/oct/25/i-cant-believe-i-get-to-see-that-one-born-every-minute-is-back-for-a-12th-series",
         "description": "Reality TV show returns to focus on childbirth, diversity and the sharing of stories in a social media ageWhen One Born Every Minute first aired in 2010, viewers loved its fly-on-the-wall take on l...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Imagine if, for once, Labour decided to tell the truth about immigration | Gaby Hinsliff",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/23/labour-truth-immigration-economy-nhs-home-secretary",
-        "description": "Our economy needs it. The NHS needs it. And making foreign workers’ lives more miserable – as the home secretary plans to do – will undermine integrationMy mum’s carer was uncharacteristically late...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Overnight winds reach 85mph as Scotland is hit by Storm Boelo",
-        "url": "https://www.bbc.co.uk/news/articles/c60qk5lw1z8wo?at_medium=RSS&at_campaign=rss",
-        "description": "Heavy rain and strong winds are affecting most of the country until 21:00 on Sunday.",
+        "title": "Around 6000 still without power in NI and Republic after Storm Boelo",
+        "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
+        "description": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,13 +192,6 @@
     ],
     "foreign_policy": [
       {
-        "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-        "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-        "description": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
         "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
         "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
         "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
@@ -206,9 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-        "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-        "description": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+        "title": "Venezuelan opposition leader María Machado returns after months in exile",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Early reports suggest record high turnout in Serbia elections",
+        "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+        "description": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
