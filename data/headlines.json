@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-25T20:23:34.542482+00:00",
+  "fetched_at": "2026-10-26T03:19:11.853824+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Burnham to double spending on homelessness amid drive to end rough sleeping by Christmas",
+        "url": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
+        "description": "Downing Street will allocate a further £432m in this week’s budget, bringing total funding for finding a ‘lasting solution’ to nearly £900mAndy Burnham is to double spending on ending rough sleepin...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Cabinet split emerges over controversial Rosebank oilfield decision",
+        "url": "https://www.theguardian.com/environment/2026/oct/25/cabinet-split-emerges-over-controversial-rosebank-oilfield-decision",
+        "description": "Chancellor is in favour of North Sea project, but energy secretary has said she is leaning towards rejecting itA cabinet split has emerged over whether to approve drilling at the Rosebank oilfield,...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Cabinet ministers back Burnham’s call for debate on return to free movement with EU",
         "url": "https://www.theguardian.com/politics/2026/oct/25/burnham-rayner-labour-eu-free-movement-brexit",
         "description": "PM’s plea supported by Angela Rayner, Ed Miliband and business leaders, while some ‘red wall’ MPs voice concernAndy Burnham’s call for the UK to consider a return to free movement with Europe has b...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Former Tory candidate suspended over contract killer claims was adviser in Kemi Badenoch’s office",
-        "url": "https://www.theguardian.com/politics/2026/oct/25/former-tory-candidate-suspended-over-contract-killer-claims-was-adviser-in-kemi-badenoch-office-jack-ross",
-        "description": "Sources close to Tory leader say Jack Ross, who faces party investigation after undercover report, worked as social media consultantA former Conservative election candidate who was suspended after ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Demand for UK government action 10 months after British man’s death in Grenada",
-        "url": "https://www.theguardian.com/world/2026/oct/25/demand-uk-government-action-after-british-man-death-grenada",
-        "description": "Police closed case of Andrew Frederick despite autopsy report ruling his death a homicideA time-critical investigation into the death of a British father whose body was found in a ransacked propert...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-        "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-        "description": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+        "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+        "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
+        "description": "The economic is positive now but come January things could become trickier for the Labour government",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "GP says she was forced out of job after raising concerns about gender treatment",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynl415j79o?at_medium=RSS&at_campaign=rss",
-        "description": "The doctor says she faced a brutal investigation after she passed on complaints brought to her by other doctors.",
+        "title": "Is 'ferritin face' a real thing - and can you really spot low iron from looks?",
+        "url": "https://www.bbc.co.uk/news/articles/cmlykvpdx4x0o?at_medium=RSS&at_campaign=rss",
+        "description": "Videos in which people claim to spot the signs of low iron have attracted millions of views online.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Around 6000 still without power in NI and Republic after Storm Boelo",
-        "url": "https://www.bbc.co.uk/news/articles/c84g10r00221o?at_medium=RSS&at_campaign=rss",
-        "description": "About 350 incidents, including fallen trees and flooding, have been reported to the Department for Infrastructure.",
+        "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
+        "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+        "description": "An amber wind warning has now expired after severe weather sweeps across the UK.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Burnham to double spending on homelessness amid drive to end rough sleeping by Christmas",
+        "url": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
+        "description": "Downing Street will allocate a further £432m in this week’s budget, bringing total funding for finding a ‘lasting solution’ to nearly £900mAndy Burnham is to double spending on ending rough sleepin...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester",
         "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
         "description": "The story of the emirates’ presence in Manchester winds from the Arab Spring to some of the most deprived places in England – with complicated results Emirati-linked firms’ ownership of Manchester ...",
@@ -181,20 +188,20 @@
         "description": "My friend and former colleague Colin Sherriff, who has died aged 75, worked in social housing for half a century, including as a director at three housing associations, Circle 33, Thames Valley Hou...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "‘Sham tribunal’: one family’s battle with Louisiana’s ‘feudal’ eviction courts",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/louisiana-eviction-courts-system",
-        "description": "In rural Louisiana, eviction hearings are held at kitchen tables and other unorthodox venues – and many justices have little legal training Continue reading...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
-        "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
-        "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+        "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Deeply divided Israel braces for pivotal election",
+        "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+        "description": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Venezuelan opposition leader María Machado returns after months in exile",
         "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
         "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Early reports suggest record high turnout in Serbia elections",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
-        "description": "Polls are closing in Serbia as a student movement attempts to oust longtime populist leader Aleksandar Vučić.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
