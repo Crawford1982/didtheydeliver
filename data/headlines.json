@@ -1,39 +1,46 @@
 {
-  "fetched_at": "2026-10-26T12:17:17.820319+00:00",
+  "fetched_at": "2026-10-26T22:18:38.548025+00:00",
   "headlines": {
     "government": [
       {
-        "title": "I would like to rejoin EU, says Burnham, but ‘British public are the bosses’ – UK politics live",
+        "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
+        "url": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
+        "description": "Clarification comes after PM fuelled speculation about EU-UK relationship in series of interviews at weekendDowning Street has been forced to clarify Andy Burnham’s stance on whether the UK would r...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Shabana Mahmood launches review into murder of student Henry Nowak",
+        "url": "https://www.theguardian.com/politics/2026/oct/26/shabana-mahmood-launches-review-into-of-student-henry-nowak",
+        "description": "Move comes after claims that killer had history of using threatening behaviour and an obsession with weaponsShabana Mahmood, the home secretary, has launched a review to examine whether opportuniti...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
-        "description": "PM says talking about changing the relationship with the bloc would not be divisive but ‘can start to bring people together’The Times is reporting this morning that the tax allowance for low-income...",
+        "description": "The prime minister previously said that he wanted a debate on how Britain can establish a closer relationshipSpeaking at his rough sleeping summit in Downing Street this morning, Andy Burnham expan...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Drive reindustrialisation from No 10 North or risk failure, MPs tell Burnham",
-        "url": "https://www.theguardian.com/business/2026/oct/26/drive-reindustrialisation-from-no-10-north-labour-mps-tell-burnham",
-        "description": "Ninety-plus Labour MPs warn civil service lacks skills to drive growth where it is needed and plan should be steered by Louise Haigh from ManchesterBusiness live – latest updatesAndy Burnham’s pled...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Brexit deal is not good enough for British public, says Andy Burnham",
-        "url": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
-        "description": "EU exit has damaged economy and failed to bring promised benefits, says PM, but he rules out big pre-election changesUK politics live – latest updatesEurope live – latest updatesBrexit has not “pla...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Healey to shield low-income pensioners from income tax in the Budget",
-        "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-        "description": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+        "title": "No 10 appears to backtrack on PM's freedom of movement referendum suggestion",
+        "url": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
+        "description": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Meta announces $95bn fundraising drive to pay for AI expansion – business live",
+        "title": "What the claw arcade game tells us about the cost of living crisis | Zoe Williams",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/26/what-the-claw-arcade-game-tells-us-about-the-cost-of-living-crisis",
+        "description": "No matter how you crunch the UK data, prices are rising while average wages stagnate. The system is rigged – and it’s time we kicked over the toy dispenserAbout a decade ago, the financial crash wa...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Anthropic files for stock market IPO; Meta announces $95bn fundraising drive to pay for AI expansion – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
         "description": "Meta says share sale will support its “continued investment in AI infrastructure and personal superintelligence”, as Elon Musk warns some AI cloud computing firms face ‘guppy-level death’UK governm...",
         "source": "The Guardian",
@@ -47,25 +54,25 @@
         "category": "economy"
       },
       {
-        "title": "Drive reindustrialisation from No 10 North or risk failure, MPs tell Burnham",
-        "url": "https://www.theguardian.com/business/2026/oct/26/drive-reindustrialisation-from-no-10-north-labour-mps-tell-burnham",
-        "description": "Ninety-plus Labour MPs warn civil service lacks skills to drive growth where it is needed and plan should be steered by Louise Haigh from ManchesterBusiness live – latest updatesAndy Burnham’s pled...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Healey to shield low-income pensioners from income tax in the Budget",
-        "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-        "description": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+        "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+        "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+        "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "NHS consultants to go on two-day strike in England in November, says BMA",
+        "title": "NHS consultants to go on two-day strike in England in November",
         "url": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
-        "description": "Industrial action by senior doctors to begin on 25 November, with only emergency cover provided, union saysSenior doctors in England plan to go on strike for two days in November, the British Medic...",
+        "description": "Industrial action by senior doctors to begin on 25 November with only emergency cover provided, BMA saysEngland’s most senior hospital doctors will strike next month in a dispute over their pay and...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Bigger does not always mean better in hospital care | Letter",
+        "url": "https://www.theguardian.com/society/2026/oct/26/bigger-does-not-always-mean-better-in-hospital-care",
+        "description": "For some medics, working at a large centre means for the same pay you don’t have to work so hard, writes Dr Paul GodwinThe closure of maternity units is always a temptation when the NHS runs into s...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -73,13 +80,6 @@
         "title": "Sea bass: a fish by any other name | Brief letters",
         "url": "https://www.theguardian.com/food/2026/oct/25/sea-bass-a-fish-by-any-other-name",
         "description": "Sea bass names | Healthy NHS | Globe destroying | No pictures | Clean sweep from the 60sDicentrarchus labrax is properly called the European seabass in English (Letters, 20 October). Or sea bass; e...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Ethnic minorities in England less likely to get breast cancer diagnosis from routine screening",
-        "url": "https://www.theguardian.com/society/2026/oct/25/ethnic-minorities-england-breast-cancer-screening-disparity",
-        "description": "Exclusive: People from marginalised groups more likely to be diagnosed via urgent referral or in emergency setting, research finds People from minority ethnic backgrounds in England are up to a thi...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,16 +93,16 @@
     ],
     "immigration": [
       {
-        "title": "I would like to rejoin EU, says Burnham, but ‘British public are the bosses’ – UK politics live",
+        "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
-        "description": "PM says talking about changing the relationship with the bloc would not be divisive but ‘can start to bring people together’Speaking at his rough sleeping summit in Downing Street this morning, And...",
+        "description": "The prime minister previously said that he wanted a debate on how Britain can establish a closer relationshipSpeaking at his rough sleeping summit in Downing Street this morning, Andy Burnham expan...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
         "title": "Brexit deal is not good enough for British public, says Andy Burnham",
         "url": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
-        "description": "EU exit has damaged economy and failed to bring promised benefits, says PM, but he rules out big pre-election changesUK politics live – latest updatesEurope live – latest updatesBrexit has not “pla...",
+        "description": "EU exit has damaged economy and failed to bring promised benefits, says PM, but he rules out big pre-election changesBrexit has not “played out” like it was promised to the public, has weakened the...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -115,6 +115,13 @@
       }
     ],
     "climate": [
+      {
+        "title": "UK looking to give carmakers incentives to turn EVs into ‘power plants on wheels’",
+        "url": "https://www.theguardian.com/environment/2026/oct/26/uk-carmakers-evs-automatic-charge-sell-electricity-back-to-grid-technology",
+        "description": "V2G tech enables drivers to charge automatically when electricity is cheaper and then sell some back to the grid at times of high demandElectric cars that can be used as “power plants on wheels” co...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
         "url": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
@@ -130,21 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Andy Burnham vows UK will hit net zero target despite Jackdaw gasfield approval",
-        "url": "https://www.theguardian.com/environment/2026/oct/22/andy-burnham-vows-uk-will-hit-net-zero-targets-despite-jackdaw-gasfield-approval",
-        "description": "PM pledges commitment to address climate crisis, saying in Guardian article that his ‘determination is unwavering’ Andy Burnham: We will make the net-zero transition work for BritainAndy Burnham ha...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
-        "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
-        "description": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds.",
+        "title": "Political battle intensifies within Labour over Rosebank oil field",
+        "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
+        "description": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Protest leaders urge French pupils to keep barricading their schools",
+        "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
+        "description": "Activists say struggle must go on until their ‘maximum’ demands are met over teacher shortages and building repairsFrench children should continue to barricade their schools and take part in street...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Goldsmiths fine art students call for compensation over record tutor strike",
         "url": "https://www.theguardian.com/education/2026/oct/26/goldsmiths-university-fine-arts-students-call-for-compensation-strikes",
@@ -158,16 +165,16 @@
         "description": "Maka Gogaladze’s debut feature looks at generational differences in the context of Georgia’s education system and emphasis on collectivismThe scars imprinted on impressionable young minds can never...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Higher training costs for older workers risks plan to tackle youth jobs crisis, employers say",
-        "url": "https://www.theguardian.com/education/2026/oct/26/training-costs-apprenticeships-older-workers-youth-jobs-crisis-neet",
-        "description": "Exclusive: Ministers planning overhaul of apprenticeship funding to increase cost of over-25s training, Guardian understandsBritain’s largest employers have told the government that forcing busines...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "‘Local services are vital’: Former rough sleepers on what helped them off the streets",
+        "url": "https://www.theguardian.com/society/2026/oct/26/homeless-people-summit-andy-burnham-need-help",
+        "description": "As Andy Burnham hosts a rough sleeper summit, frustration mounts over ‘ridiculous bureaucracy’ and lack of hostel placesMartin Fletcher had been homeless for more than 20 years after being made red...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Burnham pledges £900m for homelessness amid drive to end rough sleeping",
         "url": "https://www.theguardian.com/society/2026/oct/25/homelessness-rough-sleeping-double-spending-burnham",
@@ -181,16 +188,16 @@
         "description": "The story of the emirates’ presence in Manchester winds from the Arab spring to some of the most deprived places in England – with complicated resultsEmirati-linked firms’ ownership of Manchester l...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Colin Sherriff obituary",
-        "url": "https://www.theguardian.com/society/2026/oct/23/colin-sherriff-obituary",
-        "description": "My friend and former colleague Colin Sherriff, who has died aged 75, worked in social housing for half a century, including as a director at three housing associations, Circle 33, Thames Valley Hou...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Lula wins fourth term in dramatic Brazil election comeback",
+        "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+        "description": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
         "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Venezuelan opposition leader María Machado returns after months in exile",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-        "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Australian murderer loses bid to eat Vegemite in prison",
-        "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
-        "description": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
+        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+        "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+        "description": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
