@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-10-26T22:18:38.548025+00:00",
+  "fetched_at": "2026-10-27T03:47:32.114738+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
+        "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+        "description": "Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been embedded across the Home Office in near-total secrecy, reinforcing the so-calle...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Carers allowed to earn over the weekly limit without losing out as ‘cliff-edge’ abolished in the budget",
+        "url": "https://www.theguardian.com/society/2026/oct/26/carers-allowance-cliff-edge-abolished-in-the-budget",
+        "description": "Controversial mechanism that hit unpaid carers with huge penalties to be scrapped following Guardian investigationThe controversial rule that led to unpaid carers being punished with penalties amou...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "No 10 clarifies Andy Burnham’s stance on freedom of movement",
         "url": "https://www.theguardian.com/politics/2026/oct/26/andy-burnham-brexit-eu-freedom-of-movement",
@@ -10,28 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Shabana Mahmood launches review into murder of student Henry Nowak",
-        "url": "https://www.theguardian.com/politics/2026/oct/26/shabana-mahmood-launches-review-into-of-student-henry-nowak",
-        "description": "Move comes after claims that killer had history of using threatening behaviour and an obsession with weaponsShabana Mahmood, the home secretary, has launched a review to examine whether opportuniti...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
-        "description": "The prime minister previously said that he wanted a debate on how Britain can establish a closer relationshipSpeaking at his rough sleeping summit in Downing Street this morning, Andy Burnham expan...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "No 10 appears to backtrack on PM's freedom of movement referendum suggestion",
-        "url": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
-        "description": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU.",
+        "title": "Chris Mason: The Budget is imminent as tricky things pile up for Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
+        "description": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "UK shop price inflation ‘highest since 2024’ as retailers struggle to limit price rises",
+        "url": "https://www.theguardian.com/business/2026/oct/27/uk-shop-price-inflation-highest-since-2024-as-retailers-struggle-to-limit-price-rises",
+        "description": "British Retail Consortium says ‘dam is starting to break on the huge wave of costs’ being kept from consumersShop price inflation has risen to the highest level in two and a half years, according t...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "What the claw arcade game tells us about the cost of living crisis | Zoe Williams",
         "url": "https://www.theguardian.com/commentisfree/2026/oct/26/what-the-claw-arcade-game-tells-us-about-the-cost-of-living-crisis",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "‘We don’t have inflation’? Five charts show the US economic reality of Trump’s second term so far",
-        "url": "https://www.theguardian.com/us-news/2026/oct/26/trump-second-term-economy-charts",
-        "description": "As the US midterm elections approach, we take a look at data to see a true picture of the US economy under TrumpWith the midterm elections fast approaching, many Americans have the economy on their...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-        "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-        "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+        "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+        "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+        "description": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
+        "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
+        "description": "Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been embedded across the Home Office in near-total secrecy, reinforcing the so-calle...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "No 10 plays down UK joining EU single market after Burnham suggests referendum would be needed – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/oct/26/andy-burnham-labour-brexit-eu-homelessness-immigration-budget-rosebank-reform-latest-news-updates",
         "description": "The prime minister previously said that he wanted a debate on how Britain can establish a closer relationshipSpeaking at his rough sleeping summit in Downing Street this morning, Andy Burnham expan...",
@@ -103,13 +110,6 @@
         "title": "Brexit deal is not good enough for British public, says Andy Burnham",
         "url": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
         "description": "EU exit has damaged economy and failed to bring promised benefits, says PM, but he rules out big pre-election changesBrexit has not “played out” like it was promised to the public, has weakened the...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Imagine if, for once, Labour decided to tell the truth about immigration | Gaby Hinsliff",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/23/labour-truth-immigration-economy-nhs-home-secretary",
-        "description": "Our economy needs it. The NHS needs it. And making foreign workers’ lives more miserable – as the home secretary plans to do – will undermine integrationMy mum’s carer was uncharacteristically late...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Political battle intensifies within Labour over Rosebank oil field",
-        "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
-        "description": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans.",
+        "title": "New weather warnings as third storm set to hit Scotland",
+        "url": "https://www.bbc.co.uk/news/articles/c5vgj8xwyj1zo?at_medium=RSS&at_campaign=rss",
+        "description": "The country is braced for the third storm in as many days as communities continue to clean up after the weekend.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-        "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+        "title": "Ex-FBI chief James Comey faces federal charges for third time",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+        "description": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-        "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-        "description": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+        "title": "Jay-Z to perform at Super Bowl half-time show",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
+        "description": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
