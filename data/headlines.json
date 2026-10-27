@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-10-27T11:37:30.885673+00:00",
+  "fetched_at": "2026-10-27T17:29:25.547776+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Tories dismiss PM’s budget ‘everyday fixes’ as little more than ‘cheaper gherkins’, and ‘an insult to families’ – UK politics live",
+        "title": "Labour faces accusations of breaking manifesto pledge over minimum wage for young people – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/oct/27/budget-burnham-healey-everday-fixes-gherkins-conservatives-miliband-carers-latest-news-updates",
-        "description": "Removing tariffs on more than 100 products, including gherkins and baked beans, was one of five measures announced this morning before tomorrow’s budgetJakub Krupa writes the Guardian’s Europe live...",
+        "description": "Greens say Labour has ‘no respect for young people’ amid reports chancellor will pause equalisation of minimum wage for under-21s with that paid to older workersJonathan Reynolds, the business secr...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK officials discussing options including free movement with EU ahead of summit",
-        "url": "https://www.theguardian.com/politics/2026/oct/27/uk-eu-relationship-talks-summit-free-movement-jonathan-reynolds",
-        "description": "Business secretary says focus for November summit will be trade and youth mobility, but talks will also include ‘future options for relationship’UK politics live – latest updatesBritish officials h...",
+        "title": "Oriel College urged to cancel student group’s event with Jason Arday accuser",
+        "url": "https://www.theguardian.com/education/2026/oct/27/oriel-college-jason-arday-accuser-nathan-cofnas-reform-students-event",
+        "description": "Student supporters of Reform UK at Oxford college have organised evening with Nathan Cofnas discussing DEIThe University of Oxford’s Oriel College has been urged to cancel an event featuring Jason ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Number of UK businesses in financial distress ‘at two-decade high’",
-        "url": "https://www.theguardian.com/business/2026/oct/27/number-of-uk-businesses-in-financial-distress-at-two-decade-high-budget",
-        "description": "Administrator BTG says 738,144 firms struggling as calls grow for more support for private sector in budgetBusiness live – latest updatesThe number of UK businesses in financial distress has hit it...",
+        "title": "UK government to give £15m to anti-misogyny fund amid ‘manosphere’ concerns",
+        "url": "https://www.theguardian.com/society/2026/oct/27/uk-government-to-give-15m-to-anti-misogyny-fund-amid-manosphere-concerns",
+        "description": "Misogyny prevention fund to help tackle sexism at work, school and in public places across UK• UK politics live – latest updatesThe chancellor will give £15m to a dedicated fund to tackle misogyny ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK and EU officials to discuss freedom of movement",
-        "url": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
-        "description": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month.",
+        "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
         "source": "BBC News",
         "category": "government"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "How has Andy Burnham used his first 100 days in power?",
+        "url": "https://www.theguardian.com/politics/2026/oct/27/how-has-andy-burnham-used-his-first-100-days-in-power",
+        "description": "From ‘everyday fixes’, party management and communications to long-term plans for care and pensions, the PM’s six key acts so farUK politics live – latest updatesAndy Burnham arrived in Downing Str...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "‘Digital hostile environment’: AI secretly being embedded across Home Office, report claims",
         "url": "https://www.theguardian.com/politics/2026/oct/27/digital-hostile-environment-ai-secretly-embedded-home-office-report",
         "description": "Tasks from determining asylum seekers’ ages to border surveillance now involve AI, says Open Rights Group AI has been embedded across the Home Office in near-total secrecy, reinforcing the so-calle...",
@@ -105,16 +112,23 @@
         "description": "The prime minister previously said that he wanted a debate on how Britain can establish a closer relationshipSpeaking at his rough sleeping summit in Downing Street this morning, Andy Burnham expan...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Brexit deal is not good enough for British public, says Andy Burnham",
-        "url": "https://www.theguardian.com/politics/2026/oct/26/brexit-deal-not-good-enough-andy-burnham",
-        "description": "EU exit has damaged economy and failed to bring promised benefits, says PM, but he rules out big pre-election changesBrexit has not “played out” like it was promised to the public, has weakened the...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Slovenia mourns loss of glacier on its highest peak after scorching summer",
+        "url": "https://www.theguardian.com/environment/2026/oct/27/slovenia-mourns-loss-glacier-highest-peak-scorching-summer",
+        "description": "Extreme heat accelerated disappearance of Triglav glacier from mountain revered as a symbol of Slovenian identityThe final ice patch has vanished from Slovenia’s Triglav glacier, the latest Alpine ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Bottled water and tinned food sales surge after UK government issues emergency stockpile advice",
+        "url": "https://www.theguardian.com/society/2026/oct/27/bottled-water-and-tinned-food-sales-surge-after-uk-government-issues-emergency-stockpile-advice",
+        "description": "Retailers also report jump in purchases of wind-up radios and torches to deal with extreme weather and cyber-attacksSales of tinned foods, bottled water, wind-up radios and torches have surged afte...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Burnham in danger of sleepwalking into climate disaster, say campaigners",
         "url": "https://www.theguardian.com/environment/2026/oct/27/burnham-sleepwalking-climate-disaster-campaigners",
@@ -123,46 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "Melting glaciers in Dolomites reveal cache of first world war munitions",
-        "url": "https://www.theguardian.com/world/2026/oct/27/melting-glaciers-dolomites-first-world-war-munitions-italy",
-        "description": "Italian army removes and defuses 250 explosives encased in ice for more than 100 years after hikers’ sightingsA significant cache of unexploded bombs from the first world war emerged this summer fr...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Super-rich get ‘double dividend’ from causes and costs of climate crisis, report finds",
-        "url": "https://www.theguardian.com/environment/2026/oct/27/super-rich-double-dividend-climate-crisis-oxfam",
-        "description": "Oxfam says investing by rich in disaster recovery widens inequality and gives incentive to delay climate actionThe world’s wealthiest people are not just profiting from the polluting causes of clim...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Scotland's recycling rates fall to lowest level in five years",
-        "url": "https://www.bbc.co.uk/news/articles/c62ke84qwl1vo?at_medium=RSS&at_campaign=rss",
-        "description": "Environmental regulator Sepa says households recycled 42.8% of waste in 2025 - down from 44.3% the previous year.",
+        "title": "Nanotyrannus skeleton auctioned for $47.3m in New York",
+        "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+        "description": "The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Oriel College urged to cancel student group’s event with Jason Arday accuser",
+        "url": "https://www.theguardian.com/education/2026/oct/27/oriel-college-jason-arday-accuser-nathan-cofnas-reform-students-event",
+        "description": "Student supporters of Reform UK at Oxford college have organised evening with Nathan Cofnas discussing DEIThe University of Oxford’s Oriel College has been urged to cancel an event featuring Jason ...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Silicon Valley parents want the tech they help build out of their children’s schools",
+        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/27/silicon-valley-schools-education-tech",
+        "description": "Both private and public schools in tech regions are limiting the use of tech in classrooms. But will low-income districts be able to follow suit?German Gil spends most of his waking hours looking a...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Protest leaders urge French pupils to keep barricading their schools",
         "url": "https://www.theguardian.com/world/2026/oct/26/protest-leaders-urge-french-students-to-keep-barricading-their-schools",
         "description": "Activists say struggle must go on until their ‘maximum’ demands are met over teacher shortages and building repairsFrench children should continue to barricade their schools and take part in street...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Goldsmiths fine art students call for compensation over record tutor strike",
-        "url": "https://www.theguardian.com/education/2026/oct/26/goldsmiths-university-fine-arts-students-call-for-compensation-strikes",
-        "description": "With industrial action over job cuts heading into its 21st week, students at famed London college are unhappyStudents arriving at Goldsmiths, University of London this autumn found a campus embroil...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Ever Since I Knew Myself review – confronting the scars of childhood",
-        "url": "https://www.theguardian.com/film/2026/oct/26/ever-since-i-knew-myself-review-documentary-georgia",
-        "description": "Maka Gogaladze’s debut feature looks at generational differences in the context of Georgia’s education system and emphasis on collectivismThe scars imprinted on impressionable young minds can never...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+        "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+        "description": "The defeated presidential candidate is under investigation for alleged money laundering and barred from leaving Brazil.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Turnout so far highest on record as Israelis vote in pivotal election",
         "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
         "description": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-        "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
-        "description": "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Truce begins in Ukraine city where residents ate weeds to survive",
-        "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
-        "description": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+        "title": "Norway and Finland leaders hold rare call with Putin",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+        "description": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
