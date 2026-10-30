@@ -1,38 +1,52 @@
 {
-  "fetched_at": "2026-10-30T04:28:34.587861+00:00",
+  "fetched_at": "2026-10-30T12:09:56.108092+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Healey backs away from cutting welfare cost amid warnings of public finance shortfall",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/29/john-healey-budget-backs-away-from-cutting-welfare-public-finance-shortfall",
-        "description": "Experts round on chancellor over ‘scattergun’ budget, saying he ducked big tax and spending decisionsJohn Healey has backed away from cutting the cost of welfare this parliament, amid dire warnings...",
+        "title": "Foreign firms that win defence contracts will have to invest in UK under new policy – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
+        "description": "Wes Streeting says overseas suppliers of defence contracts will need to spend the equivalent amount in the UKJohn Swinney, the Scottish first minister, and Rhun ap Iorwerth, the Welsh first ministe...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Female Lib Dem MP accuses Nigel Farage of shoving her in parliament",
-        "url": "https://www.theguardian.com/politics/2026/oct/29/nigel-farage-accused-shoving-female-lib-dem-parliament",
-        "description": "Caroline Voaden says Reform UK leader grabbed her by the arm and tried to push past her in incident in MayA female Liberal Democrat MP has accused Nigel Farage of shoving her aside at the state ope...",
+        "title": "Healey’s budget cuts mean Britain is likely to miss green heating targets",
+        "url": "https://www.theguardian.com/environment/2026/oct/30/john-healey-budget-cuts-miss-green-heating-targets",
+        "description": "Ex-energy secretary Ed Miliband’s agenda appears undermined as money is diverted from renewables to defenceBritain is unlikely to hit its targets on green heating after the cuts announced by John H...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK politics: Burnham denies preventing ministers from speaking about plans for closer relationship with EU – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
-        "description": "Prime minister wrote to ministers saying he did not want them to ‘advocate for specific options or opine on the likely outcome of the process’Selling nicotine-free vapes to children under the age o...",
+        "title": "Andy Burnham admits he would have liked more radical first budget",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/30/andy-burnham-first-budget-labour-welfare",
+        "description": "Prime minister says room for manoeuvre was limited by geopolitical crises and Labour’s 2024 manifestoAndy Burnham has admitted his first budget as prime minister was not as radical as he would have...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
-        "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
+        "title": "Streeting denies 'kicking can down the road' in defence spending row",
+        "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+        "description": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
+        "title": "Binance hackers using ‘never-seen-before laundering patterns’ to hide proceeds of $6.3bn heist – business live",
+        "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
+        "description": "Blockchain intelligence firm TRM says North Korea’s TraderTraitor hacking unit is responsible for the largest crypto theft on recordNorth Korean group blamed for $6.3bn Binance hack in biggest ever...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Trump vowed to reduce prices, but his policies have fueled US inflation  | Steven Greenhouse",
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/30/trump-tariffs-inflation-election-promise",
+        "description": "‘Even though economists warned that tariffs would be inflationary, Trump has enthusiastically embraced them’Donald Trump successfully campaigned for his second term two years ago promising to reduc...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "UK politics: Burnham denies preventing ministers from speaking about plans for closer relationship with EU – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/oct/29/budget-john-healey-labour-uk-politics-latest-news",
         "description": "Prime minister wrote to ministers saying he did not want them to ‘advocate for specific options or opine on the likely outcome of the process’Selling nicotine-free vapes to children under the age o...",
@@ -40,28 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "‘Why has the Chancellor left the wealthiest untouched?’ – our money and economics writers answered your questions",
-        "url": "https://www.theguardian.com/uk-news/live/2026/oct/29/budget-2026-reader-questions-john-healey-chancellor-hilary-osborne-heather-stewart",
-        "description": "The Guardian’s money and economics editors Hilary Osborne and Heather Stewart answered your questions on energy prices, tax thresholds and the global events pressuring the economy.FelonMarmer asks:...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Europe’s central bank chief, Christine Lagarde, steps down for ‘freedom of speech’",
-        "url": "https://www.theguardian.com/world/2026/oct/29/european-central-bank-chief-christine-lagarde-to-step-down-nine-months-early",
-        "description": "Possible candidate to run World Economic Forum departs ECB nine months early, saying she wants to speak her mind about world affairsChristine Lagarde, the eurozone’s top central banker, has said sh...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Binance says crypto worth $6.3bn impacted by hack",
-        "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-        "description": "The firm said roughly $3bn in assets have been frozen and that it will \"cover all losses\".",
+        "title": "From Levi's to Primark - the fashion chains selling mended clothes",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
+        "description": "A new generation is embracing eye-catching patching and visible mends.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "UK government’s obesity plan ‘doomed to fail’, MPs warn",
+        "url": "https://www.theguardian.com/society/2026/oct/30/uk-government-obesity-plan-doomed-mps-warn",
+        "description": "Cross-party committee says ‘moonshot’ vow to end obesity epidemic in a decade will fail without personal leadership from PMThe UK government’s promise to reverse rising obesity rates in the next de...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "The Guardian view on Labour’s budget: bold ambitions and welcome first steps | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/oct/28/the-guardian-view-on-labours-budget-bold-ambitions-and-welcome-first-steps",
@@ -77,39 +84,32 @@
         "category": "nhs"
       },
       {
-        "title": "NHS consultants to go on two-day strike in England in November",
-        "url": "https://www.theguardian.com/society/2026/oct/26/nhs-consultants-two-day-doctors-strike-england-november-bma",
-        "description": "Industrial action by senior doctors to begin on 25 November with only emergency cover provided, BMA saysEngland’s most senior hospital doctors will strike next month in a dispute over their pay and...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Biggest fibre boost could be scraps in your bin, experts say",
-        "url": "https://www.bbc.co.uk/news/articles/cw5ynver15jeo?at_medium=RSS&at_campaign=rss",
-        "description": "Chomping on vegtable skins, seeds and stalks could give us vital fibre, say food scientists.",
+        "title": "'My low Vitamin D levels hit me like a truck'",
+        "url": "https://www.bbc.co.uk/news/videos/cmy931z9pl8do?at_medium=RSS&at_campaign=rss",
+        "description": "Saskia Reeves-Priestley didn't know she had a Vitamin D deficiency until she suddenly collapsed at work.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
+        "title": "Mahmood infuriates fellow ministers by failing to reveal impact of UK migration shake-up",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/30/shabana-mahmood-infuriates-ministers-migration-shake-up",
+        "description": "Home secretary’s colleagues fear homelessness will rise as a result of changes to the asylum systemShabana Mahmood has infuriated ministerial colleagues by failing to share what they see as crucial...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Climate academic Andreas Malm barred from entering UK",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/30/climate-academic-andreas-malm-barred-from-entering-uk",
+        "description": "Swedish author was due to speak alongside Palestine Action co-founder at event discussing ban on the groupAndreas Malm, the climate academic and author of How to Blow Up a Pipeline, has been blocke...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Sara won a prized place to study medicine in Glasgow. Why is the Home Office blocking her?",
         "url": "https://www.theguardian.com/uk-news/2026/oct/29/sara-won-a-prized-place-to-study-medicine-in-glasgow-why-is-the-home-office-blocking-her",
         "description": "She fought every obstacle in Afghanistan to pursue her dream of becoming a doctor – fleeing her abusive father and the Taliban. But this talented, tenacious student has now been denied a visa, for ...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Budget 2026: Healey hikes taxes on banks and landlords to fund £100 handouts to 20m households",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/28/budget-2026-healey-hikes-taxes-on-banks-and-landlords-to-fund-100-handouts-to-20m-households",
-        "description": "Few surprises as chancellor uses low-key speech blaming ‘global economic storms’ for stoking energy prices and cost of living crisisBudget 2026: key points at a glanceBriefing: key questions answer...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Volunteer, 78, says Reform official likened her to Nazi collaborator for teaching asylum seekers English",
-        "url": "https://www.theguardian.com/politics/2026/oct/28/reform-official-volunteer-nazi-collaborator-teaching-asylum-seekers-english",
-        "description": "Mair Godley claims Essex councillor Carl Johnson told her she was ‘facilitating the invasion’ by giving language lessonsA 78-year-old volunteer has claimed a Reform UK councillor accused her of “fa...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "From workshops to the catwalk - why mended clothes are going mainstream",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-        "description": "A new generation is embracing eye-catching patching and visible mends.",
+        "title": "Helicopter carrying six people crashes in northern Indian state",
+        "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
+        "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Lawmakers call to reform Louisiana’s ‘blatantly unconstitutional’ justice of the peace system",
+        "url": "https://www.theguardian.com/us-news/2026/oct/30/louisiana-justice-of-the-peace-courts-lawmaker-reaction",
+        "description": "After Guardian investigation, both Republican and Democratic state lawmakers are considering legislation to address ‘flagrantly unethical’ court systemA bipartisan group of senior Louisiana lawmake...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Budget 2026: £100 energy payment for millions and rise in bank tax as watchdog warns on stalling living standards – as it happened",
         "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
         "description": "OBR says that living standards are forecast to rise by just 1% over the whole post-Covid decadeBudget 2026: key points at a glanceMartin Lewis said that, when he met John Healey this morning, the c...",
@@ -181,34 +188,27 @@
         "description": "Amid global economic storms, the new chancellor has promised to steer the course – with promises of more help to come. Will it be enough? Continue reading...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Louisiana’s 'blatantly unconstitutional' eviction system – Stateside with Kai and Carter",
-        "url": "https://www.theguardian.com/us-news/video/2026/oct/28/louisiana-eviction-system-stateside-kai-and-carter",
-        "description": "A nine-month Guardian investigation has revealed that when a landlord evicts someone in Louisiana, they can choose to file the eviction in a venue where a portion of the court fee goes directly int...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-        "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
-        "description": "The PM's Likud party has alleged foreign interference and said Arab-led parties \"stole\" the election after his coalition lost its majority.",
+        "title": "Residents leave devastated Russian-occupied Oleshky as evacuation corridor opens",
+        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
+        "description": "Several hundred people are understood to have decided to stay in the frontline town, despite the lack of gas, electricity and running water.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-        "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-        "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
+        "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+        "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+        "description": "Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-        "url": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-        "description": "A temporary ceasefire has brought rare quiet to Kherson, offering its residents a glimpse of normal life before fighting resumes.",
+        "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+        "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+        "description": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
