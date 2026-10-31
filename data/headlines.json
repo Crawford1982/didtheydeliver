@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-10-31T04:09:38.857813+00:00",
+  "fetched_at": "2026-10-31T11:42:41.794785+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Andy Burnham open to calls for formal apology for Britain’s role in slave trade",
-        "url": "https://www.theguardian.com/world/2026/oct/30/andy-burnham-call-formal-apology-britains-role-in-slave-trade",
-        "description": "Exclusive: UK PM to launch drive to restructure debt of poorest Commonwealth countries but rejects demands for reparations• British people can’t be made to pay for the wrongs of slavery – but we mu...",
+        "title": "Streeting says he began stockpiling food weeks ago amid rising threat to UK",
+        "url": "https://www.theguardian.com/politics/2026/oct/31/streeting-stockpiling-food-water-weeks-ago-amid-rising-threat-to-uk",
+        "description": "Defence secretary says value for money and modernisation key for spending to ‘fight the wars ahead’The defence secretary, Wes Streeting, says he started stockpiling food and water weeks ago in case...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Local devolution decisions rest solely with Scotland and Wales, first ministers tell Burnham",
-        "url": "https://www.theguardian.com/politics/2026/oct/30/local-devolution-decisions-scotland-wales-first-ministers-tell-burnham",
-        "description": "John Swinney and Rhun ap Iorwerth say devolving power further is up to Holyrood and Senedd – not WestminsterScotland and Wales’s first ministers have told Andy Burnham that decisions on local devol...",
+        "title": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
+        "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty",
+        "description": "What if someone told you the truth about the economy? For years, governments have tried spending more, spending less, cutting red tape, Brexit, levelling up – and still failed to increase growth pe...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Business secretary says UK needs to understand direction of EU before signing up to closer relationship – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/oct/30/andy-burnham-labour-conservatives-devolution-scotland-wales-latest-news-updates",
-        "description": "This blog is now closedDowning Street has paid tribute to Patrick Stewart following the actor’s death. At the daily lobby briefing, the PM’s spokesperson gave a comment that was a bit more extensiv...",
+        "title": "Is time up for backyard fireworks? UK ministers weigh partial ban over noise concerns",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/fireworks-uk-consultation-campaigners-noise-animal-welfare",
+        "description": "Consultation follows growing calls from campaigners, vets and National Farmers’ Union for tighter regulationAs the nights draw in, the season of sparklers begins, with Diwali, Bonfire Night and New...",
         "source": "The Guardian",
         "category": "government"
       },
       {
         "title": "Burnham 'open' to calls for slavery apology but not reparations",
         "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\".",
+        "description": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
+        "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty",
+        "description": "What if someone told you the truth about the economy? For years, governments have tried spending more, spending less, cutting red tape, Brexit, levelling up – and still failed to increase growth pe...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "How will the US midterms affect Australian markets?",
         "url": "https://www.theguardian.com/australia-news/2026/oct/31/how-will-the-us-midterms-affect-australian-markets",
@@ -40,23 +47,16 @@
         "category": "economy"
       },
       {
-        "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
-        "description": "This live blog is now closed.How big a deal is the $6.3bn Binance crypto heist, who did it, and are investments safe?Tell us: have you been affected by the Binance hack?Full story: North Korean gro...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "How do we make new economic ideas a reality? – Aditya Chakrabortty answered your questions",
-        "url": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
-        "description": "Guardian columnist, senior economics commentator and host of the new Radical Thinking podcast Aditya Chakrabortty answered your questions on the big ideas around economics, society and democracy, a...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
         "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
         "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "source": "BBC News",
+        "category": "economy"
+      },
+      {
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
+        "url": "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets",
+        "description": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progressCalls are growing for major reforms to UN biodiver...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Public sector an ‘afterthought’ to North Sea oil jobs, says Unison leader",
         "url": "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
         "description": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’The leader of the UK’s biggest trade union has called for the same political...",
@@ -126,13 +133,6 @@
         "title": "Record-breaking high tides spark chaos – and kayak commutes – across California",
         "url": "https://www.theguardian.com/us-news/2026/oct/28/california-extreme-weather-high-tides",
         "description": "Seawater surges into low-lying communities from San Diego to San Francisco Bay Area, submerging streets, homes and businessesHistoric high tides have caused chaos up and down the California coast t...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Trump says government to ‘terminate’ Biden-era methane emissions rules",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/trump-biden-era-methane-emissions-rules-oil-gas",
-        "description": "Critics warn of climate danger as president in Texas claims change will save companies and consumers billionsDonald Trump said his administration was “terminating” Biden-era regulations holding oil...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Eight in 10 homes in London’s poshest postcodes now sell below asking price, Coutts finds",
+        "url": "https://www.theguardian.com/money/2026/oct/31/homes-london-poshest-neighbourhoods-sell-below-asking-price-coutts",
+        "description": "Sellers in areas such as Belgravia and Mayfair face hundreds of thousands of pounds in losses as property prices fallEight out of 10 properties in London’s most exclusive neighbourhoods – such as M...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "This budget fails to live up to Andy Burnham’s grand rhetoric | Letters",
         "url": "https://www.theguardian.com/uk-news/2026/oct/30/this-budget-fails-to-live-up-to-andy-burnhams-grand-rhetoric",
         "description": "Caitlin Boswell of Tax Justice UK and others on what Aditya Chakrabortty described as a ‘Martin Lewis budget’Aditya Chakrabortty was spot-on in his analysis of John Healey’s budget (Burnham promise...",
@@ -181,27 +188,20 @@
         "description": "After Guardian investigation, both Republican and Democratic state lawmakers are considering legislation to address ‘flagrantly unethical’ court systemA bipartisan group of senior Louisiana lawmake...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Budget 2026: £100 energy payment for millions and rise in bank tax as watchdog warns on stalling living standards – as it happened",
-        "url": "https://www.theguardian.com/uk-news/live/2026/oct/28/budget-2026-latest-updates-john-healey-andy-burnham-labour-uk-politics",
-        "description": "OBR says that living standards are forecast to rise by just 1% over the whole post-Covid decadeBudget 2026: key points at a glanceMartin Lewis said that, when he met John Healey this morning, the c...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "US approves sale of 500 Patriot missiles to Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-        "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+        "title": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+        "description": "Residents were taken out from the devastated city on Friday during a local ceasefire.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
