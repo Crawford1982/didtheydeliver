@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-10-31T11:42:41.794785+00:00",
+  "fetched_at": "2026-10-31T16:50:36.410801+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Starmer says UK must get closer to Europe as US relationship changes",
+        "url": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
+        "description": "Shift in dealings with Washington not likely to reset once Trump leaves Oval Office, former PM saysThe UK and other European nations must draw closer together as the US becomes a less-reliable part...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Healey to veto new offshore wind projects if they will not lower bills",
+        "url": "https://www.theguardian.com/environment/2026/oct/31/john-healey-chancellor-offshore-wind-projects-veto",
+        "description": "UK chancellor’s plans add to concerns government is moving away from pro-renewables agendaJohn Healey has said he will veto new offshore wind projects if they will not lower bills, adding to concer...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Streeting says he began stockpiling food weeks ago amid rising threat to UK",
         "url": "https://www.theguardian.com/politics/2026/oct/31/streeting-stockpiling-food-water-weeks-ago-amid-rising-threat-to-uk",
         "description": "Defence secretary says value for money and modernisation key for spending to ‘fight the wars ahead’The defence secretary, Wes Streeting, says he started stockpiling food and water weeks ago in case...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
-        "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty",
-        "description": "What if someone told you the truth about the economy? For years, governments have tried spending more, spending less, cutting red tape, Brexit, levelling up – and still failed to increase growth pe...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Is time up for backyard fireworks? UK ministers weigh partial ban over noise concerns",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/fireworks-uk-consultation-campaigners-noise-animal-welfare",
-        "description": "Consultation follows growing calls from campaigners, vets and National Farmers’ Union for tighter regulationAs the nights draw in, the season of sparklers begins, with Diwali, Bonfire Night and New...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,16 +33,16 @@
     ],
     "economy": [
       {
-        "title": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
-        "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty",
-        "description": "What if someone told you the truth about the economy? For years, governments have tried spending more, spending less, cutting red tape, Brexit, levelling up – and still failed to increase growth pe...",
+        "title": "Britain’s housing crisis won’t be fixed without a new tax landscape",
+        "url": "https://www.theguardian.com/business/2026/oct/31/housing-crisis-fix-britain-tax-landscape",
+        "description": "We need policies that stop treating property as a store of wealth and that allow people to move home cheaplyJohn Healey’s critics on the right and left accused him of dodging the big questions in h...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "How will the US midterms affect Australian markets?",
-        "url": "https://www.theguardian.com/australia-news/2026/oct/31/how-will-the-us-midterms-affect-australian-markets",
-        "description": "Polling suggests Republicans’ chances of retaining both houses have waned. Here’s how the vote could steer demand for renewables, deflate AI stocks and spark volatilityGet our breaking news email, ...",
+        "title": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
+        "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty",
+        "description": "What if someone told you the truth about the economy? For years, governments have tried spending more, spending less, cutting red tape, Brexit, levelling up – and still failed to increase growth pe...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "‘Was I not enough?’: care worker barred from meeting home secretary",
+        "url": "https://www.theguardian.com/uk-news/2026/oct/31/care-worker-barred-meeting-home-secretary",
+        "description": "Nigerian care worker Kolade says he was left in tears after being excluded from talks with Shabana Mahmood over proposed changes to immigration systemKolade had carefully prepared what he would tel...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Mahmood infuriates fellow ministers by failing to reveal impact of UK migration shake-up",
         "url": "https://www.theguardian.com/uk-news/2026/oct/30/shabana-mahmood-infuriates-ministers-migration-shake-up",
         "description": "Home secretary’s colleagues fear homelessness will rise as a result of changes to the asylum systemShabana Mahmood has infuriated ministerial colleagues by failing to share what they see as crucial...",
@@ -103,13 +110,6 @@
         "title": "Climate academic Andreas Malm barred from entering UK",
         "url": "https://www.theguardian.com/uk-news/2026/oct/30/climate-academic-andreas-malm-barred-from-entering-uk",
         "description": "Swedish author was due to speak alongside Palestine Action co-founder at event discussing ban on the groupAndreas Malm, the climate academic and author of How to Blow Up a Pipeline, has been blocke...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Sara won a prized place to study medicine in Glasgow. Why is the Home Office blocking her?",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/29/sara-won-a-prized-place-to-study-medicine-in-glasgow-why-is-the-home-office-blocking-her",
-        "description": "She fought every obstacle in Afghanistan to pursue her dream of becoming a doctor – fleeing her abusive father and the Taliban. But this talented, tenacious student has now been denied a visa, for ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Global nature talks reach deal but money remains an issue",
-        "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
-        "description": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+        "title": "Bute House protested by environmental campaigners",
+        "url": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
+        "description": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Evacuated Ukrainians from Russian-occupied Oleshky arrive in Belarus",
+        "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
         "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-        "description": "Residents were taken out from the devastated city on Friday during a local ceasefire.",
+        "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US approves sale of 500 Patriot missiles to Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-        "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+        "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+        "description": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
-        "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-        "description": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+        "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+        "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+        "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
