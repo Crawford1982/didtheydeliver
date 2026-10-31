@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-10-30T21:56:30.891389+00:00",
+  "fetched_at": "2026-10-31T04:09:38.857813+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Andy Burnham open to calls for formal apology for Britain’s role in slave trade",
+        "url": "https://www.theguardian.com/world/2026/oct/30/andy-burnham-call-formal-apology-britains-role-in-slave-trade",
+        "description": "Exclusive: UK PM to launch drive to restructure debt of poorest Commonwealth countries but rejects demands for reparations• British people can’t be made to pay for the wrongs of slavery – but we mu...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Local devolution decisions rest solely with Scotland and Wales, first ministers tell Burnham",
         "url": "https://www.theguardian.com/politics/2026/oct/30/local-devolution-decisions-scotland-wales-first-ministers-tell-burnham",
@@ -17,21 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Andreas Malm condemns UK travel ban as ‘drift into authoritarianism’",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/30/andreas-malm-uk-travel-ban-drift-authoritarianism",
-        "description": "Swedish climate academic says he has been ‘kept in the dark’ over Home Office decision to revoke his travel authorisationThe Swedish climate academic Andreas Malm has condemned a travel ban imposed...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "'No nation left behind' says Burnham after meeting first ministers in Glasgow",
-        "url": "https://www.bbc.co.uk/news/articles/cqr7yp8dngn8o?at_medium=RSS&at_campaign=rss",
-        "description": "The meeting involved representatives from the UK's four nations to discuss devolving more powers to regions and cities.",
+        "title": "Burnham 'open' to calls for slavery apology but not reparations",
+        "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\".",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "How will the US midterms affect Australian markets?",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/31/how-will-the-us-midterms-affect-australian-markets",
+        "description": "Polling suggests Republicans’ chances of retaining both houses have waned. Here’s how the vote could steer demand for renewables, deflate AI stocks and spark volatilityGet our breaking news email, ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/oct/30/uk-house-price-growth-crypto-industry-6bn-binance-hack-eurozone-france-gdp-latest-news-updates",
@@ -43,13 +50,6 @@
         "title": "How do we make new economic ideas a reality? – Aditya Chakrabortty answered your questions",
         "url": "https://www.theguardian.com/community/live/2026/oct/29/reader-qa-aditya-chakrabortty-answers-your-questions",
         "description": "Guardian columnist, senior economics commentator and host of the new Radical Thinking podcast Aditya Chakrabortty answered your questions on the big ideas around economics, society and democracy, a...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Trump vowed to reduce prices, but his policies have fueled US inflation  | Steven Greenhouse",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/30/trump-tariffs-inflation-election-promise",
-        "description": "‘Even though economists warned that tariffs would be inflationary, Trump has enthusiastically embraced them’Donald Trump successfully campaigned for his second term two years ago promising to reduc...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Six dead after helicopter crashes in northern Indian state",
-        "url": "https://www.bbc.co.uk/news/articles/cr93zxyn9eqeo?at_medium=RSS&at_campaign=rss",
-        "description": "The aircraft reportedly took off from the Hindu pilgrimage site of Badrinath on Friday afternoon before losing contact.",
+        "title": "Global nature talks reach deal but money remains an issue",
+        "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss",
+        "description": "Countries have been trying to get a global agreement to halt nature decline back on track.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
         "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
         "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
-        "url": "https://www.bbc.co.uk/news/articles/ck62ydn7dj9eo?at_medium=RSS&at_campaign=rss",
-        "description": "It is Pike's first public statement since she survived an execution attempt by lethal injection in September.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-        "url": "https://www.bbc.co.uk/news/articles/c60me298k1yeo?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds of people are also understood to have stayed in the front-line town, despite the dangers.",
+        "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+        "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+        "description": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
