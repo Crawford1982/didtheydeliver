@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T16:50:36.410801+00:00",
+  "fetched_at": "2026-10-31T20:59:32.959695+00:00",
   "headlines": {
     "government": [
       {
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+        "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+        "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
         "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
         "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-        "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-        "description": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
-        "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
-        "description": "Government data shows that more than 10,000 people have contracted the rare virus.",
+        "title": "Clashes erupt between police and protesters in Paris",
+        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+        "description": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
