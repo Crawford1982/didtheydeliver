@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-11-01T04:30:14.481947+00:00",
+  "fetched_at": "2026-11-01T12:41:53.788745+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Starmer says UK must get closer to Europe as US relationship changes",
-        "url": "https://www.theguardian.com/politics/2026/oct/31/keir-starmer-uk-europe-us-relationship-trump",
-        "description": "Shift in dealings with Washington not likely to reset once Trump leaves Oval Office, former PM saysThe UK and other European nations must draw closer together as the US becomes a less-reliable part...",
+        "title": "John Healey says UK apology over historic role in slave trade won’t lead to financial reparations – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates",
+        "description": "Ahead of a meeting with Commonwealth leaders, Andy Burnham wrote that Britain needed to ‘acknowledge its complicated history’At the end of his interview with Kuennsberg, Healey was also asked to co...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Healey to veto new offshore wind projects if they will not lower bills",
-        "url": "https://www.theguardian.com/environment/2026/oct/31/john-healey-chancellor-offshore-wind-projects-veto",
-        "description": "UK chancellor’s plans add to concerns government is moving away from pro-renewables agendaJohn Healey has said he will veto new offshore wind projects if they will not lower bills, adding to concer...",
+        "title": "Labour’s pledge to level-up minimum wage for under-20s before next election in doubt",
+        "url": "https://www.theguardian.com/society/2026/nov/01/chancellor-fails-to-guarantee-minimum-wage-pledge-younger-workers-kuenssberg",
+        "description": "Chancellor John Healey fails to guarantee equalisation with adult wage will happen in timeframe set out in manifestoLabour looks less likely to meet its manifesto pledge to equalise the minimum wag...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Streeting says he began stockpiling food weeks ago amid rising threat to UK",
-        "url": "https://www.theguardian.com/politics/2026/oct/31/streeting-stockpiling-food-water-weeks-ago-amid-rising-threat-to-uk",
-        "description": "Defence secretary says value for money and modernisation key for spending to ‘fight the wars ahead’The defence secretary, Wes Streeting, says he started stockpiling food and water weeks ago in case...",
+        "title": "Britain should not issue apology over slave trade, says Kemi Badenoch",
+        "url": "https://www.theguardian.com/world/2026/nov/01/britain-should-not-apologise-slave-trade-kemi-badenoch",
+        "description": "Tory leader says apology would be ‘navel-gazing distraction’ and would be used as lever for financial compensationKemi Badenoch has said an apology for Britain’s role in the transatlantic slave tra...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,30 +33,30 @@
     ],
     "economy": [
       {
-        "title": "Is the government really on an ‘out-of-control’ spending splurge? It’s complicated",
-        "url": "https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated",
-        "description": "Defence, the NDIS and health responsible for much of increased government outlays and treasurer Jim Chalmers has few levers to pullGet our daily political email, free app or daily news podcast“Will...",
+        "title": "The measure slipped into UK budget that could protect spending on children, youth and rough sleeping | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-",
+        "description": "PDEL, which will ringfence money for preventive policies, marks a welcome and potentially consequential additionJohn Healey’s debut budget was far from a blockbuster, but it may come to be remember...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Britain’s housing crisis won’t be fixed without a new tax landscape",
-        "url": "https://www.theguardian.com/business/2026/oct/31/housing-crisis-fix-britain-tax-landscape",
-        "description": "We need policies that stop treating property as a store of wealth and that allow people to move home cheaplyJohn Healey’s critics on the right and left accused him of dodging the big questions in h...",
+        "title": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+        "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi",
+        "description": "A truce has cooled the trade conflict, but neither country has done anything to limit the outbreak of new hostilitiesDonald Trump’s trade wars have largely fallen off the headlines. Fears of new ta...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Why politicians chasing economic growth is a lie | Radical Thinking with Aditya Chakrabortty",
-        "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/31/why-politicians-chasing-economic-growth-is-a-lie-radical-thinking-with-aditya-chakrabortty",
-        "description": "What if someone told you the truth about the economy? For years, governments have tried spending more, spending less, cutting red tape, Brexit, levelling up – and still failed to increase growth pe...",
+        "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
+        "description": "Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising pricesFor millions of Americans heading to the polls on Tu...",
         "source": "The Guardian",
         "category": "economy"
       },
       {
-        "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
-        "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+        "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+        "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
+        "description": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Asylum seekers still being sent to France under ‘one in one out’ weeks after scheme ended",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/01/asylum-seekers-still-being-sent-to-france-under-one-in-one-out-weeks-after-scheme-ended",
+        "description": "Guardian understands Home Office continues to detain dozens of people, with one group forcibly removed this weekThe Home Office is still putting asylum seekers on to planes to France weeks after th...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "‘Was I not enough?’: care worker barred from meeting home secretary",
         "url": "https://www.theguardian.com/uk-news/2026/oct/31/care-worker-barred-meeting-home-secretary",
         "description": "Nigerian care worker Kolade says he was left in tears after being excluded from talks with Shabana Mahmood over proposed changes to immigration systemKolade had carefully prepared what he would tel...",
@@ -103,13 +110,6 @@
         "title": "Mahmood infuriates fellow ministers by failing to reveal impact of UK migration shake-up",
         "url": "https://www.theguardian.com/uk-news/2026/oct/30/shabana-mahmood-infuriates-ministers-migration-shake-up",
         "description": "Home secretary’s colleagues fear homelessness will rise as a result of changes to the asylum systemShabana Mahmood has infuriated ministerial colleagues by failing to share what they see as crucial...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Climate academic Andreas Malm barred from entering UK",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/30/climate-academic-andreas-malm-barred-from-entering-uk",
-        "description": "Swedish author was due to speak alongside Palestine Action co-founder at event discussing ban on the groupAndreas Malm, the climate academic and author of How to Blow Up a Pipeline, has been blocke...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "'Fascinating' rare beetle found in Wales again after 60 years",
-        "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-        "description": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+        "title": "Spill from vandalised home oil tank kills 13 birds",
+        "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
+        "description": "A number of birds are also injured after the spill from the oil tank earlier this week.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "An embattled Karen Bass is fighting tooth and nail to keep her mayorship in LA. It might be too late",
+        "url": "https://www.theguardian.com/us-news/2026/nov/01/karen-bass-los-angeles-mayoral-race",
+        "description": "With affordability a major election issue, the incumbent is trying to ward off her democratic socialist challengerAt the end of 2022, the four largest US cities – New York, Los Angeles, Chicago and...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Eight in 10 homes in London’s poshest postcodes now sell below asking price, Coutts finds",
         "url": "https://www.theguardian.com/money/2026/oct/31/homes-london-poshest-neighbourhoods-sell-below-asking-price-coutts",
         "description": "Sellers in areas such as Belgravia and Mayfair face hundreds of thousands of pounds in losses as property prices fallEight out of 10 properties in London’s most exclusive neighbourhoods – such as M...",
@@ -181,20 +188,13 @@
         "description": "Caitlin Boswell of Tax Justice UK and others on what Aditya Chakrabortty described as a ‘Martin Lewis budget’Aditya Chakrabortty was spot-on in his analysis of John Healey’s budget (Burnham promise...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Lawmakers call to reform Louisiana’s ‘blatantly unconstitutional’ justice of the peace system",
-        "url": "https://www.theguardian.com/us-news/2026/oct/30/louisiana-justice-of-the-peace-courts-lawmaker-reaction",
-        "description": "After Guardian investigation, both Republican and Democratic state lawmakers are considering legislation to address ‘flagrantly unethical’ court systemA bipartisan group of senior Louisiana lawmake...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
         "title": "Shops looted as German cost of living protests turn violent",
         "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-        "description": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+        "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
