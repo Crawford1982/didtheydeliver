@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T20:59:32.959695+00:00",
+  "fetched_at": "2026-11-01T04:30:14.481947+00:00",
   "headlines": {
     "government": [
       {
@@ -24,14 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Burnham 'open' to calls for slavery apology but not reparations",
-        "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
-        "description": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
+        "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+        "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+        "description": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Is the government really on an ‘out-of-control’ spending splurge? It’s complicated",
+        "url": "https://www.theguardian.com/business/2026/nov/01/is-the-government-really-on-an-out-of-control-spending-splurge-its-complicated",
+        "description": "Defence, the NDIS and health responsible for much of increased government outlays and treasurer Jim Chalmers has few levers to pullGet our daily political email, free app or daily news podcast“Will...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Britain’s housing crisis won’t be fixed without a new tax landscape",
         "url": "https://www.theguardian.com/business/2026/oct/31/housing-crisis-fix-britain-tax-landscape",
@@ -50,13 +57,6 @@
         "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
         "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
         "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
-        "source": "BBC News",
-        "category": "economy"
-      },
-      {
-        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-        "description": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Bute House protested by environmental campaigners",
-        "url": "https://www.bbc.co.uk/news/articles/c9rkypk1g7k0o?at_medium=RSS&at_campaign=rss",
-        "description": "A Halloween-themed protest against fossil fuels has targeted the first minister's residence in Edinburgh.",
+        "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+        "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+        "description": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Shops looted as German cost of living protests turn violent",
+        "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+        "description": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
         "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
         "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
@@ -202,13 +209,6 @@
         "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
         "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
         "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Clashes erupt between police and protesters in Paris",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-        "description": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
