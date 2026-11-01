@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-11-01T12:41:53.788745+00:00",
+  "fetched_at": "2026-11-01T21:42:34.971451+00:00",
   "headlines": {
     "government": [
       {
-        "title": "John Healey says UK apology over historic role in slave trade won’t lead to financial reparations – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/01/andy-burnham-uk-historic-slave-trade-financial-reparations-badenoch-budget-defence-latest-politics-news-updates",
-        "description": "Ahead of a meeting with Commonwealth leaders, Andy Burnham wrote that Britain needed to ‘acknowledge its complicated history’At the end of his interview with Kuennsberg, Healey was also asked to co...",
+        "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+        "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
+        "description": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agendaBritish officials initially insisted that discussions of reparations for ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour’s pledge to level-up minimum wage for under-20s before next election in doubt",
-        "url": "https://www.theguardian.com/society/2026/nov/01/chancellor-fails-to-guarantee-minimum-wage-pledge-younger-workers-kuenssberg",
-        "description": "Chancellor John Healey fails to guarantee equalisation with adult wage will happen in timeframe set out in manifestoLabour looks less likely to meet its manifesto pledge to equalise the minimum wag...",
+        "title": "Home secretary to make some migrants wait 10 years or more for right to settle in UK",
+        "url": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
+        "description": "MPs say Shabana Mahmood’s new rules risk staff shortages in health and social care and second Windrush scandalShabana Mahmood will announce sweeping new rules on Monday on how long legal migrants m...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Britain should not issue apology over slave trade, says Kemi Badenoch",
-        "url": "https://www.theguardian.com/world/2026/nov/01/britain-should-not-apologise-slave-trade-kemi-badenoch",
-        "description": "Tory leader says apology would be ‘navel-gazing distraction’ and would be used as lever for financial compensationKemi Badenoch has said an apology for Britain’s role in the transatlantic slave tra...",
+        "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
+        "url": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
+        "description": "Exclusive: Plan to allow students from bloc pay same fees as Britons contingent on entry to industrial programme, officials sayMinisters are prepared to spend as much as £450m a year to give studen...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
+        "url": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
+        "description": "On Brexit, devolution and investment, the former chancellor is eerily in tune with the man who sacked herReeves says UK’s future is in the EUWhich senior politician has argued that “Brexit did deep...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "The measure slipped into UK budget that could protect spending on children, youth and rough sleeping | Heather Stewart",
         "url": "https://www.theguardian.com/business/2026/nov/01/pdel-preventative-departmental-expenditure-limit-",
@@ -47,39 +54,32 @@
         "category": "economy"
       },
       {
-        "title": "Affordability top of mind for voters in final sprint to midterms: ‘I have to pick between medicine or groceries’",
-        "url": "https://www.theguardian.com/us-news/2026/nov/01/affordability-voters-final-sprint-midterms",
-        "description": "Cost of living has loomed over this election cycle as workers and unions champion candidates fighting for higher wages and tackling rising pricesFor millions of Americans heading to the polls on Tu...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
-        "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-        "description": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+        "title": "Thousands of jobs at Virgin Media O2 to be cut",
+        "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+        "description": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
+        "title": "The Guardian view on listening to people with learning disabilities: a matter of life and death | Editorial",
+        "url": "https://www.theguardian.com/world/commentisfree/2026/nov/01/the-guardian-view-on-listening-to-people-with-learning-disabilities-a-matter-of-life-and-death",
+        "description": "The Covid pandemic shed an unforgiving light on health and social care inequalities. The lessons have yet to be absorbedThe fear that so many felt as the death toll rose during the Covid pandemic w...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Welsh health board considers closing urgent primary care centres at three hospitals",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/01/welsh-health-board-urgent-primary-care-centres-upcc-holyhead-tremadog-bangor-betsi-cadwaladr",
+        "description": "Holyhead, Tremadog and Bangor UPCCs may shut as Betsi Cadwaladr University health board struggles with fundingA struggling Welsh health board could close urgent primary care centres at three hospit...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "How do you bounce back from Liz Truss-level public failure? Don’t be shameless; do show remorse | Gaby Hinsliff",
         "url": "https://www.theguardian.com/commentisfree/2026/oct/30/liz-truss-public-failure-bounce-back-remorse-honesty",
         "description": "From surgeons to senior civil servants, even the most decent people can make disastrous mistakes. But these gaffes require honestyGabriel Weston made a mistake at work this summer. It doesn’t defin...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "UK government’s obesity plan ‘doomed to fail’, MPs warn",
-        "url": "https://www.theguardian.com/society/2026/oct/30/uk-government-obesity-plan-doomed-mps-warn",
-        "description": "Cross-party committee says ‘moonshot’ vow to end obesity epidemic in a decade will fail without personal leadership from PMThe UK government’s promise to reverse rising obesity rates in the next de...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "The Guardian view on Labour’s budget: bold ambitions and welcome first steps | Editorial",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/28/the-guardian-view-on-labours-budget-bold-ambitions-and-welcome-first-steps",
-        "description": "Banks, landlords and gambling firms will pay more as the chancellor begins building a fairer economy and a more active state in a cost of living crisisJohn Healey’s first budget was a Rorschach tes...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
+        "title": "Home secretary to make some migrants wait 10 years or more for right to settle in UK",
+        "url": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
+        "description": "MPs say Shabana Mahmood’s new rules risk staff shortages in health and social care and second Windrush scandalShabana Mahmood will announce sweeping new rules on Monday on how long legal migrants m...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "The decision to bar Andreas Malm from entering the UK is farcical and chilling | Letters",
+        "url": "https://www.theguardian.com/education/2026/nov/01/the-decision-to-bar-andreas-malm-from-entering-the-uk-is-farcical-and-chilling",
+        "description": "Dr Ahmad Elabbar reflects on what such a decision means for academics who are working on today’s most difficult and urgent topicsUK higher education is in a confusing and fraught enough state witho...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Asylum seekers still being sent to France under ‘one in one out’ weeks after scheme ended",
         "url": "https://www.theguardian.com/uk-news/2026/nov/01/asylum-seekers-still-being-sent-to-france-under-one-in-one-out-weeks-after-scheme-ended",
         "description": "Guardian understands Home Office continues to detain dozens of people, with one group forcibly removed this weekThe Home Office is still putting asylum seekers on to planes to France weeks after th...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "‘Was I not enough?’: care worker barred from meeting home secretary",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/31/care-worker-barred-meeting-home-secretary",
-        "description": "Nigerian care worker Kolade says he was left in tears after being excluded from talks with Shabana Mahmood over proposed changes to immigration systemKolade had carefully prepared what he would tel...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Mahmood infuriates fellow ministers by failing to reveal impact of UK migration shake-up",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/30/shabana-mahmood-infuriates-ministers-migration-shake-up",
-        "description": "Home secretary’s colleagues fear homelessness will rise as a result of changes to the asylum systemShabana Mahmood has infuriated ministerial colleagues by failing to share what they see as crucial...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Spill from vandalised home oil tank kills 13 birds",
-        "url": "https://www.bbc.co.uk/news/videos/crwyd2lyj15go?at_medium=RSS&at_campaign=rss",
-        "description": "A number of birds are also injured after the spill from the oil tank earlier this week.",
+        "title": "'Fascinating' rare beetle found in Wales again after 60 years",
+        "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
+        "description": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
+        "url": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
+        "description": "Exclusive: Plan to allow students from bloc pay same fees as Britons contingent on entry to industrial programme, officials sayMinisters are prepared to spend as much as £450m a year to give studen...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Sara won a prized place to study medicine in Glasgow. Why is the Home Office blocking her?",
         "url": "https://www.theguardian.com/uk-news/2026/oct/29/sara-won-a-prized-place-to-study-medicine-in-glasgow-why-is-the-home-office-blocking-her",
@@ -156,13 +163,6 @@
         "title": "Oriel College urged to cancel student group’s event with Jason Arday accuser",
         "url": "https://www.theguardian.com/education/2026/oct/27/oriel-college-jason-arday-accuser-nathan-cofnas-reform-students-event",
         "description": "Student supporters of Reform UK at Oxford college have organised evening with Nathan Cofnas discussing DEIThe University of Oxford’s Oriel College has been urged to cancel an event featuring Jason ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Silicon Valley parents want the tech they help build out of their children’s schools",
-        "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/27/silicon-valley-schools-education-tech",
-        "description": "Both private and public schools in tech regions are limiting the use of tech in classrooms. But will low-income districts be able to follow suit?German Gil spends most of his waking hours looking a...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Shops looted as German cost of living protests turn violent",
-        "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-        "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+        "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+        "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+        "description": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
-        "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
-        "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+        "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+        "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+        "description": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
-        "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+        "title": "University of Cambridge scientist among those who died in Spanish train crash",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
+        "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
