@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-11-02T04:32:28.516836+00:00",
+  "fetched_at": "2026-11-02T14:48:25.204786+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
-        "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda",
-        "description": "British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda British officials reportedly insisted that discussions of reparations fo...",
+        "title": "No 10 defends flight to Caribbean going via Manchester to pick up Burnham",
+        "url": "https://www.theguardian.com/politics/2026/nov/02/andy-burnham-flight-caribbean-commonwealth-manchester",
+        "description": "Critics decry ‘Air Miles Andy’ after plane that took off from Stansted diverted to collect prime minister and wifeA government-chartered plane taking Andy Burnham to a Commonwealth summit in the Ca...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Home secretary to make some migrants wait 10 years or more for right to settle in UK",
-        "url": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
-        "description": "MPs say Shabana Mahmood’s new rules risk staff shortages in health and social care and second Windrush scandalShabana Mahmood will announce sweeping new rules on Monday on how long legal migrants m...",
+        "title": "Tories accuse Shabana Mahmood of ‘U-turn’ on indefinite leave to remain policy – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
+        "description": "Chris Philp says the home secretary is giving in to ‘open-borders Labour left’ ahead of an announcement this afternoonDowning Street has declined to say how much it cost for the plane carrying Andy...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
-        "url": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
-        "description": "Exclusive: Plan to allow students from bloc pay same fees as Britons contingent on entry to industrial programme, officials sayMinisters are prepared to spend as much as £450m a year to give studen...",
+        "title": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
+        "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
+        "description": "Prospect to hold workplace sessions and recruit members under agreement with tech companyTrade unions are expected to make further inroads into big tech companies in the UK after new rights for uni...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
-        "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
-        "description": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+        "title": "Labour ends power-sharing with Greens in 11 councils over Zionism row",
+        "url": "https://www.bbc.co.uk/news/articles/c63dj21yvjd3o?at_medium=RSS&at_campaign=rss",
+        "description": "Labour's ruling National Executive Committee sets out where it is cutting ties with the Greens.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "‘Sharper, longer slowdown’ predicted for Australian economy as fifth interest rate hike looms",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/02/australia-economy-fifth-interest-rate-hike-looms",
+        "description": "Australia’s central bank expected to hit mortgage holders again on Tuesday, as war in Middle East combines with collapsing house pricesGet our breaking news email, free app or daily news podcastAus...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "The RBA may be about to hike interest rates. Use our loan calculator to check how it may affect you",
         "url": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
@@ -47,21 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "How Rachel Reeves has mapped out the economic agenda for Andy Burnham’s government",
-        "url": "https://www.theguardian.com/politics/2026/nov/01/how-reeves-has-mapped-out-the-agenda-for-burnhams-government",
-        "description": "On Brexit, devolution and investment, the former chancellor is eerily in tune with the man who sacked herReeves says UK’s future is in the EUWhich senior politician has argued that “Brexit did deep...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Binance users withdraw $3.6bn after record crypto hack",
-        "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-        "description": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+        "title": "Ryanair says it may freeze workers' pay and raise airfares",
+        "url": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+        "description": "The airline says fuel prices may rise by €2bn in 2028 unless there is an end to the US-Israel war with Iran.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Palantir AI tech unused or little used by 29 NHS trusts said to be benefiting from it",
+        "url": "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts",
+        "description": "Exclusive: Gap between NHS claim and trusts’ comments described as ‘very misleading’ by senior health officialMore than two dozen hospital trusts the NHS claims have benefited from Palantir’s medic...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "World’s largest early warning system for severe child illness to launch in NHS A&Es across England",
+        "url": "https://www.theguardian.com/society/2026/nov/02/nhs-early-warning-system-child-illness-england",
+        "description": "Paediatric early warning system (Pews) uses a vital signs scoring system to assess whether a child is deterioratingThe world’s largest “early warning system” to spot when sick children are dangerou...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "The Guardian view on listening to people with learning disabilities: a matter of life and death | Editorial",
         "url": "https://www.theguardian.com/world/commentisfree/2026/nov/01/the-guardian-view-on-listening-to-people-with-learning-disabilities-a-matter-of-life-and-death",
@@ -70,23 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Welsh health board considers closing urgent primary care centres at three hospitals",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/01/welsh-health-board-urgent-primary-care-centres-upcc-holyhead-tremadog-bangor-betsi-cadwaladr",
-        "description": "Holyhead, Tremadog and Bangor UPCCs may shut as Betsi Cadwaladr University health board struggles with fundingA struggling Welsh health board could close urgent primary care centres at three hospit...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "How do you bounce back from Liz Truss-level public failure? Don’t be shameless; do show remorse | Gaby Hinsliff",
-        "url": "https://www.theguardian.com/commentisfree/2026/oct/30/liz-truss-public-failure-bounce-back-remorse-honesty",
-        "description": "From surgeons to senior civil servants, even the most decent people can make disastrous mistakes. But these gaffes require honestyGabriel Weston made a mistake at work this summer. It doesn’t defin...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "A&E warning system to flag sick children deteriorating quickly",
+        "title": "Parents' concerns to trigger urgent checks in A&E",
         "url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
-        "description": "The initiative, in England, will help busy staff identify children who are deteriorating quickly as they wait for emergency care.",
+        "description": "Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -100,16 +100,16 @@
         "category": "immigration"
       },
       {
-        "title": "The decision to bar Andreas Malm from entering the UK is farcical and chilling | Letters",
-        "url": "https://www.theguardian.com/education/2026/nov/01/the-decision-to-bar-andreas-malm-from-entering-the-uk-is-farcical-and-chilling",
-        "description": "Dr Ahmad Elabbar reflects on what such a decision means for academics who are working on today’s most difficult and urgent topicsUK higher education is in a confusing and fraught enough state witho...",
+        "title": "Tories accuse Shabana Mahmood of ‘U-turn’ on indefinite leave to remain policy – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
+        "description": "Chris Philp says the home secretary is giving in to ‘open-borders Labour left’ ahead of an announcement this afternoonDowning Street has declined to say how much it cost for the plane carrying Andy...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Asylum seekers still being sent to France under ‘one in one out’ weeks after scheme ended",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/01/asylum-seekers-still-being-sent-to-france-under-one-in-one-out-weeks-after-scheme-ended",
-        "description": "Guardian understands Home Office continues to detain dozens of people, with one group forcibly removed this weekThe Home Office is still putting asylum seekers on to planes to France weeks after th...",
+        "title": "The decision to bar Andreas Malm from entering the UK is farcical and chilling | Letters",
+        "url": "https://www.theguardian.com/education/2026/nov/01/the-decision-to-bar-andreas-malm-from-entering-the-uk-is-farcical-and-chilling",
+        "description": "Dr Ahmad Elabbar reflects on what such a decision means for academics who are working on today’s most difficult and urgent topicsUK higher education is in a confusing and fraught enough state witho...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -146,28 +146,35 @@
     ],
     "education": [
       {
+        "title": "A job that changed me: I ran observatory tours as a student. An eight-year-old’s question taught me two important lessons",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/nov/03/a-job-that-changed-me-astronomy-guide-black-holes",
+        "description": "I thought the explanation I’d given about black holes was family-friendly; but after what she had said, I had to rethink my examplesRead more in the a job that changed me seriesIn the first year of...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "‘They assume the man next to me is the owner’: four women doing business in Africa in their own way",
+        "url": "https://www.theguardian.com/global-development/2026/nov/02/they-assume-the-man-next-to-me-is-the-owner-four-women-doing-business-in-africa-in-their-own-way",
+        "description": "From feeding schoolchildren to recycling tyres, these entrepreneurs are challenging stereotypes while solving social and environmental problemsAfrica is thought to have a higher proportion of femal...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
         "url": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
-        "description": "Exclusive: Plan to allow students from bloc pay same fees as Britons contingent on entry to industrial programme, officials sayMinisters are prepared to spend as much as £450m a year to give studen...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Sara won a prized place to study medicine in Glasgow. Why is the Home Office blocking her?",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/29/sara-won-a-prized-place-to-study-medicine-in-glasgow-why-is-the-home-office-blocking-her",
-        "description": "She fought every obstacle in Afghanistan to pursue her dream of becoming a doctor – fleeing her abusive father and the Taliban. But this talented, tenacious student has now been denied a visa, for ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Oriel College urged to cancel student group’s event with Jason Arday accuser",
-        "url": "https://www.theguardian.com/education/2026/oct/27/oriel-college-jason-arday-accuser-nathan-cofnas-reform-students-event",
-        "description": "Student supporters of Reform UK at Oxford college have organised evening with Nathan Cofnas discussing DEIThe University of Oxford’s Oriel College has been urged to cancel an event featuring Jason ...",
+        "description": "Exclusive: Plan to allow students from bloc to pay same fees as Britons contingent on entry to industrial programme, officials sayMinisters are prepared to spend as much as £450m a year to give stu...",
         "source": "The Guardian",
         "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Sales slump at UK’s largest brickmaker as housebuilding downturn deepens",
+        "url": "https://www.theguardian.com/business/2026/nov/02/uk-largest-brickmaker-sales-slump-housebuilding-downturn-deepens-ibstock",
+        "description": "Ibstock, which has cut production by a fifth, criticises government for delay in help for housing sectorSales at the UK’s largest brickmaker plunged by more than a fifth over the summer, as it crit...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "An embattled Karen Bass is fighting tooth and nail to keep her mayorship in LA. It might be too late",
         "url": "https://www.theguardian.com/us-news/2026/nov/01/karen-bass-los-angeles-mayoral-race",
@@ -181,34 +188,27 @@
         "description": "Sellers in areas such as Belgravia and Mayfair face hundreds of thousands of pounds in losses as property prices fallEight out of 10 properties in London’s most exclusive neighbourhoods – such as M...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "This budget fails to live up to Andy Burnham’s grand rhetoric | Letters",
-        "url": "https://www.theguardian.com/uk-news/2026/oct/30/this-budget-fails-to-live-up-to-andy-burnhams-grand-rhetoric",
-        "description": "Caitlin Boswell of Tax Justice UK and others on what Aditya Chakrabortty described as a ‘Martin Lewis budget’Aditya Chakrabortty was spot-on in his analysis of John Healey’s budget (Burnham promise...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+        "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
+        "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+        "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
         "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-        "description": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+        "description": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
-        "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
-        "description": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-        "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-        "description": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+        "title": "Iran killed her teenage daughter - now she is facing up to the regime",
+        "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
+        "description": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
