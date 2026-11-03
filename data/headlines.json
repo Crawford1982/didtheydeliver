@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-11-02T14:48:25.204786+00:00",
+  "fetched_at": "2026-11-03T00:31:59.485755+00:00",
   "headlines": {
     "government": [
       {
-        "title": "No 10 defends flight to Caribbean going via Manchester to pick up Burnham",
-        "url": "https://www.theguardian.com/politics/2026/nov/02/andy-burnham-flight-caribbean-commonwealth-manchester",
-        "description": "Critics decry ‘Air Miles Andy’ after plane that took off from Stansted diverted to collect prime minister and wifeA government-chartered plane taking Andy Burnham to a Commonwealth summit in the Ca...",
+        "title": "How will UK immigration rules change under Shabana Mahmood’s latest plans?",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/02/uk-immigration-rules-shabana-mahmood-latest-plans",
+        "description": "Home secretary has softened on some proposals but is still hardening rules for those wishing to settle permanentlyShabana Mahmood has watered down some of last year’s immigration plans after a back...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Tories accuse Shabana Mahmood of ‘U-turn’ on indefinite leave to remain policy – UK politics live",
+        "title": "Shabana Mahmood softens immigration plans in face of cabinet backlash",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain",
+        "description": "Exception for care workers will allow an estimated 280,000 people and their dependants to apply for indefinite leave to remain after five yearsShabana Mahmood rowed back on her most hardline plans ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Charities condemn proposal to make some refugees wait up to 30 years for settlement – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
-        "description": "Chris Philp says the home secretary is giving in to ‘open-borders Labour left’ ahead of an announcement this afternoonDowning Street has declined to say how much it cost for the plane carrying Andy...",
+        "description": "Executive director of external affairs at the Refugee Council called the proposals ‘unfair and unworkable’ Downing Street has declined to say how much it cost for the plane carrying Andy Burnham an...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Unions gain access to thousands of Google workers after UK employment rights overhaul",
-        "url": "https://www.theguardian.com/politics/2026/nov/02/unions-google-workers-uk-employment-rights",
-        "description": "Prospect to hold workplace sessions and recruit members under agreement with tech companyTrade unions are expected to make further inroads into big tech companies in the UK after new rights for uni...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour ends power-sharing with Greens in 11 councils over Zionism row",
-        "url": "https://www.bbc.co.uk/news/articles/c63dj21yvjd3o?at_medium=RSS&at_campaign=rss",
-        "description": "Labour's ruling National Executive Committee sets out where it is cutting ties with the Greens.",
+        "title": "Labour MPs pull their punches on immigration changes",
+        "url": "https://www.bbc.co.uk/news/articles/ck0e0jpww9wro?at_medium=RSS&at_campaign=rss",
+        "description": "Angela Rayner previously said plans were \"un-British\" and ministers shouldn't shift \"the goalposts\".",
         "source": "BBC News",
         "category": "government"
       }
@@ -42,7 +42,7 @@
       {
         "title": "The RBA may be about to hike interest rates. Use our loan calculator to check how it may affect you",
         "url": "https://www.theguardian.com/australia-news/2026/may/04/interest-rates-rba-rate-hike-mortgage-calculator",
-        "description": "Reserve Bank of Australia expected to announce fifth hike this year, adding to the cost of monthly mortgage repaymentsFollow our Australia news live blog for latest updatesGet our breaking news ema...",
+        "description": "Reserve Bank of Australia expected to announce fifth hike this year, adding to the cost of monthly mortgage repaymentsGet our breaking news email, free app or daily news podcastThe Reserve Bank of ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Newcastle hospital told woman whose unborn baby had died to go home and ‘book a slot to give birth’",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/02/newcastle-hospital-rvi-woman-sent-home-unborn-baby-died",
+        "description": "Trust admits Danielle Brown’s baby would have survived had she not been sent home from RVI days earlierA woman whose unborn baby had died was sent home from hospital with a booklet for bereaved par...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Palantir AI tech unused or little used by 29 NHS trusts said to be benefiting from it",
         "url": "https://www.theguardian.com/technology/2026/nov/02/palantir-unused-nhs-hospital-trusts",
         "description": "Exclusive: Gap between NHS claim and trusts’ comments described as ‘very misleading’ by senior health officialMore than two dozen hospital trusts the NHS claims have benefited from Palantir’s medic...",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "The Guardian view on listening to people with learning disabilities: a matter of life and death | Editorial",
-        "url": "https://www.theguardian.com/world/commentisfree/2026/nov/01/the-guardian-view-on-listening-to-people-with-learning-disabilities-a-matter-of-life-and-death",
-        "description": "The Covid pandemic shed an unforgiving light on health and social care inequalities. The lessons have yet to be absorbedThe fear that so many felt as the death toll rose during the Covid pandemic w...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Parents' concerns to trigger urgent checks in A&E",
         "url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
         "description": "Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care.",
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
-        "title": "Home secretary to make some migrants wait 10 years or more for right to settle in UK",
-        "url": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
-        "description": "MPs say Shabana Mahmood’s new rules risk staff shortages in health and social care and second Windrush scandalShabana Mahmood will announce sweeping new rules on Monday on how long legal migrants m...",
+        "title": "Migration is a moral issue for Burnham – but is he trying to please everyone?",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/02/migration-andy-burnham-shabana-mahmood-labour-immigration",
+        "description": "PM wants to tie Shabana Mahmood’s hard line on borders to recognition of the value of migration, but he may need to shout his convictionHow will UK immigration rules change under Shabana Mahmood’s ...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Tories accuse Shabana Mahmood of ‘U-turn’ on indefinite leave to remain policy – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/02/andy-burnham-shabana-mahmood-migration-indefinite-leave-to-remain-care-workers-uk-politics-latest-news",
-        "description": "Chris Philp says the home secretary is giving in to ‘open-borders Labour left’ ahead of an announcement this afternoonDowning Street has declined to say how much it cost for the plane carrying Andy...",
+        "title": "How will UK immigration rules change under Shabana Mahmood’s latest plans?",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/02/uk-immigration-rules-shabana-mahmood-latest-plans",
+        "description": "Home secretary has softened on some proposals but is still hardening rules for those wishing to settle permanentlyShabana Mahmood has watered down some of last year’s immigration plans after a back...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "The decision to bar Andreas Malm from entering the UK is farcical and chilling | Letters",
-        "url": "https://www.theguardian.com/education/2026/nov/01/the-decision-to-bar-andreas-malm-from-entering-the-uk-is-farcical-and-chilling",
-        "description": "Dr Ahmad Elabbar reflects on what such a decision means for academics who are working on today’s most difficult and urgent topicsUK higher education is in a confusing and fraught enough state witho...",
+        "title": "Shabana Mahmood softens immigration plans in face of cabinet backlash",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/02/shabana-mahmood-softens-immigration-plans-cabinet-backlash-leave-to-remain",
+        "description": "Exception for care workers will allow an estimated 280,000 people and their dependants to apply for indefinite leave to remain after five yearsShabana Mahmood rowed back on her most hardline plans ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -123,6 +123,13 @@
         "category": "climate"
       },
       {
+        "title": "Trump boosted half of US coal plants with taxpayer dollars and ‘free passes to pollute’, report says",
+        "url": "https://www.theguardian.com/us-news/2026/oct/31/trump-coal-plants-taxpayer-dollars",
+        "description": "Environmental Defense Fund analysis shows administration handed out $950m and Clean Air Act exemptionsIt’s a good time to be a coal plant in the US. The Trump administration has given support to al...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "‘Bunch of baloney’: calls grow for Cop summit reforms as countries on track to fail nature targets",
         "url": "https://www.theguardian.com/environment/2026/oct/31/cop17-reforms-fails-to-deliver-targets",
         "description": "Cop17, focused on protecting nature and restoring ecosystems, concludes on Saturday with critics saying system allows ‘one idiot’ to stall progressCalls are growing for major reforms to UN biodiver...",
@@ -130,25 +137,25 @@
         "category": "climate"
       },
       {
-        "title": "Public sector an ‘afterthought’ to North Sea oil jobs, says Unison leader",
-        "url": "https://www.theguardian.com/politics/2026/oct/30/public-sector-afterthought-north-sea-oil-jobs-unison",
-        "description": "Andrea Egan calls for same political focus on teachers, care sector and NHS and says Jackdaw decision ‘a serious misstep’The leader of the UK’s biggest trade union has called for the same political...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
         "title": "'Fascinating' rare beetle found in Wales again after 60 years",
         "url": "https://www.bbc.co.uk/news/articles/cry8317pdp5yo?at_medium=RSS&at_campaign=rss",
-        "description": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys",
+        "description": "It was feared The Short-Necked Oil Beetle had become extinct in Wales after recent surveys.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "French pupils resume school blockades as country braces for more protests",
+        "url": "https://www.theguardian.com/education/2026/nov/02/franch-students-school-blockades-protests",
+        "description": "Minister warns weeks without lessons are putting exams at risk as unions plan nationwide strike on ThursdayDozens of high schools across France were blockaded again on Monday as the government brac...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "A job that changed me: I ran observatory tours as a student. An eight-year-old’s question taught me two important lessons",
         "url": "https://www.theguardian.com/lifeandstyle/2026/nov/03/a-job-that-changed-me-astronomy-guide-black-holes",
-        "description": "I thought the explanation I’d given about black holes was family-friendly; but after what she had said, I had to rethink my examplesRead more in the a job that changed me seriesIn the first year of...",
+        "description": "I thought the explanation I’d given about black holes was family-friendly. But, after what she had said, I had to rethink my examplesRead more in the a job that changed me seriesIn the first year o...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -158,16 +165,16 @@
         "description": "From feeding schoolchildren to recycling tyres, these entrepreneurs are challenging stereotypes while solving social and environmental problemsAfrica is thought to have a higher proportion of femal...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "UK willing to spend £450m a year on EU students if it can join Made in Europe scheme",
-        "url": "https://www.theguardian.com/politics/2026/nov/01/uk-willing-to-spend-450m-a-year-on-eu-students-if-it-can-join-made-in-europe-scheme",
-        "description": "Exclusive: Plan to allow students from bloc to pay same fees as Britons contingent on entry to industrial programme, officials sayMinisters are prepared to spend as much as £450m a year to give stu...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "A global youthquake is happening. Promises we made young people have been broken – and they know it | Gordon Brown",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/02/global-youthquake-young-people-anger-protest-liberal-democracy",
+        "description": "Anger and protest have put liberal democracy on trial. It’s vital to understand the rage that now unites a generationWe have not yet reached a 1968 moment, when students at the Sorbonne lit a fuse ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Sales slump at UK’s largest brickmaker as housebuilding downturn deepens",
         "url": "https://www.theguardian.com/business/2026/nov/02/uk-largest-brickmaker-sales-slump-housebuilding-downturn-deepens-ibstock",
@@ -181,34 +188,27 @@
         "description": "With affordability a major election issue, the incumbent is trying to ward off her democratic socialist challengerAt the end of 2022, the four largest US cities – New York, Los Angeles, Chicago and...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Eight in 10 homes in London’s poshest postcodes now sell below asking price, Coutts finds",
-        "url": "https://www.theguardian.com/money/2026/oct/31/homes-london-poshest-neighbourhoods-sell-below-asking-price-coutts",
-        "description": "Sellers in areas such as Belgravia and Mayfair face hundreds of thousands of pounds in losses as property prices fallEight out of 10 properties in London’s most exclusive neighbourhoods – such as M...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Shop freezers in seven European countries hit by suspected cyber-attack",
-        "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
-        "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+        "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Fake nuclear warnings issued after Ukrainian and Russian air alert apps hacked",
-        "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
-        "description": "Neither government has confirmed who was responsible for the cyberattacks on Sunday evening.",
+        "title": "Thousands of European troops to rehearse Ukraine deployment in event of peace",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss",
+        "description": "Western officials stress that any force sent to Ukraine would not take part in any offensive operations.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Iran killed her teenage daughter - now she is facing up to the regime",
-        "url": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
-        "description": "Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.",
+        "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+        "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+        "description": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
