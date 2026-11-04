@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-11-03T22:55:05.570654+00:00",
+  "fetched_at": "2026-11-04T04:54:51.889468+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Houses of Parliament at risk of ‘Notre Dame-style fire’ as renovation costs rise",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/04/parliament-notre-dame-style-fire-renovation-costs",
+        "description": "Report says cost of maintenance could soon reach £2m a week, including 24-hour patrols to avert fire riskThe Palace of Westminster will be at risk of a Notre Dame-style fire or a similar catastroph...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Andy Burnham to unveil EU trade deals worth billions of pounds",
         "url": "https://www.theguardian.com/politics/2026/nov/03/andy-burnham-to-unveil-eu-trade-deals-brexit",
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Panel rules out further inquiry into sexual harassment claims against Lib Dem peer Chris Rennard",
-        "url": "https://www.theguardian.com/politics/2026/nov/03/inquiry-sexual-harassment-claims-lib-dem-peer-chris-rennard",
-        "description": "Party leader Ed Davey ‘disappointed and upset’ at decision by independent panel after claims original investigation was flawedThe Liberal Democrat peer Chris Rennard has been told there will be no ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Mahmood refuses to put cost on care worker settlement climbdown",
-        "url": "https://www.bbc.co.uk/news/articles/cm75pgqdyzldo?at_medium=RSS&at_campaign=rss",
-        "description": "The home secretary says the full cost of dropping plans to extend the wait for settlement will be laid out in future.",
+        "title": "Miliband says slavery apology will not bring cost for UK taxpayers",
+        "url": "https://www.bbc.co.uk/news/articles/cm8ezneewr9lo?at_medium=RSS&at_campaign=rss",
+        "description": "Speaking to BBC's Newscast, the foreign secretary says Britain cannot sweep its past \"under the carpet\".",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-        "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+        "title": "Poundland supplier 'will lose millions' if retailer collapses",
+        "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
+        "description": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Parents' concerns to trigger urgent checks in A&E",
-        "url": "https://www.bbc.co.uk/news/articles/cw1m42zdnn3go?at_medium=RSS&at_campaign=rss",
-        "description": "Concerns from staff, parents, carers or the child themselves will trigger an immediate escalation of care.",
+        "title": "'Multi-cancer' blood tests coming to some GP surgeries soon",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qz93ew22no?at_medium=RSS&at_campaign=rss",
+        "description": "The aim is to detect hard-to-diagnose abdominal cancers, including liver, ovarian and pancreatic cancer, much sooner.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Welsh public sector unlikely to meet net zero plans by 2030, say auditors",
-        "url": "https://www.bbc.co.uk/news/articles/cm62y97z2n71o?at_medium=RSS&at_campaign=rss",
-        "description": "A watchdog has criticised the lack of progress made by organisations in tackling climate change.",
+        "title": "Prince William says UK faces terrifying risk of more wildfires due to climate change",
+        "url": "https://www.bbc.co.uk/news/articles/cr62yv02zwxwo?at_medium=RSS&at_campaign=rss",
+        "description": "The prince says 2026 was the first summer he felt \"worried about the scale of the wildfires\".",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "South Carolina elects Democratic senator for first time in almost three decades",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o?at_medium=RSS&at_campaign=rss",
+        "description": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+        "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo?at_medium=RSS&at_campaign=rss",
+        "description": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Spanish transport minister resigns days after deadly train crash",
         "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
         "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Seven flights across Europe targeted by suspected bomb threats",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
-        "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-        "description": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
