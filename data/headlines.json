@@ -1,11 +1,18 @@
 {
-  "fetched_at": "2026-11-04T23:13:26.443132+00:00",
+  "fetched_at": "2026-11-05T05:13:42.422620+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Debt relief and aid no replacement for slavery reparations, UK told",
+        "title": "Milburn review to call for jobs ’revolution’ for young people with disabilities",
+        "url": "https://www.theguardian.com/society/2026/nov/05/milburn-review-jobs-revolution-young-people-disabilities-neets",
+        "description": "Exclusive: Government should introduce ‘flexi-jobs’ alongside subsidies and skills support, former minister will sayThe British state should create and subsidise paid jobs for thousands of disabled...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK and Caribbean to begin ‘dialogue’ within next year after slavery reparations call",
         "url": "https://www.theguardian.com/world/2026/nov/04/debt-relief-aid-no-replacement-slavery-reparations-uk-told-caribbean",
-        "description": "Leading figures in Caribbean reparatory justice movement speak out after UK PM announced infrastructure packageOffers of debt relief and development assistance from the UK cannot be a replacement f...",
+        "description": "Antigua and Barbuda’s prime minister says there was a consensus at Commonwealth summit on way forwardThe UK has agreed to “structured dialogue” in the next year with Caribbean nations affected by t...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -17,16 +24,9 @@
         "category": "government"
       },
       {
-        "title": "UK politics: Burnham says US midterm results have created ‘opportunity’ for world to focus on cost of living and ending Iran war – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/04/ed-miliband-andy-burnham-king-charles-labour-louise-haigh-alex-burghart-pmqs-conservatives-uk-politics-latest-news",
-        "description": "‘I think people want to see the world coming together and focusing on the things that matter to people,’ PM saysLouise Haigh starts by saying she is standing in for Andy Burnham.She says this weeke...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Time to focus on cost of living, says PM after US election results",
-        "url": "https://www.bbc.co.uk/news/articles/c6kgl0xk8en9o?at_medium=RSS&at_campaign=rss",
-        "description": "Andy Burnham says prices won't come down until the US's conflict with Iran is resolved.",
+        "title": "UK commits to 'time-bound' talks on slavery apology",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss",
+        "description": "British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Pound rises to its highest level since the Brexit referendum",
-        "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-        "description": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+        "title": "Interest rates expected to rise for first time in over three years",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+        "description": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -130,9 +130,9 @@
         "category": "climate"
       },
       {
-        "title": "How penguin poo is making Antarctic snow melt faster",
-        "url": "https://www.theguardian.com/environment/2026/nov/04/how-penguin-poo-is-making-antarctic-snow-melt-faster",
-        "description": "Researchers find the birds’ guano feeds algal blooms that absorb significantly more solar energyPenguin poo is making the Antarctic snow melt faster, a study shows. As temperatures rise, penguins a...",
+        "title": "Rogue UK energy bosses and brokers face crackdown on mis-selling",
+        "url": "https://www.theguardian.com/business/2026/nov/04/rogue-energy-bosses-and-brokers-face-crackdown-on-mis-selling",
+        "description": "Exclusive: Ofgem to be given powers to issue fines and rein in bonuses for executives who ‘reward themselves while customers suffer’Energy bosses in the UK will have their bonuses curtailed when su...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-        "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-        "description": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+        "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+        "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+        "description": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
-        "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo?at_medium=RSS&at_campaign=rss",
-        "description": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+        "title": "What Democrats can and can't do with their new power after taking Congress",
+        "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+        "description": "Democrats can vote legislation through. But Trump still has veto power.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
-        "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
-        "description": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+        "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+        "description": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
