@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T23:16:15.314707+00:00",
+  "fetched_at": "2026-11-06T05:13:11.361203+00:00",
   "headlines": {
     "government": [
       {
@@ -26,7 +26,7 @@
       {
         "title": "Firms told to publish salaries in job adverts ahead of new law",
         "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-        "description": "The goverment argues the change will help jobseekers and could help to prevent pay discrimination.",
+        "description": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
         "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-        "description": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+        "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "UK doctor infected with Ebola being treated at London hospital",
-        "url": "https://www.bbc.co.uk/news/articles/cqj34d3l0zlmo?at_medium=RSS&at_campaign=rss",
-        "description": "The doctor tested positive in DR Congo, where there is an outbreak. The government says the risk to the public remains low.",
+        "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
+        "url": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo?at_medium=RSS&at_campaign=rss",
+        "description": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Investigation into 'major fish kill' after pollution incident",
-        "url": "https://www.bbc.co.uk/news/articles/cx1l36y2d941o?at_medium=RSS&at_campaign=rss",
-        "description": "The pollution caused the death of brown and migratory sea trout in the Inler river.",
+        "title": "Could the earliest weakening of the polar vortex on record bring UK snow?",
+        "url": "https://www.bbc.co.uk/weather/articles/cwyvrz09mnd6o?at_medium=RSS&at_campaign=rss",
+        "description": "An unprecedented early weakening of the polar vortex is causing uncertainty amongst experts over the impact it will have on UK weather as Simon King explains.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-        "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-        "description": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Who could be behind hoax bomb threats to European air travel?",
-        "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-        "description": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+        "description": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "California governor commutes sentences for state's 548 death row inmates",
-        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-        "description": "California has historically had the largest population of people on death row in the US.",
+        "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+        "description": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Mark Rubio is rumoured to be eyeing a presidential run.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
