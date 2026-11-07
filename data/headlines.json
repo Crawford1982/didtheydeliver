@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-11-07T12:29:21.842286+00:00",
+  "fetched_at": "2026-11-07T21:27:47.239936+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
-        "url": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
-        "description": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’The Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stri...",
+        "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
+        "url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+        "description": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024NHS officials are shutting growing numbers of birth centres in a “shocking” d...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Why Woke 2.0 is taking on Trump and establishment politics | Nesrine Malik | Radical Thinking podcast",
-        "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/nov/07/why-woke-20-is-taking-on-trump-and-establishment-politics-nesrine-malik-radical-thinking",
-        "description": "Today’s political conversation is dominated by one topic above all: race. The Guardian columnist Nesrine Malik has been way ahead of the pack in diagnosing how immigrants, their children and grandc...",
+        "title": "Five European leaders call for closer EU-UK ties ahead of Brussels summit",
+        "url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit",
+        "description": "Germany, Belgium, Netherlands, Luxembourg and Denmark say cooperation on clean energy will benefit both sidesFive European leaders have called for closer ties with Britain ahead of a keenly anticip...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Reform UK councillor promoted collapsed $1.9bn ‘Ponzi scheme’ HyperVerse that left victims suicidal",
-        "url": "https://www.theguardian.com/politics/2026/nov/07/reform-uk-councillor-promoted-alleged-ponzi-scheme-hyperverse",
-        "description": "Susan Lawrence, elected to Wolverhampton city council, sits on committee overseeing financial reporting of multimillion-pound budgetA woman who promoted a notorious cryptocurrency scam has been ele...",
+        "title": "Court rules against Home Office in asylum seeker kidnapping case",
+        "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
+        "description": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in LibyaThe court of appeal has rejected claims by the Home Office ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
+        "url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
+        "description": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024NHS officials are shutting growing numbers of birth centres in a “shocking” d...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "This is an age of anti-vaccine unreason – and even NHS staff are not immune | Polly Toynbee",
         "url": "https://www.theguardian.com/commentisfree/2026/nov/06/anti-vaccine-unreason-nhs-staff-flu",
         "description": "When fewer than half of health service workers have taken up the flu vaccine, there is little hope for the rest of usGood news. Edward Jenner’s rustic thatched hut in his Gloucestershire garden whe...",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "‘This is direct’: positive early feedback from pilot community mental health hub in Cumbria",
-        "url": "https://www.theguardian.com/society/2026/nov/03/early-feedback-pilot-community-mental-health-hub-cumbria-whitehaven",
-        "description": "Hope Haven in Whitehaven is one of six trial open-access, 24/7 schemes in England offering preventive careThe night Tamara first walked through the doors of Hope Haven, a new community mental healt...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
         "url": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo?at_medium=RSS&at_campaign=rss",
         "description": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
@@ -93,9 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "‘I feel free now’: Shabana Mahmood’s immigration shake-up provokes mixed emotions",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/06/shabana-mahmood-uk-immigration-shakeup-reaction",
-        "description": "Some relatives of British citizens say they feel left behind, but announcement has brought relief to many care workers“The only time we’re regarded as human beings is when they need a lot of hands ...",
+        "title": "Court rules against Home Office in asylum seeker kidnapping case",
+        "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
+        "description": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in LibyaThe court of appeal has rejected claims by the Home Office ...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "National Trust votes to seek banking partner more in tune with its environmental policies",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
+        "description": "Charity’s AGM decides overwhelmingly to begin tendering process amid criticism of Barclays’ fossil fuel investmentsThe National Trust has voted overwhelmingly to seek a new banking partner in a sig...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
         "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
         "description": "Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progressIt was a curious way of conducting negotiations. Ahead of the 2025 climate ...",
@@ -126,13 +133,6 @@
         "title": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
         "url": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
         "description": "YouGov survey finds support for tree planting and emissions taxes but opposition to air travel and fuel leviesEurope live – latest updatesEuropeans believe human-made climate change is real, a surv...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "‘Everything is so out of whack’: UK trees experience spring six months early",
-        "url": "https://www.theguardian.com/environment/2026/nov/06/uk-trees-early-spring-mild-autumn",
-        "description": "Mild autumn temperatures causing premature flowering and raising concerns for pollinators, say expertsTrees are experiencing an “early spring” because of mild UK temperatures this autumn, with expe...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "With Stephen Miller pick, Trump readies for a battle",
-        "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
-        "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+        "title": "What we know so far after three bodies found at home of Krakow gunman",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+        "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Paraguay's president impeached and under house arrest after bank collapse",
-        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-        "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+        "title": "No clear winner after tight New Zealand general election",
+        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+        "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Pope in 'pretty good health' as he starts Latin America tour",
-        "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-        "description": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
+        "title": "US offers $20m reward for information about Iran's nuclear programme",
+        "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+        "description": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
