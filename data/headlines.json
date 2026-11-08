@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T21:27:47.239936+00:00",
+  "fetched_at": "2026-11-08T04:33:09.506686+00:00",
   "headlines": {
     "government": [
       {
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "AI stocks climb after trillions wiped from market values",
-        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-        "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+        "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
+        "description": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "What we know so far after three bodies found at home of Krakow gunman",
+        "title": "What we know so far after Krakow gun attack",
         "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-        "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+        "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "No clear winner after tight New Zealand general election",
         "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
         "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "US offers $20m reward for information about Iran's nuclear programme",
-        "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-        "description": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
