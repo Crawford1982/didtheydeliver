@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-11-08T04:33:09.506686+00:00",
+  "fetched_at": "2026-11-08T12:47:17.670742+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
+        "url": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush",
+        "description": "David Lammy among those raising concerns after errors found in rejected applications for indefinite leave to remainConcerns have been raised over the sudden rise in number of Turkish nationals faci...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
         "url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
@@ -17,13 +24,6 @@
         "category": "government"
       },
       {
-        "title": "Court rules against Home Office in asylum seeker kidnapping case",
-        "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
-        "description": "Department had claimed that being kidnapped for ransom was not exploitation of trafficking victims in case of Syrian man abducted in LibyaThe court of appeal has rejected claims by the Home Office ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "Parliament restoration delays 'frustrating', says Commons Speaker",
         "url": "https://www.bbc.co.uk/news/articles/cm89zznj21ylo?at_medium=RSS&at_campaign=rss",
         "description": "Sir Lindsay Hoyle urges action after a committee warns it is \"crunch time\" for the ailing building.",
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+        "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+        "description": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI‘AI clog’: UK battles onslaught of chatbot-generated complaintsEditorial: the...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Trump may have lost but don’t bet Democrats can fix the economy",
         "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
@@ -47,21 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Could the AI bubble burst after Democrats' midterms sweep? - The Latest",
-        "url": "https://www.theguardian.com/news/video/2026/nov/06/could-the-ai-bubble-burst-after-democrats-midterms-sweep-the-latest",
-        "description": "Global tech stocks have plunged after the Democrats’ victory in the US midterm elections, with fears of a slowdown in AI development. Major tech corporations including Apple, Tesla and Nvidia shed ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
-        "description": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+        "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
+        "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "There is no ‘magic pill’ to fix young women’s anxiety. I should know – I once took propranolol myself | Rhiannon Lucy Cosslett",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/08/magic-pill-young-women-anxiety-propranolol-beta-blockers-girls",
+        "description": "Prescriptions for these beta blockers are soaring among England’s teenage girls. But they deserve more than this sticking-plaster approachThe first time I had a panic attack, I genuinely thought I ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
         "url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "Cancer diagnoses in England hit record high of more than 1,000 people a day",
-        "url": "https://www.theguardian.com/society/2026/nov/05/nhs-england-cancer-diagnoses-record-high-1000-people-diagnosed-every-day",
-        "description": "While NHS is identifying more cases, it is failing to meet timescale targets on diagnosis and treatment, experts sayCancer diagnoses in England have hit record highs, with more than 1,000 people a ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
         "url": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo?at_medium=RSS&at_campaign=rss",
         "description": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "‘Windrush’ accusations over sharp rise in Turkish nationals facing removal from UK",
+        "url": "https://www.theguardian.com/politics/2026/nov/08/turkish-nationals-uk-indefinite-leave-to-remain-home-office-windrush",
+        "description": "David Lammy among those raising concerns after errors found in rejected applications for indefinite leave to remainConcerns have been raised over the sudden rise in number of Turkish nationals faci...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Court rules against Home Office in asylum seeker kidnapping case",
         "url": "https://www.theguardian.com/law/2026/nov/07/court-of-appeal-rules-kidnap-for-ransom-libya-exploitation-trafficking-victims-asylum-seeker-home-office",
@@ -105,34 +112,27 @@
         "description": "Campaign group the3million lodges court papers after EU citizens told pre-settled status was an ‘error’The Home Office is being sued for alleged breach of the Brexit withdrawal agreement after stri...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "UK government to extend controversial Palantir NHS contract as it draws up plan for British alternative – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
-        "description": "Health secretary Yvette Cooper has faced calls to axe US tech firm’s contract to deliver the flagship government AI system, report saysHere are some more photos from prime minister Andy Burnham’s v...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "National Trust votes to seek banking partner more in tune with its environmental policies",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/07/national-trust-agm-barclays-environment-policies",
-        "description": "Charity’s AGM decides overwhelmingly to begin tendering process amid criticism of Barclays’ fossil fuel investmentsThe National Trust has voted overwhelmingly to seek a new banking partner in a sig...",
+        "title": "Who’s who at Cop31: key players at the climate talks",
+        "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
+        "description": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting?Hosting Cop was a key pledge from Australia’s prime minister, Anthony Albanese...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
-        "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
-        "description": "Its key temperature goal has been missed but experts say the agreement is still proving a vital moral compass for progressIt was a curious way of conducting negotiations. Ahead of the 2025 climate ...",
+        "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
+        "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
+        "description": "Delegates from more than 190 countries are gathering in Turkey for climate talks, but the US will be absentAs the planet faces unprecedented human-caused global heating, heads of government are mee...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Most Europeans want action to tackle climate crisis but not at any cost, poll shows",
-        "url": "https://www.theguardian.com/world/2026/nov/06/europeans-want-action-climate-crisis-yougov-poll",
-        "description": "YouGov survey finds support for tree planting and emissions taxes but opposition to air travel and fuel leviesEurope live – latest updatesEuropeans believe human-made climate change is real, a surv...",
+        "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+        "url": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+        "description": "Farmers face big drop in production from extreme weather during this year’s super El Niño eventBanana producers in Latin America are calling for better pay to help cope with the impact of the clima...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -194,21 +194,21 @@
       {
         "title": "What we know so far after Krakow gun attack",
         "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-        "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+        "description": "Six people were killed in a random shooting in Krakow's main square, and three bodies were later found at the home of the attacker.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
-        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
-        "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+        "title": "Houthis say at least 33 killed in Saudi air strike",
+        "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+        "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "No clear winner after tight New Zealand general election",
-        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-        "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+        "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+        "description": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
