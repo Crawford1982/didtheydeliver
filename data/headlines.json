@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-11-08T21:41:26.551433+00:00",
+  "fetched_at": "2026-11-09T04:44:46.947963+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
+        "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
+        "description": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
+        "url": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
+        "description": "£40m scheme in England aims to keep most vulnerable people well at home and avoid unnecessary hospital stays Hundreds of thousands of vulnerable patients in England are to receive extra support fro...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
         "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
@@ -10,23 +24,9 @@
         "category": "government"
       },
       {
-        "title": "Lisa Nandy wary of ‘circular arguments’ about rejoining EU",
-        "url": "https://www.theguardian.com/politics/2026/nov/08/lisa-nandy-wary-of-circular-arguments-about-rejoining-eu",
-        "description": "Culture secretary pushes back against talk of revisiting Brexit but says closer ties would fulfil referendum promisesOne of Andy Burnham’s cabinet ministers has said she wants to avoid “circular ar...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
-        "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
-        "description": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculumPushing GCSE subjects on younger pupils risks turning England’s secondary schools ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
-        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
-        "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+        "title": "Government's EV targets expected to be reduced this week",
+        "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+        "description": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-        "description": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+        "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+        "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,16 +70,16 @@
         "category": "nhs"
       },
       {
-        "title": "There is no ‘magic pill’ to fix young women’s anxiety. I should know – I once took propranolol myself | Rhiannon Lucy Cosslett",
-        "url": "https://www.theguardian.com/commentisfree/2026/nov/08/magic-pill-young-women-anxiety-propranolol-beta-blockers-girls",
-        "description": "Prescriptions for these beta blockers are soaring among England’s teenage girls. But they deserve more than this sticking-plaster approachThe first time I had a panic attack, I genuinely thought I ...",
+        "title": "Only 6.4% of stroke survivors receive enough therapy, finds ‘damning’ report",
+        "url": "https://www.theguardian.com/society/2026/nov/09/few-stroke-survivors-receive-enough-therapy-damning-report",
+        "description": "Stroke Association says widespread lack of rehabilitation hinders patients’ chances of regaining physical and mental functionFewer than one in 15 stroke survivors are getting the amount of therapy ...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Rise in NHS birth centre closures ‘shocking’ denial of women’s rights, experts say",
-        "url": "https://www.theguardian.com/society/2026/nov/07/nhs-birth-centre-maternity-unit-closures-england-womens-rights",
-        "description": "Twelve midwife-led maternity units have closed in England since 2019 with six closing since Labour came to power in 2024NHS officials are shutting growing numbers of birth centres in a “shocking” d...",
+        "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
+        "url": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
+        "description": "£40m scheme in England aims to keep most vulnerable people well at home and avoid unnecessary hospital stays Hundreds of thousands of vulnerable patients in England are to receive extra support fro...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "One of the year's most prolific meteor showers to light up the night sky this weekend",
-        "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss",
-        "description": "The Leonid meteor shower, known for its bright and fast meteors, will kick off this weekend and continue until the end of November.",
+        "title": "A glimmer of good news for Britain's sleepy dormouse",
+        "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
+        "description": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -148,7 +148,7 @@
       {
         "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
         "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
-        "description": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculumPushing GCSE subjects on younger pupils risks turning England’s secondary schools ...",
+        "description": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools...",
         "source": "The Guardian",
         "category": "education"
       },
