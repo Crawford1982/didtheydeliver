@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-11-09T04:44:46.947963+00:00",
+  "fetched_at": "2026-11-09T15:14:04.530324+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
-        "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
-        "description": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools...",
+        "title": "Burnham says bravery of Brand’s victims will change the justice system to better support survivors  – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
+        "description": "The prime minister said he wants police forces to have dedicated rape and serious sexual offence teams  by the end of 2027Downing Street has insisted that the government remains committed to the pr...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
-        "url": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
-        "description": "£40m scheme in England aims to keep most vulnerable people well at home and avoid unnecessary hospital stays Hundreds of thousands of vulnerable patients in England are to receive extra support fro...",
+        "title": "Thames Water asks creditors for more time to help repay £20bn debt pile",
+        "url": "https://www.theguardian.com/business/2026/nov/09/thames-water-asks-creditors-more-time-repay-debt-pile",
+        "description": "Troubled utility lobbies for deadline on part of the debt to be extended to March 2028Thames Water has asked creditors for more time to pay back billions of pounds in debt, as the water company scr...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Russell Brand case must be wake-up call to protect women in media, Lisa Nandy says",
-        "url": "https://www.theguardian.com/media/2026/nov/08/women-abuse-media-industry-lisa-nandy-russell-brand",
-        "description": "Culture secretary says there is still a problem with exploitation and abuse in the industry and public lifeThe culture secretary, Lisa Nandy, has said there is still a problem with exploitation and...",
+        "title": "Fixing UK’s youth jobs crisis demands much more investment, TUC boss warns",
+        "url": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
+        "description": "Paul Nowak also calls on government to avoid arbitrary benefit cuts before much-anticipated Milburn report is published this weekFixing Britain’s youth jobs crisis will require ministers to drastic...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "Nvidia’s value tumbles by $330bn after ‘honeytrap’ investigation launched, as China denies spying claims – business live",
+        "url": "https://www.theguardian.com/business/live/2026/nov/09/nvidia-jensen-huang-scandal-investigation-ai-industry-tech-stocks-recovery-slump-latest-news-updates",
+        "description": "Shares in world’s most valuable company hit seven-month low after CEO Huang admits to affair, after allegations of relationship with Chinese spyNvidia opens investigation after report CEO Jensen Hu...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "The rise and rise of the family farm",
+        "url": "https://www.theguardian.com/environment/2026/nov/09/family-farming-agritainment",
+        "description": "As prices go up but grain prices stagante, more farming families are turning to ‘agritainment’ to make a livingOn any given Saturday at this time of year in south-west Ohio, the Lucas Brothers Fall...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
         "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
         "description": "Election results appear to have turbo-charged an already growing social, political and financial market rethink about AI‘AI clog’: UK battles onslaught of chatbot-generated complaintsEditorial: the...",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Trump may have lost but don’t bet Democrats can fix the economy",
-        "url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
-        "description": "There’s not much they can do over the next couple of years to alleviate angry voters’ stress over pricesIt was the economy, again. Although Donald Trump largely ignored it, voters’ acute concerns o...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "US tech stocks post modest recovery on Wall Street after worst day in 19 months – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
-        "description": "European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecastsCould the AI bubble burst after Democrats’ midterms sweep? - The LatestDespite the sharp l...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
-        "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
-        "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+        "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+        "description": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,6 +70,13 @@
         "category": "nhs"
       },
       {
+        "title": "British people don’t trust Palantir – it’s not too late to reverse the NHS’s dependence on it | Ben Coleman",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/09/british-people-palantir-nhs-health-data-us-tech-firm",
+        "description": "We can’t allow our health data to be locked into the control of a US tech firm. It won’t be easy, but next spring the job of clawing it back must beginBen Coleman is Labour MP for Chelsea and Fulha...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Only 6.4% of stroke survivors receive enough therapy, finds ‘damning’ report",
         "url": "https://www.theguardian.com/society/2026/nov/09/few-stroke-survivors-receive-enough-therapy-damning-report",
         "description": "Stroke Association says widespread lack of rehabilitation hinders patients’ chances of regaining physical and mental functionFewer than one in 15 stroke survivors are getting the amount of therapy ...",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "GPs to offer 300,000 patients extra support to ease winter strain on NHS",
-        "url": "https://www.theguardian.com/society/2026/nov/08/gps-extra-checks-winter-nhs-hospitals-england",
-        "description": "£40m scheme in England aims to keep most vulnerable people well at home and avoid unnecessary hospital stays Hundreds of thousands of vulnerable patients in England are to receive extra support fro...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Tempted by snacks before bed? Here's why - and what you can do about it",
-        "url": "https://www.bbc.co.uk/news/articles/cq2e9v3030gyo?at_medium=RSS&at_campaign=rss",
-        "description": "There are biological reasons why you may reach for sweet treats before bed, but you can change the habit.",
+        "title": "What's your love language - and does it actually mean anything?",
+        "url": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
+        "description": "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "Cop31 live: world leaders gather for crucial climate crisis talks",
+        "url": "https://www.theguardian.com/environment/live/2026/nov/09/cop31-climate-crisis-talks-turkey-latest-news-updates",
+        "description": "UN climate summit will focus on how to implement the targets needed to urgently cut greenhouse gas emissionsWhat is at stake at the UN climate summit and what can it achieve?Key players at the clim...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "‘A new age of climate extremes’: Earth accumulating heat at accelerating rate",
+        "url": "https://www.theguardian.com/environment/2026/nov/09/cop31-climate-extremes-earth-global-heating",
+        "description": "Increased heat will supercharge extreme weather events, warns UN agency as Cop31 climate summit beginsHeat is accumulating in Earth’s systems at an accelerating rate, the UN’s weather agency has re...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Cop31 must deliver climate progress that people can see is real, host says",
         "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
         "description": "High-stakes talks involving 190 countries begin on Monday as world grapples with El Niño supercharged by fossil fuelsThe Cop31 summit must produce progress, “a tangible outcome ... that people can ...",
@@ -123,51 +137,44 @@
         "category": "climate"
       },
       {
-        "title": "Who’s who at Cop31: key players at the climate talks",
-        "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-key-players-climate-talks",
-        "description": "What are the relationships and dominant interests in play, as the summit kicks off after a bitter row over its hosting?Hosting Cop was a key pledge from Australia’s prime minister, Anthony Albanese...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Cop31: what is at stake at the UN climate summit and what can it achieve?",
-        "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-what-is-at-stake-at-the-un-climate-summit-and-what-can-it-achieve",
-        "description": "Delegates from more than 190 countries are gathering in Turkey for climate talks, but the US will be absentAs the planet faces unprecedented human-caused global heating, heads of government are mee...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "A glimmer of good news for Britain's sleepy dormouse",
-        "url": "https://www.bbc.co.uk/news/articles/c85ynn0p5k71o?at_medium=RSS&at_campaign=rss",
-        "description": "New figures suggest hazel dormice may be recovering after decades of decline, with warmer summers boosting survival.",
+        "title": "Birds return to waterfowl park after oil vandalism",
+        "url": "https://www.bbc.co.uk/news/articles/c6gqwq1x85e0o?at_medium=RSS&at_campaign=rss",
+        "description": "The vandalism of a nearby home heating oil tank resulted in the death of 13 birds from the park.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Parents and teachers decry Google pledge to yank Search if schools block AI: ‘This threat is nothing but extortion’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/09/parents-teachers-google-search-schools-ai",
+        "description": "Company says schools should control student AI use, but if they block its AI tools, they’ll lose access to search engineParents and teachers across the US are criticizing Google’s announcement that...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Fixing UK’s youth jobs crisis demands much more investment, TUC boss warns",
+        "url": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
+        "description": "Paul Nowak also calls on government to avoid arbitrary benefit cuts before much-anticipated Milburn report is published this weekFixing Britain’s youth jobs crisis will require ministers to drastic...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Teaching GCSE topics younger risks turning schools into ‘early exam factories’, Powell warns",
         "url": "https://www.theguardian.com/education/2026/nov/08/gcses-teaching-england-curriculum-education-secretary-lucy-powell",
         "description": "Lucy Powell says proposals to end widespread practice will be included in overhaul of England’s national curriculum Pushing GCSE subjects on younger pupils risks turning England’s secondary schools...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Abdul El-Sayed’s Oxford years: PhD, political influences and sporting distinction",
-        "url": "https://www.theguardian.com/us-news/2026/nov/08/abdul-el-sayed-michigan-senator-oxford-university-years-phd",
-        "description": "Michigan senator-elect’s former peers recall his time at university in Britain – and his love of coronation chicken sandwichesIn the cold, twilight days of 2008, inside the University of Michigan’s...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "UK government to extend controversial Palantir NHS contract as it draws up plan for British alternative – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
-        "description": "Health secretary Yvette Cooper has faced calls to axe US tech firm’s contract to deliver the flagship government AI system, report saysHere are some more photos from prime minister Andy Burnham’s v...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Housing shortage puts Burnham’s homelessness pledge in jeopardy",
+        "url": "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england",
+        "description": "Minister says Labour hopes to offer bed to every rough sleeper in England by Christmas but suitable housing in short supplyAndy Burnham’s pledge to tackle rough sleeping by getting “everyone in for...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Early release prisoners facing street homelessness, probation staff warn",
         "url": "https://www.theguardian.com/society/2026/nov/07/early-release-prisoners-street-homelessness-england",
@@ -181,34 +188,27 @@
         "description": "Some relatives of British citizens say they feel left behind, but announcement has brought relief to many care workers“The only time we’re regarded as human beings is when they need a lot of hands ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Thursday briefing: ‘A dignified life for all must be the north star’: economist Isabella Weber answers your questions",
-        "url": "https://www.theguardian.com/world/2026/nov/05/thursday-briefing-a-dignified-life-for-all-must-be-the-north-star-economist-isabella-weber-answers-your-questions",
-        "description": "In today’s newsletter: From the cost of living to the AI bubble and the fight against fascism, Weber answers Guardian readers’ questions on how to build a fairer economy and worldGood morning. As s...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
-        "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-        "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+        "title": "Krakow shooting suspect has died in hospital, police say",
+        "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+        "description": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Seven dead and more than 100 injured after trains collide in Egypt",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-        "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+        "title": "Inside the French drug gangs recruiting children to kill",
+        "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Homes and temples glow across India to mark Diwali",
-        "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro?at_medium=RSS&at_campaign=rss",
-        "description": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+        "title": "Trump says he was 'kidding' about Dana White press secretary offer",
+        "url": "https://www.bbc.co.uk/news/articles/ck0j0j87959eo?at_medium=RSS&at_campaign=rss",
+        "description": "The president told the Ultimate Fighting Championship boss to \"please take the job\" in a Truth Social post on Saturday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
