@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-11-10T14:21:48.505293+00:00",
+  "fetched_at": "2026-11-10T22:51:19.546489+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – UK politics live",
+        "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
+        "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
+        "description": "Hamish Falconer says UK has ‘not accepted principle’ of linking electricity trade to ‘cohesion fund’ but two sides will discuss issueBritain is willing to discuss paying towards infrastructure sche...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
         "description": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bnBadenoch and Whately are now taking questions.Q: [From Rob Powell from Sky News] We are running ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Brand barrister’s cross-examination of victims shocking and depressing, says Labour deputy",
+        "title": "Police receive further criminal allegations against Russell Brand",
         "url": "https://www.theguardian.com/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims",
-        "description": "Lucy Powell says she thought ‘we’d gone past that sort of culture’, and that she regrets setting up Miliband interview with comedian in 2015Brand sentenced to more than 10 years in prison for rape ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Young people in UK hit by ‘low-gear economy’, warns Bank of England deputy",
-        "url": "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli",
-        "description": "Exclusive: Iran war has fuelled energy price rise and clouded outlook, driving up unemployment, says Clare LombardelliYoung people in Britain are bearing the brunt of a “low-gear economy” as employ...",
+        "description": "Met says several people have been in contact since start of disgraced comedian’s rape and sexual assault trialBrand sentenced to more than 10 years in prison for rape and sexual assaultPolice have ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -40,7 +40,7 @@
         "category": "economy"
       },
       {
-        "title": "UK’s ‘low-hire, low-fire’ jobs market hurting young people; US inflation higher than expected – business live",
+        "title": "Inquiry launched into UK budget bank tax leak; Wall Street hit by US inflation data – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial news, including live coverage of the Bank of England Watchers conference in LondonYoung people in UK hit by ‘low-gear economy’, warns Bank of E...",
         "source": "The Guardian",
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
-        "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-        "description": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
+        "title": "Nvidia hires major US law firm to investigate Jensen Huang affair",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -65,7 +65,7 @@
       {
         "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
         "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-        "description": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platformUK politics live – latest updatesPalantir lobbied a health minister to consider extend...",
+        "description": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platformPalantir lobbied a health minister to consider extending its AI technology into GP rec...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -169,46 +169,46 @@
     ],
     "housing": [
       {
+        "title": "The Guardian view on rough sleeping: Burnham’s laudable target is in danger of being missed | Editorial",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/10/the-guardian-view-on-rough-sleeping-burnhams-laudable-target-is-in-danger-of-being-missed",
+        "description": "Energetic mayors and councils can help street homeless people to rebuild their lives. But the underlying affordability crisis needs tackling tooBringing an end to rough sleeping was among Andy Burn...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Yabba dabba doo! Could these bulging, Flintstones-style towers be the future of eco-building?",
+        "url": "https://www.theguardian.com/artanddesign/2026/nov/10/petra-heights-flintstones-style-towers-future-of-eco-building",
+        "description": "Ruggedly good-looking and greener than bricks and concrete, Petra Heights are made of three-metre slabs of rough rock. Could they herald a new stone age? Our writer fires up his FlintmobileThere’s ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Housing shortage puts Burnham’s homelessness pledge in jeopardy",
         "url": "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england",
         "description": "Minister says Labour hopes to offer bed to every rough sleeper in England by Christmas but suitable housing in short supplyAndy Burnham’s pledge to tackle rough sleeping by getting “everyone in for...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Early release prisoners facing street homelessness, probation staff warn",
-        "url": "https://www.theguardian.com/society/2026/nov/07/early-release-prisoners-street-homelessness-england",
-        "description": "Charities say situation exposes ‘fatal flaw’ in Andy Burnham’s plan to end rough sleeping in England by ChristmasIn just four days James is facing the prospect of sleeping on the street. He was rel...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "‘I feel free now’: Shabana Mahmood’s immigration shake-up provokes mixed emotions",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/06/shabana-mahmood-uk-immigration-shakeup-reaction",
-        "description": "Some relatives of British citizens say they feel left behind, but announcement has brought relief to many care workers“The only time we’re regarded as human beings is when they need a lot of hands ...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-        "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-        "description": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+        "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+        "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
+        "description": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
-        "description": "Kyiv, Washington and Moscow have all sent delegations to the United Arab Emirates for the first trilateral talks since February.",
+        "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
+        "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "DR Congo sentences 66 soldiers to death for being 'cowards'",
-        "url": "https://www.bbc.co.uk/news/articles/cmreye1q3dnjo?at_medium=RSS&at_campaign=rss",
-        "description": "The Congolese army's fight against rebel groups has long been hampered by disarray within its ranks.",
+        "title": "Israel's new parliament sworn in as leaders compete to form government",
+        "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
+        "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
