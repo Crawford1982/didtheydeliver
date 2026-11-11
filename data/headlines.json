@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-11-10T22:51:19.546489+00:00",
+  "fetched_at": "2026-11-11T04:47:43.558213+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
+        "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+        "description": "Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economyThe Bank of England is risking higher interest rates for longer after a hesitant respons...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
         "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
@@ -13,13 +20,6 @@
         "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
         "description": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bnBadenoch and Whately are now taking questions.Q: [From Rob Powell from Sky News] We are running ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Police receive further criminal allegations against Russell Brand",
-        "url": "https://www.theguardian.com/news/2026/nov/10/lucy-powell-russell-brand-cross-examination-victims",
-        "description": "Met says several people have been in contact since start of disgraced comedian’s rape and sexual assault trialBrand sentenced to more than 10 years in prison for rape and sexual assaultPolice have ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -40,6 +40,13 @@
         "category": "economy"
       },
       {
+        "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
+        "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
+        "description": "Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economyThe Bank of England is risking higher interest rates for longer after a hesitant respons...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Inquiry launched into UK budget bank tax leak; Wall Street hit by US inflation data – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial news, including live coverage of the Bank of England Watchers conference in LondonYoung people in UK hit by ‘low-gear economy’, warns Bank of E...",
@@ -47,21 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "US inflation rose 0.4% in October as price increases cooled and gas costs dipped",
-        "url": "https://www.theguardian.com/business/2026/nov/10/october-inflation-report",
-        "description": "New data comes after Republicans’ midterms losses – which were largely seen as a rebuke of the party over high pricesUS inflation rose 0.4% from September to October, slightly above expectations bu...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Nvidia hires major US law firm to investigate Jensen Huang affair",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-        "description": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
+        "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+        "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Disabled people in England ‘have to wait up to two years for wheelchairs’",
+        "url": "https://www.theguardian.com/society/2026/nov/11/disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs",
+        "description": "Ombudsman’s report says delays have profound consequences and limit users’ ability to lead independent livesDisabled people are having to wait up to two years to get a wheelchair because of delays ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
         "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "British people don’t trust Palantir – it’s not too late to reverse the NHS’s dependence on it | Ben Coleman",
-        "url": "https://www.theguardian.com/commentisfree/2026/nov/09/british-people-palantir-nhs-health-data-us-tech-firm",
-        "description": "We can’t allow our health data to be locked into the control of a US tech firm. It won’t be easy, but next spring the job of clawing it back must beginBen Coleman is Labour MP for Chelsea and Fulha...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "What's your love language - and does it actually mean anything?",
-        "url": "https://www.bbc.co.uk/news/articles/c6lykl01nzp9o?at_medium=RSS&at_campaign=rss",
-        "description": "The theory of ‘Love Languages’ has no scientific origin but it's often still mentioned in modern dating.",
+        "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
+        "url": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
+        "description": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
-        "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-        "description": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+        "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
+        "url": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
+        "description": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-        "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-        "description": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+        "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+        "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+        "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
-        "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do?at_medium=RSS&at_campaign=rss",
-        "description": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+        "title": "US Army soldier suspected of spying for Russia arrested in UK",
+        "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+        "description": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Israel's new parliament sworn in as leaders compete to form government",
-        "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss",
-        "description": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+        "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
