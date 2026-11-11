@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-11-11T04:47:43.558213+00:00",
+  "fetched_at": "2026-11-11T13:35:32.383942+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
-        "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
-        "description": "Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economyThe Bank of England is risking higher interest rates for longer after a hesitant respons...",
+        "title": "Burnham indicates backing for ‘black English’ and ‘Asian English’ census options – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
+        "description": "PM, in response to Ed Davey at PMQs, says measures could help address ‘poisonous politics’Here are some more comments on the report for the Casey commission released today looking at how social car...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Britain willing to discuss paying into EU to join electricity market, says minister",
-        "url": "https://www.theguardian.com/politics/2026/nov/10/britain-eu-electricity-market-cohesion-fund-hamish-falconer",
-        "description": "Hamish Falconer says UK has ‘not accepted principle’ of linking electricity trade to ‘cohesion fund’ but two sides will discuss issueBritain is willing to discuss paying towards infrastructure sche...",
+        "title": "Burnham lauds £12bn offshore wind investment as he prepares for climate summit",
+        "url": "https://www.theguardian.com/environment/2026/nov/11/burnham-offshore-wind-investment-norfolk-climate-summit-cop31-jackdaw-gasfield",
+        "description": "Package for plan off Norfolk coast revealed as government tries to calm critics after approving Jackdaw gasfieldUK politics live – latest updatesAndy Burnham has hailed a record investment in offsh...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
-        "description": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bnBadenoch and Whately are now taking questions.Q: [From Rob Powell from Sky News] We are running ...",
+        "title": "National security of all countries at risk due to climate crisis, UK foreign secretary warns",
+        "url": "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31",
+        "description": "Exclusive: Ed Miliband says sci-fi scenarios of destruction ‘now regular occurrences’, as he prepares to address Cop31Cop31 live – latest updatesUK politics live – latest updatesThe national securi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Tories pledge to cut benefits for children with 'milder cases' of ADHD",
-        "url": "https://www.bbc.co.uk/news/articles/c3j474prl2r7o?at_medium=RSS&at_campaign=rss",
-        "description": "Conservative shadow minister Helen Whately says the system risks putting children on a \"conveyor belt\" towards a \"lifetime on benefits\".",
+        "title": "Acquitted 'China spy' tells BBC: I was fall guy for security services but also naive",
+        "url": "https://www.bbc.co.uk/news/articles/c98rzzvde1llo?at_medium=RSS&at_campaign=rss",
+        "description": "Thousands of messages seen by BBC show how a Chinese official sought details of sensitive political matters.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "Young people in UK hit by ‘low-gear economy’, warns Bank of England deputy",
-        "url": "https://www.theguardian.com/business/2026/nov/10/young-people-uk-economy-bank-of-england-clare-lombardelli",
-        "description": "Exclusive: Iran war has fuelled energy price rise and clouded outlook, driving up unemployment, says Clare LombardelliYoung people in Britain are bearing the brunt of a “low-gear economy” as employ...",
+        "title": "Nvidia’s value tumbles by $430bn since spy allegations, as major US law firm hired to investigate claims – business live",
+        "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsAfter two days of losses, Nvidia’s stock is expected to recover some lost ground today.Nvidia’s shares are up almost 5% in premarket tradin...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
+        "url": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
+        "description": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society dow...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,14 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "Inquiry launched into UK budget bank tax leak; Wall Street hit by US inflation data – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/nov/10/nvidia-shareholder-lawsuit-jensen-huang-relationship-suspected-chinese-spy-fbi-trump-bank-of-england-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial news, including live coverage of the Bank of England Watchers conference in LondonYoung people in UK hit by ‘low-gear economy’, warns Bank of E...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+        "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
         "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
         "description": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
         "source": "BBC News",
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
-        "url": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_medium=RSS&at_campaign=rss",
-        "description": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
+        "title": "Senior doctors call off two-day strike planned this month",
+        "url": "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo?at_medium=RSS&at_campaign=rss",
+        "description": "Consultants in England were due to walk out on 25 November in disputes over pay and working conditions.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,35 +116,42 @@
     ],
     "climate": [
       {
-        "title": "Slight fall in carbon emissions from fossil fuels as Iran war drives renewables push",
-        "url": "https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push",
-        "description": "However, authors of a comprehensive assessment to be presented at Cop31 warn talk of a global turnaround prematureCop31 live – latest updatesSoaring oil and gas prices following the war in Iran hav...",
+        "title": "Cop31 live: ‘Fossil fuels must go the way of the dinosaurs’ - UN chief hits out at industry lobbying",
+        "url": "https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates",
+        "description": "Third day of UN talks begin but leaders of many big polluting nations absentAfter a couple of hosts provide us a bit of background on Antalya (founded in 200BC, apparently) it is time to hear from ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Tuesday briefing: The world is falling short on climate action. Can Cop31 change that?",
-        "url": "https://www.theguardian.com/world/2026/nov/10/tuesday-briefing-the-world-is-falling-short-on-climate-action-can-cop31-change-that",
-        "description": "In today’s newsletter: As global leaders gather in Turkey for the UN climate summit, both doubts and hope surround what the annual talks can achieveGood morning. After another year of unprecedented...",
+        "title": "National security of all countries at risk due to climate crisis, UK foreign secretary warns",
+        "url": "https://www.theguardian.com/environment/2026/nov/11/ed-miliband-national-security-climate-crisis-cop31",
+        "description": "Exclusive: Ed Miliband says sci-fi scenarios of destruction ‘now regular occurrences’, as he prepares to address Cop31Cop31 live – latest updatesUK politics live – latest updatesThe national securi...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Australia's Chris Bowen tells Cop31 the world can still limit global heating to 1.5C – video",
-        "url": "https://www.theguardian.com/environment/video/2026/nov/10/australias-chris-bowen-tells-cop31-the-world-can-still-limit-global-heating-to-15c-video",
-        "description": "At the opening of Cop31 in Turkey, president of negotiations and Australia’s climate change minister, Chris Bowen, acknowledged the world would overshoot the Paris Agreement’s 1.5C warming limit bu...",
+        "title": "Developing countries in limbo as rich nations delay new climate finance plans",
+        "url": "https://www.theguardian.com/environment/2026/nov/11/developing-countries-climate-finance-delay",
+        "description": "Many governments are yet to set targets, leaving recipient countries struggling to plan and attract private investmentDeveloping countries have been left in limbo by the failure of some of the worl...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Duchy tenants may have to buy farms or leave as Prince William plans sell-off",
-        "url": "https://www.bbc.co.uk/news/articles/cwm242plggldo?at_medium=RSS&at_campaign=rss",
-        "description": "A ten-year strategy to raise £500m from the Duchy of Cornwall will see farms sold off across England.",
+        "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+        "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+        "description": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "AI has made it ‘close to impossible’ to assess university coursework, regulator says",
+        "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+        "description": "Office for Students says institutions in England should return to traditional exams and in-person presentations Universities should go back to traditional exams and in-person presentations to grade...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Headteachers consider leaving jobs earlier than planned after new Ofsted inspection",
         "url": "https://www.theguardian.com/education/2026/nov/10/headteachers-consider-leaving-job-earlier-than-planned-new-ofsted-inspection",
@@ -158,34 +165,27 @@
         "description": "Women say move will be ‘massively detrimental’ to services for vulnerable children, and hit their own pensionsThe 33 women waving banners outside a nursery in the South Yorkshire village of Grimeth...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "Hometown glory? Norwegian library unveils £100k history book donated by Erling Haaland",
-        "url": "https://www.theguardian.com/world/2026/nov/09/norwegian-library-unveils-viking-history-book-donated-by-erling-haaland",
-        "description": "Rare 16th-century edition of Viking royal sagas given to Bryne by Manchester City footballer and his fatherAt his local library in the southern Norwegian town of Bryne, the father of superstar stri...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
       {
+        "title": "Private renters in the UK: how difficult is the rental market where you live?",
+        "url": "https://www.theguardian.com/money/2026/nov/11/private-renters-in-the-uk-how-difficult-is-the-rental-market-where-you-live",
+        "description": "We’d like to hear from private renters about rising costs, finding somewhere to live and dealing with landlordsPrivate renters are facing steep rent rises and a shortage of affordable properties, w...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "The thermostat wars tearing couples apart: ‘It’s hard to feel sexy when you’re freezing cold’",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/nov/11/the-thermostat-wars-tearing-couples-apart-its-hard-to-feel-sexy-when-youre-freezing-cold",
+        "description": "Almost two-thirds of bedfellows disagree about the perfect room temperature – and the issue can affect office workers and housemates too. It oftens lead to subterfuge and skulduggery. So is there a...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "The Guardian view on rough sleeping: Burnham’s laudable target is in danger of being missed | Editorial",
         "url": "https://www.theguardian.com/commentisfree/2026/nov/10/the-guardian-view-on-rough-sleeping-burnhams-laudable-target-is-in-danger-of-being-missed",
         "description": "Energetic mayors and councils can help street homeless people to rebuild their lives. But the underlying affordability crisis needs tackling tooBringing an end to rough sleeping was among Andy Burn...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Yabba dabba doo! Could these bulging, Flintstones-style towers be the future of eco-building?",
-        "url": "https://www.theguardian.com/artanddesign/2026/nov/10/petra-heights-flintstones-style-towers-future-of-eco-building",
-        "description": "Ruggedly good-looking and greener than bricks and concrete, Petra Heights are made of three-metre slabs of rough rock. Could they herald a new stone age? Our writer fires up his FlintmobileThere’s ...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Housing shortage puts Burnham’s homelessness pledge in jeopardy",
-        "url": "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england",
-        "description": "Minister says Labour hopes to offer bed to every rough sleeper in England by Christmas but suitable housing in short supplyAndy Burnham’s pledge to tackle rough sleeping by getting “everyone in for...",
         "source": "The Guardian",
         "category": "housing"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US Army soldier suspected of spying for Russia arrested in UK",
-        "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
-        "description": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+        "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-        "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-        "description": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+        "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
+        "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
+        "description": "The sow and her three cubs were responsible for killing Jennifer Balcarras, 48, and her daughter Selah Reed, 20, earlier this month.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
