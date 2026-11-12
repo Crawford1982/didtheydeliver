@@ -1,30 +1,30 @@
 {
-  "fetched_at": "2026-11-12T00:03:36.714066+00:00",
+  "fetched_at": "2026-11-12T14:39:17.338615+00:00",
   "headlines": {
     "government": [
       {
+        "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+        "description": "The mayor of London is the most high-profile figure to weigh into the debate over electric vehicle targetsOn the Today programme this morning, the Labour MP Bell Ribeiro-Addy, a prominent leftwinge...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK drone maker founded by Ukrainians hits £4.5bn value after raising £500m",
+        "url": "https://www.theguardian.com/business/2026/nov/12/uk-drone-maker-ukraine-value-uforce",
+        "description": "Britain’s national wealth fund invests £113m in UForce, whose equipment has been used heavily in war with RussiaA London-based naval drone maker founded by Ukrainians has reached a £4.5bn valuation...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
         "title": "UK appoints world’s first special representative for climate security",
         "url": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
-        "description": "Exclusive: Madeleine Alessandri, chair of the joint intelligence committee, will take on the role of advising No 10 on climate-related national security risksThe UK government has appointed the wor...",
+        "description": "Exclusive: Madeleine Alessandri, former chair of joint intelligence committee, will take on role of advising No 10 on climate-related national security risksThe UK government has appointed the worl...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
-        "url": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
-        "description": "Retailer’s management to seek two-week extension of legal protection from creditors in high courtMPs have accused the owner of Poundland of extracting millions of pounds from the budget retailer wh...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Double amputee marathon runner criticises Badenoch for ‘weaponising his success’",
-        "url": "https://www.theguardian.com/sport/2026/nov/11/double-amputee-runner-richard-whitehead-badenoch-weaponising-success-welfare",
-        "description": "Paralympian Richard Whitehead ‘gobsmacked’ at Tory leader’s speech over proposed £36bn welfare cutsThe double amputee marathon runner Richard Whitehead has criticised Kemi Badenoch for “weaponising...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Some under-25s should get less benefits, Milburn review to say",
+        "title": "Some under-25s should get fewer benefits, Milburn review to say",
         "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
         "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
         "source": "BBC News",
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
+        "url": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
+        "description": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winterAI helps UK economy grow at fastest pace for more than two yearsThe forecasters were clear...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "AI helps UK economy grow at fastest pace for more than two years",
+        "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
+        "description": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil pricesAI helped the UK defy expectations – but will Britain’s resilience fizzle out?Business li...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Nvidia hires major US law firm to investigate spying claims; UK chancellor ‘dismayed’ by budget leak – as it happened",
         "url": "https://www.theguardian.com/business/live/2026/nov/11/nvidia-spy-allegations-us-law-firm-hired-investigation-stock-markets-pound-dollar-ftse-nasdaq-latest-news-updates",
         "description": "Rolling coverage of the latest economic and financial newsAfter two days of losses, Nvidia’s stock is expected to recover some lost ground today.Nvidia’s shares are up almost 5% in premarket tradin...",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Democrats’ US election sweep brings the price of their promised social contract into focus",
-        "url": "https://www.theguardian.com/business/2026/nov/11/democrats-election-medicaid-costs",
-        "description": "‘The post-election wish list is about to run into harsh fiscal reality: there is no money’Is this an opportunity for a new America? As the Reagan revolution four decades ago launched US society dow...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Bank of England’s inflation response ‘risks higher interest rates for longer’",
-        "url": "https://www.theguardian.com/business/2026/nov/11/bank-of-england-inflation-response-risks-higher-interest-rates-for-longer",
-        "description": "Thinktank Niesr says timid rate rise last week likely to make inflation more persistent feature of UK economyThe Bank of England is risking higher interest rates for longer after a hesitant respons...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-        "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+        "title": "Nvidia's CEO was the rock star of AI before his dramatic unravelling",
+        "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+        "description": "Within days, Huang's status as a seemingly untouchable figure leading the global AI race has crumbled.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -70,23 +70,23 @@
         "category": "nhs"
       },
       {
-        "title": "Disabled people in England ‘have to wait up to two years for wheelchairs’",
-        "url": "https://www.theguardian.com/society/2026/nov/11/disabled-people-in-england-have-to-wait-up-to-two-years-for-wheelchairs",
-        "description": "Ombudsman’s report says delays have profound consequences and limit users’ ability to lead independent livesDisabled people are having to wait up to two years to get a wheelchair because of delays ...",
+        "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+        "description": "The mayor of London is the most high-profile figure to weigh into the debate over electric vehicle targetsOn the Today programme this morning, the Labour MP Bell Ribeiro-Addy, a prominent leftwinge...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Revealed: Palantir lobbied minister to stretch AI tools’ reach to NHS GP records",
-        "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records",
-        "description": "Exclusive: WhatsApp messages show firm pressuring Zubir Ahmed MP to help bring sensitive data into its platformPalantir lobbied a health minister to consider extending its AI technology into GP rec...",
+        "title": "NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools",
+        "url": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools",
+        "description": "Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data techNHS England has deleted a claim from its website stating 137 hospital trusts are bene...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Senior doctors call off two-day strike planned this month",
-        "url": "https://www.bbc.co.uk/news/articles/c6174gw2ewpgo?at_medium=RSS&at_campaign=rss",
-        "description": "Consultants in England were due to walk out on 25 November in disputes over pay and working conditions.",
+        "title": "Sunbed firms must not downplay cancer risk, says watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o?at_medium=RSS&at_campaign=rss",
+        "description": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,53 +116,53 @@
     ],
     "climate": [
       {
+        "title": "Trump the ‘biggest loser’ for scrapping climate action, John Kerry says at Cop31",
+        "url": "https://www.theguardian.com/environment/2026/nov/12/trump-loser-john-kerry-cop31",
+        "description": "Kerry decries president for ceding clean-energy dominance to China and says climate crisis still a key issue for votersDonald Trump is the “biggest loser we’ve seen in a long time” for scrapping ac...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "World heading for ‘irrevocable overshoot’ of global temperature thresholds, analysis warns",
+        "url": "https://www.theguardian.com/environment/2026/nov/12/world-heading-for-irrevocable-overshoot-of-global-temperature-thresholds-analysis-warns",
+        "description": "Failure to cut emissions will ‘consign humanity to disasters they are unable to adapt to’, report saysThe world is heading for an “irrecoverable overshoot” of global temperature thresholds that wil...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "UK appoints world’s first special representative for climate security",
         "url": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
-        "description": "Exclusive: Madeleine Alessandri, chair of the joint intelligence committee, will take on the role of advising No 10 on climate-related national security risksThe UK government has appointed the wor...",
+        "description": "Exclusive: Madeleine Alessandri, former chair of joint intelligence committee, will take on role of advising No 10 on climate-related national security risksThe UK government has appointed the worl...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
-        "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
-        "description": "Marshall Islands president warns of worsening floods as UN chief calls for a windfall tax on oil and gas firmsFailure to provide an overwhelming response to the climate crisis means “the world we k...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Cop31 as it happened: ‘Fossil fuels must go the way of the dinosaurs’ - UN chief hits out at industry lobbying",
-        "url": "https://www.theguardian.com/environment/live/2026/nov/11/climate-crisis-talks-turkey-latest-news-updates",
-        "description": "Third day of UN talks begin but leaders of many big polluting nations absentAfter a couple of hosts provide us a bit of background on Antalya (founded in 200BC, apparently) it is time to hear from ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "'Summer was a wake-up call, winter could be dire' warning over food supplies",
-        "url": "https://www.bbc.co.uk/news/articles/cmkgev3ldl9ro?at_medium=RSS&at_campaign=rss",
-        "description": "Wales needs to grow more fruit and veg or it will be at the mercy of wars and climate change, says expert.",
+        "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
+        "url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
+        "description": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Time running out for young people to receive meningitis B vaccines in UK",
+        "url": "https://www.theguardian.com/society/2026/nov/12/time-running-out-young-people-meningitis-b-vaccines-uk",
+        "description": "Just 28.2% of 18- and 19-year-olds have received their first dose in one-off campaign, UKHSA saysThe clock is ticking for young people in the UK to receive vaccinations to protect against meningiti...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "How angry parents helped flip Texas: choosing real education over culture wars",
+        "url": "https://www.theguardian.com/us-news/2026/nov/12/texas-flip-blue-parents-culture-wars",
+        "description": "Displaying Ten Commandments in class, whitewashing history and study of Bible verses drove many to vote blueMichelle Palmer has run for the Texas state board of education twice before, but this tim...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Hoax bomb threats made to schools in Scotland, Northern Ireland and Italy",
         "url": "https://www.theguardian.com/education/2026/nov/11/bomb-threats-hoax-schools-scotland-northern-ireland",
         "description": "Police assure parents and teachers there is no danger as thousands of schools in Italy and hundreds in the UK affectedHundreds of schools in Scotland and Northern Ireland were hit by a fresh wave o...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "AI has made it ‘close to impossible’ to assess university coursework, regulator says",
-        "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
-        "description": "Office for Students says institutions in England should return to traditional exams and in-person presentations Universities should go back to traditional exams and in-person presentations to grade...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Headteachers consider leaving jobs earlier than planned after new Ofsted inspection",
-        "url": "https://www.theguardian.com/education/2026/nov/10/headteachers-consider-leaving-job-earlier-than-planned-new-ofsted-inspection",
-        "description": "Almost two-thirds of school leaders polled say new regime is much more intense than previous frameworkMore than half of headteachers in England who were polled after their schools were inspected un...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-        "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+        "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+        "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+        "description": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Democrat Scott Colom wins Mississippi Senate race in surprise victory for party",
+        "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
         "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-        "description": "Colom's victory makes him the first black person from Mississippi to be elected to the US Senate in more than 140 years.",
+        "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-        "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-        "description": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+        "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+        "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+        "description": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
         "source": "BBC News",
         "category": "foreign_policy"
       }
