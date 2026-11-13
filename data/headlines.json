@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-11-13T13:57:28.403299+00:00",
+  "fetched_at": "2026-11-13T23:15:43.116694+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Row breaks out between Tories and Reform at Piddington news conference – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
-        "description": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and camerasEarlier today, Downing Street said the government was seeking to establish “the full picture” of Mic...",
+        "title": "Andy Burnham urges Labour to ‘rearm’ for Kemi Badenoch comeback",
+        "url": "https://www.theguardian.com/politics/2026/nov/13/andy-burnham-urges-labour-to-re-arm-for-kemi-badenoch-comeback",
+        "description": "No 10 sources say PM wants party to refocus on Tories as electoral threat after prioritising Reform and GreensAndy Burnham has instructed the Labour party to “rearm” to fight the Conservatives at t...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Oxfordshire villagers to launch legal fight against asylum centre plan",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
-        "description": "Parish council of Piddington, which symbolically voted to leave UK over plan, says it will ‘absolutely’ take legal actionUK politics – live updatesMinisters will face a legal challenge over plans t...",
+        "title": "Labour chief whip tells Vogue she takes tough approach to keeping MPs in line",
+        "url": "https://www.theguardian.com/politics/2026/nov/13/labour-chief-whip-tough-approach-vogue-interview-mps-in-line-anneliese-midgley",
+        "description": "Anneliese Midgley surprises colleagues after Burnham said whips’ office should not be ‘something to be feared’If Andy Burnham has been accused of being a people pleaser by his critics, the same mos...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
-        "description": "Home Office sign-off also needed for site that would house 1,200 asylum seekers near Oxfordshire village that voted to leave UKThe communities secretary, Angela Rayner, has approved full planning p...",
+        "title": "No 10 considering expanding under-25s benefits overhaul to older age groups",
+        "url": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups",
+        "description": "Exclusive: Plans to replace key disability benefits for young people with work and training could affect adultsDowning Street is considering whether plans to replace key disability benefits with wo...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Firm offers to fake artworks for wealthy migrants seeking UK 'talent' visas - BBC investigation",
-        "url": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss",
-        "description": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.",
+        "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
+        "url": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss",
+        "description": "Reform's Zia Yusuf and Tory Chris Philp were speaking against converting a former military site into asylum accommodation.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
+        "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+        "description": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year highUS existing home sales hit a 16-year low in October as buyers were driven aw...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "UK-EU deal will ‘dissolve’ £60m a year of costs for plant trade, says Angela Eagle",
+        "url": "https://www.theguardian.com/business/2026/nov/13/uk-eu-deal-plant-trade-angela-eagle",
+        "description": "Signing of agreement to smooth movement of food, plants and animals next week will not recoup huge sums firms were forced to spendThe removal of border checks and paperwork on plant imports will “d...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "World is now in ‘age of electricity’, energy agency chief says",
         "url": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
@@ -40,62 +54,55 @@
         "category": "economy"
       },
       {
-        "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
-        "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
-        "description": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year highUS existing home sales hit a 16-year low in October as buyers were driven aw...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "AI helped UK defy expectations – but will economy’s resilience fizzle out?",
-        "url": "https://www.theguardian.com/business/2026/nov/12/ai-uk-economy-john-healey",
-        "description": "Despite John Healey’s defiance, the economy faces threats from a tech slowdown and energy bills this winterAI helps UK economy grow at fastest pace for more than two yearsThe forecasters were clear...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "What we know about the global Microsoft outage",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-        "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
+        "title": "How Microsoft outage has affected key public services in the UK",
+        "url": "https://www.theguardian.com/technology/2026/nov/13/how-microsoft-outage-has-affected-key-public-services-in-the-uk",
+        "description": "Hospitals, GPs, police forces and property agents have had to find a workaround for Microsoft packagesHospitals, GPs, police forces and property agents across the UK have been hit by the global Mic...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
         "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
-        "description": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptionsMicrosoft outage – live updatesHospitals, GPs and police forces across the UK h...",
+        "description": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptionsMicrosoft outage – live updatesVital UK services have been hit by a global Micr...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
-        "description": "This blog is now closedOn the Today programme this morning, the Labour MP Bell Ribeiro-Addy, a prominent leftwinger, indicated she might vote against legislation to implement the Alan Milburn propo...",
+        "title": "The folly of just-in-time supply chains | Letters",
+        "url": "https://www.theguardian.com/society/2026/nov/13/the-folly-of-just-in-time-supply-chains",
+        "description": "Hannah Walker says systems designed to minimise expenditure in the name of efficiency can end up less capable of fulfilling their actual purposeThe article by Steven Strogatz and Alex Townsend on t...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "NHS England deletes ‘misleading’ claim 137 trusts benefiting from Palantir AI tools",
-        "url": "https://www.theguardian.com/technology/2026/nov/12/nhs-england-deletes-misleading-claim-137-trusts-benefiting-from-palantir-ai-tools",
-        "description": "Exclusive: The Guardian revealed 29 hospital trusts were not or hardly using the controversial patient data techNHS England has deleted a claim from its website stating 137 hospital trusts are bene...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+        "title": "NHS, schools and police forces hit by Microsoft outage",
         "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
-        "description": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
+        "description": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
-        "title": "Oxfordshire villagers to launch legal fight against asylum centre plan",
+        "title": "Tories and Reform clash over migration as asylum centre is approved",
         "url": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
-        "description": "Parish council of Piddington, which symbolically voted to leave UK over plan, says it will ‘absolutely’ take legal actionUK politics – live updatesMinisters will face a legal challenge over plans t...",
+        "description": "Chris Philp and Zia Yusuf trade barbs in Oxfordshire village planning legal action to block conversion of military baseSenior Tory and Reform politicians have clashed over immigration policy in the...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "'You're in a hole, stop digging': Tory and Reform politicians clash over asylum centre – video",
+        "url": "https://www.theguardian.com/politics/video/2026/nov/13/tory-reform-politicians-clash-over-asylum-centre-video-piddington",
+        "description": "A news conference in Piddington in Oxfordshire has descended into a shouting match between Reform’s Zia Yusuf and the Conservatives' Chris Philp. The two men, who are both home affairs spokespeople...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -105,18 +112,18 @@
         "description": "Home Office sign-off also needed for site that would house 1,200 asylum seekers near Oxfordshire village that voted to leave UKThe communities secretary, Angela Rayner, has approved full planning p...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "‘Win-win’ deal with EU could be done, Andy Burnham says",
-        "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
-        "description": "Prime minister says reset could be a deal ‘like the Brexit people thought they were voting for in 2016’ Andy Burnham has said he believes a “win-win” deal could be done with the EU that could be “m...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Cop31 live: ‘I will never give up’ UN chief tells climate summit ahead of last address",
+        "title": "‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech",
+        "url": "https://www.theguardian.com/environment/2026/nov/13/cop31-antonio-guterres-united-nations-climate-action",
+        "description": "António Guterres says climate action central to every aspect of UN’s work, as leaders depart Cop31 and talks go onTackling the climate crisis is central to all of human life and must be at the fore...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Cop31 as it happened: ‘You cannot build peace on a burning planet’, warns UN chief Guterres in final climate summit speech",
         "url": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
         "description": "Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summitFar away from the conference centre, Norway’...",
         "source": "The Guardian",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "El Niño will increase risk of death in childbirth for millions, say midwives",
-        "url": "https://www.theguardian.com/global-development/2026/nov/13/el-nino-death-in-childbirth-millions-midwives-cop31-extreme-weather-maternal-newborn-death-rates",
-        "description": "Effects of extreme weather expected in countries that already have high maternal and newborn death ratesEl Niño stokes a higher risk of death in childbirth for millions of women in the world’s hars...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Summer heatwave put bin crews lives at risk, says council worker",
-        "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
-        "description": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
+        "title": "SpaceX to attempt double catch of huge Starship rocket",
+        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+        "description": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -148,7 +148,7 @@
       {
         "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
         "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
-        "description": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptionsMicrosoft outage – live updatesHospitals, GPs and police forces across the UK h...",
+        "description": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptionsMicrosoft outage – live updatesVital UK services have been hit by a global Micr...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -192,9 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "What we know about the global Microsoft outage",
+        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
         "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-        "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+        "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -202,13 +209,6 @@
         "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
         "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
         "description": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-        "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
