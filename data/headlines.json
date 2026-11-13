@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-11-13T05:10:47.119312+00:00",
+  "fetched_at": "2026-11-13T13:57:28.403299+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Row breaks out between Tories and Reform at Piddington news conference – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+        "description": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and camerasEarlier today, Downing Street said the government was seeking to establish “the full picture” of Mic...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Oxfordshire villagers to launch legal fight against asylum centre plan",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
+        "description": "Parish council of Piddington, which symbolically voted to leave UK over plan, says it will ‘absolutely’ take legal actionUK politics – live updatesMinisters will face a legal challenge over plans t...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
         "url": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
@@ -10,30 +24,16 @@
         "category": "government"
       },
       {
-        "title": "‘Win-win’ deal with EU could be done, Andy Burnham says",
-        "url": "https://www.theguardian.com/politics/2026/nov/12/win-win-deal-with-eu-could-be-done-andy-burmham-says",
-        "description": "Prime minister says reset could be a deal ‘like the Brexit people thought they were voting for in 2016’ Andy Burnham has said he believes a “win-win” deal could be done with the EU that could be “m...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
-        "description": "This blog is now closedOn the Today programme this morning, the Labour MP Bell Ribeiro-Addy, a prominent leftwinger, indicated she might vote against legislation to implement the Alan Milburn propo...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Some under-25s should get fewer benefits, Milburn review to say",
-        "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-        "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+        "title": "Firm offers to fake artworks for wealthy migrants seeking UK 'talent' visas - BBC investigation",
+        "url": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss",
+        "description": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "World is now in ‘age of electricity’, energy agency chief says at Cop31",
+        "title": "World is now in ‘age of electricity’, energy agency chief says",
         "url": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
         "description": "Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledgeThe world has left behind the age of coal, oil and gas and is now firmly in “the...",
         "source": "The Guardian",
@@ -54,14 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
-        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-        "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+        "title": "What we know about the global Microsoft outage",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+        "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
+        "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
+        "description": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptionsMicrosoft outage – live updatesHospitals, GPs and police forces across the UK h...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Sadiq Khan joins Labour figures urging PM not to water down electric vehicle targets – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
@@ -77,21 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "Consultant doctors in England call off two-day pay strike",
-        "url": "https://www.theguardian.com/society/2026/nov/11/consultant-doctors-in-england-call-off-nhs-strike",
-        "description": "Action on 25 and 26 November suspended to allow for formal negotations with the governmentSenior hospital doctors in England have called off the 48-hour strike they intended to hold later this mont...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
-        "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
-        "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+        "title": "GPs, police and pharmacies among UK services affected by Microsoft outage",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+        "description": "Major airports and intelligence services are unaffected while the government is assessing the impact on its services.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Oxfordshire villagers to launch legal fight against asylum centre plan",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
+        "description": "Parish council of Piddington, which symbolically voted to leave UK over plan, says it will ‘absolutely’ take legal actionUK politics – live updatesMinisters will face a legal challenge over plans t...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
         "url": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
@@ -105,64 +112,57 @@
         "description": "Prime minister says reset could be a deal ‘like the Brexit people thought they were voting for in 2016’ Andy Burnham has said he believes a “win-win” deal could be done with the EU that could be “m...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Asylum law changes are causing refugee families like mine terrible worry | Letter",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/11/asylum-law-changes-are-causing-refugee-families-like-mine-terrible-worry",
-        "description": "A reader highlights how the government’s immigration changes are affecting those who have been granted asylum and wish to apply for indefinite leave to remainI am writing as a refugee who has lived...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "World is now in ‘age of electricity’, energy agency chief says at Cop31",
-        "url": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
-        "description": "Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledgeThe world has left behind the age of coal, oil and gas and is now firmly in “the...",
+        "title": "Cop31 live: ‘I will never give up’ UN chief tells climate summit ahead of last address",
+        "url": "https://www.theguardian.com/environment/live/2026/nov/13/cop31-climate-crisis-talks-turkey-latest-news-updates",
+        "description": "Debate over climate science, transition away from fossil fuels, electrification and climate finance can begin in earnest as world leaders leave UN summitFar away from the conference centre, Norway’...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "‘I spend less, that’s all that matters’: life in the world’s most electrified countries",
-        "url": "https://www.theguardian.com/environment/2026/nov/13/i-spend-less-thats-all-that-matters-life-in-the-worlds-most-electrified-countries",
-        "description": "Owning an electric car, driving an electric motorbike taxi, riding scooters – we speak to people in Oslo, Kigali and Shanghai about their everyday routinesThe race to electrification has emerged as...",
+        "title": "More than 100 companies and groups linked to fossil fuels represented at Cop31, study says",
+        "url": "https://www.theguardian.com/environment/2026/nov/13/cop31-companies-and-groups-linked-to-fossil-fuels-delegations",
+        "description": "Delegations outnumber those of some countries most vulnerable to climate impacts, such as Nepal, which suffered glacier collapseCop31 live – latest updatesMore than 100 corporations and industry gr...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
-        "url": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
-        "description": "Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster Dozens of protesters with the Sunrise Movement, a youth climate organization, were ...",
+        "title": "El Niño will increase risk of death in childbirth for millions, say midwives",
+        "url": "https://www.theguardian.com/global-development/2026/nov/13/el-nino-death-in-childbirth-millions-midwives-cop31-extreme-weather-maternal-newborn-death-rates",
+        "description": "Effects of extreme weather expected in countries that already have high maternal and newborn death ratesEl Niño stokes a higher risk of death in childbirth for millions of women in the world’s hars...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Flood victim, 95, lived in Wetherspoons after her home was destroyed and died before she could return",
-        "url": "https://www.bbc.co.uk/news/articles/cqe8r8ngjepjo?at_medium=RSS&at_campaign=rss",
-        "description": "Jean Powell kept asking when she could go back to her flat, which was flooded when the River Monnow burst its banks.",
+        "title": "Summer heatwave put bin crews lives at risk, says council worker",
+        "url": "https://www.bbc.co.uk/news/articles/cj1dv5q21wdxo?at_medium=RSS&at_campaign=rss",
+        "description": "Crews faced a \"perfect storm\" of challenges during the UK's record-breaking weather, it's claimed.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
+        "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
+        "description": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptionsMicrosoft outage – live updatesHospitals, GPs and police forces across the UK h...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "US university students tell surveillance cameras to Flock off",
+        "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
+        "description": "The privacy issues over the company’s surveillance cameras have caused protests in schools all over the countryAngela Nguyen, a senior at Stanford University, has been on a mission to make sure her...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "How angry parents helped flip Texas: ‘People don’t like for their kids to be messed with’",
         "url": "https://www.theguardian.com/us-news/2026/nov/12/texas-flip-blue-parents-culture-wars",
         "description": "Displaying Ten Commandments in class, whitewashing history and study of Bible verses drove many to vote blueMichelle Palmer has run for the Texas state board of education twice before, but this tim...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Time running out for young people to receive meningitis B vaccines in UK",
-        "url": "https://www.theguardian.com/society/2026/nov/12/time-running-out-young-people-meningitis-b-vaccines-uk",
-        "description": "Just 28% of 18- and 19-year-olds have received their first dose in one-off campaign, UKHSA saysThe clock is ticking for young people in the UK to receive vaccinations to protect against meningitis ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Hoax bomb threats made to schools in Scotland, Northern Ireland and Italy",
-        "url": "https://www.theguardian.com/education/2026/nov/11/bomb-threats-hoax-schools-scotland-northern-ireland",
-        "description": "Police assure parents and teachers there is no danger as thousands of schools in Italy and hundreds in the UK affectedHundreds of schools in Scotland and Northern Ireland were hit by a fresh wave o...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
+        "title": "What we know about the global Microsoft outage",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+        "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+        "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+        "description": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
         "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
         "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
-        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
-        "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
-        "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
-        "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
