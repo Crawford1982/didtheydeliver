@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T23:13:50.506922+00:00",
+  "fetched_at": "2026-11-13T05:10:47.119312+00:00",
   "headlines": {
     "government": [
       {
@@ -33,6 +33,13 @@
     ],
     "economy": [
       {
+        "title": "World is now in ‘age of electricity’, energy agency chief says at Cop31",
+        "url": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
+        "description": "Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledgeThe world has left behind the age of coal, oil and gas and is now firmly in “the...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
         "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
         "description": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year highUS existing home sales hit a 16-year low in October as buyers were driven aw...",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "AI helps UK economy grow at fastest pace for more than two years",
-        "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
-        "description": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil pricesAI helped the UK defy expectations – but will Britain’s resilience fizzle out?The UK econ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-        "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-        "description": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+        "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Sunbed firms must not downplay cancer risk, says watchdog",
-        "url": "https://www.bbc.co.uk/news/articles/c98r7xyjx8g4o?at_medium=RSS&at_campaign=rss",
-        "description": "The advertising watchdog says they also must not make misleading claims that sunbeds can treat skin conditions or improve mental health.",
+        "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+        "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+        "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
+        "title": "World is now in ‘age of electricity’, energy agency chief says at Cop31",
+        "url": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
+        "description": "Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledgeThe world has left behind the age of coal, oil and gas and is now firmly in “the...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "‘I spend less, that’s all that matters’: life in the world’s most electrified countries",
+        "url": "https://www.theguardian.com/environment/2026/nov/13/i-spend-less-thats-all-that-matters-life-in-the-worlds-most-electrified-countries",
+        "description": "Owning an electric car, driving an electric motorbike taxi, riding scooters – we speak to people in Oslo, Kigali and Shanghai about their everyday routinesThe race to electrification has emerged as...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
         "url": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
         "description": "Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster Dozens of protesters with the Sunrise Movement, a youth climate organization, were ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "China rules out hosting Cop33 climate summit in 2028",
-        "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
-        "description": "Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis China has ruled out hosting the Cop33 UN climate summit in 2028 after months of deliberations, ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "UK ministers have no plans to publish explosive report on climate crisis",
-        "url": "https://www.theguardian.com/environment/2026/nov/12/uk-ministers-no-plans-publish-climate-crisis-report",
-        "description": "Andy Burnham’s newly appointed climate adviser used report to warn of national security risk from collapsing ecosystemsThe UK government still has no plans to publish an explosive report showing th...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "As housing protests sweep Portugal, police and politicians here seem bent on making the crisis worse | Ana Naomi de Sousa",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/13/housing-protests-portugal-police-politicians-crisis-renters",
+        "description": "While Spain, Germany and the UK have all introduced laws protecting renters’ rights, Luís Montenegro’s centre-right government is empowering landlordsAs Storm Charles reached Portugal’s shores this...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
         "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
         "description": "Twenty-four-hour stoppage draws high participation weeks before election in which far right could gain powerMillions of people across Spain have joined the country’s first general strike in 14 year...",
@@ -181,34 +188,27 @@
         "description": "We’d like to hear from private renters about rising costs, finding somewhere to live and dealing with landlordsPrivate renters are facing steep rent rises and a shortage of affordable properties, w...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "The thermostat wars tearing couples apart: ‘It’s hard to feel sexy when you’re freezing cold’",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/nov/11/the-thermostat-wars-tearing-couples-apart-its-hard-to-feel-sexy-when-youre-freezing-cold",
-        "description": "Almost two-thirds of bedfellows disagree about the perfect room temperature – and the issue can affect office workers and housemates too. It oftens lead to subterfuge and skulduggery. So is there a...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-        "description": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+        "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "description": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-        "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
-        "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+        "description": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-        "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
-        "description": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+        "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+        "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+        "description": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
