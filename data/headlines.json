@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T23:15:43.116694+00:00",
+  "fetched_at": "2026-11-14T04:59:49.614792+00:00",
   "headlines": {
     "government": [
       {
@@ -54,7 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
         "source": "BBC News",
@@ -72,7 +72,7 @@
       {
         "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
         "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
-        "description": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptionsMicrosoft outage – live updatesVital UK services have been hit by a global Micr...",
+        "description": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptionsVital UK services have been hit by a global Microsoft outage that left hospital...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -81,13 +81,6 @@
         "url": "https://www.theguardian.com/society/2026/nov/13/the-folly-of-just-in-time-supply-chains",
         "description": "Hannah Walker says systems designed to minimise expenditure in the name of efficiency can end up less capable of fulfilling their actual purposeThe article by Steven Strogatz and Alex Townsend on t...",
         "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "NHS, schools and police forces hit by Microsoft outage",
-        "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
-        "description": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
-        "source": "BBC News",
         "category": "nhs"
       }
     ],
@@ -137,9 +130,9 @@
         "category": "climate"
       },
       {
-        "title": "SpaceX to attempt double catch of huge Starship rocket",
-        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-        "description": "Elon Musk’s company will try to grab both parts of the rocket for the first time.",
+        "title": "Bluetongue virus confirmed on County Down farm",
+        "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
+        "description": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -148,7 +141,7 @@
       {
         "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
         "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
-        "description": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptionsMicrosoft outage – live updatesVital UK services have been hit by a global Micr...",
+        "description": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptionsVital UK services have been hit by a global Microsoft outage that left hospital...",
         "source": "The Guardian",
         "category": "education"
       },
@@ -192,7 +185,14 @@
     ],
     "foreign_policy": [
       {
-        "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+        "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+        "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
         "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
         "source": "BBC News",
@@ -202,13 +202,6 @@
         "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
         "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
         "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
-        "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
-        "description": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
