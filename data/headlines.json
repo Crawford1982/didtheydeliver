@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-11-14T04:59:49.614792+00:00",
+  "fetched_at": "2026-11-14T12:59:01.452977+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
+        "description": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham KingAsylum seekers accommodated at a controversial military base in East...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK tells blind Nigerian pensioner to go to India for medical treatment",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
+        "description": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rulesA blind Nigerian pensioner who has lived in the UK for 26 years has been told by th...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Andy Burnham urges Labour to ‘rearm’ for Kemi Badenoch comeback",
         "url": "https://www.theguardian.com/politics/2026/nov/13/andy-burnham-urges-labour-to-re-arm-for-kemi-badenoch-comeback",
@@ -10,28 +24,21 @@
         "category": "government"
       },
       {
-        "title": "Labour chief whip tells Vogue she takes tough approach to keeping MPs in line",
-        "url": "https://www.theguardian.com/politics/2026/nov/13/labour-chief-whip-tough-approach-vogue-interview-mps-in-line-anneliese-midgley",
-        "description": "Anneliese Midgley surprises colleagues after Burnham said whips’ office should not be ‘something to be feared’If Andy Burnham has been accused of being a people pleaser by his critics, the same mos...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "No 10 considering expanding under-25s benefits overhaul to older age groups",
-        "url": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups",
-        "description": "Exclusive: Plans to replace key disability benefits for young people with work and training could affect adultsDowning Street is considering whether plans to replace key disability benefits with wo...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Reform and Tory spokesmen in angry clash over immigration at Piddington",
-        "url": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss",
-        "description": "Reform's Zia Yusuf and Tory Chris Philp were speaking against converting a former military site into asylum accommodation.",
+        "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+        "description": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+        "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+        "description": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflationThe Bank of England will probably need to raise interest rates next month and again in...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
         "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
@@ -47,21 +54,21 @@
         "category": "economy"
       },
       {
-        "title": "World is now in ‘age of electricity’, energy agency chief says",
-        "url": "https://www.theguardian.com/environment/2026/nov/13/cop-31-electricity-energy-fossil-fuels-fatih-birol-iea",
-        "description": "Exclusive: Fossil fuels no longer dominant energy source, IEA leader says, as summit considers electrification pledgeThe world has left behind the age of coal, oil and gas and is now firmly in “the...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
+        "title": "Microsoft says services fully restored after day-long global outage",
         "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "Hundreds of children in England prescribed weight-loss jabs, figures show",
+        "url": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
+        "description": "Exclusive: investigation finds prescriptions for children under 12, as experts stress need for specialist supervision and long-term monitoringHundreds of children in England are receiving prescript...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "How Microsoft outage has affected key public services in the UK",
         "url": "https://www.theguardian.com/technology/2026/nov/13/how-microsoft-outage-has-affected-key-public-services-in-the-uk",
@@ -77,18 +84,25 @@
         "category": "nhs"
       },
       {
-        "title": "The folly of just-in-time supply chains | Letters",
-        "url": "https://www.theguardian.com/society/2026/nov/13/the-folly-of-just-in-time-supply-chains",
-        "description": "Hannah Walker says systems designed to minimise expenditure in the name of efficiency can end up less capable of fulfilling their actual purposeThe article by Steven Strogatz and Alex Townsend on t...",
-        "source": "The Guardian",
+        "title": "NHS, schools and police forces hit by Microsoft outage",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
+        "description": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
+        "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
-        "title": "Tories and Reform clash over migration as asylum centre is approved",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
-        "description": "Chris Philp and Zia Yusuf trade barbs in Oxfordshire village planning legal action to block conversion of military baseSenior Tory and Reform politicians have clashed over immigration policy in the...",
+        "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
+        "description": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham KingAsylum seekers accommodated at a controversial military base in East...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "UK tells blind Nigerian pensioner to go to India for medical treatment",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
+        "description": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rulesA blind Nigerian pensioner who has lived in the UK for 26 years has been told by th...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -96,13 +110,6 @@
         "title": "'You're in a hole, stop digging': Tory and Reform politicians clash over asylum centre – video",
         "url": "https://www.theguardian.com/politics/video/2026/nov/13/tory-reform-politicians-clash-over-asylum-centre-video-piddington",
         "description": "A news conference in Piddington in Oxfordshire has descended into a shouting match between Reform’s Zia Yusuf and the Conservatives' Chris Philp. The two men, who are both home affairs spokespeople...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Angela Rayner grants planning approval for asylum centre in Piddington despite local opposition",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/12/angela-rayner-grants-planning-approval-for-asylum-centre-in-piddington-despite-local-opposition",
-        "description": "Home Office sign-off also needed for site that would house 1,200 asylum seekers near Oxfordshire village that voted to leave UKThe communities secretary, Angela Rayner, has approved full planning p...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -130,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Bluetongue virus confirmed on County Down farm",
-        "url": "https://www.bbc.co.uk/news/articles/cmr4gxvrxd9yo?at_medium=RSS&at_campaign=rss",
-        "description": "Officials from the Department of Agriculture, Environment and Rural Affairs said the virus had been detected in three sheep.",
+        "title": "How to spot November's planetary parade in the pre-dawn sky",
+        "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+        "description": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "University hounded out of Hungary by Orbán reaches out to new government",
+        "url": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
+        "description": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary’s futureA university that Viktor Orbán tried to chase out of Hungary is open to expanding its pr...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
         "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
@@ -149,13 +163,6 @@
         "title": "US university students tell surveillance cameras to Flock off",
         "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
         "description": "The privacy issues over the company’s surveillance cameras have caused protests in schools all over the countryAngela Nguyen, a senior at Stanford University, has been on a mission to make sure her...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "How angry parents helped flip Texas: ‘People don’t like for their kids to be messed with’",
-        "url": "https://www.theguardian.com/us-news/2026/nov/12/texas-flip-blue-parents-culture-wars",
-        "description": "Displaying Ten Commandments in class, whitewashing history and study of Bible verses drove many to vote blueMichelle Palmer has run for the Texas state board of education twice before, but this tim...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -185,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
-        "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
-        "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+        "title": "What we know about the ground stop and what to do if you're affected",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+        "description": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "description": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-        "description": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+        "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+        "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+        "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
