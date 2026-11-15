@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-11-14T21:58:41.928134+00:00",
+  "fetched_at": "2026-11-15T04:53:56.230479+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "UK government to consider changing age of consent after allegations against Russell Brand",
+        "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+        "description": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
         "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
@@ -13,13 +20,6 @@
         "title": "UK tells blind Nigerian pensioner to go to India for medical treatment",
         "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
         "description": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rulesA blind Nigerian pensioner who has lived in the UK for 26 years has been told by th...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Andy Burnham urges Labour to ‘rearm’ for Kemi Badenoch comeback",
-        "url": "https://www.theguardian.com/politics/2026/nov/13/andy-burnham-urges-labour-to-re-arm-for-kemi-badenoch-comeback",
-        "description": "No 10 sources say PM wants party to refocus on Tories as electoral threat after prioritising Reform and GreensAndy Burnham has instructed the Labour party to “rearm” to fight the Conservatives at t...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Microsoft says services fully restored after day-long global outage",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-        "description": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+        "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+        "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
+        "description": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
+        "title": "SpaceX successfully catches top of huge Starship rocket for first time",
         "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-        "description": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+        "description": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
         "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
         "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "description": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Italy fines Meta €805m over accessing users' photos",
-        "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-        "description": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+        "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+        "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
+        "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
