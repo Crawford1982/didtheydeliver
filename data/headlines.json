@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-11-15T04:53:56.230479+00:00",
+  "fetched_at": "2026-11-15T13:27:37.071580+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK government to consider changing age of consent after allegations against Russell Brand",
-        "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
-        "description": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman ...",
+        "title": "‘No such thing as a free lunch,’ says Milburn as he warns it will take a decade for UK benefits bill to come down",
+        "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+        "description": "Author of major review into youth unemployment rejects ‘crude cuts’ to payments and downplays opposition to his proposals within LabourAlan Milburn has said “there is no such thing as a free lunch”...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
-        "description": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham KingAsylum seekers accommodated at a controversial military base in East...",
+        "title": "Trident nuclear submarine concludes record underwater deployment",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
+        "description": "HMS Vengeance’s seven-month patrol prompts concerns about slow pace of maintenance of ageing fleet and impact on crewA Trident nuclear submarine has concluded a record seven-month deployment, retur...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK tells blind Nigerian pensioner to go to India for medical treatment",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
-        "description": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rulesA blind Nigerian pensioner who has lived in the UK for 26 years has been told by th...",
+        "title": "Obama portrait artist draws Burnham for Big Issue cover to highlight rough sleeping vow",
+        "url": "https://www.theguardian.com/society/2026/nov/15/obama-portrait-artist-draws-burnham-big-issue-rough-sleeping-vow-shepard-fairey",
+        "description": "Exclusive: Shepard Fairey says image will hold PM accountable over promise to get people off the streetsThe “Hope” portrait of Barack Obama by the US street artist Shepard Fairey came to symbolise ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
-        "description": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits.",
+        "title": "Minister backs legal right to job support for young people",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+        "description": "The work and pensions secretary said the level of support currently on offer was too vague.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Christmas ‘dupes’: the cheaper gift versions proving a festive hit in the cost of living crisis",
+        "url": "https://www.theguardian.com/money/2026/nov/15/christmas-dupes-gift-aldi-candles-quince-cashmere-jumpers-price",
+        "description": "From Aldi candles to Quince’s cashmere jumpers, cut-price versions of high-end sellers have gone mainstream. But is it fair?For fans of the festive season nothing is more Christmassy than lighting ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
+        "url": "https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
+        "description": "This week’s long-awaited review will call for benefit cuts but lack of entry-level jobs is also driving the crisis‘I’m scared about my future’: young people on the stress and desperation of jobseek...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
         "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
@@ -40,21 +54,7 @@
         "category": "economy"
       },
       {
-        "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
-        "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
-        "description": "‘We have further to go,’ says Huw Pill after increase to 4% this month as Bank seeks to tackle rising inflationThe Bank of England will probably need to raise interest rates next month and again in...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
-        "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
-        "description": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year highUS existing home sales hit a 16-year low in October as buyers were driven aw...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+        "title": "Beauty advent calendars can cost hundreds but are they value for money?",
         "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
         "description": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
         "source": "BBC News",
@@ -93,23 +93,23 @@
     ],
     "immigration": [
       {
+        "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
+        "description": "Thames Water says detainees at proposed accommodation should expect to experience insect swarms and strong smellsA Home Office plan to build asylum seeker detention facilities next to a sewage pump...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "‘Like many men of his generation, he tends to push his feelings down from his heart to his toes’: Meera Sodha on her father’s homecoming",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/meera-sodha-father-homecoming-uganda",
+        "description": "After a childhood of grief, hardship and hunger, the Guardian food writer’s father Raj always resisted going back to Uganda. What happened when he finally agreed to accompany her on a bittersweet j...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
         "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
         "description": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham KingAsylum seekers accommodated at a controversial military base in East...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "UK tells blind Nigerian pensioner to go to India for medical treatment",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-tells-blind-nigerian-pensioner-to-go-home-to-india",
-        "description": "Woman who has lived in UK for 26 years refused indefinite leave to remain under Home Office’s new settlement rulesA blind Nigerian pensioner who has lived in the UK for 26 years has been told by th...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "'You're in a hole, stop digging': Tory and Reform politicians clash over asylum centre – video",
-        "url": "https://www.theguardian.com/politics/video/2026/nov/13/tory-reform-politicians-clash-over-asylum-centre-video-piddington",
-        "description": "A news conference in Piddington in Oxfordshire has descended into a shouting match between Reform’s Zia Yusuf and the Conservatives' Chris Philp. The two men, who are both home affairs spokespeople...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,9 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "SpaceX successfully catches top of huge Starship rocket for first time",
-        "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-        "description": "The rocket stage was caught mid air using huge mechanical arms nicknamed “chopsticks”.",
+        "title": "How to spot November's planetary parade in the pre-dawn sky",
+        "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
+        "description": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,46 +169,46 @@
     ],
     "housing": [
       {
-        "title": "As housing protests sweep Portugal, police and politicians here seem bent on making the crisis worse | Ana Naomi de Sousa",
-        "url": "https://www.theguardian.com/commentisfree/2026/nov/13/housing-protests-portugal-police-politicians-crisis-renters",
-        "description": "While Spain, Germany and the UK have all introduced laws protecting renters’ rights, Luís Montenegro’s centre-right government is empowering landlordsAs Storm Charles reached Portugal’s shores this...",
+        "title": "‘Nobody else is going to save us’: the direct action group taking on the UK’s banks, bailiffs and water firms",
+        "url": "https://www.theguardian.com/business/2026/nov/15/acorn-union-direct-action-uk-banks-bailiffs-water-firms",
+        "description": "Community union Acorn is helping people fight unfair bills, AI decision-making and housing injustices as cost of living crisis deepensYasmin didn’t expect to find herself sitting across a negotiati...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Millions join Spain’s first general strike in 14 years in protest at housing costs",
-        "url": "https://www.theguardian.com/world/2026/nov/11/spain-general-strike-housing-costs",
-        "description": "Twenty-four-hour stoppage draws high participation weeks before election in which far right could gain powerMillions of people across Spain have joined the country’s first general strike in 14 year...",
+        "title": "Obama portrait artist draws Burnham for Big Issue cover to highlight rough sleeping vow",
+        "url": "https://www.theguardian.com/society/2026/nov/15/obama-portrait-artist-draws-burnham-big-issue-rough-sleeping-vow-shepard-fairey",
+        "description": "Exclusive: Shepard Fairey says image will hold PM accountable over promise to get people off the streetsThe “Hope” portrait of Barack Obama by the US street artist Shepard Fairey came to symbolise ...",
         "source": "The Guardian",
         "category": "housing"
       },
       {
-        "title": "Private renters in the UK: how difficult is the rental market where you live?",
-        "url": "https://www.theguardian.com/money/2026/nov/11/private-renters-in-the-uk-how-difficult-is-the-rental-market-where-you-live",
-        "description": "We’d like to hear from private renters about rising costs, finding somewhere to live and dealing with landlordsPrivate renters are facing steep rent rises and a shortage of affordable properties, w...",
+        "title": "Is Burnham’s plan for a housing revolution anything more than a pipedream? | John Harris",
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/15/burnham-housing-crisis-revolution-pipedream-children-hope",
+        "description": "Nearly 2 million children are housed in dire conditions, anxious families are living out of carrier bags. There’s little sign of the hope our PM promisedTwo days after the Christmas of 2024, Andy B...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+        "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+        "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+        "description": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-        "description": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+        "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
+        "url": "https://www.bbc.co.uk/news/articles/c3rrg9xgqlwpo?at_medium=RSS&at_campaign=rss",
+        "description": "The attack on funeral at a Greek Orthodox church killed nine and injured 34 others last month.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
-        "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
-        "description": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+        "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+        "description": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
