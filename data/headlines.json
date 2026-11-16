@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-11-15T22:29:08.488836+00:00",
+  "fetched_at": "2026-11-16T04:50:19.496232+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
+        "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+        "description": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s young people is p...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Trident nuclear submarine concludes record underwater deployment",
         "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
@@ -13,13 +20,6 @@
         "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
         "url": "https://www.theguardian.com/business/2026/nov/15/rosebank-oilfield-mps-rebellion",
         "description": "Total of 75 have already signed letter to Burnham opposing plans as discontent also grows over Europe and welfare changesAs many as 100 Labour MPs could sign a letter opposing the giant Rosebank oi...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
-        "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
-        "description": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefitsAndy Burnham: The crisis facing Britain’s young people is po...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Tories pledge to halt screen-based school exams and cut coursework",
-        "url": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
-        "description": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI.",
+        "title": "Cancer 'sponge' tests could be offered to more people with bad indigestion",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss",
+        "description": "The \"sponge on a string\" tests can be done in GP surgeries, rather than hospitals, unlike endoscopy checks that use a small camera.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -199,16 +199,16 @@
         "category": "foreign_policy"
       },
       {
-        "title": "South Korea's top scorer in tax accountancy exam admits cheating",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o?at_medium=RSS&at_campaign=rss",
-        "description": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+        "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+        "description": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-        "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_medium=RSS&at_campaign=rss",
-        "description": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+        "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
