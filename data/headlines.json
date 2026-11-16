@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-11-16T04:50:19.496232+00:00",
+  "fetched_at": "2026-11-16T14:50:14.431758+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
-        "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
-        "description": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s young people is p...",
+        "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+        "description": "Brand’s wife Laura read out a message from him on their YouTube showAfter education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timin...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Trident nuclear submarine concludes record underwater deployment",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
-        "description": "HMS Vengeance’s seven-month patrol prompts fears over slow pace of maintenance of ageing fleet and strain on crewA Trident nuclear submarine has concluded a record seven-month deployment, returning...",
+        "title": "Under-threat lidos get lifeline as Andy Burnham sets up fund to rebuild pools",
+        "url": "https://www.theguardian.com/lifeandstyle/2026/nov/16/lidos-lifeline-andy-burnham-fund-rebuild-outdoor-pools",
+        "description": "Move reflects growing demand for outdoor swimming as Britain heats up and follows campaign by MPsAndy Burnham is setting up a public fund to rebuild the UK’s lidos after a revival in outdoor swimmi...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
-        "url": "https://www.theguardian.com/business/2026/nov/15/rosebank-oilfield-mps-rebellion",
-        "description": "Total of 75 have already signed letter to Burnham opposing plans as discontent also grows over Europe and welfare changesAs many as 100 Labour MPs could sign a letter opposing the giant Rosebank oi...",
+        "title": "Share your thoughts on Andy Burnham’s plan for a new EU deal",
+        "url": "https://www.theguardian.com/politics/2026/nov/16/brexit-share-your-thoughts-on-andy-burnhams-plan-for-a-new-eu-deal",
+        "description": "We would like to hear your thoughts on the reopening of the Brexit debateAndy Burnham has announced that he will sign a new deal with the EU, arguing the UK has “lost more than we gained” since Bre...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-        "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+        "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+        "url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister will say the \"Brexit we were given has not worked\" in a speech on Monday.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Trump says he wouldn’t mind Jensen Huang being reinstated as Nvidia CEO, as its shares fall again – business live",
+        "url": "https://www.theguardian.com/business/live/2026/nov/16/ai-sell-off-resumes-jensen-huang-discusses-comeback-nvidia-ceo-dollar-stock-markets-latest-news-updates",
+        "description": "Rolling coverage of the latest economic and financial newsInsurance industry workers: how is climate-related risk managed in your company?Elon Musk joins 165,000 others calling for Nvidia to bring ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Bad jobs or benefits? Milburn should force employers to help the young | Richard Partington",
         "url": "https://www.theguardian.com/business/2026/nov/15/firms-labour-youth-employment-push",
@@ -47,21 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
-        "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
-        "description": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economyA head of steam is building up behind the Bank of England raising interest rates again. With the latest ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-        "description": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+        "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "description": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "UK blood services issue urgent appeal for donations as winter approaches",
+        "url": "https://www.theguardian.com/society/2026/nov/16/uk-blood-services-urgent-appeal-donations-winter",
+        "description": "Supplies are low and reserves of certain types are half of what the UK needs, officials sayUK blood services have issued an urgent appeal for 150,000 donations to help the NHS cope with the increas...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Ministers accused of ‘gambling with safety’ for not knowing cost of NHS maternity unit repairs",
+        "url": "https://www.theguardian.com/society/2026/nov/16/ministers-safety-not-know-cost-nhs-maternity-unit-repairs-england",
+        "description": "NHS chiefs said last year that 43% of maternity and neonatal units in England do not meet safety standardsMinisters have been accused of “gambling with the safety of mothers and babies” after admit...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "NHS England on track to miss key cancer treatment target by 10,000 patients",
         "url": "https://www.theguardian.com/society/2026/nov/14/nhs-england-62-day-cancer-treatment-target-by-10000-patients",
@@ -70,23 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Hundreds of children in England prescribed weight-loss jabs, figures show",
-        "url": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
-        "description": "Exclusive: investigation finds prescriptions for children under 12, as experts stress need for specialist supervision and long-term monitoringHundreds of children in England are receiving prescript...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "How Microsoft outage has affected key public services in the UK",
-        "url": "https://www.theguardian.com/technology/2026/nov/13/how-microsoft-outage-has-affected-key-public-services-in-the-uk",
-        "description": "Hospitals, GPs, police forces and property agents have had to find a workaround for Microsoft packagesHospitals, GPs, police forces and property agents across the UK have been hit by the global Mic...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Cancer 'sponge' tests could be offered to more people with bad indigestion",
-        "url": "https://www.bbc.co.uk/news/articles/cm5y13q0gx97o?at_medium=RSS&at_campaign=rss",
-        "description": "The \"sponge on a string\" tests can be done in GP surgeries, rather than hospitals, unlike endoscopy checks that use a small camera.",
+        "title": "Women's criminal records wiped for abortion offences",
+        "url": "https://www.bbc.co.uk/news/articles/cqjd7n37r2r9o?at_medium=RSS&at_campaign=rss",
+        "description": "Women arrested or convicted for having illegal abortions will have their criminal records wiped as new atomatic pardons come into force in England and Wales.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -100,51 +100,58 @@
         "category": "immigration"
       },
       {
-        "title": "‘Like many men of his generation, he tends to push his feelings down from his heart to his toes’: Meera Sodha on her father’s homecoming",
-        "url": "https://www.theguardian.com/lifeandstyle/2026/nov/15/meera-sodha-father-homecoming-uganda",
-        "description": "After a childhood of grief, hardship and hunger, the Guardian food writer’s father Raj always resisted going back to Uganda. What happened when he finally agreed to accompany her on a bittersweet j...",
+        "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+        "description": "Brand’s wife Laura read out a message from him on their YouTube showAfter education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timin...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Torture survivors may have been sent to Sussex asylum camp unlawfully, documentary reveals",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/14/asylum-seekers-crowborough-torture-survivors-military-camp",
-        "description": "Undercover ITV report also shows inadequate welfare checks at ex-military base run by firm of asylum camp billionaire Graham KingAsylum seekers accommodated at a controversial military base in East...",
+        "title": "DWP glitch threatens my partner’s leave to remain",
+        "url": "https://www.theguardian.com/money/2026/nov/16/leave-to-remain-housing-allowance-glitch-immigration-status",
+        "description": "Government department admits it is making a mistake that affects his immigration status but says it can’t put it rightThe Department for Work and Pensions (DWP) is knowingly paying me too much loca...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
-        "url": "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
-        "description": "Civil society campaigners form protective cordon around LGBTQ+ campaigners as they unfurl flags and placardsQueer and gay protesters defied a crackdown on LGBTQ+ rights in Turkey to lead a civil so...",
+        "title": "Cop31 live: draft climate deal calls for faster shift away from fossil fuels",
+        "url": "https://www.theguardian.com/environment/live/2026/nov/16/cop31-climate-crisis-talks-turkey-latest-news-updates",
+        "description": "‘Cancer of indifference’ to climate crisis is pushing the world closer to the brink, says Mia Mottley as UN talks enter second weekChris Bowen, Australia’s climate minister and president of the neg...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
-        "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026",
-        "description": "People around the world have contended with unprecedented weather events and their fatal effects caused by the climate catastropheAfter the world’s hottest summer since records began in 1850, the d...",
+        "title": "Passing bill to speed up gas projects and datacenters would be ‘serious mistake’, Al Gore says",
+        "url": "https://www.theguardian.com/us-news/2026/nov/16/al-gore-baaja-cop-31-climate",
+        "description": "Former vice-president at Cop31 urges lawmakers to rethink contentious bipartisan Baaja bill advanced by the US SenateIt would be a “serious mistake” to pass a contentious bipartisan bill to speed u...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech",
-        "url": "https://www.theguardian.com/environment/2026/nov/13/cop31-antonio-guterres-united-nations-climate-action",
-        "description": "António Guterres says climate action central to every aspect of UN’s work, as leaders depart Cop31 and talks go onTackling the climate crisis is central to all of human life and must be at the fore...",
+        "title": "‘When the sun came out it felt like it opened a scar’ – This is climate breakdown",
+        "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/16/when-the-sun-came-out-it-felt-like-it-opened-a-scar-this-is-climate-breakdown",
+        "description": "When the floods hit Pakistan he went out to help. Then the water reached his own family. This is Imran Lodhi’s storyLocation: Dera Ghazi Khan, PakistanDisaster: Pakistan intense monsoon rainfallImr...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "How to spot November's planetary parade in the pre-dawn sky",
-        "url": "https://www.bbc.co.uk/weather/articles/cke8rr37lrryo?at_medium=RSS&at_campaign=rss",
-        "description": "The planets of Mercury, Venus, Mars and Jupiter will align in pre-dawn sky throughout November.",
+        "title": "Yellow weather warnings issued for snow as temperatures plummet",
+        "url": "https://www.bbc.co.uk/weather/articles/c6y97j2xq531o?at_medium=RSS&at_campaign=rss",
+        "description": "A spell of colder, wintry weather will grip some northern parts of the UK, bringing a threat of ice and hill snow at times.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Special needs overhaul in England could bring in new avenues for extra support",
+        "url": "https://www.theguardian.com/education/2026/nov/16/families-rights-appeal-support-send-overhaul-england",
+        "description": "Planned reforms could include appeals to ombudsman or review panel for parents dissatisfied with provisionsFamilies of children with special needs may get new avenues to appeal for extra support at...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "University hounded out of Hungary by Orbán reaches out to new government",
         "url": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
@@ -156,13 +163,6 @@
         "title": "Microsoft outage hits hospitals, GPs, schools and police across UK",
         "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-hits-nhs-hospitals-gps-schools-and-police-across-uk",
         "description": "NHS suffering ‘serious’ and widespread disruption, while people are told of possible delays in receiving prescriptionsVital UK services have been hit by a global Microsoft outage that left hospital...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "US university students tell surveillance cameras to Flock off",
-        "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/universities-drop-flock-camera-contracts",
-        "description": "The privacy issues over the company’s surveillance cameras have caused protests in schools all over the countryAngela Nguyen, a senior at Stanford University, has been on a mission to make sure her...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-        "description": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+        "title": "Yemeni forces retreat to defend port city from Houthis",
         "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
-        "description": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+        "description": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to protect the interim capital, Aden.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-        "description": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+        "title": "Elon Musk joins 'Bring Jensen Back' campaign to reinstate the ex-Nvidia boss",
+        "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+        "description": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
+        "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+        "description": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
