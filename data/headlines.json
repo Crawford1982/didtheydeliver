@@ -1,41 +1,48 @@
 {
-  "fetched_at": "2026-11-18T00:32:29.859306+00:00",
+  "fetched_at": "2026-11-18T15:07:44.800588+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
-        "url": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
-        "description": "Analysts say mooted move to let more petrol and diesel vehicles be sold would wreck plan to reach net zero by 2050Weakening the UK’s electric car sales rules would probably cause the government to ...",
+        "title": "Burnham urges Badenoch to withdraw ‘crass’ comment defending disability cuts on grounds ‘amputees run marathons’ – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
+        "description": "PM and leader of the opposition clashed at PMQs over welfare In her speech today, Shabana Mahmood, the home secretary, will also announce plans for a new fast-stream police leadership programme for...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Shabana Mahmood to launch fast-track training to improve police leadership",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/18/shabana-mahmood-fast-track-training-police-leadership",
-        "description": "After damning report into standards at the top of forces in England and Wales, 200 people a year with superintendent potential to be recruitedHundreds of people will be trained to boost “frankly in...",
+        "title": "Labour faces double blow over UK fossil fuel projects",
+        "url": "https://www.theguardian.com/business/2026/nov/18/sse-threatens-to-close-yorkshire-gas-storage-site-unless-ministers-intervene",
+        "description": "Big North Sea operator EnQuest says it is quitting oil basin, while SSE threatens to close Yorkshire gas storage siteBusiness live – latest updatesThe energy secretary has been dealt a double blow ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
-        "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
-        "description": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six monthsThe new post-Brexit UK-EU youth mobility scheme may not come full...",
+        "title": "Israel delays building contracts for West Bank settlement after UK sanctions",
+        "url": "https://www.theguardian.com/world/2026/nov/18/israel-construction-contracts-e1-west-bank-settlement-uk-sanctions",
+        "description": "Attorney general says E1 settlement decision should not be taken by caretaker government led by NetanyahuIsrael has postponed issuing contracts for the construction of a large settlement on the Wes...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Government backs welfare shake-up to prevent 'lost generation'",
-        "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-        "description": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+        "title": "Lammy urges Burnham to take UK back into the EU",
+        "url": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss",
+        "description": "The former deputy PM's intervention comes after Burnham reopened a debate over the UK's long-term future.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "UK unemployment unexpectedly eases to 4.6% as government releases Milburn report",
-        "url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
-        "description": "Wage growth falls to 3.5% in September, as ministers examine how best to get young people into workMilburn urges Burnham to spend billions on young peopleWho are the Neets? UK youth job crisis in f...",
+        "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
+        "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+        "description": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economyEnergy bills in Great Britain forecast to rise by 26% to £2,166 from JanuaryBusiness live –...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
+        "description": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate riseGet our daily political email, free app or daily news podcastWages grew at their f...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -47,46 +54,39 @@
         "category": "economy"
       },
       {
-        "title": "Is £750m a week the real cost of rejoining the EU – or the Brexit bus myth all over again?",
-        "url": "https://www.theguardian.com/politics/2026/nov/17/cost-of-rejoining-eu-vote-leave-brexit-bus-myth-again",
-        "description": "A new analysis from some of the architects of the Vote Leave campaign is very selective with its figuresA new analysis from some of the architects of the Vote Leave campaign has claimed rejoining t...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-        "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+        "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+        "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+        "description": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
-        "url": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
-        "description": "DHSC to extend US tech firm’s contract for two more years to allow time to line up British companies to replace itMinisters will end the NHS’s contract with the controversial tech firm Palantir – b...",
+        "title": "‘Deeply concerning’: NHS in England reports more than 3,000 incidents of staff snooping on patients’ records",
+        "url": "https://www.theguardian.com/society/2026/nov/18/nhs-england-staff-snooping-patients-records",
+        "description": "Campaign groups and regulators say data breaches are distressing for patients and families and erode trust in the health serviceThe NHS in England has recorded more than 3,000 incidents of staff in...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
-        "description": "Brand’s wife Laura read out a message from him on their YouTube showAfter education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timin...",
+        "title": "Doctor whose evidence helped to convict Lucy Letby was barred from treating patients during trial",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/18/doctor-whose-evidence-helped-to-convict-lucy-letby-was-barred-from-treating-patients-during-trial",
+        "description": "Exclusive: Jury was never told that Prof Peter Hindmarsh was barred from practising over concerns for patients’ safetyA senior doctor whose evidence helped to convict Lucy Letby and who was held up...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "UK blood services issue urgent appeal for donations as winter approaches",
-        "url": "https://www.theguardian.com/society/2026/nov/16/uk-blood-services-urgent-appeal-donations-winter",
-        "description": "Supplies are low and reserves of certain types are half of what the UK needs, officials sayUK blood services have issued an urgent appeal for 150,000 donations to help the NHS cope with the increas...",
+        "title": "Yvette Cooper announces new health support for most vulnerable people in England",
+        "url": "https://www.theguardian.com/society/2026/nov/18/yvette-cooper-health-support-vulnerable-people-england",
+        "description": "Health secretary says 500,000 will benefit initially from ‘downpayment’ on PM’s national care service pledgeUK politics live – latest updatesHalf a million of the most vulnerable people in England ...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "NHS data contract to stay with Palantir until 2029",
-        "url": "https://www.bbc.co.uk/news/articles/cqvg27zpm8w8o?at_medium=RSS&at_campaign=rss",
-        "description": "Despite calls from some Labour MPs to end the arrangement with Palantir, ministers say a new contract will not be awarded until 2029.",
+        "title": "Voy at-home test kit adverts banned over low testosterone claims",
+        "url": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o?at_medium=RSS&at_campaign=rss",
+        "description": "The Advertising Standards Authority says the adverts by online healthcare provider Voy made misleading claims.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,35 +116,42 @@
     ],
     "climate": [
       {
-        "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
-        "url": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
-        "description": "Analysts say mooted move to let more petrol and diesel vehicles be sold would wreck plan to reach net zero by 2050Weakening the UK’s electric car sales rules would probably cause the government to ...",
+        "title": "Cop31 live: rich world offering ‘crumbs’ to help poor countries adapt to climate breakdown, campaigners say",
+        "url": "https://www.theguardian.com/environment/live/2026/nov/18/cop31-climate-crisis-talks-turkey-latest-news-updates",
+        "description": "Wealthy polluters promised to put $50m into an adaptation fund this week, less than half of what countries promised at last year’s climate summitCalifornia Governor Gavin Newsom was a big presence ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Fossil-fuel industry accused of violating Colorado law over not disclosing drilling chemicals",
-        "url": "https://www.theguardian.com/environment/2026/nov/17/fossil-fuel-industry-colorado",
-        "description": "Non-profit FracTracker Alliance alleges regulators have exempted compounds used in drilling despite 2022 lawThe fossil-fuel industry is violating Colorado law by not disclosing which chemicals it u...",
+        "title": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
+        "description": "Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas suppliesGet our breaking news email, free app or daily news podca...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "UK backs idea of new levies on polluting sectors to pay for climate action costs",
-        "url": "https://www.theguardian.com/environment/2026/nov/17/cop31-uk-backs-new-levies-polluting-sectors",
-        "description": "Britain joins other signatories to statement urging introduction of targeted taxes on heavy emitters The UK has signed a statement that backs levies on polluting sectors to pay for the impacts of t...",
+        "title": "Republicans could expedite bill to make big oil immune to lawsuits, warn experts",
+        "url": "https://www.theguardian.com/us-news/2026/nov/18/big-oil-immunity-bill-climate",
+        "description": "GOP lawmakers are rushing through high-priority bills before newly elected Democrats are sworn inClimate groups fear lawmakers could pass a bill by the end of the year that would give fossil fuel c...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Pakistan's solar revolution seems unstoppable - but there's a problem",
-        "url": "https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&at_campaign=rss",
-        "description": "People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.",
+        "title": "The seven Anthropic founders who are about to become multi-billionaires",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+        "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
+        "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+        "description": "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance examsThe integrity of South Korea’s career-defin...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
         "url": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
@@ -156,13 +163,6 @@
         "title": "Hundreds protest against Nathan Cofnas talk on DEI at Oriel College in Oxford",
         "url": "https://www.theguardian.com/uk-news/2026/nov/17/hundreds-protest-nathan-cofnas-de-oriel-college-oxford-jason-arday",
         "description": "Students oppose appearance of self-described ‘race realist’ who made plagiarism claims against Jason Arday Hundreds of protesters filled the cobbled streets around Oriel College, Oxford, to voice t...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "University of Birmingham pauses plans to move Shakespeare Institute after outcry",
-        "url": "https://www.theguardian.com/education/2026/nov/17/birmingham-university-shakespeare-institute-stratford-upon-avon",
-        "description": "Vice-chancellor halts proposed relocation from Stratford-upon-Avon but offers no guarantees over futureThe University of Birmingham has paused plans to move its much-loved Shakespeare Institute fro...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+        "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+        "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+        "description": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "How the attack on Crimean Bridge unfolded",
-        "url": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
-        "description": "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv.",
+        "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
+        "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
+        "description": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-        "description": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+        "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
+        "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+        "description": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
