@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-11-19T05:58:27.392658+00:00",
+  "fetched_at": "2026-11-19T15:36:46.907231+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Brejoin? Is Andy Burnham going to reverse Brexit? – podcast",
-        "url": "https://www.theguardian.com/news/audio/2026/nov/19/brejoin-is-andy-burnham-going-to-reverse-brexit-podcast",
-        "description": "Deputy political editor Jessica Elgot and influential MEP David McAllister on the prospect of the UK rejoining the European Union, before Friday’s UK-EU summitOn Friday, Andy Burnham will be in Bru...",
+        "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answers your questions",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
+        "description": "The Guardian’s UK politics blogger is conducting a live Q&AThese are from my colleague Peter Walker, who was at the Tory event where James Cleverly was named as the party’s candidate for London may...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Leaseholders in England and Wales to have ground rent capped in 2028",
-        "url": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
-        "description": "Housing minister hails ‘historic moment’ as he publishes bill to eventually ban almost all new leasehold propertiesLeaseholders in England and Wales will have their ground rent capped in 2028, the ...",
+        "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+        "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+        "description": "Andy Burnham due in Brussels on Friday but sticking points on food rules and tuition fees remain unresolvedThe UK-EU reset talks will go “down to the wire” as the British government battles to have...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Birmingham council granted interim ban on union jacks on lamp-posts",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/18/birmingham-council-interim-ban-union-jacks-raise-the-colours",
-        "description": "High court judge issues order against Raise the Colours over flags on council-owned street furnitureThe campaign group Raise the Colours has been temporarily banned from placing union jacks on lamp...",
+        "title": "UN warns against misuse of security laws as UK weighs Palestine Action ban",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/19/un-warns-misuse-security-laws-uk-palestine-action-ban",
+        "description": "Human rights committee publishes guidance on freedom of association, which criticises vague laws targeting ‘extremism’The UN human rights committee has warned against the misuse of counter-terroris...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
-        "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
-        "description": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
+        "title": "EU-UK talks going down to the wire, says No 10",
+        "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+        "description": "The EU and UK are expected to reach new deals on food trade and visas for young people at a summit on Friday.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Anthropic ‘to open up more than 20% higher at over $100 a share’ after blockbuster IPO – business live",
+        "url": "https://www.theguardian.com/business/live/2026/nov/19/anthropic-float-stock-market-nasdaq-raises-81bn-record-ipo-latest-news-updates",
+        "description": "Rolling coverage of Anthropic’s IPO, and the latest economic and financial newsAnthropic to begin public trading at $1.5tn valuation after largest ever IPOOutages, spies, and trillion-dollar IPOs: ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "AI demand will push up interest rates around the world, IMF head warns",
+        "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+        "description": "Kristalina Georgieva says countries needed to be ready for tech rollout, adding: ‘You snooze, you lose’Business live – latest updatesBooming demand for artificial intelligence will force the world’...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Flexibility more important to jobseekers than pay, global survey finds",
         "url": "https://www.theguardian.com/money/2026/nov/19/flexibility-more-important-to-jobseekers-than-pay-global-survey-finds",
@@ -40,32 +54,25 @@
         "category": "economy"
       },
       {
-        "title": "Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds",
-        "url": "https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds",
-        "description": "About 2.6m adults are taking the drugs, fuelled by the regulator’s approval of the pill versions and a rise in male usersAt least one person is taking weight-loss drugs in 8.5% of households in Gre...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
-        "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
-        "description": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economyEnergy bills in Great Britain forecast to rise by 26% to £2,166 from JanuaryInflation in th...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-        "description": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+        "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+        "description": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "‘Deeply concerning’: NHS in England reports more than 3,000 incidents of staff snooping on patients’ records",
-        "url": "https://www.theguardian.com/society/2026/nov/18/nhs-england-staff-snooping-patients-records",
-        "description": "Campaign groups and regulators say data breaches are distressing for patients and families and erode trust in the health serviceThe NHS in England has recorded more than 3,000 incidents of staff in...",
+        "title": "Lawyer calls for urgent review of Letby convictions after expert witness revelations",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/19/lawyers-urgent-review-lucy-letby-convictions-after-expert-witness-revelations",
+        "description": "Failure to disclose Peter Hindmarsh’s exclusion from practice raises ‘fundamental questions’ over nurse’s caseLucy Letby’s lawyer has said the court of appeal must urgently review her convictions, ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Lack of early border controls made UK ‘extremely vulnerable’ to Covid, inquiry finds",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/19/covid-inquiry-uk-report-lack-of-early-border-controls-virus-spread",
+        "description": "Latest report also says test-and-trace failures allowed virus to spread quickly and uncheckedUK politics live – latest updatesThe lack of international border controls at the start of the Covid-19 ...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -77,21 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "Why Palantir’s health tech is not the right fit for the NHS | Letter",
-        "url": "https://www.theguardian.com/technology/2026/nov/18/why-palantirs-health-tech-is-not-the-right-fit-for-the-nhs",
-        "description": "The US firm’s health data system is based on an insurance model of healthcare, not the patient-centred universal service we have in Britain, says Prof Caroline MitchellThe news that NHS England may...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Regulator mistakenly sent complaints about doctors to newspaper",
-        "url": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&at_campaign=rss",
-        "description": "Information sent to the Times newspaper by the General Medical Council included summaries of complaints alleging antisemitism and Islamophobia against doctors.",
+        "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
+        "url": "https://www.bbc.co.uk/news/articles/crx20q8ql4gwo?at_medium=RSS&at_campaign=rss",
+        "description": "Early efforts to contain coronavirus \"were doomed to fail\", the public inquiry has found. Here's what you need to know.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Lack of early border controls made UK ‘extremely vulnerable’ to Covid, inquiry finds",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/19/covid-inquiry-uk-report-lack-of-early-border-controls-virus-spread",
+        "description": "Latest report also says test-and-trace failures allowed virus to spread quickly and uncheckedUK politics live – latest updatesThe lack of international border controls at the start of the Covid-19 ...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
         "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
@@ -105,16 +112,16 @@
         "description": "This blog is now closedIn her speech today, Shabana Mahmood, the home secretary, will also announce plans for a new fast-stream police leadership programme for up to 200 recruits a year. Vikram Dod...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Scammed migrant workers in UK to be considered possible victims of modern slavery",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/17/scammed-migrant-workers-modern-slavery-home-office",
-        "description": "Home Office changes policy after legal challenge over case of care worker scammed out of £22,000Migrant workers who are financially exploited can now be considered victims of modern slavery, after ...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "IPCC report delay will threaten global effort to tackle climate crisis, says top scientist",
+        "url": "https://www.theguardian.com/science/2026/nov/19/ipcc-report-delay-climate-crisis-scientist",
+        "description": "Johan Rockström, one of world’s leading climate experts, says slowing down scientific work puts cooperation at riskClimate science is “foundational” to the Paris agreement and worldwide progress on...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "World ‘held hostage by oil mafia’, says Panama minister at Cop 31",
         "url": "https://www.theguardian.com/environment/2026/nov/18/world-held-hostage-by-oil-mafia-says-panama-minister-at-cop-31",
@@ -130,39 +137,32 @@
         "category": "climate"
       },
       {
-        "title": "Business Council of Australia more aligned with fossil fuel industry than its members’ values, analysis finds",
-        "url": "https://www.theguardian.com/australia-news/2026/nov/19/bca-policy-energy-companies-members-climate-concerns",
-        "description": "Research by InfluenceMap raises questions about association’s policies and representation, particularly around advocacy for new gas suppliesGet our breaking news email, free app or daily news podca...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "The seven Anthropic founders who are about to become multi-billionaires",
-        "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-        "description": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+        "title": "Wading bird called Phil tracked in epic migration to Siberia and back",
+        "url": "https://www.bbc.co.uk/news/articles/c6qj5dl29zqro?at_medium=RSS&at_campaign=rss",
+        "description": "A bird has astonished conservationists by completing a 6,800-mile round trip to Siberia and back.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
+        "title": "‘We don’t produce Neets’: the London school recognised at World’s Best School awards",
+        "url": "https://www.theguardian.com/education/2026/nov/19/london-swiss-cottage-school-worlds-best-school-awards",
+        "description": "Swiss Cottage school for children with complex needs is place where ‘every child feels they belong’, education secretary saysFor Maria, the hardest part of having a child with complex needs has bee...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
+        "title": "Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims",
+        "url": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
+        "description": "Kristine Blanche, named to US health advisory role, offered purported treatments for Epstein-Barr virus and HPVAttorney general Todd Blanche’s wife, Kristine Blanche, who was appointed earlier this...",
+        "source": "The Guardian",
+        "category": "education"
+      },
+      {
         "title": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
         "url": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
         "description": "Leaked text of 72-paragraph second draft shows agreement has largely been reached before expected signoff on FridayThe UK-EU “relationship reset” agreement, which began in earnest under Keir Starme...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "South Korea’s high-stakes university exams upended by AI cheating scandal",
-        "url": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
-        "description": "South Korea has been gripped by revelations of AI-aided cheating, just days before more than half a million students are to sit high-stakes entrance examsThe integrity of South Korea’s career-defin...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Ofqual urges ‘life-altering’ penalties for students who use tech to cheat",
-        "url": "https://www.theguardian.com/education/2026/nov/18/ofqual-urges-life-altering-penalties-for-students-who-use-tech-to",
-        "description": "England’s exam regulator says those caught using AI or smart glasses face disqualification from GCSEs and A-levelsStudents in England could suffer “life-altering” penalties if they are caught relyi...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
-        "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
-        "description": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+        "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+        "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+        "description": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-        "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-        "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+        "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+        "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+        "description": "Some local media report that at least four bodies have been recovered.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-        "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-        "description": "No state has ever been found guilty by an international court of committing genocide.",
+        "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
+        "description": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\".",
         "source": "BBC News",
         "category": "foreign_policy"
       }
