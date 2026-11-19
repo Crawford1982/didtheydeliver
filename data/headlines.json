@@ -1,7 +1,14 @@
 {
-  "fetched_at": "2026-11-18T23:53:37.660394+00:00",
+  "fetched_at": "2026-11-19T05:58:27.392658+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Brejoin? Is Andy Burnham going to reverse Brexit? – podcast",
+        "url": "https://www.theguardian.com/news/audio/2026/nov/19/brejoin-is-andy-burnham-going-to-reverse-brexit-podcast",
+        "description": "Deputy political editor Jessica Elgot and influential MEP David McAllister on the prospect of the UK rejoining the European Union, before Friday’s UK-EU summitOn Friday, Andy Burnham will be in Bru...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "Leaseholders in England and Wales to have ground rent capped in 2028",
         "url": "https://www.theguardian.com/society/2026/nov/18/leaseholders-in-england-and-wales-to-have-ground-rent-capped-in-2028",
@@ -17,13 +24,6 @@
         "category": "government"
       },
       {
-        "title": "Shabana Mahmood backs ban on police marching in pride events in uniform",
-        "url": "https://www.theguardian.com/politics/2026/nov/18/shabana-mahmood-backs-ban-on-police-marching-in-pride-events-in-uniform",
-        "description": "Home secretary says ‘routine two-tier policing’ does not exist, but public trust in impartial law enforcement must be restoredShabana Mahmood has backed a ban on police officers marching in pride e...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
         "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
         "description": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
@@ -33,6 +33,20 @@
     ],
     "economy": [
       {
+        "title": "Flexibility more important to jobseekers than pay, global survey finds",
+        "url": "https://www.theguardian.com/money/2026/nov/19/flexibility-more-important-to-jobseekers-than-pay-global-survey-finds",
+        "description": "A poll of more than 40,000 workers found that a better work-life balance was the main reason people consider leaving their jobsWork-life balance has become the leading reason why workers consider l...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Weight-loss drugs used in nearly one in 10 homes in Great Britain, study finds",
+        "url": "https://www.theguardian.com/science/2026/nov/19/weight-loss-drugs-nearly-one-in-10-homes-great-britain-study-finds",
+        "description": "About 2.6m adults are taking the drugs, fuelled by the regulator’s approval of the pill versions and a rise in male usersAt least one person is taking weight-loss drugs in 8.5% of households in Gre...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
         "title": "UK inflation rises to 3.6% after petrol and diesel prices hit record high",
         "url": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
         "description": "Increase in October piles pressure on households as Iran war pushes up oil cost and rattles global economyEnergy bills in Great Britain forecast to rise by 26% to £2,166 from JanuaryInflation in th...",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Australian wages grow at fastest pace since 2023 – but prices are climbing even more quickly",
-        "url": "https://www.theguardian.com/australia-news/2026/nov/18/wages-grow-at-fastest-pace-since-2023-but-prices-are-climbing-even-more-quickly",
-        "description": "Wage rates climb about 1 percentage point faster than before pandemic, triggering warnings of a sixth RBA rate riseGet our daily political email, free app or daily news podcastWages grew at their f...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Markets drop ahead of Nvidia’s results; Jensen Huang says he’d be ‘honoured’ to return as CEO – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/nov/17/uk-jobs-market-wage-growth-payrolls-unemployment-milburn-china-us-chips-latest-news-updates",
-        "description": "Rolling coverage of the latest economic and financial newsJensen Huang says he would be ‘honored’ to return to Nvidia as CEOJensen Huang’s departure as Nvidia CEO becomes a political proxy warChina...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
+        "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
         "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-        "description": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
+        "description": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -192,16 +192,16 @@
     ],
     "foreign_policy": [
       {
-        "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-        "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-        "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+        "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+        "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+        "description": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-        "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-        "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+        "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+        "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+        "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
