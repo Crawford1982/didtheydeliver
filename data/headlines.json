@@ -1,7 +1,21 @@
 {
-  "fetched_at": "2026-11-21T05:42:35.637376+00:00",
+  "fetched_at": "2026-11-21T14:14:31.569438+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
+        "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
+        "description": "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into supportVoters go to the polls in the village of Castle Bromwich in the West Midlands on Thur...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+        "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+        "description": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’The UK rejoining the EU could be on the table in informal discussions between Andy ...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
         "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
@@ -10,32 +24,18 @@
         "category": "government"
       },
       {
-        "title": "What exactly is in the deal between the UK and the EU?",
-        "url": "https://www.theguardian.com/politics/2026/nov/20/what-is-in-deal-between-uk-eu-explainer",
-        "description": "The two sides have come to agreements on food and drink, emissions trading and the youth exchange schemeBurnham has agreed EU reset deal with tuition fees issue unresolved, says No 10After months o...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "No one else in Reform is suitable to lead the party, Nigel Farage says",
-        "url": "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
-        "description": "Farage issues warning to potential rivals and says he will fight next election as leader if ‘still here and fit and healthy’Nigel Farage has said he does not see another person who could do his job...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+        "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+        "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
       {
-        "title": "What impact has Brexit had on the UK and EU economies?",
-        "url": "https://www.theguardian.com/business/2026/nov/20/what-impact-brexit-uk-eu-economies",
-        "description": "As talks are held in Brussels over closer relations, we examine the economic context and the challenges aheadThe UK and EU will hold the second summit since Brexit on Friday against a volatile econ...",
+        "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
+        "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
+        "description": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’The UK rejoining the EU could be on the table in informal discussions between Andy ...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -93,9 +93,9 @@
     ],
     "immigration": [
       {
-        "title": "Home Office tells woman born and raised in London she is not British",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/20/home-office-tells-woman-born-london-she-is-not-british",
-        "description": "Woman, 24, says she cannot work and faces destitution after it was found her mother had no right to UK passportA 24-year-old woman who was born and raised in London believing she was a UK citizen h...",
+        "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
+        "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
+        "description": "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into supportVoters go to the polls in the village of Castle Bromwich in the West Midlands on Thur...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
+        "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
+        "description": "Though the climate talks officially finished on Friday, no final deal was agreed. NGOs are warning that this summit might fall disastrously short of what is neededAlthough not quite deserted, the h...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal",
         "url": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
         "description": "African ministers say they ‘didn’t come here to beg’, with civil society groups calling it the ‘worst Cop ever’Crucial climate talks headed into overtime on the last official day of the Cop31 UN su...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Cop31 told it risks being ‘ghost’ summit as all mentions of fossil fuels removed from draft text",
-        "url": "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text",
-        "description": "Draft agreement also fails to show how developing countries will receive financial help to deal with climate crisisCop31 live – latest updatesEvery mention of fossil fuels has been expunged from th...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
-        "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
-        "description": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns.",
+        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+        "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
         "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
         "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
-        "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "French police officers sentenced for beating of music producer Michel Zecler",
-        "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-        "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+        "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
