@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T14:14:31.569438+00:00",
+  "fetched_at": "2026-11-21T22:46:53.955457+00:00",
   "headlines": {
     "government": [
       {
@@ -93,6 +93,13 @@
     ],
     "immigration": [
       {
+        "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+        "description": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’Residents of a Suffolk village have voted to “leave the UK” in a ref...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
         "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
         "description": "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into supportVoters go to the polls in the village of Castle Bromwich in the West Midlands on Thur...",
@@ -105,20 +112,20 @@
         "description": "Agreements reached on food and drink, emissions and to allow young people to move around continent, but may be derailed over student fees Andy Burnham has taken the biggest step towards deeper ties...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Far-right activist Daniel Thomas jailed for slashing dinghy in Channel",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/20/far-right-activist-daniel-thomas-jailed-for-slashing-dinghy-in-channel",
-        "description": "Thomas sentenced to 15 months after admitting to criminal damage to vessel that had been carrying asylum seekersThe far-right agitator Daniel Thomas has been sentenced to 15 months in jail after sl...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Cop31 live: world urged to avoid one of ‘most disappointing Cops ever’ as talks stretch past deadline",
+        "title": "Cop31 live: diplomats race to compromise on fossil fuels as Cop teeters on brink of failure",
         "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-        "description": "Though the climate talks officially finished on Friday, no final deal was agreed. NGOs are warning that this summit might fall disastrously short of what is neededAlthough not quite deserted, the h...",
+        "description": "EU thought to have backing of 130 countries in last-ditch push to get cause of climate crisis mentioned in outcome of UN summitAlthough not quite deserted, the halls of the Cop31 conference centre ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
+        "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
+        "description": "Temperatures in a concrete facility contributed to one man’s death after he struggled to breathe, prisoners allegeOn Tuesday afternoon Dwayne Wilson, 69, a thin Black man dressed in a light gray pr...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Factious climate talks enter overtime without new draft deal in sight – as it happened",
-        "url": "https://www.theguardian.com/world/live/2026/nov/20/cop31-climate-crisis-talks-turkey-latest-news-updates",
-        "description": "Fossil fuels and climate finance among deep divisions that have pushed UN summit beyond its official endAntalya 2026 is the “worst Cop ever”, civil society activists have said in a packed final pre...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-        "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+        "title": "Will COP31 end with a new global climate deal?",
+        "url": "https://www.bbc.co.uk/news/videos/cqn0dwrewrwxo?at_medium=RSS&at_campaign=rss",
+        "description": "BBC Climate editor Justin Rowlatt reports from the COP 31 UN climate summit in Antalya, Turkey.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -199,9 +199,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "title": "Russia-bound ship attacked in Gulf of Finland",
+        "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+        "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
