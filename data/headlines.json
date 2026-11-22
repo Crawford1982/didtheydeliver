@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-11-22T05:11:16.714413+00:00",
+  "fetched_at": "2026-11-22T14:04:16.273586+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
-        "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
-        "description": "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into supportVoters go to the polls in the village of Castle Bromwich in the West Midlands on Thur...",
+        "title": "UK politics: Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
+        "description": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobilityTheresa May ‘aghast’ at Andy Burnham’s talk about rejoining EUEuropean Relations Minister Hamish Falconer ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
-        "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-        "description": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’The UK rejoining the EU could be on the table in informal discussions between Andy ...",
+        "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
+        "url": "https://www.theguardian.com/politics/2026/nov/22/british-right-reform-tory-party-distances-itself-from-trump-putin-friend-post",
+        "description": "Reform deputy leader calls Russian leader ‘a murderous dictator’ after US president appears to endorse himUK politics live – latest updatesReform UK and the Conservatives have distanced themselves ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
-        "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
-        "description": "Jamie Dimon says he is ‘setting an example’ in seeking to claw back Labour’s increase in surcharge, from 3% to 6%Jamie Dimon, the chief executive of JP Morgan, has said he will find ways to offset ...",
+        "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
+        "url": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
+        "description": "Foreign secretary says there is clear case to integrate more closely but does not say if he backs talks on possibly rejoiningUK politics live – latest updatesCloser links with the EU will mean the ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-        "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-        "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+        "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+        "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
+        "description": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
+        "url": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
+        "description": "‘Raising growth in every postcode’ has been the PM’s rallying cry but deep regional disparities and rising energy bills pose problems this winterAndy Burnham faces two, related problems: Britain fa...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
         "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
@@ -47,16 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Household rush to stockpile emergency supplies sends British retail sales soaring",
-        "url": "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
-        "description": "Surge fuelled by ‘preppers’ heeding Be Ready campaign’s call for households to have three days of food and water for emergenciesRetail sales in Great Britain surged last month as the public rushed ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-        "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+        "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "Cop31 live: EU and others reject deal as longest climate summit ever faces collapse",
+        "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
+        "description": "Although parties are still talking, the summit president said there can be no agreement on key dealFull report: Cop31 climate talks set to end in deep division as key deal rejectedMohamed Adow, dir...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Cop31 climate talks break down as key deal rejected",
+        "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+        "description": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ after two weeks of fierce negotiations• Cop31 live blog: longest climate summit ever faces collapseThe EU, t...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Diplomats race to compromise on fossil fuels as Cop31 teeters on brink of failure – as it happened",
         "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
         "description": "EU thought to have backing of 130 countries in last-ditch push to get cause of climate crisis mentioned in outcome of UN summitClimate talks stall as countries mull showdown with Saudi Arabia over ...",
@@ -123,28 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
-        "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
-        "description": "Temperatures in a concrete facility contributed to one man’s death after he struggled to breathe, prisoners allegeOn Tuesday afternoon Dwayne Wilson, 69, a thin Black man dressed in a light gray pr...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal",
-        "url": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
-        "description": "African ministers say they ‘didn’t come here to beg’, with civil society groups calling it the ‘worst Cop ever’Crucial climate talks headed into overtime on the last official day of the Cop31 UN su...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Fossil fuel dispute threatens to derail COP31 climate deal",
-        "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
-        "description": "The UN summit in Turkey enters second day of overtime as countries struggle to reach an agreement.",
+        "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
+        "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
+        "description": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
+        "url": "https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
+        "description": "Findings highlight unscrupulous tactics used by operators in multibillion pound illicit market and challenges facing authoritiesProf Heather Wardle has dedicated 20 years to researching the harm ca...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit",
         "url": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
@@ -156,13 +163,6 @@
         "title": "UK teachers: have you experienced abuse in schools?",
         "url": "https://www.theguardian.com/education/2026/nov/20/uk-teachers-have-you-experienced-abuse-in-schools",
         "description": "We’d like to hear people’s experiences of incidents of abuse while working in UK schools.Since the pandemic, many schools have reported rising pupil violence, misogynistic abuse of female staff is ...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Academy trust pays out after Prevent threat over children’s Palestine badges",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/20/lion-academy-trust-children-palestine-badges-prevent-london",
-        "description": "Lion Academy Trust apologises after threatening four pupils in east London with referral to counter-extremism schemeAn academy trust will pay out tens of thousands in compensation to four children ...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+        "title": "South Korea education minister resigns over exam cheating scandal",
+        "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
+        "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russia-bound ship attacked in Gulf of Finland",
+        "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
         "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
         "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-        "description": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+        "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+        "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+        "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
