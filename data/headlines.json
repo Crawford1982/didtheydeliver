@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-11-22T14:04:16.273586+00:00",
+  "fetched_at": "2026-11-22T23:15:25.433596+00:00",
   "headlines": {
     "government": [
+      {
+        "title": "Pip review will call for overhaul rather than scrapping benefit for under-25s",
+        "url": "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
+        "description": "Recommendations overseen by Stephen Timms would retain system for all ages, unlike last week’s Milburn reviewA long-awaited review of the personal independence payment (Pip) system will this week r...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK taxpayers held more than £1tn in offshore tax havens, latest HMRC data shows",
+        "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
+        "description": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama, raising fears over cost to public purseThe amount of money UK taxpayers hold in offshore accounts in tax h...",
+        "source": "The Guardian",
+        "category": "government"
+      },
       {
         "title": "UK politics: Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
         "description": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobilityTheresa May ‘aghast’ at Andy Burnham’s talk about rejoining EUEuropean Relations Minister Hamish Falconer ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "‘Just wrong’: British right distances itself from Trump after Putin ‘friend’ post",
-        "url": "https://www.theguardian.com/politics/2026/nov/22/british-right-reform-tory-party-distances-itself-from-trump-putin-friend-post",
-        "description": "Reform deputy leader calls Russian leader ‘a murderous dictator’ after US president appears to endorse himUK politics live – latest updatesReform UK and the Conservatives have distanced themselves ...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Closer EU ties will give UK say on Brussels decisions, says Ed Miliband",
-        "url": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
-        "description": "Foreign secretary says there is clear case to integrate more closely but does not say if he backs talks on possibly rejoiningUK politics live – latest updatesCloser links with the EU will mean the ...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -63,6 +63,13 @@
     ],
     "nhs": [
       {
+        "title": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
+        "url": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
+        "description": "Exclusive: Thirty-one trusts issue stark warning that cost-cutting demands threaten their ability to function normallyDozens of hospitals are so short of money they may not be able to continue cari...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Patient ‘horrified’ to find her sensitive discussions were shared on system used by more than 100,000 NHS staff",
         "url": "https://www.theguardian.com/society/2026/nov/20/patient-confidentiality-sensitive-discussion-records-shared-nhs-staff",
         "description": "Exclusive: Investigation launched after details of grief and trauma uploaded, raising questions over extent of issueThe Information Commissioner’s Office (ICO) has launched an investigation after a...",
@@ -77,13 +84,6 @@
         "category": "nhs"
       },
       {
-        "title": "Lawyer calls for urgent review of Letby convictions after expert witness revelations",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/19/lawyers-urgent-review-lucy-letby-convictions-after-expert-witness-revelations",
-        "description": "Failure to disclose Peter Hindmarsh’s exclusion from practice raises ‘fundamental questions’ over nurse’s caseLucy Letby’s lawyer has said the court of appeal must urgently review her convictions, ...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
         "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
         "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
         "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
@@ -92,6 +92,13 @@
       }
     ],
     "immigration": [
+      {
+        "title": "Let refugees work and contribute to our society | Letters",
+        "url": "https://www.theguardian.com/world/2026/nov/22/let-refugees-work-and-contribute-to-our-society",
+        "description": "Shirley Hart urges us to look beyond the labels of ‘asylum seeker’ and ‘refugee’ to see human beings forced to leave their homes. Plus a letter from Steve WellsCongratulations to Zoe Williams on he...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
         "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
@@ -105,41 +112,34 @@
         "description": "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into supportVoters go to the polls in the village of Castle Bromwich in the West Midlands on Thur...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit",
-        "url": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
-        "description": "Agreements reached on food and drink, emissions and to allow young people to move around continent, but may be derailed over student fees Andy Burnham has taken the biggest step towards deeper ties...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "Cop31 live: EU and others reject deal as longest climate summit ever faces collapse",
+        "title": "Cop31 as it happened: EU and others reject deal as longest climate summit comes to fractious end",
         "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-        "description": "Although parties are still talking, the summit president said there can be no agreement on key dealFull report: Cop31 climate talks set to end in deep division as key deal rejectedMohamed Adow, dir...",
+        "description": "Countries failed to reach consensus on a key deal that did not mention fossil fuelsFull report: Cop31 climate talks set to end in deep division as key deal rejectedMohamed Adow, director of Power S...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
         "title": "Cop31 climate talks break down as key deal rejected",
         "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
-        "description": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ after two weeks of fierce negotiations• Cop31 live blog: longest climate summit ever faces collapseThe EU, t...",
+        "description": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuelsThe EU, the UK and allies in the developing world rejected what they called ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Diplomats race to compromise on fossil fuels as Cop31 teeters on brink of failure – as it happened",
-        "url": "https://www.theguardian.com/environment/live/2026/nov/21/cop31-climate-deal-latest-news-updates",
-        "description": "EU thought to have backing of 130 countries in last-ditch push to get cause of climate crisis mentioned in outcome of UN summitClimate talks stall as countries mull showdown with Saudi Arabia over ...",
+        "title": "EU officials reject Cop31 deal as it 'doesn't speak to reality of the climate crisis' – video",
+        "url": "https://www.theguardian.com/environment/video/2026/nov/22/eu-officials-reject-cop31-deal-as-it-doesnt-speak-to-reality-of-the-climate-crisis-video",
+        "description": "The Cop31 climate talks fell into disarray as the EU, UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate. Ireland's climate minister, ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Mysterious Mercury gets a visitor - after spacecraft's eight-year epic voyage",
-        "url": "https://www.bbc.co.uk/news/articles/c39w9l4v1p9ro?at_medium=RSS&at_campaign=rss",
-        "description": "The mission is set to give us our best ever view of Mercury - the closest planet to the Sun.",
+        "title": "What's next after no deal at COP31 climate summit?",
+        "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
+        "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "South Korea education minister resigns over exam cheating scandal",
-        "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
-        "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+        "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-        "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-        "description": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+        "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-        "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-        "description": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
