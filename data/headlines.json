@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T23:15:25.433596+00:00",
+  "fetched_at": "2026-11-23T05:51:40.261793+00:00",
   "headlines": {
     "government": [
       {
@@ -70,6 +70,13 @@
         "category": "nhs"
       },
       {
+        "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+        "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
+        "description": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drugPatients who are eligible for potentially life-changing weight-loss injections on the ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
         "title": "Patient ‘horrified’ to find her sensitive discussions were shared on system used by more than 100,000 NHS staff",
         "url": "https://www.theguardian.com/society/2026/nov/20/patient-confidentiality-sensitive-discussion-records-shared-nhs-staff",
         "description": "Exclusive: Investigation launched after details of grief and trauma uploaded, raising questions over extent of issueThe Information Commissioner’s Office (ICO) has launched an investigation after a...",
@@ -77,16 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
-        "url": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
-        "description": "Surgeon at Aberdeen Royal Infirmary says he repeatedly voiced concerns and that patients may have died unnecessarilyA senior surgeon has called for a criminal investigation into a Scottish hospital...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
-        "url": "https://www.bbc.co.uk/news/articles/cw9874p114dro?at_medium=RSS&at_campaign=rss",
-        "description": "The sleeping bag’s neck hole was far too big, meaning Emma's baby daughter could wriggle down and it could cover her face.",
+        "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+        "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,6 +116,13 @@
     ],
     "climate": [
       {
+        "title": "‘Difficult geopolitical times’: Albanese defends Bowen after Cop31 deal failure",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure",
+        "description": "Coalition calls for climate change minister to resign immediately or be sacked over ‘catastrophic diplomatic disaster’, despite offering no alternatives on reducing emissionsSign up for climate and...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Cop31 as it happened: EU and others reject deal as longest climate summit comes to fractious end",
         "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
         "description": "Countries failed to reach consensus on a key deal that did not mention fossil fuelsFull report: Cop31 climate talks set to end in deep division as key deal rejectedMohamed Adow, director of Power S...",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "EU officials reject Cop31 deal as it 'doesn't speak to reality of the climate crisis' – video",
-        "url": "https://www.theguardian.com/environment/video/2026/nov/22/eu-officials-reject-cop31-deal-as-it-doesnt-speak-to-reality-of-the-climate-crisis-video",
-        "description": "The Cop31 climate talks fell into disarray as the EU, UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate. Ireland's climate minister, ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "What's next after no deal at COP31 climate summit?",
-        "url": "https://www.bbc.co.uk/news/videos/cx987g7q019go?at_medium=RSS&at_campaign=rss",
-        "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,9 +192,9 @@
     ],
     "foreign_policy": [
       {
-        "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
         "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-        "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+        "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
         "source": "BBC News",
         "category": "foreign_policy"
       },
@@ -206,9 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-        "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+        "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+        "description": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
