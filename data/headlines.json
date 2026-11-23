@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-11-23T05:51:40.261793+00:00",
+  "fetched_at": "2026-11-23T17:26:10.866902+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Pip review will call for overhaul rather than scrapping benefit for under-25s",
-        "url": "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
-        "description": "Recommendations overseen by Stephen Timms would retain system for all ages, unlike last week’s Milburn reviewA long-awaited review of the personal independence payment (Pip) system will this week r...",
+        "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+        "description": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another voteIn her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK taxpayers held more than £1tn in offshore tax havens, latest HMRC data shows",
-        "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
-        "description": "Figures show recent 10% rise in total held in financial centres such as Jersey and Panama, raising fears over cost to public purseThe amount of money UK taxpayers hold in offshore accounts in tax h...",
+        "title": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
+        "url": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
+        "description": "Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interferenceThe education secretary, Lucy Powell, is travelling to Beijing this week to pro...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK politics: Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
-        "description": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobilityTheresa May ‘aghast’ at Andy Burnham’s talk about rejoining EUEuropean Relations Minister Hamish Falconer ...",
+        "title": "Burnham: I won’t listen to ex-Tory PMs who left UK with ‘bad Brexit deal’",
+        "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
+        "description": "PM says closer ties with EU will lower cost of living, with ‘brainstorming’ sessions being mooted to discuss shape of future relationshipUK politics live – latest updatesAndy Burnham has criticised...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
-        "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
-        "description": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
+        "title": "Former PMs are 'stuck in the past' on Brexit, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss",
+        "description": "Theresa May and Rishi Sunak are among those who have urged Andy Burnham not to reopen the Brexit debate.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,9 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-        "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-        "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+        "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+        "description": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -93,58 +93,65 @@
     ],
     "immigration": [
       {
+        "title": "Children left without parental care after Home Office stops them joining father in UK",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/23/children-home-office-stops-joining-father-uk-ghana",
+        "description": "Two boys, whose mother died in 2019, stuck in Ghana for a year after ‘irrational’ decisions to reject applicationsTwo children aged 11 and 12 have been left in Ghana without parental care for a yea...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Asylum seekers removed from UK subjected to ‘unnecessary and intimidating’ force",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/23/asylum-seekers-removed-from-uk-unnecessary-and-intimidating-force",
+        "description": "Incidents include suicidal man being carried on to plane in waist, leg and ankle restraints, official report says“Unnecessary and intimidating” behaviour was used against asylum seekers being depor...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
         "title": "Let refugees work and contribute to our society | Letters",
         "url": "https://www.theguardian.com/world/2026/nov/22/let-refugees-work-and-contribute-to-our-society",
         "description": "Shirley Hart urges us to look beyond the labels of ‘asylum seeker’ and ‘refugee’ to see human beings forced to leave their homes. Plus a letter from Steve WellsCongratulations to Zoe Williams on he...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
-        "description": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’Residents of a Suffolk village have voted to “leave the UK” in a ref...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Reform UK considers pact with Restore Britain to overcome stalling performance in polls",
-        "url": "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
-        "description": "Thursday’s byelection in Castle Bromwich will be latest test for Nigel Farage’s party as rival eats into supportVoters go to the polls in the village of Castle Bromwich in the West Midlands on Thur...",
         "source": "The Guardian",
         "category": "immigration"
       }
     ],
     "climate": [
       {
-        "title": "‘Difficult geopolitical times’: Albanese defends Bowen after Cop31 deal failure",
-        "url": "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure",
-        "description": "Coalition calls for climate change minister to resign immediately or be sacked over ‘catastrophic diplomatic disaster’, despite offering no alternatives on reducing emissionsSign up for climate and...",
+        "title": "Cranberry jam: warming winters and extreme weather threaten an iconic holiday fruit",
+        "url": "https://www.theguardian.com/us-news/2026/nov/23/cranberry-growing-climate-crisis",
+        "description": "Scientists are racing to identify and breed new berry varieties that can thrive on an increasingly warmer planetIt is harvest time in rural Wisconsin, and the Badger state’s most vibrant crop is pa...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Cop31 as it happened: EU and others reject deal as longest climate summit comes to fractious end",
-        "url": "https://www.theguardian.com/environment/live/2026/nov/22/cop31-climate-crisis-talks-turkey-latest-news-updates",
-        "description": "Countries failed to reach consensus on a key deal that did not mention fossil fuelsFull report: Cop31 climate talks set to end in deep division as key deal rejectedMohamed Adow, director of Power S...",
+        "title": "Plant-based lunches could cut Australia’s emissions by 15m tonnes, new research shows",
+        "url": "https://www.theguardian.com/environment/2026/nov/23/plant-based-lunches-could-cut-australia-emissions-by-15m-tonnes-new-research-shows",
+        "description": "Nationwide change in lunch habits could cut more climate pollution than grounding every domestic flightGet our breaking news email, free app or daily news podcastAustralians could collectively cut ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Cop31 climate talks break down as key deal rejected",
-        "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
-        "description": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuelsThe EU, the UK and allies in the developing world rejected what they called ...",
+        "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
+        "url": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits",
+        "description": "Former US vice-president Al Gore among climate leaders demanding change to consensus rule after Antalya summit The failure at Cop31 to reach a keystone agreement has exposed the need to reform how ...",
         "source": "The Guardian",
         "category": "climate"
       },
       {
-        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+        "title": "What failure of COP31 reveals about a divided world",
+        "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+        "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Fears for school crossing patrols as councils struggle to recruit lollipop people",
+        "url": "https://www.theguardian.com/education/2026/nov/23/school-crossing-patrols-councils-struggle-recruit-lollipop-people",
+        "description": "Future of familiar school-run figures uncertain as vacancies surge and town halls consider alternativesThey have been a feature of British schooldays for decades, instantly recognisable by their ro...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
         "url": "https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
@@ -158,16 +165,16 @@
         "description": "Agreements reached on food and drink, emissions and to allow young people to move around continent, but may be derailed over student fees Andy Burnham has taken the biggest step towards deeper ties...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "UK teachers: have you experienced abuse in schools?",
-        "url": "https://www.theguardian.com/education/2026/nov/20/uk-teachers-have-you-experienced-abuse-in-schools",
-        "description": "We’d like to hear people’s experiences of incidents of abuse while working in UK schools.Since the pandemic, many schools have reported rising pupil violence, misogynistic abuse of female staff is ...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Cost of renting in Britain to rise twice as fast as buying amid shortage of properties",
+        "url": "https://www.theguardian.com/money/2026/nov/23/cost-of-renting-in-britain-to-rise-twice-as-fast-as-buying-amid-shortage-of-properties",
+        "description": "Rents to rise by 14% until at least 2029, Hamptons predicts, as high demand for properties and low supply push up costs for tenantsThe cost of renting a home in Britain is expected to rise about tw...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Mahmood ‘smells a rat’ over housing provision for vulnerable people in Birmingham",
         "url": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
@@ -181,16 +188,16 @@
         "description": "Woman, 24, says she cannot work and faces destitution after it was found her mother had no right to UK passportA 24-year-old woman who was born and raised in London believing she was a UK citizen h...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "The UK government ridicules villages such as Piddington – but it’s these ‘Nimbys’ who show us the way | Simon Jenkins",
-        "url": "https://www.theguardian.com/commentisfree/2026/nov/20/villages-piddington-nimbys-local-communities",
-        "description": "In other countries, local communities have a say in their futures. If the UK were truly democratic, everywhere would be a parish in control of its own fatePoor Piddington. The Oxfordshire village o...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
+      {
+        "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "description": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
       {
         "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
         "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "What's next after no deal at COP31 climate talks?",
-        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-        "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
-        "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-        "description": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+        "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+        "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+        "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
