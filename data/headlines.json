@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-11-24T03:49:16.134765+00:00",
+  "fetched_at": "2026-11-24T16:58:42.820214+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
-        "url": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons",
-        "description": "Position contrasts with Green party’s policies before 2024 election, as polls show just 17% of voters trust them on defenceZack Polanski has given his backing to a paper that endorses Britain’s mem...",
+        "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
+        "description": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checksMinisters approve fast-track disability paymen...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
-        "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
-        "description": "Prime minister also says former Tory premiers who have criticised revival of Brexit debate are ‘stuck in the past’Andy Burnham has said it would be “unthinkable” for the UK to rejoin the EU without...",
+        "title": "What are the proposals for changing personal independence payment?",
+        "url": "https://www.theguardian.com/world/2026/nov/24/what-proposals-changing-personal-independence-payment",
+        "description": "Review by social security minister Stephen Timms is designed to ‘rehumanise’ system. What will happen next?UK politics live – latest updatesA government-commissioned review has urged an overhaul of...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-        "description": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another voteIn her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has ...",
+        "title": "Nigel Farage rules out deal with Restore Britain unless it disavows controversial backers",
+        "url": "https://www.theguardian.com/politics/2026/nov/24/nigel-farage-rules-out-reform-uk-deal-restore-britain",
+        "description": "Reform UK leader says he is ‘very worried’ about ethnonationalism and he does not trust Tories over BrexitUK politics live – latest updatesNigel Farage has said he might have a “civil chat” with Ru...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
-        "url": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss",
-        "description": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.",
+        "title": "Key takeaways from the Timms review into Pip disability benefit",
+        "url": "https://www.bbc.co.uk/news/articles/c69w9gw9wx9no?at_medium=RSS&at_campaign=rss",
+        "description": "Disability minister Sir Stephen Timms has published his review of the personal independence payment (Pip), along with recommended changes.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "Fact-checking the '£750m a week' cost to rejoin the EU – video",
+        "url": "https://www.theguardian.com/politics/video/2026/nov/24/fact-checking-750m-a-week-cost-to-rejoin-eu-video",
+        "description": "In response to Andy Burnham wanting to forge closer ties with the European Union, a campaign group called Stay Out has launched, made up of Brexit supporters who claim it will cost the UK £750m a w...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – as it happened",
+        "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+        "description": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spyDemocrats hit out at Nvidia and Trump over Huang’s return –...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "A slash-and-burn budget update could push Australia into a recession. Jim Chalmers has a fine line to tread | Patrick Commins",
         "url": "https://www.theguardian.com/business/2026/nov/24/mid-year-budget-cuts-recession-inflation-unemployment-australia-jim-chalmers",
@@ -40,23 +54,9 @@
         "category": "economy"
       },
       {
-        "title": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
-        "url": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
-        "description": "‘Raising growth in every postcode’ has been the PM’s rallying cry but deep regional disparities and rising energy bills pose problems this winterAndy Burnham faces two, related problems: Britain fa...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Rejoining EU ‘on the table’ as UK makes deals on trade and young people",
-        "url": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-        "description": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’The UK rejoining the EU could be on the table in informal discussions between Andy ...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-        "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+        "title": "The shake-up facing renters as a new kind of landlord emerges",
+        "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+        "description": "Companies building flats that they then rent out could usher in big changes for renters.",
         "source": "BBC News",
         "category": "economy"
       }
@@ -116,6 +116,20 @@
     ],
     "climate": [
       {
+        "title": "Summer heat deaths in 2026 reached record high of 5,258 in England",
+        "url": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
+        "description": "Figure for May to September is far higher than previous peak of 2,985 since records began a decade ago More than 5,200 deaths in England in 2026 were linked to summer heat, the highest provisional ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Campaigners urge Albanese government to reject ‘climate bomb’ coalmine expansion after Cop31",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
+        "description": "Hunter Valley Operations expansion in New South Wales would allow additional 430m tonnes of coal to be extracted and burnedSign up for climate and environment editor Adam Morton’s free Clear Air ne...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
         "title": "Robert Macfarlane says trust in Cop to deliver change on climate is ‘misplaced’",
         "url": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
         "description": "Nature writer reveals in his first Reith lecture that he finds ‘much more hope’ in emerging alliancesWe are “misplacing our trust” in the Cop climate summits and their “capacity to deliver conseque...",
@@ -123,92 +137,78 @@
         "category": "climate"
       },
       {
-        "title": "Cop31 collapses: why did climate talks fall apart? - The Latest",
-        "url": "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest",
-        "description": "Countries at the Cop31 climate summit failed to reach a keystone agreement for the first time in 17 years. The talks, co-chaired by Turkey and Australia, were intended to produce a pact that would ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Cranberry jam: warming winters and extreme weather threaten a traditional holiday fruit",
-        "url": "https://www.theguardian.com/us-news/2026/nov/23/cranberry-growing-climate-crisis",
-        "description": "Scientists are racing to identify and breed new berry varieties that can thrive on an increasingly warmer planetIt is harvest time in rural Wisconsin, and the Badger state’s most vibrant crop is pa...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "What failure of COP31 reveals about a divided world",
-        "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
-        "description": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+        "title": "Badger cull ruled out by Welsh government after speculation",
+        "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
+        "description": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
       {
-        "title": "Fears for school crossing patrols as councils struggle to recruit lollipop people",
-        "url": "https://www.theguardian.com/education/2026/nov/23/school-crossing-patrols-councils-struggle-recruit-lollipop-people",
-        "description": "Future of familiar school-run figures uncertain as vacancies surge and town halls consider alternativesThey have been a feature of British schooldays for decades, instantly recognisable by their ro...",
+        "title": "Southport attack families’ fury after 13 survivors miss out on school funding",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/24/southport-attack-survivors-miss-out-on-school-funding",
+        "description": "Six schools attended by girls injured in mass stabbing miss out on £1m allocated for staff, counselling and specialist supportFamilies of girls injured in the Southport attack have said they are “h...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Revealed: profiles of UK experts on gambling harm being hijacked to push illegal online casinos",
-        "url": "https://www.theguardian.com/society/2026/nov/22/profiles-uk-experts-on-gambling-harm-hijacked-to-promote-online-casinos",
-        "description": "Findings highlight unscrupulous tactics used by operators in multibillion pound illicit market and challenges facing authoritiesProf Heather Wardle has dedicated 20 years to researching the harm ca...",
+        "title": "US school bus drivers decline amid low pay and poor work conditions",
+        "url": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
+        "description": "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report findsThe number of school bus drivers in the US has dropped 5% over the last year as drivers...",
         "source": "The Guardian",
         "category": "education"
       },
       {
-        "title": "Burnham seals trade and youth mobility deals in biggest step towards EU since Brexit",
-        "url": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
-        "description": "Agreements reached on food and drink, emissions and to allow young people to move around continent, but may be derailed over student fees Andy Burnham has taken the biggest step towards deeper ties...",
+        "title": "‘The numbers are very stark’: This primary school is the heart of a Welsh village. Can it be saved?",
+        "url": "https://www.theguardian.com/news/2026/nov/24/the-numbers-are-very-stark-this-primary-school-is-the-heart-of-a-welsh-village-can-it-be-saved",
+        "description": "Gladestry primary school is predicted to have only 19 pupils within two years, while its county council is forced to make cuts year after year. But residents still believe it’s worth fighting forTh...",
         "source": "The Guardian",
         "category": "education"
       }
     ],
     "housing": [
       {
+        "title": "Outcry grows over Labour plan to exempt most brownfield sites from nature protection rules",
+        "url": "https://www.theguardian.com/politics/2026/nov/24/outcry-uk-plans-to-exempt-brownfield-sites-nature-protection-rules",
+        "description": "Chancellor’s decision to exempt plots up to 1.5 hectares allows developers to dodge rules aiming to reverse wildlife declinesAn outcry is growing over the UK chancellor’s removal of most brownfield...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
+        "url": "https://www.theguardian.com/world/2026/nov/24/spain-election-ada-colau-broad-front-far-right",
+        "description": "Exclusive: Ada Colau hopes public anger over housing will transfer into support for her Broad Front coalition in Sunday’s voteThe leader of Spain’s leftwing Broad Front coalition has called for a d...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Cost of renting in Britain to rise twice as fast as buying amid shortage of properties",
         "url": "https://www.theguardian.com/money/2026/nov/23/cost-of-renting-in-britain-to-rise-twice-as-fast-as-buying-amid-shortage-of-properties",
         "description": "Rents to rise by 14% until at least 2029, Hamptons predicts, as high demand for properties and low supply push up costs for tenantsThe cost of renting a home in Britain is expected to rise about tw...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Mahmood ‘smells a rat’ over housing provision for vulnerable people in Birmingham",
-        "url": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
-        "description": "Warnings over exploitation risks come amid push for investigation into supported exempt accommodation sectorThe home secretary has launched an attack on providers of housing for vulnerable resident...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Home Office tells woman born and raised in London she is not British",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/20/home-office-tells-woman-born-london-she-is-not-british",
-        "description": "Woman, 24, says she cannot work and faces destitution after it was found her mother had no right to UK passportA 24-year-old woman who was born and raised in London believing she was a UK citizen h...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+        "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
         "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
         "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-        "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-        "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+        "title": "What Jensen Huang's return teaches China's Xi about Trump",
+        "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
+        "description": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
-        "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+        "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+        "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+        "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
