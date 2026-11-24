@@ -1,37 +1,44 @@
 {
-  "fetched_at": "2026-11-23T17:26:10.866902+00:00",
+  "fetched_at": "2026-11-24T03:49:16.134765+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – UK politics live",
+        "title": "Zack Polanski backs report endorsing Nato membership and maintaining nuclear weapons",
+        "url": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons",
+        "description": "Position contrasts with Green party’s policies before 2024 election, as polls show just 17% of voters trust them on defenceZack Polanski has given his backing to a paper that endorses Britain’s mem...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham says it would be ‘unthinkable’ to rejoin EU without referendum",
+        "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
+        "description": "Prime minister also says former Tory premiers who have criticised revival of Brexit debate are ‘stuck in the past’Andy Burnham has said it would be “unthinkable” for the UK to rejoin the EU without...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
         "description": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another voteIn her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has ...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
-        "url": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
-        "description": "Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interferenceThe education secretary, Lucy Powell, is travelling to Beijing this week to pro...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Burnham: I won’t listen to ex-Tory PMs who left UK with ‘bad Brexit deal’",
-        "url": "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
-        "description": "PM says closer ties with EU will lower cost of living, with ‘brainstorming’ sessions being mooted to discuss shape of future relationshipUK politics live – latest updatesAndy Burnham has criticised...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Former PMs are 'stuck in the past' on Brexit, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss",
-        "description": "Theresa May and Rishi Sunak are among those who have urged Andy Burnham not to reopen the Brexit debate.",
+        "title": "Chris Mason: Can Burnham turn volume down on EU debate?",
+        "url": "https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss",
+        "description": "The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "A slash-and-burn budget update could push Australia into a recession. Jim Chalmers has a fine line to tread | Patrick Commins",
+        "url": "https://www.theguardian.com/business/2026/nov/24/mid-year-budget-cuts-recession-inflation-unemployment-australia-jim-chalmers",
+        "description": "Labor has been complacent. But deep cuts designed to kill inflation would come at least six months too lateA pivot towards austerity in next month’s mid-year budget would come far too late in the b...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "The looming UK winter may spawn a double headache for Andy Burnham | Richard Partington",
         "url": "https://www.theguardian.com/business/2026/nov/22/looming-uk-winter-spawns-double-headache-for-andy-burnham",
@@ -47,32 +54,25 @@
         "category": "economy"
       },
       {
-        "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
-        "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-        "description": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildoutWho are Anthropic’s seven co-founders, now worth $180bn...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
-        "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-        "description": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+        "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+        "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+        "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
-        "url": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
-        "description": "Exclusive: Thirty-one trusts issue stark warning that cost-cutting demands threaten their ability to function normallyDozens of hospitals are so short of money they may not be able to continue cari...",
+        "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
+        "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
+        "description": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drugPatients who are eligible for potentially life-changing weight-loss injections on the ...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
-        "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
-        "description": "Inquiry finds most integrated care boards have scrapped payments to GPs for prescribing and monitoring the drugPatients who are eligible for potentially life-changing weight-loss injections on the ...",
+        "title": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
+        "url": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
+        "description": "Exclusive: Thirty-one trusts issue stark warning that cost-cutting demands threaten their ability to function normallyDozens of hospitals are so short of money they may not be able to continue cari...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -84,9 +84,9 @@
         "category": "nhs"
       },
       {
-        "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
-        "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
-        "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+        "title": "Why I don't always tell potential employers I'm dyslexic",
+        "url": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
+        "description": "Many dyslexic people say it harms their confidence, a report about experiences in the workplace suggests.",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -116,23 +116,23 @@
     ],
     "climate": [
       {
-        "title": "Cranberry jam: warming winters and extreme weather threaten an iconic holiday fruit",
+        "title": "Robert Macfarlane says trust in Cop to deliver change on climate is ‘misplaced’",
+        "url": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
+        "description": "Nature writer reveals in his first Reith lecture that he finds ‘much more hope’ in emerging alliancesWe are “misplacing our trust” in the Cop climate summits and their “capacity to deliver conseque...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Cop31 collapses: why did climate talks fall apart? - The Latest",
+        "url": "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest",
+        "description": "Countries at the Cop31 climate summit failed to reach a keystone agreement for the first time in 17 years. The talks, co-chaired by Turkey and Australia, were intended to produce a pact that would ...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
+      {
+        "title": "Cranberry jam: warming winters and extreme weather threaten a traditional holiday fruit",
         "url": "https://www.theguardian.com/us-news/2026/nov/23/cranberry-growing-climate-crisis",
         "description": "Scientists are racing to identify and breed new berry varieties that can thrive on an increasingly warmer planetIt is harvest time in rural Wisconsin, and the Badger state’s most vibrant crop is pa...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Plant-based lunches could cut Australia’s emissions by 15m tonnes, new research shows",
-        "url": "https://www.theguardian.com/environment/2026/nov/23/plant-based-lunches-could-cut-australia-emissions-by-15m-tonnes-new-research-shows",
-        "description": "Nationwide change in lunch habits could cut more climate pollution than grounding every domestic flightGet our breaking news email, free app or daily news podcastAustralians could collectively cut ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
-        "url": "https://www.theguardian.com/environment/2026/nov/23/failure-cop31-calls-urgent-reform-un-climate-summits",
-        "description": "Former US vice-president Al Gore among climate leaders demanding change to consensus rule after Antalya summit The failure at Cop31 to reach a keystone agreement has exposed the need to reform how ...",
         "source": "The Guardian",
         "category": "climate"
       },
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
-        "description": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+        "title": "Nvidia reinstates CEO Jensen Huang after affair with alleged spy as Trump says 'I made the deal'",
+        "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+        "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-        "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-        "description": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+        "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+        "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+        "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-        "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-        "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+        "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+        "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+        "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
