@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-11-24T16:58:42.820214+00:00",
+  "fetched_at": "2026-11-25T01:54:59.896116+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-        "description": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checksMinisters approve fast-track disability paymen...",
+        "title": "Metropolitan police still institutionally racist and misogynist, says report",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/25/metropolitan-police-institutionally-racist-misogynist-fairfield-report",
+        "description": "Independent review finds force has ‘fundamental systemic issues’ three years after damning report on Sarah Everard murderLatest review of Met police culture finds little has changed since last oneT...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "What are the proposals for changing personal independence payment?",
-        "url": "https://www.theguardian.com/world/2026/nov/24/what-proposals-changing-personal-independence-payment",
-        "description": "Review by social security minister Stephen Timms is designed to ‘rehumanise’ system. What will happen next?UK politics live – latest updatesA government-commissioned review has urged an overhaul of...",
+        "title": "Burnham opens door to wider NDAs ban at ‘watershed moment’ on abuse",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/24/burnham-non-disclosure-agreements-staggered-age-consent",
+        "description": "PM brings forward changes to non-disclosure agreements and promises consultation on staggered age of consentMen have used wealth and fame to get away with abuse. No longerAndy Burnham has called re...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Nigel Farage rules out deal with Restore Britain unless it disavows controversial backers",
-        "url": "https://www.theguardian.com/politics/2026/nov/24/nigel-farage-rules-out-reform-uk-deal-restore-britain",
-        "description": "Reform UK leader says he is ‘very worried’ about ethnonationalism and he does not trust Tories over BrexitUK politics live – latest updatesNigel Farage has said he might have a “civil chat” with Ru...",
+        "title": "Hundreds of thousands could lose disability benefits under Timms plans for Pip shake-up",
+        "url": "https://www.theguardian.com/world/2026/nov/24/disability-benefits-timms-review-pip-personal-independence-payments",
+        "description": "Minister’s review says Pip system no longer fit for purpose and recommends new test for who is allowed to claimHundreds of thousands of people face losing their disability benefits under plans bein...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Key takeaways from the Timms review into Pip disability benefit",
-        "url": "https://www.bbc.co.uk/news/articles/c69w9gw9wx9no?at_medium=RSS&at_campaign=rss",
-        "description": "Disability minister Sir Stephen Timms has published his review of the personal independence payment (Pip), along with recommended changes.",
+        "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+        "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
+        "description": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
         "source": "BBC News",
         "category": "government"
       }
@@ -54,14 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "The shake-up facing renters as a new kind of landlord emerges",
-        "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-        "description": "Companies building flats that they then rent out could usher in big changes for renters.",
+        "title": "Households braced for soaring energy bills with new price cap to be announced",
+        "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+        "description": "Domestic gas prices will rise significantly in January under regulator Ofgem's new price cap.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "NHS trusts to be investigated over ‘repeated failures’ to admit treatment errors",
+        "url": "https://www.theguardian.com/society/2026/nov/24/nhs-trusts-to-be-investigated-over-repeated-failures-to-admit-treatment-errors",
+        "description": "Failing in their legal duty of candour adds to the distress of patients and families and damages trust, says England’s public service ombudsmanHospitals will be investigated for regularly breaching...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Neets and needs: a loss of focus on harmful life experiences | Letters",
+        "url": "https://www.theguardian.com/society/2026/nov/24/neets-and-needs-a-loss-of-focus-on-harmful-life-experiences",
+        "description": "Dr Sebastian Kraemer on the Sure Start programme and the effect of the ‘diagnostic revolution’, a parent of three young adults on gaps in Alan Milburn’s proposals, and Prof Geeta Nargund on how the...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Patients may miss out on NHS weight-loss jabs in England after GP funding withdrawn",
         "url": "https://www.theguardian.com/science/2026/nov/23/patients-miss-out-nhs-weight-loss-mounjaro-gp-funding-withdrawn",
@@ -70,28 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "NHS savings drive leaves hospitals in England facing ‘unpalatable’ cuts",
-        "url": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
-        "description": "Exclusive: Thirty-one trusts issue stark warning that cost-cutting demands threaten their ability to function normallyDozens of hospitals are so short of money they may not be able to continue cari...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Patient ‘horrified’ to find her sensitive discussions were shared on system used by more than 100,000 NHS staff",
-        "url": "https://www.theguardian.com/society/2026/nov/20/patient-confidentiality-sensitive-discussion-records-shared-nhs-staff",
-        "description": "Exclusive: Investigation launched after details of grief and trauma uploaded, raising questions over extent of issueThe Information Commissioner’s Office (ICO) has launched an investigation after a...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Why I don't always tell potential employers I'm dyslexic",
-        "url": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
-        "description": "Many dyslexic people say it harms their confidence, a report about experiences in the workplace suggests.",
+        "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+        "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+        "description": "More young people in Britain have never had sex, but many are sexting and watching porn.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Exiting the UK may be a bit of a turn-off | Brief letters",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/24/exiting-the-uk-may-be-a-bit-of-a-turn-off",
+        "description": "Village vote | Dan Lepard’s plum pudding | Signposts | Black Friday | Copping outIf villages symbolically vote to leave the UK, fine (Suffolk village votes to ‘leave the UK’ over plans to house asy...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Children left without parental care after Home Office stops them joining father in UK",
         "url": "https://www.theguardian.com/uk-news/2026/nov/23/children-home-office-stops-joining-father-uk-ghana",
@@ -105,16 +112,16 @@
         "description": "Incidents include suicidal man being carried on to plane in waist, leg and ankle restraints, official report says“Unnecessary and intimidating” behaviour was used against asylum seekers being depor...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Let refugees work and contribute to our society | Letters",
-        "url": "https://www.theguardian.com/world/2026/nov/22/let-refugees-work-and-contribute-to-our-society",
-        "description": "Shirley Hart urges us to look beyond the labels of ‘asylum seeker’ and ‘refugee’ to see human beings forced to leave their homes. Plus a letter from Steve WellsCongratulations to Zoe Williams on he...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Climate scientists urge US lawmakers to vote no on sweeping permitting bill",
+        "url": "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
+        "description": "Open letter warns Baaja, intended to expedite energy and infrastructure projects, will cause irreversible climate harmA group of more than 120 climate scientists have urged US lawmakers to not pass...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "Summer heat deaths in 2026 reached record high of 5,258 in England",
         "url": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Robert Macfarlane says trust in Cop to deliver change on climate is ‘misplaced’",
-        "url": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
-        "description": "Nature writer reveals in his first Reith lecture that he finds ‘much more hope’ in emerging alliancesWe are “misplacing our trust” in the Cop climate summits and their “capacity to deliver conseque...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "Badger cull ruled out by Welsh government after speculation",
-        "url": "https://www.bbc.co.uk/news/articles/cm930yjy97xyo?at_medium=RSS&at_campaign=rss",
-        "description": "Plaid Cymru ministers rule out mass badger cull as part of new plans to tackle bovine tuberculosis.",
+        "title": "Will there be a White Christmas this year?",
+        "url": "https://www.bbc.co.uk/weather/articles/ckdd16vdplpeo?at_medium=RSS&at_campaign=rss",
+        "description": "It is just a month until the big day but what do the early signs say about the chances of a white Christmas in the UK?",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,6 +169,13 @@
     ],
     "housing": [
       {
+        "title": "Give architects proper credit | Letter",
+        "url": "https://www.theguardian.com/artanddesign/2026/nov/24/give-architects-proper-credit",
+        "description": "They should be appreciated, as are the creators in other artforms, writes Simon RickettsYour article (‘It’s an architect’s dream’: five beautiful eco buildings around the world, 14 November) includ...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Outcry grows over Labour plan to exempt most brownfield sites from nature protection rules",
         "url": "https://www.theguardian.com/politics/2026/nov/24/outcry-uk-plans-to-exempt-brownfield-sites-nature-protection-rules",
         "description": "Chancellor’s decision to exempt plots up to 1.5 hectares allows developers to dodge rules aiming to reverse wildlife declinesAn outcry is growing over the UK chancellor’s removal of most brownfield...",
@@ -181,34 +188,27 @@
         "description": "Exclusive: Ada Colau hopes public anger over housing will transfer into support for her Broad Front coalition in Sunday’s voteThe leader of Spain’s leftwing Broad Front coalition has called for a d...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Cost of renting in Britain to rise twice as fast as buying amid shortage of properties",
-        "url": "https://www.theguardian.com/money/2026/nov/23/cost-of-renting-in-britain-to-rise-twice-as-fast-as-buying-amid-shortage-of-properties",
-        "description": "Rents to rise by 14% until at least 2029, Hamptons predicts, as high demand for properties and low supply push up costs for tenantsThe cost of renting a home in Britain is expected to rise about tw...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-        "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-        "description": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+        "title": "US attorney general dodges questions about Nvidia investigation",
+        "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+        "description": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "What Jensen Huang's return teaches China's Xi about Trump",
-        "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss",
-        "description": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+        "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+        "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o?at_medium=RSS&at_campaign=rss",
+        "description": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-        "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-        "description": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+        "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+        "description": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
