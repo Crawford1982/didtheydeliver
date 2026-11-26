@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-11-25T16:49:02.836998+00:00",
+  "fetched_at": "2026-11-26T01:35:06.864062+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’ – UK politics live",
+        "title": "Treasury raises cost concerns over Milburn plan on youth unemployment",
+        "url": "https://www.theguardian.com/society/2026/nov/25/treasury-spending-concerns-proposed-support-youth-unemployment-milburn-review",
+        "description": "Chancellor wants system laid out in Alan Milburn’s review to break even at an earlier date, sources sayThe Treasury has raised concerns about the level of spending on support proposed in Alan Milbu...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "EU nationals will pay higher tuition fees than UK students, Burnham indicates",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/25/eu-nationals-will-pay-higher-tuition-fees-than-uk-students-burnham-indicates",
+        "description": "Asked by Kemi Badenoch to rule out equal rate for UK and EU students, PM says proposal ‘will not be put on the table’European students will have to pay higher fees than their domestic equivalents a...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "UK politics: Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’ – as it happened",
         "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
         "description": "Pair clashed at PMQs over a video shot outside No 10 by TikToker Max BalegdeDiane Taylor is a Guardian reporter who covers migration.Britons get many of the facts about migration wrong and Reform U...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "Labour ‘committed’ to ban on conversion practices despite calls for proposed law to be scrapped",
-        "url": "https://www.theguardian.com/world/2026/nov/25/labour-committed-ban-conversion-practices-despite-proposed-law-scrapped",
-        "description": "Exclusive: Campaigners say new legislation in England and Wales could infringe on free speech, parenting and religious freedom‘They wanted me to conform’: people abused over sexuality and gender id...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
-        "title": "General Synod could vote to ban C of E clergy from supporting Restore Britain",
-        "url": "https://www.theguardian.com/world/2026/nov/25/general-synod-ban-church-of-england-clergy-support-restore-britain",
-        "description": "Exclusive: Private members’ motion comes amid concern about Christian symbols being appropriated by the far rightChurch of England clergy could be banned from joining or supporting the hard-right R...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "UK food inflation could hit 5% next year, Bank of England says",
+        "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+        "description": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El NiñoFood price inflation in the UK could hit 5% next year, the Bank of Englan...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Fact-checking the '£750m a week' cost to rejoin the EU – video",
         "url": "https://www.theguardian.com/politics/video/2026/nov/24/fact-checking-750m-a-week-cost-to-rejoin-eu-video",
@@ -47,32 +54,25 @@
         "category": "economy"
       },
       {
-        "title": "A slash-and-burn budget update could push Australia into a recession. Jim Chalmers has a fine line to tread | Patrick Commins",
-        "url": "https://www.theguardian.com/business/2026/nov/24/mid-year-budget-cuts-recession-inflation-unemployment-australia-jim-chalmers",
-        "description": "Labor has been complacent. But deep cuts designed to kill inflation would come at least six months too lateA pivot towards austerity in next month’s mid-year budget would come far too late in the b...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Poundland collapses putting 11,000 jobs at risk",
         "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-        "description": "The discount chain has collapsed into administration after its owners failed to find a buyer.",
+        "description": "The discount chain has fallen into administration after its owners failed to find a buyer.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
       {
-        "title": "NHS trusts to be investigated over ‘repeated failures’ to admit treatment errors",
-        "url": "https://www.theguardian.com/society/2026/nov/24/nhs-trusts-to-be-investigated-over-repeated-failures-to-admit-treatment-errors",
-        "description": "Failing in their legal duty of candour adds to the distress of patients and families and damages trust, says England’s public service ombudsmanHospitals will be investigated for regularly breaching...",
+        "title": "M&G boss urges UK to stem flood of firms leaving London Stock Exchange after Compass exit",
+        "url": "https://www.theguardian.com/business/2026/nov/25/m-and-g-boss-urges-uk-stem-firms-leaving-lse-compass-exit",
+        "description": "Warning comes after £46bn school and NHS caterer decides to moves main listing to New York, the latest in a long line of departuresThe boss of the British investment group M&G has called on the gov...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "M&G boss urges UK to stem flood of firms leaving London Stock Exchange after Compass exit",
-        "url": "https://www.theguardian.com/business/2026/nov/25/m-and-g-boss-urges-uk-stem-firms-leaving-lse-compass-exit",
-        "description": "Warning comes after £46bn school and NHS caterer decides to moves main listing to New York, the latest in a long line of departuresBusiness live – latest updatesThe boss of the British investment g...",
+        "title": "NHS trusts to be investigated over ‘repeated failures’ to admit treatment errors",
+        "url": "https://www.theguardian.com/society/2026/nov/24/nhs-trusts-to-be-investigated-over-repeated-failures-to-admit-treatment-errors",
+        "description": "Failing in their legal duty of candour adds to the distress of patients and families and damages trust, says England’s public service ombudsmanHospitals will be investigated for regularly breaching...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -100,16 +100,16 @@
         "category": "immigration"
       },
       {
-        "title": "Exiting the UK may be a bit of a turn-off | Brief letters",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/24/exiting-the-uk-may-be-a-bit-of-a-turn-off",
-        "description": "Village vote | Dan Lepard’s plum pudding | Signposts | Black Friday | Copping outIf villages symbolically vote to leave the UK, fine (Suffolk village votes to ‘leave the UK’ over plans to house asy...",
+        "title": "UK politics: Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’ – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+        "description": "Pair clashed at PMQs over a video shot outside No 10 by TikToker Max BalegdeDiane Taylor is a Guardian reporter who covers migration.Britons get many of the facts about migration wrong and Reform U...",
         "source": "The Guardian",
         "category": "immigration"
       },
       {
-        "title": "Children left without parental care after Home Office stops them joining father in UK",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/23/children-home-office-stops-joining-father-uk-ghana",
-        "description": "Two boys, whose mother died in 2019, stuck in Ghana for a year after ‘irrational’ decisions to reject applicationsTwo children aged 11 and 12 have been left in Ghana without parental care for a yea...",
+        "title": "Exiting the UK may be a bit of a turn-off | Brief letters",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/24/exiting-the-uk-may-be-a-bit-of-a-turn-off",
+        "description": "Village vote | Dan Lepard’s plum pudding | Signposts | Black Friday | Copping outIf villages symbolically vote to leave the UK, fine (Suffolk village votes to ‘leave the UK’ over plans to house asy...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "Canadian astronaut welcomes baby girl  from space station",
-        "url": "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss",
-        "description": "Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.",
+        "title": "California warned of potential Thanksgiving flooding as storms threaten US coasts",
+        "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
+        "description": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Children in overcrowded homes get poorer GCSE results, study finds",
+        "url": "https://www.theguardian.com/education/2026/nov/26/children-overcrowded-homes-gcse-results-study",
+        "description": "Researchers urge ministers to ensure young people in rented homes have space for a desk in their bedroomChildren who share a bedroom and lack a quiet place to study at home get worse GCSE results t...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Indian Cockroach movement leader asks court for permission to fly to UK",
         "url": "https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk",
@@ -158,57 +165,50 @@
         "description": "Six schools attended by girls injured in mass stabbing miss out on £1m allocated for staff, counselling and specialist supportFamilies of girls injured in the Southport attack have said they are “h...",
         "source": "The Guardian",
         "category": "education"
-      },
-      {
-        "title": "US school bus drivers decline amid low pay and poor work conditions",
-        "url": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
-        "description": "Total number of drivers dropped 5% over the last year and fell 15% compared with 2019 levels, new report findsThe number of school bus drivers in the US has dropped 5% over the last year as drivers...",
-        "source": "The Guardian",
-        "category": "education"
       }
     ],
     "housing": [
+      {
+        "title": "Children in overcrowded homes get poorer GCSE results, study finds",
+        "url": "https://www.theguardian.com/education/2026/nov/26/children-overcrowded-homes-gcse-results-study",
+        "description": "Researchers urge ministers to ensure young people in rented homes have space for a desk in their bedroomChildren who share a bedroom and lack a quiet place to study at home get worse GCSE results t...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "Mamdani wins against landlords in New York rent freeze lawsuit: ‘Housing is not a luxury’",
+        "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-judge-upholds-mamdani-rent-freeze",
+        "description": "Judge upholds rent freeze on roughly 1m rent-stabilized apartments in victory for Democratic socialist mayorA New York City judge has upheld a rent freeze on the roughly 1m rent-stabilized apartmen...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
       {
         "title": "Give architects proper credit | Letter",
         "url": "https://www.theguardian.com/artanddesign/2026/nov/24/give-architects-proper-credit",
         "description": "They should be appreciated, as are the creators in other artforms, writes Simon RickettsYour article (‘It’s an architect’s dream’: five beautiful eco buildings around the world, 14 November) includ...",
         "source": "The Guardian",
         "category": "housing"
-      },
-      {
-        "title": "Outcry grows over Labour plan to exempt most brownfield sites from nature protection rules",
-        "url": "https://www.theguardian.com/politics/2026/nov/24/outcry-uk-plans-to-exempt-brownfield-sites-nature-protection-rules",
-        "description": "Chancellor’s decision to exempt plots up to 1.5 hectares allows developers to dodge rules aiming to reverse wildlife declinesAn outcry is growing over the UK chancellor’s removal of most brownfield...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Leftwing coalition leader calls for rental revolution as Spain heads for snap election",
-        "url": "https://www.theguardian.com/world/2026/nov/24/spain-election-ada-colau-broad-front-far-right",
-        "description": "Exclusive: Ada Colau hopes public anger over housing will transfer into support for her Broad Front coalition in Sunday’s voteThe leader of Spain’s leftwing Broad Front coalition has called for a d...",
-        "source": "The Guardian",
-        "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-        "url": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss",
-        "description": "Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.",
+        "title": "US announces new tariffs on host of countries including China",
+        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+        "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "My family were killed in Ukraine. My mum blamed Zelensky's troops - the truth is complicated",
-        "url": "https://www.bbc.co.uk/news/articles/cw24e17v9e51o?at_medium=RSS&at_campaign=rss",
-        "description": "BBC journalist Anastasiya Gribanova investigates who killed her father and grandparents in the war.",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Close-up images to be revealed of asteroid deliberately hit to test ability to protect Earth",
+        "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
         "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-        "description": "The mission is studying an asteroid deliberately knocked off course by a colliding spacecraft.",
+        "description": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
+        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+        "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
