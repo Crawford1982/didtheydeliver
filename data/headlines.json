@@ -1,37 +1,51 @@
 {
-  "fetched_at": "2026-11-26T01:35:06.864062+00:00",
+  "fetched_at": "2026-11-26T16:25:29.487597+00:00",
   "headlines": {
     "government": [
       {
-        "title": "Treasury raises cost concerns over Milburn plan on youth unemployment",
-        "url": "https://www.theguardian.com/society/2026/nov/25/treasury-spending-concerns-proposed-support-youth-unemployment-milburn-review",
-        "description": "Chancellor wants system laid out in Alan Milburn’s review to break even at an earlier date, sources sayThe Treasury has raised concerns about the level of spending on support proposed in Alan Milbu...",
+        "title": "Rosebank rebellion: are resignations next? – podcast",
+        "url": "https://www.theguardian.com/politics/audio/2026/nov/26/rosebank-rebellion-are-resignations-next-podcast",
+        "description": "Close to 100 Labour MPs have sent a letter to Andy Burnham calling for him to reject the Rosebank oilfield licence. Environmental campaigners say it will create massive greenhouse emissions and con...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "EU nationals will pay higher tuition fees than UK students, Burnham indicates",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/25/eu-nationals-will-pay-higher-tuition-fees-than-uk-students-burnham-indicates",
-        "description": "Asked by Kemi Badenoch to rule out equal rate for UK and EU students, PM says proposal ‘will not be put on the table’European students will have to pay higher fees than their domestic equivalents a...",
+        "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+        "description": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren JonesThe Liberal Democrats are saying the UK needs a...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK politics: Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’ – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
-        "description": "Pair clashed at PMQs over a video shot outside No 10 by TikToker Max BalegdeDiane Taylor is a Guardian reporter who covers migration.Britons get many of the facts about migration wrong and Reform U...",
+        "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
+        "url": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
+        "description": "Then ambassador to US wanted to discuss alternatives to World Trade Organization in ‘under the radar’ meeting, documents revealUK politics live – latest updatesPeter Mandelson sought to organise an...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Badenoch challenges Burnham over university fees for EU students",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&at_campaign=rss",
-        "description": "The PM says EU students paying the same as British students is the European position and \"won't be put on the table\".",
+        "title": "Ministerial aides among nearly 100 MPs opposing Rosebank oil field",
+        "url": "https://www.bbc.co.uk/news/articles/cw24ez32d1n4o?at_medium=RSS&at_campaign=rss",
+        "description": "Energy Secretary Miatta Fahnbulleh is due to make a decision on whether to give the go-ahead for drilling in the oil field off the north-west coast of Shetland within weeks.",
         "source": "BBC News",
         "category": "government"
       }
     ],
     "economy": [
+      {
+        "title": "430,000 UK homeowners face £500-plus jump in monthly mortgage payments",
+        "url": "https://www.theguardian.com/money/2026/nov/26/430000-uk-homeowners-500-jump-monthly-mortgage-payments-bank-of-england-interest-rates",
+        "description": "Bank of England warns of increases for millions coming off fixed deals over next three years as interest rates riseBusiness live – latest updatesMore than 400,000 UK homeowners will face a £500-a-m...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
+      {
+        "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+        "description": "Beijing says new levies amount to ‘political manipulation’, while Brazil ‘will not yield to this type of threat’Trump proposing new tariffs on 14 partners including China and EUBeijing has said it ...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "UK food inflation could hit 5% next year, Bank of England says",
         "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
@@ -40,28 +54,28 @@
         "category": "economy"
       },
       {
-        "title": "Fact-checking the '£750m a week' cost to rejoin the EU – video",
-        "url": "https://www.theguardian.com/politics/video/2026/nov/24/fact-checking-750m-a-week-cost-to-rejoin-eu-video",
-        "description": "In response to Andy Burnham wanting to forge closer ties with the European Union, a campaign group called Stay Out has launched, made up of Brexit supporters who claim it will cost the UK £750m a w...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Tech sell-off resumes as Nvidia shares drop 5% and Anthropic tumbles below IPO price – as it happened",
-        "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
-        "description": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spyDemocrats hit out at Nvidia and Trump over Huang’s return –...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
-        "title": "Poundland collapses putting 11,000 jobs at risk",
-        "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-        "description": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+        "title": "Millions of people to see average monthly mortgage payments rise by £100",
+        "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss",
+        "description": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
         "source": "BBC News",
         "category": "economy"
       }
     ],
     "nhs": [
+      {
+        "title": "UK watchdog calls for shake-up of private dentistry market amid ‘catalogue of concerns’",
+        "url": "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
+        "description": "CMA report highlights inflation-busting annual rises and practices that ‘may not operate in patients’ best interests’Tell us: what is your experience of UK private dentistry?Business live – latest ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
+      {
+        "title": "Children’s hospitals close beds to comply with NHS cost-cutting targets",
+        "url": "https://www.theguardian.com/society/2026/nov/26/childrens-hospitals-close-beds-to-comply-with-nhs-cost-cutting-targets",
+        "description": "Sheffield children’s hospital, Liverpool’s Alder Hey and London’s Great Ormond Street make cuts amid efforts to major savingsChildren’s hospitals are closing beds and shedding staff to comply with ...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "M&G boss urges UK to stem flood of firms leaving London Stock Exchange after Compass exit",
         "url": "https://www.theguardian.com/business/2026/nov/25/m-and-g-boss-urges-uk-stem-firms-leaving-lse-compass-exit",
@@ -70,32 +84,25 @@
         "category": "nhs"
       },
       {
-        "title": "NHS trusts to be investigated over ‘repeated failures’ to admit treatment errors",
-        "url": "https://www.theguardian.com/society/2026/nov/24/nhs-trusts-to-be-investigated-over-repeated-failures-to-admit-treatment-errors",
-        "description": "Failing in their legal duty of candour adds to the distress of patients and families and damages trust, says England’s public service ombudsmanHospitals will be investigated for regularly breaching...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Neets and needs: a loss of focus on harmful life experiences | Letters",
-        "url": "https://www.theguardian.com/society/2026/nov/24/neets-and-needs-a-loss-of-focus-on-harmful-life-experiences",
-        "description": "Dr Sebastian Kraemer on the Sure Start programme and the effect of the ‘diagnostic revolution’, a parent of three young adults on gaps in Alan Milburn’s proposals, and Prof Geeta Nargund on how the...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
-        "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
-        "description": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+        "title": "Private dentists too expensive for millions, watchdog warns",
+        "url": "https://www.bbc.co.uk/news/articles/c98r7ydp7v0ko?at_medium=RSS&at_campaign=rss",
+        "description": "The Competitions and Market Authority says reforms are needed to make sure people get a fair deal.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
       {
-        "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
-        "description": "Kishanth Peramalya was denied entry due to sexual assault convictions and sent to Africa where he had no connectionsThe UK sent a Sri Lankan asylum seeker who had been convicted of sexual assault t...",
+        "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+        "description": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌JuneUK politics live – latest updatesNet migration across the UK has fallen to its lowest l...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
+      {
+        "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+        "description": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren JonesThe Liberal Democrats are saying the UK needs a...",
         "source": "The Guardian",
         "category": "immigration"
       },
@@ -105,16 +112,16 @@
         "description": "Pair clashed at PMQs over a video shot outside No 10 by TikToker Max BalegdeDiane Taylor is a Guardian reporter who covers migration.Britons get many of the facts about migration wrong and Reform U...",
         "source": "The Guardian",
         "category": "immigration"
-      },
-      {
-        "title": "Exiting the UK may be a bit of a turn-off | Brief letters",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/24/exiting-the-uk-may-be-a-bit-of-a-turn-off",
-        "description": "Village vote | Dan Lepard’s plum pudding | Signposts | Black Friday | Copping outIf villages symbolically vote to leave the UK, fine (Suffolk village votes to ‘leave the UK’ over plans to house asy...",
-        "source": "The Guardian",
-        "category": "immigration"
       }
     ],
     "climate": [
+      {
+        "title": "Australia projected to completely miss 2035 emissions target without new climate policies",
+        "url": "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
+        "description": "New official projections show country nearly on track for 2030 goal but Chris Bowen warns of ‘undeniable headwinds’Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter...",
+        "source": "The Guardian",
+        "category": "climate"
+      },
       {
         "title": "World has six consecutive days 2C above preindustrial levels for first time",
         "url": "https://www.theguardian.com/environment/2026/nov/25/world-six-consecutive-days-2c-above-preindustrial-levels-first-time",
@@ -130,16 +137,9 @@
         "category": "climate"
       },
       {
-        "title": "Summer heat deaths in 2026 reached record high of 5,258 in England",
-        "url": "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
-        "description": "Figure for May to September is far higher than previous peak of 2,985 since records began a decade ago More than 5,200 deaths in England in 2026 were linked to summer heat, the highest provisional ...",
-        "source": "The Guardian",
-        "category": "climate"
-      },
-      {
-        "title": "California warned of potential Thanksgiving flooding as storms threaten US coasts",
-        "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
-        "description": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
+        "title": "Hundreds of flights cancelled as severe weather disrupts Thanksgiving travel in US",
+        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+        "description": "More than 80 million Americans are expected to be traveling as massive storms are forecast on the western and eastern coasts of the US.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -169,46 +169,46 @@
     ],
     "housing": [
       {
+        "title": "‘These families will be essentially homeless’: Flatbush groups condemn response to building collapse",
+        "url": "https://www.theguardian.com/us-news/2026/nov/26/flatbush-brooklyn-nyc-building-collapse-response-homeless",
+        "description": "Advocacy groups say displaced families were sent to ‘subpar hotels’ until 30 November, with no housing plans in place afterwardFlatbush community leaders are in an uproar on behalf of those who hav...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
+        "title": "‘It’s in quite a dark place’: why UK housebuilding is struggling",
+        "url": "https://www.theguardian.com/business/2026/nov/26/why-uk-housebuilding-is-struggling",
+        "description": "The sector is in retreat across parts of the county, with developments paused. Despite a grim outlook for 2027 there is some cause for hopeA shopping centre in London that was due to be knocked dow...",
+        "source": "The Guardian",
+        "category": "housing"
+      },
+      {
         "title": "Children in overcrowded homes get poorer GCSE results, study finds",
         "url": "https://www.theguardian.com/education/2026/nov/26/children-overcrowded-homes-gcse-results-study",
         "description": "Researchers urge ministers to ensure young people in rented homes have space for a desk in their bedroomChildren who share a bedroom and lack a quiet place to study at home get worse GCSE results t...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Mamdani wins against landlords in New York rent freeze lawsuit: ‘Housing is not a luxury’",
-        "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-judge-upholds-mamdani-rent-freeze",
-        "description": "Judge upholds rent freeze on roughly 1m rent-stabilized apartments in victory for Democratic socialist mayorA New York City judge has upheld a rent freeze on the roughly 1m rent-stabilized apartmen...",
-        "source": "The Guardian",
-        "category": "housing"
-      },
-      {
-        "title": "Give architects proper credit | Letter",
-        "url": "https://www.theguardian.com/artanddesign/2026/nov/24/give-architects-proper-credit",
-        "description": "They should be appreciated, as are the creators in other artforms, writes Simon RickettsYour article (‘It’s an architect’s dream’: five beautiful eco buildings around the world, 14 November) includ...",
         "source": "The Guardian",
         "category": "housing"
       }
     ],
     "foreign_policy": [
       {
-        "title": "US announces new tariffs on host of countries including China",
-        "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-        "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+        "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+        "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+        "description": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-        "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-        "description": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+        "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+        "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+        "description": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-        "description": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+        "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+        "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+        "description": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
