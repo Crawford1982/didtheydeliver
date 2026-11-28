@@ -1,25 +1,25 @@
 {
-  "fetched_at": "2026-11-28T01:06:17.029637+00:00",
+  "fetched_at": "2026-11-28T15:03:27.866593+00:00",
   "headlines": {
     "government": [
       {
-        "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
-        "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
-        "description": "Department for Work and Pensions urges people to be alert to scams related to outage and contact helpline with urgent difficultiesTell us: have you been affected by the DWP ‘cyber incident’Benefits...",
+        "title": "Argentina fails to block oil drilling off Falkland Islands",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/28/argentina-oil-drilling-falkland-islands-international-tribunal",
+        "description": "UK government calls on Buenos Aires to end ‘economic pressure’ on islands after international tribunal’s rulingThe UK has called on Argentina to stop its economic warfare on the Falkland islands af...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Labour row over Rosebank deepens as dozens of MPs warn PM not to block oilfield",
-        "url": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
-        "description": "Warning of ‘lights out for Labour in Scotland’ as Burnham faces choice between warring factions over North Sea drilling projectDozens of Labour MPs in favour of Rosebank are putting pressure on the...",
+        "title": "Black barrister tells of racist abuse after Rupert Lowe viral tweet",
+        "url": "https://www.theguardian.com/law/2026/nov/28/black-barrister-tells-of-racist-abuse-after-rupert-lowe-viral-tweet",
+        "description": "Exclusive: Hard-right MP claimed photo featuring Joseph Ashong was sign of discrimination against white BritonsA newly qualified black barrister who took part in a group photo that went viral after...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "UK pensions department hit by ‘serious cyber incident’, minister says – as it happened",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-        "description": "This blog is now closed, you can read more on this story hereAccording to Downdetector, which tracks online service outages, reports of problems with the government website appeared to begin last n...",
+        "title": "Unpaid TV licence or cycling on pavement could bar people from settling in UK",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/28/new-immigration-rules-uk-unpaid-tv-licence-cycling-pavement-adult-convictions",
+        "description": "Exclusive: New immigration rules will introduce strict threshold where any adult conviction triggers mandatory refusalPeople could be barred from settling in the UK over minor infractions such as c...",
         "source": "The Guardian",
         "category": "government"
       },
@@ -32,6 +32,13 @@
       }
     ],
     "economy": [
+      {
+        "title": "‘The key is pricing realistically’: how to sell your home in a falling market",
+        "url": "https://www.theguardian.com/money/2026/nov/28/how-to-sell-your-home-in-a-falling-market-house-prices",
+        "description": "From small fixes such as decluttering to taking your property off the market for a break, there are ways to seal the dealSelling your home is always a big task, but when the headlines are telling y...",
+        "source": "The Guardian",
+        "category": "economy"
+      },
       {
         "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
         "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
@@ -47,13 +54,6 @@
         "category": "economy"
       },
       {
-        "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
-        "url": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president",
-        "description": "Former Bank of Spain governor chosen to succeed Christine Lagarde after winning support of EU’s biggest countriesSpain’s Pablo Hernández de Cos has been chosen as the next president of the European...",
-        "source": "The Guardian",
-        "category": "economy"
-      },
-      {
         "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
         "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
         "description": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
@@ -62,6 +62,13 @@
       }
     ],
     "nhs": [
+      {
+        "title": "Mental health patients refusing NHS treatment over shared therapy notes",
+        "url": "https://www.theguardian.com/society/2026/nov/28/mental-health-patients-refusing-nhs-treatment-medical-history-shared",
+        "description": "Exclusive: Uploading of intimate psychiatric information to wider medical records prompts some to shun support altogetherSome psychiatric patients are refusing treatment over the NHS adding intimat...",
+        "source": "The Guardian",
+        "category": "nhs"
+      },
       {
         "title": "Psychosomatic illness diagnoses must be handled with great care | Letters",
         "url": "https://www.theguardian.com/society/2026/nov/27/psychosomatic-illness-diagnoses-must-be-handled-with-great-care",
@@ -77,21 +84,21 @@
         "category": "nhs"
       },
       {
-        "title": "Hospitals in England brace for flu spike with admissions highest for time of year since pre-Covid",
-        "url": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
-        "description": "NHS chief says hospital bosses should consider asking staff and visitors to wear masks as winter pressures buildHospitals are bracing for a “horrible spike” in flu in the coming days as winter star...",
-        "source": "The Guardian",
-        "category": "nhs"
-      },
-      {
-        "title": "Should I get a flu vaccine now?",
-        "url": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
-        "description": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
+        "title": "Pharmacies get new powers to swap prescriptions during shortages",
+        "url": "https://www.bbc.co.uk/news/articles/cw5y1pelzm8ro?at_medium=RSS&at_campaign=rss",
+        "description": "If a medicine is out of stock, staff can offer the same drug in a different strength or form, like a capsule instead of a pill.",
         "source": "BBC News",
         "category": "nhs"
       }
     ],
     "immigration": [
+      {
+        "title": "Unpaid TV licence or cycling on pavement could bar people from settling in UK",
+        "url": "https://www.theguardian.com/uk-news/2026/nov/28/new-immigration-rules-uk-unpaid-tv-licence-cycling-pavement-adult-convictions",
+        "description": "Exclusive: New immigration rules will introduce strict threshold where any adult conviction triggers mandatory refusalPeople could be barred from settling in the UK over minor infractions such as c...",
+        "source": "The Guardian",
+        "category": "immigration"
+      },
       {
         "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
         "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
@@ -103,13 +110,6 @@
         "title": "How much of the sharp fall in UK immigration is due to Labour’s policies?",
         "url": "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
         "description": "Labour is jubilant it has got numbers down to levels the Tories could not but it was helped by factors beyond its controlNet migration to UK falls to lowest level since 1997 excluding pandemicDavid...",
-        "source": "The Guardian",
-        "category": "immigration"
-      },
-      {
-        "title": "Is local democracy all it’s cracked up to be? | Letters",
-        "url": "https://www.theguardian.com/society/2026/nov/26/is-local-democracy-all-its-cracked-up-to-be",
-        "description": "Readers respond to an article by Simon Jenkins on why rural parish councils need to be granted powers over their future Simon Jenkins presents continental Europe as a model of local democracy (The ...",
         "source": "The Guardian",
         "category": "immigration"
       }
@@ -139,7 +139,7 @@
       {
         "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
         "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-        "description": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+        "description": "Pennsylvania and neighbouring states remained badly affected on Friday after both coasts were lashed with wind and rain.",
         "source": "BBC News",
         "category": "climate"
       }
@@ -192,23 +192,23 @@
     ],
     "foreign_policy": [
       {
-        "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-        "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-        "description": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+        "title": "Argentina's bid to stop Falklands oil drilling rejected",
+        "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+        "description": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-        "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+        "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+        "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+        "description": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
         "source": "BBC News",
         "category": "foreign_policy"
       },
       {
-        "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-        "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
-        "description": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+        "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+        "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+        "description": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
