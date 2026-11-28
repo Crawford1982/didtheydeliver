@@ -1,32 +1,32 @@
 {
-  "fetched_at": "2026-11-27T16:10:41.047398+00:00",
+  "fetched_at": "2026-11-28T01:06:17.029637+00:00",
   "headlines": {
     "government": [
       {
-        "title": "UK pensions department hit by ‘serious cyber incident’, minister says – UK politics live",
-        "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
-        "description": "Pat McFadden says the government doesn’t believe any personal data has been compromisedTell us: have you been affected by the DWP ‘cyber incident’According to Downdetector, which tracks online serv...",
-        "source": "The Guardian",
-        "category": "government"
-      },
-      {
         "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
         "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
-        "description": "Department for Work and Pensions officials say welfare payments will continue to be made despite huge outageTell us: have you been affected by the DWP ‘cyber incident’Almost all pensions and benefi...",
+        "description": "Department for Work and Pensions urges people to be alert to scams related to outage and contact helpline with urgent difficultiesTell us: have you been affected by the DWP ‘cyber incident’Benefits...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "A third of rough sleepers offered bed or support after Burnham Christmas vow",
-        "url": "https://www.theguardian.com/society/2026/nov/27/third-rough-sleepers-offered-bed-support-burnham-christmas-vow",
-        "description": "Campaigners accuse ministers of hiding how many offers were turned down as PM hails ‘early progress’UK politics live – latest updatesJust over a third of rough sleepers have been offered a bed or s...",
+        "title": "Labour row over Rosebank deepens as dozens of MPs warn PM not to block oilfield",
+        "url": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
+        "description": "Warning of ‘lights out for Labour in Scotland’ as Burnham faces choice between warring factions over North Sea drilling projectDozens of Labour MPs in favour of Rosebank are putting pressure on the...",
         "source": "The Guardian",
         "category": "government"
       },
       {
-        "title": "Tory candidates must sign pledge to scrap net-zero targets, says Badenoch",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy95295835o?at_medium=RSS&at_campaign=rss",
-        "description": "The Tory leader says her \"candidates covenant\" would build trust in the party, but some ex-MPs have criticised the move.",
+        "title": "UK pensions department hit by ‘serious cyber incident’, minister says – as it happened",
+        "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+        "description": "This blog is now closed, you can read more on this story hereAccording to Downdetector, which tracks online service outages, reports of problems with the government website appeared to begin last n...",
+        "source": "The Guardian",
+        "category": "government"
+      },
+      {
+        "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
+        "description": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
         "source": "BBC News",
         "category": "government"
       }
@@ -35,7 +35,7 @@
       {
         "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
         "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
-        "description": "In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat RepublicansDonald Trump has alleged without evidence that economic figures published by the US feder...",
+        "description": "In a bitter Thanksgiving post, president seeks investigation after blue wave of Democrats unseated RepublicansDonald Trump has alleged without evidence that economic figures published by the US fed...",
         "source": "The Guardian",
         "category": "economy"
       },
@@ -63,9 +63,9 @@
     ],
     "nhs": [
       {
-        "title": "Hospitals in England brace for flu spike with admissions highest for time of year since pre-Covid",
-        "url": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
-        "description": "NHS chief says hospital bosses should consider asking staff and visitors to wear masks as winter pressures buildHospitals are bracing for a “horrible spike” in flu in the coming days as winter star...",
+        "title": "Psychosomatic illness diagnoses must be handled with great care | Letters",
+        "url": "https://www.theguardian.com/society/2026/nov/27/psychosomatic-illness-diagnoses-must-be-handled-with-great-care",
+        "description": "Willemina Rietsema, a GP, says no explanation doesn’t mean no physical illness, it just means we haven’t found one (yet). Carrie Eckersley thinks we need to consider the wider context in which symp...",
         "source": "The Guardian",
         "category": "nhs"
       },
@@ -77,16 +77,16 @@
         "category": "nhs"
       },
       {
-        "title": "Palantir has created bespoke tech solutions for the NHS | Letter",
-        "url": "https://www.theguardian.com/technology/2026/nov/26/palantir-has-created-bespoke-tech-solutions-for-the-nhs",
-        "description": "Stephen Childs responds to a letter that said the US software firm was not the right fit for Britain’s health serviceProf Caroline Mitchell is right that US systems designed for an insurance market...",
+        "title": "Hospitals in England brace for flu spike with admissions highest for time of year since pre-Covid",
+        "url": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
+        "description": "NHS chief says hospital bosses should consider asking staff and visitors to wear masks as winter pressures buildHospitals are bracing for a “horrible spike” in flu in the coming days as winter star...",
         "source": "The Guardian",
         "category": "nhs"
       },
       {
-        "title": "What's behind the surge in severe flu cases?",
-        "url": "https://www.bbc.co.uk/news/videos/cwq6e8pez0j7o?at_medium=RSS&at_campaign=rss",
-        "description": "A surge in severe cases of flu has prompted health officials in England to urge those most at risk to get vaccinated as soon as possible.",
+        "title": "Should I get a flu vaccine now?",
+        "url": "https://www.bbc.co.uk/news/articles/cq8e018jyjngo?at_medium=RSS&at_campaign=rss",
+        "description": "Amid a surge in influenza, health officials are urging people to get a vaccine - but what if you're young and healthy?",
         "source": "BBC News",
         "category": "nhs"
       }
@@ -137,14 +137,21 @@
         "category": "climate"
       },
       {
-        "title": "'Can't control the weather': Sadness as Macy's Thanksgiving parade postponed",
-        "url": "https://www.bbc.co.uk/news/videos/cmx29qd8ew4xo?at_medium=RSS&at_campaign=rss",
-        "description": "Macy's postpones its 100th annual Thanksgiving Day Parade in New York because of severe weather.",
+        "title": "Hundreds of thousands still without power a day after US slammed with Thanksgiving storms",
+        "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+        "description": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
         "source": "BBC News",
         "category": "climate"
       }
     ],
     "education": [
+      {
+        "title": "Schools in England must set aside time for pupils to read for pleasure",
+        "url": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
+        "description": "Education secretary expected to announce measures as part of proposed reforms to national curriculumSchools in England will have to allocate time for children to read for pleasure as part of Labour...",
+        "source": "The Guardian",
+        "category": "education"
+      },
       {
         "title": "Children in overcrowded homes get poorer GCSE results, study finds",
         "url": "https://www.theguardian.com/education/2026/nov/26/children-overcrowded-homes-gcse-results-study",
@@ -156,13 +163,6 @@
         "title": "Indian Cockroach movement leader asks court for permission to fly to UK",
         "url": "https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk",
         "description": "Officials at Delhi airport stopped Saurav Das from boarding flight to Britain, where students have invited him to speak A leader of India’s youth-led Cockroach movement has asked the Delhi high cou...",
-        "source": "The Guardian",
-        "category": "education"
-      },
-      {
-        "title": "Southport attack families’ fury after 13 survivors miss out on school funding",
-        "url": "https://www.theguardian.com/uk-news/2026/nov/24/southport-attack-survivors-miss-out-on-school-funding",
-        "description": "Six schools attended by girls injured in mass stabbing miss out on £1m allocated for staff, counselling and specialist supportFamilies of girls injured in the Southport attack have said they are “h...",
         "source": "The Guardian",
         "category": "education"
       }
@@ -192,6 +192,13 @@
     ],
     "foreign_policy": [
       {
+        "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+        "description": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+        "source": "BBC News",
+        "category": "foreign_policy"
+      },
+      {
         "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
         "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
         "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
@@ -199,16 +206,9 @@
         "category": "foreign_policy"
       },
       {
-        "title": "John Simpson: Ukraine is bowed but still unbroken as freezing weather sets in",
+        "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
         "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
         "description": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-        "source": "BBC News",
-        "category": "foreign_policy"
-      },
-      {
-        "title": "Marching bands scramble to cover costs after Thanksgiving parade rearranged",
-        "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
-        "description": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
         "source": "BBC News",
         "category": "foreign_policy"
       }
